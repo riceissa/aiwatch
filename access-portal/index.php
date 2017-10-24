@@ -18,6 +18,25 @@ if ($_REQUEST['researcher']) {
 
 Welcome!
 
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Number of organizations</th>
+    </tr>
+  </thead>
+<?php
+  if ($stmt = $mysqli->prepare("select researcher,count(distinct organization) as numOrgs from positions group by researcher order by count(distinct organization) desc")) {
+    $stmt->execute();
+    $result = $stmt->get_result();
+  }
+  while ($row = $result->fetch_assoc()) { ?>
+    <tr>
+      <td><a href="/?researcher=<?= urlencode($row['researcher']) ?>"><?= $row['researcher'] ?></a></td>
+      <td><?= $row['numOrgs'] ?></td>
+    </tr>
+<?php } ?>
+
 <?php } ?>
 </body>
 </html>
