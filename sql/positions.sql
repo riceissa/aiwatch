@@ -118,7 +118,7 @@ insert into positions(researcher, organization, title, start_date, start_date_pr
     ,('Noah D. Goodman','Stanford University',NULL,NULL,NULL,NULL,NULL,'https://stuhlmueller.org/papers/preferences-aaai2016.pdf',NULL)
     ,('Laurent Orseau','AgroParisTech',NULL,NULL,NULL,NULL,NULL,'http://agi-conference.org/2012/wp-content/uploads/2012/12/paper_76.pdf',NULL)
     ,('Laurent Orseau','INRA',NULL,NULL,NULL,NULL,NULL,'http://agi-conference.org/2012/wp-content/uploads/2012/12/paper_76.pdf',NULL)
-    ,('Mark Ring','IDSIA',NULL,NULL,NULL,NULL,NULL,'http://agi-conference.org/2012/wp-content/uploads/2012/12/paper_76.pdf',NULL)
+    ,('Mark Ring','IDSIA',NULL,NULL,NULL,NULL,NULL,'http://agi-conference.org/2012/wp-content/uploads/2012/12/paper_76.pdf http://people.idsia.ch/~ring/',NULL)
     ,('Mark Ring','University of Lugano',NULL,NULL,NULL,NULL,NULL,'http://agi-conference.org/2012/wp-content/uploads/2012/12/paper_76.pdf',NULL)
     ,('Mark Ring','SUPSI',NULL,NULL,NULL,NULL,NULL,'http://agi-conference.org/2012/wp-content/uploads/2012/12/paper_76.pdf',NULL)
 ;
