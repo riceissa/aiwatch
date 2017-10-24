@@ -37,4 +37,13 @@ insert into positions(researcher, organization, title, start_date, start_date_pr
     ,('Jonathan Ho','OpenAI','Intern','2016-03-31','year',NULL,NULL,'https://blog.openai.com/team-plus-plus/ https://web.archive.org/web/20171024174215/https://blog.openai.com/team-plus-plus/',NULL)
     ,('Rein Houthooft','OpenAI','Intern','2016-03-31','year',NULL,NULL,'https://blog.openai.com/team-plus-plus/ https://web.archive.org/web/20171024174215/https://blog.openai.com/team-plus-plus/',NULL)
     ,('Eric Price','OpenAI','Intern','2016-03-31','year',NULL,NULL,'https://blog.openai.com/team-plus-plus/ https://web.archive.org/web/20171024174215/https://blog.openai.com/team-plus-plus/',NULL)
+    ,('Pieter Abbeel','OpenAI','Research Scientist','2016-01-01','year',NULL,NULL,'http://people.eecs.berkeley.edu/~pabbeel/',NULL)
+    ,('Marcin Andrychowicz','OpenAI',NULL,'2016-05-25','year',NULL,NULL,'https://blog.openai.com/team-update/ https://web.archive.org/web/20171024175425/https://blog.openai.com/team-update/',NULL)
+    ,('Rafał Józefowicz','OpenAI',NULL,'2016-05-25','year',NULL,NULL,'https://blog.openai.com/team-update/ https://web.archive.org/web/20171024175425/https://blog.openai.com/team-update/',NULL)
+    ,('Kate Miltenberger','OpenAI',NULL,'2016-05-25','year',NULL,NULL,'https://blog.openai.com/team-update/ https://web.archive.org/web/20171024175425/https://blog.openai.com/team-update/',NULL)
+    ,('Ludwig Pettersson','OpenAI',NULL,'2016-05-25','year',NULL,NULL,'https://blog.openai.com/team-update/ https://web.archive.org/web/20171024175425/https://blog.openai.com/team-update/',NULL)
+    ,('Jonas Schneider','OpenAI',NULL,'2016-05-25','year',NULL,NULL,'https://blog.openai.com/team-update/ https://web.archive.org/web/20171024175425/https://blog.openai.com/team-update/',NULL)
+    ,('Jie Tang','OpenAI',NULL,'2016-05-25','year',NULL,NULL,'https://blog.openai.com/team-update/ https://web.archive.org/web/20171024175425/https://blog.openai.com/team-update/',NULL)
+    ,('Prafulla Dhariwal','OpenAI','Intern','2016-05-25','year',NULL,NULL,'https://blog.openai.com/team-update/ https://web.archive.org/web/20171024175425/https://blog.openai.com/team-update/',NULL)
+    ,('Paul Christiano','OpenAI','Intern','2016-05-25','year',NULL,NULL,'https://blog.openai.com/team-update/ https://web.archive.org/web/20171024175425/https://blog.openai.com/team-update/',NULL)
 ;
