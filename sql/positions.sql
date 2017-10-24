@@ -111,5 +111,9 @@ insert into positions(researcher, organization, title, start_date, start_date_pr
     ,('Neal Jean','Future of Humanity Institute','Research Assistant in Machine Learning','2017-07-03','year',NULL,NULL,'https://www.fhi.ox.ac.uk/quarterly-update-summer-2017/ https://www.fhi.ox.ac.uk/team/neal-jean/ http://nealjean.com/',NULL)
     ,('Vipul Naik','Machine Intelligence Research Institute',NULL,'2014-01-15','day','2014-08-01','month','https://vipulnaik.com/miri/',NULL)
     ,('Laurent Orseau','Google DeepMind','Research Scientist',NULL,NULL,NULL,NULL,'https://intelligence.org/2016/06/01/new-paper-safely-interruptible-agents/ http://auai.org/uai2016/proceedings/papers/68.pdf https://motherboard.vice.com/en_us/article/bmv7x5/google-researchers-have-come-up-with-an-ai-kill-switch http://www.bbc.com/news/technology-36472140 https://www.fhi.ox.ac.uk/deepmind-collaboration/',NULL)
-    ,('Andreas Stuhlmüller','Stanford University',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1707.05173.pdf',NULL)
+    ,('Andreas Stuhlmüller','Stanford University',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1707.05173.pdf https://stuhlmueller.org/papers/preferences-aaai2016.pdf',NULL)
+    ,('Tor Lattimore','University of Alberta',NULL,NULL,NULL,NULL,NULL,'http://auai.org/uai2016/proceedings/papers/20.pdf',NULL)
+    ,('Marcus Hutter','Australian National University',NULL,NULL,NULL,NULL,NULL,'http://auai.org/uai2016/proceedings/papers/20.pdf',NULL)
+    ,('Jan Leike','Australian National University',NULL,NULL,NULL,NULL,NULL,'http://auai.org/uai2016/proceedings/papers/20.pdf',NULL)
+    ,('Noah D. Goodman','Stanford University',NULL,NULL,NULL,NULL,NULL,'https://stuhlmueller.org/papers/preferences-aaai2016.pdf',NULL)
 ;
