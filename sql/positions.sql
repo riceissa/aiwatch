@@ -103,4 +103,7 @@ insert into positions(researcher, organization, title, start_date, start_date_pr
     ,('Andrew Snyder-Beattie','Future of Humanity Institute','Academic Project Manager','2013-11-01','month','2015-12-01','month','https://www.fhi.ox.ac.uk/about/the-team/ https://www.fhi.ox.ac.uk/team/andrew-snyder-beattie/ https://www.fhi.ox.ac.uk/wp-content/uploads/Andrew-Snyder-Beattie.pdf',NULL)
     ,('Ben Garfinkel','Future of Humanity Institute','Visiting Researcher',NULL,NULL,NULL,NULL,'https://www.fhi.ox.ac.uk/about/the-team/ https://www.fhi.ox.ac.uk/team/ben-garfinkel-bio/',NULL)
     ,('Chelsea Guo','Future of Humanity Institute','Intern in Governance of AI Program',NULL,NULL,NULL,NULL,'https://www.fhi.ox.ac.uk/about/the-team/ https://www.fhi.ox.ac.uk/team/chelsea-guo/',NULL)
+    ,('Daniel Dewey','Future of Humanity Institute','Research Associate',NULL,NULL,NULL,NULL,'https://www.fhi.ox.ac.uk/fhi-alumni/',NULL)
+    ,('Vincent C. Müller','Future of Humanity Institute','Research Fellow',NULL,NULL,NULL,NULL,'https://www.fhi.ox.ac.uk/fhi-alumni/ http://www.sophia.de/activities.htm',NULL)
+    ,('Cecilia Tilli','Future of Humanity Institute','Academic Project Manager',NULL,NULL,NULL,NULL,'https://www.fhi.ox.ac.uk/fhi-alumni/',NULL)
 ;
