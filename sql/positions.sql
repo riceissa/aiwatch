@@ -70,7 +70,7 @@ insert into positions(researcher, organization, title, start_date, start_date_pr
     ,('Ankur Handa','OpenAI',NULL,'2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL)
     ,('Bob McGrew','OpenAI',NULL,'2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL)
     ,('Christopher Berner','OpenAI',NULL,'2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL)
-    ,('Erika Reinhardt','OpenAI',NULL,'2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL)
+    ,('Erika Reinhardt','OpenAI','Engineering Director','2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL)
     ,('Jakub Pachocki','OpenAI',NULL,'2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL)
     ,('Jeremy Schlatter','OpenAI',NULL,'2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL)
     ,('Jonathan Gray','OpenAI',NULL,'2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL)
