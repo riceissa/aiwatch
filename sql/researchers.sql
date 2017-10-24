@@ -15,4 +15,5 @@ insert into researchers(researcher, country, facebook_username, github_username,
     ('Andrej Karpathy',NULL,NULL,'karpathy',NULL,'http://cs.stanford.edu/people/karpathy/','http://cs.stanford.edu/people/karpathy/ https://karpathy.github.io/',NULL)
     ,('Eliezer Yudkowsky','United States','yudkowsky',NULL,NULL,'http://yudkowsky.net/','http://yudkowsky.net/ https://intelligence.org/team/',NULL)
     ,('Paul Christiano','United States',NULL,'paulfchristiano',NULL,'https://paulfchristiano.com','https://paulfchristiano.com/ai/',NULL)
+    ,('Andreas Stuhlmüller',NULL,NULL,'stuhlmueller','stuhlmueller','https://stuhlmueller.org/','https://arxiv.org/pdf/1707.05173.pdf',NULL)
 ;
