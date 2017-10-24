@@ -25,4 +25,5 @@ insert into positions(researcher, organization, title, start_date, start_date_pr
     ,('Nate Soares','Machine Intelligence Research Institute','Research Associate',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20140209055438/http://intelligence.org/team/',NULL)
     ,('Kaj Sotala','Machine Intelligence Research Institute','Research Associate',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20140209055438/http://intelligence.org/team/',NULL)
     ,('Nisan Stiennon','Machine Intelligence Research Institute','Research Associate',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20140209055438/http://intelligence.org/team/',NULL)
+    ,('Paul Christiano','OpenAI',NULL,'2017-01-01','month',NULL,NULL,'https://paulfchristiano.com/ai/ https://archive.is/Tcqbl','The description given is "working on alignment"')
 ;

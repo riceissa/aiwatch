@@ -14,4 +14,5 @@ create table researchers(
 insert into researchers(researcher, country, facebook_username, github_username, linkedin_username, website, urls, notes) values
     ('Andrej Karpathy',NULL,NULL,'karpathy',NULL,'http://cs.stanford.edu/people/karpathy/','http://cs.stanford.edu/people/karpathy/ https://karpathy.github.io/',NULL)
     ,('Eliezer Yudkowsky','United States','yudkowsky',NULL,NULL,'http://yudkowsky.net/','http://yudkowsky.net/ https://intelligence.org/team/',NULL)
+    ,('Paul Christiano','United States',NULL,'paulfchristiano',NULL,'https://paulfchristiano.com','https://paulfchristiano.com/ai/',NULL)
 ;
