@@ -107,6 +107,6 @@ insert into positions(researcher, organization, title, start_date, start_date_pr
     ,('Vincent C. Müller','Future of Humanity Institute','Research Fellow',NULL,NULL,NULL,NULL,'https://www.fhi.ox.ac.uk/fhi-alumni/ http://www.sophia.de/activities.htm',NULL)
     ,('Cecilia Tilli','Future of Humanity Institute','Academic Project Manager',NULL,NULL,NULL,NULL,'https://www.fhi.ox.ac.uk/fhi-alumni/',NULL)
     ,('William Saunders','Future of Humanity Institute','AI Safety Research Intern','2017-07-03','year',NULL,NULL,'https://www.fhi.ox.ac.uk/team/william-saunders/ https://www.fhi.ox.ac.uk/quarterly-update-summer-2017/',NULL)
-    ,('Girish Sastry','Future of Humanity Institute','Intern','2017-07-03','year',NULL,NULL,'https://www.fhi.ox.ac.uk/quarterly-update-summer-2017/',NULL)
-    ,('Neal Jean','Future of Humanity Institute','Intern','2017-07-03','year',NULL,NULL,'https://www.fhi.ox.ac.uk/quarterly-update-summer-2017/',NULL)
+    ,('Girish Sastry','Future of Humanity Institute','Visiting Researcher in Machine Learning','2017-07-03','year',NULL,NULL,'https://www.fhi.ox.ac.uk/quarterly-update-summer-2017/ https://www.fhi.ox.ac.uk/team/girish-sastry/',NULL)
+    ,('Neal Jean','Future of Humanity Institute','Research Assistant in Machine Learning','2017-07-03','year',NULL,NULL,'https://www.fhi.ox.ac.uk/quarterly-update-summer-2017/ https://www.fhi.ox.ac.uk/team/neal-jean/ http://nealjean.com/',NULL)
 ;
