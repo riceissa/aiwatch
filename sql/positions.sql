@@ -46,4 +46,8 @@ insert into positions(researcher, organization, title, start_date, start_date_pr
     ,('Jie Tang','OpenAI',NULL,'2016-05-25','year',NULL,NULL,'https://blog.openai.com/team-update/ https://web.archive.org/web/20171024175425/https://blog.openai.com/team-update/',NULL)
     ,('Prafulla Dhariwal','OpenAI','Intern','2016-05-25','year',NULL,NULL,'https://blog.openai.com/team-update/ https://web.archive.org/web/20171024175425/https://blog.openai.com/team-update/',NULL)
     ,('Paul Christiano','OpenAI','Intern','2016-05-25','year',NULL,NULL,'https://blog.openai.com/team-update/ https://web.archive.org/web/20171024175425/https://blog.openai.com/team-update/',NULL)
+    ,('Dario Amodei','OpenAI','Team Lead for AI Safety','2016-07-01','month',NULL,NULL,'https://www.linkedin.com/in/dario-amodei-3934934/ https://www.crunchbase.com/person/dario-amodei','Description says "working on a combination of reinforcement learning, imitation learning, and AI safety".')
+    ,('Ilya Sutskever','OpenAI','Co-Founder and Research Director','2016-01-01','month',NULL,NULL,'https://www.linkedin.com/in/ilya-sutskever-45978618/ http://www.cs.toronto.edu/~ilya/ https://en.wikipedia.org/wiki/Ilya_Sutskever',NULL)
+    ,('Durk Kingma','OpenAI','Machine Learning Research Scientist','2015-12-01','month',NULL,NULL,'https://www.linkedin.com/in/durk-kingma-58b3564/ http://dpkingma.com/ https://web.archive.org/web/20171024182419/http://dpkingma.com/',NULL)
+    ,('Greg Brockman','OpenAI','Co-Founder and CTO','2015-12-01','month',NULL,NULL,'https://gregbrockman.com/ https://www.technologyreview.com/lists/innovators-under-35/2017/visionary/greg-brockman/ https://blog.gregbrockman.com/define-cto-openai',NULL)
 ;
