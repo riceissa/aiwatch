@@ -54,5 +54,5 @@ insert into positions(researcher, organization, title, start_date, start_date_pr
     ,('John Schulman','OpenAI','Research Scientist','2015-12-01','month',NULL,NULL,'http://joschu.net/ https://blog.openai.com/introducing-openai/',NULL)
     ,('Trevor Blackwell','OpenAI',NULL,'2015-12-01','month',NULL,NULL,'https://blog.openai.com/introducing-openai/',NULL)
     ,('Vicki Cheung','OpenAI',NULL,'2015-12-01','month',NULL,NULL,'https://blog.openai.com/introducing-openai/',NULL)
-    ,('Pamela Vagata','OpenAI',NULL,'2015-12-01','month',NULL,NULL'https://blog.openai.com/introducing-openai/',NULL)
+    ,('Pamela Vagata','OpenAI',NULL,'2015-12-01','month',NULL,NULL,'https://blog.openai.com/introducing-openai/',NULL)
 ;
