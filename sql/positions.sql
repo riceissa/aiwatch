@@ -50,4 +50,9 @@ insert into positions(researcher, organization, title, start_date, start_date_pr
     ,('Ilya Sutskever','OpenAI','Co-Founder and Research Director','2016-01-01','month',NULL,NULL,'https://www.linkedin.com/in/ilya-sutskever-45978618/ http://www.cs.toronto.edu/~ilya/ https://en.wikipedia.org/wiki/Ilya_Sutskever',NULL)
     ,('Durk Kingma','OpenAI','Machine Learning Research Scientist','2015-12-01','month',NULL,NULL,'https://www.linkedin.com/in/durk-kingma-58b3564/ http://dpkingma.com/ https://web.archive.org/web/20171024182419/http://dpkingma.com/',NULL)
     ,('Greg Brockman','OpenAI','Co-Founder and CTO','2015-12-01','month',NULL,NULL,'https://gregbrockman.com/ https://www.technologyreview.com/lists/innovators-under-35/2017/visionary/greg-brockman/ https://blog.gregbrockman.com/define-cto-openai',NULL)
+    ,('Wojciech Zaremba','OpenAI','Head of Robotics research','2015-12-01','month',NULL,NULL,'https://en.wikipedia.org/wiki/Wojciech_Zaremba http://wojzaremba.com/',NULL)
+    ,('John Schulman','OpenAI','Research Scientist','2015-12-01','month',NULL,NULL,'http://joschu.net/ https://blog.openai.com/introducing-openai/',NULL)
+    ,('Trevor Blackwell','OpenAI',NULL,'2015-12-01','month',NULL,NULL,'https://blog.openai.com/introducing-openai/',NULL)
+    ,('Vicki Cheung','OpenAI',NULL,'2015-12-01','month',NULL,NULL,'https://blog.openai.com/introducing-openai/',NULL)
+    ,('Pamela Vagata','OpenAI',NULL,'2015-12-01','month',NULL,NULL'https://blog.openai.com/introducing-openai/',NULL)
 ;
