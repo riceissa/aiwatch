@@ -109,4 +109,5 @@ insert into positions(researcher, organization, title, start_date, start_date_pr
     ,('William Saunders','Future of Humanity Institute','AI Safety Research Intern','2017-07-03','year',NULL,NULL,'https://www.fhi.ox.ac.uk/team/william-saunders/ https://www.fhi.ox.ac.uk/quarterly-update-summer-2017/',NULL)
     ,('Girish Sastry','Future of Humanity Institute','Visiting Researcher in Machine Learning','2017-07-03','year',NULL,NULL,'https://www.fhi.ox.ac.uk/quarterly-update-summer-2017/ https://www.fhi.ox.ac.uk/team/girish-sastry/',NULL)
     ,('Neal Jean','Future of Humanity Institute','Research Assistant in Machine Learning','2017-07-03','year',NULL,NULL,'https://www.fhi.ox.ac.uk/quarterly-update-summer-2017/ https://www.fhi.ox.ac.uk/team/neal-jean/ http://nealjean.com/',NULL)
+    ,('Vipul Naik','Machine Intelligence Research Institute',NULL,'2014-01-15','day','2014-08-01','month','https://vipulnaik.com/miri/',NULL)
 ;
