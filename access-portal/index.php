@@ -26,6 +26,7 @@ if ($_REQUEST['researcher']) {
     <tr>
       <th>Name</th>
       <th>Number of organizations</th>
+      <th>List of organizations</th>
     </tr>
   </thead>
 <?php
