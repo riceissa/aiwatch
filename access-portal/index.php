@@ -29,7 +29,7 @@ if ($_REQUEST['researcher']) {
     </tr>
   </thead>
 <?php
-  if ($stmt = $mysqli->prepare("select researcher,count(distinct organization) as numOrgs from positions group by researcher order by count(distinct organization) desc")) {
+  if ($stmt = $mysqli->prepare("select researcher,group_concat(distinct organization SEPARATOR '|') as orgs,count(distinct organization) as numOrgs from positions group by researcher order by count(distinct organization) desc")) {
     $stmt->execute();
     $result = $stmt->get_result();
   }
@@ -37,6 +37,16 @@ if ($_REQUEST['researcher']) {
     <tr>
       <td><a href="/index.php?researcher=<?= urlencode($row['researcher']) ?>"><?= $row['researcher'] ?></a></td>
       <td><?= $row['numOrgs'] ?></td>
+      <td><?php
+            $orglist = explode('|', $row['orgs']);
+            $res = array();
+            foreach($orglist as $org) {
+              array_push(
+                $res,
+                '<a href="/index.php?organization=' . urlencode($org) . '">' . $org . '</a>'
+              );
+            }
+            echo implode(", ", $res); ?></td>
     </tr>
 <?php } ?>
 
