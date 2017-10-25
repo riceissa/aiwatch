@@ -7,9 +7,9 @@ function url_format($urls_string) {
   $result = "";
   for ($i = 0; $i < count($urls); $i++) {
     if ($i === 0) {
-      $result .= '<a href="' . $urls[$i] . '">' . ($i+1) . '</a>';
+      $result .= '<a href="' . $urls[$i] . '">[' . ($i+1) . ']</a>';
     } else {
-      $result .= ', <a href="' . $urls[$i] . '">' . ($i+1) . '</a>';
+      $result .= ', <a href="' . $urls[$i] . '">[' . ($i+1) . ']</a>';
     }
   }
   return $result;
