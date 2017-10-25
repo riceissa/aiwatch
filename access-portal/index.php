@@ -6,6 +6,9 @@
   <title>AI Watch</title>
 </head>
 <body>
+<nav>
+<a href="/index.php">Home</a>
+</nav>
 <?php
 include_once("backend/globalVariables/passwordFile.inc");
 include_once("backend/util.inc");
@@ -16,7 +19,7 @@ if ($_REQUEST['researcher']) {
 } else { // Main index.php with no parameters
 ?>
 
-Welcome!
+<p>Welcome! See the <a href="https://github.com/riceissa/aiwatch">code repository</a> for the source code and data of this website.</p>
 
 <table>
   <thead>
