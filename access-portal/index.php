@@ -35,7 +35,7 @@ if ($_REQUEST['researcher']) {
   }
   while ($row = $result->fetch_assoc()) { ?>
     <tr>
-      <td><a href="/?researcher=<?= urlencode($row['researcher']) ?>"><?= $row['researcher'] ?></a></td>
+      <td><a href="/index.php?researcher=<?= urlencode($row['researcher']) ?>"><?= $row['researcher'] ?></a></td>
       <td><?= $row['numOrgs'] ?></td>
     </tr>
 <?php } ?>
