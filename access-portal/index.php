@@ -4,6 +4,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
   <title>AI Watch</title>
+  <link rel="stylesheet" href="/tablesorter.css">
+  <script src="/jquery.min.js"></script>
+  <script src="/jquery.tablesorter.js"></script>
 <?php include_once("style.inc"); ?>
 </head>
 <body>
@@ -53,6 +56,10 @@ if ($_REQUEST['researcher']) {
 <?php } ?>
 
 <?php } ?>
+
+<script>
+    $(function(){$("table").tablesorter();});
+</script>
 </body>
 </html>
 
