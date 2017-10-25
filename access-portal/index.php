@@ -14,7 +14,7 @@ include_once("backend/globalVariables/passwordFile.inc");
 include_once("backend/util.inc");
 if ($_REQUEST['researcher']) {
   include("backend/researcher.inc");
-} else if ($REQUEST['organization']) {
+} else if ($_REQUEST['organization']) {
   include("backend/organization.inc");
 } else { // Main index.php with no parameters
 ?>
