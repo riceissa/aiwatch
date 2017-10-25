@@ -8,6 +8,7 @@
   <script src="/jquery.min.js"></script>
   <script src="/jquery.tablesorter.js"></script>
 <?php include_once("style.inc"); ?>
+<?php include_once("analytics.inc"); ?>
 </head>
 <body>
 <nav>
