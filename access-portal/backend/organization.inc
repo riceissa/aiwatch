@@ -31,7 +31,7 @@ if ($stmt = $mysqli->prepare("select * from positions where organization = ?")) 
 
 while ($row = $result->fetch_assoc()) { ?>
   <tr>
-    <td><?= $row['researcher'] ?? '' ?></td>
+    <td><a href="/index.php?researcher=<?= $row['researcher'] ?? '' ?>"><?= $row['researcher'] ?? '' ?></a></td>
     <td><?= $row['title'] ?? '' ?></td>
     <td><?= $row['start_date'] ?? '' ?></td>
     <td><?= $row['end_date'] ?? '' ?></td>
