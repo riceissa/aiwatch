@@ -5,8 +5,30 @@ create table positions(
     title varchar(100),
     start_date date,
     start_date_precision enum('day','month','year','multi-year'),
+    # Of the known dates on which the researcher was doing something else
+    # besides the current position prior to the current position, this is the
+    # latest one. This allows us to guess at the start_date from the "past"
+    # direction. It works like
+    #     sup{t : t is before position}
+    start_date_lower_guess date,
+    # Of the known dates on which the position was held, this is the earliest
+    # one. This allows us to guess at the start_date from the "future"
+    # direction. It works like
+    #     inf{t : position held at time t}
+    start_date_upper_guess date,
     end_date date,
     end_date_precision enum('day','month','year','multi-year'),
+    # Of the known dates on which the position was held, this is the latest
+    # one. This allows us to guess at the end_date from the "past" direction.
+    # It works like
+    #     sup{t : position held at time t}
+    end_date_lower_guess date,
+    # Of the known dates on which the researcher was doing something else
+    # besides the current position after the current position, this is the
+    # earliest one. This allows us to guess at the end_date from the "future"
+    # direction. It works like
+    #     inf{t : t is after position}
+    end_date_upper_guess date,
     urls varchar(2000),
     notes varchar(2000) default null
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
