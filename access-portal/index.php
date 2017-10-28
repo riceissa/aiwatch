@@ -54,7 +54,7 @@ if ($_REQUEST['person'] ?? '') {
   while ($row = $result->fetch_assoc()) { ?>
     <tr>
       <td><a href="/index.php?person=<?= urlencode($row['person']) ?>"><?= $row['person'] ?></a></td>
-      <td><?= $row['numOrgs'] ?></td>
+      <td style="text-align: right;"><?= $row['numOrgs'] ?></td>
       <td><?php
             $orglist = explode('|', $row['orgs']);
             $res = array();
