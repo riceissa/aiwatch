@@ -22,7 +22,7 @@ if ($_REQUEST['person'] ?? '') {
 } else if ($_REQUEST['organization'] ?? '') {
   include("backend/organization.inc");
 } else { // Main index.php with no parameters
-  if ($stmt = $mysqli->prepare("select person,group_concat(distinct organization SEPARATOR '|') as orgs,count(distinct organization) as numOrgs from positions group by person order by count(distinct organization) desc")) {
+  if ($stmt = $mysqli->prepare("select person,group_concat(distinct organization order by organization SEPARATOR '|') as orgs,count(distinct organization) as numOrgs from positions group by person order by count(distinct organization) desc")) {
     $stmt->execute();
     $result = $stmt->get_result();
   }
