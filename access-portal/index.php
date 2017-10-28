@@ -17,9 +17,9 @@
 <?php
 include_once("backend/globalVariables/passwordFile.inc");
 include_once("backend/util.inc");
-if ($_REQUEST['person']) {
+if ($_REQUEST['person'] ?? '') {
   include("backend/person.inc");
-} else if ($_REQUEST['organization']) {
+} else if ($_REQUEST['organization'] ?? '') {
   include("backend/organization.inc");
 } else { // Main index.php with no parameters
   if ($stmt = $mysqli->prepare("select person,group_concat(distinct organization SEPARATOR '|') as orgs,count(distinct organization) as numOrgs from positions group by person order by count(distinct organization) desc")) {
