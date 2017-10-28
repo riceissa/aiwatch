@@ -22,7 +22,17 @@ if ($_REQUEST['person'] ?? '') {
 } else if ($_REQUEST['organization'] ?? '') {
   include("backend/organization.inc");
 } else { // Main index.php with no parameters
-  if ($stmt = $mysqli->prepare("select person,group_concat(distinct organization order by organization SEPARATOR '|') as orgs,count(distinct organization) as numOrgs from positions group by person order by count(distinct organization) desc")) {
+  $query = "select person,group_concat(distinct organization order by organization SEPARATOR '|') as orgs,count(distinct organization) as numOrgs from positions";
+  $param_str = "";
+  $params = array();
+  if ($_REQUEST['filter_title'] ?? '') {
+    $query .= " where title REGEXP ?";
+    $param_str .= "s";
+    array_push($params, $_REQUEST['filter_title']);
+  }
+  $query .= " group by person order by count(distinct organization) desc";
+  if ($stmt = $mysqli->prepare($query)) {
+    $stmt->bind_param($param_str, ...$params);
     $stmt->execute();
     $result = $stmt->get_result();
   }
