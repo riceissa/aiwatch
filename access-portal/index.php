@@ -22,9 +22,15 @@ if ($_REQUEST['researcher']) {
 } else if ($_REQUEST['organization']) {
   include("backend/organization.inc");
 } else { // Main index.php with no parameters
+  if ($stmt = $mysqli->prepare("select researcher,group_concat(distinct organization SEPARATOR '|') as orgs,count(distinct organization) as numOrgs from positions group by researcher order by count(distinct organization) desc")) {
+    $stmt->execute();
+    $result = $stmt->get_result();
+  }
 ?>
 
 <p>Welcome! See the <a href="https://github.com/riceissa/aiwatch">code repository</a> for the source code and data of this website.</p>
+
+<p>Showing <?= $mysqli->affected_rows ?> researchers.</p>
 
 <table>
   <thead>
@@ -35,10 +41,6 @@ if ($_REQUEST['researcher']) {
     </tr>
   </thead>
 <?php
-  if ($stmt = $mysqli->prepare("select researcher,group_concat(distinct organization SEPARATOR '|') as orgs,count(distinct organization) as numOrgs from positions group by researcher order by count(distinct organization) desc")) {
-    $stmt->execute();
-    $result = $stmt->get_result();
-  }
   while ($row = $result->fetch_assoc()) { ?>
     <tr>
       <td><a href="/index.php?researcher=<?= urlencode($row['researcher']) ?>"><?= $row['researcher'] ?></a></td>
