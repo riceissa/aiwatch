@@ -9,12 +9,12 @@ $seen = array();
 
 Coming soon.
 
-<h2>List of researchers</h2>
+<h2>List of people</h2>
 
 <table>
   <thead>
     <tr>
-      <th>Researcher</th>
+      <th>Person</th>
       <th>Title</th>
       <th>Start date</th>
       <th>End date</th>
@@ -32,7 +32,7 @@ if ($stmt = $mysqli->prepare("select * from positions where organization = ?")) 
 
 while ($row = $result->fetch_assoc()) { ?>
   <tr>
-    <td><a href="/index.php?researcher=<?= $row['researcher'] ?? '' ?>"><?= $row['researcher'] ?? '' ?></a></td>
+    <td><a href="/index.php?person=<?= $row['person'] ?? '' ?>"><?= $row['person'] ?? '' ?></a></td>
     <td><?= $row['title'] ?? '' ?></td>
     <td><?= $row['start_date'] ?? '' ?></td>
     <td><?= $row['end_date'] ?? '' ?></td>

@@ -1,9 +1,9 @@
 <?php
-$researcher = $_REQUEST['researcher'];
+$person = $_REQUEST['person'];
 $seen = array();
 ?>
 
-<h1>Information for <?= htmlspecialchars($researcher) ?></h1>
+<h1>Information for <?= htmlspecialchars($person) ?></h1>
 
 <h2>Basic information</h2>
 
@@ -17,8 +17,8 @@ $seen = array();
   <tbody>
 
 <?php
-if ($stmt = $mysqli->prepare("select * from researchers where researcher = ?")) {
-  $stmt->bind_param("s", $researcher);
+if ($stmt = $mysqli->prepare("select * from people where person = ?")) {
+  $stmt->bind_param("s", $person);
   $stmt->execute();
   $result = $stmt->get_result();
 }
@@ -65,8 +65,8 @@ while ($row = $result->fetch_assoc()) { ?>
   <tbody>
 
 <?php
-if ($stmt = $mysqli->prepare("select * from positions where researcher = ?")) {
-  $stmt->bind_param("s", $researcher);
+if ($stmt = $mysqli->prepare("select * from positions where person = ?")) {
+  $stmt->bind_param("s", $person);
   $stmt->execute();
   $result = $stmt->get_result();
 }

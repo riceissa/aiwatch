@@ -17,12 +17,12 @@
 <?php
 include_once("backend/globalVariables/passwordFile.inc");
 include_once("backend/util.inc");
-if ($_REQUEST['researcher']) {
-  include("backend/researcher.inc");
+if ($_REQUEST['person']) {
+  include("backend/person.inc");
 } else if ($_REQUEST['organization']) {
   include("backend/organization.inc");
 } else { // Main index.php with no parameters
-  if ($stmt = $mysqli->prepare("select researcher,group_concat(distinct organization SEPARATOR '|') as orgs,count(distinct organization) as numOrgs from positions group by researcher order by count(distinct organization) desc")) {
+  if ($stmt = $mysqli->prepare("select person,group_concat(distinct organization SEPARATOR '|') as orgs,count(distinct organization) as numOrgs from positions group by person order by count(distinct organization) desc")) {
     $stmt->execute();
     $result = $stmt->get_result();
   }
@@ -30,7 +30,7 @@ if ($_REQUEST['researcher']) {
 
 <p>Welcome! See the <a href="https://github.com/riceissa/aiwatch">code repository</a> for the source code and data of this website.</p>
 
-<p>Showing <?= $mysqli->affected_rows ?> researchers.</p>
+<p>Showing <?= $mysqli->affected_rows ?> people.</p>
 
 <table>
   <thead>
@@ -43,7 +43,7 @@ if ($_REQUEST['researcher']) {
 <?php
   while ($row = $result->fetch_assoc()) { ?>
     <tr>
-      <td><a href="/index.php?researcher=<?= urlencode($row['researcher']) ?>"><?= $row['researcher'] ?></a></td>
+      <td><a href="/index.php?person=<?= urlencode($row['person']) ?>"><?= $row['person'] ?></a></td>
       <td><?= $row['numOrgs'] ?></td>
       <td><?php
             $orglist = explode('|', $row['orgs']);
