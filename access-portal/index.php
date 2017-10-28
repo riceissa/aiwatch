@@ -22,13 +22,29 @@ if ($_REQUEST['person'] ?? '') {
 } else if ($_REQUEST['organization'] ?? '') {
   include("backend/organization.inc");
 } else { // Main index.php with no parameters
-  $query = "select person,group_concat(distinct organization order by organization SEPARATOR '|') as orgs,count(distinct organization) as numOrgs from positions";
+  $query = "select person,group_concat(distinct organization order by organization SEPARATOR '|') as orgs,count(distinct organization) as numOrgs from positions where true";
   $param_str = "";
   $params = array();
   if ($_REQUEST['filter_title'] ?? '') {
-    $query .= " where title REGEXP ?";
+    $query .= " and title REGEXP ?";
     $param_str .= "s";
     array_push($params, $_REQUEST['filter_title']);
+  }
+  if ($start_date = ($_REQUEST['start_date'] ?? '')) {
+    if ((substr($start_date, 0, 1) === '<') || (substr($start_date, 0, 1) === '>')) {
+      $relation = $start_date[0];
+      $query .= " and start_date $relation ?";
+      $param_str .= "s";
+      array_push($params, substr($start_date, 1));
+    }
+  }
+  if ($_REQUEST['end_date'] ?? '') {
+    if ((substr($end_date, 0, 1) === '<') || (substr($end_date, 0, 1) === '>')) {
+      $relation = $end_date[0];
+      $query .= " and end_date $relation ?";
+      $param_str .= "s";
+      array_push($params, substr($end_date, 1));
+    }
   }
   $query .= " group by person order by count(distinct organization) desc";
   if ($stmt = $mysqli->prepare($query)) {
