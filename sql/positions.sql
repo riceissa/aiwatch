@@ -293,4 +293,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Matthew Fallshaw','Machine Intelligence Research Institute','Board Director',NULL,NULL,NULL,NULL,'https://intelligence.org/team/',NULL)
     ,('Eliezer Yudkowsky','Machine Intelligence Research Institute','Board Director',NULL,NULL,NULL,NULL,'https://intelligence.org/team/',NULL)
     ,('Anna Salamon','Machine Intelligence Research Institute','Board Director',NULL,NULL,NULL,NULL,'https://intelligence.org/team/',NULL)
+    ,('Paul Christiano','Open Philanthropy Project','Technical advisor',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support',NULL)
+    ,('Jacob Steinhardt','Open Philanthropy Project','Technical advisor',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support',NULL)
+    ,('Christopher Olah','Open Philanthropy Project','Technical advisor',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support',NULL)
+    ,('Dario Amodei','Open Philanthropy Project','Technical advisor',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support',NULL)
 ;
