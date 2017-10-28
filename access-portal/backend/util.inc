@@ -1,16 +1,17 @@
 <?php
-function url_format($urls_string) {
+function url_format($urls_string, &$seen) {
   if (!$urls_string) {
     return null;
   }
   $urls = explode(" ", $urls_string);
   $result = "";
-  for ($i = 0; $i < count($urls); $i++) {
-    if ($i === 0) {
-      $result .= '<a href="' . $urls[$i] . '">[' . ($i+1) . ']</a>';
-    } else {
-      $result .= ', <a href="' . $urls[$i] . '">[' . ($i+1) . ']</a>';
+  $first = true;
+  foreach ($urls as $url) {
+    if (!array_key_exists($url, $seen)) {
+      $seen[$url] = count($seen) + 1;
     }
+    $result .= ($first ? '' : ', ') . '<a href="' . $url . '">[' . $seen[$url] . ']</a>';
+    $first = false;
   }
   return $result;
 }

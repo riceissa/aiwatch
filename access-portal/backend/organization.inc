@@ -1,5 +1,6 @@
 <?php
 $organization = $_REQUEST['organization'];
+$seen = array();
 ?>
 
 <h1>Information for <?= htmlspecialchars($organization) ?></h1>
@@ -35,7 +36,7 @@ while ($row = $result->fetch_assoc()) { ?>
     <td><?= $row['title'] ?? '' ?></td>
     <td><?= $row['start_date'] ?? '' ?></td>
     <td><?= $row['end_date'] ?? '' ?></td>
-    <td><?= url_format($row['urls']) ?? '' ?></td>
+    <td><?= url_format($row['urls'], $seen) ?? '' ?></td>
     <td><?= $row['notes'] ?? '' ?></td>
   </tr>
 <?php } ?>
