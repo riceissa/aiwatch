@@ -16,4 +16,6 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('Eliezer Yudkowsky','United States','yudkowsky',NULL,NULL,'http://yudkowsky.net/','http://yudkowsky.net/ https://intelligence.org/team/',NULL)
     ,('Paul Christiano','United States',NULL,'paulfchristiano',NULL,'https://paulfchristiano.com','https://paulfchristiano.com/ai/',NULL)
     ,('Andreas Stuhlmüller',NULL,NULL,'stuhlmueller','stuhlmueller','https://stuhlmueller.org/','https://arxiv.org/pdf/1707.05173.pdf',NULL)
+    ,('Wei Dai',NULL,'wei.dai.587',NULL,NULL,'http://www.weidai.com/','http://lesswrong.com/user/Wei_Dai/overview/ https://en.bitcoin.it/wiki/Wei_Dai',NULL)
+    ,('Toon Alfrink',NULL,'toon.alfrink',NULL,NULL,NULL,'https://wiki.lesswrong.com/wiki/Road_to_AI_Safety_Excellence http://lesswrong.com/user/toonalfrink/overview/ https://www.facebook.com/groups/1421511671230776/',NULL)
 ;
