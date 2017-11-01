@@ -75,6 +75,7 @@ if ($_REQUEST['person'] ?? '') {
       <th>List of organizations</th>
     </tr>
   </thead>
+  <tbody>
 <?php
   while ($row = $result->fetch_assoc()) {
     $seen_people[$row['person']] = 1;
@@ -107,6 +108,8 @@ if ($_REQUEST['person'] ?? '') {
     }
   }
 ?>
+  </tbody>
+</table>
 
 <?php } ?>
 
