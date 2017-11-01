@@ -336,4 +336,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Steph Zolayvar','Center for Applied Rationality','Adjunct Instructor',NULL,NULL,NULL,NULL,'http://rationality.org/about/team https://web.archive.org/web/20171101040709/http://rationality.org/about/team',NULL,NULL,'2017-10-31','2017-10-31',NULL)
     ,('Timothy Telleen-Lawton','Center for Applied Rationality','Adjunct Instructor',NULL,NULL,NULL,NULL,'http://rationality.org/about/team https://web.archive.org/web/20171101040709/http://rationality.org/about/team',NULL,NULL,'2017-10-31','2017-10-31',NULL)
     ,('Tsvi Benson-Tilsen','Center for Applied Rationality','Adjunct Instructor',NULL,NULL,NULL,NULL,'http://rationality.org/about/team https://web.archive.org/web/20171101040709/http://rationality.org/about/team',NULL,NULL,'2017-10-31','2017-10-31',NULL)
+    ,('Nick Bostrom','Google DeepMind','DeepMind Ethics & Society Fellow',NULL,NULL,NULL,NULL,'https://deepmind.com/applied/deepmind-ethics-society/fellows/',NULL,NULL,'2017-10-31','2017-10-31',NULL)
+    ,('Diane Coyle','Google DeepMind','DeepMind Ethics & Society Fellow',NULL,NULL,NULL,NULL,'https://deepmind.com/applied/deepmind-ethics-society/fellows/',NULL,NULL,'2017-10-31','2017-10-31',NULL)
+    ,('Edward W. Felten','Google DeepMind','DeepMind Ethics & Society Fellow',NULL,NULL,NULL,NULL,'https://deepmind.com/applied/deepmind-ethics-society/fellows/',NULL,NULL,'2017-10-31','2017-10-31',NULL)
+    ,('Christiana Figueres','Google DeepMind','DeepMind Ethics & Society Fellow',NULL,NULL,NULL,NULL,'https://deepmind.com/applied/deepmind-ethics-society/fellows/',NULL,NULL,'2017-10-31','2017-10-31',NULL)
+    ,('James Manyika','Google DeepMind','DeepMind Ethics & Society Fellow',NULL,NULL,NULL,NULL,'https://deepmind.com/applied/deepmind-ethics-society/fellows/',NULL,NULL,'2017-10-31','2017-10-31',NULL)
+    ,('Jeffrey D. Sachs','Google DeepMind','DeepMind Ethics & Society Fellow',NULL,NULL,NULL,NULL,'https://deepmind.com/applied/deepmind-ethics-society/fellows/',NULL,NULL,'2017-10-31','2017-10-31',NULL)
 ;
