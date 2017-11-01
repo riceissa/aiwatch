@@ -98,7 +98,7 @@ if ($_REQUEST['person'] ?? '') {
   while ($row = $result2->fetch_assoc()) {
     if (!array_key_exists($row['person'], $seen_people)) { ?>
       <tr>
-        <td><?= $row['person'] ?></td>
+        <td><?= link_person($row['person']) ?></td>
         <td style="text-align: right;">0</td>
         <td>N/A</td>
       </tr>
