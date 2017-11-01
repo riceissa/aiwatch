@@ -60,12 +60,22 @@ if ($_REQUEST['person'] ?? '') {
     $stmt->execute();
     $result2 = $stmt->get_result();
   }
+
+  $query = "select count(*) as n from (select person from positions union select person from people) x";
+  if ($stmt = $mysqli->prepare($query)) {
+    $stmt->execute();
+    $result3 = $stmt->get_result();
+  }
+  while ($row = $result3->fetch_assoc()) {
+    $num_people = $row['n'];
+  }
+
   $seen_people = array();
 ?>
 
 <p>Welcome! See the <a href="https://github.com/riceissa/aiwatch">code repository</a> for the source code and data of this website.</p>
 
-<p>Showing <?= $mysqli->affected_rows ?> people.</p>
+<p>Showing <?= $num_people ?> people.</p>
 
 <table>
   <thead>
