@@ -48,10 +48,19 @@ if ($_REQUEST['person'] ?? '') {
   }
   $query .= " group by person order by count(distinct organization) desc";
   if ($stmt = $mysqli->prepare($query)) {
-    $stmt->bind_param($param_str, ...$params);
+    if ($params) {
+      $stmt->bind_param($param_str, ...$params);
+    }
     $stmt->execute();
     $result = $stmt->get_result();
   }
+
+  $query = "select * from people";
+  if ($stmt = $mysqli->prepare($query)) {
+    $stmt->execute();
+    $result2 = $stmt->get_result();
+  }
+  $seen_people = array();
 ?>
 
 <p>Welcome! See the <a href="https://github.com/riceissa/aiwatch">code repository</a> for the source code and data of this website.</p>
@@ -67,7 +76,9 @@ if ($_REQUEST['person'] ?? '') {
     </tr>
   </thead>
 <?php
-  while ($row = $result->fetch_assoc()) { ?>
+  while ($row = $result->fetch_assoc()) {
+    $seen_people[$row['person']] = 1;
+?>
     <tr>
       <td><a href="/index.php?person=<?= urlencode($row['person']) ?>"><?= $row['person'] ?></a></td>
       <td style="text-align: right;"><?= $row['numOrgs'] ?></td>
@@ -82,7 +93,20 @@ if ($_REQUEST['person'] ?? '') {
             }
             echo implode(", ", $res); ?></td>
     </tr>
-<?php } ?>
+<?php }
+
+  while ($row = $result2->fetch_assoc()) {
+    if (!array_key_exists($row['person'], $seen_people)) { ?>
+      <tr>
+        <td><?= $row['person'] ?></td>
+        <td style="text-align: right;">0</td>
+        <td>N/A</td>
+      </tr>
+
+<?php
+    }
+  }
+?>
 
 <?php } ?>
 
