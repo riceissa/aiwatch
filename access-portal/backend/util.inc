@@ -15,4 +15,13 @@ function url_format($urls_string, &$seen) {
   }
   return $result;
 }
+
+function link_person($person) {
+  return '<a href="/?person=' . urlencode($person) . '">' . $person . '</a>';
+}
+
+function link_organization($organization) {
+  return '<a href="/?organization=' . urlencode($organization) . '">'
+    . $organization . '</a>';
+}
 ?>

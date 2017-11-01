@@ -80,7 +80,7 @@ if ($_REQUEST['person'] ?? '') {
     $seen_people[$row['person']] = 1;
 ?>
     <tr>
-      <td><a href="/index.php?person=<?= urlencode($row['person']) ?>"><?= $row['person'] ?></a></td>
+      <td><?= link_person($row['person']) ?></td>
       <td style="text-align: right;"><?= $row['numOrgs'] ?></td>
       <td><?php
             $orglist = explode('|', $row['orgs']);
@@ -88,7 +88,7 @@ if ($_REQUEST['person'] ?? '') {
             foreach($orglist as $org) {
               array_push(
                 $res,
-                '<a href="/index.php?organization=' . urlencode($org) . '">' . $org . '</a>'
+                link_organization($org)
               );
             }
             echo implode(", ", $res); ?></td>
