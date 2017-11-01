@@ -19,4 +19,5 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('Wei Dai',NULL,'wei.dai.587',NULL,NULL,'http://www.weidai.com/','http://lesswrong.com/user/Wei_Dai/overview/ https://en.bitcoin.it/wiki/Wei_Dai',NULL)
     ,('Toon Alfrink',NULL,'toon.alfrink',NULL,NULL,NULL,'https://wiki.lesswrong.com/wiki/Road_to_AI_Safety_Excellence http://lesswrong.com/user/toonalfrink/overview/ https://www.facebook.com/groups/1421511671230776/',NULL)
     ,('Iceman',NULL,NULL,NULL,NULL,NULL,'http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FriendshipIsOptimal https://www.fimfiction.net/user/16334/Iceman http://lesswrong.com/lw/fi8/launched_friendship_is_optimal/ http://lesswrong.com/r/discussion/lw/efi/friendship_is_optimal_a_my_little_pony_fanfic/ http://aisafety.com/wp-content/uploads/2017/09/AI_Safety_Community_Map_Version_1_4.jpg','From TV Tropes: "Author Tract: One of the author''s reasons for writing the story was to draw more attention to A.I. research and safety."')
+    ,('Max Harms',NULL,NULL,NULL,NULL,'http://raelifin.com/','http://crystal.raelifin.com/ http://aisafety.com/wp-content/uploads/2017/09/AI_Safety_Community_Map_Version_1_4.jpg',NULL)
 ;
