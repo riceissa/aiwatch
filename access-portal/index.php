@@ -12,7 +12,7 @@
 </head>
 <body>
 <nav>
-<a href="/index.php">Home</a>
+<a href="/">Home</a>
 </nav>
 <?php
 include_once("backend/globalVariables/passwordFile.inc");
