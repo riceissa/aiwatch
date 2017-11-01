@@ -32,7 +32,7 @@ if ($stmt = $mysqli->prepare("select * from positions where organization = ?")) 
 
 while ($row = $result->fetch_assoc()) { ?>
   <tr>
-    <td><a href="/index.php?person=<?= $row['person'] ?? '' ?>"><?= $row['person'] ?? '' ?></a></td>
+    <td><?= link_person($row['person']) ?></td>
     <td><?= $row['title'] ?? '' ?></td>
     <td><?= $row['start_date'] ?? '' ?></td>
     <td><?= $row['end_date'] ?? '' ?></td>
