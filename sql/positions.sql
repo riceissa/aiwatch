@@ -342,4 +342,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Christiana Figueres','Google DeepMind','DeepMind Ethics & Society Fellow',NULL,NULL,NULL,NULL,'https://deepmind.com/applied/deepmind-ethics-society/fellows/',NULL,NULL,'2017-10-31','2017-10-31',NULL)
     ,('James Manyika','Google DeepMind','DeepMind Ethics & Society Fellow',NULL,NULL,NULL,NULL,'https://deepmind.com/applied/deepmind-ethics-society/fellows/',NULL,NULL,'2017-10-31','2017-10-31',NULL)
     ,('Jeffrey D. Sachs','Google DeepMind','DeepMind Ethics & Society Fellow',NULL,NULL,NULL,NULL,'https://deepmind.com/applied/deepmind-ethics-society/fellows/',NULL,NULL,'2017-10-31','2017-10-31',NULL)
+    ,('Sean Legassick','Google DeepMind','Head of DeepMind Ethics & Society','2017-10-04','day',NULL,NULL,'https://www.wired.co.uk/article/deepmind-ethics-and-society-artificial-intelligence https://www.theverge.com/2017/10/4/16417978/deepmind-ai-ethics-society-research-group',NULL,NULL,NULL,NULL,NULL)
+    ,('Verity Harding','Google DeepMind','Head of DeepMind Ethics & Society','2017-10-04','day',NULL,NULL,'https://www.wired.co.uk/article/deepmind-ethics-and-society-artificial-intelligence https://www.theverge.com/2017/10/4/16417978/deepmind-ai-ethics-society-research-group',NULL,NULL,NULL,NULL,NULL)
 ;
