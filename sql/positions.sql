@@ -313,4 +313,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Lukas Gloor','Foundational Research Institute','Researcher',NULL,NULL,NULL,NULL,'https://foundational-research.org/team/ https://foundational-research.org/suffering-focused-ai-safety-why-fail-safe-measures-might-be-our-top-intervention/ https://foundational-research.org/altruists-should-prioritize-artificial-intelligence/',NULL,NULL,'2017-10-31','2017-10-31',NULL)
     ,('Caspar Oesterheld','Foundational Research Institute','Researcher',NULL,NULL,NULL,NULL,'https://foundational-research.org/team/ https://foundational-research.org/backup-utility-functions-fail-safe-ai-technique/',NULL,NULL,'2017-10-31','2017-10-31',NULL)
     ,('Kaj Sotala','Foundational Research Institute','Associate Researcher',NULL,NULL,NULL,NULL,'https://foundational-research.org/team/ https://foundational-research.org/how-feasible-is-rapid-development-artificial-superintelligence',NULL,NULL,'2017-10-31','2017-10-31',NULL)
+    ,('Viktoriya Krakovna','Google DeepMind','Research Scientist',NULL,NULL,NULL,NULL,'http://www.aiandsociety.org/en/vikakrakovna/',NULL,NULL,NULL,NULL,NULL)
 ;
