@@ -34,4 +34,8 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('Stuart Armstrong',NULL,'36817223',NULL,NULL,'Stuart_Armstrong','Stuart_Armstrong',NULL,NULL,NULL)
     ,('Benya Fallenstein',NULL,'benja.fallenstein',NULL,NULL,NULL,'Benja_Fallenstein',NULL,NULL,NULL)
     ,('Abram Demski',NULL,'abramdemski','abramdemski',NULL,NULL,'Abram_Demski',NULL,NULL,NULL)
+    ,('Vadim Kosoy',NULL,'100008748870106',NULL,'vadim-kosoy-bb590a1','Squark','7',NULL,NULL,NULL)
+    ,('Patrick LaVictoire',NULL,'patrick.lavictoire',NULL,'patricklavictoire',NULL,'Patrick_LaVictoire','https://www.patricklavictoire.com/',NULL,NULL)
+    ,('Tsvi Benson-Tilsen',NULL,'tsvi.bt',NULL,NULL,NULL,'Tsvi_Benson-Tilsen',NULL,NULL,NULL)
+    ,('Alex Mennen',NULL,'alexmennen',NULL,NULL,NULL,'29','http://alexmennen.com/',NULL,NULL)
 ;
