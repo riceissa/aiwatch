@@ -351,4 +351,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Miljan Martic','Google DeepMind',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1706.03741.pdf',NULL,NULL,'2017-07-13','2017-07-13',NULL)
     ,('Jan Leike','Google DeepMind',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1706.03741.pdf',NULL,NULL,'2017-07-13','2017-07-13',NULL)
     ,('Rohin Shah','Center for Human-Compatible AI',NULL,NULL,NULL,NULL,NULL,'http://rohinshah.com/ https://archive.is/Tl2BI',NULL,NULL,'2017-11-06','2017-11-06',NULL)
+    ,('Wyatt Tessari','Center for Human Success','Founder','2017-07-01','month',NULL,NULL,'https://www.centreforhumansuccess.org/about/who-we-are/ https://archive.is/fGT7H http://effective-altruism.com/ea/1gc/introducing_canadas_first_political_advocacy/',NULL,'2017-06-30','2017-07-31','2017-11-07',NULL)
+    ,('David Yu','Center for Human Success',NULL,NULL,NULL,NULL,NULL,'http://effective-altruism.com/ea/1gc/introducing_canadas_first_political_advocacy/',NULL,NULL,NULL,NULL,NULL)
 ;
