@@ -23,26 +23,36 @@ if ($stmt = $mysqli->prepare("select * from people where person = ?")) {
   $result = $stmt->get_result();
 }
 while ($row = $result->fetch_assoc()) { ?>
-  <tr>
-    <td>Country</td>
-    <td><?= $row['country'] ?? '' ?></td>
-  </tr>
-  <tr>
-    <td>Facebook username</td>
-    <td><?= $row['facebook_username'] ?? '' ?></td>
-  </tr>
-  <tr>
-    <td>GitHub username</td>
-    <td><?= $row['github_username'] ?? '' ?></td>
-  </tr>
-  <tr>
-    <td>LinkedIn username</td>
-    <td><?= $row['linkedin_username'] ?? '' ?></td>
-  </tr>
-  <tr>
-    <td>Website</td>
-    <td><?= $row['website'] ? '<a href="' . $row['website'] . '">' . $row['website'] . '</a>' : '' ?></td>
-  </tr>
+  <?php if ($country = ($row['country'] ?? '')) { ?>
+    <tr>
+      <td>Country</td>
+      <td><?= $country ?></td>
+    </tr>
+  <?php } ?>
+  <?php if ($fb = ($row['facebook_username'] ?? '')) { ?>
+    <tr>
+      <td>Facebook username</td>
+      <td><a href="https://www.facebook.com/<?= $fb ?>"><?= $fb ?></a></td>
+    </tr>
+  <?php } ?>
+  <?php if ($gh = ($row['github_username'] ?? '')) { ?>
+    <tr>
+      <td>GitHub username</td>
+      <td><a href="https://github.com/<?= $gh ?>"><?= $gh ?></a></td>
+    </tr>
+  <?php } ?>
+  <?php if ($li = ($row['linkedin_username'] ?? '')) { ?>
+    <tr>
+      <td>LinkedIn username</td>
+      <td><a href="https://www.linkedin.com/in/<?= $li ?>"><?= $li ?></a></td>
+    </tr>
+  <?php } ?>
+  <?php if ($web = ($row['website'] ?? '')) { ?>
+    <tr>
+      <td>Website</td>
+      <td><a href="<?= $web ?>"><?= $web ?></a></td>
+    </tr>
+  <?php } ?>
 
 <?php } ?>
 
