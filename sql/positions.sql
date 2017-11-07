@@ -350,4 +350,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Shane Legg','Google DeepMind','Co-Founder and Chief Scientist','2010-09-23','day',NULL,NULL,'https://deepmind.com/about/ https://en.wikipedia.org/wiki/DeepMind https://arxiv.org/pdf/1706.03741.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Miljan Martic','Google DeepMind',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1706.03741.pdf',NULL,NULL,'2017-07-13','2017-07-13',NULL)
     ,('Jan Leike','Google DeepMind',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1706.03741.pdf',NULL,NULL,'2017-07-13','2017-07-13',NULL)
+    ,('Rohin Shah','Center for Human-Compatible AI',NULL,NULL,NULL,NULL,NULL,'http://rohinshah.com/ https://archive.is/Tl2BI',NULL,NULL,'2017-11-06','2017-11-06',NULL)
 ;
