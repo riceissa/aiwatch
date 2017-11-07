@@ -24,4 +24,7 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('Gwern Branwen','United States','gwern.branwen','gwern',NULL,'https://www.gwern.net/','http://aisafety.com/wp-content/uploads/2017/09/AI_Safety_Community_Map_Version_1_4.jpg https://www.gwern.net/Complexity-vs-AI https://www.gwern.net/Tool-AI',NULL)
     ,('Federico Pistono',NULL,NULL,NULL,NULL,'http://federicopistono.org/','https://arxiv.org/pdf/1605.02817.pdf',NULL)
     ,('Vladimir Slepnev',NULL,'vladimir.slepnev',NULL,NULL,'http://slepnev.blogspot.com/','http://lesswrong.com/lw/mpn/link_vladimir_slepnev_talks_about_logical/ https://www.lesserwrong.com/posts/YDLGLnzJTKMEtti7Z/announcing-the-ai-alignment-prize',NULL)
+    ,('Ryan Carey',NULL,NULL,NULL,NULL,NULL,'https://agentfoundations.org/item?id=1699',NULL)
+    ,('Chris Pasek',NULL,'chrispasek',NULL,NULL,NULL,'https://agentfoundations.org/item?id=1699',NULL)
+    ,('Peter Scheyer',NULL,NULL,NULL,NULL,NULL,'https://agentfoundations.org/item?id=1699',NULL)
 ;
