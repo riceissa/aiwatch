@@ -385,4 +385,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Louie Helm','Machine Intelligence Research Institute','Deputy Director',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20140209055438/http://intelligence.org/team/',NULL,NULL,NULL,NULL,NULL)
     ,('Eliezer Yudkowsky','Machine Intelligence Research Institute','Research Fellow',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20140209055438/http://intelligence.org/team/',NULL,NULL,NULL,NULL,NULL)
     ,('Malo Bourgon','Machine Intelligence Research Institute','Project Manager',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20140209055438/http://intelligence.org/team/',NULL,NULL,NULL,NULL,NULL)
+    ,('Kevin Fischer','Machine Intelligence Research Institute','Board Director',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20140209055438/http://intelligence.org/team/',NULL,NULL,NULL,NULL,NULL)
+    ,('Tomer Kagan','Machine Intelligence Research Institute','Board Director',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20140209055438/http://intelligence.org/team/',NULL,NULL,NULL,NULL,NULL)
+    ,('Michael Vassar','Machine Intelligence Research Institute','Board Director',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20140209055438/http://intelligence.org/team/',NULL,NULL,NULL,NULL,NULL)
 ;
