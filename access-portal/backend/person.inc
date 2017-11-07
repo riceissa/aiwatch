@@ -47,6 +47,18 @@ while ($row = $result->fetch_assoc()) { ?>
       <td><a href="https://www.linkedin.com/in/<?= $li ?>"><?= $li ?></a></td>
     </tr>
   <?php } ?>
+  <?php if ($lw = ($row['lesswrong_username'] ?? '')) { ?>
+    <tr>
+      <td>LessWrong username</td>
+      <td><a href="http://lesswrong.com/user/<?= $lw ?>"><?= $lw ?></a></td>
+    </tr>
+  <?php } ?>
+  <?php if ($af = ($row['agentfoundations_username'] ?? '')) { ?>
+    <tr>
+      <td>Intelligent Agent Foundations Forum username</td>
+      <td><a href="https://agentfoundations.org/user?id=<?= $af ?>"><?= $af ?></a></td>
+    </tr>
+  <?php } ?>
   <?php if ($web = ($row['website'] ?? '')) { ?>
     <tr>
       <td>Website</td>
