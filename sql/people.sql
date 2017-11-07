@@ -16,7 +16,7 @@ create table people(
 insert into people(person, country, facebook_username, github_username, linkedin_username, lesswrong_username, agentfoundations_username, website, urls, notes) values
     ('Andrej Karpathy',NULL,NULL,'karpathy',NULL,NULL,NULL,'http://cs.stanford.edu/people/karpathy/','http://cs.stanford.edu/people/karpathy/ https://karpathy.github.io/',NULL)
     ,('Eliezer Yudkowsky','United States','yudkowsky',NULL,NULL,NULL,NULL,'http://yudkowsky.net/','http://yudkowsky.net/ https://intelligence.org/team/',NULL)
-    ,('Paul Christiano','United States',NULL,'paulfchristiano',NULL,NULL,NULL,'https://paulfchristiano.com','https://paulfchristiano.com/ai/',NULL)
+    ,('Paul Christiano','United States',NULL,'paulfchristiano',NULL,'paulfchristiano','Paul_Christiano','https://paulfchristiano.com','https://paulfchristiano.com/ai/',NULL)
     ,('Andreas Stuhlmüller',NULL,NULL,'stuhlmueller','stuhlmueller',NULL,NULL,'https://stuhlmueller.org/','https://arxiv.org/pdf/1707.05173.pdf',NULL)
     ,('Wei Dai',NULL,'wei.dai.587',NULL,NULL,NULL,NULL,'http://www.weidai.com/','http://lesswrong.com/user/Wei_Dai/overview/ https://en.bitcoin.it/wiki/Wei_Dai',NULL)
     ,('Toon Alfrink',NULL,'toon.alfrink',NULL,NULL,NULL,NULL,NULL,'https://wiki.lesswrong.com/wiki/Road_to_AI_Safety_Excellence http://lesswrong.com/user/toonalfrink/overview/ https://www.facebook.com/groups/1421511671230776/',NULL)
@@ -29,4 +29,9 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('Ryan Carey',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://agentfoundations.org/item?id=1699',NULL)
     ,('Chris Pasek',NULL,'chrispasek',NULL,NULL,NULL,NULL,NULL,'https://agentfoundations.org/item?id=1699',NULL)
     ,('Peter Scheyer',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://agentfoundations.org/item?id=1699',NULL)
+    ,('Scott Garrabrant',NULL,'coscott',NULL,NULL,NULL,'Scott_Garrabrant','http://scott.garrabrant.com/','http://scott.garrabrant.com/',NULL)
+    ,('Jessica Taylor',NULL,'jessicaliutaylor','jessica-taylor',NULL,NULL,'Jessica_Taylor','http://jessic.at/',NULL,NULL)
+    ,('Stuart Armstrong',NULL,'36817223',NULL,NULL,'Stuart_Armstrong','Stuart_Armstrong',NULL,NULL,NULL)
+    ,('Benya Fallenstein',NULL,'benja.fallenstein',NULL,NULL,NULL,'Benja_Fallenstein',NULL,NULL,NULL)
+    ,('Abram Demski',NULL,'abramdemski','abramdemski',NULL,NULL,'Abram_Demski',NULL,NULL,NULL)
 ;
