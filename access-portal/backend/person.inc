@@ -53,6 +53,12 @@ while ($row = $result->fetch_assoc()) { ?>
       <td><a href="<?= $web ?>"><?= $web ?></a></td>
     </tr>
   <?php } ?>
+  <?php if ($urls = ($row['urls'] ?? '')) { ?>
+    <tr>
+      <td>Source</td>
+      <td><?= url_format($urls, $seen) ?></td>
+    </tr>
+  <?php } ?>
 
 <?php } ?>
 
