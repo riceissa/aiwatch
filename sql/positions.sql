@@ -419,4 +419,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jessica Taylor','Machine Intelligence Research Institute','Research Fellow','2015-08-01','month',NULL,NULL,'https://web.archive.org/web/20151123012900/https://intelligence.org/team/',NULL,NULL,NULL,NULL,NULL)
     ,('Andrew Critch','Machine Intelligence Research Institute','Research Fellow','2015-09-01','month',NULL,NULL,'https://web.archive.org/web/20151123012900/https://intelligence.org/team/',NULL,NULL,NULL,NULL,NULL)
     ,('Andrew Lapinski-Barker','Machine Intelligence Research Institute','Office Manager','2015-09-01','month',NULL,NULL,'https://web.archive.org/web/20151123012900/https://intelligence.org/team/',NULL,NULL,NULL,NULL,NULL)
+    ,('Christopher Olah','Google Brain',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1606.06565.pdf',NULL,NULL,NULL,NULL,NULL)
+    ,('Dario Amodei','Google Brain',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1606.06565.pdf',NULL,NULL,NULL,NULL,NULL)
+    ,('Jacob Steinhardt','Google Brain',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1606.06565.pdf',NULL,NULL,NULL,NULL,NULL)
+    ,('Paul Christiano','University of California, Berkeley',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1606.06565.pdf',NULL,NULL,NULL,NULL,NULL)
+    ,('Dan Mané','Google Brain',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1606.06565.pdf',NULL,NULL,NULL,NULL,NULL)
 ;
