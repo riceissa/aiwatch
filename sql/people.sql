@@ -15,9 +15,9 @@ create table people(
 
 insert into people(person, country, facebook_username, github_username, linkedin_username, lesswrong_username, agentfoundations_username, website, urls, notes) values
     ('Andrej Karpathy',NULL,NULL,'karpathy',NULL,NULL,NULL,'http://cs.stanford.edu/people/karpathy/','http://cs.stanford.edu/people/karpathy/ https://karpathy.github.io/',NULL)
-    ,('Eliezer Yudkowsky','United States','yudkowsky',NULL,NULL,NULL,NULL,'http://yudkowsky.net/','http://yudkowsky.net/ https://intelligence.org/team/',NULL)
+    ,('Eliezer Yudkowsky','United States','yudkowsky',NULL,NULL,NULL,'58','http://yudkowsky.net/','http://yudkowsky.net/ https://intelligence.org/team/',NULL)
     ,('Paul Christiano','United States',NULL,'paulfchristiano',NULL,'paulfchristiano','Paul_Christiano','https://paulfchristiano.com','https://paulfchristiano.com/ai/',NULL)
-    ,('Andreas Stuhlmüller',NULL,NULL,'stuhlmueller','stuhlmueller',NULL,NULL,'https://stuhlmueller.org/','https://arxiv.org/pdf/1707.05173.pdf',NULL)
+    ,('Andreas Stuhlmüller',NULL,NULL,'stuhlmueller','stuhlmueller',NULL,'180','https://stuhlmueller.org/','https://arxiv.org/pdf/1707.05173.pdf',NULL)
     ,('Wei Dai',NULL,'wei.dai.587',NULL,NULL,'Wei_Dai','Wei_Dai','http://www.weidai.com/','http://lesswrong.com/user/Wei_Dai/overview/ https://en.bitcoin.it/wiki/Wei_Dai',NULL)
     ,('Toon Alfrink',NULL,'toon.alfrink',NULL,NULL,NULL,NULL,NULL,'https://wiki.lesswrong.com/wiki/Road_to_AI_Safety_Excellence http://lesswrong.com/user/toonalfrink/overview/ https://www.facebook.com/groups/1421511671230776/',NULL)
     ,('Iceman',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FriendshipIsOptimal https://www.fimfiction.net/user/16334/Iceman http://lesswrong.com/lw/fi8/launched_friendship_is_optimal/ http://lesswrong.com/r/discussion/lw/efi/friendship_is_optimal_a_my_little_pony_fanfic/ http://aisafety.com/wp-content/uploads/2017/09/AI_Safety_Community_Map_Version_1_4.jpg','From TV Tropes: "Author Tract: One of the author''s reasons for writing the story was to draw more attention to A.I. research and safety."')
@@ -51,4 +51,13 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('Ramana Kumar',NULL,NULL,NULL,NULL,NULL,'Ramana_Kumar',NULL,NULL,NULL)
     ,('Jack Gallagher',NULL,'herokocho','GallagherCommaJack',NULL,NULL,'79','http://gallabytes.com/',NULL,NULL)
     ,('Alex Appel',NULL,'alex.appel.75',NULL,NULL,NULL,'50',NULL,NULL,NULL)
+    ,('Owen Cotton-Barratt',NULL,'owen.cottonbarratt',NULL,NULL,'owencb','208',NULL,NULL,NULL)
+    ,('Tom Everitt',NULL,'tom.everitt',NULL,NULL,NULL,'108','http://www.tomeveritt.se/','http://www.tomeveritt.se/cv.pdf',NULL)
+    ,('Vladimir Nesov',NULL,'vladimir.nesov',NULL,NULL,'Vladimir_Nesov','Vladimir_Nesov',NULL,NULL,NULL)
+    ,('Marcello Herreshoff',NULL,'marcello.herreshoff',NULL,NULL,NULL,'223',NULL,NULL,NULL)
+    ,('Viktoriya Krakovna',NULL,'vkrakovna',NULL,NULL,NULL,'70','https://vkrakovna.wordpress.com/',NULL,NULL)
+    ,('Nisan Stiennon',NULL,'nisan.stiennon',NULL,NULL,NULL,'Nisan_Stiennon',NULL,NULL,NULL)
+    ,('Gary Drescher',NULL,'gary.drescher',NULL,NULL,'Gary_Drescher','Gary_Drescher',NULL,NULL,NULL)
+    ,('Jan Leike',NULL,'100009882604264',NULL,NULL,NULL,'160',NULL,NULL,NULL)
+    ,('Sören Mindermann',NULL,NULL,NULL,NULL,NULL,'267',NULL,NULL,NULL)
 ;
