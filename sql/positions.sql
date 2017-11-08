@@ -422,6 +422,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Christopher Olah','Google Brain',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1606.06565.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Dario Amodei','Google Brain',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1606.06565.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Jacob Steinhardt','Stanford University',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1606.06565.pdf',NULL,NULL,NULL,NULL,NULL)
-    ,('Paul Christiano','University of California, Berkeley',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1606.06565.pdf',NULL,NULL,NULL,NULL,NULL)
+    ,('Paul Christiano','University of California, Berkeley',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1606.06565.pdf https://intelligence.org/files/ProgramEquilibrium.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Dan Mané','Google Brain',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1606.06565.pdf',NULL,NULL,NULL,NULL,NULL)
+    ,('Jack Gallagher','Machine Intelligence Research Institute','Intern',NULL,NULL,NULL,NULL,'https://intelligence.org/2015/08/31/final-fundraiser-day-announcing-our-new-team/',NULL,NULL,NULL,NULL,NULL)
+    ,('Kaya Stechly','Machine Intelligence Research Institute','Intern',NULL,NULL,NULL,NULL,'https://intelligence.org/2015/08/31/final-fundraiser-day-announcing-our-new-team/',NULL,NULL,NULL,NULL,NULL)
+    ,('Marcello Herreshoff','Google',NULL,NULL,NULL,NULL,NULL,'https://intelligence.org/files/ProgramEquilibrium.pdf',NULL,NULL,NULL,NULL,NULL)
+    ,('Mihaly Barasz','Nilcons',NULL,NULL,NULL,NULL,NULL,'https://intelligence.org/files/ProgramEquilibrium.pdf',NULL,NULL,NULL,NULL,NULL)
+    ,('Patrick LaVictoire','Quixey',NULL,NULL,NULL,NULL,NULL,'https://intelligence.org/files/ProgramEquilibrium.pdf',NULL,NULL,NULL,NULL,NULL)
 ;
