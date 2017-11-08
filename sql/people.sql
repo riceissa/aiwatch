@@ -46,4 +46,9 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('Daniel Dewey',NULL,'100012286783343',NULL,NULL,NULL,'Daniel_Dewey','http://www.danieldewey.net/',NULL,NULL)
     ,('Kaya Stechly',NULL,'kaya.fallenstein','from3004','kaya-stechly-5ba68713',NULL,'4','http://from3004.github.io/',NULL,NULL)
     ,('Mihaly Barasz',NULL,'mihaly.barasz','klao',NULL,NULL,NULL,'http://nilcons.com/',NULL,NULL)
+    ,('David Krueger',NULL,'13963931',NULL,NULL,NULL,'111',NULL,NULL,NULL)
+    ,('Sune Kristian Jakobsen',NULL,'sune.k.jakobsen',NULL,NULL,NULL,'83',NULL,NULL,NULL)
+    ,('Ramana Kumar',NULL,NULL,NULL,NULL,NULL,'Ramana_Kumar',NULL,NULL,NULL)
+    ,('Jack Gallagher',NULL,'herokocho','GallagherCommaJack',NULL,NULL,'79','http://gallabytes.com/',NULL,NULL)
+    ,('Alex Appel',NULL,'alex.appel.75',NULL,NULL,NULL,'50',NULL,NULL,NULL)
 ;
