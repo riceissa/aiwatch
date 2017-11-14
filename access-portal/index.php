@@ -87,8 +87,8 @@ if ($_REQUEST['person'] ?? '') {
 <ul>
   <li><a href="#positions-grouped-by-person">Positions grouped by person</a></li>
   <li><a href="#positions-grouped-by-organization">Positions grouped by organization</a></li>
-  <li>Organizations</li>
-  <li>People</li>
+  <li><a href="#individuals-not-affiliated-with-any-organization">Individuals
+    not affiliated with any organization</a></li>
 </ul>
 
 <h2 id="positions-grouped-by-person">Positions grouped by person</h2>
@@ -143,9 +143,6 @@ if ($_REQUEST['person'] ?? '') {
 <?php
   $query = "select organization,group_concat(distinct person order by person SEPARATOR '|') as peeps,count(distinct person) as numPeeps from positions where true group by organization order by numPeeps desc";
   if ($stmt = $mysqli->prepare($query)) {
-    if ($params) {
-      $stmt->bind_param($param_str, ...$params);
-    }
     $stmt->execute();
     $result = $stmt->get_result();
   }
@@ -176,6 +173,36 @@ if ($_REQUEST['person'] ?? '') {
       </tr>
 <?php } ?>
 
+    </tbody>
+  </table>
+
+<h2 id="individuals-not-affiliated-with-any-organization">Individuals
+  not affiliated with any organization</h2>
+<?php
+  $query = "select person,website,urls from people where person not in (select distinct(person) from positions)";
+  if ($stmt = $mysqli->prepare($query)) {
+    $stmt->execute();
+    $result = $stmt->get_result();
+  }
+  $seen = array();
+?>
+  <p>Showing <?= $mysqli->affected_rows ?> people.</p>
+  <table>
+    <thead>
+      <tr>
+        <th>Organization</th>
+        <th>Website</th>
+        <th>Source</th>
+      </tr>
+    </thead>
+    <tbody>
+<?php while ($row = $result->fetch_assoc()) { ?>
+      <tr>
+        <td><?= link_person($row['person']) ?></td>
+        <td><?= ($val = $row['website']) ? '<a href="' . $val . '">' . $val . '</a>' : ''?></td>
+        <td><?= url_format($row['urls'], $seen) ?></td>
+      </tr>
+<?php } ?>
     </tbody>
   </table>
 
