@@ -1,8 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php
+  $head_date = trim(file_get_contents("head_date.txt"));
+?>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <meta name="dcterms.date" content="<?= $head_date ?>">
   <title>AI Watch</title>
   <link rel="stylesheet" href="/tablesorter.css">
   <script src="/jquery.min.js"></script>
@@ -66,6 +70,8 @@ if ($_REQUEST['person'] ?? '') {
 <p>This website is developed by <a href="https://issarice.com">Issa Rice</a>
   and is partially
   <a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=AI+Watch&amp;matching=exact">funded by Vipul Naik</a>.</p>
+
+<p>Last updated on: <?= $head_date ?>.</p>
 
 <h2 id="table-of-contents">Table of contents</h2>
 
