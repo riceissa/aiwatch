@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="/tablesorter.css">
   <script src="/jquery.min.js"></script>
   <script src="/jquery.tablesorter.js"></script>
+  <script src="/anchor.min.js"></script>
 <?php include_once("style.inc"); ?>
 <?php include_once("analytics.inc"); ?>
 </head>
@@ -182,6 +183,7 @@ if ($_REQUEST['person'] ?? '') {
 
 <script>
     $(function(){$("table").tablesorter();});
+    anchors.add();
 </script>
 </body>
 </html>

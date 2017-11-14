@@ -22,3 +22,12 @@ clean_tablesorter:
 	rm -f access-portal/jquery.min.js
 	rm -f access-portal/jquery.tablesorter.js
 	rm -f access-portal/tablesorter.css
+
+.PHONY: fetch_anchorjs
+fetch_anchorjs:
+	curl -Lo access-portal/anchor.min.js \
+		'https://raw.githubusercontent.com/bryanbraun/anchorjs/master/anchor.min.js'
+
+.PHONY: clean_anchorjs
+clean_anchorjs:
+	rm -f access-portal/anchor.min.js
