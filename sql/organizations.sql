@@ -35,3 +35,8 @@ insert into organizations(organization, former_name, website, team_page, contact
     ,('Berkeley Existential Risk Initiative',NULL,'http://existence.org/',NULL,NULL,'United States','Andrew Critch,Gina Stuessy,Michael Keenan','2017-01-01','year',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
     ,('Future of Humanity Institute',NULL,'https://www.fhi.ox.ac.uk/',NULL,NULL,'United Kingdom','Nick Bostrom','2005-01-01','year','http://www.oxfordmartin.ox.ac.uk/research/programmes/future-humanity/',NULL,NULL,'FHIOxford',NULL,NULL,NULL,NULL,NULL,'FHIOxford','https://en.wikipedia.org/wiki/Future_of_Humanity_Institute','FHIOxford')
 ;
+
+insert into organizations(organization)
+select distinct(organization)
+from positions
+where organization not in (select organization from organizations);
