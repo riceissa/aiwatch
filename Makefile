@@ -1,12 +1,15 @@
 MYSQL_ARGS=
 
-read:
+read: access-portal/head_date.txt
 	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists people"
 	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists positions"
 	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists organizations"
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/people.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organizations.sql
+
+access-portal/head_date.txt:
+	git log -1 --format="%ad" --date=format:"%Y-%m-%d" > "$@"
 
 .PHONY: fetch_tablesorter
 fetch_tablesorter:
