@@ -73,7 +73,20 @@ if ($_REQUEST['person'] ?? '') {
   $seen_people = array();
 ?>
 
+<h1>AI Watch</h1>
+
 <p>Welcome! See the <a href="https://github.com/riceissa/aiwatch">code repository</a> for the source code and data of this website.</p>
+
+<h2>Table of contents</h2>
+
+<ul>
+  <li><a href="#positions-grouped-by-person">Positions grouped by person</a></li>
+  <li><a href="#positions-grouped-by-organization">Positions grouped by organization</a></li>
+  <li>Organizations</li>
+  <li>People</li>
+</ul>
+
+<h2 id="positions-grouped-by-person">Positions grouped by person</h2>
 
 <p>Showing <?= $num_people ?> people.</p>
 
@@ -120,6 +133,46 @@ if ($_REQUEST['person'] ?? '') {
 ?>
   </tbody>
 </table>
+
+<h2 id="positions-grouped-by-organization">Positions grouped by organization</h2>
+<?php
+  $query = "select organization,group_concat(distinct person order by person SEPARATOR '|') as peeps,count(distinct person) as numPeeps from positions where true group by organization order by numPeeps desc";
+  if ($stmt = $mysqli->prepare($query)) {
+    if ($params) {
+      $stmt->bind_param($param_str, ...$params);
+    }
+    $stmt->execute();
+    $result = $stmt->get_result();
+  }
+?>
+
+  <p>Showing <?= $mysqli->affected_rows ?> organizations.</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Organization</th>
+        <th>Number of people</th>
+        <th>List of people</th>
+      </tr>
+    </thead>
+    <tbody>
+<?php while ($row = $result->fetch_assoc()) { ?>
+      <tr>
+        <td><?= $row['organization'] ?></td>
+        <td><?= $row['numPeeps'] ?></td>
+        <td><?php
+          $peepslist = explode('|', $row['organization']);
+          $res = array();
+          foreach($peepslist as $peep) {
+            array_push($res, link_person($peep));
+          }
+          echo implode(", ", $res); ?></td>
+      </tr>
+<?php } ?>
+
+    </tbody>
+  </table>
 
 <?php } ?>
 
