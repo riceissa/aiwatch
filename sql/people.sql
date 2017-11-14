@@ -61,3 +61,9 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('Jan Leike',NULL,'100009882604264',NULL,NULL,NULL,'160',NULL,NULL,NULL)
     ,('Sören Mindermann',NULL,NULL,NULL,NULL,NULL,'267',NULL,NULL,NULL)
 ;
+
+# Insert the rest of the people by taking names from positions
+insert into people(person)
+select distinct(person)
+from positions
+where person not in (select person from people);
