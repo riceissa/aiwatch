@@ -35,6 +35,48 @@ while ($row = $result->fetch_assoc()) { ?>
       <td><a href="https://www.facebook.com/<?= $val ?>"><?= $val ?></a></td>
     </tr>
   <?php } ?>
+  <?php if ($val = ($row['youtube_username'] ?? '')) { ?>
+    <tr>
+      <td>YouTube username</td>
+      <td><a href="https://www.youtube.com/user/<?= $val ?>"><?= $val ?></a></td>
+    </tr>
+  <?php } ?>
+  <?php if ($val = ($row['twitter_username'] ?? '')) { ?>
+    <tr>
+      <td>Twitter username</td>
+      <td><a href="https://twitter.com/<?= $val ?>"><?= $val ?></a></td>
+    </tr>
+  <?php } ?>
+  <?php if ($val = ($row['medium_username'] ?? '')) { ?>
+    <tr>
+      <td>Twitter username</td>
+      <td><a href="https://medium.com/@<?= $val ?>"><?= $val ?></a></td>
+    </tr>
+  <?php } ?>
+  <?php if ($val = ($row['website'] ?? '')) { ?>
+    <tr>
+      <td>Website</td>
+      <td><a href="<?= $val ?>"><?= $val ?></a></td>
+    </tr>
+  <?php } ?>
+  <?php if ($val = ($row['wikipedia_page'] ?? '')) { ?>
+    <tr>
+      <td>Wikipedia page</td>
+      <td><a href="<?= $val ?>"><?= $val ?></a></td>
+    </tr>
+  <?php } ?>
+  <?php if ($val = ($row['timelines_wiki_page'] ?? '')) { ?>
+    <tr>
+      <td>Timelines Wiki page</td>
+      <td><a href="<?= $val ?>"><?= $val ?></a></td>
+    </tr>
+  <?php } ?>
+  <?php if ($val = ($row['urls'] ?? '')) { ?>
+    <tr>
+      <td>Source</td>
+      <td><?= url_format($val, $seen) ?></td>
+    </tr>
+  <?php } ?>
 
 <?php } ?>
   </tbody>
