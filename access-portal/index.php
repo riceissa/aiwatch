@@ -78,7 +78,7 @@ if ($_REQUEST['person'] ?? '') {
 
 <h2 id="positions-grouped-by-person">Positions grouped by person</h2>
 
-<p>Showing <?= $mysqli->affected_rows ?> people.</p>
+<p>Showing <?= $mysqli->affected_rows ?> people with positions.</p>
 
 <table>
   <thead>
