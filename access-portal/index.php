@@ -159,10 +159,10 @@ if ($_REQUEST['person'] ?? '') {
     <tbody>
 <?php while ($row = $result->fetch_assoc()) { ?>
       <tr>
-        <td><?= $row['organization'] ?></td>
+        <td><?= link_organization($row['organization']) ?></td>
         <td><?= $row['numPeeps'] ?></td>
         <td><?php
-          $peepslist = explode('|', $row['organization']);
+          $peepslist = explode('|', $row['peeps']);
           $res = array();
           foreach($peepslist as $peep) {
             array_push($res, link_person($peep));
