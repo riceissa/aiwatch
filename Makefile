@@ -3,8 +3,8 @@ MYSQL_ARGS=
 read:
 	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists people"
 	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists positions"
-	mysql $(MYSQL_ARGS) aiwatch < sql/people.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/people.sql
 
 .PHONY: fetch_tablesorter
 fetch_tablesorter:
