@@ -56,22 +56,7 @@ if ($_REQUEST['person'] ?? '') {
     $result = $stmt->get_result();
   }
 
-  $query = "select * from people";
-  if ($stmt = $mysqli->prepare($query)) {
-    $stmt->execute();
-    $result2 = $stmt->get_result();
-  }
 
-  $query = "select count(*) as n from (select person from positions union select person from people) x";
-  if ($stmt = $mysqli->prepare($query)) {
-    $stmt->execute();
-    $result3 = $stmt->get_result();
-  }
-  while ($row = $result3->fetch_assoc()) {
-    $num_people = $row['n'];
-  }
-
-  $seen_people = array();
 ?>
 
 <h1>AI Watch</h1>
@@ -93,7 +78,7 @@ if ($_REQUEST['person'] ?? '') {
 
 <h2 id="positions-grouped-by-person">Positions grouped by person</h2>
 
-<p>Showing <?= $num_people ?> people.</p>
+<p>Showing <?= $mysqli->affected_rows ?> people.</p>
 
 <table>
   <thead>
@@ -106,7 +91,6 @@ if ($_REQUEST['person'] ?? '') {
   <tbody>
 <?php
   while ($row = $result->fetch_assoc()) {
-    $seen_people[$row['person']] = 1;
 ?>
     <tr>
       <td><?= link_person($row['person']) ?></td>
@@ -122,20 +106,7 @@ if ($_REQUEST['person'] ?? '') {
             }
             echo implode(", ", $res); ?></td>
     </tr>
-<?php }
-
-  while ($row = $result2->fetch_assoc()) {
-    if (!array_key_exists($row['person'], $seen_people)) { ?>
-      <tr>
-        <td><?= link_person($row['person']) ?></td>
-        <td style="text-align: right;">0</td>
-        <td>N/A</td>
-      </tr>
-
-<?php
-    }
-  }
-?>
+<?php } ?>
   </tbody>
 </table>
 
