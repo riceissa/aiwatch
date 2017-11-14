@@ -7,7 +7,38 @@ $seen = array();
 
 <h2>Basic information</h2>
 
-Coming soon.
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+<?php
+if ($stmt = $mysqli->prepare("select * from organizations where organization = ?")) {
+  $stmt->bind_param("s", $organization);
+  $stmt->execute();
+  $result = $stmt->get_result();
+}
+while ($row = $result->fetch_assoc()) { ?>
+
+  <?php if ($val = ($row['country'] ?? '')) { ?>
+    <tr>
+      <td>Country</td>
+      <td><?= $val ?></td>
+    </tr>
+  <?php } ?>
+  <?php if ($val = ($row['facebook_username'] ?? '')) { ?>
+    <tr>
+      <td>Facebook username</td>
+      <td><a href="https://www.facebook.com/<?= $val ?>"><?= $val ?></a></td>
+    </tr>
+  <?php } ?>
+
+<?php } ?>
+  </tbody>
+</table>
 
 <h2>List of people</h2>
 
