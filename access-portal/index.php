@@ -75,9 +75,13 @@ if ($_REQUEST['person'] ?? '') {
 
 <h1>AI Watch</h1>
 
-<p>Welcome! See the <a href="https://github.com/riceissa/aiwatch">code repository</a> for the source code and data of this website.</p>
+<p>Welcome! This is a website to track people and organizations working on AI safety. See the <a href="https://github.com/riceissa/aiwatch">code repository</a> for the source code and data of this website.</p>
 
-<h2>Table of contents</h2>
+<p>This website is developed by <a href="https://issarice.com">Issa Rice</a>
+  and is partially
+  <a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=AI+Watch&amp;matching=exact">funded by Vipul Naik</a>.</p>
+
+<h2 id="table-of-contents">Table of contents</h2>
 
 <ul>
   <li><a href="#positions-grouped-by-person">Positions grouped by person</a></li>
