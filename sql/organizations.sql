@@ -34,6 +34,7 @@ insert into organizations(organization, former_name, website, team_page, contact
     ,('OpenAI',NULL,'https://openai.com/',NULL,NULL,'United States','Sam Altman,Elon Musk,Ilya Sutskever,Ian Goodfellow,Greg Brockman','2015-12-11','day','https://medium.com/backchannel/how-elon-musk-and-y-combinator-plan-to-stop-computers-from-taking-over-17e0e27dd02a',NULL,NULL,'openai.research',NULL,NULL,NULL,NULL,NULL,'openai','https://en.wikipedia.org/wiki/OpenAI',NULL)
     ,('Berkeley Existential Risk Initiative',NULL,'http://existence.org/',NULL,NULL,'United States','Andrew Critch,Gina Stuessy,Michael Keenan','2017-01-01','year',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
     ,('Future of Humanity Institute',NULL,'https://www.fhi.ox.ac.uk/',NULL,NULL,'United Kingdom','Nick Bostrom','2005-01-01','year','http://www.oxfordmartin.ox.ac.uk/research/programmes/future-humanity/',NULL,NULL,'FHIOxford',NULL,NULL,NULL,NULL,NULL,'FHIOxford','https://en.wikipedia.org/wiki/Future_of_Humanity_Institute','FHIOxford')
+    ,('Montreal Institute for Learning Algorithms',NULL,'https://mila.quebec/en/','https://mila.quebec/en/mila/team/','lisa@iro.umontreal.ca','Canada','Yoshua Bengio',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
 ;
 
 insert into organizations(organization)
