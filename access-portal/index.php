@@ -1,13 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-  $head_date = trim(file_get_contents("head_date.txt"));
+$head_date = trim(file_get_contents("head_date.txt"));
+$title = "";
+if ($_REQUEST['person'] ?? '') {
+  $title = htmlspecialchars($_REQUEST['person']);
+} else if ($_REQUEST['organization']) {
+  $title = htmlspecialchars($_REQUEST['organization']);
+}
 ?>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
   <meta name="dcterms.date" content="<?= $head_date ?>">
-  <title>AI Watch</title>
+  <meta property="og:title" content="<?= $title ? $title : "AI Watch" ?>" />
+  <meta property="og:site_name" content="AI Watch" />
+  <meta property="og:locale" content="en_US" />
+  <title><?= $title ? $title . " - AI Watch" : "AI Watch" ?></title>
   <link rel="stylesheet" href="/tablesorter.css">
   <script src="/jquery.min.js"></script>
   <script src="/jquery.tablesorter.js"></script>
