@@ -1,6 +1,6 @@
 MYSQL_ARGS=
 
-read: access-portal/head_date.txt
+read:
 	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists people"
 	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists positions"
 	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists organizations"
