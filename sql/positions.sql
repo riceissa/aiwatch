@@ -454,4 +454,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Peter Eckersley','Electronic Frontier Foundation',NULL,NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/electronic-frontier-foundation-ai-social',NULL,NULL,'2016-11-01','2016-11-30',NULL)
     ,('Robin Hanson','George Mason University','Associate Professor of Economics',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/george-mason-university-research-future-artificial-intelligence-scenarios',NULL,NULL,'2016-06-01','2016-06-30',NULL)
     ,('Zac Kenton','Montreal Institute for Learning Algorithms',NULL,NULL,NULL,NULL,NULL,'https://docs.google.com/spreadsheets/d/1iBy--zMyIiTgybYRUQZIm11WKGQZcixaCmIaysRmGvk',NULL,NULL,NULL,NULL,NULL)
+    ,('Vladimir Shakirov','Moscow Institute of Physics and Technology',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/abs/1605.04232',NULL,NULL,NULL,NULL,NULL)
 ;
