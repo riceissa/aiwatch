@@ -71,6 +71,12 @@ while ($row = $result->fetch_assoc()) { ?>
       <td><?= url_format($urls, $seen) ?></td>
     </tr>
   <?php } ?>
+  <?php if ($val = ($row['notes'] ?? '')) { ?>
+    <tr>
+      <td>Notes</td>
+      <td><?= $val ?></td>
+    </tr>
+  <?php } ?>
 
 <?php } ?>
 
