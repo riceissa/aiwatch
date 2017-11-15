@@ -64,6 +64,7 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('Hilary Greaves',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://docs.google.com/spreadsheets/d/1iBy--zMyIiTgybYRUQZIm11WKGQZcixaCmIaysRmGvk',NULL)
     ,('Jade Leung',NULL,'jade.leung.14',NULL,NULL,NULL,NULL,NULL,'https://docs.google.com/spreadsheets/d/1iBy--zMyIiTgybYRUQZIm11WKGQZcixaCmIaysRmGvk',NULL)
     ,('Zac Kenton',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://docs.google.com/spreadsheets/d/1iBy--zMyIiTgybYRUQZIm11WKGQZcixaCmIaysRmGvk',NULL)
+    ,('Girish Sastry',NULL,'gyratortron','gsastry','girish-sastry-2a39348',NULL,NULL,'http://girishsastry.com/','https://docs.google.com/spreadsheets/d/1iBy--zMyIiTgybYRUQZIm11WKGQZcixaCmIaysRmGvk',NULL)
 ;
 
 # Insert the rest of the people by taking names from positions
