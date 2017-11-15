@@ -66,6 +66,10 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('Zac Kenton',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://docs.google.com/spreadsheets/d/1iBy--zMyIiTgybYRUQZIm11WKGQZcixaCmIaysRmGvk',NULL)
     ,('Girish Sastry',NULL,'gyratortron','gsastry','girish-sastry-2a39348',NULL,NULL,'http://girishsastry.com/','https://docs.google.com/spreadsheets/d/1iBy--zMyIiTgybYRUQZIm11WKGQZcixaCmIaysRmGvk',NULL)
     ,('Vladimir Shakirov',NULL,'sergej.shegurin',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/abs/1605.04232','Also known as Sergej Shegurin.')
+    ,('David J. Jilk',NULL,'djilk',NULL,NULL,NULL,NULL,'http://www.jilk.com','http://www.tandfonline.com/eprint/DzAkuxSZTMM9JYVkjUMS/full http://effective-altruism.com/ea/14w/2017_ai_risk_literature_review_and_charity/ https://arxiv.org/abs/1604.06963', NULL)
+    ,('Seth J. Herd',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://www.tandfonline.com/eprint/DzAkuxSZTMM9JYVkjUMS/full',NULL)
+    ,('Stephen J. Read',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://www.tandfonline.com/eprint/DzAkuxSZTMM9JYVkjUMS/full',NULL)
+    ,('Randall C. O’Reilly',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://www.tandfonline.com/eprint/DzAkuxSZTMM9JYVkjUMS/full',NULL)
 ;
 
 # Insert the rest of the people by taking names from positions
