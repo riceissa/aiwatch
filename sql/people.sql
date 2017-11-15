@@ -60,6 +60,8 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('Gary Drescher',NULL,'gary.drescher',NULL,NULL,'Gary_Drescher','Gary_Drescher',NULL,NULL,NULL)
     ,('Jan Leike',NULL,'100009882604264',NULL,NULL,NULL,'160',NULL,NULL,NULL)
     ,('Sören Mindermann',NULL,NULL,NULL,NULL,NULL,'267',NULL,NULL,NULL)
+    ,('Amanda Askell',NULL,'amanda.askell',NULL,NULL,NULL,NULL,'http://www.amandaaskell.com','https://docs.google.com/spreadsheets/d/1iBy--zMyIiTgybYRUQZIm11WKGQZcixaCmIaysRmGvk',NULL)
+    ,('Hilary Greaves',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://docs.google.com/spreadsheets/d/1iBy--zMyIiTgybYRUQZIm11WKGQZcixaCmIaysRmGvk',NULL)
 ;
 
 # Insert the rest of the people by taking names from positions
