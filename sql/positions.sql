@@ -142,7 +142,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Laurent Orseau','AgroParisTech',NULL,NULL,NULL,NULL,NULL,'http://agi-conference.org/2012/wp-content/uploads/2012/12/paper_76.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Laurent Orseau','INRA',NULL,NULL,NULL,NULL,NULL,'http://agi-conference.org/2012/wp-content/uploads/2012/12/paper_76.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Mark Ring','IDSIA',NULL,NULL,NULL,NULL,NULL,'http://agi-conference.org/2012/wp-content/uploads/2012/12/paper_76.pdf http://people.idsia.ch/~ring/',NULL,NULL,NULL,NULL,NULL)
-    ,('Mark Ring','University of Lugano',NULL,NULL,NULL,NULL,NULL,'http://agi-conference.org/2012/wp-content/uploads/2012/12/paper_76.pdf',NULL,NULL,NULL,NULL,NULL)
+    ,('Mark Ring','Università della Svizzera italiana',NULL,NULL,NULL,NULL,NULL,'http://agi-conference.org/2012/wp-content/uploads/2012/12/paper_76.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Mark Ring','SUPSI',NULL,NULL,NULL,NULL,NULL,'http://agi-conference.org/2012/wp-content/uploads/2012/12/paper_76.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Stuart Russell','Center for Human-Compatible AI',NULL,NULL,NULL,NULL,NULL,'http://humancompatible.ai/about',NULL,NULL,NULL,NULL,NULL)
     ,('Pieter Abbeel','Center for Human-Compatible AI',NULL,NULL,NULL,NULL,NULL,'http://humancompatible.ai/about',NULL,NULL,NULL,NULL,NULL)
