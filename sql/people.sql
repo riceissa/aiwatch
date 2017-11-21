@@ -70,6 +70,7 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('Seth J. Herd',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://www.tandfonline.com/eprint/DzAkuxSZTMM9JYVkjUMS/full',NULL)
     ,('Stephen J. Read',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://www.tandfonline.com/eprint/DzAkuxSZTMM9JYVkjUMS/full',NULL)
     ,('Randall C. O’Reilly',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://www.tandfonline.com/eprint/DzAkuxSZTMM9JYVkjUMS/full',NULL)
+    ,('Sophie-Charlotte Fischer',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://www.allandafoe.com/aireadings',NULL)
 ;
 
 # Insert the rest of the people by taking names from positions
