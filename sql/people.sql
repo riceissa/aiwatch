@@ -72,6 +72,7 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('Randall C. O’Reilly',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://www.tandfonline.com/eprint/DzAkuxSZTMM9JYVkjUMS/full',NULL)
     ,('Sophie-Charlotte Fischer',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://www.allandafoe.com/aireadings',NULL)
     ,('Alexey Turchin','Russia','turchin.alexei',NULL,NULL,'turchin',NULL,'https://avturchin.livejournal.com/','https://ieet.org/index.php/IEET2/bio/turchin https://ieet.org/index.php/IEET2/more/turchin20150722 http://immortality-roadmap.com/aisafety.pdf http://lesswrong.com/lw/mgf/a_map_agi_failures_modes_and_levels/',NULL)
+    ,('Dustin Juliano',NULL,NULL,NULL,NULL,NULL,NULL,'http://dustinjuliano.com/','http://aisecurity.org/',NULL)
 ;
 
 # Insert the rest of the people by taking names from positions
