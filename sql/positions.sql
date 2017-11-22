@@ -474,4 +474,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Will Sawin','Institute for Theoretical Studies at ETH Zurich','Junior Fellow',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171104132257/http://wrai.org/',NULL,NULL,NULL,NULL,NULL)
     ,('Bas R. Steunebrink','NNAISENSE','Co-Founder',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171104132257/http://wrai.org/',NULL,NULL,NULL,NULL,NULL)
     ,('Max Daniel','Effective Altruism Foundation','Researcher',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171104132257/http://wrai.org/',NULL,NULL,NULL,NULL,NULL)
+    ,('Holden Karnofsky','Open Philanthropy Project','Executive Director',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/blog/potential-risks-advanced-artificial-intelligence-philanthropic-opportunity https://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence',NULL,NULL,NULL,NULL,NULL)
 ;
