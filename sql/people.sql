@@ -73,6 +73,9 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('Sophie-Charlotte Fischer',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://www.allandafoe.com/aireadings',NULL)
     ,('Alexey Turchin','Russia','turchin.alexei',NULL,NULL,'turchin',NULL,'https://avturchin.livejournal.com/','https://ieet.org/index.php/IEET2/bio/turchin https://ieet.org/index.php/IEET2/more/turchin20150722 http://immortality-roadmap.com/aisafety.pdf http://lesswrong.com/lw/mgf/a_map_agi_failures_modes_and_levels/',NULL)
     ,('Dustin Juliano',NULL,NULL,NULL,NULL,NULL,NULL,'http://dustinjuliano.com/','http://aisecurity.org/ http://dustinjuliano.com/papers/',NULL)
+    ,('Matteo Turchetta',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://wrai.org/slides/Safe%20Reinforcement%20Learning%20in%20Robotics%20with%20Bayesian%20Models%20-%20Felix%20Berkenkamp.pdf',NULL)
+    ,('Angela P. Schoellig',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://wrai.org/slides/Safe%20Reinforcement%20Learning%20in%20Robotics%20with%20Bayesian%20Models%20-%20Felix%20Berkenkamp.pdf',NULL)
+    ,('Andreas Krause',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://wrai.org/slides/Safe%20Reinforcement%20Learning%20in%20Robotics%20with%20Bayesian%20Models%20-%20Felix%20Berkenkamp.pdf',NULL)
 ;
 
 # Insert the rest of the people by taking names from positions
