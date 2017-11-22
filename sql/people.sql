@@ -76,6 +76,7 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('Matteo Turchetta',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://wrai.org/slides/Safe%20Reinforcement%20Learning%20in%20Robotics%20with%20Bayesian%20Models%20-%20Felix%20Berkenkamp.pdf',NULL)
     ,('Angela P. Schoellig',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://wrai.org/slides/Safe%20Reinforcement%20Learning%20in%20Robotics%20with%20Bayesian%20Models%20-%20Felix%20Berkenkamp.pdf',NULL)
     ,('Andreas Krause',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://wrai.org/slides/Safe%20Reinforcement%20Learning%20in%20Robotics%20with%20Bayesian%20Models%20-%20Felix%20Berkenkamp.pdf',NULL)
+    ,('Tobias Baumann',NULL,NULL,NULL,NULL,NULL,NULL,'http://tobiasbaumann.me/','http://s-risks.org/focus-areas-of-worst-case-ai-safety/ http://s-risks.org/training-neural-networks-to-detect-suffering/',NULL)
 ;
 
 # Insert the rest of the people by taking names from positions
