@@ -469,4 +469,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Smitha Milli','University of California, Berkeley',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1711.02827.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Pieter Abbeel','University of California, Berkeley',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1711.02827.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Stuart Russell','University of California, Berkeley',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1711.02827.pdf',NULL,NULL,NULL,NULL,NULL)
+    ,('Smitha Milli','OpenAI','Intern',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171122004535/http://smithamilli.com:80/',NULL,'2017-06-01',NULL,NULL,'2017-09-01')
 ;
