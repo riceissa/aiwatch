@@ -470,4 +470,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Pieter Abbeel','University of California, Berkeley',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1711.02827.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Stuart Russell','University of California, Berkeley',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1711.02827.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Smitha Milli','OpenAI','Intern',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171122004535/http://smithamilli.com:80/',NULL,'2017-06-01',NULL,NULL,'2017-09-01')
+    ,('Felix Berkenkamp','ETH Zurich','PhD student',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171104132257/http://wrai.org/',NULL,NULL,NULL,NULL,NULL)
+    ,('Will Sawin','Institute for Theoretical Studies at ETH Zurich','Junior Fellow',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171104132257/http://wrai.org/',NULL,NULL,NULL,NULL,NULL)
+    ,('Bas R. Steunebrink','NNAISENSE','Co-Founder',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171104132257/http://wrai.org/',NULL,NULL,NULL,NULL,NULL)
+    ,('Max Daniel','Effective Altruism Foundation','Researcher',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171104132257/http://wrai.org/',NULL,NULL,NULL,NULL,NULL)
 ;
