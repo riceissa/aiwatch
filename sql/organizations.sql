@@ -35,6 +35,7 @@ insert into organizations(organization, former_name, website, team_page, contact
     ,('Berkeley Existential Risk Initiative',NULL,'http://existence.org/',NULL,NULL,'United States','Andrew Critch,Gina Stuessy,Michael Keenan','2017-01-01','year',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
     ,('Future of Humanity Institute',NULL,'https://www.fhi.ox.ac.uk/',NULL,NULL,'United Kingdom','Nick Bostrom','2005-01-01','year','http://www.oxfordmartin.ox.ac.uk/research/programmes/future-humanity/',NULL,NULL,'FHIOxford',NULL,NULL,NULL,NULL,NULL,'FHIOxford','https://en.wikipedia.org/wiki/Future_of_Humanity_Institute','FHIOxford')
     ,('Montreal Institute for Learning Algorithms',NULL,'https://mila.quebec/en/','https://mila.quebec/en/mila/team/','lisa@iro.umontreal.ca','Canada','Yoshua Bengio',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
+    ,('GoodAI',NULL,'https://www.goodai.com',NULL,'info@goodai.com','Czech Republic','Marek Rosa','2014-01-01','month','https://archive.is/e1HBN',NULL,NULL,'GoodArtificialIntelligence',NULL,NULL,NULL,NULL,NULL,'GoodAIdev',NULL,'UCdBhluje9KahmlnU6cibZfg')
 ;
 
 insert into organizations(organization)
