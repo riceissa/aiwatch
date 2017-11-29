@@ -16,6 +16,16 @@ $seen = array();
   </thead>
   <tbody>
 <?php
+if ($stmt = $mysqli->prepare("select organization from organizations where hosting_organization = ?")) {
+  $stmt->bind_param("s", $organization);
+  $stmt->execute();
+  $result = $stmt->get_result();
+}
+$hosted_orgs = array();
+while ($row = $result->fetch_assoc()) {
+  $hosted_orgs[] = $row['organization'];
+}
+
 if ($stmt = $mysqli->prepare("select * from organizations where organization = ?")) {
   $stmt->bind_param("s", $organization);
   $stmt->execute();
@@ -71,6 +81,12 @@ while ($row = $result->fetch_assoc()) { ?>
       <td><a href="<?= $val ?>"><?= $val ?></a></td>
     </tr>
   <?php } ?>
+  <?php if ($val = ($row['hosting_organization'] ?? '')) { ?>
+    <tr>
+      <td>Hosting organization</td>
+      <td><?= link_organization($val) ?></td>
+    </tr>
+  <?php } ?>
   <?php if ($val = ($row['urls'] ?? '')) { ?>
     <tr>
       <td>Source</td>
@@ -79,6 +95,12 @@ while ($row = $result->fetch_assoc()) { ?>
   <?php } ?>
 
 <?php } ?>
+  <?php if ($hosted_orgs) { ?>
+    <tr>
+      <td>Hosted organization</td>
+      <td><?= implode(array_map("link_organization", $hosted_orgs)) ?></td>
+    </tr>
+  <?php } ?>
   </tbody>
 </table>
 
