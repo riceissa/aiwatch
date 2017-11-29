@@ -38,7 +38,7 @@ while ($row = $result->fetch_assoc()) { ?>
   <?php if ($val = ($row['youtube_username'] ?? '')) { ?>
     <tr>
       <td>YouTube username</td>
-      <td><a href="https://www.youtube.com/user/<?= $val ?>"><?= $val ?></a></td>
+      <td><a href="https://www.youtube.com/<?= $val ?>"><?= $val ?></a></td>
     </tr>
   <?php } ?>
   <?php if ($val = ($row['twitter_username'] ?? '')) { ?>
