@@ -36,6 +36,10 @@ insert into organizations(organization, former_name, website, team_page, contact
     ,('Future of Humanity Institute',NULL,'https://www.fhi.ox.ac.uk/',NULL,NULL,'United Kingdom','Nick Bostrom','2005-01-01','year','http://www.oxfordmartin.ox.ac.uk/research/programmes/future-humanity/',NULL,NULL,'FHIOxford',NULL,NULL,NULL,NULL,NULL,'FHIOxford','https://en.wikipedia.org/wiki/Future_of_Humanity_Institute','user/FHIOxford')
     ,('Montreal Institute for Learning Algorithms',NULL,'https://mila.quebec/en/','https://mila.quebec/en/mila/team/','lisa@iro.umontreal.ca','Canada','Yoshua Bengio',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
     ,('GoodAI',NULL,'https://www.goodai.com',NULL,'info@goodai.com','Czech Republic','Marek Rosa','2014-01-01','month','https://archive.is/e1HBN',NULL,NULL,'GoodArtificialIntelligence',NULL,NULL,NULL,NULL,NULL,'GoodAIdev',NULL,'channel/UCdBhluje9KahmlnU6cibZfg')
+    ,('AIDEUS',NULL,'http://aideus.com/',NULL,'info@aideus.com','Russia','Alexey Potapov,Sergey Rodionov',NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
+    ,('CogPrime',NULL,'https://wiki.opencog.org/w/CogPrime_Overview',NULL,NULL,'United States','Ben Goertzel',NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
+    ,('Google DeepMind',NULL,'https://deepmind.com/',NULL,NULL,'United Kingdom','Demis Hassabis,Shane Legg,Mustafa Suleyman',NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
+    ,('NARS',NULL,'https://sites.google.com/site/narswang/',NULL,NULL,'United States','Pei Wang',NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
 ;
 
 insert into organizations(organization)
