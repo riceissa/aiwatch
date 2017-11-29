@@ -97,7 +97,7 @@ while ($row = $result->fetch_assoc()) { ?>
 <?php } ?>
   <?php if ($hosted_orgs) { ?>
     <tr>
-      <td>Hosted organization</td>
+      <td>Hosted organizations</td>
       <td><?= implode(array_map("link_organization", $hosted_orgs)) ?></td>
     </tr>
   <?php } ?>
