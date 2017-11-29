@@ -80,7 +80,9 @@ if ($_REQUEST['person'] ?? '') {
   and is partially
   <a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=AI+Watch&amp;matching=exact">funded by Vipul Naik</a>.</p>
 
-<p>Last updated on: <?= $head_date ?>.</p>
+<p>This site is still under active development.</p>
+
+<p>Last updated on <?= $head_date ?>.</p>
 
 <h2 id="table-of-contents">Table of contents</h2>
 
