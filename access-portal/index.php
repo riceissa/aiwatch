@@ -5,7 +5,7 @@ $head_date = trim(file_get_contents("head_date.txt"));
 $title = "";
 if ($_REQUEST['person'] ?? '') {
   $title = htmlspecialchars($_REQUEST['person']);
-} else if ($_REQUEST['organization']) {
+} else if ($_REQUEST['organization'] ?? '') {
   $title = htmlspecialchars($_REQUEST['organization']);
 }
 ?>
