@@ -160,6 +160,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Andrew Critch','Berkeley Existential Risk Initiative','Executive Director',NULL,NULL,NULL,NULL,'http://existence.org/team/',NULL,NULL,NULL,NULL,NULL)
     ,('Kenzi Amodei','Berkeley Existential Risk Initiative','Interim Deputy Director','2017-07-01','month',NULL,NULL,'http://existence.org/team/ http://existence.org/08-2017-semi-annual-report.pdf',NULL,NULL,'2017-07-31','2017-10-31',NULL)
     ,('Rebecca Raible','Berkeley Existential Risk Initiative','Writer and Operations Manager','2017-08-01','month',NULL,NULL,'http://existence.org/team/ http://existence.org/08-2017-semi-annual-report.pdf',NULL,NULL,'2017-08-31','2017-10-31',NULL)
+    ,('Kyle Scott','Berkeley Existential Risk Initiative','Project Manager','2017-10-01','month',NULL,NULL,'http://existence.org/2017/11/03/activity-update-october-2017.html https://archive.is/esMXe',NULL,NULL,NULL,NULL,NULL)
     ,('Gina Stuessy','Berkeley Existential Risk Initiative','Operations Consulting',NULL,NULL,NULL,NULL,'http://existence.org/team/',NULL,NULL,NULL,NULL,NULL)
     ,('Michael Keenan','Berkeley Existential Risk Initiative','IT Support',NULL,NULL,NULL,NULL,'http://existence.org/team/',NULL,NULL,NULL,NULL,NULL)
     ,('Andrew Snyder-Beattie','Berkeley Existential Risk Initiative','Advisor',NULL,NULL,NULL,NULL,'http://existence.org/team/',NULL,NULL,NULL,NULL,NULL)
@@ -490,4 +491,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('David Krueger','Future of Humanity Institute','Intern','2016-07-01','month','2016-09-01','month','http://www-etud.iro.umontreal.ca/~kruegerd/DavidKruegerCV.pdf https://mila.quebec/en/person/david-scott-krueger/',NULL,NULL,NULL,NULL,NULL)
     ,('Jonathan Yan','Real AI','Founder',NULL,NULL,NULL,NULL,'https://github.com/yanjon https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
     ,('Pei Wang','NARS','Project leader',NULL,NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
+    ,('Kyle Scott','Future of Humanity Institute','Executive Assistant',NULL,NULL,NULL,NULL,'https://archive.is/esMXe',NULL,NULL,NULL,NULL,NULL)
 ;
