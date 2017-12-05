@@ -485,4 +485,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jan Feyereisl','GoodAI','Senior Research Scientist',NULL,NULL,NULL,NULL,'https://gist.github.com/riceissa/331f6f15e116230a3e1df57d2f8252ea https://www.roadmapinstitute.org/','Also a Challenge Ambassador of the General AI Challenge and the Executive Director of the AI Roadmap Institute, two initiatives by GoodAI.',NULL,NULL,NULL,NULL)
     ,('Jesse Liptrap','Machine Intelligence Research Institute','Software Engineer',NULL,NULL,NULL,NULL,'https://intelligence.org/2017/12/01/miris-2017-fundraiser/',NULL,NULL,NULL,NULL,NULL)
     ,('Nick Tarleton','Machine Intelligence Research Institute','Software Engineer',NULL,NULL,NULL,NULL,'https://intelligence.org/2017/12/01/miris-2017-fundraiser/',NULL,NULL,NULL,NULL,NULL)
+    ,('Ryan Carey','Machine Intelligence Research Institute','Assistant Research Fellow',NULL,NULL,'2017-09-01','month','https://web.archive.org/web/20170808160027/https://intelligence.org/team/ https://intelligence.org/2017/09/24/september-2017-newsletter/',NULL,NULL,NULL,NULL,NULL)
+    ,('Ryan Carey','Future of Humanity Institute',NULL,'2017-09-01','month',NULL,NULL,'https://intelligence.org/2017/09/24/september-2017-newsletter/','Collaboration with Owain Evans on AI safety work.',NULL,NULL,NULL,NULL)
 ;
