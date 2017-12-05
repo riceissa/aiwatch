@@ -489,4 +489,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Ryan Carey','Future of Humanity Institute',NULL,'2017-09-01','month',NULL,NULL,'https://intelligence.org/2017/09/24/september-2017-newsletter/','Collaboration with Owain Evans on AI safety work.',NULL,NULL,NULL,NULL)
     ,('David Krueger','Future of Humanity Institute','Intern','2016-07-01','month','2016-09-01','month','http://www-etud.iro.umontreal.ca/~kruegerd/DavidKruegerCV.pdf https://mila.quebec/en/person/david-scott-krueger/',NULL,NULL,NULL,NULL,NULL)
     ,('Jonathan Yan','Real AI','Founder',NULL,NULL,NULL,NULL,'https://github.com/yanjon https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
+    ,('Pei Wang','NARS','Project leader',NULL,NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
 ;
