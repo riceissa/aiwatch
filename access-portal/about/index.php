@@ -41,7 +41,21 @@
 
 <p>So far, all of the development is done by Issa Rice.</p>
 
-<p>Funding is provided by <a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=AI+Watch&amp;matching=exact">Vipul Naik</a>.</p>
+<p>Funding is provided by <a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=AI+Watch&amp;matching=exact">Vipul Naik</a>.
+  That page only covers task payment. The site is developed under work time for Vipul, which is funded by a stipend as well.</p>
+
+<h2>What the site is still missing</h2>
+
+<p>The main AI safety organizations are covered, so the missing people
+  are mostly individual researchers, people who used to work at these
+  organizations, and also interns (which most organizations don’t list
+  on their team pages).</p>
+
+<p>I have a list of people I want to add which I will get to soon.</p>
+
+<p>Eventually I would like to add more features to the site like graphs but for now I am mostly just adding data (which will make the graphs more interesting).</p>
+
+<p>I am also considering adding more tables to the database. Currently I have people, organizations, and positions. But I could also track documents, tools (e.g. websites, software), etc.</p>
 
 <h2>Update strategy</h2>
 
