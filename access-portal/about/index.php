@@ -42,7 +42,9 @@
 <p>So far, all of the development is done by Issa Rice.</p>
 
 <p>Funding is provided by <a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=AI+Watch&amp;matching=exact">Vipul Naik</a>.
-  That page only covers task payment. The site is developed under work time for Vipul, which is funded by a stipend as well.</p>
+  That page only covers task payment. The site is developed under work time for Vipul, which is funded by a stipend as well. The stipend payment for AI Watch can be calculated as a percentage of the total stipend depending on how much time I have spent working on this site. Development on Vipul’s time is limited to one day per week (for several more weeks). I will add a calculation here at some point.</p>
+
+<p>Finding people/positions to add to the site was an informal process.</p>
 
 <h2>What the site is still missing</h2>
 
@@ -51,7 +53,7 @@
   organizations, and also interns (which most organizations don’t list
   on their team pages).</p>
 
-<p>I have a list of people I want to add which I will get to soon.</p>
+<p>I have a list of people I want to add which I will get to soon. (I won’t bother with making that public for now, as I will get to it soon enough.)</p>
 
 <p>Eventually I would like to add more features to the site like graphs but for now I am mostly just adding data (which will make the graphs more interesting).</p>
 
@@ -68,11 +70,16 @@
     that organization’s team members)</li>
   <li><a href="https://www.reddit.com/r/ControlProblem/">r/ControlProblem</a></li>
   <li>Some AI safety Facebook groups</li>
+  <li>LessWrong</li>
 </ul>
 
 <h2>History</h2>
 
 <p>Development for the site began on October 23, 2017.</p>
+
+<h2>Feedback</h2>
+
+<p>If you have feedback for the site, email Issa at riceissa@gmail.com. All feedback including praise, criticism, concerns, thoughts on the usability of the site, feature requests, people or positions that should be added, are appreciated.</p>
 
 <script>
     anchors.add();
