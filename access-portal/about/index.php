@@ -35,9 +35,10 @@
 
 <p>The site is built using PHP for the interface and logic and MySQL
   for the database. The site design is influenced by Vipul Naik’s
-  websites. You can find
+  websites (e.g. his <a href="https://donations.vipulnaik.com/">Donations List Website</a>
+  ). You can find
   the <a href="https://github.com/riceissa/aiwatch">Git repository on
-    GitHub</a> which has all the code and data.</p>
+    GitHub</a>, which has all the code and data.</p>
 
 <p>So far, all of the development is done by Issa Rice.</p>
 
@@ -51,9 +52,9 @@
 <p>The main AI safety organizations are covered, so the missing people
   are mostly individual researchers, people who used to work at these
   organizations, and also interns (which most organizations don’t list
-  on their team pages).</p>
+  on their team pages). I also haven’t added a lot of the start/end dates for positions, since these are difficult to find.</p>
 
-<p>I have a list of people I want to add which I will get to soon. (I won’t bother with making that public for now, as I will get to it soon enough.)</p>
+<p>I have a private list of people I want to add which I will get to soon. (I won’t bother with making that public for now, as I will get to it soon enough.)</p>
 
 <p>Eventually I would like to add more features to the site like graphs but for now I am mostly just adding data (which will make the graphs more interesting).</p>
 
@@ -79,7 +80,8 @@
 
 <h2>Feedback</h2>
 
-<p>If you have feedback for the site, email Issa at riceissa@gmail.com. All feedback including praise, criticism, concerns, thoughts on the usability of the site, feature requests, people or positions that should be added, are appreciated.</p>
+<p>If you have feedback for the site, email Issa at riceissa@gmail.com. You can also <a href="https://github.com/riceissa/aiwatch/issues">add an issue</a> on the GitHub repository.
+  All feedback including praise, criticism, concerns, thoughts on the usability of the site, feature requests, and people or positions that should be added, are appreciated.</p>
 
 <script>
     anchors.add();
