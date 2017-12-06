@@ -502,4 +502,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Hideyuki Nakashima','Whole Brain Architecture Initiative','Advisor',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171206000415/https://wba-initiative.org/en/about/organization/ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
     ,('Koji Morikawa','Whole Brain Architecture Initiative','Auditor-secretary',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171206000415/https://wba-initiative.org/en/about/organization/ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
     ,('Richard Loosemore','Susaro','CEO','2017-05-01','month',NULL,NULL,'https://www.linkedin.com/in/richard-loosemore-47a2164/ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
+    ,('Ben Goertzel','CogPrime','Project Leader',NULL,NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
 ;
