@@ -31,6 +31,12 @@
   safety/risk/alignment, or someone with an explicit interest claiming
   relevance to safety work.</p>
 
+<p>If an organization is about global catastrophic risks, I try to find the specific people from the organization who work on AI safety. If that is not possible I add everyone, for the sake of inclusiveness.</p>
+
+<p>Similarly, if an organization is about building an AGI and I can identify the specific people within the organization who work on safety, I try to add only those people. Otherwise I just add everyone.</p>
+
+<p>So far I have been adding people who perform general work like office management, even though if they did the exact same work at an organization that didn’t work on AI safety, they wouldn’t have been added. I am not sure if this is ideal and might change that at some point.</p>
+
 <h2>How the site was built</h2>
 
 <p>The site is built using PHP for the interface and logic and MySQL
