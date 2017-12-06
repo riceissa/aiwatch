@@ -504,4 +504,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Richard Loosemore','Susaro','CEO','2017-05-01','month',NULL,NULL,'https://www.linkedin.com/in/richard-loosemore-47a2164/ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
     ,('Ben Goertzel','CogPrime','Project Leader',NULL,NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
     ,('Daniel Filan','Future of Humanity Institute','Intern',NULL,NULL,NULL,NULL,'https://www.fhi.ox.ac.uk/team/daniel-filan/','Working with Owain Evans',NULL,NULL,NULL,NULL)
+    ,('Stan Franklin','Learning Intelligent Distribution Agent','Project Leader',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171206025343/http://ccrg.cs.memphis.edu/people.html https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
+    ,('Tamas Madl','Learning Intelligent Distribution Agent','External Member',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171206025343/http://ccrg.cs.memphis.edu/people.html https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
 ;
