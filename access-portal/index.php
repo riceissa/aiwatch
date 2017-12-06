@@ -26,7 +26,8 @@ if ($_REQUEST['person'] ?? '') {
 </head>
 <body>
 <nav>
-<a href="/">Home</a>
+  <a href="/">Home</a>,
+  <a href="/about">About</a>
 </nav>
 <?php
 include_once("backend/globalVariables/passwordFile.inc");

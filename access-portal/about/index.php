@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <meta name="dcterms.date" content="2017-12-05">
+  <meta property="og:title" content="About" />
+  <meta property="og:site_name" content="AI Watch" />
+  <meta property="og:locale" content="en_US" />
+  <title>About - AI Watch</title>
+  <script src="/anchor.min.js"></script>
+<?php include_once("../style.inc"); ?>
+<?php include_once("../analytics.inc"); ?>
+</head>
+<body>
+<nav>
+  <a href="/">Home</a>,
+  <a href="/about/">About</a>
+</nav>
+
+<h1>About</h1>
+
+<p>AI Watch is a website to track people and organizations working on
+  AI safety.</p>
+
+<h2>Inclusion criteria</h2>
+
+<p>The site is new and is still under active development, so there are
+  no hard criteria for including people or organizations on this site.
+  Generally what I look for are explicit statement of interest in AI
+  safety/risk/alignment, or someone with an explicit interest claiming
+  relevance to safety work.</p>
+
+<h2>How the site was built</h2>
+
+<p>The site is built using PHP for the interface and logic and MySQL
+  for the database. The site design is influenced by Vipul Naik’s
+  websites. You can find
+  the <a href="https://github.com/riceissa/aiwatch">Git repository on
+    GitHub</a> which has all the code and data.</p>
+
+<p>So far, all of the development is done by Issa Rice.</p>
+
+<p>Funding is provided by <a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=AI+Watch&amp;matching=exact">Vipul Naik</a>.</p>
+
+<h2>Update strategy</h2>
+
+<p>I don't think there is any single place to look for to find
+  additions to this site (which is part of why I wanted to make this
+  site in the first place). Some places to look are:</p>
+
+<ul>
+  <li>Organizations’ blogs or social media updates (for updates about
+    that organization’s team members)</li>
+  <li><a href="https://www.reddit.com/r/ControlProblem/">r/ControlProblem</a></li>
+  <li>Some AI safety Facebook groups</li>
+</ul>
+
+<h2>History</h2>
+
+<p>Development for the site began on October 23, 2017.</p>
+
+<script>
+    anchors.add();
+</script>
+</body>
+</html>
