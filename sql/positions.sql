@@ -567,4 +567,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Brian Ziebart','University of Illinois at Chicago',NULL,NULL,NULL,NULL,NULL,'https://futureoflife.org/first-ai-grant-recipients/',NULL,NULL,NULL,NULL,NULL)
     ,('Wendell Wallach','Yale University',NULL,NULL,NULL,NULL,NULL,'https://futureoflife.org/first-ai-grant-recipients/',NULL,NULL,NULL,NULL,NULL)
     ,('Moshe Vardi','Rice University',NULL,NULL,NULL,NULL,NULL,'https://futureoflife.org/first-ai-grant-recipients/',NULL,NULL,NULL,NULL,NULL)
+    ,('Blake Borgeson','Machine Intelligence Research Institute','General Advisor','2017-11-01','month',NULL,NULL,'https://intelligence.org/2017/12/06/december-2017-newsletter/',NULL,NULL,NULL,NULL,NULL)
 ;
