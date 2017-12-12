@@ -537,4 +537,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Benjamin Clément','FLOWERS','PhD student','2015-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
     ,('Florian Golemo','FLOWERS','PhD student','2015-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
     ,('Alvaro Ovalle Castaneda','FLOWERS','PhD student','2016-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
+    ,('Geoffrey Irving','OpenAI','Member of AI safety team',NULL,NULL,NULL,NULL,'https://archive.is/YR6mG http://archive.is/2017.12.12-204848/https://naml.us/',NULL,NULL,NULL,NULL,NULL)
 ;
