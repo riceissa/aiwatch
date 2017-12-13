@@ -586,4 +586,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Mikael Böörs','Linköping University',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1708.03871.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Elliot Catt','Australian National University',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1708.03871.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Steve Omohundro','Self-Aware Systems',NULL,NULL,NULL,NULL,NULL,'http://www.tandfonline.com/doi/full/10.1080/0952813X.2014.895111 https://selfawaresystems.com/',NULL,NULL,NULL,NULL,NULL)
+    ,('David J. Jilk','eCortex',NULL,NULL,NULL,NULL,NULL,'http://www.tandfonline.com/eprint/DzAkuxSZTMM9JYVkjUMS/full',NULL,NULL,NULL,NULL,NULL)
+    ,('Seth J. Herd','eCortex',NULL,NULL,NULL,NULL,NULL,'http://www.tandfonline.com/eprint/DzAkuxSZTMM9JYVkjUMS/full',NULL,NULL,NULL,NULL,NULL)
+    ,('Stephen J. Read','University of Southern California',NULL,NULL,NULL,NULL,NULL,'http://www.tandfonline.com/eprint/DzAkuxSZTMM9JYVkjUMS/full',NULL,NULL,NULL,NULL,NULL)
+    ,('Randall C. O’Reilly','eCortex',NULL,NULL,NULL,NULL,NULL,'http://www.tandfonline.com/eprint/DzAkuxSZTMM9JYVkjUMS/full',NULL,NULL,NULL,NULL,NULL)
+    ,('Randall C. O’Reilly','University of Colorado Boulder',NULL,NULL,NULL,NULL,NULL,'http://www.tandfonline.com/eprint/DzAkuxSZTMM9JYVkjUMS/full',NULL,NULL,NULL,NULL,NULL)
 ;
