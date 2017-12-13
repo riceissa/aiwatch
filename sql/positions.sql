@@ -488,7 +488,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Nick Tarleton','Machine Intelligence Research Institute','Software Engineer',NULL,NULL,NULL,NULL,'https://intelligence.org/2017/12/01/miris-2017-fundraiser/',NULL,NULL,NULL,NULL,NULL)
     ,('Ryan Carey','Machine Intelligence Research Institute','Assistant Research Fellow',NULL,NULL,'2017-09-01','month','https://web.archive.org/web/20170808160027/https://intelligence.org/team/ https://intelligence.org/2017/09/24/september-2017-newsletter/',NULL,NULL,NULL,NULL,NULL)
     ,('Ryan Carey','Future of Humanity Institute',NULL,'2017-09-01','month',NULL,NULL,'https://intelligence.org/2017/09/24/september-2017-newsletter/','Collaboration with Owain Evans on AI safety work.',NULL,NULL,NULL,NULL)
-    ,('David Krueger','Future of Humanity Institute','Intern','2016-07-01','month','2016-09-01','month','http://www-etud.iro.umontreal.ca/~kruegerd/DavidKruegerCV.pdf https://mila.quebec/en/person/david-scott-krueger/',NULL,NULL,NULL,NULL,NULL)
+    ,('David Krueger','Future of Humanity Institute','Intern','2016-07-01','month','2016-09-01','month','http://www-etud.iro.umontreal.ca/~kruegerd/DavidKruegerCV.pdf https://mila.quebec/en/person/david-scott-krueger/ https://www.fhi.ox.ac.uk/q3-newsletter/',NULL,NULL,NULL,NULL,NULL)
     ,('Jonathan Yan','Real AI','Founder',NULL,NULL,NULL,NULL,'https://github.com/yanjon https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
     ,('Pei Wang','NARS','Project leader',NULL,NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
     ,('Kyle Scott','Future of Humanity Institute','Executive Assistant',NULL,NULL,NULL,NULL,'https://archive.is/esMXe',NULL,NULL,NULL,NULL,NULL)
@@ -572,4 +572,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Sergey Rodionov','AIDEUS',NULL,NULL,NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://arxiv.org/pdf/1308.0702.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Alexey Potapov','ITMO University',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1308.0702.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Sergey Rodionov','Aix-Marseille University',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1308.0702.pdf',NULL,NULL,NULL,NULL,NULL)
+    ,('David Abel','Future of Humanity Institute','Intern','2016-07-01','month',NULL,NULL,'https://www.fhi.ox.ac.uk/q3-newsletter/',NULL,NULL,NULL,NULL,NULL)
+    ,('John Salvatier','Future of Humanity Institute','Intern','2016-07-01','month',NULL,NULL,'https://www.fhi.ox.ac.uk/q3-newsletter/',NULL,NULL,NULL,NULL,NULL)
 ;
