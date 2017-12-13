@@ -585,4 +585,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Tobias Wängberg','Linköping University',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1708.03871.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Mikael Böörs','Linköping University',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1708.03871.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Elliot Catt','Australian National University',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1708.03871.pdf',NULL,NULL,NULL,NULL,NULL)
+    ,('Steve Omohundro','Self-Aware Systems',NULL,NULL,NULL,NULL,NULL,'http://www.tandfonline.com/doi/full/10.1080/0952813X.2014.895111',NULL,NULL,NULL,NULL,NULL)
 ;
