@@ -597,4 +597,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Randall C. O’Reilly','University of Colorado Boulder',NULL,NULL,NULL,NULL,NULL,'http://www.tandfonline.com/eprint/DzAkuxSZTMM9JYVkjUMS/full',NULL,NULL,NULL,NULL,NULL)
     ,('Jelena Luketina','Aalto University',NULL,NULL,NULL,NULL,NULL,'https://intelligence.org/workshops/ https://vkrakovna.wordpress.com/2016/10/15/openai-unconference-on-machine-learning/ https://arxiv.org/pdf/1711.05541.pdf https://people.aalto.fi/pdf/1171342.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Jelena Luketina','Université de Montréal',NULL,NULL,NULL,NULL,NULL,'https://intelligence.org/workshops/ https://vkrakovna.wordpress.com/2016/10/15/openai-unconference-on-machine-learning/ https://arxiv.org/pdf/1711.05541.pdf https://people.aalto.fi/pdf/1171342.pdf',NULL,NULL,NULL,NULL,NULL)
+    ,('Patrick LaVictoire','University of Wisconsin–Madison','Postdoc',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20130806220841/http://www.math.wisc.edu/~patlavic/ https://intelligence.org/workshops/',NULL,NULL,NULL,NULL,NULL)
 ;
