@@ -125,14 +125,25 @@ if ($stmt = $mysqli->prepare("select * from positions where organization = ?")) 
   $result = $stmt->get_result();
 }
 
-while ($row = $result->fetch_assoc()) { ?>
+while ($row = $result->fetch_assoc()) {
+  list($start_guess, $start_explanation) = date_guess(
+    $row['start_date_lower_guess'] ?? '',
+    $row['start_date_upper_guess'] ?? '',
+    "start");
+  list($end_guess, $end_explanation) = date_guess(
+    $row['end_date_lower_guess'] ?? '',
+    $row['end_date_upper_guess'] ?? '',
+    "end");
+?>
   <tr>
     <td><?= link_person($row['person']) ?></td>
     <td><?= $row['title'] ?? '' ?></td>
-    <td><?= display_date($row['start_date'] ?? '', $row['start_date_precision'] ?? '') ?></td>
-    <td><?= display_date($row['end_date'] ?? '', $row['end_date'] ?? '') ?></td>
+    <td><?= display_date($row['start_date'] ?? '',
+      $row['start_date_precision'] ?? '', $start_guess) ?></td>
+    <td><?= display_date($row['end_date'] ?? '',
+      $row['end_date_precision'] ?? '', $end_guess) ?></td>
     <td><?= url_format($row['urls'], $seen) ?? '' ?></td>
-    <td><?= $row['notes'] ?? '' ?></td>
+    <td><?= $row['notes'] ?? '' ?><?= $start_explanation ? $start_explanation : "" ?><?= $end_explanation ? $end_explanation : "" ?></td>
   </tr>
 <?php } ?>
   </tbody>
