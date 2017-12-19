@@ -143,7 +143,7 @@ while ($row = $result->fetch_assoc()) {
     <td><?= display_date($row['end_date'] ?? '',
       $row['end_date_precision'] ?? '', $end_guess) ?></td>
     <td><?= url_format($row['urls'], $seen) ?? '' ?></td>
-    <td><?= $row['notes'] ?? '' ?><?= $start_explanation ? $start_explanation : "" ?><?= $end_explanation ? $end_explanation : "" ?></td>
+    <td><?= ($row['notes'] ?? '') ? $row['notes'] . " " : "" ?><?= $start_explanation ? $start_explanation . " " : "" ?><?= $end_explanation ? $end_explanation : "" ?></td>
   </tr>
 <?php } ?>
   </tbody>
