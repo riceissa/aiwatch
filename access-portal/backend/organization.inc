@@ -129,8 +129,8 @@ while ($row = $result->fetch_assoc()) { ?>
   <tr>
     <td><?= link_person($row['person']) ?></td>
     <td><?= $row['title'] ?? '' ?></td>
-    <td><?= $row['start_date'] ?? '' ?></td>
-    <td><?= $row['end_date'] ?? '' ?></td>
+    <td><?= display_date($row['start_date'] ?? '', $row['start_date_precision'] ?? '') ?></td>
+    <td><?= display_date($row['end_date'] ?? '', $row['end_date'] ?? '') ?></td>
     <td><?= url_format($row['urls'], $seen) ?? '' ?></td>
     <td><?= $row['notes'] ?? '' ?></td>
   </tr>
