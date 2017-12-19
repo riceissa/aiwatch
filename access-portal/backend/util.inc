@@ -25,7 +25,7 @@ function link_organization($organization) {
     . $organization . '</a>';
 }
 
-function display_date($date, $precision) {
+function display_date(string $date, string $precision) {
   if ((!$date) && (!$precision)) {
     return "";
   }
