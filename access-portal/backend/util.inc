@@ -25,9 +25,54 @@ function link_organization($organization) {
     . $organization . '</a>';
 }
 
-function display_date(string $date, string $precision) {
-  if ((!$date) && (!$precision)) {
+function date_guess(string $lowerGuess, string $upperGuess,
+    string $startOrEnd) {
+  $explanation = "The $startOrEnd date guess is";
+
+  if ($lowerGuess && $upperGuess) {
+    // We have a lower and upper guess, so take the average for the guess.
+    $guess = date('Y-m-d', (strtotime($upperGuess) + strtotime($lowerGuess)) / 2.0);
+    $explanation .= " $guess.";
+
+    if ($startOrEnd == "start") {
+      $explanation .= " This is computed as the average of the lower guess"
+        . " ($lowerGuess; the latest known date on which the person was doing"
+        . " something other than the current position, prior to the"
+        . " current position) and upper guess"
+        . " ($upperGuess; the earliest known date on which the person"
+        . " held the position) of the start of the position.";
+    } else {
+      $explanation .= " This is computed as the average of the lower guess"
+        . " ($lowerGuess; the latest known date on which the the person"
+        . " held the position) and upper guess"
+        . " ($upperGuess; the earliest known date on which the person was doing"
+        . " something other than the current position, after the current"
+        . " position) of the end of the position.";
+    }
+  } else if ($lowerGuess) {
+    // We only have the lower guess, so use that.
+    $guess = $lowerGuess;
+    $explanation .= " $guess.";
+  } else if ($upperGuess) {
+    // We only have the upper guess, so use that.
+    $guess = $upperGuess;
+    $explanation .= " $guess.";
+  } else {
+    $guess = "";
+    $explanation = "";
+  }
+
+  return array($guess, $explanation);
+
+}
+
+function display_date(string $date, string $precision, string $guess) {
+  if ((!$date) && (!$precision) && (!$guess)) {
     return "";
+  }
+  if ((!$date) && (!$precision) && $guess) {
+    return '<span title="Using guess; see notes column for explanation.">'
+      . $guess . '<span style="color: #888">';
   }
 
   switch ($precision) {
