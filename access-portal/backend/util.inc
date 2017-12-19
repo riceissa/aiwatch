@@ -71,8 +71,9 @@ function display_date(string $date, string $precision, string $guess) {
     return "";
   }
   if ((!$date) && (!$precision) && $guess) {
-    return '<span title="Using guess; see notes column for explanation.">'
-      . $guess . '<span style="color: #888">';
+    return '<span style="color: #888"'
+      .' title="Using guess; see notes column for explanation.">'
+      . $guess . '</span>';
   }
 
   switch ($precision) {
