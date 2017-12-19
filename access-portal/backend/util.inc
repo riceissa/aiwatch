@@ -24,4 +24,29 @@ function link_organization($organization) {
   return '<a href="/?organization=' . urlencode($organization) . '">'
     . $organization . '</a>';
 }
+
+function display_date($date, $precision) {
+  if ((!$date) && (!$precision)) {
+    return "";
+  }
+
+  switch ($precision) {
+  case "day":
+    return '<span title="Precision known to day">' . $date . '</span>';
+    break;
+  case "month":
+    return '<span title="Precision known to month">' . substr($date, 0, 7)
+      . '<span style="color: #888">'
+      . substr($date, 7) . '</span>' . '</span>';
+    break;
+  case "year":
+    return '<span title="Precision known to year">' . substr($date, 0, 4)
+      . '<span style="color: #888">'
+      . substr($date, 4) . '</span>' . '</span>';
+    break;
+  default:
+    return '<span title="Precision unknown">' . '<span style="color: #888">'
+      . $date . '</span>' . '</span>';
+  }
+}
 ?>
