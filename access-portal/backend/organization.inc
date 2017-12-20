@@ -115,7 +115,7 @@ while ($row = $result->fetch_assoc()) { ?>
       <th>End date</th>
       <th>Source</th>
       <th>Notes</th>
-    <tr>
+    </tr>
   </thead>
   <tbody>
 <?php
