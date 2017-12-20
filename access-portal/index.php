@@ -88,26 +88,26 @@ if ($_REQUEST['person'] ?? '') {
   sort($relations);
   sort($subjects);
 ?>
-  <table>
-    <thead><tr>
-      <th>Subject</th>
-        <?php
-          foreach ($relations as $r) {
-            echo '<th>' . ($r ?? 'Unknown') . '</th>';
-          }
-        ?>
-    </tr></thead>
-    <tbody>
-      <?php foreach ($subjects as $s) { ?>
-        <tr>
-          <td><?= $s ?? "Unknown" ?></td>
-          <?php foreach ($relations as $r) { ?>
-            <td><?= $relationBySubject[$s][$r] ?? 0 ?></td>
-          <?php } ?>
-        </tr>
-      <?php } ?>
-    </tbody>
-  </table>
+<table>
+  <thead><tr>
+    <th>Subject</th>
+      <?php
+        foreach ($relations as $r) {
+          echo '<th>' . ($r ?? 'Unknown') . '</th>';
+        }
+      ?>
+  </tr></thead>
+  <tbody>
+    <?php foreach ($subjects as $s) { ?>
+      <tr>
+        <td><?= $s ?? "Unknown" ?></td>
+        <?php foreach ($relations as $r) { ?>
+          <td><?= $relationBySubject[$s][$r] ?? 0 ?></td>
+        <?php } ?>
+      </tr>
+    <?php } ?>
+  </tbody>
+</table>
 
 <?php
   $years = array();
@@ -146,30 +146,30 @@ if ($_REQUEST['person'] ?? '') {
   positions haven’t been categorized by start/end dates so this table will only
   be useful in the future.</p>
 
-  <table>
-    <thead><tr>
-      <th>Year</th>
-      <th>Start date</th>
-      <th>End date</th>
-      <th>Start date lower guess</th>
-      <th>Start date upper guess</th>
-      <th>End date lower guess</th>
-      <th>End date upper guess</th>
-    </tr></thead>
-    <tbody>
-      <?php foreach ($years as $y) { ?>
-        <tr>
-          <td><?= $y ?? "Unknown" ?></td>
-          <td><?= $byYear['start_date'][$y] ?? 0 ?></td>
-          <td><?= $byYear['end_date'][$y] ?? 0 ?></td>
-          <td><?= $byYear['start_date_lower_guess'][$y] ?? 0 ?></td>
-          <td><?= $byYear['start_date_upper_guess'][$y] ?? 0 ?></td>
-          <td><?= $byYear['end_date_lower_guess'][$y] ?? 0 ?></td>
-          <td><?= $byYear['end_date_upper_guess'][$y] ?? 0 ?></td>
-        </tr>
-      <?php } ?>
-    </tbody>
-  </table>
+<table>
+  <thead><tr>
+    <th>Year</th>
+    <th>Start date</th>
+    <th>End date</th>
+    <th>Start date lower guess</th>
+    <th>Start date upper guess</th>
+    <th>End date lower guess</th>
+    <th>End date upper guess</th>
+  </tr></thead>
+  <tbody>
+    <?php foreach ($years as $y) { ?>
+      <tr>
+        <td><?= $y ?? "Unknown" ?></td>
+        <td><?= $byYear['start_date'][$y] ?? 0 ?></td>
+        <td><?= $byYear['end_date'][$y] ?? 0 ?></td>
+        <td><?= $byYear['start_date_lower_guess'][$y] ?? 0 ?></td>
+        <td><?= $byYear['start_date_upper_guess'][$y] ?? 0 ?></td>
+        <td><?= $byYear['end_date_lower_guess'][$y] ?? 0 ?></td>
+        <td><?= $byYear['end_date_upper_guess'][$y] ?? 0 ?></td>
+      </tr>
+    <?php } ?>
+  </tbody>
+</table>
 
 
 <?php
@@ -252,18 +252,18 @@ if ($_REQUEST['person'] ?? '') {
   }
 ?>
 
-  <p>Showing <?= $mysqli->affected_rows ?> organizations.</p>
+<p>Showing <?= $mysqli->affected_rows ?> organizations.</p>
 
-  <table>
-    <thead>
-      <tr>
-        <th>Organization</th>
-        <th>Number of people</th>
-        <th>List of people</th>
-      </tr>
-    </thead>
-    <tbody>
-<?php while ($row = $result->fetch_assoc()) { ?>
+<table>
+  <thead>
+    <tr>
+      <th>Organization</th>
+      <th>Number of people</th>
+      <th>List of people</th>
+    </tr>
+  </thead>
+  <tbody>
+    <?php while ($row = $result->fetch_assoc()) { ?>
       <tr>
         <td><?= link_organization($row['organization']) ?></td>
         <td><?= $row['numPeeps'] ?></td>
@@ -275,10 +275,9 @@ if ($_REQUEST['person'] ?? '') {
           }
           echo implode(", ", $res); ?></td>
       </tr>
-<?php } ?>
-
-    </tbody>
-  </table>
+    <?php } ?>
+  </tbody>
+</table>
 
 <h2 id="individuals-not-affiliated-with-any-organization">Individuals
   not affiliated with any organization</h2>
@@ -290,25 +289,25 @@ if ($_REQUEST['person'] ?? '') {
   }
   $seen = array();
 ?>
-  <p>Showing <?= $mysqli->affected_rows ?> people.</p>
-  <table>
-    <thead>
-      <tr>
-        <th>Organization</th>
-        <th>Website</th>
-        <th>Source</th>
-      </tr>
-    </thead>
-    <tbody>
-<?php while ($row = $result->fetch_assoc()) { ?>
+<p>Showing <?= $mysqli->affected_rows ?> people.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Organization</th>
+      <th>Website</th>
+      <th>Source</th>
+    </tr>
+  </thead>
+  <tbody>
+    <?php while ($row = $result->fetch_assoc()) { ?>
       <tr>
         <td><?= link_person($row['person']) ?></td>
         <td><?= ($val = $row['website']) ? '<a href="' . $val . '">' . $val . '</a>' : ''?></td>
         <td><?= url_format($row['urls'], $seen) ?></td>
       </tr>
-<?php } ?>
-    </tbody>
-  </table>
+    <?php } ?>
+  </tbody>
+</table>
 
 <?php } ?>
 
