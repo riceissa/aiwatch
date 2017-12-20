@@ -102,7 +102,7 @@ if ($_REQUEST['person'] ?? '') {
       <tr>
         <td><?= $s ?? "Unknown" ?></td>
         <?php foreach ($relations as $r) { ?>
-          <td><?= $relationBySubject[$s][$r] ?? 0 ?></td>
+          <td style="text-align: right;"><?= $relationBySubject[$s][$r] ?? 0 ?></td>
         <?php } ?>
       </tr>
     <?php } ?>
@@ -160,12 +160,12 @@ if ($_REQUEST['person'] ?? '') {
     <?php foreach ($years as $y) { ?>
       <tr>
         <td><?= $y ?? "Unknown" ?></td>
-        <td><?= $byYear['start_date'][$y] ?? 0 ?></td>
-        <td><?= $byYear['end_date'][$y] ?? 0 ?></td>
-        <td><?= $byYear['start_date_lower_guess'][$y] ?? 0 ?></td>
-        <td><?= $byYear['start_date_upper_guess'][$y] ?? 0 ?></td>
-        <td><?= $byYear['end_date_lower_guess'][$y] ?? 0 ?></td>
-        <td><?= $byYear['end_date_upper_guess'][$y] ?? 0 ?></td>
+        <td style="text-align: right;"><?= $byYear['start_date'][$y] ?? 0 ?></td>
+        <td style="text-align: right;"><?= $byYear['end_date'][$y] ?? 0 ?></td>
+        <td style="text-align: right;"><?= $byYear['start_date_lower_guess'][$y] ?? 0 ?></td>
+        <td style="text-align: right;"><?= $byYear['start_date_upper_guess'][$y] ?? 0 ?></td>
+        <td style="text-align: right;"><?= $byYear['end_date_lower_guess'][$y] ?? 0 ?></td>
+        <td style="text-align: right;"><?= $byYear['end_date_upper_guess'][$y] ?? 0 ?></td>
       </tr>
     <?php } ?>
   </tbody>
