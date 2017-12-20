@@ -98,7 +98,7 @@
   The <code>positions</code> table in the AI Watch database has a
   field describing the relation of the position to safety
   (<code>ai_safety_relation</code>), and another field describing the
-  type of position (<code>position_type</code>).  Combining these two
+  type of work (<code>subject</code>).  Combining these two
   fields gives a more intuitive idea of what the position is about, so
   the table below gives the possible combinations and what that means
   for the position.
@@ -107,7 +107,7 @@
 <table>
   <thead>
     <th>AI safety relation</th>
-    <th>Position type</th>
+    <th>Subject</th>
     <th>Meaning</th>
     <th>Example</th>
   </thead>
