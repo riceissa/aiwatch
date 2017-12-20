@@ -266,7 +266,7 @@ if ($_REQUEST['person'] ?? '') {
     <?php while ($row = $result->fetch_assoc()) { ?>
       <tr>
         <td><?= link_organization($row['organization']) ?></td>
-        <td><?= $row['numPeeps'] ?></td>
+        <td style="text-align: right;"><?= $row['numPeeps'] ?></td>
         <td><?php
           $peepslist = explode('|', $row['peeps']);
           $res = array();
