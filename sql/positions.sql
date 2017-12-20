@@ -49,7 +49,9 @@ create table positions(
     # because we want to track movement in and out of safety).
     ai_safety_relation enum('position','agi_organization','gcr_organization','unrelated'),
 
-    position_type enum('technical research','general','policy','research advisor','general advisor','research associate','board member','undergraduate','graduate','postdoc','intern'),
+    subject enum('technical research','software engineering','background','popularization','general','policy'),
+
+    employment_type enum('full-time','contractor','intern','undergraduate student','graduate student','postdoc','board member','associate','advisor'),
     notes varchar(2000) default null
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
