@@ -53,7 +53,7 @@ create table positions(
     # and 'unrelated' means the
     # position doesn't have to do with safety (but we include it anyway
     # because we want to track movement in and out of safety).
-    ai_safety_relation enum('position','agi_organization','gcr_organization','unrelated'),
+    ai_safety_relation enum('position','AGI organization','GCR organization','unrelated'),
 
     # 'background' is the kind of background historical trends or
     # AI timelines work that e.g. AI Impacts does.
@@ -63,9 +63,12 @@ create table positions(
     notes varchar(2000) default null
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, start_date_lower_guess, start_date_upper_guess, end_date_lower_guess, end_date_upper_guess, ai_safety_relation, subject, employment_type) values
+    ('Eliezer Yudkowsky','Machine Intelligence Research Institute','Senior Research Fellow',NULL,NULL,NULL,NULL,'https://intelligence.org/team/',NULL,NULL,NULL,NULL,NULL,'position','technical research','full-time')
+;
+
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, start_date_lower_guess, start_date_upper_guess, end_date_lower_guess, end_date_upper_guess) values
     ('Andrej Karpathy','OpenAI','Research Scientist','2016-01-01','year','2017-06-01','month','http://cs.stanford.edu/people/karpathy/ https://archive.is/37L6s','The given description is "Deep Learning, Generative Models, Reinforcement Learning"',NULL,NULL,NULL,NULL)
-    ,('Eliezer Yudkowsky','Machine Intelligence Research Institute','Senior Research Fellow',NULL,NULL,NULL,NULL,'https://intelligence.org/team/',NULL,NULL,NULL,NULL,NULL)
     ,('Alex Altair','Machine Intelligence Research Institute','Research Associate',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20140209055438/http://intelligence.org/team/',NULL,NULL,NULL,NULL,NULL)
     ,('Mihaly Barasz','Machine Intelligence Research Institute','Research Associate',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20140209055438/http://intelligence.org/team/',NULL,NULL,NULL,NULL,NULL)
     ,('Paul Christiano','Machine Intelligence Research Institute','Research Associate',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20140209055438/http://intelligence.org/team/',NULL,NULL,NULL,NULL,NULL)
