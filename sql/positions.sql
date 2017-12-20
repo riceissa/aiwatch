@@ -54,6 +54,8 @@ create table positions(
     # because we want to track movement in and out of safety).
     ai_safety_relation enum('position','agi_organization','gcr_organization','unrelated'),
 
+    # 'background' is the kind of background historical trends or
+    # AI timelines work that e.g. AI Impacts does.
     subject enum('technical research','software engineering','background','popularization','general','policy'),
 
     employment_type enum('full-time','contractor','intern','undergraduate student','graduate student','postdoc','board member','associate','advisor'),
