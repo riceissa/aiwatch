@@ -30,7 +30,18 @@ create table positions(
     #     inf{t : t is after position}
     end_date_upper_guess date,
     urls varchar(2000),
-    ai_safety_related bool default true,
+
+    # On what basis do we know this position has anything to do with AI safety?
+    # Here 'position' means the position itself has to do with safety,
+    # 'organization' means the organization has some relation to AI safety
+    # (although the organization might do a bunch of other things) so the
+    # position might have some relation to safety (although we as outsiders
+    # cannot be sure), and 'unrelated' means the
+    # position doesn't have to do with safety (but we include it anyway
+    # because we want to track movement in and out of safety).
+    ai_safety_relation enum('position','organization','unrelated'),
+
+    position_type enum('technical research','general'),
     notes varchar(2000) default null
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
