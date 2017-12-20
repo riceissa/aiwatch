@@ -40,9 +40,14 @@ create table positions(
     urls varchar(2000),
 
     # On what basis do we know this position has anything to do with AI safety?
-    # Here 'position' means the position itself has to do with safety,
+    # Here 'position' means the position itself has to do with safety or the
+    # organization exclusively focuses on AI safety so we know it's a
+    # safety-related position,
     # 'organization' means the organization has some relation to AI safety
-    # (although the organization might do a bunch of other things) so the
+    # (although the organization might do a bunch of other things) e.g. the
+    # organization aims to develop an artificial general intelligence and has
+    # voiced safety concerns, or the organization focuses on global catastrophic
+    # risks and considers unaligned AI a global catastrophic risk, so the
     # position might have some relation to safety (although we as outsiders
     # cannot be sure), and 'unrelated' means the
     # position doesn't have to do with safety (but we include it anyway
