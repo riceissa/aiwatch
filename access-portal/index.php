@@ -63,6 +63,10 @@ if ($_REQUEST['person'] ?? '') {
 
 <h2 id="ai-safety-relation-by-subject">AI safety relation by subject</h2>
 
+<p>Note: as shown by the large number of “unknown” values, most of the
+  positions haven’t been categorized by relation/subject so this table will
+  only be useful in the future.</p>
+
 <?php
   $relationBySubject = array();
   $relations = array();
@@ -137,6 +141,11 @@ if ($_REQUEST['person'] ?? '') {
   sort($years);
 ?>
 <h2 id="positions-summary-by-year">Positions summary by year</h2>
+
+<p>Note: as shown by the large number of “unknown” values, most of the
+  positions haven’t been categorized by start/end dates so this table will only
+  be useful in the future.</p>
+
   <table>
     <thead><tr>
       <th>Year</th>
