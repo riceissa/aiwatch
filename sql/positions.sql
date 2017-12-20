@@ -49,7 +49,8 @@ create table positions(
     # voiced safety concerns, or the organization focuses on global catastrophic
     # risks and considers unaligned AI a global catastrophic risk, so the
     # position might have some relation to safety (although we as outsiders
-    # cannot be sure), and 'unrelated' means the
+    # cannot be sure -- if we knew for sure, this would be set to 'position'),
+    # and 'unrelated' means the
     # position doesn't have to do with safety (but we include it anyway
     # because we want to track movement in and out of safety).
     ai_safety_relation enum('position','agi_organization','gcr_organization','unrelated'),
