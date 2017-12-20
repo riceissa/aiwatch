@@ -37,6 +37,88 @@ if ($_REQUEST['person'] ?? '') {
 } else if ($_REQUEST['organization'] ?? '') {
   include("backend/organization.inc");
 } else { // Main index.php with no parameters
+?>
+<h1>AI Watch</h1>
+
+<p>Welcome! This is a website to track people and organizations working on AI safety. See the <a href="https://github.com/riceissa/aiwatch">code repository</a> for the source code and data of this website.</p>
+
+<p>This website is developed by <a href="https://issarice.com">Issa Rice</a>
+  and is partially
+  <a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=AI+Watch&amp;matching=exact">funded by Vipul Naik</a>.</p>
+
+<p>This site is still under active development.</p>
+
+<p>Last updated on <?= $head_date ?>.</p>
+
+<h2 id="table-of-contents">Table of contents</h2>
+
+<ul>
+  <li><a href="#positions-summary-by-year">Positions summary by year</a></li>
+  <li><a href="#positions-grouped-by-person">Positions grouped by person</a></li>
+  <li><a href="#positions-grouped-by-organization">Positions grouped by organization</a></li>
+  <li><a href="#individuals-not-affiliated-with-any-organization">Individuals
+    not affiliated with any organization</a></li>
+</ul>
+
+<?php
+  $years = array();
+  $byYear = array();
+
+  // Runs the by-year query for the given field and stores the result in $years
+  // (containing a list of unique years) and $byYear (containing the actual
+  // numbers of positions).
+  function get_by_year_data($mysqli, string $field, &$years, &$byYear) {
+    $query = "select year($field) as year, count(*) as num"
+      ." from positions group by year($field)";
+    if ($stmt = $mysqli->prepare($query)) {
+      $stmt->execute();
+      $result = $stmt->get_result();
+    }
+    while ($row = $result->fetch_assoc()) {
+      if (!in_array($row['year'], $years)) {
+        $years[] = $row['year'];
+      }
+      $byYear[$field][$row['year']] = $row['num'];
+    }
+  }
+
+  get_by_year_data($mysqli, "start_date", $years, $byYear);
+  get_by_year_data($mysqli, "end_date", $years, $byYear);
+  get_by_year_data($mysqli, "start_date_lower_guess", $years, $byYear);
+  get_by_year_data($mysqli, "start_date_upper_guess", $years, $byYear);
+  get_by_year_data($mysqli, "end_date_lower_guess", $years, $byYear);
+  get_by_year_data($mysqli, "end_date_upper_guess", $years, $byYear);
+
+  sort($years);
+?>
+<h2 id="positions-summary-by-year">Positions summary by year</h2>
+  <table>
+    <thead>
+      <th>Year</th>
+      <th>Start date</th>
+      <th>End date</th>
+      <th>Start date lower guess</th>
+      <th>Start date upper guess</th>
+      <th>End date lower guess</th>
+      <th>End date upper guess</th>
+    </thead>
+    <tbody>
+      <?php foreach ($years as $y) { ?>
+        <tr>
+          <td><?= $y ?? "Unknown" ?></td>
+          <td><?= $byYear['start_date'][$y] ?? 0 ?></td>
+          <td><?= $byYear['end_date'][$y] ?? 0 ?></td>
+          <td><?= $byYear['start_date_lower_guess'][$y] ?? 0 ?></td>
+          <td><?= $byYear['start_date_upper_guess'][$y] ?? 0 ?></td>
+          <td><?= $byYear['end_date_lower_guess'][$y] ?? 0 ?></td>
+          <td><?= $byYear['end_date_upper_guess'][$y] ?? 0 ?></td>
+        </tr>
+      <?php } ?>
+    </tbody>
+  </table>
+
+
+<?php
   $query = "select person,group_concat(distinct organization order by organization SEPARATOR '|') as orgs,count(distinct organization) as numOrgs from positions where true";
   $param_str = "";
   $params = array();
@@ -72,27 +154,6 @@ if ($_REQUEST['person'] ?? '') {
 
 
 ?>
-
-<h1>AI Watch</h1>
-
-<p>Welcome! This is a website to track people and organizations working on AI safety. See the <a href="https://github.com/riceissa/aiwatch">code repository</a> for the source code and data of this website.</p>
-
-<p>This website is developed by <a href="https://issarice.com">Issa Rice</a>
-  and is partially
-  <a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=AI+Watch&amp;matching=exact">funded by Vipul Naik</a>.</p>
-
-<p>This site is still under active development.</p>
-
-<p>Last updated on <?= $head_date ?>.</p>
-
-<h2 id="table-of-contents">Table of contents</h2>
-
-<ul>
-  <li><a href="#positions-grouped-by-person">Positions grouped by person</a></li>
-  <li><a href="#positions-grouped-by-organization">Positions grouped by organization</a></li>
-  <li><a href="#individuals-not-affiliated-with-any-organization">Individuals
-    not affiliated with any organization</a></li>
-</ul>
 
 <h2 id="positions-grouped-by-person">Positions grouped by person</h2>
 
