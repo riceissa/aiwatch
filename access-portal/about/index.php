@@ -8,6 +8,9 @@
   <meta property="og:site_name" content="AI Watch" />
   <meta property="og:locale" content="en_US" />
   <title>About - AI Watch</title>
+  <link rel="stylesheet" href="/tablesorter.css">
+  <script src="/jquery.min.js"></script>
+  <script src="/jquery.tablesorter.js"></script>
   <script src="/anchor.min.js"></script>
 <?php include_once("../style.inc"); ?>
 <?php include_once("../analytics.inc"); ?>
@@ -89,7 +92,119 @@
 <p>If you have feedback for the site, email Issa at riceissa@gmail.com. You can also <a href="https://github.com/riceissa/aiwatch/issues">add an issue</a> on the GitHub repository.
   All feedback including praise, criticism, concerns, thoughts on the usability of the site, feature requests, and people or positions that should be added, are appreciated.</p>
 
+<h2>Positions</h2>
+
+<p>
+  The <code>positions</code> table in the AI Watch database has a
+  field describing the relation of the position to safety
+  (<code>ai_safety_relation</code>), and another field describing the
+  type of position (<code>position_type</code>).  Combining these two
+  fields gives a more intuitive idea of what the position is about, so
+  the table below gives the possible combinations and what that means
+  for the position.
+</p>
+
+<table>
+  <thead>
+    <th>AI safety relation</th>
+    <th>Position type</th>
+    <th>Meaning</th>
+    <th>Example</th>
+  </thead>
+  <tbody>
+<tr>
+  <td>Position</td> <td>Technical research</td> <td>This is a technical position that is related to AI safety in virtue of the position, so this is a technical safety research position.</td> <td>Nate Soares’s work at MIRI</td>
+</tr>
+<tr>
+  <td>Position</td> <td>General</td> <td>This is a general position that we specifically know has to do with safety. An office management or general writing position at an organization that specifically works on AI safety counts. Since this is a general position, if the same sort of work was done at an organization that doesn’t do any AI safety work, it would’t be considered AI safety work.</td> <td>Aaron Silverbook’s work at MIRI.</td>
+</tr>
+<tr>
+</tr>
+  <td>Position</td> <td>Policy</td> <td>This is an AI safety policy position.</td>
+</tr>
+<tr>
+  <td>Position</td> <td></td> <td></td>
+</tr>
+<tr>
+  <td>Position</td> <td></td> <td></td>
+</tr>
+<tr>
+  <td>Position</td> <td></td> <td></td>
+</tr>
+<tr>
+  <td>Position</td> <td></td> <td></td>
+</tr>
+
+<tr>
+  <td>AGI organization</td> <td>Technical research</td> <td>This is a technical position at an organization that (1) aims to develop artificial general intelligence and (2) has voiced interest in safety concerns. However, since the organization doesn’t exclusively focus on AI safety, we don’t know if the position is safety-related or not.</td>
+</tr>
+<tr>
+  <td>AGI organization</td> <td></td> <td></td>
+</tr>
+<tr>
+  <td>AGI organization</td> <td></td> <td></td>
+</tr>
+<tr>
+  <td>AGI organization</td> <td></td> <td></td>
+</tr>
+<tr>
+  <td>AGI organization</td> <td></td> <td></td>
+</tr>
+<tr>
+  <td>AGI organization</td> <td></td> <td></td>
+</tr>
+<tr>
+  <td>AGI organization</td> <td></td> <td></td>
+</tr>
+
+<tr>
+  <td>GCR organization</td> <td>Technical research</td> <td>This is a technical position at an organization that (1) focuses on existential risks or global catastrophic risks and (2) has given unaligned AI as a potential global catastrophic risk. However, since the organization doesn’t exclusively focus on AI safety, we don’t know if the position is safety-related or not.</td>
+</tr>
+<tr>
+  <td>GCR organization</td> <td></td> <td></td>
+</tr>
+<tr>
+  <td>GCR organization</td> <td></td> <td></td>
+</tr>
+<tr>
+  <td>GCR organization</td> <td></td> <td></td>
+</tr>
+<tr>
+  <td>GCR organization</td> <td></td> <td></td>
+</tr>
+<tr>
+  <td>GCR organization</td> <td></td> <td></td>
+</tr>
+<tr>
+  <td>GCR organization</td> <td></td> <td></td>
+</tr>
+
+<tr>
+  <td>Unrelated</td> <td></td> <td></td>
+</tr>
+<tr>
+  <td>Unrelated</td> <td></td> <td></td>
+</tr>
+<tr>
+  <td>Unrelated</td> <td></td> <td></td>
+</tr>
+<tr>
+  <td>Unrelated</td> <td></td> <td></td>
+</tr>
+<tr>
+  <td>Unrelated</td> <td></td> <td></td>
+</tr>
+<tr>
+  <td>Unrelated</td> <td></td> <td></td>
+</tr>
+<tr>
+  <td>Unrelated</td> <td></td> <td></td>
+</tr>
+  </tbody>
+</table>
+
 <script>
+    $(function(){$("table").tablesorter();});
     anchors.add();
 </script>
 </body>
