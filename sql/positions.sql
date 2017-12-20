@@ -81,6 +81,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jonathan Ho','OpenAI','Intern','2016-03-31','year',NULL,NULL,'https://blog.openai.com/team-plus-plus/ https://web.archive.org/web/20171024174215/https://blog.openai.com/team-plus-plus/',NULL,NULL,NULL,NULL,NULL,'AGI organization',NULL,'intern')
     ,('Rein Houthooft','OpenAI','Intern','2016-03-31','year',NULL,NULL,'https://blog.openai.com/team-plus-plus/ https://web.archive.org/web/20171024174215/https://blog.openai.com/team-plus-plus/',NULL,NULL,NULL,NULL,NULL,'AGI organization',NULL,'intern')
     ,('Eric Price','OpenAI','Intern','2016-03-31','year',NULL,NULL,'https://blog.openai.com/team-plus-plus/ https://web.archive.org/web/20171024174215/https://blog.openai.com/team-plus-plus/',NULL,NULL,NULL,NULL,NULL,'AGI organization',NULL,'intern')
+    ,('Robert de Neufville','Global Catastrophic Risk Institute','Director of Communications',NULL,NULL,NULL,NULL,'http://gcrinstitute.org/people/',NULL,NULL,'2017-10-31','2017-10-31',NULL,'GCR organization','general','full-time')
 ;
 
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, start_date_lower_guess, start_date_upper_guess, end_date_lower_guess, end_date_upper_guess) values
@@ -336,7 +337,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Dario Amodei','Open Philanthropy Project','Technical advisor',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support',NULL,NULL,NULL,NULL,NULL)
     ,('Seth Baum','Global Catastrophic Risk Institute','Executive Director',NULL,NULL,NULL,NULL,'http://gcrinstitute.org/people/ https://arxiv.org/pdf/1607.07730.pdf http://sethbaum.com/ac/2017_AI-RandD.pdf',NULL,NULL,'2017-10-31','2017-10-31',NULL)
     ,('Tony Barrett','Global Catastrophic Risk Institute','Director of Research',NULL,NULL,NULL,NULL,'http://gcrinstitute.org/people/ https://arxiv.org/pdf/1607.07730.pdf http://sethbaum.com/ac/2017_AI-RandD.pdf',NULL,NULL,'2017-10-31','2017-10-31',NULL)
-    ,('Robert de Neufville','Global Catastrophic Risk Institute','Director of Communications',NULL,NULL,NULL,NULL,'http://gcrinstitute.org/people/',NULL,NULL,'2017-10-31','2017-10-31',NULL)
     ,('Grant Wilson','Global Catastrophic Risk Institute','Deputy Director',NULL,NULL,NULL,NULL,'http://gcrinstitute.org/people/',NULL,NULL,'2017-10-31','2017-10-31',NULL)
     ,('Mark Fusco','Global Catastrophic Risk Institute','Associate',NULL,NULL,NULL,NULL,'http://gcrinstitute.org/people/','"His research interests include the theology and sociology of global catastrophic risk and the ethics of artificial intelligence."',NULL,'2017-10-31','2017-10-31',NULL)
     ,('Roman Yampolskiy','Global Catastrophic Risk Institute','Associate',NULL,NULL,NULL,NULL,'http://gcrinstitute.org/people/','"His research interests include cybersecurity, biometrics and artificial intelligence safety."',NULL,'2017-10-31','2017-10-31',NULL)
