@@ -53,12 +53,57 @@ if ($_REQUEST['person'] ?? '') {
 <h2 id="table-of-contents">Table of contents</h2>
 
 <ul>
+  <li><a href="#ai-safety-relation-by-subject">AI safety relation by subject</a></li>
   <li><a href="#positions-summary-by-year">Positions summary by year</a></li>
   <li><a href="#positions-grouped-by-person">Positions grouped by person</a></li>
   <li><a href="#positions-grouped-by-organization">Positions grouped by organization</a></li>
   <li><a href="#individuals-not-affiliated-with-any-organization">Individuals
     not affiliated with any organization</a></li>
 </ul>
+
+<h2 id="ai-safety-relation-by-subject">AI safety relation by subject</h2>
+
+<?php
+  $relationBySubject = array();
+  $relations = array();
+  $subjects = array();
+  $query = "select ai_safety_relation,subject,count(*) as num from positions group by ai_safety_relation, subject";
+  if ($stmt = $mysqli->prepare($query)) {
+    $stmt->execute();
+    $result = $stmt->get_result();
+  }
+  while ($row = $result->fetch_assoc()) {
+    if (!in_array($row['ai_safety_relation'], $relations)) {
+      $relations[] = $row['ai_safety_relation'];
+    }
+    if (!in_array($row['subject'], $subjects)) {
+      $subjects[] = $row['subject'];
+    }
+    $relationBySubject[$row['subject']][$row['ai_safety_relation']] = $row['num'];
+  }
+  sort($relations);
+  sort($subjects);
+?>
+  <table>
+    <thead><tr>
+      <th>Subject</th>
+        <?php
+          foreach ($relations as $r) {
+            echo '<th>' . ($r ?? 'Unknown') . '</th>';
+          }
+        ?>
+    </tr></thead>
+    <tbody>
+      <?php foreach ($subjects as $s) { ?>
+        <tr>
+          <td><?= $s ?? "Unknown" ?></td>
+          <?php foreach ($relations as $r) { ?>
+            <td><?= $relationBySubject[$s][$r] ?? 0 ?></td>
+          <?php } ?>
+        </tr>
+      <?php } ?>
+    </tbody>
+  </table>
 
 <?php
   $years = array();
@@ -93,7 +138,7 @@ if ($_REQUEST['person'] ?? '') {
 ?>
 <h2 id="positions-summary-by-year">Positions summary by year</h2>
   <table>
-    <thead>
+    <thead><tr>
       <th>Year</th>
       <th>Start date</th>
       <th>End date</th>
@@ -101,7 +146,7 @@ if ($_REQUEST['person'] ?? '') {
       <th>Start date upper guess</th>
       <th>End date lower guess</th>
       <th>End date upper guess</th>
-    </thead>
+    </tr></thead>
     <tbody>
       <?php foreach ($years as $y) { ?>
         <tr>
