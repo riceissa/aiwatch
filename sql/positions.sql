@@ -5,30 +5,32 @@ create table positions(
     title varchar(100),
     start_date date,
     start_date_precision enum('day','month','year','multi-year'),
+
     # Of the known dates on which the person was doing something else
     # besides the current position prior to the current position, this is the
     # latest one. This allows us to guess at the start_date from the "past"
-    # direction. It works like
-    #     sup{t : t is before position}
+    # direction. It works like sup{t : t is before position}.
     start_date_lower_guess date,
+
     # Of the known dates on which the position was held, this is the earliest
     # one. This allows us to guess at the start_date from the "future"
-    # direction. It works like
-    #     inf{t : position held at time t}
+    # direction. It works like inf{t : position held at time t}.
     start_date_upper_guess date,
+
     end_date date,
     end_date_precision enum('day','month','year','multi-year'),
+
     # Of the known dates on which the position was held, this is the latest
     # one. This allows us to guess at the end_date from the "past" direction.
-    # It works like
-    #     sup{t : position held at time t}
+    # It works like sup{t : position held at time t}.
     end_date_lower_guess date,
+
     # Of the known dates on which the person was doing something else
     # besides the current position after the current position, this is the
     # earliest one. This allows us to guess at the end_date from the "future"
-    # direction. It works like
-    #     inf{t : t is after position}
+    # direction. It works like inf{t : t is after position}.
     end_date_upper_guess date,
+
     urls varchar(2000),
 
     # On what basis do we know this position has anything to do with AI safety?
