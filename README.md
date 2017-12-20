@@ -8,6 +8,41 @@ safety.
 - `access-portal/` contains the PHP code for the website.
 - `sql/` contains the data stored in MySQL format.
 
+## Setting up
+
+This section is only relevant to people who want to run a local instance of AI
+Watch (e.g. for development purposes).
+
+First, clone the repo and set up the database:
+
+```bash
+git clone https://github.com/riceissa/aiwatch.git
+cd aiwatch
+mysql -e "create database aiwatch"
+make read  # read in data from sql/
+```
+
+Now set up the password file to allow PHP to log in to the database:
+
+```bash
+cp access-portal/backend/globalVariables/{dummyPasswordFile.inc,passwordFile.inc}
+vi access-portal/backend/globalVariables/passwordFile.inc  # change to add database login info
+```
+
+Finally start the service:
+
+```bash
+cd access-portal
+php -S localhost:8000
+```
+
+To get AnchorJS and tablesorter, run:
+
+```bash
+make fetch_anchorjs
+make fetch_tablesorter
+```
+
 ## Contributing
 
 All contributions are welcome.  Contributions might take the form of:
