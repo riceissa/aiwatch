@@ -634,4 +634,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Benya Fallenstein','University of Bristol',NULL,NULL,NULL,NULL,NULL,'https://intelligence.org/workshops/',NULL,NULL,NULL,NULL,NULL)
     ,('Andrew Critch','University of California, Berkeley','Graduate student','2008-01-01','month','2013-01-01','year','http://acritch.com/ https://intelligence.org/workshops/',NULL,NULL,NULL,NULL,NULL)
     ,('Christopher Cundy','Future of Humanity Institute','Research intern',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180106185459/https://www.fhi.ox.ac.uk/about__trashed/the-team/',NULL,NULL,NULL,NULL,NULL)
+    ,('Jade Leung','Future of Humanity Institute','DPhil Student in Governance of Artificial Intelligence Program',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180106185459/https://www.fhi.ox.ac.uk/about__trashed/the-team/ https://www.fhi.ox.ac.uk/team/jade-leung/',NULL,NULL,NULL,NULL,NULL)
+    ,('Jeffrey Ding','Future of Humanity Institute','MPhil Student in Governance of Artificial Intelligence Program',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180106185459/https://www.fhi.ox.ac.uk/about__trashed/the-team/ https://www.fhi.ox.ac.uk/team/jeffrey-ding/',NULL,NULL,NULL,NULL,NULL)
 ;
