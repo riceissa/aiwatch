@@ -632,4 +632,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Patrick LaVictoire','University of Wisconsin–Madison','Postdoc',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20130806220841/http://www.math.wisc.edu/~patlavic/ https://intelligence.org/workshops/',NULL,NULL,NULL,NULL,NULL)
     ,('Benya Fallenstein','University of Bristol',NULL,NULL,NULL,NULL,NULL,'https://intelligence.org/workshops/',NULL,NULL,NULL,NULL,NULL)
     ,('Andrew Critch','University of California, Berkeley','Graduate student','2008-01-01','month','2013-01-01','year','http://acritch.com/ https://intelligence.org/workshops/',NULL,NULL,NULL,NULL,NULL)
+    ,('Anders Sandberg','Futue of Humanity Institute','Senior Research Fellow',NULL,NULL,NULL,NULL,'https://intelligence.org/files/SoftwareLimited.pdf https://www.fhi.ox.ac.uk/team/anders-sandberg/',NULL,NULL,NULL,NULL,NULL,'position','background','full-time')
 ;
