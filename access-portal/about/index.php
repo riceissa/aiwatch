@@ -49,8 +49,7 @@
 
 <p>The site is built using PHP for the interface and logic and MySQL
   for the database. The site design is influenced by Vipul Naik’s
-  websites (e.g. his <a href="https://donations.vipulnaik.com/">Donations List Website</a>
-  ). You can find
+  websites (e.g. his <a href="https://donations.vipulnaik.com/">Donations List Website</a>). You can find
   the <a href="https://github.com/riceissa/aiwatch">Git repository on
     GitHub</a>, which has all the code and data.</p>
 
