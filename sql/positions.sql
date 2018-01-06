@@ -135,7 +135,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jakub Pachocki','OpenAI',NULL,'2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL,NULL,NULL,NULL,NULL)
     ,('Jeremy Schlatter','OpenAI',NULL,'2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL,NULL,NULL,NULL,NULL)
     ,('Jonathan Gray','OpenAI',NULL,'2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL,NULL,NULL,NULL,NULL)
-    ,('Peter Welinder','OpenAI','Researcher/Engineer in Robotics and AI','2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/ https://www.linkedin.com/in/welinder/',NULL,NULL,NULL,NULL,NULL)
+    ,('Peter Welinder','OpenAI','Researcher/Engineer in Robotics and AI','2017-01-01','month',NULL,NULL,'https://blog.openai.com/team-update-january/ https://www.linkedin.com/in/welinder/',NULL,NULL,NULL,NULL,NULL)
     ,('Rachel Fong','OpenAI',NULL,'2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL,NULL,NULL,NULL,NULL)
     ,('Shariq Hashme','OpenAI',NULL,'2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL,NULL,NULL,NULL,NULL)
     ,('Szymon Sidor','OpenAI',NULL,'2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL,NULL,NULL,NULL,NULL)
