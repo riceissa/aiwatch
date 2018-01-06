@@ -80,6 +80,7 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('Jim O’Neill',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://foresight.org/publications/AGI-Timeframes&PolicyWhitePaper.pdf',NULL)
     ,('Will Sawin','United States','will.sawin',NULL,NULL,NULL,NULL,'http://williamsawin.com/','http://williamsawin.com/cv.pdf',NULL)
     ,('Alex Flint',NULL,'alex.j.flint',NULL,'alexjflint',NULL,NULL,'http://www.alexflint.io/','https://haseebq.com/why-you-should-give-now-not-later/','Manages a donor-advised fund and is “very well-versed in AI risk”.')
+    ,('Alex Zhu',NULL,'alexjzhu',NULL,NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180106183846/https://espr-camp.org/staff/','“Currently splits his time between AlphaSheets and thinking about AI risk.”')
 ;
 
 # Insert the rest of the people by taking names from positions
