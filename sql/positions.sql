@@ -590,7 +590,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('David Parkes','Harvard University',NULL,NULL,NULL,NULL,NULL,'https://futureoflife.org/first-ai-grant-recipients/',NULL,NULL,NULL,NULL,NULL)
     ,('Andre Platzer','Carnegie Mellon University',NULL,NULL,NULL,NULL,NULL,'https://futureoflife.org/first-ai-grant-recipients/',NULL,NULL,NULL,NULL,NULL)
     ,('Heather Roff','University of Denver',NULL,NULL,NULL,NULL,NULL,'https://futureoflife.org/first-ai-grant-recipients/',NULL,NULL,NULL,NULL,NULL)
-    ,('Francesca Rossi','University of Padova',NULL,NULL,NULL,NULL,NULL,'https://futureoflife.org/first-ai-grant-recipients/',NULL,NULL,NULL,NULL,NULL)
+    ,('Francesca Rossi','University of Padova',NULL,NULL,NULL,NULL,NULL,'https://futureoflife.org/first-ai-grant-recipients/ https://futureoflife.org/ai-researcher-francesca-rossi/',NULL,NULL,NULL,NULL,NULL)
     ,('Benjamin Rubinstein','University of Melbourne',NULL,NULL,NULL,NULL,NULL,'https://futureoflife.org/first-ai-grant-recipients/',NULL,NULL,NULL,NULL,NULL)
     ,('Stuart Russell','University of California, Berkeley',NULL,NULL,NULL,NULL,NULL,'https://futureoflife.org/first-ai-grant-recipients/',NULL,NULL,NULL,NULL,NULL)
     ,('Bart Selman','Cornell University',NULL,NULL,NULL,NULL,NULL,'https://futureoflife.org/first-ai-grant-recipients/',NULL,NULL,NULL,NULL,NULL)
@@ -638,4 +638,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jeffrey Ding','Future of Humanity Institute','MPhil Student in Governance of Artificial Intelligence Program',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180106185459/https://www.fhi.ox.ac.uk/about__trashed/the-team/ https://www.fhi.ox.ac.uk/team/jeffrey-ding/',NULL,NULL,NULL,NULL,NULL)
     ,('Baobao Zhang','Future of Humanity Institute','Nuffield Collaborator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180106185459/https://www.fhi.ox.ac.uk/about__trashed/the-team/ https://www.fhi.ox.ac.uk/team/baobao-zhang/','Listed as an outside collaborator on the Governance of AI Program.',NULL,NULL,NULL,NULL)
     ,('Roxanne Heston','Future of Humanity Institute','Yale-based Research Assistant',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180106185459/https://www.fhi.ox.ac.uk/about__trashed/the-team/ https://www.fhi.ox.ac.uk/team/roxanne-heston/','Listed as an outside collaborator on the Governance of AI Program.',NULL,NULL,NULL,NULL)
+    ,('Andrew MacFie','Carleton University',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1708.09032.pdf http://effective-altruism.com/ea/1iu/2018_ai_safety_literature_review_and_charity/',NULL,NULL,NULL,NULL,NULL)
 ;
