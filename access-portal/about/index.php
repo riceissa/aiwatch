@@ -40,6 +40,11 @@
 
 <p>So far I have been adding people who perform general work like office management, even though if they did the exact same work at an organization that didn’t work on AI safety, they wouldn’t have been added. I am not sure if this is ideal and might change that at some point.</p>
 
+<p>I have been excluding funders because I hope these will be covered in Vipul
+  Naik’s <a href="https://donations.vipulnaik.com/?cause_area_filter=AI+risk">Donations
+  List Website</a> (the site already tracks some donations and other funding,
+  but data is preliminary).</p>
+
 <h2>How the site was built</h2>
 
 <p>The site is built using PHP for the interface and logic and MySQL
