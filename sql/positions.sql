@@ -82,6 +82,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Rein Houthooft','OpenAI','Intern','2016-03-31','year',NULL,NULL,'https://blog.openai.com/team-plus-plus/ https://web.archive.org/web/20171024174215/https://blog.openai.com/team-plus-plus/',NULL,NULL,NULL,NULL,NULL,'AGI organization',NULL,'intern')
     ,('Eric Price','OpenAI','Intern','2016-03-31','year',NULL,NULL,'https://blog.openai.com/team-plus-plus/ https://web.archive.org/web/20171024174215/https://blog.openai.com/team-plus-plus/',NULL,NULL,NULL,NULL,NULL,'AGI organization',NULL,'intern')
     ,('Robert de Neufville','Global Catastrophic Risk Institute','Director of Communications',NULL,NULL,NULL,NULL,'http://gcrinstitute.org/people/',NULL,NULL,'2017-10-31','2017-10-31',NULL,'GCR organization','general','full-time')
+    ,('Anders Sandberg','Futue of Humanity Institute','Senior Research Fellow',NULL,NULL,NULL,NULL,'https://intelligence.org/files/SoftwareLimited.pdf https://www.fhi.ox.ac.uk/team/anders-sandberg/',NULL,NULL,NULL,NULL,NULL,'position','background','full-time')
 ;
 
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, start_date_lower_guess, start_date_upper_guess, end_date_lower_guess, end_date_upper_guess) values
@@ -632,5 +633,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Patrick LaVictoire','University of Wisconsin–Madison','Postdoc',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20130806220841/http://www.math.wisc.edu/~patlavic/ https://intelligence.org/workshops/',NULL,NULL,NULL,NULL,NULL)
     ,('Benya Fallenstein','University of Bristol',NULL,NULL,NULL,NULL,NULL,'https://intelligence.org/workshops/',NULL,NULL,NULL,NULL,NULL)
     ,('Andrew Critch','University of California, Berkeley','Graduate student','2008-01-01','month','2013-01-01','year','http://acritch.com/ https://intelligence.org/workshops/',NULL,NULL,NULL,NULL,NULL)
-    ,('Anders Sandberg','Futue of Humanity Institute','Senior Research Fellow',NULL,NULL,NULL,NULL,'https://intelligence.org/files/SoftwareLimited.pdf https://www.fhi.ox.ac.uk/team/anders-sandberg/',NULL,NULL,NULL,NULL,NULL,'position','background','full-time')
 ;
