@@ -641,4 +641,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Roxanne Heston','Future of Humanity Institute','Yale-based Research Assistant',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180106185459/https://www.fhi.ox.ac.uk/about__trashed/the-team/ https://www.fhi.ox.ac.uk/team/roxanne-heston/','Listed as an outside collaborator on the Governance of AI Program.',NULL,NULL,NULL,NULL)
     ,('Andrew MacFie','Carleton University',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1708.09032.pdf http://effective-altruism.com/ea/1iu/2018_ai_safety_literature_review_and_charity/',NULL,NULL,NULL,NULL,NULL)
     ,('Michael Page','OpenAI','Policy and Ethics Advisor','2017-01-01','year',NULL,NULL,'https://www.linkedin.com/in/michael-page-71318613/',NULL,NULL,NULL,NULL,NULL)
+    ,('Joshua Gans','University of Toronto',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1711.04309.pdf http://effective-altruism.com/ea/1iu/2018_ai_safety_literature_review_and_charity/',NULL,NULL,NULL,NULL,NULL)
+    ,('Joshua Gans','National Bureau of Economic Research',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1711.04309.pdf http://effective-altruism.com/ea/1iu/2018_ai_safety_literature_review_and_charity/',NULL,NULL,NULL,NULL,NULL)
 ;
