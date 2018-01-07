@@ -1,6 +1,7 @@
 # List of things to add
 
-this is a list of things i'd like to add to AI Watch at some point.
+this is a list of things i'd like to add to AI Watch at some point, or am at
+least considering.
 
 - maybe things that cite concrete problems: https://scholar.google.com/scholar?cites=6186600309471256628&as_sdt=5,48&sciodt=0,48&hl=en
 - "Towards Verified Artificial Intelligence"? https://arxiv.org/pdf/1610.06940.pdf
