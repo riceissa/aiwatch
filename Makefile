@@ -4,9 +4,11 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists people"
 	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists positions"
 	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists organizations"
+	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists tools"
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/people.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organizations.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/tools.sql
 
 access-portal/head_date.txt:
 	git log -1 --format="%ad" --date=format:"%Y-%m-%d" > "$@"
