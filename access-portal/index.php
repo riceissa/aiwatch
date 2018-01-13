@@ -334,7 +334,7 @@ if ($_REQUEST['person'] ?? '') {
         <td><?= $row['tool_name'] ?></td>
         <td><?= $row['creator'] ?></td>
         <td><?= $row['creation_date'] ?></td>
-        <td><?= $row['description'] ?></td>
+        <td><?= formatted_notes($row['description'], $seen) ?></td>
       </tr>
     <?php } ?>
   </tbody>

@@ -16,6 +16,23 @@ function url_format($urls_string, &$seen) {
   return $result;
 }
 
+function formatted_notes($notes, &$seen) {
+  $resList = "";
+  $words = explode(" ", $notes);
+  foreach ($words as $w) {
+    if ((substr($w, 0, 7) === "http://") || (substr($w, 0, 8) === "https://")) {
+      $resList[] = url_format($w, $seen);
+    } else if ((substr($w, 0, 8) === "<http://") ||
+               (substr($w, 0, 9) === "<https://")) {
+      $end = strpos($w, ">");
+      $resList[] = url_format(substr($w, 1, $end-1), $seen) . substr($w, $end+1);
+    } else {
+      $resList[] = $w;
+    }
+  }
+  return implode(" ", $resList);
+}
+
 function link_person($person) {
   return '<a href="/?person=' . urlencode($person) . '">' . $person . '</a>';
 }
