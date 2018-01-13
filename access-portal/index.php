@@ -59,6 +59,7 @@ if ($_REQUEST['person'] ?? '') {
   <li><a href="#positions-grouped-by-organization">Positions grouped by organization</a></li>
   <li><a href="#individuals-not-affiliated-with-any-organization">Individuals
     not affiliated with any organization</a></li>
+  <li><a href="#tools">Tools</a></li>
 </ul>
 
 <h2 id="ai-safety-relation-by-subject">AI safety relation by subject</h2>
@@ -304,6 +305,36 @@ if ($_REQUEST['person'] ?? '') {
         <td><?= link_person($row['person']) ?></td>
         <td><?= ($val = $row['website']) ? '<a href="' . $val . '">' . $val . '</a>' : ''?></td>
         <td><?= url_format($row['urls'], $seen) ?></td>
+      </tr>
+    <?php } ?>
+  </tbody>
+</table>
+
+<h2 id="tools">Tools</h2>
+<?php
+  $query = "select * from tools";
+  if ($stmt = $mysqli->prepare($query)) {
+    $stmt->execute();
+    $result = $stmt->get_result();
+  }
+?>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Creator</th>
+      <th>Creation date</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <?php while ($row = $result->fetch_assoc()) { ?>
+      <tr>
+        <td><?= $row['tool_name'] ?></td>
+        <td><?= $row['creator'] ?></td>
+        <td><?= $row['creation_date'] ?></td>
+        <td><?= $row['description'] ?></td>
       </tr>
     <?php } ?>
   </tbody>
