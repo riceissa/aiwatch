@@ -350,7 +350,7 @@ if ($_REQUEST['person'] ?? '') {
   <tbody>
     <?php while ($row = $result->fetch_assoc()) { ?>
       <tr>
-        <td><?= $row['name'] ?></td>
+        <td><a href="<?= $row['url'] ?>"><?= $row['name'] ?></a></td>
         <td><?= implode("; ", $creators[$row['name']]) ?></td>
         <td><?= $row['creation_date'] ?></td>
         <td><?= formatted_notes($row['description'], $seen) ?></td>
