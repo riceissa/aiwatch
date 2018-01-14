@@ -312,6 +312,25 @@ if ($_REQUEST['person'] ?? '') {
 
 <h2 id="products">Products</h2>
 <?php
+  if ($stmt = $mysqli->prepare("select * from product_creators")) {
+    $stmt->execute();
+    $result = $stmt->get_result();
+  }
+  $creators = array();
+  while ($row = $result->fetch_assoc()) {
+    if ($row['kind'] == "person") {
+      $linked = link_person($row['name']);
+    } else {
+      $linked = link_organization($row['name']);
+    }
+
+    if (array_key_exists($row['product'], $creators)) {
+      $creators[$row['product']][] = $linked;
+    } else {
+      $creators[$row['product']] = array($linked);
+    }
+  }
+
   $query = "select * from products";
   if ($stmt = $mysqli->prepare($query)) {
     $stmt->execute();
@@ -331,8 +350,8 @@ if ($_REQUEST['person'] ?? '') {
   <tbody>
     <?php while ($row = $result->fetch_assoc()) { ?>
       <tr>
-        <td><?= $row['product_name'] ?></td>
-        <td><?= $row['creator_type'] == "person" ? link_person($row['creator']) : link_organization($row['creator']) ?></td>
+        <td><?= $row['name'] ?></td>
+        <td><?= implode("; ", $creators[$row['name']]) ?></td>
         <td><?= $row['creation_date'] ?></td>
         <td><?= formatted_notes($row['description'], $seen) ?></td>
       </tr>
