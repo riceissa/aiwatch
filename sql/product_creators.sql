@@ -18,4 +18,5 @@ insert into product_creators(product, name, kind) values
     ,('Reinforce.js implementation of Stuart Armstrong’s toy control problem','FeepingCreature','person')
     ,('LessWrong','Machine Intelligence Research Institute','organization')
     ,('AISafety.com Reading Group','Søren Elverlin','person')
+    ,('AI Safety Discussion','Viktoriya Krakovna','person')
 ;
