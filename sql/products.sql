@@ -1,6 +1,6 @@
 create table products(
     product_id int(11) not null auto_increment primary key,
-    product_name varchar(40) not null,
+    product_name varchar(100) not null,
     creator varchar(40),
     creator_type enum('person','organization'),
     creation_date date,
@@ -18,4 +18,5 @@ insert into products(product_name, creator, creator_type, creation_date, creatio
     ,('Map of the AI Safety Community','Søren Elverlin','person','2017-09-26','day','https://aisafety.com/2017/09/26/map-ai-safety-community/','A pictorial map that lists organizations and individuals in the AI safety community.')
     ,('LessWrong Wiki','Machine Intelligence Research Institute','organization','2009-03-12','day','https://wiki.lesswrong.com/','A companion wiki to the community blog LessWrong. The wiki has pages about AI safety.')
     ,('Intelligent Agent Foundations Forum','Machine Intelligence Research Institute','organization','2014-11-04','day','https://agentfoundations.org/','A forum for technical AI safety research. The source code is hosted on GitHub <https://github.com/machine-intelligence/research-forum>. The timestamp on the introductory post <https://agentfoundations.org/item?id=1> gives the launch date.')
+    ,('Reinforce.js implementation of Stuart Armstrong’s toy control problem','Gwern Branwen; FeepingCreature','person','2016-02-03','day','http://www.gwern.net/docs/rl/armstrong-controlproblem/index.html','A live demo of Stuart Armstrong’s toy control problem <http://lesswrong.com/lw/mrp/a_toy_model_of_the_control_problem/>. gwern introduced the demo in a LessWrong comment <http://lesswrong.com/lw/mrp/a_toy_model_of_the_control_problem/d33a>.')
 ;
