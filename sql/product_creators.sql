@@ -16,4 +16,5 @@ insert into product_creators(product, name, kind) values
     ,('Intelligent Agent Foundations Forum','Machine Intelligence Research Institute','organization')
     ,('Reinforce.js implementation of Stuart Armstrong’s toy control problem','Gwern Branwen','person')
     ,('Reinforce.js implementation of Stuart Armstrong’s toy control problem','FeepingCreature','person')
+    ,('LessWrong','Machine Intelligence Research Institute','organization')
 ;
