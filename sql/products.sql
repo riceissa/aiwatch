@@ -9,7 +9,7 @@ create table products(
     description varchar(2000)
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
-insert into products(tool_name, creator, creator_type, creation_date, creation_date_precision, url, description) values
+insert into products(product_name, creator, creator_type, creation_date, creation_date_precision, url, description) values
     ('AI Watch','Issa Rice','person','2017-10-23','day','https://aiwatch.issarice.com/','A website to track people and organizations working on AI safety.')
     ,('The Uncertain Future','Machine Intelligence Research Institute','organization',NULL,NULL,'http://theuncertainfuture.com/','A tool to model future technology and its effect on civilization.')
     ,('AGI Failures Modes and Levels map','Alexey Turchin','person','2015-01-01','year','http://immortality-roadmap.com/AIfails.pdf','A flowchart about failure modes of artificial general intelligence, grouped by the stage of development. There is an accompanying post on LessWrong at <http://lesswrong.com/lw/mgf/a_map_agi_failures_modes_and_levels/>.')
