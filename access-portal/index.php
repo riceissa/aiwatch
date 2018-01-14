@@ -332,7 +332,7 @@ if ($_REQUEST['person'] ?? '') {
     <?php while ($row = $result->fetch_assoc()) { ?>
       <tr>
         <td><?= $row['product_name'] ?></td>
-        <td><?= $row['creator'] ?></td>
+        <td><?= $row['creator_type'] == "person" ? link_person($row['creator']) : link_organization($row['creator']) ?></td>
         <td><?= $row['creation_date'] ?></td>
         <td><?= formatted_notes($row['description'], $seen) ?></td>
       </tr>
