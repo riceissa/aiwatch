@@ -34,7 +34,13 @@ function formatted_notes($notes, &$seen) {
 }
 
 function link_person($person) {
-  return '<a href="/?person=' . urlencode($person) . '">' . $person . '</a>';
+  $ps = explode("; ", $person);
+  $linked = array_map(
+    function ($p) {
+      return '<a href="/?person=' . urlencode($p) . '">' . $p . '</a>';
+    },
+    $ps);
+  return implode("; ", $linked);
 }
 
 function link_organization($organization) {
