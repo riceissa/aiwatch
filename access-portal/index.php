@@ -59,7 +59,7 @@ if ($_REQUEST['person'] ?? '') {
   <li><a href="#positions-grouped-by-organization">Positions grouped by organization</a></li>
   <li><a href="#individuals-not-affiliated-with-any-organization">Individuals
     not affiliated with any organization</a></li>
-  <li><a href="#tools">Tools</a></li>
+  <li><a href="#products">Products</a></li>
 </ul>
 
 <h2 id="ai-safety-relation-by-subject">AI safety relation by subject</h2>
@@ -310,9 +310,9 @@ if ($_REQUEST['person'] ?? '') {
   </tbody>
 </table>
 
-<h2 id="tools">Tools</h2>
+<h2 id="products">Products</h2>
 <?php
-  $query = "select * from tools";
+  $query = "select * from products";
   if ($stmt = $mysqli->prepare($query)) {
     $stmt->execute();
     $result = $stmt->get_result();
@@ -331,7 +331,7 @@ if ($_REQUEST['person'] ?? '') {
   <tbody>
     <?php while ($row = $result->fetch_assoc()) { ?>
       <tr>
-        <td><?= $row['tool_name'] ?></td>
+        <td><?= $row['product_name'] ?></td>
         <td><?= $row['creator'] ?></td>
         <td><?= $row['creation_date'] ?></td>
         <td><?= formatted_notes($row['description'], $seen) ?></td>
