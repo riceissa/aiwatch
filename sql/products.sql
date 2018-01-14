@@ -18,4 +18,5 @@ insert into products(name, creation_date, creation_date_precision, url, descript
     ,('Intelligent Agent Foundations Forum','2014-11-04','day','https://agentfoundations.org/','A forum for technical AI safety research. The source code is hosted on GitHub <https://github.com/machine-intelligence/research-forum>. The timestamp on the introductory post <https://agentfoundations.org/item?id=1> gives the launch date.')
     ,('Reinforce.js implementation of Stuart Armstrong’s toy control problem','2016-02-03','day','http://www.gwern.net/docs/rl/armstrong-controlproblem/index.html','A live demo of Stuart Armstrong’s toy control problem <http://lesswrong.com/lw/mrp/a_toy_model_of_the_control_problem/>. gwern introduced the demo in a LessWrong comment <http://lesswrong.com/lw/mrp/a_toy_model_of_the_control_problem/d33a>.')
     ,('LessWrong','2009-02-01','month','http://lesswrong.com/','A community blog about rationality, decision theory, AI, updates to MIRI, among other topics.')
+    ,('AISafety.com Reading Group','2016-05-24','day','https://aisafety.com/reading-group/','A weekly reading group covering topics in AI safety.')
 ;
