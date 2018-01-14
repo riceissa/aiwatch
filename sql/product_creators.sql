@@ -19,4 +19,5 @@ insert into product_creators(product, name, kind) values
     ,('LessWrong','Machine Intelligence Research Institute','organization')
     ,('AISafety.com Reading Group','Søren Elverlin','person')
     ,('AI Safety Discussion','Viktoriya Krakovna','person')
+    ,('AI Safety Open Discussion','Mati Roy','person')
 ;
