@@ -5,7 +5,7 @@ create table product_creators(
     kind enum('person','organization')
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
-insert into products(product, name, kind) values
+insert into product_creators(product, name, kind) values
     ('AI Watch','Issa Rice','person')
     ,('The Uncertain Future','Machine Intelligence Research Institute','organization')
     ,('AGI Failures Modes and Levels map','Alexey Turchin','person')
