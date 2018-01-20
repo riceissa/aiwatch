@@ -151,8 +151,8 @@ while ($row = $result->fetch_assoc()) {
       $row['start_date_precision'] ?? '', $start_guess) ?></td>
     <td><?= display_date($row['end_date'] ?? '',
       $row['end_date_precision'] ?? '', $end_guess) ?></td>
-    <td><?= $row['ai_safety_relation'] ?? '' ?></td>
-    <td><?= $row['subject'] ?? '' ?></td>
+    <td title="<?= explain_ai_safety_relation($row['ai_safety_relation']) ?>"><?= $row['ai_safety_relation'] ?? '' ?></td>
+    <td title="<?= explain_subject($row['subject']) ?>"><?= $row['subject'] ?? '' ?></td>
     <td><?= $row['employment_type'] ?? '' ?></td>
     <td><?= url_format($row['urls'], $seen) ?? '' ?></td>
     <td><?= implode(" ", array_filter(array($row['notes'] ?? '',

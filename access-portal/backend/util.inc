@@ -167,4 +167,45 @@ function dlw_links_list($mysqli, $entity) {
   }
   return $dlw;
 }
+
+
+function explain_ai_safety_relation($relation) {
+  switch ($relation) {
+  case "position":
+    return "The position itself is known to be relevant to AI safety, either because we know something about the position or because the position is at an organization exclusively focused on AI safety.";
+    break;
+  case "AGI organization":
+    return "The position is at a safety-conscious organization aiming for artificial general intelligence, so it is possible the position is relevant to AI safety, but it could also be unrelated.";
+    break;
+  case "GCR organization":
+    return "The position is at an organization aiming to reduce global catastrophic risks or existential risks, so it is possible the position is relevant to AI safety, but it could also be unrelated.";
+    break;
+  case "unrelated":
+    return "The position is unrelated to AI safety, but is included to show context for other positions.";
+    break;
+  default:
+    return "The relation to AI safety is unknown or not yet entered in the database.";
+  }
+}
+
+
+function explain_subject($subject) {
+  switch ($subject) {
+  case "technical research":
+    return "This position involves technical research.";
+    break;
+  case "software engineering":
+    return "This position involves software engineering.";
+  case "background":
+    return "This position involves background research.";
+  case "popularization":
+    return "This position involves popularization.";
+  case "general":
+    return "This position involves general work like office management.";
+  case "policy":
+    return "This position involves policy work.";
+  default:
+    return "The subject area is unknown or not yet entered in the database.";
+  }
+}
 ?>
