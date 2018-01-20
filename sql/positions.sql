@@ -87,6 +87,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Anish Mohammed','EthicsNet','Cybersecurity Strategist','2016-06-01','month',NULL,NULL,'https://gist.github.com/riceissa/468de4fe4a0834c1f31c20c945f21dd0 https://web.archive.org/web/20180120201906/https://www.ethicsnet.com/about/',NULL,NULL,NULL,NULL,NULL,'position','background','volunteer')
     ,('Remco Bloemen','EthicsNet','Algorithmic Engineer','2016-06-01','month',NULL,NULL,'https://gist.github.com/riceissa/468de4fe4a0834c1f31c20c945f21dd0 https://web.archive.org/web/20180120201906/https://www.ethicsnet.com/about/',NULL,NULL,NULL,NULL,NULL,'position','software engineering','volunteer')
     ,('Aleksandra Orchowska','EthicsNet','Human Interfaces Specialist','2016-06-01','month',NULL,NULL,'https://gist.github.com/riceissa/468de4fe4a0834c1f31c20c945f21dd0',NULL,NULL,NULL,NULL,NULL,'position','general','volunteer')
+    ,('Tamay Beriroglu','Future of Humanity Institute','Intern','2017-07-01','month',NULL,NULL,'https://www.fhi.ox.ac.uk/quarterly-update-autumn-2017/',NULL,NULL,NULL,NULL,NULL,'position','policy','intern')
 ;
 
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, start_date_lower_guess, start_date_upper_guess, end_date_lower_guess, end_date_upper_guess) values
