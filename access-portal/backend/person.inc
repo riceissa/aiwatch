@@ -130,3 +130,32 @@ while ($row = $result->fetch_assoc()) {
 
   </tbody>
 </table>
+
+<h2 id="products">Products</h2>
+<?php
+  $query = "select * from products where products.name in (select product from product_creators where name = ?);";
+  if ($stmt = $mysqli->prepare($query)) {
+    $stmt->bind_param("s", $person);
+    $stmt->execute();
+    $result = $stmt->get_result();
+  }
+?>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Creation date</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <?php while ($row = $result->fetch_assoc()) { ?>
+      <tr>
+        <td><a href="<?= $row['url'] ?>"><?= $row['name'] ?></a></td>
+        <td><?= $row['creation_date'] ?></td>
+        <td><?= formatted_notes($row['description'], $seen) ?></td>
+      </tr>
+    <?php } ?>
+  </tbody>
+</table>
