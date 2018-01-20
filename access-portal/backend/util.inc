@@ -136,4 +136,35 @@ function display_date(string $date, string $precision, string $guess) {
       . $date . '</span>' . '</span>';
   }
 }
+
+
+function dlw_links_list($mysqli, $entity) {
+  $dlw = array();
+  if ($stmt = $mysqli->prepare("select * from donations.donations where substring_index(cause_area,'/',1) = 'AI risk' and donor = ? limit 1")) {
+    $stmt->bind_param("s", $entity);
+    $stmt->execute();
+    $result = $stmt->get_result();
+  }
+  while ($row = $result->fetch_assoc()) {
+    $dlw[] = sprintf(
+      '<a href="%s">%s</a>',
+      sprintf('https://donations.vipulnaik.com/donor.php?donor=%s&amp;cause_area_filter=AI+risk', urlencode($entity)),
+      "donor"
+    );
+  }
+
+  if ($stmt = $mysqli->prepare("select * from donations.donations where substring_index(cause_area,'/',1) = 'AI risk' and donee = ? limit 1")) {
+    $stmt->bind_param("s", $entity);
+    $stmt->execute();
+    $result = $stmt->get_result();
+  }
+  while ($row = $result->fetch_assoc()) {
+    $dlw[] = sprintf(
+      '<a href="%s">%s</a>',
+      sprintf('https://donations.vipulnaik.com/donee.php?donee=%s&amp;cause_area_filter=AI+risk', urlencode($entity)),
+      "donee"
+    );
+  }
+  return $dlw;
+}
 ?>
