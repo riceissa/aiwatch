@@ -10,6 +10,7 @@ insert into product_creators(product, name, kind) values
     ,('The Uncertain Future','Machine Intelligence Research Institute','organization')
     ,('AGI Failures Modes and Levels map','Alexey Turchin','person')
     ,('AGI Safety Solutions Map','Alexey Turchin','person')
+    ,('“Levels of defense” in AI safety','Alexey Turchin','person')
     ,('Road to AI Safety Excellence','Toon Alfrink','person')
     ,('Map of the AI Safety Community','Søren Elverlin','person')
     ,('LessWrong Wiki','Machine Intelligence Research Institute','organization')
