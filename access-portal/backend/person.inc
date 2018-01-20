@@ -99,6 +99,9 @@ while ($row = $result->fetch_assoc()) { ?>
       <th>Title</th>
       <th>Start date</th>
       <th>End date</th>
+      <th>AI safety relation</th>
+      <th>Subject</th>
+      <th>Employment type</th>
       <th>Source</th>
       <th>Notes</th>
     </tr>
@@ -129,6 +132,9 @@ while ($row = $result->fetch_assoc()) {
       $row['start_date_precision'] ?? '', $start_guess) ?></td>
     <td><?= display_date($row['end_date'] ?? '',
       $row['end_date_precision'] ?? '', $end_guess) ?></td>
+    <td><?= $row['ai_safety_relation'] ?? '' ?></td>
+    <td><?= $row['subject'] ?? '' ?></td>
+    <td><?= $row['employment_type'] ?? '' ?></td>
     <td><?= url_format($row['urls'], $seen) ?? '' ?></td>
     <td><?= implode(" ", array_filter(array($row['notes'] ?? '',
       $start_explanation, $end_explanation))) ?></td>
