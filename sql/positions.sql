@@ -59,7 +59,7 @@ create table positions(
     # AI timelines work that e.g. AI Impacts does.
     subject enum('technical research','software engineering','background','popularization','general','policy'),
 
-    employment_type enum('full-time','contractor','intern','undergraduate student','graduate student','postdoc','board member','associate','advisor'),
+    employment_type enum('full-time','contractor','intern','undergraduate student','graduate student','postdoc','board member','associate','advisor','volunteer'),
     notes varchar(2000) default null
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
@@ -83,6 +83,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Eric Price','OpenAI','Intern','2016-03-31','year',NULL,NULL,'https://blog.openai.com/team-plus-plus/ https://web.archive.org/web/20171024174215/https://blog.openai.com/team-plus-plus/',NULL,NULL,NULL,NULL,NULL,'AGI organization',NULL,'intern')
     ,('Robert de Neufville','Global Catastrophic Risk Institute','Director of Communications',NULL,NULL,NULL,NULL,'http://gcrinstitute.org/people/',NULL,NULL,'2017-10-31','2017-10-31',NULL,'GCR organization','general','full-time')
     ,('Anders Sandberg','Futue of Humanity Institute','Senior Research Fellow',NULL,NULL,NULL,NULL,'https://intelligence.org/files/SoftwareLimited.pdf https://www.fhi.ox.ac.uk/team/anders-sandberg/',NULL,NULL,NULL,NULL,NULL,'position','background','full-time')
+    ,('Nell Watson','EthicsNet','Evangelist','2016-06-01','month',NULL,NULL,'https://gist.github.com/riceissa/468de4fe4a0834c1f31c20c945f21dd0 https://web.archive.org/web/20180120201906/https://www.ethicsnet.com/about/',NULL,NULL,NULL,NULL,NULL,'position','popularization','volunteer')
+    ,('Anish Mohammed','EthicsNet','Cybersecurity Strategist','2016-06-01','month',NULL,NULL,'https://gist.github.com/riceissa/468de4fe4a0834c1f31c20c945f21dd0 https://web.archive.org/web/20180120201906/https://www.ethicsnet.com/about/',NULL,NULL,NULL,NULL,NULL,'position','background','volunteer')
+    ,('Remco Bloemen','EthicsNet','Algorithmic Engineer','2016-06-01','month',NULL,NULL,'https://gist.github.com/riceissa/468de4fe4a0834c1f31c20c945f21dd0 https://web.archive.org/web/20180120201906/https://www.ethicsnet.com/about/',NULL,NULL,NULL,NULL,NULL,'position','software engineering','volunteer')
+    ,('Aleksandra Orchowska','EthicsNet','Human Interfaces Specialist','2016-06-01','month',NULL,NULL,'https://gist.github.com/riceissa/468de4fe4a0834c1f31c20c945f21dd0',NULL,NULL,NULL,NULL,NULL,'position','general','volunteer')
 ;
 
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, start_date_lower_guess, start_date_upper_guess, end_date_lower_guess, end_date_upper_guess) values
