@@ -23,4 +23,6 @@ insert into product_creators(product, name, kind) values
     ,('AI Safety Open Discussion','Mati Roy','person')
     ,('A flowchart of AI safety considerations','Eliezer Yudkowsky','person')
     ,('Annotated bibliography of recommended materials','Center for Human-Compatible AI','organization')
+    ,('Introductory resources on AI safety research','Viktoriya Krakovna','person')
+    ,('AI safety resources','Viktoriya Krakovna','person')
 ;
