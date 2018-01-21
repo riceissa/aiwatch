@@ -102,8 +102,16 @@ if ($_REQUEST['person'] ?? '') {
     <?php foreach ($subjects as $s) { ?>
       <tr>
         <td><?= $s ?? "Unknown" ?></td>
-        <?php foreach ($relations as $r) { ?>
-          <td style="text-align: right;"><?= $relationBySubject[$s][$r] ?? 0 ?></td>
+        <?php foreach ($relations as $r) {
+          $filterArgs = array();
+          if ($r) {
+            $filterArgs[] = "relation=" . urlencode($r);
+          }
+          if ($s) {
+            $filterArgs[] = "subject=" . urlencode($s);
+          }
+          $queryFilter = $filterArgs ? "/?" . implode("&amp;", $filterArgs) : "/"; ?>
+          <td style="text-align: right;"><a href="<?= $queryFilter ?>"><?= $relationBySubject[$s][$r] ?? 0 ?></a></td>
         <?php } ?>
       </tr>
     <?php } ?>
