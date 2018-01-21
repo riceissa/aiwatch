@@ -9,7 +9,7 @@ create table products(
 
 insert into products(name, creation_date, creation_date_precision, url, description) values
     ('AI Watch','2017-10-23','day','https://aiwatch.issarice.com/','A website to track people and organizations working on AI safety.')
-    ,('The Uncertain Future',NULL,NULL,'http://theuncertainfuture.com/','A tool to model future technology and its effect on civilization.')
+    ,('The Uncertain Future','2009-10-01','month','http://theuncertainfuture.com/','A tool to model future technology and its effect on civilization. For more about the history of the site, see <https://timelines.issarice.com/wiki/Timeline_of_Machine_Intelligence_Research_Institute>.')
     ,('AGI Failures Modes and Levels map','2015-01-01','year','http://immortality-roadmap.com/AIfails.pdf','A flowchart about failure modes of artificial general intelligence, grouped by the stage of development. There is an accompanying post on LessWrong at <http://lesswrong.com/lw/mgf/a_map_agi_failures_modes_and_levels/>.')
     ,('AGI Safety Solutions Map','2015-01-01','year','http://immortality-roadmap.com/aisafety.pdf','A flowchart on potential solutions to AI safety. There is an accompanying post on LessWrong at <http://lesswrong.com/lw/mid/agi_safety_solutions_map/>.')
     ,('“Levels of defense” in AI safety','2017-12-12','day','https://drive.google.com/file/d/11M9LlyQDPHrYBOsS3aCp6wotqa7iqTQg/view','A flowchart applying multilevel defense to AI safety. There is an accompanying post on LessWrong at <https://www.lesserwrong.com/posts/qAtgNeRHeHrcFLmcA/the-map-of-levels-of-defence-in-ai-safety>.')
