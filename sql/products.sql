@@ -23,4 +23,5 @@ insert into products(name, creation_date, creation_date_precision, url, descript
     ,('AI Safety Discussion','2016-02-21','day','https://www.facebook.com/groups/aisafety/','A Facebook discussion group about AI safety. This is a closed group so one needs to request access to see posts.')
     ,('AI Safety Open Discussion','2017-10-23','day','https://www.facebook.com/groups/aisafetyopen/','A Facebook discussion group about AI safety. This is an open group.')
     ,('A flowchart of AI safety considerations','2014-11-02','day','https://www.facebook.com/groups/674486385982694/permalink/675425535888779/','The flowchart was posted to Eliezer Yudkowsky’s Essays (a Facebook group) and has no title.')
+    ,('Annotated bibliography of recommended materials','2016-12-01','month','http://humancompatible.ai/bibliography','An annotated and interactive bibliography of AI safety-related course materials, textbooks, videos, papers, etc.')
 ;

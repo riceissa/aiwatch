@@ -22,4 +22,5 @@ insert into product_creators(product, name, kind) values
     ,('AI Safety Discussion','Viktoriya Krakovna','person')
     ,('AI Safety Open Discussion','Mati Roy','person')
     ,('A flowchart of AI safety considerations','Eliezer Yudkowsky','person')
+    ,('Annotated bibliography of recommended materials','Center for Human-Compatible AI','organization')
 ;
