@@ -98,6 +98,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Christopher Olah','Open Philanthropy Project','Technical advisor',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support',NULL,NULL,NULL,NULL,NULL,'position','scientific advising','advisor')
     ,('Dario Amodei','Open Philanthropy Project','Technical advisor',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support',NULL,NULL,NULL,NULL,NULL,'position','scientific advising','advisor')
     ,('Holden Karnofsky','Open Philanthropy Project','Executive Director',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/blog/potential-risks-advanced-artificial-intelligence-philanthropic-opportunity https://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence',NULL,NULL,NULL,NULL,NULL,'position','grant investigation','full-time')
+    ,('Geoffrey Irving','OpenAI','Member of AI safety team',NULL,NULL,NULL,NULL,'https://archive.is/YR6mG http://archive.is/2017.12.12-204848/https://naml.us/',NULL,NULL,NULL,NULL,NULL,'position','technical research','full-time')
 ;
 
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, start_date_lower_guess, start_date_upper_guess, end_date_lower_guess, end_date_upper_guess) values
@@ -582,7 +583,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Benjamin Clément','FLOWERS','PhD student','2015-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
     ,('Florian Golemo','FLOWERS','PhD student','2015-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
     ,('Alvaro Ovalle Castaneda','FLOWERS','PhD student','2016-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
-    ,('Geoffrey Irving','OpenAI','Member of AI safety team',NULL,NULL,NULL,NULL,'https://archive.is/YR6mG http://archive.is/2017.12.12-204848/https://naml.us/',NULL,NULL,NULL,NULL,NULL)
     ,('Alex Aiken','Stanford University',NULL,NULL,NULL,NULL,NULL,'https://futureoflife.org/first-ai-grant-recipients/',NULL,NULL,NULL,NULL,NULL)
     ,('Peter Asaro','The New School',NULL,NULL,NULL,NULL,NULL,'https://futureoflife.org/first-ai-grant-recipients/',NULL,NULL,NULL,NULL,NULL)
     ,('Seth Baum','Social & Environmental Entrepreneurs',NULL,NULL,NULL,NULL,NULL,'https://futureoflife.org/first-ai-grant-recipients/',NULL,NULL,NULL,NULL,NULL)
