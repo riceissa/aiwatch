@@ -185,6 +185,16 @@ if ($_REQUEST['person'] ?? '') {
   $query = "select person,group_concat(distinct organization order by organization SEPARATOR '|') as orgs,count(distinct organization) as numOrgs from positions where true";
   $param_str = "";
   $params = array();
+  if ($_REQUEST['subject'] ?? '') {
+    $query .= " and subject = ?";
+    $param_str .= "s";
+    $params[] = $_REQUEST['subject'];
+  }
+  if ($_REQUEST['relation'] ?? '') {
+    $query .= " and ai_safety_relation = ?";
+    $param_str .= "s";
+    $params[] = $_REQUEST['relation'];
+  }
   if ($_REQUEST['filter_title'] ?? '') {
     $query .= " and title REGEXP ?";
     $param_str .= "s";
@@ -254,8 +264,24 @@ if ($_REQUEST['person'] ?? '') {
 
 <h2 id="positions-grouped-by-organization">Positions grouped by organization</h2>
 <?php
-  $query = "select organization,group_concat(distinct person order by person SEPARATOR '|') as peeps,count(distinct person) as numPeeps from positions where true group by organization order by numPeeps desc";
+  $query = "select organization,group_concat(distinct person order by person SEPARATOR '|') as peeps,count(distinct person) as numPeeps from positions where true";
+  $param_str = "";
+  $params = array();
+  if ($_REQUEST['subject'] ?? '') {
+    $query .= " and subject = ?";
+    $param_str .= "s";
+    $params[] = $_REQUEST['subject'];
+  }
+  if ($_REQUEST['relation'] ?? '') {
+    $query .= " and ai_safety_relation = ?";
+    $param_str .= "s";
+    $params[] = $_REQUEST['relation'];
+  }
+  $query .= " group by organization order by numPeeps desc";
   if ($stmt = $mysqli->prepare($query)) {
+    if ($params) {
+      $stmt->bind_param($param_str, ...$params);
+    }
     $stmt->execute();
     $result = $stmt->get_result();
   }
