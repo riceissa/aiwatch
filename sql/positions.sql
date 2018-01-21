@@ -57,7 +57,7 @@ create table positions(
 
     # 'background' is the kind of background historical trends or
     # AI timelines work that e.g. AI Impacts does.
-    subject enum('technical research','software engineering','background','popularization','general','policy'),
+    subject enum('technical research','software engineering','background','popularization','general','policy','scientific advising','grant investigation'),
 
     employment_type enum('full-time','contractor','intern','undergraduate student','graduate student','postdoc','board member','associate','advisor','volunteer'),
     notes varchar(2000) default null
@@ -91,6 +91,13 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Christopher Cundy','Center for Human-Compatible AI','Visiting Research Scholar','2017-06-01','month','2017-10-01','month','https://web.archive.org/web/20180120234323/http://humancompatible.ai/jobs http://cundy.me/wp-content/uploads/2017/06/chris_cundy_cv.pdf https://www.linkedin.com/in/chrisjcundy/',NULL,NULL,NULL,NULL,NULL,'position','technical research','intern')
     ,('Beth Barnes','Center for Human-Compatible AI','Summer Researcher','2017-06-10','month','2017-10-01','month','https://web.archive.org/web/20180120234323/http://humancompatible.ai/jobs https://www.linkedin.com/in/elizabethmbarnes/',NULL,NULL,NULL,NULL,NULL,'position','technical research','intern')
     ,('Dmitrii Krasheninnikov','Center for Human-Compatible AI','Research Intern','2017-06-01','month','2017-08-01','month','https://web.archive.org/web/20180120234323/http://humancompatible.ai/jobs https://www.linkedin.com/in/dmitrii-krasheninnikov-a2302296/',NULL,NULL,NULL,NULL,NULL,'position','technical research','intern')
+    ,('Daniel Dewey','Open Philanthropy Project','Consulting Research Analyst','2015-01-01','year',NULL,NULL,'https://www.fhi.ox.ac.uk/wp-content/uploads/Daniel-Dewey.pdf',NULL,NULL,NULL,NULL,NULL,'position','grant investigation',NULL)
+    ,('Daniel Dewey','Open Philanthropy Project','Program Officer for Potential Risks from Advanced Artificial Intelligence','2015-01-01','year',NULL,NULL,'https://www.openphilanthropy.org/about/team/daniel-dewey',NULL,NULL,NULL,NULL,NULL,'position','grant investigation','full-time')
+    ,('Paul Christiano','Open Philanthropy Project','Technical advisor',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support',NULL,NULL,NULL,NULL,NULL,'position','scientific advising','advisor')
+    ,('Jacob Steinhardt','Open Philanthropy Project','Technical advisor',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support',NULL,NULL,NULL,NULL,NULL,'position','scientific advising','advisor')
+    ,('Christopher Olah','Open Philanthropy Project','Technical advisor',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support',NULL,NULL,NULL,NULL,NULL,'position','scientific advising','advisor')
+    ,('Dario Amodei','Open Philanthropy Project','Technical advisor',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support',NULL,NULL,NULL,NULL,NULL,'position','scientific advising','advisor')
+    ,('Holden Karnofsky','Open Philanthropy Project','Executive Director',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/blog/potential-risks-advanced-artificial-intelligence-philanthropic-opportunity https://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence',NULL,NULL,NULL,NULL,NULL,'position','grant investigation','full-time')
 ;
 
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, start_date_lower_guess, start_date_upper_guess, end_date_lower_guess, end_date_upper_guess) values
@@ -173,7 +180,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Chelsea Guo','Future of Humanity Institute','Intern in Governance of AI Program',NULL,NULL,NULL,NULL,'https://www.fhi.ox.ac.uk/about/the-team/ https://www.fhi.ox.ac.uk/team/chelsea-guo/',NULL,NULL,NULL,NULL,NULL)
     ,('Daniel Dewey','Future of Humanity Institute','Research Fellow','2012-01-01','year','2015-01-01','year','https://www.fhi.ox.ac.uk/fhi-alumni/ https://www.fhi.ox.ac.uk/wp-content/uploads/Daniel-Dewey.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Daniel Dewey','Future of Life Institute','Program Officer for AI Grants','2015-01-01','year',NULL,NULL,'https://www.fhi.ox.ac.uk/wp-content/uploads/Daniel-Dewey.pdf',NULL,NULL,NULL,NULL,NULL)
-    ,('Daniel Dewey','Open Philanthropy Project','Consulting Research Analyst','2015-01-01','year',NULL,NULL,'https://www.fhi.ox.ac.uk/wp-content/uploads/Daniel-Dewey.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Vincent C. Müller','Future of Humanity Institute','Research Fellow',NULL,NULL,NULL,NULL,'https://www.fhi.ox.ac.uk/fhi-alumni/ http://www.sophia.de/activities.htm',NULL,NULL,NULL,NULL,NULL)
     ,('Cecilia Tilli','Future of Humanity Institute','Academic Project Manager',NULL,NULL,NULL,NULL,'https://www.fhi.ox.ac.uk/fhi-alumni/',NULL,NULL,NULL,NULL,NULL)
     ,('William Saunders','Future of Humanity Institute','AI Safety Research Intern','2017-07-03','year',NULL,NULL,'https://www.fhi.ox.ac.uk/team/william-saunders/ https://www.fhi.ox.ac.uk/quarterly-update-summer-2017/',NULL,NULL,NULL,NULL,NULL)
@@ -252,7 +258,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Alan Winfield','Leverhulme Centre for the Future of Intelligence','Associate Fellow',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/alan-winfield/',NULL,NULL,NULL,NULL,NULL)
     ,('Neil Lawrence','Leverhulme Centre for the Future of Intelligence','Associate Fellow',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/neil-lawrence/',NULL,NULL,NULL,NULL,NULL)
     ,('Kay Firth-Butterfield','Leverhulme Centre for the Future of Intelligence','Associate Fellow',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/kay-firth-butterfield/',NULL,NULL,NULL,NULL,NULL)
-    ,('Daniel Dewey','Open Philanthropy Project','Program Officer for Potential Risks from Advanced Artificial Intelligence','2015-01-01','year',NULL,NULL,'https://www.openphilanthropy.org/about/team/daniel-dewey',NULL,NULL,NULL,NULL,NULL)
     ,('Katja Grace','AI Impacts',NULL,NULL,NULL,NULL,NULL,'https://aiimpacts.org/about/ https://futureoflife.org/first-ai-grant-recipients/',NULL,NULL,NULL,NULL,NULL)
     ,('Michael Wulfsohn','AI Impacts',NULL,NULL,NULL,NULL,NULL,'https://aiimpacts.org/about/',NULL,NULL,NULL,NULL,NULL)
     ,('Finan Adamson','AI Impacts',NULL,NULL,NULL,NULL,NULL,'https://aiimpacts.org/about/',NULL,NULL,NULL,NULL,NULL)
@@ -340,10 +345,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Matthew Fallshaw','Machine Intelligence Research Institute','Board Director',NULL,NULL,NULL,NULL,'https://intelligence.org/team/',NULL,NULL,NULL,NULL,NULL)
     ,('Eliezer Yudkowsky','Machine Intelligence Research Institute','Board Director',NULL,NULL,NULL,NULL,'https://intelligence.org/team/',NULL,NULL,NULL,NULL,NULL)
     ,('Anna Salamon','Machine Intelligence Research Institute','Board Director',NULL,NULL,NULL,NULL,'https://intelligence.org/team/ https://futureoflife.org/first-ai-grant-recipients/',NULL,NULL,NULL,NULL,NULL)
-    ,('Paul Christiano','Open Philanthropy Project','Technical advisor',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support',NULL,NULL,NULL,NULL,NULL)
-    ,('Jacob Steinhardt','Open Philanthropy Project','Technical advisor',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support',NULL,NULL,NULL,NULL,NULL)
-    ,('Christopher Olah','Open Philanthropy Project','Technical advisor',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support',NULL,NULL,NULL,NULL,NULL)
-    ,('Dario Amodei','Open Philanthropy Project','Technical advisor',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support',NULL,NULL,NULL,NULL,NULL)
     ,('Seth Baum','Global Catastrophic Risk Institute','Executive Director',NULL,NULL,NULL,NULL,'http://gcrinstitute.org/people/ https://arxiv.org/pdf/1607.07730.pdf http://sethbaum.com/ac/2017_AI-RandD.pdf',NULL,NULL,'2017-10-31','2017-10-31',NULL)
     ,('Tony Barrett','Global Catastrophic Risk Institute','Director of Research',NULL,NULL,NULL,NULL,'http://gcrinstitute.org/people/ https://arxiv.org/pdf/1607.07730.pdf http://sethbaum.com/ac/2017_AI-RandD.pdf',NULL,NULL,'2017-10-31','2017-10-31',NULL)
     ,('Grant Wilson','Global Catastrophic Risk Institute','Deputy Director',NULL,NULL,NULL,NULL,'http://gcrinstitute.org/people/',NULL,NULL,'2017-10-31','2017-10-31',NULL)
@@ -522,7 +523,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Will Sawin','Princeton University','Undergraduate student',NULL,NULL,NULL,NULL,'https://intelligence.org/workshops/',NULL,NULL,NULL,NULL,NULL)
     ,('Bas R. Steunebrink','NNAISENSE','Co-Founder',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171104132257/http://wrai.org/',NULL,NULL,NULL,NULL,NULL)
     ,('Max Daniel','Effective Altruism Foundation','Researcher',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171104132257/http://wrai.org/',NULL,NULL,NULL,NULL,NULL)
-    ,('Holden Karnofsky','Open Philanthropy Project','Executive Director',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/blog/potential-risks-advanced-artificial-intelligence-philanthropic-opportunity https://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence',NULL,NULL,NULL,NULL,NULL)
     ,('Pedro A. Ortega','Google DeepMind',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1711.09883.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Tom Everitt','Google DeepMind',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1711.09883.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Tom Everitt','Australian National University',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1711.09883.pdf https://arxiv.org/pdf/1708.03871.pdf https://arxiv.org/pdf/1705.08417.pdf',NULL,NULL,NULL,NULL,NULL)
