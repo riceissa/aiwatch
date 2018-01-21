@@ -36,7 +36,8 @@ if ($_REQUEST['person'] ?? '') {
   include("backend/person.inc");
 } else if ($_REQUEST['organization'] ?? '') {
   include("backend/organization.inc");
-} else { // Main index.php with no parameters
+} else {
+  $isFiltered = ($_REQUEST['subject'] ?? '') || ($_REQUEST['relation'] ?? '');
 ?>
 <h1>AI Watch</h1>
 
@@ -53,26 +54,32 @@ if ($_REQUEST['person'] ?? '') {
 <h2 id="table-of-contents">Table of contents</h2>
 
 <ul>
-  <li><a href="#ai-safety-relation-by-subject">AI safety relation by subject</a></li>
-  <li><a href="#positions-summary-by-year">Positions summary by year</a></li>
+  <?php if (!$isFiltered) { ?>
+    <li><a href="#ai-safety-relation-by-subject">AI safety relation by subject</a></li>
+    <li><a href="#positions-summary-by-year">Positions summary by year</a></li>
+  <?php } ?>
   <li><a href="#positions-grouped-by-person">Positions grouped by person</a></li>
   <li><a href="#positions-grouped-by-organization">Positions grouped by organization</a></li>
-  <li><a href="#individuals-not-affiliated-with-any-organization">Individuals
-    not affiliated with any organization</a></li>
-  <li><a href="#products">Products</a></li>
+  <?php if (!$isFiltered) { ?>
+    <li><a href="#individuals-not-affiliated-with-any-organization">Individuals
+      not affiliated with any organization</a></li>
+    <li><a href="#products">Products</a></li>
+  <?php } ?>
 </ul>
 
-<?php include("backend/relation_by_subject.inc"); ?>
-
-<?php include("backend/positions_summary_by_year.inc"); ?>
+<?php if (!$isFiltered) {
+  include("backend/relation_by_subject.inc");
+  include("backend/positions_summary_by_year.inc");
+} ?>
 
 <?php include("backend/positions_by_person.inc"); ?>
 
 <?php include("backend/positions_by_organization.inc"); ?>
 
-<?php include("backend/unaffiliated_individuals.inc"); ?>
-
-<?php include("backend/products.inc"); ?>
+<?php if (!$isFiltered) {
+  include("backend/unaffiliated_individuals.inc");
+  include("backend/products.inc");
+} ?>
 
 <?php } ?>
 
