@@ -25,4 +25,6 @@ insert into product_creators(product, name, kind) values
     ,('Annotated bibliography of recommended materials','Center for Human-Compatible AI','organization')
     ,('Introductory resources on AI safety research','Victoria Krakovna','person')
     ,('AI safety resources','Victoria Krakovna','person')
+    ,('Ordinary Ideas','Paul Christiano','person')
+    ,('AI Alignment','Paul Christiano','person')
 ;

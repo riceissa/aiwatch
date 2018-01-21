@@ -26,4 +26,6 @@ insert into products(name, creation_date, creation_date_precision, url, descript
     ,('Annotated bibliography of recommended materials','2016-12-01','month','http://humancompatible.ai/bibliography','An annotated and interactive bibliography of AI safety-related course materials, textbooks, videos, papers, etc.')
     ,('Introductory resources on AI safety research','2016-02-28','day','https://vkrakovna.wordpress.com/2016/02/28/introductory-resources-on-ai-safety-research/','A list of readings on long-term AI safety. Mirrored at <https://futureoflife.org/2016/02/29/introductory-resources-on-ai-safety-research/>. There is an updated list at <https://vkrakovna.wordpress.com/ai-safety-resources/>.')
     ,('AI safety resources','2017-10-01','month','https://vkrakovna.wordpress.com/ai-safety-resources/','A list of resources for long-term AI safety. Seems to have been first announced at <https://www.facebook.com/groups/aisafetyopen/permalink/126709148032120/>.')
+    ,('Ordinary Ideas','2011-12-21','day','https://ordinaryideas.wordpress.com/','Paul Christiano’s blog about “weird AI stuff” <https://paulfchristiano.com/blogs/>.')
+    ,('AI Alignment','2016-05-28','day','https://ai-alignment.com/','Paul Christiano’s blog about AI alignment.')
 ;
