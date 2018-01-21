@@ -55,7 +55,7 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('Tom Everitt',NULL,'tom.everitt',NULL,NULL,NULL,'108','http://www.tomeveritt.se/','http://www.tomeveritt.se/cv.pdf',NULL)
     ,('Vladimir Nesov',NULL,'vladimir.nesov',NULL,NULL,'Vladimir_Nesov','Vladimir_Nesov',NULL,NULL,NULL)
     ,('Marcello Herreshoff',NULL,'marcello.herreshoff',NULL,NULL,NULL,'223',NULL,NULL,NULL)
-    ,('Viktoriya Krakovna',NULL,'vkrakovna',NULL,NULL,NULL,'70','https://vkrakovna.wordpress.com/',NULL,NULL)
+    ,('Victoria Krakovna',NULL,'vkrakovna',NULL,NULL,NULL,'70','https://vkrakovna.wordpress.com/',NULL,NULL)
     ,('Nisan Stiennon',NULL,'nisan.stiennon',NULL,NULL,NULL,'Nisan_Stiennon',NULL,NULL,NULL)
     ,('Gary Drescher',NULL,'gary.drescher',NULL,NULL,'Gary_Drescher','Gary_Drescher',NULL,NULL,NULL)
     ,('Jan Leike',NULL,'100009882604264',NULL,NULL,NULL,'160',NULL,NULL,NULL)

@@ -19,10 +19,10 @@ insert into product_creators(product, name, kind) values
     ,('Reinforce.js implementation of Stuart Armstrong’s toy control problem','FeepingCreature','person')
     ,('LessWrong','Machine Intelligence Research Institute','organization')
     ,('AISafety.com Reading Group','Søren Elverlin','person')
-    ,('AI Safety Discussion','Viktoriya Krakovna','person')
+    ,('AI Safety Discussion','Victoria Krakovna','person')
     ,('AI Safety Open Discussion','Mati Roy','person')
     ,('A flowchart of AI safety considerations','Eliezer Yudkowsky','person')
     ,('Annotated bibliography of recommended materials','Center for Human-Compatible AI','organization')
-    ,('Introductory resources on AI safety research','Viktoriya Krakovna','person')
-    ,('AI safety resources','Viktoriya Krakovna','person')
+    ,('Introductory resources on AI safety research','Victoria Krakovna','person')
+    ,('AI safety resources','Victoria Krakovna','person')
 ;
