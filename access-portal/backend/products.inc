@@ -1,4 +1,10 @@
 <h2 id="products">Products</h2>
+
+<p>This section lists AI safety-related “products”: interactive tools,
+  websites, flowcharts, datasets, etc. Unlike documents, products
+  tend to be interactive, are updated continually, or require inputs
+  from the consumer.</p>
+
 <?php
   if ($stmt = $mysqli->prepare("select * from product_creators")) {
     $stmt->execute();
