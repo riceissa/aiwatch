@@ -28,9 +28,10 @@
 
 <h2>Inclusion criteria</h2>
 
-<p>The site is new and is still under active development, so there are
+<p>The site is new and is still under active development, so at the moment there are
   no hard criteria for including people or organizations on this site.
-  Generally what I look for are explicit statement of interest in AI
+  Generally I look for public output that is related to AI safety/risk/alignment.
+  For organizations I look for explicit statement of interest in AI
   safety/risk/alignment, or someone with an explicit interest claiming
   relevance to safety work.</p>
 
