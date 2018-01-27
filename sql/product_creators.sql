@@ -27,4 +27,6 @@ insert into product_creators(product, name, kind) values
     ,('AI safety resources','Victoria Krakovna','person')
     ,('Ordinary Ideas','Paul Christiano','person')
     ,('AI Alignment','Paul Christiano','person')
+    ,('Arbital AI alignment domain','Arbital','organization')
+    ,('Arbital AI alignment domain','Eliezer Yudkowsky','person')
 ;

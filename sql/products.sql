@@ -28,4 +28,5 @@ insert into products(name, creation_date, creation_date_precision, url, descript
     ,('AI safety resources','2017-10-01','month','https://vkrakovna.wordpress.com/ai-safety-resources/','A list of resources for long-term AI safety. Seems to have been first announced at <https://www.facebook.com/groups/aisafetyopen/permalink/126709148032120/>.')
     ,('Ordinary Ideas','2011-12-21','day','https://ordinaryideas.wordpress.com/','Paul Christiano’s blog about “weird AI stuff” <https://paulfchristiano.com/blogs/>.')
     ,('AI Alignment','2016-05-28','day','https://ai-alignment.com/','Paul Christiano’s blog about AI alignment.')
+    ,('Arbital AI alignment domain',NULL,NULL,'https://arbital.com/explore/ai_alignment/','A collection of wiki-like pages on topics in AI alignment.')
 ;
