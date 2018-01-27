@@ -35,12 +35,14 @@
 <h3>People</h3>
 
 <p>Generally I look for public output that is related to AI
-safety/risk/alignment. This could be academic papers, books, blog posts,
-flowcharts, Facebook posts, web pages, wiki pages, substantive comments to
-existing blog posts, and so on. I also pay attention to how often names appear
-in discussions (e.g. on Facebook or LessWrong) as well as inclusion in lists of
-e.g. participation in relevant workshops or other lists of people relevant to
-AI safety.</p>
+safety/risk/alignment and which is novel or an original summary-type work (i.e.
+not just a rehash of standard arguments, and not just a journalistic reporting
+of a paper). This could be academic papers, books, blog posts, flowcharts,
+Facebook posts, web pages, wiki pages, substantive comments to existing blog
+posts, and so on. I also pay attention to how often names appear in discussions
+(e.g. on Facebook or LessWrong) as well as inclusion in lists of e.g.
+participation in relevant workshops or other lists of people relevant to AI
+safety.</p>
 
 <p>So far I have been adding people who perform general work like office management, even though if they did the exact same work at an organization that didn’t work on AI safety, they wouldn’t have been added. I am not sure if this is ideal and might change that at some point.</p>
 
