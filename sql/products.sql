@@ -29,4 +29,5 @@ insert into products(name, creation_date, creation_date_precision, url, descript
     ,('Ordinary Ideas','2011-12-21','day','https://ordinaryideas.wordpress.com/','Paul Christiano’s blog about “weird AI stuff” <https://paulfchristiano.com/blogs/>.')
     ,('AI Alignment','2016-05-28','day','https://ai-alignment.com/','Paul Christiano’s blog about AI alignment.')
     ,('Arbital AI alignment domain',NULL,NULL,'https://arbital.com/explore/ai_alignment/','A collection of wiki-like pages on topics in AI alignment.')
+    ,('AI Policies Wiki','2015-12-14','day','http://wiki.aipolicies.org/','A wiki on AI policy. The wiki creation date can be seen in the revision history of the main page <http://wiki.aipolicies.org/action/info/FrontPage?action=info>.')
 ;
