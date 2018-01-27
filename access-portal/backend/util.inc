@@ -17,7 +17,7 @@ function url_format($urls_string, &$seen) {
 }
 
 function formatted_notes($notes, &$seen) {
-  $resList = "";
+  $resList = array();
   $words = explode(" ", $notes);
   foreach ($words as $w) {
     if ((substr($w, 0, 7) === "http://") || (substr($w, 0, 8) === "https://")) {
