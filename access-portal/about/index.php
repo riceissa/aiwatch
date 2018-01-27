@@ -23,21 +23,24 @@
 
 <h1>About</h1>
 
-<p>AI Watch is a website to track people and organizations working on
-  AI safety.</p>
+<p>AI Watch is a website to track people, organizations, products (tools,
+  websites, etc.), and (in the future) other aspects of AI safety.</p>
 
 <h2>Inclusion criteria</h2>
 
 <p>The site is new and is still under active development, so at the moment there are
-  no hard criteria for including people or organizations on this site.
-  Generally I look for public output that is related to AI safety/risk/alignment.
-  For organizations I look for explicit statement of interest in AI
-  safety/risk/alignment, or someone with an explicit interest claiming
-  relevance to safety work.</p>
+  no firm criteria for inclusion on this site. With that said, below I describe
+  my best guesses for what should be included and my current decision procedure.</p>
 
-<p>If an organization is about global catastrophic risks, I try to find the specific people from the organization who work on AI safety. If that is not possible I add everyone, for the sake of inclusiveness.</p>
+<h3>People</h3>
 
-<p>Similarly, if an organization is about building an AGI and I can identify the specific people within the organization who work on safety, I try to add only those people. Otherwise I just add everyone.</p>
+<p>Generally I look for public output that is related to AI
+safety/risk/alignment. This could be academic papers, books, blog posts,
+flowcharts, Facebook posts, web pages, wiki pages, substantive comments to
+existing blog posts, and so on. I also pay attention to how often names appear
+in discussions (e.g. on Facebook or LessWrong) as well as inclusion in lists of
+e.g. participation in relevant workshops or other lists of people relevant to
+AI safety.</p>
 
 <p>So far I have been adding people who perform general work like office management, even though if they did the exact same work at an organization that didn’t work on AI safety, they wouldn’t have been added. I am not sure if this is ideal and might change that at some point.</p>
 
@@ -45,6 +48,29 @@
   Naik’s <a href="https://donations.vipulnaik.com/?cause_area_filter=AI+risk">Donations
   List Website</a> (the site already tracks some donations and other funding,
   but data is preliminary).</p>
+
+<p>I am not sure what the most “useful” (in terms of how useful people will
+find this website) criteria for inclusion are. It seems like writing a couple
+of blog posts is a fairly low bar, and might turn out to be so low that I can’t
+keep up with adding everyone, or that the list feels diluted. So far this
+doesn’t seem to be the case though, and with proper tagging the dilution issue
+can be mitigated.</p>
+
+<h3>Organizations</h3>
+
+<p>I look for explicit statement of interest in AI safety/risk/alignment
+(hopefully with some actual output), or someone with an explicit interest
+claiming relevance to safety work.</p>
+
+<p>If an organization is about global catastrophic risks, I try to find the specific people from the organization who work on AI safety. If that is not possible I add everyone, for the sake of inclusiveness.</p>
+
+<p>Similarly, if an organization is about building an AGI and I can identify the specific people within the organization who work on safety, I try to add only those people. Otherwise I just add everyone.</p>
+
+<h3>Products</h3>
+
+<p>So far I have been adding products that I have seen in the past and am able
+to remember. As long as the product is somewhat usable, useful, and polished, I
+have been adding all the ones I could think of.</p>
 
 <h2>How the site was built</h2>
 
