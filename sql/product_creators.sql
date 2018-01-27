@@ -30,4 +30,5 @@ insert into product_creators(product, name, kind) values
     ,('Arbital AI alignment domain','Arbital','organization')
     ,('Arbital AI alignment domain','Eliezer Yudkowsky','person')
     ,('AI Policies Wiki','Gordon Irlam','person')
+    ,('How to study superintelligence strategy','Luke Muehlhauser','person')
 ;
