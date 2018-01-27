@@ -31,4 +31,8 @@ insert into product_creators(product, name, kind) values
     ,('Arbital AI alignment domain','Eliezer Yudkowsky','person')
     ,('AI Policies Wiki','Gordon Irlam','person')
     ,('How to study superintelligence strategy','Luke Muehlhauser','person')
+    ,('The Control Problem','CyberPersona','person')
+    ,('Effective Altruism Forum','Centre for Effective Altruism','organization')
+    ,('Effective Altruism Forum','Rethink Charity','organization')
+    ,('Effective Altruism Forum','Ryan Carey','person')
 ;
