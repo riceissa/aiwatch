@@ -8,6 +8,8 @@
   $relationBySubject = array();
   $relations = array();
   $subjects = array();
+  $relations_totals = array();
+  $subjects_totals = array();
   $query = "select ai_safety_relation,subject,count(*) as num from positions group by ai_safety_relation, subject";
   if ($stmt = $mysqli->prepare($query)) {
     $stmt->execute();
@@ -21,6 +23,10 @@
       $subjects[] = $row['subject'];
     }
     $relationBySubject[$row['subject']][$row['ai_safety_relation']] = $row['num'];
+    $relations_totals[$row['ai_safety_relation']] =
+      ($relations_totals[$row['ai_safety_relation']] ?? 0) + $row['num'];
+    $subjects_totals[$row['subject']] =
+      ($subjects_totals[$row['subject']] ?? 0) + $row['num'];
   }
   sort($relations);
   sort($subjects);
@@ -33,6 +39,7 @@
           echo '<th>' . ($r ?? 'Unknown') . '</th>';
         }
       ?>
+    <th>Total</th>
   </tr></thead>
   <tbody>
     <?php foreach ($subjects as $s) { ?>
@@ -49,7 +56,15 @@
           $queryFilter = $filterArgs ? "/?" . implode("&amp;", $filterArgs) : "/"; ?>
           <td style="text-align: right;"><a href="<?= $queryFilter ?>"><?= $relationBySubject[$s][$r] ?? 0 ?></a></td>
         <?php } ?>
+        <th style="text-align: right;"><?= $subjects_totals[$s] ?></th>
       </tr>
     <?php } ?>
+      <tr>
+        <th>Total</th>
+        <?php foreach ($relations as $r) { ?>
+          <th style="text-align: right;"><?= $relations_totals[$r] ?></th>
+        <?php } ?>
+        <th style="text-align: right;"><?= array_sum($subjects_totals) ?></th>
+      </tr>
   </tbody>
 </table>
