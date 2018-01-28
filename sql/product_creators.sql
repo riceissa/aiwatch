@@ -38,4 +38,5 @@ insert into product_creators(product, name, kind) values
     ,('Effective Altruism Forum','Ryan Carey','person')
     ,('Cause prioritization app','Michael Dickens','person')
     ,('Cause prioritization app','Buck Shlegeris','person')
+    ,('Extinction Risk from Artificial Intelligence','Michael Cohen','person')
 ;
