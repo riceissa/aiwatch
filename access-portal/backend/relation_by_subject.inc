@@ -56,13 +56,13 @@
           $queryFilter = $filterArgs ? "/?" . implode("&amp;", $filterArgs) : "/"; ?>
           <td style="text-align: right;"><a href="<?= $queryFilter ?>"><?= $relationBySubject[$s][$r] ?? 0 ?></a></td>
         <?php } ?>
-        <th style="text-align: right;"><?= $subjects_totals[$s] ?></th>
+        <th style="text-align: right;"><a href="/?subject=<?= urlencode($s) ?>"><?= $subjects_totals[$s] ?></a></th>
       </tr>
     <?php } ?>
       <tr>
         <th>Total</th>
         <?php foreach ($relations as $r) { ?>
-          <th style="text-align: right;"><?= $relations_totals[$r] ?></th>
+          <th style="text-align: right;"><a href="/?relation=<?= urlencode($r) ?>"><?= $relations_totals[$r] ?></a></th>
         <?php } ?>
         <th style="text-align: right;"><?= array_sum($subjects_totals) ?></th>
       </tr>
