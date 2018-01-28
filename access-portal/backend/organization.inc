@@ -69,6 +69,18 @@ while ($row = $result->fetch_assoc()) { ?>
       <td><a href="<?= $val ?>"><?= $val ?></a></td>
     </tr>
   <?php } ?>
+  <?php if ($val = ($row['team_page'] ?? '')) { ?>
+    <tr>
+      <td>Team page</td>
+      <td><a href="<?= $val ?>"><?= $val ?></a></td>
+    </tr>
+  <?php } ?>
+  <?php if ($val = ($row['launch_date'] ?? '')) { ?>
+    <tr>
+      <td>Launch date</td>
+      <td><?= $val ?></td>
+    </tr>
+  <?php } ?>
   <?php if ($val = ($row['wikipedia_page'] ?? '')) { ?>
     <tr>
       <td>Wikipedia page</td>
@@ -85,6 +97,12 @@ while ($row = $result->fetch_assoc()) { ?>
     <tr>
       <td>Hosting organization</td>
       <td><?= link_organization($val) ?></td>
+    </tr>
+  <?php } ?>
+  <?php if ($val = ($row['notes'] ?? '')) { ?>
+    <tr>
+      <td>Notes</td>
+      <td><?= $val ?></td>
     </tr>
   <?php } ?>
   <?php if ($val = ($row['urls'] ?? '')) { ?>
