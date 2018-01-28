@@ -13,6 +13,7 @@ insert into product_creators(product, name, kind) values
     ,('“Levels of defense” in AI safety','Alexey Turchin','person')
     ,('Road to AI Safety Excellence','Toon Alfrink','person')
     ,('Map of the AI Safety Community','Søren Elverlin','person')
+    ,('Map of the AI Safety Community','Erik B. Jacobsen','person')
     ,('LessWrong Wiki','Machine Intelligence Research Institute','organization')
     ,('Intelligent Agent Foundations Forum','Machine Intelligence Research Institute','organization')
     ,('Reinforce.js implementation of Stuart Armstrong’s toy control problem','Gwern Branwen','person')
