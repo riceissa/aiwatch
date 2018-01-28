@@ -25,7 +25,7 @@
     }
   }
 
-  $query = "select * from products";
+  $query = "select * from products order by creation_date desc";
   if ($stmt = $mysqli->prepare($query)) {
     $stmt->execute();
     $result = $stmt->get_result();
