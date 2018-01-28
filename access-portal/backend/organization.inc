@@ -78,7 +78,7 @@ while ($row = $result->fetch_assoc()) { ?>
   <?php if ($val = ($row['launch_date'] ?? '')) { ?>
     <tr>
       <td>Launch date</td>
-      <td><?= $val ?></td>
+      <td><?= display_date($val, $row['launch_date_precision'], "") ?></td>
     </tr>
   <?php } ?>
   <?php if ($val = ($row['wikipedia_page'] ?? '')) { ?>
