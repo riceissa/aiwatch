@@ -322,6 +322,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('John Salvatier','AI Impacts',NULL,NULL,NULL,NULL,NULL,'https://aiimpacts.org/about/ https://foresight.org/publications/AGI-Timeframes&PolicyWhitePaper.pdf https://arxiv.org/pdf/1701.04079.pdf',NULL,NULL,NULL,NULL,NULL,'position','background',NULL)
     ,('Ben Hoffman','AI Impacts',NULL,NULL,NULL,NULL,NULL,'https://aiimpacts.org/about/',NULL,NULL,NULL,NULL,NULL,'position','background',NULL)
     ,('Stephanie Zolayvar','AI Impacts',NULL,NULL,NULL,NULL,NULL,'https://aiimpacts.org/about/',NULL,NULL,NULL,NULL,NULL,'position','background',NULL)
+    ,('Paul Christiano','Theiss Research','Contractor',NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1606.06565.pdf',NULL,NULL,NULL,NULL,NULL,'position','technical research','contractor')
 ;
 
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, start_date_lower_guess, start_date_upper_guess, end_date_lower_guess, end_date_upper_guess) values
