@@ -1,4 +1,13 @@
-# List of things to add
+# To-do list
+
+## Possible new features
+
+- Graphs
+- Seeing how many people have entered and left the AI safety field
+- tracking movement among orgs
+- a documents table
+
+## List of things to add
 
 this is a list of things i'd like to add to AI Watch at some point, or am at
 least considering.
