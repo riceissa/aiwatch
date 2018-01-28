@@ -284,6 +284,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Alvaro Ovalle Castaneda','FLOWERS','PhD student','2016-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,'AGI organization',NULL,NULL)
     ,('Alexey Potapov','AIDEUS',NULL,NULL,NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://arxiv.org/pdf/1308.0702.pdf',NULL,NULL,NULL,NULL,NULL,'position','technical research',NULL)
     ,('Sergey Rodionov','AIDEUS',NULL,NULL,NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://arxiv.org/pdf/1308.0702.pdf',NULL,NULL,NULL,NULL,NULL,'position','technical research',NULL)
+    ,('Stan Franklin','Learning Intelligent Distribution Agent','Project Leader',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171206025343/http://ccrg.cs.memphis.edu/people.html https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,'position','technical research',NULL)
+    ,('Tamas Madl','Learning Intelligent Distribution Agent','External Member',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171206025343/http://ccrg.cs.memphis.edu/people.html https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,'position','technical research',NULL)
 ;
 
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, start_date_lower_guess, start_date_upper_guess, end_date_lower_guess, end_date_upper_guess) values
@@ -585,8 +587,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Richard Loosemore','Susaro','CEO','2017-05-01','month',NULL,NULL,'https://www.linkedin.com/in/richard-loosemore-47a2164/ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
     ,('Ben Goertzel','CogPrime','Project Leader',NULL,NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
     ,('Daniel Filan','Future of Humanity Institute','Intern',NULL,NULL,NULL,NULL,'https://www.fhi.ox.ac.uk/team/daniel-filan/','Working with Owain Evans',NULL,NULL,NULL,NULL)
-    ,('Stan Franklin','Learning Intelligent Distribution Agent','Project Leader',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171206025343/http://ccrg.cs.memphis.edu/people.html https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
-    ,('Tamas Madl','Learning Intelligent Distribution Agent','External Member',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171206025343/http://ccrg.cs.memphis.edu/people.html https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL)
     ,('Alex Aiken','Stanford University',NULL,NULL,NULL,NULL,NULL,'https://futureoflife.org/first-ai-grant-recipients/',NULL,NULL,NULL,NULL,NULL)
     ,('Peter Asaro','The New School',NULL,NULL,NULL,NULL,NULL,'https://futureoflife.org/first-ai-grant-recipients/',NULL,NULL,NULL,NULL,NULL)
     ,('Seth Baum','Social & Environmental Entrepreneurs',NULL,NULL,NULL,NULL,NULL,'https://futureoflife.org/first-ai-grant-recipients/',NULL,NULL,NULL,NULL,NULL)
