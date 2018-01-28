@@ -104,7 +104,7 @@ while ($row = $result->fetch_assoc()) { ?>
   <?php if ($dlw = dlw_links_list($mysqli, $organization)) { ?>
     <tr>
       <td>Donations List Website (data still preliminary)</td>
-      <td><?= implode(",", $dlw) ?></td>
+      <td><?= implode(", ", $dlw) ?></td>
     </tr>
   <?php } ?>
   </tbody>
