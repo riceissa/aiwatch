@@ -36,6 +36,7 @@
   <thead>
     <tr>
       <th>Name</th>
+      <th>Type</th>
       <th>Creator</th>
       <th>Creation date</th>
       <th>Description</th>
@@ -45,6 +46,7 @@
     <?php while ($row = $result->fetch_assoc()) { ?>
       <tr>
         <td><a href="<?= $row['url'] ?>"><?= $row['name'] ?></a></td>
+        <td><?= $row['product_type'] ?></td>
         <td><?= implode(", ", $creators[$row['name']]) ?></td>
         <td><?= $row['creation_date'] ?></td>
         <td><?= formatted_notes($row['description'], $seen) ?></td>
