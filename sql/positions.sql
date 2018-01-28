@@ -282,6 +282,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Benjamin Clément','FLOWERS','PhD student','2015-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,'AGI organization',NULL,NULL)
     ,('Florian Golemo','FLOWERS','PhD student','2015-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,'AGI organization',NULL,NULL)
     ,('Alvaro Ovalle Castaneda','FLOWERS','PhD student','2016-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,'AGI organization',NULL,NULL)
+    ,('Alexey Potapov','AIDEUS',NULL,NULL,NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://arxiv.org/pdf/1308.0702.pdf',NULL,NULL,NULL,NULL,NULL,'position','technical research',NULL)
+    ,('Sergey Rodionov','AIDEUS',NULL,NULL,NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://arxiv.org/pdf/1308.0702.pdf',NULL,NULL,NULL,NULL,NULL,'position','technical research',NULL)
 ;
 
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, start_date_lower_guess, start_date_upper_guess, end_date_lower_guess, end_date_upper_guess) values
@@ -614,8 +616,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Brian Ziebart','University of Illinois at Chicago',NULL,NULL,NULL,NULL,NULL,'https://futureoflife.org/first-ai-grant-recipients/',NULL,NULL,NULL,NULL,NULL)
     ,('Wendell Wallach','Yale University',NULL,NULL,NULL,NULL,NULL,'https://futureoflife.org/first-ai-grant-recipients/',NULL,NULL,NULL,NULL,NULL)
     ,('Moshe Vardi','Rice University',NULL,NULL,NULL,NULL,NULL,'https://futureoflife.org/first-ai-grant-recipients/',NULL,NULL,NULL,NULL,NULL)
-    ,('Alexey Potapov','AIDEUS',NULL,NULL,NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://arxiv.org/pdf/1308.0702.pdf',NULL,NULL,NULL,NULL,NULL)
-    ,('Sergey Rodionov','AIDEUS',NULL,NULL,NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://arxiv.org/pdf/1308.0702.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Alexey Potapov','ITMO University',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1308.0702.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Sergey Rodionov','Aix-Marseille University',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1308.0702.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('David Abel','Future of Humanity Institute','Intern','2016-07-01','month',NULL,NULL,'https://www.fhi.ox.ac.uk/q3-newsletter/',NULL,NULL,NULL,NULL,NULL)
