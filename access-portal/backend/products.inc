@@ -48,7 +48,8 @@
         <td><a href="<?= $row['url'] ?>"><?= $row['name'] ?></a></td>
         <td><?= $row['product_type'] ?></td>
         <td><?= implode(", ", $creators[$row['name']]) ?></td>
-        <td><?= $row['creation_date'] ?></td>
+        <td><?= display_date($row['creation_date'],
+                             $row['creation_date_precision'], "") ?></td>
         <td><?= formatted_notes($row['description'], $seen) ?></td>
       </tr>
     <?php } ?>
