@@ -57,7 +57,7 @@ create table positions(
 
     # 'background' is the kind of background historical trends or
     # AI timelines work that e.g. AI Impacts does.
-    subject enum('technical research','software engineering','background','popularization','general','policy','scientific advising','grant investigation'),
+    subject enum('technical research','software engineering','background','popularization','general','policy','scientific advising','grant investigation','strategy'),
 
     employment_type enum('full-time','contractor','intern','undergraduate student','graduate student','postdoc','board member','associate','advisor','volunteer'),
     notes varchar(2000) default null
@@ -323,6 +323,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Ben Hoffman','AI Impacts',NULL,NULL,NULL,NULL,NULL,'https://aiimpacts.org/about/',NULL,NULL,NULL,NULL,NULL,'position','background',NULL)
     ,('Stephanie Zolayvar','AI Impacts',NULL,NULL,NULL,NULL,NULL,'https://aiimpacts.org/about/',NULL,NULL,NULL,NULL,NULL,'position','background',NULL)
     ,('Paul Christiano','Theiss Research','Contractor',NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1606.06565.pdf',NULL,NULL,NULL,NULL,NULL,'position','technical research','contractor')
+    ,('Steven Umbrello','Institute of Ethics and Emerging Technologies','Managing Director',NULL,NULL,NULL,NULL,'https://www.researchgate.net/publication/322602996_A_Value-Sensitive_Design_Approach_to_Intelligent_Agents https://ieet.org/index.php/IEET2/staff',NULL,NULL,NULL,NULL,NULL,'position','strategy','full-time')
+    ,('Angelo Frank De Bellis','University of Edinburgh',NULL,NULL,NULL,NULL,NULL,'https://www.researchgate.net/publication/322602996_A_Value-Sensitive_Design_Approach_to_Intelligent_Agents',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
 ;
 
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, start_date_lower_guess, start_date_upper_guess, end_date_lower_guess, end_date_upper_guess) values
