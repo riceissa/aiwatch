@@ -11,3 +11,5 @@ least considering.
 - Maybe https://www.partnershiponai.org/board-of-directors/
 - https://espr-camp.org/staff/ This is the european version of SPARC ([formerly called Euro-SPARC](http://www.rationality.org/resources/updates/2017/cfar-2017-retrospective)); whole team might be relevant if it fits under CFAR's new goals?
 - https://www.nytimes.com/2017/11/06/technology/artificial-intelligence-start-up.html
+- interns for various organizations (these aren't listed on team pages so will
+  require hunting down each name in many cases)
