@@ -225,7 +225,9 @@ function explain_subject($subject) {
 function linkedCreators($mysqli, $query, $types, ...$params)
 {
     if ($stmt = $mysqli->prepare($query)) {
-        $stmt->bind_param($types, ...$params);
+        if ($types) {
+            $stmt->bind_param($types, ...$params);
+        }
         $stmt->execute();
         $result = $stmt->get_result();
     }
