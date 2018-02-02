@@ -146,6 +146,28 @@ while ($row = $result->fetch_assoc()) {
 
 <h2 id="products">Products</h2>
 <?php
+  $query = "select * from product_creators where product in (select product from product_creators where name = ?) and name != ?";
+  if ($stmt = $mysqli->prepare($query)) {
+    $stmt->bind_param("ss", $person, $person);
+    $stmt->execute();
+    $result = $stmt->get_result();
+  }
+  // Store the creators associated with each product, except for the creator
+  // whose page we are already on.
+  $creators = array();
+  while ($row = $result->fetch_assoc()) {
+    if ($row['kind'] == "person") {
+      $linked = link_person($row['name']);
+    } else {
+      $linked = link_organization($row['name']);
+    }
+    if (array_key_exists($row['product'], $creators)) {
+      $creators[$row['product']][] = $linked;
+    } else {
+      $creators[$row['product']] = array($linked);
+    }
+  }
+
   $query = "select * from products where products.name in (select product from product_creators where name = ?);";
   if ($stmt = $mysqli->prepare($query)) {
     $stmt->bind_param("s", $person);
@@ -167,7 +189,9 @@ while ($row = $result->fetch_assoc()) {
       <tr>
         <td><a href="<?= $row['url'] ?>"><?= $row['name'] ?></a></td>
         <td><?= $row['creation_date'] ?></td>
-        <td><?= formatted_notes($row['description'], $seen) ?></td>
+        <td><?= ($creators[$row['name']] ? "With " .
+                 implode(", ", $creators[$row['name']]) . ". " : "")
+                  . formatted_notes($row['description'], $seen) ?></td>
       </tr>
     <?php } ?>
   </tbody>
