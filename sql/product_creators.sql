@@ -39,4 +39,10 @@ insert into product_creators(product, name, kind) values
     ,('Cause prioritization app','Michael Dickens','person')
     ,('Cause prioritization app','Buck Shlegeris','person')
     ,('Extinction Risk from Artificial Intelligence','Michael Cohen','person')
+    ,('AI Safety Research Camp','Tom McGrath','person')
+    ,('AI Safety Research Camp','Remmelt Ellen','person')
+    ,('AI Safety Research Camp','Linda Linsefors','person')
+    ,('AI Safety Research Camp','Nandi Schoots','person')
+    ,('AI Safety Research Camp','David Kristoffersson','person')
+    ,('AI Safety Research Camp','Chris Pasek','person')
 ;
