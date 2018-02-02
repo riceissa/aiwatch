@@ -351,6 +351,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Adrian Weller','Centre for the Study of Existential Risk','Advisor',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/',NULL,NULL,'2017-11-07','2017-11-07',NULL,'position',NULL,NULL)
     ,('David Kristoffersson','Future of Humanity Institute','Contractor','2016-11-01','month','2017-03-01','month','https://www.linkedin.com/in/davidkristoffersson/',NULL,NULL,NULL,NULL,NULL,'GCR organization',NULL,'contractor')
     ,('Tom McGrath','Future of Humanity Institute','Intern','2018-01-01','month',NULL,NULL,'https://www.lesserwrong.com/posts/KgFrtaajjfSnBSZoH/ai-safety-research-camp-project-proposal',NULL,NULL,NULL,NULL,NULL,'position',NULL,'intern')
+    ,('Justin Shovelain','Convergence Analysis','Founder',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180202204220/http://convergenceanalysis.org/',NULL,NULL,NULL,NULL,NULL,'GCR organization',NULL,NULL)
+    ,('Andrew X Stewart','Convergence Analysis',NULL,NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180202204220/http://convergenceanalysis.org/',NULL,NULL,NULL,NULL,NULL,'GCR organization',NULL,NULL)
+    ,('Kristian Rönn','Convergence Analysis',NULL,NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180202204220/http://convergenceanalysis.org/',NULL,NULL,NULL,NULL,NULL,'GCR organization',NULL,NULL)
+    ,('Claire Abu-Assal','Convergence Analysis',NULL,NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180202204220/http://convergenceanalysis.org/',NULL,NULL,NULL,NULL,NULL,'GCR organization',NULL,NULL)
+    ,('Ozzie Gooen','Convergence Analysis',NULL,NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180202204220/http://convergenceanalysis.org/',NULL,NULL,NULL,NULL,NULL,'GCR organization',NULL,NULL)
 ;
 
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, start_date_lower_guess, start_date_upper_guess, end_date_lower_guess, end_date_upper_guess) values
