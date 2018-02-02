@@ -356,6 +356,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Kristian Rönn','Convergence Analysis',NULL,NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180202204220/http://convergenceanalysis.org/',NULL,NULL,NULL,NULL,NULL,'GCR organization',NULL,NULL)
     ,('Claire Abu-Assal','Convergence Analysis',NULL,NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180202204220/http://convergenceanalysis.org/',NULL,NULL,NULL,NULL,NULL,'GCR organization',NULL,NULL)
     ,('Ozzie Gooen','Convergence Analysis',NULL,NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180202204220/http://convergenceanalysis.org/',NULL,NULL,NULL,NULL,NULL,'GCR organization',NULL,NULL)
+    ,('Jarryd Martin','Australian National University',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1606.00652.pdf https://jarrydmartin.com/about/',NULL,NULL,NULL,NULL,NULL,'position','technical research',NULL)
 ;
 
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, start_date_lower_guess, start_date_upper_guess, end_date_lower_guess, end_date_upper_guess) values
@@ -386,7 +387,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Laurent Orseau','Google DeepMind','Research Scientist',NULL,NULL,NULL,NULL,'https://intelligence.org/2016/06/01/new-paper-safely-interruptible-agents/ http://auai.org/uai2016/proceedings/papers/68.pdf https://motherboard.vice.com/en_us/article/bmv7x5/google-researchers-have-come-up-with-an-ai-kill-switch http://www.bbc.com/news/technology-36472140 https://www.fhi.ox.ac.uk/deepmind-collaboration/ https://arxiv.org/pdf/1711.09883.pdf https://arxiv.org/pdf/1705.08417.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Andreas Stuhlmüller','Stanford University',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1707.05173.pdf https://stuhlmueller.org/papers/preferences-aaai2016.pdf https://arxiv.org/pdf/1701.04079.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Tor Lattimore','University of Alberta',NULL,NULL,NULL,NULL,NULL,'http://auai.org/uai2016/proceedings/papers/20.pdf',NULL,NULL,NULL,NULL,NULL)
-    ,('Marcus Hutter','Australian National University',NULL,NULL,NULL,NULL,NULL,'http://auai.org/uai2016/proceedings/papers/20.pdf https://arxiv.org/pdf/1708.03871.pdf https://arxiv.org/pdf/1705.08417.pdf',NULL,NULL,NULL,NULL,NULL)
+    ,('Marcus Hutter','Australian National University',NULL,NULL,NULL,NULL,NULL,'http://auai.org/uai2016/proceedings/papers/20.pdf https://arxiv.org/pdf/1708.03871.pdf https://arxiv.org/pdf/1705.08417.pdf https://arxiv.org/pdf/1606.00652.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Jan Leike','Australian National University',NULL,NULL,NULL,NULL,NULL,'http://auai.org/uai2016/proceedings/papers/20.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Noah D. Goodman','Stanford University',NULL,NULL,NULL,NULL,NULL,'https://stuhlmueller.org/papers/preferences-aaai2016.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Laurent Orseau','AgroParisTech',NULL,NULL,NULL,NULL,NULL,'http://agi-conference.org/2012/wp-content/uploads/2012/12/paper_76.pdf',NULL,NULL,NULL,NULL,NULL)
@@ -583,7 +584,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Max Daniel','Effective Altruism Foundation','Researcher',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171104132257/http://wrai.org/',NULL,NULL,NULL,NULL,NULL)
     ,('Pedro A. Ortega','Google DeepMind',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1711.09883.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Tom Everitt','Google DeepMind',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1711.09883.pdf',NULL,NULL,NULL,NULL,NULL)
-    ,('Tom Everitt','Australian National University',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1711.09883.pdf https://arxiv.org/pdf/1708.03871.pdf https://arxiv.org/pdf/1705.08417.pdf',NULL,NULL,NULL,NULL,NULL)
+    ,('Tom Everitt','Australian National University',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1711.09883.pdf https://arxiv.org/pdf/1708.03871.pdf https://arxiv.org/pdf/1705.08417.pdf https://arxiv.org/pdf/1606.00652.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Andrew Lefrancq','Google DeepMind',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1711.09883.pdf',NULL,NULL,NULL,NULL,NULL)
     ,('Marek Rosa','GoodAI','CEO and CTO',NULL,NULL,NULL,NULL,'https://gist.github.com/riceissa/331f6f15e116230a3e1df57d2f8252ea https://www.general-ai-challenge.org/team https://www.roadmapinstitute.org/','Also founder of the General AI Challenge and the AI Roadmap Institute, two initiatives by GoodAI.',NULL,NULL,NULL,NULL)
     ,('Olga Afanasjeva','GoodAI','COO',NULL,NULL,NULL,NULL,'https://gist.github.com/riceissa/331f6f15e116230a3e1df57d2f8252ea https://www.general-ai-challenge.org/team','Also Challenge Director of the General AI Challenge and a Contributer to the AI Roadmap Institute, two initatives by GoodAI.',NULL,NULL,NULL,NULL)
