@@ -1,7 +1,7 @@
 create table products(
     product_id int(11) not null auto_increment primary key,
     name varchar(100) not null,
-    product_type enum('blog','wiki','list','flowchart','graphic','discussion group','course','interactive application','workshop'),
+    product_type enum('blog','wiki','list','flowchart','graphic','discussion group','course','interactive application','workshop','contest'),
     creation_date date,
     creation_date_precision enum('day','month','year','multi-year'),
     url varchar(200),
@@ -37,4 +37,5 @@ insert into products(name, product_type, creation_date, creation_date_precision,
     ,('Cause prioritization app','interactive application','2016-05-18','day','http://mdickens.me/causepri-app/','An interactive app for quantitative cause prioritization. The app includes a section <http://mdickens.me/causepri-app/#7> on AI safety intervention. The creation date is the date of the first commit in the Git repository <https://github.com/bshlgrs/mega-michael-madness/commits/master?after=36ca2544a46e109ae68da6d2db054b9e728a99b5+104>.')
     ,('Extinction Risk from Artificial Intelligence','blog','2016-06-01','month','https://aisafety.wordpress.com/','A series of pages exploring arguments for and against working on AI safety. The creation date is inferred from the URLs of images (example: <https://aisafety.files.wordpress.com/2016/06/servers2.jpg>).')
     ,('AI Safety Research Camp','workshop','2018-02-01','day','https://www.lesserwrong.com/posts/KgFrtaajjfSnBSZoH/ai-safety-research-camp-project-proposal','A research camp to take place in Gran Canaria in April 2018 and in the United Kingdom in July–August 2018. Facebook group at <https://www.facebook.com/groups/AISafetyCamp/>. The creation date is the date of announcement on LessWrong 2.0.')
+    ,('AI Alignment Prize','contest','2017-11-03','day','https://www.lesserwrong.com/posts/YDLGLnzJTKMEtti7Z/announcing-the-ai-alignment-prize','A prize for work that advances understanding in alignment of smarter-than-human artificial intelligence. Winners for the first round, as well as announcement of the second round, can be found at <https://www.lesserwrong.com/posts/4WbNGQMvuFtY3So7s/announcement-ai-alignment-prize-winners-and-next-round>.')
 ;
