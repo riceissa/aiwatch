@@ -27,7 +27,7 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('Federico Pistono',NULL,NULL,NULL,NULL,NULL,NULL,'http://federicopistono.org/','https://arxiv.org/pdf/1605.02817.pdf',NULL)
     ,('Vladimir Slepnev',NULL,'vladimir.slepnev',NULL,NULL,'cousin_it','Vladimir_Slepnev','http://slepnev.blogspot.com/','http://lesswrong.com/lw/mpn/link_vladimir_slepnev_talks_about_logical/ https://www.lesserwrong.com/posts/YDLGLnzJTKMEtti7Z/announcing-the-ai-alignment-prize',NULL)
     ,('Ryan Carey',NULL,NULL,NULL,NULL,NULL,'115','http://careyryan.com/','https://agentfoundations.org/item?id=1699',NULL)
-    ,('Chris Pasek',NULL,'chrispasek',NULL,NULL,NULL,NULL,NULL,'https://agentfoundations.org/item?id=1699',NULL)
+    ,('Chris Pasek',NULL,'chrispasek',NULL,NULL,NULL,NULL,NULL,'https://agentfoundations.org/item?id=1699 https://www.lesserwrong.com/posts/KgFrtaajjfSnBSZoH/ai-safety-research-camp-project-proposal',NULL)
     ,('Peter Scheyer',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://agentfoundations.org/item?id=1699',NULL)
     ,('Scott Garrabrant',NULL,'coscott',NULL,NULL,NULL,'Scott_Garrabrant','http://scott.garrabrant.com/','http://scott.garrabrant.com/',NULL)
     ,('Jessica Taylor',NULL,'jessicaliutaylor','jessica-taylor',NULL,NULL,'Jessica_Taylor','http://jessic.at/',NULL,NULL)
@@ -83,6 +83,10 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('Alex Zhu',NULL,'alexjzhu',NULL,NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180106183846/https://espr-camp.org/staff/','“Currently splits his time between AlphaSheets and thinking about AI risk.”')
     ,('Gordon Irlam',NULL,NULL,NULL,NULL,NULL,NULL,'http://www.gordoni.com/','https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL)
     ,('Tom McGrath',NULL,'thomas.m.mcgrath','tomMcGrath',NULL,NULL,NULL,'https://tommcgrath.github.io/',NULL,NULL)
+    ,('Remmelt Ellen',NULL,'remmelt.ellen',NULL,NULL,NULL,NULL,NULL,'https://www.lesserwrong.com/posts/KgFrtaajjfSnBSZoH/ai-safety-research-camp-project-proposal',NULL)
+    ,('Linda Linsefors','Sweden','linda.linsefors','LindaLinsefors',NULL,NULL,NULL,NULL,'https://docs.google.com/document/d/1NkYDp3zns-cyasAk_WDrhj6DlJ9QjMP24fM7jTvWPqM/edit https://www.lesserwrong.com/posts/KgFrtaajjfSnBSZoH/ai-safety-research-camp-project-proposal',NULL)
+    ,('Nandi Schoots','Netherlands','nandi.schoots',NULL,'nandi-schoots-70bba8125',NULL,NULL,NULL,'https://www.lesserwrong.com/posts/KgFrtaajjfSnBSZoH/ai-safety-research-camp-project-proposal',NULL)
+    ,('David Kristoffersson','Sweden','100012144258163',NULL,'davidkristoffersson',NULL,NULL,NULL,'https://www.lesserwrong.com/posts/KgFrtaajjfSnBSZoH/ai-safety-research-camp-project-proposal',NULL)
 ;
 
 # Insert the rest of the people by taking names from positions
