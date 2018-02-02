@@ -214,6 +214,13 @@ function explain_subject($subject) {
  * Get an array where the keys are product names, and the values are a list of
  * creators for that product. Each creator is an HTML link that can be
  * displayed.
+ *
+ * @param mysqli $mysqli The mysqli connection.
+ * @param string $query  The SQL query to use. This query must select from the
+ *                       product_creators table.
+ * @param string $types  The types for the parameters passed to the query. This
+ *                       is just like the $types in a mysqli bind_param call.
+ * @param        $params The parameters to send to the query.
  */
 function linkedCreators($mysqli, $query, $types, ...$params)
 {
