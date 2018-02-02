@@ -208,4 +208,38 @@ function explain_subject($subject) {
     return "The subject area is unknown or not yet entered in the database.";
   }
 }
+
+
+/**
+ * Get an array where the keys are product names, and the values are a list of
+ * creators for that product. Each creator is an HTML link that can be
+ * displayed.
+ */
+function linkedCreators($mysqli, $query, $types, ...$params)
+{
+    if ($stmt = $mysqli->prepare($query)) {
+        $stmt->bind_param($types, ...$params);
+        $stmt->execute();
+        $result = $stmt->get_result();
+    }
+
+    // Store the creators associated with each product, except for the creator
+    // whose page we are already on.
+    $creators = array();
+
+    while ($row = $result->fetch_assoc()) {
+        if ($row['kind'] == "person") {
+            $linked = link_person($row['name']);
+        } else {
+            $linked = link_organization($row['name']);
+        }
+        if (array_key_exists($row['product'], $creators)) {
+            $creators[$row['product']][] = $linked;
+        } else {
+            $creators[$row['product']] = array($linked);
+        }
+    }
+
+    return $creators;
+}
 ?>
