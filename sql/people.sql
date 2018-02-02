@@ -82,6 +82,7 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('Alex Flint',NULL,'alex.j.flint',NULL,'alexjflint',NULL,NULL,'http://www.alexflint.io/','https://haseebq.com/why-you-should-give-now-not-later/','Manages a donor-advised fund and is “very well-versed in AI risk”.')
     ,('Alex Zhu',NULL,'alexjzhu',NULL,NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180106183846/https://espr-camp.org/staff/','“Currently splits his time between AlphaSheets and thinking about AI risk.”')
     ,('Gordon Irlam',NULL,NULL,NULL,NULL,NULL,NULL,'http://www.gordoni.com/','https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL)
+    ,('Tom McGrath',NULL,'thomas.m.mcgrath','tomMcGrath',NULL,NULL,NULL,'https://tommcgrath.github.io/',NULL,NULL)
 ;
 
 # Insert the rest of the people by taking names from positions
