@@ -1,7 +1,7 @@
 create table products(
     product_id int(11) not null auto_increment primary key,
     name varchar(100) not null,
-    product_type enum('blog','wiki','list','flowchart','graphic','discussion group','course','interactive application','workshop','contest'),
+    product_type enum('blog','wiki','list','flowchart','graphic','discussion group','course','interactive application','workshop','contest','fellowship'),
     creation_date date,
     creation_date_precision enum('day','month','year','multi-year'),
     url varchar(200),
@@ -38,4 +38,5 @@ insert into products(name, product_type, creation_date, creation_date_precision,
     ,('Extinction Risk from Artificial Intelligence','blog','2016-06-01','month','https://aisafety.wordpress.com/','A series of pages exploring arguments for and against working on AI safety. The creation date is inferred from the URLs of images (example: <https://aisafety.files.wordpress.com/2016/06/servers2.jpg>).')
     ,('AI Safety Research Camp','workshop','2018-02-01','day','https://www.lesserwrong.com/posts/KgFrtaajjfSnBSZoH/ai-safety-research-camp-project-proposal','A research camp to take place in Gran Canaria in April 2018 and in the United Kingdom in July–August 2018. Facebook group at <https://www.facebook.com/groups/AISafetyCamp/>. The creation date is the date of announcement on LessWrong 2.0.')
     ,('AI Alignment Prize','contest','2017-11-03','day','https://www.lesserwrong.com/posts/YDLGLnzJTKMEtti7Z/announcing-the-ai-alignment-prize','A prize for work that advances understanding in alignment of smarter-than-human artificial intelligence. Winners for the first round, as well as announcement of the second round, can be found at <https://www.lesserwrong.com/posts/4WbNGQMvuFtY3So7s/announcement-ai-alignment-prize-winners-and-next-round>.')
+    ,('Open Philanthropy Project AI Fellows Program','fellowship','2017-09-12','day','https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/open-philanthropy-project-ai-fellows-program','A fellowship to support PhD students in AI and machine learning. For the creation date, see <https://www.facebook.com/vipulnaik.r/posts/10213116327718748>.')
 ;
