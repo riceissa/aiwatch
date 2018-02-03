@@ -15,6 +15,7 @@ if ($stmt = $mysqli->prepare($query)) {
 }
 ?>
 
+<p>Showing <?= $mysqli->affected_rows ?> products.</p>
 <table>
   <thead>
     <tr>
