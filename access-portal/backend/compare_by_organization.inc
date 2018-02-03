@@ -97,6 +97,24 @@ foreach ($organizations as $organization) { ?>
     <h3>Documents</h3>
 
     <h3>Products</h3>
+    <table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Creation date</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+    <?php foreach ($products[$organization] as $row) { ?>
+        <tr>
+            <td><a href="<?= $row['url'] ?>"><?= $row['name'] ?></a></td>
+            <td><?= $row['creation_date'] ?></td>
+            <td><?= formatted_notes($row['description'], $seen) ?></td>
+        </tr>
+    <?php } ?>
+    </tbody>
+    </table>
 
 <?php
 } ?>
