@@ -1,6 +1,6 @@
 create table products(
     product_id int(11) not null auto_increment primary key,
-    name varchar(100) not null,
+    name varchar(100) not null unique,
     product_type enum('blog','wiki','list','flowchart','graphic','discussion group','course','interactive application','workshop','contest','fellowship'),
     creation_date date,
     creation_date_precision enum('day','month','year','multi-year'),
