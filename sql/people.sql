@@ -37,7 +37,7 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('Vadim Kosoy',NULL,'100008748870106',NULL,'vadim-kosoy-bb590a1','Squark','7',NULL,NULL,NULL)
     ,('Patrick LaVictoire',NULL,'patrick.lavictoire',NULL,'patricklavictoire',NULL,'Patrick_LaVictoire','https://www.patricklavictoire.com/',NULL,NULL)
     ,('Tsvi Benson-Tilsen',NULL,'tsvi.bt',NULL,NULL,NULL,'Tsvi_Benson-Tilsen',NULL,NULL,NULL)
-    ,('Alex Mennen',NULL,'alexmennen',NULL,NULL,NULL,'29','http://alexmennen.com/',NULL,NULL)
+    ,('Alex Mennen',NULL,'alexmennen',NULL,NULL,NULL,'29','http://alexmennen.com/','https://www.lesserwrong.com/posts/4WbNGQMvuFtY3So7s/announcement-ai-alignment-prize-winners-and-next-round',NULL)
     ,('Sam Eisenstat',NULL,NULL,NULL,NULL,NULL,'57',NULL,NULL,NULL)
     ,('Nate Soares',NULL,'so8res','Soares','so8res','So8res','Nate_Soares','http://so8r.es/','http://so8r.es/resume.pdf',NULL)
     ,('Janos Kramar',NULL,'janos.kramar',NULL,NULL,NULL,'42',NULL,NULL,NULL)
@@ -87,6 +87,7 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('Linda Linsefors','Sweden','linda.linsefors','LindaLinsefors',NULL,NULL,NULL,NULL,'https://docs.google.com/document/d/1NkYDp3zns-cyasAk_WDrhj6DlJ9QjMP24fM7jTvWPqM/edit https://www.lesserwrong.com/posts/KgFrtaajjfSnBSZoH/ai-safety-research-camp-project-proposal',NULL)
     ,('Nandi Schoots','Netherlands','nandi.schoots',NULL,'nandi-schoots-70bba8125',NULL,NULL,NULL,'https://www.lesserwrong.com/posts/KgFrtaajjfSnBSZoH/ai-safety-research-camp-project-proposal',NULL)
     ,('David Kristoffersson','Sweden','100012144258163',NULL,'davidkristoffersson',NULL,NULL,NULL,'https://www.lesserwrong.com/posts/KgFrtaajjfSnBSZoH/ai-safety-research-camp-project-proposal',NULL)
+    ,('John Maxwell',NULL,'johnmaxwelliv',NULL,NULL,NULL,NULL,NULL,'https://www.lesserwrong.com/posts/4WbNGQMvuFtY3So7s/announcement-ai-alignment-prize-winners-and-next-round',NULL)
 ;
 
 # Insert the rest of the people by taking names from positions
