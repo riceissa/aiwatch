@@ -97,6 +97,8 @@ foreach ($organizations as $organization) { ?>
     <h3>Documents</h3>
 
     <h3>Products</h3>
+    <p>The following table shows products created during
+       <?= htmlspecialchars($year) ?>.</p>
     <table>
     <thead>
         <tr>
