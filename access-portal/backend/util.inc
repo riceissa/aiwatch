@@ -251,4 +251,13 @@ function linkedCreators($mysqli, $query, $types, ...$params)
 
     return $creators;
 }
+
+function anchorText(string $text)
+{
+    $text = strtolower($text);
+    $text = str_replace(array('&', ','), "", $text);
+    $text = preg_replace('/\s+/', '-', $text);
+    $text = urlencode($text);
+    return $text;
+}
 ?>
