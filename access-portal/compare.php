@@ -32,11 +32,24 @@ if (($_REQUEST['by'] ?? '') && ($_REQUEST['for'] ?? '')) {
 include_once("backend/globalVariables/passwordFile.inc");
 include_once("backend/util.inc");
 if (($_REQUEST['by'] ?? '') == 'organization') {
-  include("backend/compare_by_organization.inc");
+    include("backend/compare_by_organization.inc");
 } else if (($_REQUEST['by'] ?? '') == 'year') {
-  // add later
-} else { ?>
-    <p>Sorry, this comparison grouping is not possible.</p>
+    // add later
+} else {
+    if ($stmt = $mysqli->prepare("select distinct(year(start_date)) as year from positions where start_date is not null union select distinct(year(end_date)) as year from positions where end_date is not null union select year(creation_date) as year from products where creation_date is not null order by year")) {
+        $stmt->execute();
+        $result = $stmt->get_result();
+    }
+?>
+    <h2>Compare organizations</h2>
+    <ul>
+        <?php while ($row = $result->fetch_assoc()) { ?>
+            <li><a href="/compare.php?by=organization&amp;for=<?= $row['year'] ?>"><?= $row['year'] ?></a></li>
+        <?php } ?>
+    </ul>
+
+    <h2>Compare years</h2>
+    <p>Coming soon.</p>
 <?php } ?>
 
 <script>
