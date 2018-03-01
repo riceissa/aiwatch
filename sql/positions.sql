@@ -731,8 +731,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Anish Athalye','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/robust-adversarial-inputs/',NULL,NULL,NULL,NULL,NULL)
     ,('Vikash Kumar','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/robots-that-learn/',NULL,NULL,NULL,NULL,NULL)
     ,('Bradly Stadie','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/robots-that-learn/',NULL,NULL,NULL,NULL,NULL)
-    ,('Ryan Lowe','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/learning-to-cooperate-compete-and-communicate/',NULL,NULL,NULL,NULL,NULL)
+    ,('Ryan Lowe','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/learning-to-cooperate-compete-and-communicate/ https://blog.openai.com/learning-to-communicate/',NULL,NULL,NULL,NULL,NULL)
     ,('Yi Wu','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/learning-to-cooperate-compete-and-communicate/',NULL,NULL,NULL,NULL,NULL)
     ,('Aviv Tamar','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/learning-to-cooperate-compete-and-communicate/',NULL,NULL,NULL,NULL,NULL)
     ,('Jean Harb','OpenAI','Intern','2017-03-01','year','2017-06-01','year','https://blog.openai.com/learning-to-cooperate-compete-and-communicate/',NULL,NULL,NULL,NULL,NULL)
+    ,('Nicolas Papernot','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/adversarial-example-research/',NULL,NULL,NULL,NULL,NULL)
+    ,('Sandy Huang','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/adversarial-example-research/',NULL,NULL,NULL,NULL,NULL)
+    ,('Yan Duan','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/adversarial-example-research/',NULL,NULL,NULL,NULL,NULL)
 ;
