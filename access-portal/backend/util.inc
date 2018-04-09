@@ -148,7 +148,7 @@ function dlw_links_list($mysqli, $entity) {
   while ($row = $result->fetch_assoc()) {
     $dlw[] = sprintf(
       '<a href="%s">%s</a>',
-      sprintf('https://donations.vipulnaik.com/donor.php?donor=%s&amp;cause_area_filter=AI+risk', urlencode($entity)),
+      sprintf('https://donations.vipulnaik.com/donor.php?donor=%s&amp;cause_area_filter=AI+safety', urlencode($entity)),
       "donor"
     );
   }
@@ -161,7 +161,7 @@ function dlw_links_list($mysqli, $entity) {
   while ($row = $result->fetch_assoc()) {
     $dlw[] = sprintf(
       '<a href="%s">%s</a>',
-      sprintf('https://donations.vipulnaik.com/donee.php?donee=%s&amp;cause_area_filter=AI+risk', urlencode($entity)),
+      sprintf('https://donations.vipulnaik.com/donee.php?donee=%s&amp;cause_area_filter=AI+safety', urlencode($entity)),
       "donee"
     );
   }
