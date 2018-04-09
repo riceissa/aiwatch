@@ -712,7 +712,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Xue Bin Peng','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/generalizing-from-simulation/',NULL,NULL,NULL,NULL,NULL)
     ,('Lerrel Pinto','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/generalizing-from-simulation/',NULL,NULL,NULL,NULL,NULL)
     ,('Josh Tobin','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/generalizing-from-simulation/ https://blog.openai.com/robots-that-learn/',NULL,NULL,NULL,NULL,NULL)
-    ,('Maruan Al-Shedivat','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/meta-learning-for-wrestling/ https://blog.openai.com/learning-to-model-other-minds/',NULL,NULL,NULL,NULL,NULL)
+    ,('Maruan Al-Shedivat','OpenAI','Intern',NULL,NULL,NULL,NULL,'https://blog.openai.com/meta-learning-for-wrestling/ https://blog.openai.com/learning-to-model-other-minds/ https://www.wired.com/story/ai-sumo-wrestlers-could-make-future-robots-more-nimble/',NULL,NULL,NULL,NULL,NULL)
     ,('Trapit Bansal','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/meta-learning-for-wrestling/ https://blog.openai.com/competitive-self-play/',NULL,NULL,NULL,NULL,NULL)
     ,('Jakob Foerster','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/nonlinear-computation-in-linear-networks/ https://blog.openai.com/learning-to-model-other-minds/',NULL,NULL,NULL,NULL,NULL)
     ,('Richard Chen','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/learning-to-model-other-minds/ https://blog.openai.com/better-exploration-with-parameter-noise/',NULL,NULL,NULL,NULL,NULL)
