@@ -130,11 +130,15 @@ while ($row = $result->fetch_assoc()) { ?>
 
 <h2>Staff count by year</h2>
 
+<p>Hover over a name to see the position and date range. This table only
+includes positions where at least the start date is known. The positions count
+can count the same person multiple times if they held different positions.</p>
+
 <table>
   <thead>
     <tr>
       <th>Year</th>
-      <th>Staff count</th>
+      <th>Positions count</th>
       <th>Researchers</th>
       <th>General staff</th>
       <th>Associates</th>
