@@ -139,13 +139,14 @@ while ($row = $result->fetch_assoc()) { ?>
       <th>General staff</th>
       <th>Associates</th>
       <th>Board members</th>
+      <th>Advisors</th>
     </tr>
   </thead>
   <tbody>
 
 <?php
   for ($year = 2000; $year < date("Y")+1; $year++) {
-    if ($stmt = $mysqli->prepare("select person,title,case when title REGEXP 'board' then 'board member' when title REGEXP 'associate' then 'associate' when title REGEXP 'research' then 'researcher' else 'general staff' end as title_type,start_date,end_date from positions where organization = ? and (start_date < ? or start_date is null) and (end_date > ? or end_date is null)")) {
+    if ($stmt = $mysqli->prepare("select person,title,case when title REGEXP 'board' then 'board member' when title REGEXP 'associate' then 'associate' when title REGEXP 'advisor' then 'advisor' when title REGEXP 'research' then 'researcher' else 'general staff' end as title_type,start_date,end_date from positions where organization = ? and start_date < ? and (end_date > ? or end_date is null)")) {
       $start_date = strval($year+1)."-01-01";
       $end_date = strval($year)."-01-01";
       $stmt->bind_param("sss", $organization, $start_date, $end_date);
@@ -156,6 +157,7 @@ while ($row = $result->fetch_assoc()) { ?>
     $associates = array();
     $researchers = array();
     $general_staff = array();
+    $advisors = array();
     while ($row = $result->fetch_assoc()) {
       switch ($row['title_type']) {
       case 'board member':
@@ -174,12 +176,17 @@ while ($row = $result->fetch_assoc()) { ?>
         $general_staff[] = link_person($row['person'],
                                 $row['title'] . ", " . $row['start_date'] . '–' . $row['end_date']);
         break;
+      case 'advisor':
+        $advisors[] = link_person($row['person'],
+                                $row['title'] . ", " . $row['start_date'] . '–' . $row['end_date']);
+        break;
       }
     }
     sort($board_members);
     sort($associates);
     sort($researchers);
     sort($general_staff);
+    sort($advisors);
     if ($staff_count = ($mysqli->affected_rows)) { ?>
       <tr>
         <td><?= $year ?></td>
@@ -188,6 +195,7 @@ while ($row = $result->fetch_assoc()) { ?>
         <td><?= implode(", ", $general_staff) ?></td>
         <td><?= implode(", ", $associates) ?></td>
         <td><?= implode(", ", $board_members) ?></td>
+        <td><?= implode(", ", $advisors) ?></td>
       </tr>
 <?php
     }
