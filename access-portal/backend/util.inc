@@ -33,11 +33,12 @@ function formatted_notes($notes, &$seen) {
   return implode(" ", $resList);
 }
 
-function link_person($person) {
+function link_person($person, $title_text = '') {
   $ps = explode("; ", $person);
   $linked = array_map(
-    function ($p) {
-      return '<a href="/?person=' . urlencode($p) . '">' . $p . '</a>';
+    function ($p) use ($title_text) {
+      return '<a href="/?person=' . urlencode($p) . '"'
+        . ($title_text ? ' title="' . htmlspecialchars($title_text) . '"' : '') . '>' . $p . '</a>';
     },
     $ps);
   return implode("; ", $linked);

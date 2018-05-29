@@ -142,7 +142,7 @@ while ($row = $result->fetch_assoc()) { ?>
 
 <?php
   for ($year = 2000; $year < 2019; $year++) {
-    if ($stmt = $mysqli->prepare("select person from positions where organization = ? and start_date < ? and end_date > ?")) {
+    if ($stmt = $mysqli->prepare("select person,title,start_date,end_date from positions where organization = ? and start_date < ? and end_date > ?")) {
       $start_date = strval($year+1)."-01-01";
       $end_date = strval($year)."-01-01";
       $stmt->bind_param("sss", $organization, $start_date, $end_date);
@@ -151,7 +151,8 @@ while ($row = $result->fetch_assoc()) { ?>
     }
     $people = array();
     while ($row = $result->fetch_assoc()) {
-      $people[] = link_person($row['person']);
+      $people[] = link_person($row['person'],
+                              $row['title'] . ", " . $row['start_date'] . '–' . $row['end_date']);
     }
     sort($people);
     if ($staff_count = ($mysqli->affected_rows)) { ?>
