@@ -135,31 +135,59 @@ while ($row = $result->fetch_assoc()) { ?>
     <tr>
       <th>Year</th>
       <th>Staff count</th>
-      <th>Staff members</th>
+      <th>Researchers</th>
+      <th>General staff</th>
+      <th>Associates</th>
+      <th>Board members</th>
     </tr>
   </thead>
   <tbody>
 
 <?php
-  for ($year = 2000; $year < 2019; $year++) {
-    if ($stmt = $mysqli->prepare("select person,title,start_date,end_date from positions where organization = ? and start_date < ? and end_date > ?")) {
+  for ($year = 2000; $year < date("Y")+1; $year++) {
+    if ($stmt = $mysqli->prepare("select person,title,case when title REGEXP 'board' then 'board member' when title REGEXP 'associate' then 'associate' when title REGEXP 'research' then 'researcher' else 'general staff' end as title_type,start_date,end_date from positions where organization = ? and (start_date < ? or start_date is null) and (end_date > ? or end_date is null)")) {
       $start_date = strval($year+1)."-01-01";
       $end_date = strval($year)."-01-01";
       $stmt->bind_param("sss", $organization, $start_date, $end_date);
       $stmt->execute();
       $result = $stmt->get_result();
     }
-    $people = array();
+    $board_members = array();
+    $associates = array();
+    $researchers = array();
+    $general_staff = array();
     while ($row = $result->fetch_assoc()) {
-      $people[] = link_person($row['person'],
-                              $row['title'] . ", " . $row['start_date'] . '–' . $row['end_date']);
+      switch ($row['title_type']) {
+      case 'board member':
+        $board_members[] = link_person($row['person'],
+                                $row['title'] . ", " . $row['start_date'] . '–' . $row['end_date']);
+        break;
+      case 'associate':
+        $associates[] = link_person($row['person'],
+                                $row['title'] . ", " . $row['start_date'] . '–' . $row['end_date']);
+        break;
+      case 'researcher':
+        $researchers[] = link_person($row['person'],
+                                $row['title'] . ", " . $row['start_date'] . '–' . $row['end_date']);
+        break;
+      case 'general staff':
+        $general_staff[] = link_person($row['person'],
+                                $row['title'] . ", " . $row['start_date'] . '–' . $row['end_date']);
+        break;
+      }
     }
-    sort($people);
+    sort($board_members);
+    sort($associates);
+    sort($researchers);
+    sort($general_staff);
     if ($staff_count = ($mysqli->affected_rows)) { ?>
       <tr>
         <td><?= $year ?></td>
         <td><?= $staff_count ?></td>
-        <td><?= implode(", ", $people) ?></td>
+        <td><?= implode(", ", $researchers) ?></td>
+        <td><?= implode(", ", $general_staff) ?></td>
+        <td><?= implode(", ", $associates) ?></td>
+        <td><?= implode(", ", $board_members) ?></td>
       </tr>
 <?php
     }
