@@ -259,6 +259,11 @@ advisors, and board members.</p>
 
 <h2>Full history of additions and subtractions</h2>
 
+<p>This table shows the full change history of positions. Each row corresponds
+to at least one addition or removal of a position. If a position name changed,
+it is listed simultaneously as an addition (of the new name) and removal (of
+the old name).</p>
+
 <table>
   <thead>
     <tr>
