@@ -257,6 +257,92 @@ advisors, and board members.</p>
   </tbody>
 </table>
 
+<h2>Full history of additions and subtractions</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Number of positions</th>
+      <th>Number of positions added</th>
+      <th>Number of positions removed</th>
+      <th>Positions added</th>
+      <th>Positions removed</th>
+    </tr>
+  </thead>
+  <tbody>
+
+<?php
+    $staff_changes = array();
+    if ($stmt = $mysqli->prepare("select start_date,person,title from positions where organization = ? and start_date is not null order by start_date")) {
+      $stmt->bind_param("s", $organization);
+      $stmt->execute();
+      $result = $stmt->get_result();
+    }
+    while ($row = $result->fetch_assoc()) {
+      $staff_changes[] = array($row['start_date'], 1, $row['person'], $row['title']);
+    }
+    if ($stmt = $mysqli->prepare("select end_date,person,title from positions where organization = ? and end_date is not null order by end_date")) {
+      $stmt->bind_param("s", $organization);
+      $stmt->execute();
+      $result = $stmt->get_result();
+    }
+    while ($row = $result->fetch_assoc()) {
+      $staff_changes[] = array($row['end_date'], -1, $row['person'], $row['title']);
+    }
+    array_multisort($staff_changes);
+    $staff_count = 0;
+    $pos = 0;
+    $summary = array();
+    while ($pos < count($staff_changes)) {
+      $curr_date = $staff_changes[$pos][0];
+      $curr_additions = 0;
+      $curr_subtractions = 0;
+      $curr_staff_added = array();
+      $curr_staff_subtracted = array();
+      while ($staff_changes[$pos][0] === $curr_date) {
+        $change = $staff_changes[$pos][1];
+        $staff_count = $staff_count + $change;
+        if ($change > 0) {
+          $curr_additions = $curr_additions + $change;
+          $curr_staff_added[] = array($staff_changes[$pos][2], $staff_changes[$pos][3]);
+        } else {
+          $curr_subtractions = $curr_subtractions + $change;
+          $curr_staff_subtracted[] = array($staff_changes[$pos][2], $staff_changes[$pos][3]);
+        }
+        $pos++;
+      }
+      $summary[$curr_date] = array();
+      $summary[$curr_date]['staff_count'] = $staff_count;
+      $summary[$curr_date]['additions'] = $curr_additions;
+      $summary[$curr_date]['subtractions'] = $curr_subtractions;
+      $summary[$curr_date]['staff_added'] = $curr_staff_added;
+      $summary[$curr_date]['staff_subtracted'] = $curr_staff_subtracted;
+    }
+    foreach ($summary as $date => $val) {
+      $staff_added = array();
+      foreach ($val['staff_added'] as $p) {
+        $staff_added[] = link_person($p[0], $p[1]);
+      }
+      $staff_subtracted = array();
+      foreach ($val['staff_subtracted'] as $p) {
+        $staff_subtracted[] = link_person($p[0], $p[1]);
+      }
+?>
+    <tr>
+      <td><?= $date ?></td>
+      <td style="text-align: right;"><?= $val['staff_count'] ?></td>
+      <td style="text-align: right;"><?= $val['additions'] ?></td>
+      <td style="text-align: right;"><?= $val['subtractions'] ?></td>
+      <td><?= implode(", ", $staff_added) ?></td>
+      <td><?= implode(", ", $staff_subtracted) ?></td>
+    </tr>
+<?php
+    }
+?>
+  </tbody>
+</table>
+
 <h2>List of people</h2>
 
 <table>
