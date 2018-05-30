@@ -197,7 +197,7 @@ the year can be lower.</p>
     if ($staff_count = ($mysqli->affected_rows)) { ?>
       <tr>
         <td><?= $year ?></td>
-        <td><?= $staff_count ?></td>
+        <td style="text-align: right;"><?= $staff_count ?></td>
         <td><?= implode(", ", $researchers) ?></td>
         <td><?= implode(", ", $general_staff) ?></td>
         <td><?= implode(", ", $associates) ?></td>
@@ -208,6 +208,52 @@ the year can be lower.</p>
     }
 }
 ?>
+  </tbody>
+</table>
+
+<h2>Number of full-time staff at the beginning each year</h2>
+
+<p>The following table lists some dates and people who were at the organization
+on the given date (namely, the start of the year). The table may not list every
+person who worked for the organization (e.g. they could have joined and left in
+the middle of a single year). This table excludes associates, interns,
+advisors, and board members.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Staff count</th>
+      <th>Staff</th>
+    </tr>
+  </thead>
+  <tbody>
+
+<?php
+  for ($year = 2000; $year < date("Y")+1; $year++) {
+    if ($stmt = $mysqli->prepare("select title,person,start_date,end_date from positions where organization = ? and start_date <= ? and (end_date is null or end_date > ?) and title not REGEXP 'associate' and title not REGEXP 'intern' and title not REGEXP 'advisor' and title not REGEXP 'board'")) {
+      $date = strval($year)."-01-01";
+      $stmt->bind_param("sss", $organization, $date, $date);
+      $stmt->execute();
+      $result = $stmt->get_result();
+    }
+    $staff = array();
+    while ($row = $result->fetch_assoc()) {
+      $staff[] = link_person($row['person'],
+                             $row['title'] . ", " . $row['start_date'] . '–' . $row['end_date']);
+    }
+    sort($staff);
+    if ($staff_count = ($mysqli->affected_rows)) { ?>
+      <tr>
+        <td><?= strval($year) . "-01-01" ?></td>
+        <td style="text-align: right;"><?= $staff_count ?></td>
+        <td><?= implode(", ", $staff) ?></td>
+      </tr>
+<?php
+    }
+  }
+?>
+
   </tbody>
 </table>
 
