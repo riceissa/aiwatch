@@ -188,7 +188,7 @@
   </tbody>
 </table>
 
-<p>TODO: add public AISFP participants</p>
+<!-- <p>TODO: add public AISFP participants</p> -->
 
 <script>
     $(function(){$("table").tablesorter();});
