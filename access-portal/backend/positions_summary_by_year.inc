@@ -22,10 +22,6 @@
 
   get_by_year_data($mysqli, "start_date", $years, $byYear);
   get_by_year_data($mysqli, "end_date", $years, $byYear);
-  get_by_year_data($mysqli, "start_date_lower_guess", $years, $byYear);
-  get_by_year_data($mysqli, "start_date_upper_guess", $years, $byYear);
-  get_by_year_data($mysqli, "end_date_lower_guess", $years, $byYear);
-  get_by_year_data($mysqli, "end_date_upper_guess", $years, $byYear);
 
   sort($years);
 ?>
@@ -40,10 +36,6 @@
     <th>Year</th>
     <th>Start date</th>
     <th>End date</th>
-    <th>Start date lower guess</th>
-    <th>Start date upper guess</th>
-    <th>End date lower guess</th>
-    <th>End date upper guess</th>
   </tr></thead>
   <tbody>
     <?php foreach ($years as $y) { ?>
@@ -51,10 +43,6 @@
         <td><?= $y ?? "Unknown" ?></td>
         <td style="text-align: right;"><?= $byYear['start_date'][$y] ?? 0 ?></td>
         <td style="text-align: right;"><?= $byYear['end_date'][$y] ?? 0 ?></td>
-        <td style="text-align: right;"><?= $byYear['start_date_lower_guess'][$y] ?? 0 ?></td>
-        <td style="text-align: right;"><?= $byYear['start_date_upper_guess'][$y] ?? 0 ?></td>
-        <td style="text-align: right;"><?= $byYear['end_date_lower_guess'][$y] ?? 0 ?></td>
-        <td style="text-align: right;"><?= $byYear['end_date_upper_guess'][$y] ?? 0 ?></td>
       </tr>
     <?php } ?>
   </tbody>
