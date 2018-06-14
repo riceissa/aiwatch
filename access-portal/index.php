@@ -25,12 +25,7 @@ if ($_REQUEST['person'] ?? '') {
 <?php include_once("analytics.inc"); ?>
 </head>
 <body>
-<nav>
-  <a href="/">Home</a>,
-  <a href="/about/">About</a>,
-  <a href="/compare.php">Compare</a>,
-  <a href="/upcoming-people/">Upcoming people</a>
-</nav>
+<?php include_once("navbar.inc"); ?>
 <?php
 include_once("backend/globalVariables/passwordFile.inc");
 include_once("backend/util.inc");
