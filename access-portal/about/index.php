@@ -18,7 +18,8 @@
 <body>
 <nav>
   <a href="/">Home</a>,
-  <a href="/about/">About</a>
+  <a href="/about/">About</a>,
+  <a href="/compare.php">Compare</a>
 </nav>
 
 <h1>About</h1>
