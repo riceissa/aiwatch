@@ -28,7 +28,9 @@
 <p>This page tracks people who are currently training to work on AI
   safety, but have not held positions at organizations or published
   work. The idea is to stay "one step ahead" by knowing which people
-  will likely enter the field.</p>
+  will likely enter the field. Since the data here is not intended to
+  be permanent, it is simply stored on this web page rather than being
+  entered into the database.</p>
 
 <table>
   <thead>
@@ -64,8 +66,136 @@
       <td><a href="https://www.greaterwrong.com/posts/EvKWNRkJgLosgRDSa/lightness-and-unease">Source</a></td>
       <td><a href="https://github.com/alexander-turner">GitHub account</a>
       </td>
+    </tr>
+    <tr>
+      <td>Sudhanshu Kasewa</td>
+      <td></td>
+      <td>Private correspondence</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Christopher Galias</td>
+      <td></td>
+      <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Johannes Heidecke</td>
+      <td></td>
+      <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Jan Kulveit</td>
+      <td></td>
+      <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nandi Schoots</td>
+      <td></td>
+      <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Karl Koch</td>
+      <td></td>
+      <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Markus Salmela</td>
+      <td></td>
+      <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Justin Shovelain</td>
+      <td></td>
+      <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Vojta Kovarik</td>
+      <td></td>
+      <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Igor Sieradzki</td>
+      <td></td>
+      <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Michael Świętek</td>
+      <td></td>
+      <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>James Bell</td>
+      <td></td>
+      <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Linda Linsefors</td>
+      <td></td>
+      <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Joar Skalse</td>
+      <td></td>
+      <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Jessica Cooper</td>
+      <td></td>
+      <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Karol Kubicki</td>
+      <td></td>
+      <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gavin Leech</td>
+      <td></td>
+      <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tom McGrath</td>
+      <td></td>
+      <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
+      </td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
+
+<p>TODO: add public AISFP participants</p>
 
 <script>
     $(function(){$("table").tablesorter();});
