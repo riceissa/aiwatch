@@ -27,7 +27,7 @@
 
 <p>This page tracks people who are currently training to work on AI
   safety, but have not held positions at organizations or published
-  work. The idea is to stay "one step ahead" by knowing which people
+  work. The idea is to stay “one step ahead” by knowing which people
   will likely enter the field. Since the data here is not intended to
   be permanent, it is simply stored on this web page rather than being
   entered into the database.</p>
