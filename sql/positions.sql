@@ -813,4 +813,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('James Miller','Machine Intelligence Research Institute','Research Advisor','2013-08-01','month','2014-08-01','month','https://web.archive.org/web/20130805141344/http://intelligence.org/team/',NULL,NULL,NULL,NULL,NULL)
     ,('Max Tegmark','Machine Intelligence Research Institute','General Advisor','2015-09-01','month','2017-03-01','month','https://web.archive.org/web/20150906235009/http://intelligence.org/team/',NULL,NULL,NULL,NULL,NULL)
     ,('Andrew Critch','Machine Intelligence Research Institute','General Advisor','2018-04-01','month',NULL,NULL,'https://web.archive.org/web/20180410054055/http://intelligence.org/team/',NULL,NULL,NULL,NULL,NULL)
+    ,('Gary Lea','Australian National University','PhD student',NULL,NULL,NULL,NULL,'https://arxiv.org/abs/1805.01109 http://regnet.anu.edu.au/our-people/phd-students/gary-lea',NULL,NULL,NULL,NULL,NULL)
 ;
