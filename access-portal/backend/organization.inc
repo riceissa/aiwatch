@@ -305,7 +305,7 @@ the old name).</p>
       $curr_subtractions = 0;
       $curr_staff_added = array();
       $curr_staff_subtracted = array();
-      while ($staff_changes[$pos][0] === $curr_date) {
+      while ($pos < count($staff_changes) && $staff_changes[$pos][0] === $curr_date) {
         $change = $staff_changes[$pos][1];
         $staff_count = $staff_count + $change;
         if ($change > 0) {
@@ -418,7 +418,7 @@ $creators = linkedCreators($mysqli,
       <tr>
         <td><a href="<?= $row['url'] ?>"><?= $row['name'] ?></a></td>
         <td><?= $row['creation_date'] ?></td>
-        <td><?= ($creators[$row['name']] ? "With " .
+        <td><?= (($creators[$row['name']] ?? '') ? "With " .
                  implode(", ", $creators[$row['name']]) . ". " : "") .
                     formatted_notes($row['description'], $seen) ?></td>
       </tr>
