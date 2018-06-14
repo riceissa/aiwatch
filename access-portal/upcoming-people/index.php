@@ -202,6 +202,8 @@
 
 <ul>
   <li>Open Philanthropy Project’s 2018 AI Fellows program had <a href="https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/announcing-2018-ai-fellows">over 180 applicants</a>.</li>
+  <li>There is an <a href="https://www.facebook.com/groups/126078381382350/">AISFP 2017</a> Facebook group (a closed group; <a href="http://archive.today/2018.06.14-215353/https://www.facebook.com/groups/126078381382350/members/">partial members list</a>).</li>
+  <li>There is a <a href="https://www.facebook.com/groups/680751902062471/">MIRI Summer Fellows</a> Facebook group (a closed group; <a href="http://archive.today/2018.06.14-215458/https://www.facebook.com/groups/680751902062471/members/">partial members list</a>).</li>
 </ul>
 
 
