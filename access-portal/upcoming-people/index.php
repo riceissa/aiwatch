@@ -75,112 +75,112 @@
     </tr>
     <tr>
       <td>Christopher Galias</td>
-      <td></td>
+      <td>Technical research?</td>
       <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>Johannes Heidecke</td>
-      <td></td>
+      <td>Technical research?</td>
       <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>Jan Kulveit</td>
-      <td></td>
+      <td>Technical research?</td>
       <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>Nandi Schoots</td>
-      <td></td>
+      <td>Technical research?</td>
       <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>Karl Koch</td>
-      <td></td>
+      <td>Technical research?</td>
       <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>Markus Salmela</td>
-      <td></td>
+      <td>Technical research?</td>
       <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>Justin Shovelain</td>
-      <td></td>
+      <td>Technical research?</td>
       <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>Vojta Kovarik</td>
-      <td></td>
+      <td>Technical research?</td>
       <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>Igor Sieradzki</td>
-      <td></td>
+      <td>Technical research?</td>
       <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>Michael Świętek</td>
-      <td></td>
+      <td>Technical research?</td>
       <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>James Bell</td>
-      <td></td>
+      <td>Technical research?</td>
       <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>Linda Linsefors</td>
-      <td></td>
+      <td>Technical research?</td>
       <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>Joar Skalse</td>
-      <td></td>
+      <td>Technical research?</td>
       <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>Jessica Cooper</td>
-      <td></td>
+      <td>Technical research?</td>
       <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>Karol Kubicki</td>
-      <td></td>
+      <td>Technical research?</td>
       <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>Gavin Leech</td>
-      <td></td>
+      <td>Technical research?</td>
       <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
       </td>
       <td></td>
