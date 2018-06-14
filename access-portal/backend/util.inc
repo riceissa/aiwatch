@@ -49,73 +49,9 @@ function link_organization($organization) {
     . $organization . '</a>';
 }
 
-function date_guess(string $lowerGuess, string $upperGuess,
-    string $startOrEnd) {
-  $explanation = "The $startOrEnd date guess is";
-  $start_lower_meaning = "the latest known date on which the person was doing"
-    . " something other than the current position, prior to the"
-    . " current position";
-  $start_upper_meaning = "the earliest known date on which the person"
-    . " held the position";
-  $end_lower_meaning = "the latest known date on which the the person"
-    . " held the position";
-  $end_upper_meaning = "the earliest known date on which the person was doing"
-    . " something other than the current position, after the current"
-    . " position";
-
-  if ($lowerGuess && $upperGuess) {
-    // We have a lower and upper guess, so take the average for the guess.
-    $guess = date('Y-m-d', (strtotime($upperGuess) + strtotime($lowerGuess)) / 2.0);
-    $explanation .= " $guess;";
-
-    if ($startOrEnd == "start") {
-      $explanation .= " this is computed as the average of the lower guess"
-        . " ($lowerGuess; $start_lower_meaning) and upper guess"
-        . " ($upperGuess; $start_upper_meaning) of the start of the position.";
-    } else {
-      $explanation .= " this is computed as the average of the lower guess"
-        . " ($lowerGuess; $end_lower_meaning) and upper guess"
-        . " ($upperGuess; $end_upper_meaning) of the end of the position.";
-    }
-  } else if ($lowerGuess) {
-    // We only have the lower guess, so use that.
-    $guess = $lowerGuess;
-    $explanation .= " $guess;";
-    if ($startOrEnd == "start") {
-      $explanation .= " this is the lower guess ($start_lower_meaning)"
-        ." of the start of the position.";
-    } else {
-      $explanation .= " this is the lower guess ($end_lower_meaning)"
-        ." of the end of the position.";
-    }
-  } else if ($upperGuess) {
-    // We only have the upper guess, so use that.
-    $guess = $upperGuess;
-    $explanation .= " $guess;";
-    if ($startOrEnd == "start") {
-      $explanation .= " this is the upper guess ($start_upper_meaning)"
-        ." of the start of the position.";
-    } else {
-      $explanation .= " this is the upper guess ($end_upper_meaning)"
-        ." of the end of the position.";
-    }
-  } else {
-    $guess = "";
-    $explanation = "";
-  }
-
-  return array($guess, $explanation);
-
-}
-
-function display_date(string $date, string $precision, string $guess) {
-  if ((!$date) && (!$precision) && (!$guess)) {
+function display_date(string $date, string $precision) {
+  if ((!$date) && (!$precision)) {
     return "";
-  }
-  if ((!$date) && (!$precision) && $guess) {
-    return '<span style="color: #888"'
-      .' title="Using guess; see notes column for explanation.">'
-      . $guess . '</span>';
   }
 
   switch ($precision) {
