@@ -185,13 +185,6 @@
       </td>
       <td></td>
     </tr>
-    <tr>
-      <td>Tom McGrath</td>
-      <td></td>
-      <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
-      </td>
-      <td></td>
-    </tr>
   </tbody>
 </table>
 
