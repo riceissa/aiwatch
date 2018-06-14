@@ -2,6 +2,8 @@
 $year = $_REQUEST['for'];
 $seen = array();
 
+// This is an associative array that maps organization names to a list of
+// positions.
 $positions = array();
 if ($stmt = $mysqli->prepare("select * from positions where year(start_date) = ? or year(end_date) = ?")) {
     $stmt->bind_param("ii", $year, $year);
@@ -15,6 +17,8 @@ while ($row = $result->fetch_assoc()) {
     $positions[$row['organization']][] = $row;
 }
 
+// This is an associative array that maps product creators to a list of
+// products.
 $products = array();
 if ($stmt = $mysqli->prepare("select product_creators.name as creator,products.* from product_creators left join products on products.name = product_creators.product where year(products.creation_date) = ? and product_creators.kind = 'organization'")) {
     $stmt->bind_param("i", $year);
@@ -67,7 +71,7 @@ foreach ($organizations as $organization) { ?>
         </tr>
     </thead>
     <tbody>
-        <?php foreach ($positions[$organization] as $row) {
+        <?php foreach (($positions[$organization] ?? array()) as $row) { ?>
             <tr>
                 <td><?= link_person($row['person']) ?></td>
                 <td><?= $row['title'] ?? '' ?></td>
@@ -99,7 +103,7 @@ foreach ($organizations as $organization) { ?>
         </tr>
     </thead>
     <tbody>
-    <?php foreach ($products[$organization] as $row) { ?>
+    <?php foreach (($products[$organization] ?? array()) as $row) { ?>
         <tr>
             <td><a href="<?= $row['url'] ?>"><?= $row['name'] ?></a></td>
             <td><?= $row['creation_date'] ?></td>
