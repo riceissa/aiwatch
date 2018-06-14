@@ -198,7 +198,12 @@
   </tbody>
 </table>
 
-<!-- <p>TODO: add public AISFP participants</p> -->
+<p>Other data points of interest:</p>
+
+<ul>
+  <li>Open Philanthropy Project’s 2018 AI Fellows program had <a href="https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/announcing-2018-ai-fellows">over 180 applicants</a>.</li>
+</ul>
+
 
 <script>
     $(function(){$("table").tablesorter();});
