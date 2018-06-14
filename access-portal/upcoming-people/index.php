@@ -76,20 +76,6 @@
       <td></td>
     </tr>
     <tr>
-      <td>Johannes Heidecke</td>
-      <td>Technical research?</td>
-      <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
-      </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Jan Kulveit</td>
-      <td>Technical research?</td>
-      <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
-      </td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Nandi Schoots</td>
       <td>Technical research?</td>
       <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
@@ -154,13 +140,6 @@
     </tr>
     <tr>
       <td>Joar Skalse</td>
-      <td>Technical research?</td>
-      <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
-      </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Jessica Cooper</td>
       <td>Technical research?</td>
       <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
       </td>
