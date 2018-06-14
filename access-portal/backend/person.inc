@@ -162,7 +162,7 @@ while ($row = $result->fetch_assoc()) {
       <tr>
         <td><a href="<?= $row['url'] ?>"><?= $row['name'] ?></a></td>
         <td><?= $row['creation_date'] ?></td>
-        <td><?= ($creators[$row['name']] ? "With " .
+        <td><?= (($creators[$row['name']] ?? '') ? "With " .
                  implode(", ", $creators[$row['name']]) . ". " : "")
                   . formatted_notes($row['description'], $seen) ?></td>
       </tr>
