@@ -93,4 +93,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Echo Sun','Animal Charity Evaluators','Research Intern','2018-03-01','month',NULL,NULL,'https://web.archive.org/web/20180619165220/https://animalcharityevaluators.org/about/contributors/meet-our-team/',NULL,'intern','Animal welfare')
     ,('Emilia Cameron','Animal Charity Evaluators','Research Intern','2018-06-01','month',NULL,NULL,'https://web.archive.org/web/20180619165220/https://animalcharityevaluators.org/about/contributors/meet-our-team/',NULL,'intern','Animal welfare')
     ,('Hibba Mazhary','Animal Charity Evaluators','Research Intern','2018-06-01','month',NULL,NULL,'https://web.archive.org/web/20180619165220/https://animalcharityevaluators.org/about/contributors/meet-our-team/',NULL,'intern','Animal welfare')
+    ,('Eitan Fischer','Animal Charity Evaluators','Founder',NULL,NULL,'2013-09-01','month','https://github.com/vipulnaik/working-drafts/blob/master/wikipedia/ace.mediawiki#History','Left in late 2013.','full-time','Animal welfare')
 ;
