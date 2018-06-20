@@ -25,7 +25,7 @@ def person_in_list(position: OrderedDict, lst: List[OrderedDict]):
     is in ``lst``, return that position from the list. Otherwise return
     ``None``. This assumes there is only one position for ``person`` in
     ``lst``; if there are multiple, the first one is returned."""
-    for p in filter(lambda x: x["person"] == person["person"], lst):
+    for p in filter(lambda x: x["person"] == position["person"], lst):
         return p
     return None
 
