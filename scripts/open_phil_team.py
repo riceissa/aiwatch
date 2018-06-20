@@ -86,7 +86,16 @@ def main():
     writer.writeheader()
 
     for url in URLS:
-        r = requests.get(url)
+        attempts = 0
+        while attempts < 5:
+            try:
+                print("On attempt", attempts, url, file=sys.stderr)
+                r = requests.get(url)
+                break
+            except Exception:
+                attempts += 1
+        if attempts >= 5:
+            raise ValueError("Downloading the page failed too many times.")
         soup = BeautifulSoup(r.content, "lxml")
 
         # Sometimes the Internet Archive moves forward or backward to a different
