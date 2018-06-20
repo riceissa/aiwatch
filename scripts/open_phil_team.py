@@ -110,7 +110,7 @@ def main():
             elif role == "SCIENTIFIC ADVISOR":
                 role = "Scientific Advisor"
 
-            if name != "\u00a0":
+            if name not in ["\u00a0", "GiveWell Staff"]:
                 writer.writerow({"person": name, "title": role, "date": snap_date,
                                  "url": r.url})
 
