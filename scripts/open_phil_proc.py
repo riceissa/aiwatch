@@ -32,8 +32,8 @@ def person_in_list(person: OrderedDict, lst: List[OrderedDict]):
     return None
 
 
-def print_position(person, title, start_date, end_date, urls):
-    print("(" + ",".join([
+def print_position(person, title, start_date, end_date, urls, first=True):
+    print(("    " if first else "    ,") + "(" + ",".join([
         mysql_quote(person),  # person
         mysql_quote("Open Philanthropy Project"),  # organization
         mysql_quote(title),  # title
@@ -49,6 +49,12 @@ def print_position(person, title, start_date, end_date, urls):
 
 
 def main():
+
+    print("insert into positions(person, organization, title, start_date, "
+          "start_date_precision, end_date, end_date_precision, urls, notes, "
+          "employment_type, cause_area) values")
+
+    first = True
 
     # This list tracks the positions that are "live", i.e. have not ended.
     live_positions = []
@@ -77,7 +83,9 @@ def main():
                                    position["title"],
                                    position["date"],
                                    snapshot_date,
-                                   position["url"] + " " + snapshot_url)
+                                   position["url"] + " " + snapshot_url,
+                                   first)
+                    first = False
             live_positions = new_live_positions
 
             for position in group:
@@ -93,7 +101,9 @@ def main():
                                        existing_position["title"],
                                        existing_position["date"],
                                        snapshot_date,
-                                       existing_position["url"] + " " + position["url"])
+                                       existing_position["url"] + " " + position["url"],
+                                       first)
+                        first = False
                         live_positions = [x for x in live_positions
                                           if x["person"] != position["person"]]
                         # live_positions.remove(existing_position)
@@ -104,7 +114,10 @@ def main():
         # live
         for position in live_positions:
             print_position(position["person"], position["title"],
-                           position["date"], "", position["url"])
+                           position["date"], "", position["url"], first)
+            first = False
+
+    print(";")
 
 
 if __name__ == "__main__":
