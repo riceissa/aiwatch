@@ -110,9 +110,14 @@ def main():
             elif role == "SCIENTIFIC ADVISOR":
                 role = "Scientific Advisor"
 
-            if name not in ["\u00a0", "GiveWell Staff"]:
-                writer.writerow({"person": name, "title": role, "date": snap_date,
-                                 "url": r.url})
+            if name == "Kaitlyn & Mike Krieger":
+                writer.writerow({"person": "Kaitlyn Krieger", "title": role,
+                                 "date": snap_date, "url": r.url})
+                writer.writerow({"person": "Mike Krieger", "title": role,
+                                 "date": snap_date, "url": r.url})
+            elif name not in ["\u00a0", "GiveWell Staff"]:
+                writer.writerow({"person": name, "title": role,
+                                 "date": snap_date, "url": r.url})
 
 if __name__ == "__main__":
     main()
