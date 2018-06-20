@@ -82,7 +82,7 @@ URLS = [
         ]
 
 def main():
-    writer = csv.DictWriter(sys.stdout, fieldnames=["person", "title", "date"])
+    writer = csv.DictWriter(sys.stdout, fieldnames=["person", "title", "date", "url"])
     writer.writeheader()
 
     for url in URLS:
@@ -111,7 +111,8 @@ def main():
                 role = "Scientific Advisor"
 
             if name != "\u00a0":
-                writer.writerow({"person": name, "title": role, "date": snap_date})
+                writer.writerow({"person": name, "title": role, "date": snap_date,
+                                 "url": r.url})
 
 if __name__ == "__main__":
     main()
