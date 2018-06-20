@@ -7,12 +7,6 @@ import requests
 import sys
 from bs4 import BeautifulSoup
 
-# After running this script I made some small manual changes to the resulting
-# CSV:
-#   - There were some mostly blank lines that I deleted.
-#   - One of the role names was in all-caps so I title-cased it.
-#   - For some of the positions, "Research" is misspelled as "Reseach" so I
-#     corrected these.
 
 URLS = [
         "https://web.archive.org/web/20160111014138/http://www.openphilanthropy.org:80/about/team",
