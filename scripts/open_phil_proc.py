@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-import pdb
-
 import csv
 import sys
 
@@ -22,17 +20,18 @@ def mysql_quote(x):
     return "'{}'".format(x)
 
 
-def person_in_list(person: OrderedDict, lst: List[OrderedDict]):
-    """Check if ``person`` is in ``lst``. If ``person`` is in ``lst``, return
-    that ``person``. Otherwise return None. This assumes there is only one
-    position for ``person`` in ``lst``; if there are multiple, the first one is
-    returned."""
+def person_in_list(position: OrderedDict, lst: List[OrderedDict]):
+    """Check if the person named in ``position`` is in ``lst``. If the person
+    is in ``lst``, return that position from the list. Otherwise return
+    ``None``. This assumes there is only one position for ``person`` in
+    ``lst``; if there are multiple, the first one is returned."""
     for p in filter(lambda x: x["person"] == person["person"], lst):
         return p
     return None
 
 
 def print_position(person, title, start_date, end_date, urls, first=True):
+    """Print a SQL insert tuple."""
     print(("    " if first else "    ,") + "(" + ",".join([
         mysql_quote(person),  # person
         mysql_quote("Open Philanthropy Project"),  # organization
@@ -49,14 +48,13 @@ def print_position(person, title, start_date, end_date, urls, first=True):
 
 
 def main():
-
     print("insert into positions(person, organization, title, start_date, "
           "start_date_precision, end_date, end_date_precision, urls, notes, "
           "employment_type, cause_area) values")
 
     first = True
 
-    # This list tracks the positions that are "live", i.e. have not ended.
+    # This list tracks the positions that are "live", i.e. have not ended
     live_positions = []
 
     with open("open-phil.csv", "r") as f:
@@ -65,6 +63,8 @@ def main():
         groups = []
         uniquekeys = []
 
+        # Group together positions taken from the same snapshot. The data in
+        # reader is already sorted.
         for k, g in groupby(reader, lambda x: x["date"]):
             groups.append(list(g))
             uniquekeys.append(k)
@@ -106,12 +106,11 @@ def main():
                         first = False
                         live_positions = [x for x in live_positions
                                           if x["person"] != position["person"]]
-                        # live_positions.remove(existing_position)
                         live_positions.append(position)
 
 
         # We are done going through the snapshots so all the positions left are
-        # live
+        # live (i.e. have no end_date)
         for position in live_positions:
             print_position(position["person"], position["title"],
                            position["date"], "", position["url"], first)
