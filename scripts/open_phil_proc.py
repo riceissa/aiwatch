@@ -32,7 +32,7 @@ def person_in_list(person: OrderedDict, lst: List[OrderedDict]):
     return None
 
 
-def print_position(person, title, start_date, end_date):
+def print_position(person, title, start_date, end_date, urls):
     print("(" + ",".join([
         mysql_quote(person),  # person
         mysql_quote("Open Philanthropy Project"),  # organization
@@ -41,7 +41,7 @@ def print_position(person, title, start_date, end_date):
         mysql_quote("month"),  # start_date_precision
         mysql_quote(end_date),  # end_date
         mysql_quote("month" if end_date else ""),  # end_date_precision
-        mysql_quote(""),  # urls
+        mysql_quote(urls),  # urls
         mysql_quote(""),  # notes
         mysql_quote("full-time"),  # employment_type
         mysql_quote(""),  # cause_area
@@ -65,6 +65,8 @@ def main():
 
         for snapshot_date, group in zip(uniquekeys, groups):
             new_live_positions = []
+            # We assume that every group is nonempty
+            snapshot_url = group[0]["url"]
             for position in live_positions:
                 if person_in_list(position, group):
                     new_live_positions.append(position)
@@ -74,7 +76,8 @@ def main():
                     print_position(position["person"],
                                    position["title"],
                                    position["date"],
-                                   snapshot_date)
+                                   snapshot_date,
+                                   position["url"] + " " + snapshot_url)
             live_positions = new_live_positions
 
             for position in group:
@@ -89,7 +92,8 @@ def main():
                         print_position(existing_position["person"],
                                        existing_position["title"],
                                        existing_position["date"],
-                                       snapshot_date)
+                                       snapshot_date,
+                                       existing_position["url"] + " " + position["url"])
                         live_positions = [x for x in live_positions
                                           if x["person"] != position["person"]]
                         # live_positions.remove(existing_position)
@@ -100,7 +104,7 @@ def main():
         # live
         for position in live_positions:
             print_position(position["person"], position["title"],
-                           position["date"], "")
+                           position["date"], "", position["url"])
 
 
 if __name__ == "__main__":
