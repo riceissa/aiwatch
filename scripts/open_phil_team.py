@@ -111,7 +111,13 @@ def main():
 
             name = tag.text
 
-            writer.writerow({"person": name, "title": role, "date": snap_date})
+            if role == "Reseach Analyst":
+                role = "Research Analyst"
+            elif role == "SCIENTIFIC ADVISOR":
+                role = "Scientific Advisor"
+
+            if name != "\u00a0":
+                writer.writerow({"person": name, "title": role, "date": snap_date})
 
 if __name__ == "__main__":
     main()
