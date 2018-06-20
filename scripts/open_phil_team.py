@@ -5,6 +5,7 @@ import pdb
 import csv
 import requests
 import sys
+import time
 from bs4 import BeautifulSoup
 
 
@@ -94,6 +95,7 @@ def main():
                 break
             except Exception:
                 attempts += 1
+                time.sleep(3)
         if attempts >= 5:
             raise ValueError("Downloading the page failed too many times.")
         soup = BeautifulSoup(r.content, "lxml")
