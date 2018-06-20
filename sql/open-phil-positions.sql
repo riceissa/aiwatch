@@ -21,4 +21,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Daniel Martin Alarcon','Open Philanthropy Project','Scientific Advisor','2016-06-01','month',NULL,NULL,'https://web.archive.org/web/20160709193438/http://www.openphilanthropy.org:80/about/team/daniel-martin-alarcon',NULL,'full-time',NULL)
     ,('Rocio Alba Navarro','Open Philanthropy Project','Research Analyst','2016-07-01','month',NULL,NULL,'https://web.archive.org/web/20160724055939/http://www.openphilanthropy.org:80/about/team',NULL,'full-time',NULL)
     ,('Claire Zabel','Open Philanthropy Project','Research Analyst','2016-07-01','month',NULL,NULL,'https://web.archive.org/web/20160724055939/http://www.openphilanthropy.org:80/about/team',NULL,'full-time',NULL)
+    ,('Ajeya Cotra','Open Philanthropy Project','Research Analyst','2016-07-01','month',NULL,NULL,'https://web.archive.org/web/20160829155911/http://www.openphilanthropy.org:80/about/team/ajeya-cotra',NULL,'full-time',NULL)
 ;
