@@ -1,3 +1,5 @@
+# July 2016 seems to be the last time the our-team.html page on the
+# Charity Science website was updated.
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
     ('Xio Kikauka','Charity Science','Head of events team and other roles',NULL,NULL,'2015-06-01','month','https://web.archive.org/web/20141119232427/http://www.charityscience.com:80/our-team.html https://web.archive.org/web/20150629014840/http://www.charityscience.com:80/our-team.html',NULL,'full-time','Global health and poverty')
     ,('Joey Savoie','Charity Science','Head of writing team and other roles',NULL,NULL,'2015-06-01','month','https://web.archive.org/web/20141119232427/http://www.charityscience.com:80/our-team.html https://web.archive.org/web/20150629014840/http://www.charityscience.com:80/our-team.html',NULL,'full-time','Global health and poverty')
@@ -32,4 +34,15 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Tee Barnett','Charity Science','Programs and Educational Officer','2015-10-01','month',NULL,NULL,'https://web.archive.org/web/20151103002159/http://www.charityscience.com:80/our-team.html',NULL,'full-time','Global health and poverty')
     ,('Michael Dello-Iacovo','Charity Science','Volunteer','2015-12-01','month',NULL,NULL,'https://web.archive.org/web/20151204113225/http://www.charityscience.com:80/our-team.html',NULL,'volunteer','Global health and poverty')
     ,('David Moss','Charity Science','Director of Operations','2016-01-01','month',NULL,NULL,'https://web.archive.org/web/20160106070529/http://www.charityscience.com:80/our-team.html',NULL,'full-time','Global health and poverty')
+    ,('Tom Ash','Charity Science','Board member','2016-02-01','month','2016-07-01','month','https://web.archive.org/web/20160210150034/http://www.charityscience.com:80/our-team.html https://web.archive.org/web/20160706225118/http://www.charityscience.com:80/our-team.html',NULL,'board member','Global health and poverty')
+    ,('Michael Marcondes de Freitas','Charity Science','Volunteer',NULL,NULL,'2016-02-01','month','https://web.archive.org/web/20160210150034/http://www.charityscience.com:80/our-team.html',NULL,'volunteer','Global health and poverty')
+    ,('Luis Esquivel','Charity Science','Volunteer','2016-02-01','month',NULL,NULL,'https://web.archive.org/web/20160210150034/http://www.charityscience.com:80/our-team.html',NULL,'volunteer','Global health and poverty')
+    ,('Catherine Low','Charity Science','Volunteer','2016-02-01','month',NULL,NULL,'https://web.archive.org/web/20160210150034/http://www.charityscience.com:80/our-team.html',NULL,'volunteer','Global health and poverty')
+    ,('Oliver Hornung','Charity Science','Volunteer','2016-02-01','month',NULL,NULL,'https://web.archive.org/web/20160210150034/http://www.charityscience.com:80/our-team.html',NULL,'volunteer','Global health and poverty')
+    ,('Sebastian Conolly','Charity Science','Volunteer','2016-03-01','month',NULL,NULL,'https://web.archive.org/web/20160326121323/http://www.charityscience.com:80/our-team.html',NULL,'volunteer','Global health and poverty')
+    ,('Katherine Kikauka','Charity Science','Board member',NULL,NULL,'2016-07-01','month','https://web.archive.org/web/20160706225118/http://www.charityscience.com:80/our-team.html',NULL,'board member','Global health and poverty')
+    ,('Kieran Greig','Charity Science','Board member',NULL,NULL,'2016-07-01','month','https://web.archive.org/web/20160706225118/http://www.charityscience.com:80/our-team.html',NULL,'board member','Global health and poverty')
+    ,('Lucas Zamprogno','Charity Science','Board member',NULL,NULL,'2016-07-01','month','https://web.archive.org/web/20160706225118/http://www.charityscience.com:80/our-team.html',NULL,'board member','Global health and poverty')
+    ,('Marcus A. Davis','Charity Science','Board member',NULL,NULL,'2016-07-01','month','https://web.archive.org/web/20160706225118/http://www.charityscience.com:80/our-team.html',NULL,'board member','Global health and poverty')
+    ,('Andrew McKnight','Charity Science','Board member',NULL,NULL,'2016-07-01','month','https://web.archive.org/web/20160706225118/http://www.charityscience.com:80/our-team.html',NULL,'board member','Global health and poverty')
 ;
