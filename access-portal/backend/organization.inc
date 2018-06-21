@@ -357,8 +357,8 @@ the old name).</p>
       <th>Title</th>
       <th>Start date</th>
       <th>End date</th>
-      <?= $aiwatch ? "<th>AI safety relation</th>" : "" ?>
-      <?= $aiwatch ? "<th>Subject</th>" : "" ?>
+      <?= $subdomain === "aiwatch" ? "<th>AI safety relation</th>" : "" ?>
+      <?= $subdomain === "aiwatch" ? "<th>Subject</th>" : "" ?>
       <th>Employment type</th>
       <th>Source</th>
       <th>Notes</th>
@@ -381,7 +381,7 @@ while ($row = $result->fetch_assoc()) {
       $row['start_date_precision'] ?? '') ?></td>
     <td><?= display_date($row['end_date'] ?? '',
       $row['end_date_precision'] ?? '') ?></td>
-    <?php if ($aiwatch) { ?>
+    <?php if ($subdomain === "aiwatch") { ?>
       <td title="<?= explain_ai_safety_relation($row['ai_safety_relation']) ?>"><?= $row['ai_safety_relation'] ?? '' ?></td>
       <td title="<?= explain_subject($row['subject']) ?>"><?= $row['subject'] ?? '' ?></td>
     <?php } ?>
