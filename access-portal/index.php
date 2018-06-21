@@ -9,19 +9,16 @@ if ($_REQUEST['person'] ?? '') {
   $title = htmlspecialchars($_REQUEST['organization']);
 }
 
-$aiwatch = true;
-if (($_REQUEST['display'] ?? '') === 'all') {
-  $aiwatch = false;
-}
+$site_name = $subdomain === "aiwatch" ? "AI Watch" : "Org Watch";
 ?>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
   <meta name="dcterms.date" content="<?= $head_date ?>">
-  <meta property="og:title" content="<?= $title ? $title : "AI Watch" ?>" />
-  <meta property="og:site_name" content="AI Watch" />
+  <meta property="og:title" content="<?= $title ? $title : $site_name ?>" />
+  <meta property="og:site_name" content="<?= $site_name ?>" />
   <meta property="og:locale" content="en_US" />
-  <title><?= $title ? $title . " - AI Watch" : "AI Watch" ?></title>
+  <title><?= $title ? $title . " - " . $site_name : $site_name ?></title>
   <link rel="stylesheet" href="/tablesorter.css">
   <script src="/jquery.min.js"></script>
   <script src="/jquery.tablesorter.js"></script>
@@ -41,9 +38,17 @@ if ($_REQUEST['person'] ?? '') {
 } else {
   $isFiltered = ($_REQUEST['subject'] ?? '') || ($_REQUEST['relation'] ?? '');
 ?>
-<h1>AI Watch</h1>
+<h1><?= $site_name ?></h1>
 
-<p>Welcome! This is a website to track people and organizations working on AI safety. See the <a href="https://github.com/riceissa/aiwatch">code repository</a> for the source code and data of this website.</p>
+<p>
+<?php if ($subdomain === "aiwatch") { ?>
+  Welcome! This is a website to track people and organizations working on AI safety.
+<?php } else { ?>
+  Welcome! This is a website to track people and organizations.
+<?php } ?>
+  See the <a href="https://github.com/riceissa/aiwatch">code repository</a>
+  for the source code and data of this website.
+</p>
 
 <p>This website is developed by <a href="https://issarice.com">Issa Rice</a>
   and is partially
