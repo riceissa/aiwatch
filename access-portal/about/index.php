@@ -1,5 +1,6 @@
 <?php
 include_once("../backend/globalVariables/passwordFile.inc");
+$site_name = $subdomain === "aiwatch" ? "AI Watch" : "Org Watch";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -8,9 +9,9 @@ include_once("../backend/globalVariables/passwordFile.inc");
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
   <meta name="dcterms.date" content="2017-12-05">
   <meta property="og:title" content="About" />
-  <meta property="og:site_name" content="AI Watch" />
+  <meta property="og:site_name" content="<?= $site_name ?>" />
   <meta property="og:locale" content="en_US" />
-  <title>About - AI Watch</title>
+  <title>About - <?= $site_name ?></title>
   <link rel="stylesheet" href="/tablesorter.css">
   <script src="/jquery.min.js"></script>
   <script src="/jquery.tablesorter.js"></script>
@@ -23,10 +24,17 @@ include_once("../backend/globalVariables/passwordFile.inc");
 
 <h1>About</h1>
 
-<p>AI Watch is a website to track people, organizations, products (tools,
-  websites, etc.), and (in the future) other aspects of AI safety.</p>
+<p>
+  <?php if ($subdomain === "aiwatch") { ?>
+    AI Watch is a website to track people, organizations, products (tools,
+      websites, etc.), and (in the future) other aspects of AI safety.
+  <?php } else { ?>
+    Org Watch is a website to track people and organizations.
+  <?php } ?>
+</p>
 
 <h2>Inclusion criteria</h2>
+<?php if ($subdomain === "aiwatch") { ?>
 
 <p>The site is new and is still under active development, so at the moment there are
   no firm criteria for inclusion on this site. With that said, below I describe
@@ -74,6 +82,10 @@ claiming relevance to safety work.</p>
 to remember. As long as the product is somewhat usable, useful, and polished, I
 have been adding all the ones I could think of.</p>
 
+<?php } else { ?>
+  <p>At the moment, inclusion criteria for Org Watch are completely arbitrary.</p>
+<?php } ?>
+
 <h2>How the site was built</h2>
 
 <p>The site is built using PHP for the interface and logic and MySQL
@@ -89,6 +101,7 @@ have been adding all the ones I could think of.</p>
 
 <p>Finding people/positions to add to the site was an informal process.</p>
 
+<?php if ($subdomain === "aiwatch") { ?>
 <h2>What the site is still missing</h2>
 
 <p>The main AI safety organizations are covered, so the missing people
@@ -116,15 +129,27 @@ have been adding all the ones I could think of.</p>
   <li>LessWrong</li>
 </ul>
 
+<?php } ?>
+
 <h2>History</h2>
 
-<p>Development for the site began on October 23, 2017.</p>
+<p>Development for <a href="https://aiwatch.issarice.com/">AI Watch</a>
+  began on October 23, 2017.</p>
+
+<p>Expansion to positions outside of AI safety
+  (<a href="https://orgwatch.issarice.com/">Org Watch</a>) began on
+  <a href="https://github.com/riceissa/aiwatch/commit/ec99501ddc99897a2c23fdabb90210422caf3918">June 17, 2018</a>.
+  The Org Watch subdomain became active on June 21, 2018.</p>
 
 <h2>Feedback</h2>
 
 <p>If you have feedback for the site, email Issa at riceissa@gmail.com. You can also <a href="https://github.com/riceissa/aiwatch/issues">add an issue</a> on the GitHub repository.
   All feedback including praise, criticism, concerns, thoughts on the usability of the site, feature requests, and people or positions that should be added, are appreciated.</p>
 
+<?php
+// This part is confusing and subject to change so I'm commenting it out for now.
+if (false) {
+?>
 <h2>Positions</h2>
 
 <p>
@@ -235,6 +260,8 @@ have been adding all the ones I could think of.</p>
 </tr>
   </tbody>
 </table>
+
+<?php } ?>
 
 <script>
     $(function(){$("table").tablesorter();});
