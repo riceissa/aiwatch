@@ -153,7 +153,11 @@ the year can be lower.</p>
 
 <?php
   for ($year = 2000; $year < date("Y")+1; $year++) {
-    if ($stmt = $mysqli->prepare("select person,title,case when title REGEXP 'board' then 'board member' when title REGEXP 'associate' then 'associate' when title REGEXP 'advisor' then 'advisor' when title REGEXP 'research' then 'researcher' else 'general staff' end as title_type,start_date,end_date from positions where organization = ? and start_date < ? and (end_date > ? or end_date is null)")) {
+    $query = "select person,title,case when title REGEXP 'board' then 'board member' when title REGEXP 'associate' then 'associate' when title REGEXP 'advisor' then 'advisor' when title REGEXP 'research' then 'researcher' else 'general staff' end as title_type,start_date,end_date from positions where organization = ? and start_date < ? and (end_date > ? or end_date is null)";
+    if ($subdomain === "aiwatch") {
+      $query .= " and cause_area = 'AI safety'";
+    }
+    if ($stmt = $mysqli->prepare($query)) {
       $start_date = strval($year+1)."-01-01";
       $end_date = strval($year)."-01-01";
       $stmt->bind_param("sss", $organization, $start_date, $end_date);
@@ -231,7 +235,11 @@ advisors, and board members.</p>
 
 <?php
   for ($year = 2000; $year < date("Y")+1; $year++) {
-    if ($stmt = $mysqli->prepare("select title,person,start_date,end_date from positions where organization = ? and start_date <= ? and (end_date is null or end_date > ?) and title not REGEXP 'associate' and title not REGEXP 'intern' and title not REGEXP 'advisor' and title not REGEXP 'board'")) {
+    $query = "select title,person,start_date,end_date from positions where organization = ? and start_date <= ? and (end_date is null or end_date > ?) and title not REGEXP 'associate' and title not REGEXP 'intern' and title not REGEXP 'advisor' and title not REGEXP 'board'";
+    if ($subdomain === "aiwatch") {
+      $query .= " and cause_area = 'AI safety'";
+    }
+    if ($stmt = $mysqli->prepare($query)) {
       $date = strval($year)."-01-01";
       $stmt->bind_param("sss", $organization, $date, $date);
       $stmt->execute();
@@ -279,7 +287,12 @@ the old name).</p>
 
 <?php
     $staff_changes = array();
-    if ($stmt = $mysqli->prepare("select start_date,person,title from positions where organization = ? and start_date is not null order by start_date")) {
+    $query = "select start_date,person,title from positions where organization = ? and start_date is not null";
+    if ($subdomain === "aiwatch") {
+      $query .= " and cause_area = 'AI safety'";
+    }
+    $query .= " order by start_date";
+    if ($stmt = $mysqli->prepare($query)) {
       $stmt->bind_param("s", $organization);
       $stmt->execute();
       $result = $stmt->get_result();
@@ -287,7 +300,12 @@ the old name).</p>
     while ($row = $result->fetch_assoc()) {
       $staff_changes[] = array($row['start_date'], 1, $row['person'], $row['title']);
     }
-    if ($stmt = $mysqli->prepare("select end_date,person,title from positions where organization = ? and end_date is not null order by end_date")) {
+    $query = "select end_date,person,title from positions where organization = ? and end_date is not null";
+    if ($subdomain === "aiwatch") {
+      $query .= " and cause_area = 'AI safety'";
+    }
+    $query .= " order by end_date";
+    if ($stmt = $mysqli->prepare($query)) {
       $stmt->bind_param("s", $organization);
       $stmt->execute();
       $result = $stmt->get_result();
@@ -366,7 +384,11 @@ the old name).</p>
   </thead>
   <tbody>
 <?php
-if ($stmt = $mysqli->prepare("select * from positions where organization = ?")) {
+$query = "select * from positions where organization = ?";
+if ($subdomain === "aiwatch") {
+  $query .= " and cause_area = 'AI safety'";
+}
+if ($stmt = $mysqli->prepare($query)) {
   $stmt->bind_param("s", $organization);
   $stmt->execute();
   $result = $stmt->get_result();
