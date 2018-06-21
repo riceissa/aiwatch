@@ -13,6 +13,9 @@
     $param_str .= "s";
     $params[] = $_REQUEST['relation'];
   }
+  if ($subdomain === "aiwatch") {
+    $query .= " and cause_area = 'AI safety'";
+  }
   $query .= " group by organization order by numPeeps desc";
   if ($stmt = $mysqli->prepare($query)) {
     if ($params) {

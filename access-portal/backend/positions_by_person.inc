@@ -33,6 +33,9 @@
       array_push($params, substr($end_date, 1));
     }
   }
+  if ($subdomain === "aiwatch") {
+    $query .= " and cause_area = 'AI safety'";
+  }
   $query .= " group by person order by count(distinct organization) desc";
   if ($stmt = $mysqli->prepare($query)) {
     if ($params) {
