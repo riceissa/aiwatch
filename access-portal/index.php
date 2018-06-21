@@ -62,7 +62,9 @@ if ($_REQUEST['person'] ?? '') {
 
 <ul>
   <?php if (!$isFiltered) { ?>
-    <li><a href="#ai-safety-relation-by-subject">AI safety relation by subject</a></li>
+    <?php if ($subdomain === "aiwatch") { ?>
+      <li><a href="#ai-safety-relation-by-subject">AI safety relation by subject</a></li>
+    <?php } ?>
     <li><a href="#positions-summary-by-year">Positions summary by year</a></li>
   <?php } ?>
   <li><a href="#positions-grouped-by-person">Positions grouped by person</a></li>
@@ -75,7 +77,9 @@ if ($_REQUEST['person'] ?? '') {
 </ul>
 
 <?php if (!$isFiltered) {
-  include("backend/relation_by_subject.inc");
+  if ($subdomain === "aiwatch") {
+    include("backend/relation_by_subject.inc");
+  }
   include("backend/positions_summary_by_year.inc");
 } ?>
 
