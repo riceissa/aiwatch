@@ -48,6 +48,8 @@ make fetch_anchorjs
 make fetch_tablesorter
 ```
 
+You can now visit `http://localhost:8000/` in your browser.
+
 ## Contributing
 
 All contributions are welcome.  Contributions might take the form of:
