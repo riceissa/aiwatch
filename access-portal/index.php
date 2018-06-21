@@ -8,6 +8,11 @@ if ($_REQUEST['person'] ?? '') {
 } else if ($_REQUEST['organization'] ?? '') {
   $title = htmlspecialchars($_REQUEST['organization']);
 }
+
+$aiwatch = true;
+if (($_REQUEST['display'] ?? '') === 'all') {
+  $aiwatch = false;
+}
 ?>
 <head>
   <meta charset="utf-8">

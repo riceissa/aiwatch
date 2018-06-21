@@ -357,8 +357,8 @@ the old name).</p>
       <th>Title</th>
       <th>Start date</th>
       <th>End date</th>
-      <th>AI safety relation</th>
-      <th>Subject</th>
+      <?= $aiwatch ? "<th>AI safety relation</th>" : "" ?>
+      <?= $aiwatch ? "<th>Subject</th>" : "" ?>
       <th>Employment type</th>
       <th>Source</th>
       <th>Notes</th>
@@ -381,8 +381,10 @@ while ($row = $result->fetch_assoc()) {
       $row['start_date_precision'] ?? '') ?></td>
     <td><?= display_date($row['end_date'] ?? '',
       $row['end_date_precision'] ?? '') ?></td>
-    <td title="<?= explain_ai_safety_relation($row['ai_safety_relation']) ?>"><?= $row['ai_safety_relation'] ?? '' ?></td>
-    <td title="<?= explain_subject($row['subject']) ?>"><?= $row['subject'] ?? '' ?></td>
+    <?php if ($aiwatch) { ?>
+      <td title="<?= explain_ai_safety_relation($row['ai_safety_relation']) ?>"><?= $row['ai_safety_relation'] ?? '' ?></td>
+      <td title="<?= explain_subject($row['subject']) ?>"><?= $row['subject'] ?? '' ?></td>
+    <?php } ?>
     <td><?= $row['employment_type'] ?? '' ?></td>
     <td><?= url_format($row['urls'], $seen) ?? '' ?></td>
     <td><?= $row['notes'] ?? '' ?></td>
