@@ -1,3 +1,10 @@
+<?php
+include_once("../backend/globalVariables/passwordFile.inc");
+if ($subdomain != "aiwatch") {
+  http_response_code(404);
+  die();
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

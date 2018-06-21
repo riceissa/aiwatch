@@ -1,3 +1,6 @@
+<?php
+include_once("../backend/globalVariables/passwordFile.inc");
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

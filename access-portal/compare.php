@@ -1,3 +1,6 @@
+<?php
+include_once("backend/globalVariables/passwordFile.inc");
+?>
 <!DOCTYPE html>
 <html lang="en">
 <?php
@@ -26,7 +29,6 @@ if (($_REQUEST['by'] ?? '') && ($_REQUEST['for'] ?? '')) {
 <body>
 <?php include_once("navbar.inc"); ?>
 <?php
-include_once("backend/globalVariables/passwordFile.inc");
 include_once("backend/util.inc");
 if (($_REQUEST['by'] ?? '') == 'organization') {
     include("backend/compare_by_organization.inc");
