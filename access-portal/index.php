@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
+include_once("backend/globalVariables/passwordFile.inc");
 $head_date = trim(file_get_contents("head_date.txt"));
 $title = "";
 if ($_REQUEST['person'] ?? '') {
@@ -29,7 +30,6 @@ $site_name = $subdomain === "aiwatch" ? "AI Watch" : "Org Watch";
 <body>
 <?php include_once("navbar.inc"); ?>
 <?php
-include_once("backend/globalVariables/passwordFile.inc");
 include_once("backend/util.inc");
 if ($_REQUEST['person'] ?? '') {
   include("backend/person.inc");
