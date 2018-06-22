@@ -40,7 +40,7 @@ def bio_info(tag):
             position = position[:-1]
     else:
         position = ""
-    bio = tag.parent.text
+    bio = tag.parent.text  # This should be a 'p' tag
     m = re.search(r"GiveWell in ((?:January|February|March|April|May|June|July|August|September|October|November|December) 20\d\d)", bio)
     if m:
         join_date = m.group(1)
