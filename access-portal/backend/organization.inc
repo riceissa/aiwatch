@@ -409,7 +409,7 @@ while ($row = $result->fetch_assoc()) {
     <?php } ?>
     <td><?= $row['employment_type'] ?? '' ?></td>
     <td><?= url_format($row['urls'], $seen) ?? '' ?></td>
-    <td><?= $row['notes'] ?? '' ?></td>
+    <td><?= ($row['notes'] ?? '') ? formatted_notes($row['notes'], $seen) : "" ?></td>
   </tr>
 <?php } ?>
   </tbody>
