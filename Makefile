@@ -16,6 +16,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/ace-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/open-phil-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/charity-science-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/charity-science-health-positions.sql
 
 access-portal/head_date.txt:
 	git log -1 --format="%ad" --date=format:"%Y-%m-%d" > "$@"
