@@ -43,4 +43,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Anni Leskelä','Foundational Research Institute','Researcher','2018-06-01','month',NULL,NULL,'https://web.archive.org/web/20180617170539/https://foundational-research.org/team/',NULL,'full-time',NULL)
     ,('Johannes Treutlein','Foundational Research Institute','Associate Researcher','2018-06-01','month',NULL,NULL,'https://web.archive.org/web/20180617170539/https://foundational-research.org/team/',NULL,'associate',NULL)
     ,('David Althaus','Foundational Research Institute','Assistant Director','2018-04-01','month',NULL,NULL,'https://web.archive.org/web/20180423025805/https://foundational-research.org/team/',NULL,'full-time',NULL)
+    ,('Lukas Gloor','Foundational Research Institute','Executive Director','2018-06-01','month',NULL,NULL,'https://web.archive.org/web/20180617170539/https://foundational-research.org/team/',NULL,'full-time',NULL)
 ;
