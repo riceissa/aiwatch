@@ -202,6 +202,18 @@ if ($subdomain != "aiwatch") {
       <td><a href="https://agentfoundations.org/item?id=543">Source</a></td>
       <td>Apparently attended MIRI Summer Fellows program.</td>
     </tr>
+    <tr>
+      <td>Vladimir Mikulik</td>
+      <td>Technical research?</td>
+      <td><a href="https://www.facebook.com/groups/1919382931631508/">Source</a></td>
+      <td>Admin of a “technical AI safety discussion group” in Oxford.</td>
+    </tr>
+    <tr>
+      <td>Joar Skalse</td>
+      <td>Technical research?</td>
+      <td><a href="https://www.facebook.com/groups/1919382931631508/">Source</a></td>
+      <td>Admin of a “technical AI safety discussion group” in Oxford.</td>
+    </tr>
   </tbody>
 </table>
 
