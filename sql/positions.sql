@@ -505,7 +505,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Will Sawin','Princeton University','Undergraduate student',NULL,NULL,NULL,NULL,'https://intelligence.org/workshops/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Bas R. Steunebrink','NNAISENSE','Co-Founder',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171104132257/http://wrai.org/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Max Daniel','Effective Altruism Foundation','Researcher',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171104132257/http://wrai.org/',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Pedro A. Ortega','Google DeepMind',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1711.09883.pdf http://www.decision-ai.org/2017/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Tom Everitt','Google DeepMind',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1711.09883.pdf',NULL,NULL,NULL,NULL,'AI safety')
     ,('Tom Everitt','Australian National University',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1711.09883.pdf https://arxiv.org/pdf/1708.03871.pdf https://arxiv.org/pdf/1705.08417.pdf https://arxiv.org/pdf/1606.00652.pdf',NULL,NULL,NULL,NULL,'AI safety')
     ,('Andrew Lefrancq','Google DeepMind',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1711.09883.pdf',NULL,NULL,NULL,NULL,'AI safety')
@@ -755,4 +754,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Kristina Nemcova','AI Safety Camp','Logistics','2018-01-01','year',NULL,NULL,'http://archive.today/2018.06.14-212014/https://aisafetycamp.com/about-us/',NULL,'position',NULL,NULL,'AI safety')
     ,('Jessica Cooper','AI Safety Camp','Advisor communication','2018-01-01','year',NULL,NULL,'http://archive.today/2018.06.14-212014/https://aisafetycamp.com/about-us/',NULL,'position',NULL,NULL,'AI safety')
     ,('Remmelt Ellen','AI Safety Camp','Advisor','2018-01-01','year',NULL,NULL,'http://archive.today/2018.06.14-212014/https://aisafetycamp.com/about-us/',NULL,'position',NULL,NULL,'AI safety')
+    ,('Pedro A. Ortega','Google DeepMind','Research Scientist','2016-01-01','year',NULL,NULL,'https://arxiv.org/pdf/1711.09883.pdf http://www.decision-ai.org/2017/ http://archive.today/2018.06.25-052215/http://www.adaptiveagents.org/ http://www.businessinsider.com/deepmind-has-hired-a-group-of-ai-safety-experts-2016-11 http://acritch.com/media/ai-alignment-eecs-faculty-retreat.pdf',NULL,'position','technical research','full-time','AI safety')
+    ,('Roger Grosse','University of Toronto','Assistant Professor of Computer Science',NULL,NULL,NULL,NULL,'http://acritch.com/media/ai-alignment-eecs-faculty-retreat.pdf https://web.archive.org/web/20180625052818/http://www.cs.toronto.edu/~rgrosse/','Grosse’s name is grayed out in Andrew Critch’s slides but the slides don’t explain the meaning of this.','position','technical research','full-time','AI safety')
 ;
