@@ -836,4 +836,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Harrison Willey','Machine Intelligence Research Institute','Executive Assistant','2010-01-01','year','2010-12-31','year','https://www.linkedin.com/in/harrison-willey-a806158b/',NULL,'position',NULL,NULL,'AI safety')
     ,('Lila Rieber','Machine Intelligence Research Institute','Research Assistant','2014-03-01','month','2014-04-01','month','https://www.linkedin.com/in/lila-rieber/',NULL,'position',NULL,NULL,'AI safety')
     ,('Patrick Robotham','Machine Intelligence Research Institute','Mathematics Tutor','2012-10-01','month','2012-10-31','month','https://www.linkedin.com/in/patrick-robotham-5499699/',NULL,'position',NULL,'volunteer','AI safety')
+    ,('Oliver Habryka','Machine Intelligence Research Institute','Summer Internship','2013-06-01','month','2013-08-01','month','https://www.linkedin.com/in/oliver-habryka-8a585297/',NULL,'position',NULL,'intern','AI safety')
+    ,('Oliver Habryka','Center for Applied Rationality','Summer Internship','2013-06-01','month','2013-08-01','month','https://www.linkedin.com/in/oliver-habryka-8a585297/',NULL,'position',NULL,'intern','AI safety')
+    ,('Nathan Clark','Machine Intelligence Research Institute','Intern','2013-08-01','month','2013-08-31','month','https://www.linkedin.com/in/nathan-clark-4b850134/',NULL,'position',NULL,'intern','AI safety')
+    ,('Andrew Rettek','Machine Intelligence Research Institute','Volunteer Coordinator','2009-04-01','month','2012-08-01','month','https://www.linkedin.com/in/andrewrettek/',NULL,'position',NULL,'volunteer','AI safety')
+    ,('Richard Neal','Machine Intelligence Research Institute','Volunteer','2013-11-01','month',NULL,NULL,'https://www.linkedin.com/in/rrneal/',NULL,'position',NULL,'volunteer','AI safety')
+    ,('Daniel Roth','Machine Intelligence Research Institute','Singularity Summit Organized','2012-10-01','month','2012-10-31','month','https://www.linkedin.com/in/danielroth7/',NULL,'position',NULL,'volunteer','AI safety')
 ;
