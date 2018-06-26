@@ -77,7 +77,7 @@ function display_date(string $date, string $precision) {
 
 function dlw_links_list($mysqli, $entity) {
   $dlw = array();
-  if ($stmt = $mysqli->prepare("select * from donations.donations where substring_index(cause_area,'/',1) = 'AI risk' and donor = ? limit 1")) {
+  if ($stmt = $mysqli->prepare("select * from donations.donations where substring_index(cause_area,'/',1) = 'AI safety' and donor = ? limit 1")) {
     $stmt->bind_param("s", $entity);
     $stmt->execute();
     $result = $stmt->get_result();
@@ -90,7 +90,7 @@ function dlw_links_list($mysqli, $entity) {
     );
   }
 
-  if ($stmt = $mysqli->prepare("select * from donations.donations where substring_index(cause_area,'/',1) = 'AI risk' and donee = ? limit 1")) {
+  if ($stmt = $mysqli->prepare("select * from donations.donations where substring_index(cause_area,'/',1) = 'AI safety' and donee = ? limit 1")) {
     $stmt->bind_param("s", $entity);
     $stmt->execute();
     $result = $stmt->get_result();
