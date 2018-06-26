@@ -173,12 +173,6 @@ if ($subdomain != "aiwatch") {
       <td>Attended AISFP.</td>
     </tr>
     <tr>
-      <td>Jarryd Martin</td>
-      <td></td>
-      <td><a href="https://www.facebook.com/xavier.orourke92/posts/10156282761874312?comment_id=10156283923089312&reply_comment_id=10156284497579312&comment_tracking=%7B%22tn%22%3A%22R4%22%7D">Source</a></td>
-      <td>Apparently attended AISFP.</td>
-    </tr>
-    <tr>
       <td>Eric Bruylant</td>
       <td></td>
       <td><a href="http://www.rationality.org/studies/2016-case-studies#arbital">Source</a></td>
