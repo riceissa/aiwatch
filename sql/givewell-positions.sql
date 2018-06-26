@@ -88,4 +88,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Claire Wang','GiveWell','Content Editor','2017-06-01','month',NULL,NULL,'https://www.linkedin.com/in/claire-mingyuan-wang/',NULL,'full-time','Global health and poverty')
     ,('Robin Dey','GiveWell','Summer Research Analyst','2016-05-01','month','2016-08-01','month','https://www.linkedin.com/in/robin-dey-ba2b2470/',NULL,'intern','Global health and poverty')
     ,('Robin Dey','GiveWell','Conversation Notes Writer','2017-05-01','month',NULL,NULL,'https://www.linkedin.com/in/robin-dey-ba2b2470/',NULL,NULL,'Global health and poverty')
+    ,('Lila Rieber','GiveWell','Conversation Notes Writer','2014-03-01','month','2014-07-01','month','https://www.linkedin.com/in/lila-rieber/',NULL,NULL,'Global health and poverty')
 ;
