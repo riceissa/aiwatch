@@ -467,4 +467,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Dylan Groves','Innovations for Poverty Action','Namibia: Research Manager',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Justo Mirabal','Innovations for Poverty Action','Dominican Republic: Research Associate',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Carlos Restituyo Vassallo','Innovations for Poverty Action','Dominican Republic: Research Associate',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
+    ,('Luisa Rodriguez','Innovations for Poverty Action','Graduate Intern','2017-08-01','month','2018-02-01','month','https://www.linkedin.com/in/luisa-rodriguez-837835bb/',NULL,'intern','Global health and poverty')
+    ,('Zachary Tausanovitch','Innovations for Poverty Action','Temporary Research Associate','2016-06-01','month','2016-10-01','month','https://www.linkedin.com/in/zachary-tausanovitch/',NULL,NULL,'Global health and poverty')
 ;
