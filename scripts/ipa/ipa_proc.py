@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 from bs4 import BeautifulSoup
-import pdb
 
 
 def mysql_quote(x):
@@ -21,6 +20,7 @@ def main():
           "start_date_precision, end_date, end_date_precision, urls, notes, "
           "employment_type, cause_area) values")
     first = True
+    seen = set()
     with open("scripts/ipa/staff-directory-2018-06-27.html", "r") as f:
         soup = BeautifulSoup(f, "lxml")
 
@@ -39,6 +39,9 @@ def main():
                 titles.append(div.text.strip().replace("\u200b", ""))
 
             for name, title in zip(names, titles):
+                if (name, title) in seen:
+                    continue
+                seen.add((name, title))
                 print(("    " if first else "    ,") + "(" + ",".join([
                     mysql_quote(name),  # person
                     mysql_quote("Innovations for Poverty Action"),  # organization
