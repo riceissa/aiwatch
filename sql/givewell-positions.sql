@@ -108,4 +108,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Nick Wilson','GiveWell','Writer','2014-01-01','month','2015-01-01','month','https://www.linkedin.com/in/nick-wilson-9a30b116/',NULL,NULL,'Global health and poverty')
     ,('Jens Malmquist','GiveWell','Summer Research Analyst','2015-05-01','month','2015-08-01','month','https://www.linkedin.com/in/jens-malmquist-7078b2b4/',NULL,'intern','Global health and poverty')
     ,('Martin Lucas','GiveWell','Independent Contractor','2014-02-01','month','2014-05-01','month','https://www.linkedin.com/in/martin-lucas-4321a58a/',NULL,'contractor','Global health and poverty')
+    ,('Jacy Reese','GiveWell','Summer Research Analyst','2014-05-01','month','2014-08-01','month','https://www.linkedin.com/in/jacy-reese-24569840/',NULL,'intern','Global health and poverty')
+    ,('Dan Hendrycks','GiveWell','Summer Fellow','2015-08-01','month','2015-08-31','month','https://www.linkedin.com/in/dan-hendrycks-04062395/',NULL,'intern','Global health and poverty')
 ;
