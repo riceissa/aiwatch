@@ -34,15 +34,15 @@ def main():
             names = []
             titles = []
             for div in table.find_all("div", {"class": "views-field-title-1"}):
-                names.append(div.text.strip())
+                names.append(div.text.strip().replace("\u200b", ""))
             for div in table.find_all("div", {"class": "views-field-field-position"}):
-                titles.append(div.text.strip())
+                titles.append(div.text.strip().replace("\u200b", ""))
 
             for name, title in zip(names, titles):
                 print(("    " if first else "    ,") + "(" + ",".join([
                     mysql_quote(name),  # person
                     mysql_quote("Innovations for Poverty Action"),  # organization
-                    mysql_quote(title),  # title
+                    mysql_quote(h3.text.strip() + ": " + title),  # title
                     mysql_quote(""),  # start_date
                     mysql_quote(""),  # start_date_precision
                     mysql_quote(""),  # end_date
