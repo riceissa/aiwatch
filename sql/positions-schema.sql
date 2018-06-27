@@ -7,7 +7,7 @@ create table positions(
     # is not normalized.  For a more normalized take on the kind of
     # position, see the ai_safety_relation and position_type columns
     # of this same table.
-    title varchar(100),
+    title varchar(160),
 
     start_date date,
     start_date_precision enum('day','month','year','multi-year'),
