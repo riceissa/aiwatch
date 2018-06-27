@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 from bs4 import BeautifulSoup
+import re
 
 
 def mysql_quote(x):
@@ -42,6 +43,10 @@ def main():
                 if (name, title) in seen:
                     continue
                 seen.add((name, title))
+                if re.search(r"intern\b", title, re.IGNORECASE):
+                    employment_type = "intern"
+                else:
+                    employment_type = "full-time"
                 print(("    " if first else "    ,") + "(" + ",".join([
                     mysql_quote(name),  # person
                     mysql_quote("Innovations for Poverty Action"),  # organization
@@ -52,7 +57,7 @@ def main():
                     mysql_quote(""),  # end_date_precision
                     mysql_quote("https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title="),  # urls
                     mysql_quote(""),  # notes
-                    mysql_quote("full-time"),  # employment_type
+                    mysql_quote(employment_type),  # employment_type
                     mysql_quote("Global health and poverty"),  # cause_area
                 ]) + ")")
                 first = False
