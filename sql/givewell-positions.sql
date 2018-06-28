@@ -110,4 +110,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Martin Lucas','GiveWell','Independent Contractor','2014-02-01','month','2014-05-01','month','https://www.linkedin.com/in/martin-lucas-4321a58a/',NULL,'contractor','Global health and poverty')
     ,('Jacy Reese','GiveWell','Summer Research Analyst','2014-05-01','month','2014-08-01','month','https://www.linkedin.com/in/jacy-reese-24569840/',NULL,'intern','Global health and poverty')
     ,('Dan Hendrycks','GiveWell','Summer Fellow','2015-08-01','month','2015-08-31','month','https://www.linkedin.com/in/dan-hendrycks-04062395/',NULL,'intern','Global health and poverty')
+    ,('Brian Tse','GiveWell','Research Fellow','2015-07-01','month','2015-07-31','month','https://www.linkedin.com/in/briantsemanhei/',NULL,NULL,'Global health and poverty')
+    ,('Alex Flidr','GiveWell','Summer Fellow','2015-08-01','month','2015-08-31','month','https://www.linkedin.com/in/ales-flidr-96764638/',NULL,NULL,'Global health and poverty')
+    ,('Michael Kohm','GiveWell','Research Analyst','2014-06-01','month','2014-08-01','month','https://www.linkedin.com/in/michael-kohm-23792274/','Position listed for Open Philanthropy Project, but the listed projects (“Iron/Malaria Campaigns”, “Donor Outreach”) sound more like GiveWell work. I can’t find any more information about this person.',NULL,'Global health and poverty')
+    ,('Maryana Pinchuk','GiveWell','Conversation Notes Writer','2016-08-01','month','2017-02-01','month','https://www.linkedin.com/in/maryanapinchuk/',NULL,NULL,'Global health and poverty')
 ;

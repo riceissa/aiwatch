@@ -5,4 +5,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Alexander Berger','Open Philanthropy Project','Program Officer, US Policy',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20150131172845/http://www.openphilanthropy.org:80/leadership-team/ https://web.archive.org/web/20150317080313/http://www.openphilanthropy.org:80/leadership-team/',NULL,NULL,NULL)
     ,('Howie Lempel','Open Philanthropy Project','Program Officer, Global Catastrophic Risks',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20150131172845/http://www.openphilanthropy.org:80/leadership-team/ https://web.archive.org/web/20150317080313/http://www.openphilanthropy.org:80/leadership-team/',NULL,NULL,NULL)
     ,('Chloe Cockburn','Open Philanthropy Project','Program Officer, Criminal Justice Reform','2015-08-01','month',NULL,NULL,'https://web.archive.org/web/20151026194850/http://www.openphilanthropy.org:80/leadership-team/',NULL,'full-time',NULL)
+    ,('Brian Tse','Open Philanthropy Project','Consultant','2017-03-01','month',NULL,NULL,'https://www.linkedin.com/in/briantsemanhei/',NULL,NULL,'Animal welfare')
+    ,('David Manheim','Open Philanthropy Project','Independent Researcher','2017-11-01','month',NULL,NULL,'https://www.linkedin.com/in/davidmanheim/ https://www.openphilanthropy.org/focus/global-catastrophic-risks/biosecurity/david-manheim-research-existential-risk',NULL,'contractor',NULL)
+    ,('Karl Smith','Open Philanthropy Project','Consultant','2015-03-01','month','2015-11-01','month','https://www.linkedin.com/in/modeledbehavior/',NULL,'contractor',NULL)
+    ,('Adam Marblestone','Open Philanthropy Project','Scientific advisor',NULL,NULL,NULL,NULL,'https://www.linkedin.com/in/adam-marblestone-87202813/',NULL,'advisor',NULL)
 ;

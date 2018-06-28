@@ -89,4 +89,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Larissa Hesketh-Rowe','Centre for Effective Altruism','Chief operating officer','2018-02-01','month','2018-05-03','day','https://www.centreforeffectivealtruism.org/blog/larissa-hesketh-rowe-is-the-new-ceo-of-cea/',NULL,'full-time','Effective altruism')
     ,('Sam Bankman-Fried','Centre for Effective Altruism','US board member','2018-06-01','month',NULL,NULL,'https://web.archive.org/web/20180618200316/https://www.centreforeffectivealtruism.org/team/',NULL,'board member','Effective altruism')
     ,('Andrew Lapinski-Barker','Centre for Effective Altruism','Contractor','2016-07-01','month','2016-07-31','month','https://www.linkedin.com/in/andrew-lapinski-barker/',NULL,'contractor','Effective altruism')
+    ,('Ales Flidr','Centre for Effective Altruism','Intern','2015-05-01','month','2015-07-01','month','https://www.linkedin.com/in/ales-flidr-96764638/',NULL,'intern','Effective altruism')
+    ,('Ales Flidr','Centre for Effective Altruism','Summer Research Fellow','2017-06-01','month','2017-08-01','month','https://www.linkedin.com/in/ales-flidr-96764638/','AI policy research with Eric Drexler.','intern','AI safety')
 ;
