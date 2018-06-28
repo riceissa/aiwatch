@@ -123,4 +123,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Edward Lewis','Centre for Effective Altruism','Intern','2013-07-01','month','2013-07-31','month','https://www.linkedin.com/in/edward-lewis-59446a69/',NULL,'intern','Effective altruism')
     ,('Chris Cundy','Centre for Effective Altruism','Outreach Volunteer','2015-06-01','month','2015-06-30','month','https://www.linkedin.com/in/chrisjcundy/',NULL,'volunteer','Effective altruism')
     ,('Elodie Read','Centre for Effective Altruism','Research Intern','2016-09-01','month','2016-09-30','month','https://www.linkedin.com/in/elodie-read-24b807118/',NULL,'intern','Effective altruism')
+    ,('Danielle May','Centre for Effective Altruism','Research Intern','2015-09-01','month','2015-09-30','month','https://www.linkedin.com/in/danielle-may-279b0133/',NULL,'intern','Effective altruism')
+    ,('Michal Trzesimiech','Centre for Effective Altruism','Volunteer','2015-10-01','month',NULL,NULL,'https://www.linkedin.com/in/trzesimiech/',NULL,'volunteer','Effective altruism')
+    ,('Benjamin Drawer','Centre for Effective Altruism','Intern','2016-09-01','month','2016-09-30','month','https://www.linkedin.com/in/benjamin-drawer-719b4a149/',NULL,'intern','Effective altruism')
+    ,('Eugene Ng','Centre for Effective Altruism','Marketing and Communications Intern','2016-09-01','month','2016-09-30','month','https://www.linkedin.com/in/eugene-ng-190416105/',NULL,'intern','Effective altruism')
+    ,('George McGowan','Centre for Effective Altruism','Operations Intern','2014-05-01','month','2015-03-01','month','https://www.linkedin.com/in/gjmcgowan/',NULL,'intern','Effective altruism')
+    ,('Risto Uuk','Centre for Effective Altruism','Speaker liaison','2017-11-01','month','2017-11-30','month','https://www.linkedin.com/in/ristouuk/',NULL,NULL,'Effective altruism')
+    ,('Sophie Gammage','Centre for Effective Altruism','Research Analyst','2014-09-01','month','2014-10-01','month','https://www.linkedin.com/in/sophie-gammage-b34026a4/',NULL,NULL,'Effective altruism')
+    ,('Emily Silcock','Centre for Effective Altruism','Research and Evaluation Intern','2014-09-01','month','2014-09-30','month','https://www.linkedin.com/in/emilysilcock/',NULL,'intern','Effective altruism')
 ;

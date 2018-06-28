@@ -50,4 +50,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Spencer Greenberg','Charity Science','Advisory Board member','2016-01-01','month',NULL,NULL,'https://web.archive.org/web/20160106070529/http://www.charityscience.com:80/our-team.html','The “Advisory Board members” section existed since November 2015 but had no names listed until January 2016.','advisor','Global health and poverty')
     ,('Nick Beckstead','Charity Science','Advisory Board member','2016-01-01','month',NULL,NULL,'https://web.archive.org/web/20160106070529/http://www.charityscience.com:80/our-team.html','The “Advisory Board members” section existed since November 2015 but had no names listed until January 2016.','advisor','Global health and poverty')
     ,('Frankie Andersen-Wood','Charity Science','Head Editor','2017-04-01','month','2017-06-01','month','https://www.linkedin.com/in/fandersenwood/',NULL,'intern','Global health and poverty')
+    ,('Eric Herboso','Charity Science','Communications Consultant','2015-08-01','month','2015-08-31','month','https://www.linkedin.com/in/ericherboso/',NULL,'contractor','Global health and poverty')
 ;
