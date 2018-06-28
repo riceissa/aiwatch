@@ -57,7 +57,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('David Manheim','Open Philanthropy Project','Independent Researcher','2017-11-01','month',NULL,NULL,'https://www.linkedin.com/in/davidmanheim/ https://www.openphilanthropy.org/focus/global-catastrophic-risks/biosecurity/david-manheim-research-existential-risk',NULL,'contractor',NULL)
     ,('Karl Smith','Open Philanthropy Project','Consultant','2015-03-01','month','2015-11-01','month','https://www.linkedin.com/in/modeledbehavior/',NULL,'contractor',NULL)
     ,('Adam Marblestone','Open Philanthropy Project','Scientific advisor',NULL,NULL,NULL,NULL,'https://www.linkedin.com/in/adam-marblestone-87202813/',NULL,'advisor',NULL)
-    ,('Daniel Dewey','Open Philanthropy Project','Consulting Research Analyst','2015-01-01','year',NULL,NULL,'https://www.fhi.ox.ac.uk/wp-content/uploads/Daniel-Dewey.pdf',NULL,'position','grant investigation',NULL,'AI safety')
+;
+
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
+    ('Daniel Dewey','Open Philanthropy Project','Consulting Research Analyst','2015-01-01','year',NULL,NULL,'https://www.fhi.ox.ac.uk/wp-content/uploads/Daniel-Dewey.pdf',NULL,'position','grant investigation',NULL,'AI safety')
     ,('Daniel Dewey','Open Philanthropy Project','Program Officer for Potential Risks from Advanced Artificial Intelligence','2015-01-01','year',NULL,NULL,'https://www.openphilanthropy.org/about/team/daniel-dewey',NULL,'position','grant investigation','full-time','AI safety')
     ,('Paul Christiano','Open Philanthropy Project','Technical advisor',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support',NULL,'position','scientific advising','advisor','AI safety')
     ,('Jacob Steinhardt','Open Philanthropy Project','Technical advisor',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support',NULL,'position','scientific advising','advisor','AI safety')
