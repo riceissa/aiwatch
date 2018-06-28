@@ -114,4 +114,13 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Sophie Ritchie','Centre for Effective Altruism','Summer Research Fellow','2015-07-01','month','2015-10-01','month','https://www.linkedin.com/in/sophie-ritchie-872b1b67/',NULL,'intern','Effective altruism')
     ,('Amber Rose Morgan','Centre for Effective Altruism','Bookkeeper','2015-01-01','month','2016-07-01','month','https://www.linkedin.com/in/amber-rose-morgan-0100a863/',NULL,NULL,'Effective altruism')
     ,('Marcin Kowrygo','Centre for Effective Altruism','Internship','2016-09-01','month','2016-09-30','month','https://www.linkedin.com/in/kowrygo/',NULL,'intern','Effective altruism')
+    ,('Stephanie Tam','Centre for Effective Altruism','Podcast Producer, Developer, and Presenter/Co-Host','2016-07-01','month','2016-11-01','month','https://www.linkedin.com/in/stephanie-tam-7bb20a79/',NULL,NULL,'Effective altruism')
+    ,('Ben Clifford','Centre for Effective Altruism','Intern','2012-09-01','month','2012-09-30','month','https://www.linkedin.com/in/ben-clifford-a48ab24a/',NULL,'intern','Effective altruism')
+    ,('Josh Jacobson','Centre for Effective Altruism','Director of Market Analytics','2015-04-01','month','2015-11-01','month','https://www.linkedin.com/in/joshmjacobson/',NULL,NULL,'Effective altruism')
+    ,('Tonja Wright','Centre for Effective Altruism','Director of Logistics and Employee Experience','2015-02-01','month','2015-10-01','month','https://www.linkedin.com/in/tonjawright/',NULL,NULL,'Effective altruism')
+    ,('Tonja Wright','Centre for Effective Altruism','Operations Intern','2014-11-01','month','2015-02-01','month','https://www.linkedin.com/in/tonjawright/',NULL,'intern','Effective altruism')
+    ,('Alex Barry','Centre for Effective Altruism','Summer Research Fellow','2017-06-01','month','2017-09-01','month','https://www.linkedin.com/in/alex-barry-066508123/',NULL,'intern','Effective altruism')
+    ,('Edward Lewis','Centre for Effective Altruism','Intern','2013-07-01','month','2013-07-31','month','https://www.linkedin.com/in/edward-lewis-59446a69/',NULL,'intern','Effective altruism')
+    ,('Chris Cundy','Centre for Effective Altruism','Outreach Volunteer','2015-06-01','month','2015-06-30','month','https://www.linkedin.com/in/chrisjcundy/',NULL,'volunteer','Effective altruism')
+    ,('Elodie Read','Centre for Effective Altruism','Research Intern','2016-09-01','month','2016-09-30','month','https://www.linkedin.com/in/elodie-read-24b807118/',NULL,'intern','Effective altruism')
 ;
