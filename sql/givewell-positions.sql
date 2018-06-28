@@ -118,4 +118,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Tracy Williams','GiveWell','Operations Associate','2016-09-01','month',NULL,NULL,'https://web.archive.org/web/20160920191536/https://www.givewell.org/about/people',NULL,'full-time','Global health and poverty')
     ,('Sarah Ward','GiveWell','Director of Operations','2016-07-01','month',NULL,NULL,'https://web.archive.org/web/20160728234856/https://www.givewell.org/about/people',NULL,'full-time','Global health and poverty')
     ,('Isabel Arjmand','GiveWell','Research Analyst','2016-09-01','month',NULL,NULL,'https://web.archive.org/web/20160920191536/https://www.givewell.org/about/people',NULL,'full-time','Global health and poverty')
+    ,('Andrew Nevarez','GiveWell','Administrative Assistant','2016-04-01','month',NULL,NULL,'https://web.archive.org/web/20160830204841/https://www.givewell.org/about/people','Some previous snapshots say he joined in March 2016.','full-time','Global health and poverty')
 ;
