@@ -76,3 +76,10 @@ mysql donations -e "select donee,former_name,website,contact_email,country, \
     youtube_username from donees where cause_area REGEXP 'ai risk';" \
     > temp.tsv
 ```
+
+Find uncategorized interns:
+
+```mysql
+select person,title,employment_type from positions
+where title regexp 'intern' and (employment_type != 'intern' or employment_type is null);
+```
