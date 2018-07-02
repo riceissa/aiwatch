@@ -345,11 +345,29 @@ the old name).</p>
     foreach ($summary as $date => $val) {
       $staff_added = array();
       foreach ($val['staff_added'] as $p) {
-        $staff_added[] = link_person($p[0], $p[1]);
+        $color_style = ' class="added"';
+        // Change color to yellow if the person was also subtracted. This means
+        // it's just a position title change.
+        foreach ($val['staff_subtracted'] as $q) {
+          if ($p[0] === $q[0]) {
+            $color_style = ' class="changed"';
+            break;
+          }
+        }
+        $staff_added[] = link_person($p[0], $p[1], $color_style);
       }
       $staff_subtracted = array();
       foreach ($val['staff_subtracted'] as $p) {
-        $staff_subtracted[] = link_person($p[0], $p[1]);
+        $color_style = ' class="subtracted"';
+        // Change color to yellow if the person was also added. This means
+        // it's just a position title change.
+        foreach ($val['staff_added'] as $q) {
+          if ($p[0] === $q[0]) {
+            $color_style = ' class="changed"';
+            break;
+          }
+        }
+        $staff_subtracted[] = link_person($p[0], $p[1], $color_style);
       }
 ?>
     <tr>
