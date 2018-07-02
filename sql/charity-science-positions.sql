@@ -52,4 +52,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Frankie Andersen-Wood','Charity Science','Head Editor','2017-04-01','month','2017-06-01','month','https://www.linkedin.com/in/fandersenwood/',NULL,'intern','Global health and poverty')
     ,('Eric Herboso','Charity Science','Communications Consultant','2015-08-01','month','2015-08-31','month','https://www.linkedin.com/in/ericherboso/',NULL,'contractor','Global health and poverty')
     ,('Randy Carlton','Charity Science','US Operational Partner','2015-01-01','year','2017-01-01','year','https://www.linkedin.com/in/rancar2/',NULL,'volunteer','Global health and poverty')
+    ,('Evan Gaensbauer','Charity Science','Volunteer','2016-01-01','month','2016-04-01','month','https://www.linkedin.com/in/evan-gaensbauer-44b2b669/',NULL,'volunteer','Global health and poverty')
 ;

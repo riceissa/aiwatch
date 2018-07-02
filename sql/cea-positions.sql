@@ -141,4 +141,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Maximilian Negele','Centre for Effective Altruism','September Intern','2016-09-01','month','2016-09-30','month','https://www.linkedin.com/in/maximilian-negele-a8b775a7/',NULL,'intern','Effective altruism')
     ,('Kandasi Griffiths','Centre for Effective Altruism','Event Director, EA Global Oxford 2015','2015-05-01','month','2015-09-01','month','https://www.linkedin.com/in/kkgworldwide/',NULL,NULL,'Effective altruism')
     ,('Randy Carlton','Centre for Effective Altruism','EAGxBoston Director','2016-01-01','month','2016-05-01','month','https://www.linkedin.com/in/rancar2/',NULL,'volunteer','Effective altruism')
+    ,('Ben Ryder','Centre for Effective Altruism','Intern','2016-09-01','month','2016-09-30','month','https://www.linkedin.com/in/ben-ryder-0aa317a5/',NULL,'intern','Effective altruism')
+    ,('Kate Stweart','Centre for Effective Altruism','Communications Researcher','2015-05-01','month','2015-09-01','month','https://www.linkedin.com/in/kate-stewart-9bb86742/',NULL,NULL,'Effective altruism')
+    ,('Megan Crawford','Centre for Effective Altruism','EA Global 2015 Staff','2015-07-01','month','2015-07-31','month','https://www.linkedin.com/in/megan-crawford-spiracular/',NULL,'volunteer','Effective altruism')
+    ,('Megan Crawford','Centre for Effective Altruism','EA Global 2016 Staff','2016-08-01','month','2016-08-31','month','https://www.linkedin.com/in/megan-crawford-spiracular/',NULL,'volunteer','Effective altruism')
 ;
