@@ -34,6 +34,9 @@ cp access-portal/backend/globalVariables/{dummyPasswordFile.inc,passwordFile.inc
 vi access-portal/backend/globalVariables/passwordFile.inc  # change to add database login info
 ```
 
+If you're hosting this on a server, make sure to disable public access to the
+password file.
+
 Finally start the service:
 
 ```bash
