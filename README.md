@@ -1,9 +1,10 @@
 # AI Watch and Org Watch
 
-[AI Watch](https://aiwatch.issarice.com/) is a website designed to track people and organizations working in AI
-safety.
+This is the repository for two related websites:
 
-[Org Watch](https://orgwatch.issarice.com/) is a generalization of AI Watch
+* [AI Watch](https://aiwatch.issarice.com/) is a website designed to track people and organizations working in AI
+safety.
+* [Org Watch](https://orgwatch.issarice.com/) is a generalization of AI Watch
 that covers positions outside of AI safety.
 
 Both sites use the same code and database, stored in this repository.
