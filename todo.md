@@ -1,5 +1,7 @@
 # To-do list
 
+**This page should slowly be moved into actual [issues](https://github.com/riceissa/aiwatch/issues) for this project.**
+
 ## Possible new features
 
 - Graphs
