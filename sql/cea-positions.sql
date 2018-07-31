@@ -145,4 +145,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Kate Stweart','Centre for Effective Altruism','Communications Researcher','2015-05-01','month','2015-09-01','month','https://www.linkedin.com/in/kate-stewart-9bb86742/',NULL,NULL,'Effective altruism')
     ,('Megan Crawford','Centre for Effective Altruism','EA Global 2015 Staff','2015-07-01','month','2015-07-31','month','https://www.linkedin.com/in/megan-crawford-spiracular/',NULL,'volunteer','Effective altruism')
     ,('Megan Crawford','Centre for Effective Altruism','EA Global 2016 Staff','2016-08-01','month','2016-08-31','month','https://www.linkedin.com/in/megan-crawford-spiracular/',NULL,'volunteer','Effective altruism')
+    ,('Rufaida Al Hashmi','Centre for Effective Altruism','Intern','2016-06-01','month','2016-09-01','month','https://www.linkedin.com/in/rufaida-al-hashmi-5593a4123/',NULL,'intern','Effective altruism')
+    ,('Celine Chen','Centre for Effective Altruism','Taiwan and CUHK Ambassador','2015-09-01','month','2015-09-30','month','https://www.linkedin.com/in/celine-chen-18498a62/',NULL,'volunteer','Effective altruism')
+    ,('Alex Robson','Centre for Effective Altruism','Web developer','2013-01-01','month','2013-06-01','month','https://www.linkedin.com/in/alex-robson-7712692a/',NULL,NULL,'Effective altruism')
+    ,('Lucas Zamprogno','Centre for Effective Altruism','Logistics Manager','2013-05-01','month','2013-12-01','month','https://www.linkedin.com/in/lucas-zamprogno-33ba2877/',NULL,NULL,'Effective altruism')
+    ,('Philip Zealley','Centre for Effective Altruism','Marketing Intern','2016-09-01','month','2016-09-30','month','https://www.linkedin.com/in/philip-zealley-15a88912b/',NULL,'intern','Effective altruism')
+    ,('Callum Calvert','Centre for Effective Altruism','Research Intern','2012-09-01','month','2012-09-30','month','https://www.linkedin.com/in/callumcalvert/',NULL,'intern','Effective altruism')
+    ,('Caroline Jeanmaire','Centre for Effective Altruism','Community building trainee','2018-01-01','month','2018-03-01','month','https://www.linkedin.com/in/caroline-jeanmaire-a315ba6a/',NULL,'volunteer','Effective altruism')
 ;
