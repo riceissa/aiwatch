@@ -836,4 +836,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Daniel Roth','Machine Intelligence Research Institute','Singularity Summit Organized','2012-10-01','month','2012-10-31','month','https://www.linkedin.com/in/danielroth7/',NULL,'position',NULL,'volunteer','AI safety')
     ,('Bryan Bishop','Machine Intelligence Research Institute','Programmer','2008-07-01','month','2008-08-01','month','https://www.linkedin.com/in/bryan-bishop-3a63978/',NULL,'position','software engineering','volunteer','AI safety')
     ,('Peter Scheyer','Machine Intelligence Research Institute','Fellow/Applied Entrepreneurship Instructor/Instrumental Rationality Specialist','2011-05-01','month','2011-10-01','month','https://www.linkedin.com/in/pscheyer/',NULL,'position',NULL,NULL,'AI safety')
+    ,('Gwern Branwen','Machine Intelligence Research Institute','Research assistant','2012-01-01','year','2013-01-01','year','https://www.gwern.net/Links',NULL,'position',NULL,NULL,'AI safety')
+    ,('Gwern Branwen','Center for Applied Rationality',NULL,'2012-01-01','year','2012-12-31','year','https://www.gwern.net/Links',NULL,NULL,NULL,NULL,'AI safety')
 ;
