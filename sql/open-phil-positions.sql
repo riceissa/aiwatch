@@ -57,6 +57,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('David Manheim','Open Philanthropy Project','Independent Researcher','2017-11-01','month',NULL,NULL,'https://www.linkedin.com/in/davidmanheim/ https://www.openphilanthropy.org/focus/global-catastrophic-risks/biosecurity/david-manheim-research-existential-risk',NULL,'contractor',NULL)
     ,('Karl Smith','Open Philanthropy Project','Consultant','2015-03-01','month','2015-11-01','month','https://www.linkedin.com/in/modeledbehavior/',NULL,'contractor',NULL)
     ,('Adam Marblestone','Open Philanthropy Project','Scientific advisor',NULL,NULL,NULL,NULL,'https://www.linkedin.com/in/adam-marblestone-87202813/',NULL,'advisor',NULL)
+    ,('Jacob Steinhardt','Open Philanthropy Project',NULL,'2018-06-01','year','2018-09-01','year','http://effective-altruism.com/ea/1qx/the_ea_community_and_far_future_ea_funds_are_not/f27','Work over the summer.',NULL,NULL)
 ;
 
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
@@ -68,5 +69,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Dario Amodei','Open Philanthropy Project','Technical advisor',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support',NULL,'position','scientific advising','advisor','AI safety')
     ,('Holden Karnofsky','Open Philanthropy Project','Executive Director',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/blog/potential-risks-advanced-artificial-intelligence-philanthropic-opportunity https://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence',NULL,'position','grant investigation','full-time','AI safety')
     ,('Helen Toner','Open Philanthropy Project',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1802.07228.pdf',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Jacob Steinhardt','Open Philanthropy Project',NULL,'2018-06-01','year','2018-09-01','year','http://effective-altruism.com/ea/1qx/the_ea_community_and_far_future_ea_funds_are_not/f27','Work over the summer.',NULL,NULL)
 ;
