@@ -18,4 +18,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Andrew Critch','Berkeley Existential Risk Initiative','Board chair',NULL,NULL,NULL,NULL,'http://existence.org/team/',NULL,'position',NULL,'board member','AI safety')
     ,('Eric Rogstad','Berkeley Existential Risk Initiative','Board treasurer',NULL,NULL,NULL,NULL,'http://existence.org/team/',NULL,'position',NULL,'board member','AI safety')
     ,('Qiaochu Yuan','Berkeley Existential Risk Initiative','Board secretary',NULL,NULL,NULL,NULL,'http://existence.org/team/',NULL,'position',NULL,'board member','AI safety')
+    ,('Josh Jacobson','Berkeley Existential Risk Initiative','Collaboration Manager & Project Manager','2018-09-03','month',NULL,NULL,'https://web.archive.org/web/20180903104753/http://existence.org/team/',NULL,'position',NULL,'full-time','AI safety')
 ;
