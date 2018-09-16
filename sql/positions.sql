@@ -485,7 +485,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Will Sawin','Institute for Theoretical Studies at ETH Zurich','Junior Fellow',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171104132257/http://wrai.org/ https://intelligence.org/workshops/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Will Sawin','Princeton University','Undergraduate student',NULL,NULL,NULL,NULL,'https://intelligence.org/workshops/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Bas R. Steunebrink','NNAISENSE','Co-Founder',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171104132257/http://wrai.org/',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Max Daniel','Effective Altruism Foundation','Researcher',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171104132257/http://wrai.org/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Tom Everitt','Google DeepMind',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1711.09883.pdf',NULL,NULL,NULL,NULL,'AI safety')
     ,('Tom Everitt','Australian National University',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1711.09883.pdf https://arxiv.org/pdf/1708.03871.pdf https://arxiv.org/pdf/1705.08417.pdf https://arxiv.org/pdf/1606.00652.pdf',NULL,NULL,NULL,NULL,'AI safety')
     ,('Andrew Lefrancq','Google DeepMind',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1711.09883.pdf',NULL,NULL,NULL,NULL,'AI safety')
