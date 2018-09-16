@@ -31,4 +31,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Ruairí Donnelly','Effective Altruism Foundation','Head of Development','2016-05-28','month',NULL,NULL,'https://web.archive.org/web/20160528181300/http://ea-stiftung.org/team/',NULL,NULL,'Effective altruism')
     ,('Marcello Veronese','Effective Altruism Foundation','Outreach','2016-05-28','month',NULL,NULL,'https://web.archive.org/web/20160528181300/http://ea-stiftung.org/team/',NULL,NULL,'Effective altruism')
     ,('Anne Wissemann','Effective Altruism Foundation','Operations','2016-08-26','month',NULL,NULL,'https://web.archive.org/web/20160826163645/http://ea-stiftung.org:80/team/',NULL,NULL,'Effective altruism')
+    ,('Denis Drescher','Effective Altruism Foundation','Senior Software Engineer','2016-08-26','month',NULL,NULL,'https://web.archive.org/web/20160826163645/http://ea-stiftung.org:80/team/',NULL,NULL,'Effective altruism')
 ;
