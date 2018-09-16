@@ -49,7 +49,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jona Sicheneder','Effective Altruism Foundation','Operations','2016-12-20','month',NULL,NULL,'https://web.archive.org/web/20161220084424/http://ea-stiftung.org:80/team/',NULL,NULL,'Effective altruism')
     ,('Jeff Jordan','Effective Altruism Foundation','Research and Growth','2016-12-20','month','2017-01-29','month','https://web.archive.org/web/20161220084424/http://ea-stiftung.org:80/team/ https://web.archive.org/web/20170129135053/http://ea-stiftung.org:80/team/',NULL,NULL,'Effective altruism')
     ,('Adrian Rorheim','Effective Altruism Foundation','Editor','2017-01-29','month',NULL,NULL,'https://web.archive.org/web/20170129135053/http://ea-stiftung.org:80/team/',NULL,NULL,'Effective altruism')
-    ,('Kim Korte','Effective Altruism Foundation','Director of IT','2017-01-29','month',NULL,NULL,'https://web.archive.org/web/20170129135053/http://ea-stiftung.org:80/team/',NULL,NULL,'Effective altruism')
+    ,('Kim Korte','Effective Altruism Foundation','Director of IT','2017-01-29','month',NULL,NULL,'https://web.archive.org/web/20170129135053/http://ea-stiftung.org:80/team/','The position is also called “Chief Technology Officer”.',NULL,'Effective altruism')
     ,('Alfredo Parra','Effective Altruism Foundation','Operations','2017-06-29','month',NULL,NULL,'https://web.archive.org/web/20170629142528/http://ea-stiftung.org:80/team/',NULL,NULL,'Effective altruism')
     # ,('Max Daniel','Effective Altruism Foundation','Researcher',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171104132257/http://wrai.org/',NULL,NULL,NULL,NULL,'AI safety')
 ;
