@@ -61,5 +61,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Pascal Zimmer','Effective Altruism Foundation','Advisor','2018-09-03','year',NULL,NULL,'https://web.archive.org/web/20180903155442/https://ea-foundation.org/team/',NULL,'advisor','Effective altruism')
     ,('Jasper Götting','Effective Altruism Foundation','Community & Speaker (intern or volunteer)','2018-09-03','year',NULL,NULL,'https://web.archive.org/web/20180903155442/https://ea-foundation.org/team/',NULL,'volunteer','Effective altruism')
     ,('Max Räuker','Effective Altruism Foundation','Community & Speaker (intern or volunteer)','2018-09-03','year',NULL,NULL,'https://web.archive.org/web/20180903155442/https://ea-foundation.org/team/',NULL,'volunteer','Effective altruism')
-    ,('Max Daniel','Effective Altruism Foundation','Researcher',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171104132257/http://wrai.org/',NULL,NULL,NULL,NULL,'AI safety')
+;
+
+
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
+    ('Max Daniel','Effective Altruism Foundation','Researcher',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171104132257/http://wrai.org/',NULL,NULL,NULL,NULL,'AI safety')
 ;
