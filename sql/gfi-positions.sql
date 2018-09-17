@@ -24,4 +24,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Susan Vitka','The Good Food Institute','Advisor',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20160509141206/http://www.gfi.org:80/our-team',NULL,'advisor','Animal welfare')
     ,('Suzy Welch','The Good Food Institute','Advisor',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20160509141206/http://www.gfi.org:80/our-team',NULL,'advisor','Animal welfare')
     ,('Eron Zehavi','The Good Food Institute','Advisor',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20160509141206/http://www.gfi.org:80/our-team',NULL,'advisor','Animal welfare')
+    ,('Nicole Negowetti','The Good Food Institute','Policy Director','2016-06-27','month',NULL,NULL,'https://web.archive.org/web/20160627185951/http://www.gfi.org:80/our-team',NULL,NULL,'Animal welfare')
+    ,('Christie Lagally','The Good Food Institute','Senior Scientist','2016-06-27','month',NULL,NULL,'https://web.archive.org/web/20160627185951/http://www.gfi.org:80/our-team',NULL,NULL,'Animal welfare')
+    ,('Liz Specht','The Good Food Institute','Senior Scientist','2016-06-27','month',NULL,NULL,'https://web.archive.org/web/20160627185951/http://www.gfi.org:80/our-team',NULL,NULL,'Animal welfare')
+    ,('Jaime Surenkamp','The Good Food Institute','Senior Advisor','2016-06-27','month',NULL,NULL,'https://web.archive.org/web/20160627185951/http://www.gfi.org:80/our-team',NULL,NULL,'Animal welfare')
+    ,('Emily Byrd','The Good Food Institute','Communications Manager','2016-06-27','month',NULL,NULL,'https://web.archive.org/web/20160627185951/http://www.gfi.org:80/our-team',NULL,NULL,'Animal welfare')
+    ,('Reannon Branchesi','The Good Food Institute','Executive Assistant','2016-06-27','month',NULL,NULL,'https://web.archive.org/web/20160627185951/http://www.gfi.org:80/our-team',NULL,NULL,'Animal welfare')
+    ,('Matt Prescott','The Good Food Institute','Advisor','2016-06-27','month',NULL,NULL,'https://web.archive.org/web/20160627185951/http://www.gfi.org:80/our-team',NULL,'advisor','Animal welfare')
+    ,('Uma Valeti','The Good Food Institute','Advisor','2016-06-27','month',NULL,NULL,'https://web.archive.org/web/20160627185951/http://www.gfi.org:80/our-team',NULL,'advisor','Animal welfare')
 ;
