@@ -1,3 +1,8 @@
+# Snapshots used:
+# https://web.archive.org/web/20160509141206/http://www.gfi.org:80/our-team
+# https://web.archive.org/web/20160627185951/http://www.gfi.org:80/our-team
+# https://web.archive.org/web/20160729025438/http://www.gfi.org:80/our-team
+
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
     ('Bruce Friedrich','The Good Food Institute','Executive Director',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20160509141206/http://www.gfi.org:80/our-team',NULL,NULL,'Animal welfare')
     ,('Chris Kerr','The Good Food Institute','Entrepreneur in Residence',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20160509141206/http://www.gfi.org:80/our-team',NULL,NULL,'Animal welfare')
@@ -32,4 +37,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Reannon Branchesi','The Good Food Institute','Executive Assistant','2016-06-27','month',NULL,NULL,'https://web.archive.org/web/20160627185951/http://www.gfi.org:80/our-team',NULL,NULL,'Animal welfare')
     ,('Matt Prescott','The Good Food Institute','Advisor','2016-06-27','month',NULL,NULL,'https://web.archive.org/web/20160627185951/http://www.gfi.org:80/our-team',NULL,'advisor','Animal welfare')
     ,('Uma Valeti','The Good Food Institute','Advisor','2016-06-27','month',NULL,NULL,'https://web.archive.org/web/20160627185951/http://www.gfi.org:80/our-team',NULL,'advisor','Animal welfare')
+    ,('Clare Bland','The Good Food Institute','Development Director','2016-07-29','month',NULL,NULL,'https://web.archive.org/web/20160729025438/http://www.gfi.org:80/our-team',NULL,NULL,'Animal welfare')
 ;
