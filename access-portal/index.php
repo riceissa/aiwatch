@@ -58,14 +58,14 @@ if ($_REQUEST['person'] ?? '') {
 funder doesn't want to continue funding this project. As a result, it is
 currently mostly sitting around. If you want to bring this site to the next
 level, contact Issa at riceissa@gmail.com. What you get: site improvements,
-recognition in the site credits. What we want: money.</p>
+recognition in the site credits. What the site needs: money.</p>
 
 <p><strong>If you have time and want experience building websites:</strong> this website is
 looking for contributors. If you want to help out, contact Issa at
 riceissa@gmail.com. What you get: little or no pay (this could change if the
 site gets funding; see previous paragraph), recognition in the site credits,
 privilege of working with me, knowledge of the basics of web development
-(MySQL, PHP, Git). What we want: data collection/entry and website code
+(MySQL, PHP, Git). What the site needs: data collection/entry and website code
 improvements.</p>
 
 <p>Last updated on <?= $head_date ?>.</p>
