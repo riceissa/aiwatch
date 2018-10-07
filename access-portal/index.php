@@ -51,10 +51,22 @@ if ($_REQUEST['person'] ?? '') {
 </p>
 
 <p>This website is developed by <a href="https://issarice.com">Issa Rice</a>
-  and is partially
+  and has been partially
   <a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=AI+Watch&amp;matching=exact">funded by Vipul Naik</a>.</p>
 
-<p>This site is still under active development.</p>
+<p>If you like (or want to like) this website and have money: the current
+funder doesn't want to continue funding this project. As a result, it is
+currently mostly sitting around. If you want to bring this site to the next
+level, contact Issa at riceissa@gmail.com. What you get: site improvements,
+recognition in the site credits. What we want: money.</p>
+
+<p>If you have time and want experience building websites: this website is
+looking for contributors. If you want to help out, contact Issa at
+riceissa@gmail.com. What you get: little or no pay (this could change if the
+site gets funding; see previous paragraph), recognition in the site credits,
+privilege of working with me, knowledge of the basics of web development
+(MySQL, PHP, Git). What we want: data collection/entry and website code
+improvements.</p>
 
 <p>Last updated on <?= $head_date ?>.</p>
 
