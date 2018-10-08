@@ -29,7 +29,7 @@
   print "</head>";
   print "<pre>";
   foreach ($people as $person) {
-    print $person . "\n";
+    print '<a href="/?person=' . urlencode($person) . '">' . $person . "</a>\n";
   }
   print "</pre>";
   print "</html>";
