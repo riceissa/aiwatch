@@ -139,13 +139,6 @@ if ($subdomain != "aiwatch") {
       <td></td>
     </tr>
     <tr>
-      <td>Linda Linsefors</td>
-      <td>Technical research?</td>
-      <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
-      </td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Joar Skalse</td>
       <td>Technical research?</td>
       <td><a href="https://aisafetycamp.com/2018/06/05/aisc-1-research-summaries/">Source</a>
