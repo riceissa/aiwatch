@@ -826,4 +826,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Gwern Branwen','Center for Applied Rationality',NULL,'2012-01-01','year','2012-12-31','year','https://www.gwern.net/Links',NULL,NULL,NULL,NULL,'AI safety')
     ,('Vishal Maini','Google DeepMind','Strategic Communications Manager','2018-02-01','month',NULL,NULL,'https://medium.com/@deepmindsafetyresearch/building-safe-artificial-intelligence-52f5f75058f1 https://www.lesswrong.com/posts/Y8ezvHWZXW232CkKr/new-deepmind-ai-safety-research-blog https://www.linkedin.com/in/vishalmaini/',NULL,'position','popularization',NULL,'AI safety')
     ,('Christopher Olah','OpenAI','Researcher working on human understanding of ML','2018-10-01','month',NULL,NULL,'https://www.facebook.com/100003775051002/posts/1402487849887037/ http://archive.today/2018.10.08-205550/https://mbasic.facebook.com/100003775051002/posts/1402487849887037/',NULL,'position','technical research','full-time','AI safety')
+    ,('Michaël Trazzi','Sorbonne University',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/abs/1808.03644',NULL,'position',NULL,NULL,'AI safety')
 ;
