@@ -36,7 +36,7 @@ $site_name = $subdomain === "aiwatch" ? "AI Watch" : "Org Watch";
 <h2>Inclusion criteria</h2>
 <?php if ($subdomain === "aiwatch") { ?>
 
-<p>The site is new and is still under active development, so at the moment there are
+<p>The site has not had a lot of deep thought put into it, so at the moment there are
   no firm criteria for inclusion on this site. With that said, below I describe
   my best guesses for what should be included and my current decision procedure.</p>
 
@@ -57,7 +57,7 @@ safety.</p>
 <p>I have been excluding funders because I hope these will be covered in Vipul
   Naik’s <a href="https://donations.vipulnaik.com/?cause_area_filter=AI+safety">Donations
   List Website</a> (the site already tracks some donations and other funding,
-  but data is preliminary).</p>
+  but data is preliminary) and eventually integrated with AI Watch somehow.</p>
 
 <p>I am not sure what the most “useful” (in terms of how useful people will
 find this website) criteria for inclusion are. It seems like writing a couple
@@ -65,6 +65,14 @@ of blog posts is a fairly low bar, and might turn out to be so low that I can’
 keep up with adding everyone, or that the list feels diluted. So far this
 doesn’t seem to be the case though, and with proper tagging the dilution issue
 can be mitigated.</p>
+
+<p>I guess I am also worried about <a
+href="https://www.lesswrong.com/posts/sP2Hg6uPwpfp3jZJN/lost-purposes">lost
+purposes</a> (i.e. the site tracking something that’s not the thing it should
+be tracking, or AI safety as a field becoming like that so that the site goes
+down with the whole field). I haven’t given this too much thought yet, so I am
+pretty mindlessly just adding things to the site for now (modulo the
+above).</p>
 
 <h3>Organizations</h3>
 
