@@ -27,6 +27,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/gfi-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/median-group-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/lw2-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/ought-positions.sql
 
 access-portal/head_date.txt:
 	git log -1 --format="%ad" --date=format:"%Y-%m-%d" > "$@"
