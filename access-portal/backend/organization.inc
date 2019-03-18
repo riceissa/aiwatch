@@ -469,3 +469,44 @@ $creators = linkedCreators($mysqli,
     <?php } ?>
   </tbody>
 </table>
+
+<h2 id="organization-documents">Organization documents</h2>
+<?php
+  $query = "select * from organization_documents where affected_organizations regexp ?";
+  if ($stmt = $mysqli->prepare($query)) {
+    $stmt->bind_param("s", $organization);
+    $stmt->execute();
+    $result = $stmt->get_result();
+  }
+?>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Publication date</th>
+      <th>Author</th>
+      <th>Publisher</th>
+      <th>Affected organizations</th>
+      <th>Affected people</th>
+      <th>Document scope</th>
+      <th>Cause area</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <?php while ($row = $result->fetch_assoc()) { ?>
+      <tr>
+        <td><a href="<?= $row['url'] ?>"><?= $row['title'] ?></a></td>
+        <td><?= $row['publication_date'] ?></td>
+        <td><?= $row['author'] ?></td>
+        <td><?= $row['publisher'] ?></td>
+        <td><?= $row['affected_organizations'] ?></td>
+        <td><?= $row['affected_people'] ?></td>
+        <td><?= $row['document_scope'] ?></td>
+        <td><?= $row['cause_area'] ?></td>
+        <td><?= formatted_notes($row['notes'], $seen) ?></td>
+      </tr>
+    <?php } ?>
+  </tbody>
+</table>
