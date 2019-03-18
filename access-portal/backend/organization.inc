@@ -499,10 +499,10 @@ $creators = linkedCreators($mysqli,
       <tr>
         <td><a href="<?= $row['url'] ?>"><?= $row['title'] ?></a></td>
         <td><?= $row['publication_date'] ?></td>
-        <td><?= $row['author'] ?></td>
+        <td><?= link_person($row['author']) ?></td>
         <td><?= $row['publisher'] ?></td>
-        <td><?= $row['affected_organizations'] ?></td>
-        <td><?= $row['affected_people'] ?></td>
+        <td><?= implode(", ", array_map("link_organization", explode("|", $row['affected_organizations']))) ?></td>
+        <td><?= implode(", ", array_map("link_person", explode("|", $row['affected_people']))) ?></td>
         <td><?= $row['document_scope'] ?></td>
         <td><?= $row['cause_area'] ?></td>
         <td><?= formatted_notes($row['notes'], $seen) ?></td>
