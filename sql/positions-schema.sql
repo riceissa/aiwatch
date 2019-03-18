@@ -1,7 +1,7 @@
 create table positions(
     position_id int(11) not null auto_increment primary key,
     person varchar(40) not null,
-    organization varchar(200) not null,
+    organization varchar(200),
 
     # The title is whatever the organization decides to call it, and
     # is not normalized.  For a more normalized take on the kind of

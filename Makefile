@@ -6,6 +6,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists organizations"
 	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists products"
 	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists product_creators"
+	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists organization_documents"
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions-schema.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/people.sql
@@ -29,6 +30,8 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/lw2-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/ought-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/cfar-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/organization_documents.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/miri-org-docs.sql
 
 access-portal/head_date.txt:
 	git log -1 --format="%ad" --date=format:"%Y-%m-%d" > "$@"
