@@ -142,4 +142,69 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI safety', /* cause_area */
         'A list of course and textbook recommendations for background material related to AI safety.' /* notes */
     )
+    ,(
+        'https://www.quora.com/What-is-it-like-to-do-contract-work-for-MIRI/answer/Vipul-Naik', /* url */
+        'Answer to What is it like to do contract work for MIRI?', /* title */
+        '2014-08-13', /* publication_date */
+        NULL, /* modified_date */
+        'Vipul Naik', /* author */
+        'Quora', /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        NULL, /* document_scope */
+        'AI safety', /* cause_area */
+        'A review of doing contract work at MIRI (on distribution of computation and forecasting).' /* notes */
+    )
+    ,(
+        'https://vipulnaik.com/miri/', /* url */
+        'Machine Intelligence Research Institute (MIRI)', /* title */
+        '2014-03-01', /* publication_date */
+        '2016-08-27', /* modified_date */
+        'Vipul Naik', /* author */
+        'Vipul Naik', /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        NULL, /* document_scope */
+        'AI safety', /* cause_area */
+        'Basic facts and timeline of Naik’s contract work at MIRI.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/jHteJiLpqZ4jDwThf/let-s-conduct-a-survey-on-the-quality-of-miri-s#6msikEDFTchrtxL4H', /* url */
+        'Comment on Let’s conduct a survey on the quality of MIRI’s implementation', /* title */
+        '2016-02-19', /* publication_date */
+        NULL, /* modified_date */
+        'Nate Soares', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Machine Intelligence Research Institute|Open Philanthropy Project', /* affected_organizations */
+        'Daniel Dewey', /* affected_people */
+        NULL, /* document_scope */
+        'AI safety', /* cause_area */
+        'Soares responds to a blog post calling for an evaluation of MIRI’s research output and strategy. Soares mentions an ongoing investigation by Open Philanthropy Project, as well as plans for “an independent evaluation of our organizational efficacy”.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/GA7ytcMeRQe5b27ge/ask-miri-anything-ama#wvq3rTkpq632pzGkF', /* url */
+        'Comment on Ask MIRI Anything (AMA)', /* title */
+        '2016-10-12', /* publication_date */
+        NULL, /* modified_date */
+        'Malo Bourgon', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        NULL, /* document_scope */
+        'AI safety', /* cause_area */
+        'Bourgon (Chief Operating Officer at MIRI) answers a question regarding number of hours worked by MIRI staff per week. Bourgon writes that “the average and median are pretty close at somewhere between 40–50 hours a week depending on the month. During crunch times some people might be working 60–100-hour weeks.” However, he notes that the amount of work that gets done and how people are feeling are more important than number of hours worked.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/GA7ytcMeRQe5b27ge/ask-miri-anything-ama#TYmE94YthSeKda6gr', /* url */
+        'Comment on Ask MIRI Anything (AMA)', /* title */
+        '2016-10-12', /* publication_date */
+        NULL, /* modified_date */
+        'Rob Bensinger', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        NULL, /* document_scope */
+        'AI safety', /* cause_area */
+        'Bensinger writes that MIRI is hoping to double the size of its research team over the next year or two.' /* notes */
+    )
 ;
