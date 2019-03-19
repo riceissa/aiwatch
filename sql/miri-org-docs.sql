@@ -62,7 +62,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* affected_people */
         NULL, /* document_scope */
         'AI safety', /* cause_area */
-        'Bensinger notes some updates that have been made to MIRI’s research guide (which was first published in 2015).' /* notes */
+        'Bensinger notes some updates that have been made to MIRI’s research guide (which was first published in 2014).' /* notes */
     )
     ,(
         'http://lesswrong.com/lw/mxj/working_at_miri_an_interview_with_malo_bourgon/', /* url */
@@ -102,5 +102,44 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* document_scope */
         'AI safety', /* cause_area */
         'Graves (who does recruiting work at MIRI) gives his personal opinion on way to get involved in AI safety.' /* notes */
+    )
+    ,(
+        'https://www.lesswrong.com/posts/WqDGJNtxNMT8fHe37/help-fund-lukeprog-at-siai', /* url */
+        'Help Fund Lukeprog at SIAI', /* title */
+        '2011-08-24', /* publication_date */
+        NULL, /* modified_date */
+        'Eliezer Yudkowsky', /* author */
+        'LessWrong', /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        NULL, /* document_scope */
+        'AI safety', /* cause_area */
+        'A call for donations specifically so MIRI can hire Luke Muehlhauser.' /* notes */
+    )
+    ,(
+        'https://www.lesswrong.com/posts/6vXArgf9NsYxRYkpS/miri-research-guide', /* url */
+        'MIRI Research Guide', /* title */
+        '2014-11-07', /* publication_date */
+        NULL, /* modified_date */
+        'Nate Soares', /* author */
+        'LessWrong', /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        NULL, /* document_scope */
+        'AI safety', /* cause_area */
+        'Blog post announcing the publication of a new research guide to help people become involved in MIRI’s AI safety research.' /* notes */
+    )
+    ,(
+        'https://www.lesswrong.com/posts/snzFQJsNYqzPZS2nK/course-recommendations-for-friendliness-researchers', /* url */
+        'Course recommendations for Friendliness researchers', /* title */
+        '2013-01-09', /* publication_date */
+        NULL, /* modified_date */
+        'Louie Helm', /* author */
+        'LessWrong', /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        NULL, /* document_scope */
+        'AI safety', /* cause_area */
+        'A list of course and textbook recommendations for background material related to AI safety.' /* notes */
     )
 ;

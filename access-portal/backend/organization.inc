@@ -472,7 +472,7 @@ $creators = linkedCreators($mysqli,
 
 <h2 id="organization-documents">Organization documents</h2>
 <?php
-  $query = "select * from organization_documents where affected_organizations regexp ?";
+  $query = "select * from organization_documents where affected_organizations regexp ? order by publication_date desc";
   if ($stmt = $mysqli->prepare($query)) {
     $stmt->bind_param("s", $organization);
     $stmt->execute();
