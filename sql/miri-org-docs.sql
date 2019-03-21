@@ -207,4 +207,43 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI safety', /* cause_area */
         'Bensinger writes that MIRI is hoping to double the size of its research team over the next year or two.' /* notes */
     )
+    ,(
+        'https://forum.effectivealtruism.org/posts/GA7ytcMeRQe5b27ge/ask-miri-anything-ama#v3o6bdaiT6xdB5EEn', /* url */
+        'Comment on Ask MIRI Anything (AMA)', /* title */
+        '2016-10-12', /* publication_date */
+        NULL, /* modified_date */
+        'Nate Soares', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        NULL, /* document_scope */
+        'AI safety', /* cause_area */
+        'In response to a question, Soares writes that MIRI has decided against hiriting senior math people in a supervisor role, and also writes that MIRI is bottlenecked on technical writing ability.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/GA7ytcMeRQe5b27ge/ask-miri-anything-ama#pY5CWCmmSvwHXTun7', /* url */
+        'Comment on Ask MIRI Anything (AMA)', /* title */
+        '2016-10-12', /* publication_date */
+        NULL, /* modified_date */
+        'Malo Bourgon', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        NULL, /* document_scope */
+        'AI safety', /* cause_area */
+        'Bourgon answers a question about the differences in what researchers spend their time doing in academia vs at MIRI. He writes that in academia, faculty have non-research responsibilities like grant writing, teaching, supervision, and sitting on councils, as well as publish-or-perish incentives, which are all things that researchers at MIRI don’t have. He also writes that the operations team at MIRI takes care of many “distractions” so that the research team can focus on doing research.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/GA7ytcMeRQe5b27ge/ask-miri-anything-ama#g67SHr9xAw9ZgrRNW', /* url */
+        'Comment on Ask MIRI Anything (AMA)', /* title */
+        '2016-10-12', /* publication_date */
+        NULL, /* modified_date */
+        'Malo Bourgon', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        NULL, /* document_scope */
+        'AI safety', /* cause_area */
+        'Bourgon answers a question about MIRI’s preferences for its next few hires. He writes that MIRI’s current focus is on expanding its research team.' /* notes */
+    )
 ;
