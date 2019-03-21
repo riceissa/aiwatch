@@ -246,4 +246,82 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI safety', /* cause_area */
         'Bourgon answers a question about MIRI’s preferences for its next few hires. He writes that MIRI’s current focus is on expanding its research team.' /* notes */
     )
+    ,(
+        'https://forum.effectivealtruism.org/posts/cuB3GApHqLFXG36C6/i-am-nate-soares-ama#Dc2ADm3MB4fswywMS', /* url */
+        'Comment on I am Nate Soares, AMA!', /* title */
+        '2015-06-11', /* publication_date */
+        NULL, /* modified_date */
+        'Nate Soares', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        NULL, /* document_scope */
+        'AI safety', /* cause_area */
+        'Soares gives a list of metrics that MIRI uses internally to measure its own success.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/cuB3GApHqLFXG36C6/i-am-nate-soares-ama#oaLtyJg9jbdvKvR2e', /* url */
+        'Comment on I am Nate Soares, AMA!', /* title */
+        '2015-06-11', /* publication_date */
+        NULL, /* modified_date */
+        'Nate Soares', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        NULL, /* document_scope */
+        'AI safety', /* cause_area */
+        'In response to a question, Soares writes that at the moment MIRI is talent-constrained, while noting that MIRI is taking steps to hire more researchers.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/cuB3GApHqLFXG36C6/i-am-nate-soares-ama#cFvct6HzMSp262Q6J', /* url */
+        'Comment on I am Nate Soares, AMA!', /* title */
+        '2015-06-11', /* publication_date */
+        NULL, /* modified_date */
+        'Nate Soares', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        NULL, /* document_scope */
+        'AI safety', /* cause_area */
+        'Soares notes that MIRI is going to hire a full-time office manager soon. He also writes that MIRI is looking for researchers who can write fast and well, and will look for “a person who can stay up to speed on the technical research but spend most of their time doing outreach and stewarding other researchers who are interested in doing AI alignment research”.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/cuB3GApHqLFXG36C6/i-am-nate-soares-ama#SDADFyMgj9Gr9rWwm', /* url */
+        'Comment on I am Nate Soares, AMA!', /* title */
+        '2015-06-11', /* publication_date */
+        NULL, /* modified_date */
+        'Nate Soares', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        NULL, /* document_scope */
+        'AI safety', /* cause_area */
+        'Soares responds to a software engineer about how to get involved.' /* notes */
+    )
+    ,(
+        'https://www.reddit.com/r/haskell/comments/als0g2/miri_is_looking_for_haskell_developers/', /* url */
+        'MIRI is looking for Haskell developers', /* title */
+        '2019-01-31', /* publication_date */
+        NULL, /* modified_date */
+        'theindigamer', /* author */
+        'Reddit', /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        NULL, /* document_scope */
+        'AI safety', /* cause_area */
+        'A post on r/haskell linking to a tweet by Eliezer Yudkowsky saying MIRI is “currently looking for Haskell programmers with a good cultural fit”.' /* notes */
+    )
+    ,(
+        'https://www.reddit.com/r/haskell/comments/a24hw7/miris_newest_recruit_edward_kmett/', /* url */
+        'MIRI’s newest recruit: Edward Kmett!', /* title */
+        '2018-12-01', /* publication_date */
+        NULL, /* modified_date */
+        'yiavin', /* author */
+        'Reddit', /* publisher */
+        'Machine Intelligence Research Institute|Ought', /* affected_organizations */
+        NULL, /* affected_people */
+        NULL, /* document_scope */
+        'AI safety', /* cause_area */
+        'A post on r/haskell about Edward Kmett joining MIRI, with comments from Kmett. In comments, Kmett says that “Nate Soares came out to Boston personally, and made a very compelling argument for me going off and doing the work I’d been trying to complete solely in my evening hours full time”. Kmett also says he has “helped ought.org find at least one developer”.' /* notes */
+    )
 ;
