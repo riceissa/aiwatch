@@ -324,4 +324,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI safety', /* cause_area */
         'A post on r/haskell about Edward Kmett joining MIRI, with comments from Kmett. In comments, Kmett says that “Nate Soares came out to Boston personally, and made a very compelling argument for me going off and doing the work I’d been trying to complete solely in my evening hours full time”. Kmett also says he has “helped ought.org find at least one developer”.' /* notes */
     )
+    ,(
+        'https://www.lesswrong.com/posts/PqMT9zGrNsGJNfiFR/alignment-research-field-guide', /* url */
+        'Alignment Research Field Guide', /* title */
+        '2019-03-08', /* publication_date */
+        NULL, /* modified_date */
+        'Abram Demski', /* author */
+        'LessWrong', /* publisher */
+        'Machine Intelligence Research Institute|Ought', /* affected_organizations */
+        NULL, /* affected_people */
+        NULL, /* document_scope */
+        'AI safety', /* cause_area */
+        'A guide for getting involved in AI alignment research, written with MIRIx groups (local groups that meet up to discuss MIRI’s work or make progress on AI alignment, with financial support from MIRI) in mind.' /* notes */
+    )
 ;
