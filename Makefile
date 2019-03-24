@@ -33,6 +33,8 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_documents.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/miri-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/open-phil-org-docs.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/cea-org-docs.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/cfar-org-docs.sql
 
 access-portal/head_date.txt:
 	git log -1 --format="%ad" --date=format:"%Y-%m-%d" > "$@"
