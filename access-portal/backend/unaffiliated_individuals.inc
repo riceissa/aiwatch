@@ -1,7 +1,13 @@
 <h2 id="individuals-not-affiliated-with-any-organization">Individuals
   not affiliated with any organization</h2>
 <?php
-  $query = "select person,website,urls from people where person not in (select distinct(person) from positions)";
+  if ($subdomain === "aiwatch") {
+    // On AI Watch, non-AI safety organization positions won't be displayed, so
+    // it is easier for a person to be unaffiliated.
+    $query = "select person,website,urls from people where person not in (select distinct(person) from positions where cause_area = 'AI safety')";
+  } else {
+    $query = "select person,website,urls from people where person not in (select distinct(person) from positions)";
+  }
   if ($stmt = $mysqli->prepare($query)) {
     $stmt->execute();
     $result = $stmt->get_result();
