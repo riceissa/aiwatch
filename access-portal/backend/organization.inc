@@ -119,7 +119,7 @@ while ($row = $result->fetch_assoc()) { ?>
       <td><?= implode(array_map("link_organization", $hosted_orgs)) ?></td>
     </tr>
   <?php } ?>
-  <?php if ($dlw = dlw_links_list($mysqli, $organization)) { ?>
+  <?php if ($dlw = dlw_links_list($mysqli, $organization, $subdomain)) { ?>
     <tr>
       <td>Donations List Website (data still preliminary)</td>
       <td><?= implode(", ", $dlw) ?></td>

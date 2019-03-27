@@ -75,9 +75,16 @@ function display_date(string $date, string $precision) {
 }
 
 
-function dlw_links_list($mysqli, $entity) {
+function dlw_links_list($mysqli, $entity, $subdomain) {
   $dlw = array();
-  if ($stmt = $mysqli->prepare("select * from donations.donations where substring_index(cause_area,'/',1) = 'AI safety' and donor = ? limit 1")) {
+  if ($subdomain === "aiwatch") {
+    $query = "select * from donations.donations where substring_index(cause_area,'/',1) = 'AI safety' and donor = ? limit 1";
+    $url = "https://donations.vipulnaik.com/donor.php?donor=%s&amp;cause_area_filter=AI+safety";
+  } else {
+    $query = "select * from donations.donations where donor = ? limit 1";
+    $url = "https://donations.vipulnaik.com/donor.php?donor=%s";
+  }
+  if ($stmt = $mysqli->prepare($query)) {
     $stmt->bind_param("s", $entity);
     $stmt->execute();
     $result = $stmt->get_result();
@@ -85,12 +92,19 @@ function dlw_links_list($mysqli, $entity) {
   while ($row = $result->fetch_assoc()) {
     $dlw[] = sprintf(
       '<a href="%s">%s</a>',
-      sprintf('https://donations.vipulnaik.com/donor.php?donor=%s&amp;cause_area_filter=AI+safety', urlencode($entity)),
+      sprintf($url, urlencode($entity)),
       "donor"
     );
   }
 
-  if ($stmt = $mysqli->prepare("select * from donations.donations where substring_index(cause_area,'/',1) = 'AI safety' and donee = ? limit 1")) {
+  if ($subdomain === "aiwatch") {
+    $query = "select * from donations.donations where substring_index(cause_area,'/',1) = 'AI safety' and donee = ? limit 1";
+    $url = "https://donations.vipulnaik.com/donee.php?donee=%s&amp;cause_area_filter=AI+safety";
+  } else {
+    $query = "select * from donations.donations where donee = ? limit 1";
+    $url = "https://donations.vipulnaik.com/donee.php?donee=%s";
+  }
+  if ($stmt = $mysqli->prepare($query)) {
     $stmt->bind_param("s", $entity);
     $stmt->execute();
     $result = $stmt->get_result();
@@ -98,7 +112,7 @@ function dlw_links_list($mysqli, $entity) {
   while ($row = $result->fetch_assoc()) {
     $dlw[] = sprintf(
       '<a href="%s">%s</a>',
-      sprintf('https://donations.vipulnaik.com/donee.php?donee=%s&amp;cause_area_filter=AI+safety', urlencode($entity)),
+      sprintf($url, urlencode($entity)),
       "donee"
     );
   }

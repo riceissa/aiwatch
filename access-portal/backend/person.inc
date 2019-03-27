@@ -80,7 +80,7 @@ while ($row = $result->fetch_assoc()) { ?>
 
 <?php } ?>
 
-  <?php if ($dlw = dlw_links_list($mysqli, $person)) { ?>
+  <?php if ($dlw = dlw_links_list($mysqli, $person, $subdomain)) { ?>
     <tr>
       <td>Donations List Website (data still preliminary)</td>
       <td><?= implode(", ", $dlw) ?></td>
