@@ -289,7 +289,7 @@ color for visited links.</p>
 
 <?php
     $staff_changes = array();
-    $query = "select start_date,person,title from positions where organization = ? and start_date is not null";
+    $query = "select start_date,person,title from positions where organization = ?";
     if ($subdomain === "aiwatch") {
       $query .= " and cause_area = 'AI safety'";
     }
