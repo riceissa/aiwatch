@@ -331,7 +331,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* modified_date */
         'Abram Demski', /* author */
         'LessWrong', /* publisher */
-        'Machine Intelligence Research Institute|Ought', /* affected_organizations */
+        'Machine Intelligence Research Institute', /* affected_organizations */
         NULL, /* affected_people */
         NULL, /* document_scope */
         'AI safety', /* cause_area */
