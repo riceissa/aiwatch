@@ -104,7 +104,7 @@ have been adding all the ones I could think of.</p>
 
 <p>So far, all of the development is done by Issa Rice.</p>
 
-<p>Funding is provided by <a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=AI+Watch&amp;matching=exact">Vipul Naik</a>.
+<p>Funding is provided by <a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=AI+Watch&amp;matching=exact">Vipul Naik</a> (see <a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=Org+Watch&amp;matching=exact">here</a> for the Org Watch funding).
   That page only covers task payment. The site is developed under work time for Vipul, which is funded by a stipend as well. The stipend payment for AI Watch can be calculated as a percentage of the total stipend depending on how much time I have spent working on this site. Development on Vipul’s time is limited to one day per week (for several more weeks). I will add a calculation here at some point.</p>
 
 <p>Finding people/positions to add to the site was an informal process.</p>
