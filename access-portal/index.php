@@ -50,9 +50,15 @@ if ($_REQUEST['person'] ?? '') {
   for the source code and data of this website.
 </p>
 
-<p>This website is developed by <a href="https://issarice.com">Issa Rice</a>
+<?php if ($subdomain === "aiwatch") { ?>
+  <p>This website is developed by <a href="https://issarice.com">Issa Rice</a>
   and has been partially
   <a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=AI+Watch&amp;matching=exact">funded by Vipul Naik</a>.</p>
+<?php } else { ?>
+  <p>This website is developed by <a href="https://issarice.com">Issa Rice</a>
+  and has been partially
+  <a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=Org+Watch&amp;matching=exact">funded by Vipul Naik</a>.</p>
+<?php } ?>
 
 <p><strong>If you like (or want to like) this website and have money:</strong> the current
 funder doesn't want to continue funding this project. As a result, it is
