@@ -1,4 +1,4 @@
-MYSQL_ARGS=
+]MYSQL_ARGS=
 
 read:
 	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists people"
@@ -38,7 +38,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/lesswrong-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/miri-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/open-phil-org-docs.sql
-
+	mysql $(MYSQL_ARGS) aiwatch < sql/sentience-institute-org-docs.sql
 access-portal/head_date.txt:
 	git log -1 --format="%ad" --date=format:"%Y-%m-%d" > "$@"
 
