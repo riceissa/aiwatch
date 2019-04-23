@@ -25,3 +25,4 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Animal welfare', /* cause_area */
         'Marc Gunther, a commentator on animal welfare activism and nonprofit activity, discusses the backstory and implications of the apology post https://forum.effectivealtruism.org/posts/8XdAvioKZjAnzbogf/apology of animal activist Jacy Reese. He includes more discussion of the role of the Center for Effective Altruism, and links to the Google Doc https://docs.google.com/document/d/1MvaSxjrCN7bAU_l07XrADO3OBMA2VkNtwmU7J22k18I/edit?usp=sharing with answers by Kelly Witwicki providing background. Witwicki works with Reese at the Sentience Institute and is also engaged to Reese' /* notes */
     )
+;
