@@ -1,4 +1,4 @@
-]MYSQL_ARGS=
+MYSQL_ARGS=
 
 read:
 	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists people"
