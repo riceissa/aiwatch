@@ -8,7 +8,7 @@ create table organization_documents (
   publisher varchar(40),
   affected_organizations varchar(1000),
   affected_people varchar(1000),
-  document_scope enum('Job application experience', 'Hiring-related notice', 'Successful hire', 'Employee departure', 'Job experience', 'Job market commentary'),
+  document_scope enum('Job application experience', 'Hiring-related notice', 'Successful hire', 'Employee departure', 'Job experience', 'Job market commentary', 'HR controversy', 'Organizational growth introspection'),
   cause_area varchar(200),
   notes varchar(2000),
   unique key url(`url`)

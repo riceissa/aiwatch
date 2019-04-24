@@ -26,6 +26,19 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Ben Kuhn describes his experience working at GiveWell for four weeks. He describes his main takeaways as: be more skeptical, public health is really hard, GiveWell takes a broader view than he previously thought, things depends ridiculously on the details, and research is harder than he thought' /* notes */
     )
     ,(
+        'http://web.archive.org/web/20150224003340/http://thebestwecan.org/2014/08/18/a-summer-on-the-bay-reflections-on-working-at-givewell-animal-rights-and-the-ea-community/', /* url */
+        'A Summer on the Bay: Reflections on Working at GiveWell, Animal Rights, and the EA Community', /* title */
+        '2014-08-18', /* publication_date */
+        '2015-01-12', /* modified_date */
+        'Jacy Reese', /* author */
+        NULL, /* publisher */
+        'GiveWell', /* affected_organizations */
+        'Jacy Reese', /* affected_people */
+        'Job experience', /* document_scope */
+        'Charity evaluator', /* cause_area */
+        'On his personal blog, Jacy Reese describes his experience working at GiveWell in the summer of 2014. He says he thoroughly enjoyed his time, and felt the employees epitomize effective altruist virtues of altruism and critical thinking, as applied not just to charities and causes but also topics like contemporary political issues and nutrition. He describes GiveWell''s investigative process as a "unique combination of qualitative and quantitative reasoning" and says that, after joining GiveWell, he shifted to viewing GiveWell as a pilot study of strategic philanthropy. He says: "By first investigating a cause with relatively large amounts of academic and rigorous data available, GiveWell could invest in procedural information before venturing into less easily quantified causes. This new understanding partially eased my concerns, but I still fear GiveWell’s investigative process overemphasizes measurability — even in GiveWell Labs — but I am optimistic about the future of their investigations, particularly in the causes of global catastrophic risks and animal agriculture."' /* notes */
+    )
+    ,(
         'https://80000hours.org/2016/08/reflections-from-a-givewell-employee/', /* url */
         'Should you work at GiveWell? Reflections from a recent employee.', /* title */
         '2016-08-15', /* publication_date */
@@ -64,4 +77,82 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Charity evaluator', /* cause_area */
         'James Snowden, a research consultant at GiveWell, explains why he started working with GiveWell, describes why he thinks it is a great place to work at, and adds notes on GiveWell''s job application process. His reasons for GiveWell being a great place to work at are: the work helps people a lot, the work is intellectually stimulating, the work was something he was suited for (though this may not apply to others), the co-workers were excellent (both competent and thoughtful), and he was able to manage working remotely. The post was solicited by GiveWell in an effort to help GiveWell with its team expansion efforts' /* notes */
     )
- ;
+    ,(
+        'https://confusopoly.com/2019/04/03/the-optimizers-curse-wrong-way-reductions/', /* url */
+        'The Optimizer’s Curse & Wrong-Way Reductions', /* title */
+        '2019-04-03', /* publication_date */
+        NULL, /* modified_date */
+        'Christian Smith', /* author */
+        NULL, /* publisher */
+        'GiveWell', /* affected_organizations */
+        'Christian Smith', /* affected_people */
+        'Job experience', /* document_scope */
+        'Charity evaluator', /* cause_area */
+        'Christian Smith draws on his experience working at GiveWell for two and a half years, much of the time spent as the point person on GiveWell''s cost-effectiveness analyses. Using this experience, he points out serious problems with modeling and picking the best causes or interventions in the face of huge uncertainty' /* notes */
+    )
+    ,(
+        'https://blog.givewell.org/2013/02/20/givewell-is-hiring/', /* url */
+        'GiveWell is hiring', /* title */
+        '2013-02-20', /* publication_date */
+        '2013-02-20', /* modified_date */
+        'Elie Hassenfeld', /* author */
+        'GiveWell', /* publisher */
+        'GiveWell', /* affected_organizations */
+        NULL, /* affected_people */
+        'Hiring-related notice', /* document_scope */
+        'Charity evaluator', /* cause_area */
+        'Elie Hassenfeld announces that GiveWell is looking for outstanding people to join its team, specifically the Resaerch Analyst and Research Associate positions. He says that GiveWell is hiring for both full-time positions and paid summer internships' /* notes */
+    )
+    ,(
+        'https://blog.givewell.org/2013/08/29/we-cant-simply-buy-capacity/', /* url */
+        'We can’t (simply) buy capacity', /* title */
+        '2013-08-29', /* publication_date */
+        '2016-07-25', /* modified_date */
+        'Holden Karnofsky', /* author */
+        'GiveWell', /* publisher */
+        'GiveWell', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organizational growth introspection', /* document_scope */
+        'Charity evaluator', /* cause_area */
+        'Holden Karnofsky explains why, even though GiveWell is capacity-constrained, and needs to hire more people, they cannot easily and quicky scale capacity up. Some of his points: (1) employees need to be trained, evaluated and managed, (2) Predicting employee fit is difficult, (3) Hiring involves long-term decisions, and poor predictions can be costly, (4) GiveWell''s experience has moved them toward a view of hiring that involves training people to have the same understanding of the work as the existing GiveWell staff do, rather than hiring to have people to do assigned work' /* notes */
+    )
+    ,(
+        'https://blog.givewell.org/2014/03/12/givewell-is-hiring-2/', /* url */
+        'GiveWell is hiring', /* title */
+        '2014-03-12', /* publication_date */
+        NULL, /* modified_date */
+        'Elie Hassenfeld', /* author */
+        'GiveWell', /* publisher */
+        'GiveWell', /* affected_organizations */
+        NULL, /* affected_people */
+        'Hiring-related notice', /* document_scope */
+        'Charity evaluator', /* cause_area */
+        'Elie Hassenfeld announces that GiveWell is hiring because they believe they are capacity-constrained. He announces open positions for Research Analyst, Summer Research Analyst, Administrative Assistant, and Conversation Notes Writer' /* notes */
+    )
+    ,(
+        'https://blog.givewell.org/2015/02/05/givewell-is-hiring-3/', /* url */
+        'GiveWell is hiring', /* title */
+        '2015-02-05', /* publication_date */
+        NULL, /* modified_date */
+        'Sean Conley', /* author */
+        'GiveWell', /* publisher */
+        'GiveWell', /* affected_organizations */
+        NULL, /* affected_people */
+        'Hiring-related notice', /* document_scope */
+        'Charity evaluator', /* cause_area */
+        'Sean Conley announces that GiveWell is resuming its hiring operations. He announces open positions with titles Research Analyst, Summer Research Analyst, Outreach Associate, and Conversation Notes Writer' /* notes */
+    )
+    ,(
+        'https://blog.givewell.org/2018/01/25/givewell-hiring-4/', /* url */
+        'GiveWell is hiring!', /* title */
+        '2018-01-25', /* publication_date */
+        NULL, /* modified_date */
+        'Elie Hassenfeld', /* author */
+        'GiveWell', /* publisher */
+        'GiveWell', /* affected_organizations */
+        NULL, /* affected_people */
+        'Hiring-related notice', /* document_scope */
+        'Charity evaluator', /* cause_area */
+        'Elie Hassenfeld announces that GiveWell is hiring for a number of positions. Positions listed include Director of Operations, Head of Growth, Research Analyst, Senior Research Analyst, and Summer Research Analyst' /* notes */
+    )
+;
