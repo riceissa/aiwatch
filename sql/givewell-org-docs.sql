@@ -90,4 +90,69 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Charity evaluator', /* cause_area */
         'Christian Smith draws on his experience working at GiveWell for two and a half years, much of the time spent as the point person on GiveWell''s cost-effectiveness analyses. Using this experience, he points out serious problems with modeling and picking the best causes or interventions in the face of huge uncertainty' /* notes */
     )
- ;
+    ,(
+        'https://blog.givewell.org/2013/02/20/givewell-is-hiring/', /* url */
+        'GiveWell is hiring', /* title */
+        '2013-02-20', /* publication_date */
+        '2013-02-20', /* modified_date */
+        'Elie Hassenfeld', /* author */
+        'GiveWell', /* publisher */
+        'GiveWell', /* affected_organizations */
+        NULL, /* affected_people */
+        'Hiring-related notice', /* document_scope */
+        'Charity evaluator', /* cause_area */
+        'Elie Hassenfeld announces that GiveWell is looking for outstanding people to join its team, specifically the Resaerch Analyst and Research Associate positions. He says that GiveWell is hiring for both full-time positions and paid summer internships' /* notes */
+    )
+    ,(
+        'https://blog.givewell.org/2013/08/29/we-cant-simply-buy-capacity/', /* url */
+        'We can’t (simply) buy capacity', /* title */
+        '2013-08-29', /* publication_date */
+        '2016-07-25', /* modified_date */
+        'Holden Karnofsky', /* author */
+        'GiveWell', /* publisher */
+        'GiveWell', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organizational growth introspection', /* document_scope */
+        'Charity evaluator', /* cause_area */
+        'Holden Karnofsky explains why, even though GiveWell is capacity-constrained, and needs to hire more people, they cannot easily and quicky scale capacity up. Some of his points: (1) employees need to be trained, evaluated and managed, (2) Predicting employee fit is difficult, (3) Hiring involves long-term decisions, and poor predictions can be costly, (4) GiveWell''s experience has moved them toward a view of hiring that involves training people to have the same understanding of the work as the existing GiveWell staff do, rather than hiring to have people to do assigned work' /* notes */
+    )
+    ,(
+        'https://blog.givewell.org/2014/03/12/givewell-is-hiring-2/', /* url */
+        'GiveWell is hiring', /* title */
+        '2014-03-12', /* publication_date */
+        NULL, /* modified_date */
+        'Elie Hassenfeld', /* author */
+        'GiveWell', /* publisher */
+        'GiveWell', /* affected_organizations */
+        NULL, /* affected_people */
+        'Hiring-related notice', /* document_scope */
+        'Charity evaluator', /* cause_area */
+        'Elie Hassenfeld announces that GiveWell is hiring because they believe they are capacity-constrained. He announces open positions for Research Analyst, Summer Research Analyst, Administrative Assistant, and Conversation Notes Writer' /* notes */
+    )
+    ,(
+        'https://blog.givewell.org/2015/02/05/givewell-is-hiring-3/', /* url */
+        'GiveWell is hiring', /* title */
+        '2015-02-05', /* publication_date */
+        NULL, /* modified_date */
+        'Sean Conley', /* author */
+        'GiveWell', /* publisher */
+        'GiveWell', /* affected_organizations */
+        NULL, /* affected_people */
+        'Hiring-related notice', /* document_scope */
+        'Charity evaluator', /* cause_area */
+        'Sean Conley announces that GiveWell is resuming its hiring operations. He announces open positions with titles Research Analyst, Summer Research Analyst, Outreach Associate, and Conversation Notes Writer' /* notes */
+    )
+    ,(
+        'https://blog.givewell.org/2018/01/25/givewell-hiring-4/', /* url */
+        'GiveWell is hiring!', /* title */
+        '2018-01-25', /* publication_date */
+        NULL, /* modified_date */
+        'Elie Hassenfeld', /* author */
+        'GiveWell', /* publisher */
+        'GiveWell', /* affected_organizations */
+        NULL, /* affected_people */
+        'Hiring-related notice', /* document_scope */
+        'Charity evaluator', /* cause_area */
+        'Elie Hassenfeld announces that GiveWell is hiring for a number of positions. Positions listed include Director of Operations, Head of Growth, Research Analyst, Senior Research Analyst, and Summer Research Analyst' /* notes */
+    )
+;
