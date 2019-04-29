@@ -817,7 +817,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Sören Mindermann','Future of Humanity Institute',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1712.05812.pdf',NULL,'position','technical research',NULL,'AI safety')
     ,('Angela P.', NULL, 'Executive Assistant', '2018-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/angela-p-3949325a/', NULL, 'position', NULL, NULL, 'AI safety')
     ,(
-        'Oliver Habryka', /* person */,
+        'Oliver Habryka', /* person */
         'Machine Intelligence Research Institute', /* organization */
         'Volunteer', /* title */
         NULL, /* start_date */
