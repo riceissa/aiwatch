@@ -816,4 +816,19 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Alex Zhu','Machine Intelligence Research Institute','Intern','2018-06-01','year','2018-09-01','year','https://intelligence.org/workshops/#july-2018',NULL,'position','technical research','intern','AI safety')
     ,('Sören Mindermann','Future of Humanity Institute',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1712.05812.pdf',NULL,'position','technical research',NULL,'AI safety')
     ,('Angela P.', NULL, 'Executive Assistant', '2018-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/angela-p-3949325a/', NULL, 'position', NULL, NULL, 'AI safety')
+    ,(
+        'Oliver Habryka', /* person */,
+        'Machine Intelligence Research Institute', /* organization */
+        'Volunteer', /* title */
+        NULL, /* start_date */
+        NULL, /* start_date_precision */
+        NULL, /* end_date */
+        NULL, /* end_date_precision */
+        'https://intelligence.org/2013/07/11/july-newsletter/', /* urls */
+        'Mentioned as a featured volunteer in MIRI’s newsletter as someone who proofreads MIRI’s work.', /* notes */
+        'position', /* ai_safety_relation */
+        NULL, /* subject */
+        'volunteer', /* employment_type */
+        'AI safety' /* cause_area */
+    )
 ;
