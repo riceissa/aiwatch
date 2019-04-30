@@ -49,3 +49,10 @@ if ($person1 && $person2) {
   include_once("backend/intersect_organizations.inc");
 }
 ?>
+
+<script>
+    $(function(){$("table").tablesorter();});
+    anchors.add();
+</script>
+</body>
+</html>
