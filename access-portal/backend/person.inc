@@ -98,7 +98,14 @@ while ($row = $result->fetch_assoc()) { ?>
   </tbody>
 </table>
 
-<h2>List of positions</h2>
+<?php
+if ($stmt = $mysqli->prepare("select * from positions where person = ?")) {
+  $stmt->bind_param("s", $person);
+  $stmt->execute();
+  $result = $stmt->get_result();
+}
+?>
+<h2>List of positions (<?= $result->num_rows ?> <?= $result->num_rows == 1 ? "position" : "positions" ?>)</h2>
 
 <table>
   <thead>
@@ -118,13 +125,8 @@ while ($row = $result->fetch_assoc()) { ?>
   </thead>
   <tbody>
 
-<?php
-if ($stmt = $mysqli->prepare("select * from positions where person = ?")) {
-  $stmt->bind_param("s", $person);
-  $stmt->execute();
-  $result = $stmt->get_result();
-}
 
+<?php
 while ($row = $result->fetch_assoc()) {
 ?>
   <tr>
@@ -147,7 +149,6 @@ while ($row = $result->fetch_assoc()) {
   </tbody>
 </table>
 
-<h2 id="products">Products</h2>
 <?php
     $creators = linkedCreators($mysqli,
         "select * from product_creators where product in (select product from product_creators where name = ?) and name != ?",
@@ -160,6 +161,7 @@ while ($row = $result->fetch_assoc()) {
     $result = $stmt->get_result();
   }
 ?>
+<h2 id="products">Products (<?= $result->num_rows ?> <?= $result->num_rows == 1 ? "product" : "products" ?>)</h2>
 
 <table>
   <thead>
@@ -182,8 +184,6 @@ while ($row = $result->fetch_assoc()) {
   </tbody>
 </table>
 
-<h2 id="organization-documents">Organization documents</h2>
-
 <?php
   $query = "select * from organization_documents where author = ? or affected_people regexp ? order by publication_date desc";
   if ($stmt = $mysqli->prepare($query)) {
@@ -192,6 +192,8 @@ while ($row = $result->fetch_assoc()) {
     $result = $stmt->get_result();
   }
 ?>
+
+<h2 id="organization-documents">Organization documents (<?= $result->num_rows ?> <?= $result->num_rows == 1 ? "document" : "documents" ?>)</h2>
 
 <table>
   <thead>
