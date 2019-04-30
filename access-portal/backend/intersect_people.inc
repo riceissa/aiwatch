@@ -53,7 +53,9 @@
               if (! $first) {
                 echo "; ";
               }
-              echo $row['title'] . " (" . $row["start_date"] . "–" . $row['end_date'] . ")";
+              echo $row['title'] . " ("
+                . display_date($row["start_date"] ?? '', $row['start_date_precision'] ??'')
+                . "–" . display_date($row['end_date'] ?? '', $row['end_date_precision'] ?? '') . ")";
               $first = false;
             }
           } ?>
@@ -65,7 +67,9 @@
               if (! $first) {
                 echo "; ";
               }
-              echo $row['title'] . " (" . $row["start_date"] . "–" . $row['end_date'] . ")";
+              echo $row['title'] . " ("
+                . display_date($row["start_date"] ?? '', $row['start_date_precision'] ??'')
+                . "–" . display_date($row['end_date'] ?? '', $row['end_date_precision'] ?? '') . ")";
               $first = false;
             }
           } ?>
