@@ -5,6 +5,14 @@ $seen = array();
 
 <h1>Information for <?= htmlspecialchars($person) ?></h1>
 
+<h2>Table of contents</h2>
+<ul>
+  <li><a href="basic-information">Basic information</a></li>
+  <li><a href="list-of-positions">List of positions</a></li>
+  <li><a href="products">Products</a></li>
+  <li><a href="organization-documents">Organization documents</a></li>
+</ul>
+
 <h2>Basic information</h2>
 
 <table>
