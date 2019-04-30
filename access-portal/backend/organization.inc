@@ -7,13 +7,13 @@ $seen = array();
 
 <h2>Table of contents</h2>
 <ul>
-  <li><a href="basic-information">Basic information</a></li>
-  <li><a href="staff-count-by-year">Staff count by year</a></li>
-  <li><a href="number-of-full-time-staff-at-the-beginning-each-year">Number of full-time staff at the beginning each year</a></li>
-  <li><a href="full-history-of-additions-and-subtractions">Full history of additions and subtractions</a></li>
-  <li><a href="list-of-people">List of people</a></li>
-  <li><a href="products">Products</a></li>
-  <li><a href="organization-documents">Organization documents</a></li>
+  <li><a href="#basic-information">Basic information</a></li>
+  <li><a href="#staff-count-by-year">Staff count by year</a></li>
+  <li><a href="#number-of-full-time-staff-at-the-beginning-each-year">Number of full-time staff at the beginning each year</a></li>
+  <li><a href="#full-history-of-additions-and-subtractions">Full history of additions and subtractions</a></li>
+  <li><a href="#list-of-people">List of people</a></li>
+  <li><a href="#products">Products</a></li>
+  <li><a href="#organization-documents">Organization documents</a></li>
 </ul>
 
 
