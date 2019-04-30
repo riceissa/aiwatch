@@ -398,7 +398,18 @@ color for visited links.</p>
   </tbody>
 </table>
 
-<h2>List of people</h2>
+<?php
+$query = "select * from positions where organization = ?";
+if ($subdomain === "aiwatch") {
+  $query .= " and cause_area = 'AI safety'";
+}
+if ($stmt = $mysqli->prepare($query)) {
+  $stmt->bind_param("s", $organization);
+  $stmt->execute();
+  $result = $stmt->get_result();
+}
+?>
+<h2>List of people (<?= $result->num_rows ?> <?= $result->num_rows == 1 ? "position" : "positions" ?>)</h2>
 
 <table>
   <thead>
@@ -415,17 +426,8 @@ color for visited links.</p>
     </tr>
   </thead>
   <tbody>
-<?php
-$query = "select * from positions where organization = ?";
-if ($subdomain === "aiwatch") {
-  $query .= " and cause_area = 'AI safety'";
-}
-if ($stmt = $mysqli->prepare($query)) {
-  $stmt->bind_param("s", $organization);
-  $stmt->execute();
-  $result = $stmt->get_result();
-}
 
+<?php
 while ($row = $result->fetch_assoc()) {
 ?>
   <tr>
@@ -447,7 +449,6 @@ while ($row = $result->fetch_assoc()) {
   </tbody>
 </table>
 
-<h2 id="products">Products</h2>
 <?php
 $creators = linkedCreators($mysqli,
     "select * from product_creators where product in (select product from product_creators where name = ?) and name != ?",
@@ -460,6 +461,7 @@ $creators = linkedCreators($mysqli,
     $result = $stmt->get_result();
   }
 ?>
+<h2 id="products">Products (<?= $result->num_rows ?> <?= $result->num_rows == 1 ? "product" : "products" ?>)</h2>
 
 <table>
   <thead>
@@ -482,7 +484,6 @@ $creators = linkedCreators($mysqli,
   </tbody>
 </table>
 
-<h2 id="organization-documents">Organization documents</h2>
 <?php
   $query = "select * from organization_documents where affected_organizations regexp ? order by publication_date desc";
   if ($stmt = $mysqli->prepare($query)) {
@@ -491,6 +492,7 @@ $creators = linkedCreators($mysqli,
     $result = $stmt->get_result();
   }
 ?>
+<h2 id="organization-documents">Organization documents (<?= $result->num_rows ?> <?= $result->num_rows == 1 ? "document" : "documents" ?>)</h2>
 
 <table>
   <thead>
