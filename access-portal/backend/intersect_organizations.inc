@@ -2,7 +2,7 @@
 
 <h2>Table of contents</h2>
 <ul>
-  <li><a href="#common-organizations">Common people</a></li>
+  <li><a href="#common-people">Common people</a></li>
   <li><a href="#organization-documents">Organization documents</a></li>
 </ul>
 
