@@ -319,7 +319,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'yiavin', /* author */
         'Reddit', /* publisher */
         'Machine Intelligence Research Institute|Ought', /* affected_organizations */
-        NULL, /* affected_people */
+        'Edward Kmett|Nate Soares', /* affected_people */
         NULL, /* document_scope */
         'AI safety', /* cause_area */
         'A post on r/haskell about Edward Kmett joining MIRI, with comments from Kmett. In comments, Kmett says that “Nate Soares came out to Boston personally, and made a very compelling argument for me going off and doing the work I’d been trying to complete solely in my evening hours full time”. Kmett also says he has “helped ought.org find at least one developer”.' /* notes */
