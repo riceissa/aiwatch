@@ -9,7 +9,7 @@ create table agendas (
   goals varchar(2000),
   ai_timelines_assumptions varchar(2000),
   nature_of_intelligence_assumptions varchar(2000),
-  other_assumptions varchar(2000),
+  other_assumptions varchar(2000)
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into agendas(name, associated_people, associated_organizations, start_date, start_date_precision, overview, goals, ai_timelines_assumptions, nature_of_intelligence_assumptions, other_assumptions) values

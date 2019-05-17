@@ -35,6 +35,8 @@ if ($_REQUEST['person'] ?? '') {
   include("backend/person.inc");
 } else if ($_REQUEST['organization'] ?? '') {
   include("backend/organization.inc");
+} else if ($_REQUEST['agenda'] ?? '') {
+  include("backend/agenda.inc");
 } else {
   $isFiltered = ($_REQUEST['subject'] ?? '') || ($_REQUEST['relation'] ?? '');
 ?>
