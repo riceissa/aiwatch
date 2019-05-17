@@ -7,7 +7,7 @@ create table documents(
     modified_date date,
     modified_date_precision enum('day','month','year','multi-year'),
     author varchar(200),
-    document_type enum('blog post','wiki page','paper'),
+    document_type enum('blog post','wiki page','paper','interview'),
     affected_organizations varchar(1000),
     affected_people varchar(2000),
     affected_agendas varchar(1000),
