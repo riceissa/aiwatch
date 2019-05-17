@@ -15,13 +15,23 @@ create table agendas (
 insert into agendas(name, associated_people, associated_organizations, start_date, start_date_precision, overview, goals, ai_timelines_assumptions, nature_of_intelligence_assumptions, other_assumptions) values
   (
     'Iterated amplification', /* name */
-    'Paul Christiano', /* associated_people */
+    'Paul Christiano|Buck Shlegeris|Dario Amodei', /* associated_people */
     'OpenAI', /* associated_organizations */
     NULL, /* start_date */
     NULL, /* start_date_precision */
-    /* overview */
-    /* goals */
-    /* ai_timelines_assumptions */
-    /* nature_of_intelligence_assumptions */
-    /* other_assumptions */
+    '<p>Iterated amplification (also called iterated distillation and amplification) aims to build a powerful aligned AGI by repeatedly invoking two steps: (1) amplification and (2) distillation.</p>
+    <ol>
+      <li>In the amplification step, a human uses multiple copies of an AGI assistant (who starts out not being very capable) to accomplish some task. The hope is that the combined system of the human with multiple copies of the AGI will be more capable than the human or AGI alone, since the human will be able to delegate tasks to the AGI. This is similar to how a CEO of a company can accomplish much more by hiring and delegating to employees, even if each employee is less capable than the CEO. The combined system of the human with multiple copies of the AGI is called the “amplified system”.</li>
+      <li>In the distillation step, an AI is trained using narrow methods (such as imitation learning) to replicate the behavior of the amplified system. The hope is that this “distilled” system will be just as capable as the amplified system while being much less computationally expensive. The distilled system is also supposed to remain aligned (because it was trained using narrow methods). In the next round of amplification/distillation, this distilled system becomes the new AGI assistant.</li>
+    </ol>', /* overview */
+    '<p>Iterated amplification intends to build powerful AGI assistants that try to help humans.</p>
+    <p>The agenda does not intend to solve all problems, e.g. it doesn’t aim to solve philosophy (although to the extent that humans solving these problems, the AGI assistant would be able to help with them). See <a href="https://www.lesswrong.com/posts/Djs38EWYZG8o7JMWY/paul-s-research-agenda-faq#0__Goals_and_non_goals">“Paul’s research agenda FAQ” § Goals and non-goals</a> for more information.</p>', /* goals */
+    '<p>No particular assumptions about AI timelines, as far as I know.</p>', /* ai_timelines_assumptions */
+    '<p>Iterated amplification is intended to be able to deal with the case of <a href="https://www.lesswrong.com/posts/YTq4X6inEudiHkHDF/prosaic-ai-alignment">prosaic AGI</a>, i.e. the case where humanity is able to build AGI without learning anything fundamentally new about the nature of intelligence. In other words, iterated amplification works to align scaled-up version of current machine learning systems.</p>', /* nature_of_intelligence_assumptions */
+    '<p>Iterated amplification has some “<a href="https://www.lesswrong.com/posts/HCv2uwgDGf5dyX5y6/preface-to-the-sequence-on-iterated-amplification">key hopes</a>” it is based on:</p>
+    <ul>
+      <li>If one has an overseer who is smarter than the agent being trained, then it is possible to use the overseer’s judgment as an objective to train the agent.</li>
+      <li>It is possible to train a reinforcement learning system using very sparse feedback (so it is fine for the overseer to be computationally expensive).</li>
+      <li>A team of aligned agents will be smarter/more capable than any individual agent while remaining aligned.</li>
+    </ul>' /* other_assumptions */
   )
