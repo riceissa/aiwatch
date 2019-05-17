@@ -83,6 +83,7 @@ improvements.</p>
 <ul>
   <?php if (!$isFiltered) { ?>
     <?php if ($subdomain === "aiwatch") { ?>
+      <li><a href="#agendas">Agendas</a></li>
       <li><a href="#ai-safety-relation-by-subject">AI safety relation by subject</a></li>
     <?php } ?>
     <li><a href="#positions-summary-by-year">Positions summary by year</a></li>

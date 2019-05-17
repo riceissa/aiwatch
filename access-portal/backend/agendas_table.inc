@@ -1,5 +1,6 @@
-<?php
+<h2 id="agendas">Agendas</h2>
 
+<?php
 if ($stmt = $mysqli->prepare("select * from agendas")) {
   $stmt->execute();
   $result = $stmt->get_result();
