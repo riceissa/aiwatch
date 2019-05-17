@@ -12,7 +12,8 @@ create table documents(
     affected_people varchar(2000),
     affected_agendas varchar(1000),
     publisher varchar(40),
-    notes varchar(2000)
+    notes varchar(2000),
+    unique key url(`url`)
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 
