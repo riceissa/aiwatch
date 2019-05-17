@@ -96,6 +96,12 @@ improvements.</p>
   <?php } ?>
 </ul>
 
+<?php
+if ($subdomain === "aiwatch") {
+  include("backend/agendas_table.inc");
+}
+?>
+
 <?php if (!$isFiltered) {
   if ($subdomain === "aiwatch") {
     include("backend/relation_by_subject.inc");

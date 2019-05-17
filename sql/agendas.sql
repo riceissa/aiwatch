@@ -35,3 +35,136 @@ insert into agendas(name, associated_people, associated_organizations, start_dat
       <li>A team of aligned agents will be smarter/more capable than any individual agent while remaining aligned.</li>
     </ul>' /* other_assumptions */
   )
+  ,(
+    'Embedded agency', /* name */
+    'Eliezer Yudkowsky|Scott Garrabrant|Abram Demski', /* associated_people */
+    'Machine Intelligence Research Institute', /* associated_organizations */
+    NULL, /* start_date */
+    NULL, /* start_date_precision */
+    '', /* overview */
+    '', /* goals */
+    '', /* ai_timelines_assumptions */
+    '', /* nature_of_intelligence_assumptions */
+    '' /* other_assumptions */
+  )
+  ,(
+    'Comprehensive AI services', /* name */
+    'Eric Drexler', /* associated_people */
+    'Future of Humanity Institute', /* associated_organizations */
+    NULL, /* start_date */
+    NULL, /* start_date_precision */
+    '', /* overview */
+    '', /* goals */
+    '', /* ai_timelines_assumptions */
+    '', /* nature_of_intelligence_assumptions */
+    '' /* other_assumptions */
+  )
+  ,(
+    'Ambitious value learning', /* name */
+    'Stuart Armstrong', /* associated_people */
+    'Future of Humanity Institute', /* associated_organizations */
+    NULL, /* start_date */
+    NULL, /* start_date_precision */
+    '', /* overview */
+    '', /* goals */
+    '', /* ai_timelines_assumptions */
+    '', /* nature_of_intelligence_assumptions */
+    '' /* other_assumptions */
+  )
+  ,(
+    'Factored cognition', /* name */
+    'Andreas Stuhlmüller', /* associated_people */
+    'Ought', /* associated_organizations */
+    NULL, /* start_date */
+    NULL, /* start_date_precision */
+    '', /* overview */
+    '', /* goals */
+    '', /* ai_timelines_assumptions */
+    '', /* nature_of_intelligence_assumptions */
+    '' /* other_assumptions */
+  )
+  ,(
+    'Recursive reward modeling', /* name */
+    '', /* associated_people */
+    'Google DeepMind', /* associated_organizations */
+    NULL, /* start_date */
+    NULL, /* start_date_precision */
+    '', /* overview */
+    '', /* goals */
+    '', /* ai_timelines_assumptions */
+    '', /* nature_of_intelligence_assumptions */
+    '' /* other_assumptions */
+  )
+  ,(
+    'Debate', /* name */
+    'Paul Christiano', /* associated_people */
+    'OpenAI', /* associated_organizations */
+    NULL, /* start_date */
+    NULL, /* start_date_precision */
+    '', /* overview */
+    '', /* goals */
+    '', /* ai_timelines_assumptions */
+    '', /* nature_of_intelligence_assumptions */
+    '' /* other_assumptions */
+  )
+  ,(
+    'Interpretability', /* name */
+    'Christopher Olah', /* associated_people */
+    '', /* associated_organizations */
+    NULL, /* start_date */
+    NULL, /* start_date_precision */
+    '', /* overview */
+    '', /* goals */
+    '', /* ai_timelines_assumptions */
+    '', /* nature_of_intelligence_assumptions */
+    '' /* other_assumptions */
+  )
+  ,(
+    'Learning-theoretic AI alignment', /* name */
+    'Vanessa Kosoy', /* associated_people */
+    '', /* associated_organizations */
+    NULL, /* start_date */
+    NULL, /* start_date_precision */
+    '', /* overview */
+    '', /* goals */
+    '', /* ai_timelines_assumptions */
+    '', /* nature_of_intelligence_assumptions */
+    '' /* other_assumptions */
+  )
+  ,(
+    'Inverse reinforcement learning', /* name */
+    '', /* associated_people */
+    '', /* associated_organizations */
+    NULL, /* start_date */
+    NULL, /* start_date_precision */
+    '', /* overview */
+    '', /* goals */
+    '', /* ai_timelines_assumptions */
+    '', /* nature_of_intelligence_assumptions */
+    '' /* other_assumptions */
+  )
+  ,(
+    'Preference learning', /* name */
+    '', /* associated_people */
+    '', /* associated_organizations */
+    NULL, /* start_date */
+    NULL, /* start_date_precision */
+    '', /* overview */
+    '', /* goals */
+    '', /* ai_timelines_assumptions */
+    '', /* nature_of_intelligence_assumptions */
+    '' /* other_assumptions */
+  )
+  ,(
+    'Cooperative inverse reinforcement learning', /* name */
+    '', /* associated_people */
+    '', /* associated_organizations */
+    NULL, /* start_date */
+    NULL, /* start_date_precision */
+    '', /* overview */
+    '', /* goals */
+    '', /* ai_timelines_assumptions */
+    '', /* nature_of_intelligence_assumptions */
+    '' /* other_assumptions */
+  )
+;

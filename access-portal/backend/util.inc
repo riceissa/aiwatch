@@ -49,6 +49,11 @@ function link_organization($organization) {
     . $organization . '</a>';
 }
 
+function link_agenda($agenda) {
+  return '<a href="/?agenda=' . urlencode($agenda) . '">'
+    . $agenda . '</a>';
+}
+
 function display_date(string $date, string $precision) {
   if ((!$date) && (!$precision)) {
     return "";
