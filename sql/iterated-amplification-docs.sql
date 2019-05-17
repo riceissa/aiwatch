@@ -42,6 +42,6 @@ insert into documents(url, title, publication_date, publication_date_precision, 
     'Rohin Shah|Dylan Hadfield-Menell|Gillian Hadfield', /* affected_people */
     'Embedded agency|Cooperative inverse reinforcement learning|inverse reinforcement learning|deep reinforcement learning from human preferences|recursive reward modeling|iterated amplification', /* affected_agendas */
     'Future of Life Institute', /* publisher */
-    'Part two of a podcast episode that goes into details about some technical approaches to AI alignment.' /* notes */
+    'Part two of a podcast episode that goes into detail about some technical approaches to AI alignment.' /* notes */
   )
 ;
