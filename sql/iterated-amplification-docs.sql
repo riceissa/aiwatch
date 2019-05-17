@@ -25,7 +25,7 @@ insert into documents(url, title, publication_date, publication_date_precision, 
     'interview', /* document_type */
     NULL, /* affected_organizations */
     'Rohin Shah', /* affected_people */
-    '', /* affected_agendas */
+    'iterated amplification', /* affected_agendas */
     'Future of Life Institute', /* publisher */
     'Part one of an interview with Rohin Shah that goes covers some technical agendas for AI alignment.' /* notes */
   )
@@ -40,7 +40,7 @@ insert into documents(url, title, publication_date, publication_date_precision, 
     'interview', /* document_type */
     NULL, /* affected_organizations */
     'Rohin Shah|Dylan Hadfield-Menell|Gillian Hadfield', /* affected_people */
-    'Embedded agency|Cooperative inverse reinforcement learning|inverse reinforcement learning|deep reinforcement learning from human preferences|recursive reward modeling', /* affected_agendas */
+    'Embedded agency|Cooperative inverse reinforcement learning|inverse reinforcement learning|deep reinforcement learning from human preferences|recursive reward modeling|iterated amplification', /* affected_agendas */
     'Future of Life Institute', /* publisher */
     'Part two of a podcast episode that goes into details about some technical approaches to AI alignment.' /* notes */
   )
