@@ -67,7 +67,7 @@ if ($stmt = $mysqli->prepare("select * from documents where affected_agendas reg
       <tr>
         <td><?= $row['title'] ?></td>
         <td><?= $row['publication_date'] ?></td>
-        <td><?= link_person($row['author']) ?></td>
+        <td><?= implode(",", array_map("link_person", explode("|", $row['author']))) ?></td>
         <td><?= $row['publisher'] ?></td>
         <td><?= implode(", ", array_map("link_organization", explode("|", $row['affected_organizations']))) ?></td>
         <td><?= implode(", ", array_map("link_person", explode("|", $row['affected_people']))) ?></td>
