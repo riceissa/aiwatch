@@ -44,6 +44,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/agendas.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/documents.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/iterated-amplification-docs.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/reward-modeling-docs.sql
 access-portal/head_date.txt:
 	git log -1 --format="%ad" --date=format:"%Y-%m-%d" > "$@"
 
