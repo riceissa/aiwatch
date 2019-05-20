@@ -9,42 +9,42 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists organization_documents"
 	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists documents"
 	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists agendas"
-	mysql $(MYSQL_ARGS) aiwatch < sql/positions-schema.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/positions-schema.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/people.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organizations.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/products.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/product_creators.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/givewell-positions.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/cea-positions.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/ace-positions.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/open-phil-positions.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/charity-science-positions.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/charity-science-health-positions.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/fri-positions.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/ipa-positions.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/gwwc-positions.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/beri-positions.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/wasr-positions.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/ea-foundation-positions.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/gfi-positions.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/median-group-positions.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/lw2-positions.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/ought-positions.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/cfar-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/givewell-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/cea-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ace-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/open-phil-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/charity-science-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/charity-science-health-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/fri-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ipa-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/gwwc-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/beri-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/wasr-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ea-foundation-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/gfi-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/median-group-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/lw2-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ought-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/cfar-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_documents.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/cea-org-docs.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/cfar-org-docs.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/general-org-docs.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/givewell-org-docs.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/lesswrong-org-docs.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/miri-org-docs.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/open-phil-org-docs.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/sentience-institute-org-docs.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/cea-org-docs.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/cfar-org-docs.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/general-org-docs.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/givewell-org-docs.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/lesswrong-org-docs.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/miri-org-docs.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/open-phil-org-docs.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/sentience-institute-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/agendas.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/documents.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/iterated-amplification-docs.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/reward-modeling-docs.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/agenda_docs/iterated-amplification-docs.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/agenda_docs/reward-modeling-docs.sql
 access-portal/head_date.txt:
 	git log -1 --format="%ad" --date=format:"%Y-%m-%d" > "$@"
 
