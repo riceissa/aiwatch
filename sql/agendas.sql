@@ -85,15 +85,19 @@ insert into agendas(name, associated_people, associated_organizations, start_dat
   )
   ,(
     'Recursive reward modeling', /* name */
-    '', /* associated_people */
+    'Jan Leike|David Krueger|Tom Everitt|Miljan Martic|Vishal Maini|Shane Legg', /* associated_people */
     'Google DeepMind', /* associated_organizations */
-    NULL, /* start_date */
-    NULL, /* start_date_precision */
+    '2018-11-19', /* start_date; paper and blog post introducing the agenda: https://arxiv.org/abs/1811.07871 https://medium.com/@deepmindsafetyresearch/scalable-agent-alignment-via-reward-modeling-bf4ab06dfd84 */
+    'day', /* start_date_precision */
     '', /* overview */
     '', /* goals */
     '', /* ai_timelines_assumptions */
     '', /* nature_of_intelligence_assumptions */
-    '' /* other_assumptions */
+    '<p>The reward modeling paper lists two assumptions:</p>
+    <ol>
+      <li>“We can learn user intentions to a sufficiently high accuracy”</li>
+      <li>“For many tasks we want to solve, evaluation of outcomes is easier than producing the correct behavior”</li>
+    </ol>' /* other_assumptions */
   )
   ,(
     'Debate', /* name */
@@ -166,5 +170,17 @@ insert into agendas(name, associated_people, associated_organizations, start_dat
     '', /* ai_timelines_assumptions */
     '', /* nature_of_intelligence_assumptions */
     '' /* other_assumptions */
+  )
+  ,(
+    'Imitation learning', /* name */
+    NULL, /* associated_people */
+    NULL, /* associated_organizations */
+    NULL, /* start_date */
+    NULL, /* start_date_precision */
+    '<p>The idea with imitation learning is to train agents by imitating human behavior. If the agent imitates the human sufficiently well, its behavior would be aligned. See <a href="https://arxiv.org/pdf/1811.07871.pdf">§7.1 of this paper</a> for more information.</p>', /* overview */
+    '<p>With imitation learning, I think the goal is to produce aligned behavior that is as capable as a human (but not more capable). I think this corresponds to the first step of <a href="/?agenda=Iterated+amplification">iterated distillation and amplification</a>, namely distilling the human behavior.</p>', /* goals */
+    'No assumptions as far as I can tell.', /* ai_timelines_assumptions */
+    NULL, /* nature_of_intelligence_assumptions */
+    NULL /* other_assumptions */
   )
 ;
