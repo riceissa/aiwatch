@@ -43,8 +43,9 @@ $row = $result->fetch_assoc();
 <h2>Documents</h2>
 
 <?php
+# '(^|\\|)reinforcement learning($|\\|)'
 if ($stmt = $mysqli->prepare("select * from documents where affected_agendas regexp ?")) {
-  $stmt->bind_param("s", $agenda);
+  $stmt->bind_param("s", '(^|\\|)' . $agenda . '($|\\|)');
   $stmt->execute();
   $result = $stmt->get_result();
 }
