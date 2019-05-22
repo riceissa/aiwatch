@@ -10,7 +10,7 @@ insert into documents(url, title, publication_date, publication_date_precision, 
     'paper', /* document_type */
     'Google DeepMind', /* affected_organizations */
     NULL, /* affected_people */
-    'Imitation learning|inverse reinforcement learning|Cooperative inverse reinforcement learning|myopic reinforcement learning|imitating expert reasoning|debate', /* affected_agendas */
+    'Recursive reward modeling|Imitation learning|inverse reinforcement learning|Cooperative inverse reinforcement learning|myopic reinforcement learning|iterated amplification|debate', /* affected_agendas */
     'arXiv', /* publisher */
     'This paper introduces the (recursive) reward modeling agenda, discussing its basic outline, challenges, and ways to overcome those challenges. The paper also discusses alternative agendas and their relation to reward modeling.' /* notes */
   )
