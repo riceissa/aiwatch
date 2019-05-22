@@ -44,6 +44,12 @@ $row = $result->fetch_assoc();
 
 <?php
 if ($stmt = $mysqli->prepare("select * from documents where affected_agendas regexp ?")) {
+  // We don't want "inverse reinforcement learning" to match given the string
+  // "reinforcement learning", so check for delimiters (beginning or end of
+  // string, or next to a pipe symbol). For example, "a|reinforcement learning"
+  // should match (the string "reinforcement learning" appears on its own) but
+  // "inverse reinforcement learning|b" shouldn't (the string "reinforcement
+  // learning" appears but is part of a longer string).
   $agenda_regexp = '(^|\\|)' . $agenda . '($|\\|)';
   $stmt->bind_param("s", $agenda_regexp);
   $stmt->execute();
