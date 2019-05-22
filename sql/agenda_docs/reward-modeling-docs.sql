@@ -27,6 +27,6 @@ insert into documents(url, title, publication_date, publication_date_precision, 
     'Jan Leike', /* affected_people */
     'Recursive reward modeling|iterated amplification', /* affected_agendas */
     'LessWrong', /* publisher */
-    'Blog post on LessWrong announcing the recursive reward modeling agenda. Some comments in the discussion thread clarify various aspects of the agenda, including its relation to Paul Christiano’s iterated amplification agenda, whether the DeepMind safety team is thinking about the problem of whether the human user is a safe agent, and more details about alternating quantifiers in the analogy to complexity theory.' /* notes */
+    'Blog post on LessWrong announcing the recursive reward modeling agenda. Some comments in the discussion thread clarify various aspects of the agenda, including its relation to Paul Christiano’s iterated amplification agenda, whether the DeepMind safety team is thinking about the problem of whether the human user is a safe agent, and more details about alternating quantifiers in the analogy to complexity theory. Jan Leike is listed as an affected person for this document because he is the lead author and is mentioned in the blog post, and also because he responds to several questions raised in the comments.' /* notes */
   )
 ;
