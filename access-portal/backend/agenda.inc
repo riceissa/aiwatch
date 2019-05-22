@@ -65,7 +65,7 @@ if ($stmt = $mysqli->prepare("select * from documents where affected_agendas reg
   <tbody>
     <?php while ($row = $result->fetch_assoc()) { ?>
       <tr>
-        <td><?= $row['title'] ?></td>
+        <td><a href="<?= $row['url'] ?>"><?= $row['title'] ?></a></td>
         <td><?= $row['publication_date'] ?></td>
         <td><?= implode(", ", array_map("link_person", explode("|", $row['author']))) ?></td>
         <td><?= $row['publisher'] ?></td>
