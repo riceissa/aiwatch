@@ -90,10 +90,16 @@ insert into agendas(name, associated_people, associated_organizations, start_dat
     'Google DeepMind', /* associated_organizations */
     '2018-11-19', /* start_date; paper and blog post introducing the agenda: https://arxiv.org/abs/1811.07871 https://medium.com/@deepmindsafetyresearch/scalable-agent-alignment-via-reward-modeling-bf4ab06dfd84 */
     'day', /* start_date_precision */
-    '', /* overview */
-    '', /* goals */
-    '', /* ai_timelines_assumptions */
-    '', /* nature_of_intelligence_assumptions */
+    '<p>Basic reward modeling has two steps:</p>
+    <ul>
+      <li>The user trains a reward model or reward function to learn their intentions by giving feedback.</li>
+      <li>The reward model/reward function is used to train a reinforcement learning agent.</li>
+    </ul>
+    <p>Recursive reward modeling takes the basic setup, but has another agent trained to help the user give feedback.</p>', /* overview */
+    '<p>Reward modeling aims to solve the “agent alignment problem”, which is to produce behavior that is in accordance with the user’s intentions. The agenda only aims to align one AI agent to one user, leaving out the problem of e.g. aggregating different preferences.</p>
+    <p>The level of capability of the agent being aligned is not clear from the paper (e.g. is reward modeling intended to be able to align superintelligent AI?).</p>', /* goals */
+    '<p>No specific assumptions.</p>', /* ai_timelines_assumptions */
+    '<p>No specific assumptions.</p>', /* nature_of_intelligence_assumptions */
     '<p>The reward modeling paper lists two assumptions:</p>
     <ol>
       <li>“We can learn user intentions to a sufficiently high accuracy”</li>
