@@ -202,4 +202,16 @@ insert into agendas(name, associated_people, associated_organizations, start_dat
     NULL, /* nature_of_intelligence_assumptions */
     NULL /* other_assumptions */
   )
+  ,(
+    'Counterfactual reasoning', /* name */
+    'Jacob Steinhardt', /* associated_people */
+    NULL, /* associated_organizations */
+    NULL, /* start_date */
+    NULL, /* start_date_precision */
+    'Explained in <a href="https://www.lesswrong.com/s/4dHMdK5TLN6xcqtyc/p/gnvrixhDfG7S2TpNL">this blog post</a>; I’m not sure if this counts as a research agenda, or if it should fit under another one.', /* overview */
+    '', /* goals */
+    '', /* ai_timelines_assumptions */
+    NULL, /* nature_of_intelligence_assumptions */
+    NULL /* other_assumptions */
+  )
 ;
