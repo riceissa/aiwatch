@@ -14,6 +14,7 @@ $seen = array();
   <li><a href="#list-of-people">List of people</a></li>
   <li><a href="#products">Products</a></li>
   <li><a href="#organization-documents">Organization documents</a></li>
+  <li><a href="#documents">Documents</a></li>
 </ul>
 
 
