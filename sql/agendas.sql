@@ -190,4 +190,28 @@ insert into agendas(name, associated_people, associated_organizations, start_dat
     NULL, /* nature_of_intelligence_assumptions */
     NULL /* other_assumptions */
   )
+  ,(
+    'Alignment for advanced machine learning systems', /* name */
+    'Jessica Taylor|Eliezer Yudkowsky|Patrick LaVictoire|Andrew Critch', /* associated_people */
+    'Machine Intelligence Research Institute', /* associated_organizations */
+    '2016-07-27', /* start_date */
+    'day', /* start_date_precision */
+    'MIRI’s machine learning agenda, announced in a <a href="https://intelligence.org/2016/07/27/alignment-machine-learning/">blog post</a> and detailed in a <a href="https://intelligence.org/files/AlignmentMachineLearning.pdf">paper</a>.', /* overview */
+    '', /* goals */
+    '', /* ai_timelines_assumptions */
+    NULL, /* nature_of_intelligence_assumptions */
+    NULL /* other_assumptions */
+  )
+  ,(
+    'Learning-theoretic AI alignment ', /* name */
+    'Vanessa Kosoy', /* associated_people */
+    NULL, /* associated_organizations */
+    '2018-07-04', /* start_date */
+    'day', /* start_date_precision */
+    'Research agenda by Vanessa Kosoy, announced and explained in a <a href="https://www.lesswrong.com/posts/5bd75cc58225bf0670375575/the-learning-theoretic-ai-alignment-research-agenda">blog post</a> on LessWrong/Alignment Forum.', /* overview */
+    '', /* goals */
+    '', /* ai_timelines_assumptions */
+    NULL, /* nature_of_intelligence_assumptions */
+    NULL /* other_assumptions */
+  )
 ;
