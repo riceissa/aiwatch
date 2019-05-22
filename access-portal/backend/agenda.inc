@@ -43,9 +43,9 @@ $row = $result->fetch_assoc();
 <h2>Documents</h2>
 
 <?php
-# '(^|\\|)reinforcement learning($|\\|)'
 if ($stmt = $mysqli->prepare("select * from documents where affected_agendas regexp ?")) {
-  $stmt->bind_param("s", '(^|\\|)' . $agenda . '($|\\|)');
+  $agenda_regexp = '(^|\\|)' . $agenda . '($|\\|)';
+  $stmt->bind_param("s", $agenda_regexp);
   $stmt->execute();
   $result = $stmt->get_result();
 }
@@ -64,7 +64,8 @@ if ($stmt = $mysqli->prepare("select * from documents where affected_agendas reg
     </tr>
   </thead>
   <tbody>
-    <?php while ($row = $result->fetch_assoc()) { ?>
+    <?php if ($result) {
+    while ($row = $result->fetch_assoc()) { ?>
       <tr>
         <td><a href="<?= $row['url'] ?>"><?= $row['title'] ?></a></td>
         <td><?= $row['publication_date'] ?></td>
@@ -74,6 +75,7 @@ if ($stmt = $mysqli->prepare("select * from documents where affected_agendas reg
         <td><?= implode(", ", array_map("link_person", explode("|", $row['affected_people']))) ?></td>
         <td><?= formatted_notes($row['notes'], $seen) ?></td>
       </tr>
-    <?php } ?>
+    <?php }
+            }?>
   </tbody>
 </table>
