@@ -131,18 +131,6 @@ insert into agendas(name, associated_people, associated_organizations, start_dat
     '' /* other_assumptions */
   )
   ,(
-    'Learning-theoretic AI alignment', /* name */
-    'Vanessa Kosoy', /* associated_people */
-    '', /* associated_organizations */
-    NULL, /* start_date */
-    NULL, /* start_date_precision */
-    '', /* overview */
-    '', /* goals */
-    '', /* ai_timelines_assumptions */
-    '', /* nature_of_intelligence_assumptions */
-    '' /* other_assumptions */
-  )
-  ,(
     'Inverse reinforcement learning', /* name */
     '', /* associated_people */
     '', /* associated_organizations */
