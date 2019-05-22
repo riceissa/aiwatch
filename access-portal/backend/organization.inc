@@ -524,3 +524,43 @@ $creators = linkedCreators($mysqli,
     <?php } ?>
   </tbody>
 </table>
+
+
+<?php
+  $query = "select * from documents where affected_organizations regexp ? or publisher regexp ? order by publication_date desc";
+  if ($stmt = $mysqli->prepare($query)) {
+    $stmt->bind_param("ss", $organization, $organization);
+    $stmt->execute();
+    $result = $stmt->get_result();
+  }
+?>
+<h2 id="documents">Documents (<?= $result->num_rows ?> <?= $result->num_rows == 1 ? "document" : "documents" ?>)</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Publication date</th>
+      <th>Author</th>
+      <th>Publisher</th>
+      <th>Affected organizations</th>
+      <th>Affected people</th>
+      <th>Affected agendas</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <?php while ($row = $result->fetch_assoc()) { ?>
+      <tr>
+        <td><a href="<?= $row['url'] ?>"><?= $row['title'] ?></a></td>
+        <td><?= $row['publication_date'] ?></td>
+        <td><?= implode(", ", array_map("link_person", explode("|", $row['author']))) ?></td>
+        <td><?= $row['publisher'] ?></td>
+        <td><?= implode(", ", array_map("link_organization", explode("|", $row['affected_organizations']))) ?></td>
+        <td><?= implode(", ", array_map("link_person", explode("|", $row['affected_people']))) ?></td>
+        <td><?= implode(", ", array_map("link_agenda", explode("|", $row['affected_agendas']))) ?></td>
+        <td><?= formatted_notes($row['notes'], $seen) ?></td>
+      </tr>
+    <?php } ?>
+  </tbody>
+</table>
