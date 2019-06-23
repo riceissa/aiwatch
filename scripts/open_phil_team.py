@@ -78,6 +78,18 @@ URLS = [
         "https://web.archive.org/web/20180505212341/http://www.openphilanthropy.org:80/about/team",
         "https://web.archive.org/web/20180605194037/http://www.openphilanthropy.org:80/about/team",
         "https://web.archive.org/web/20180620002809/http://www.openphilanthropy.org:80/about/team",
+        "https://web.archive.org/web/20180705201519/http://www.openphilanthropy.org/about/team",
+        "https://web.archive.org/web/20180805213521/http://www.openphilanthropy.org/about/team",
+        "https://web.archive.org/web/20180809024744/http://www.openphilanthropy.org/about/team",
+        "https://web.archive.org/web/20180905210713/http://www.openphilanthropy.org/about/team",
+        "https://web.archive.org/web/20181005203931/http://www.openphilanthropy.org/about/team",
+        "https://web.archive.org/web/20181105222616/http://www.openphilanthropy.org/about/team",
+        "https://web.archive.org/web/20181123152604/http://www.openphilanthropy.org/about/team",
+        "https://web.archive.org/web/20181128184458/http://www.openphilanthropy.org/about/team",
+        "https://web.archive.org/web/20190311003104/http://www.openphilanthropy.org/about/team",
+        "https://web.archive.org/web/20190324155937/http://www.openphilanthropy.org/about/team",
+        "https://web.archive.org/web/20190428123739/http://www.openphilanthropy.org/about/team",
+        "https://web.archive.org/web/20190429023749/http://www.openphilanthropy.org/about/team",
         ]
 
 def main():
