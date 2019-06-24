@@ -30,6 +30,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/gfi-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/median-group-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/lw2-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/openai-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ought-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/cfar-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_documents.sql
