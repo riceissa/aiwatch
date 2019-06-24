@@ -94,7 +94,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Nate Soares','Machine Intelligence Research Institute','Executive Director','2015-06-01','day',NULL,NULL,'https://www.lesswrong.com/posts/uX3HjXo6BWos3Zgy5/the-mechanics-of-my-recent-productivity',NULL,'position',NULL,NULL,'AI safety')
     ,('Benya Fallenstein','Machine Intelligence Research Institute','Research Fellow','2014-06-01','month',NULL,NULL,'https://web.archive.org/web/20140625131621/http://intelligence.org:80/team/ https://futureoflife.org/first-ai-grant-recipients/ https://www.phil.cam.ac.uk/events/decision-theory-conf',NULL,'position',NULL,NULL,'AI safety')
     ,('Scott Garrabrant','Machine Intelligence Research Institute','Research Fellow','2015-12-01','month',NULL,NULL,'https://web.archive.org/web/20160115113250/http://intelligence.org:80/team/',NULL,'position',NULL,NULL,'AI safety')
-    ,('Marcello Herreshoff','Machine Intelligence Research Institute','Research Fellow','2017-07-01','month',NULL,NULL,'https://web.archive.org/web/20170701084249/https://intelligence.org/team/',NULL,'position',NULL,NULL,'AI safety')
+    ,('Marcello Herreshoff','Machine Intelligence Research Institute','Research Fellow','2017-07-01','month','2018-09-10','month','https://web.archive.org/web/20170701084249/https://intelligence.org/team/ https://web.archive.org/web/20180910191715/http://intelligence.org/team/',NULL,'position',NULL,NULL,'AI safety')
     ,('Sam Eisenstat','Machine Intelligence Research Institute','Research Fellow','2017-07-01','month',NULL,NULL,'https://web.archive.org/web/20170701084249/https://intelligence.org/team/',NULL,'position',NULL,NULL,'AI safety')
     ,('Abram Demski','Machine Intelligence Research Institute','Research Fellow','2017-07-01','month',NULL,NULL,'https://web.archive.org/web/20170721192726/http://intelligence.org:80/team/',NULL,'position',NULL,NULL,'AI safety')
     ,('Tsvi Benson-Tilsen','Machine Intelligence Research Institute','Assistant Research Fellow','2017-07-01','month',NULL,NULL,'https://web.archive.org/web/20170701084249/https://intelligence.org/team/',NULL,'position',NULL,NULL,'AI safety')
@@ -163,6 +163,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Ben Goertzel','Machine Intelligence Research Institute','Director of Applied Research','2010-02-01','month','2010-05-01','month','https://web.archive.org/web/20100214102744/http://www.singinst.org:80/aboutus/team/ https://web.archive.org/web/20100520232849/http://www.singinst.org/aboutus/team',NULL,'position',NULL,NULL,'AI safety')
     ,('Ryan Carey','Machine Intelligence Research Institute','Assistant Research Fellow','2016-09-01','month','2017-09-01','month','https://web.archive.org/web/20161016080644/http://intelligence.org:80/team/ https://intelligence.org/2017/09/24/september-2017-newsletter/ https://web.archive.org/web/20171028094139/http://intelligence.org:80/team/',NULL,'position',NULL,NULL,'AI safety')
     ,('Blake Borgeson','Machine Intelligence Research Institute','General Advisor','2017-11-01','month',NULL,NULL,'https://intelligence.org/2017/12/06/december-2017-newsletter/ https://web.archive.org/web/20171211204049/http://intelligence.org/team/',NULL,'position',NULL,NULL,'AI safety')
+    ,('Blake Borgeson','Machine Intelligence Research Institute','Board Director','2018-09-30','month',NULL,NULL,'https://intelligence.org/2018/09/30/september-2018-newsletter/',NULL,'position',NULL,'board member','AI safety')
     ,('Pierre-Yves Oudeyer','FLOWERS','Research Director',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Manuel Lopes','FLOWERS','Research Scientist',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('David Filliat','FLOWERS','Professor',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
@@ -829,6 +830,51 @@ insert into positions(person, organization, title, start_date, start_date_precis
         'position', /* ai_safety_relation */
         NULL, /* subject */
         'volunteer', /* employment_type */
+        'AI safety' /* cause_area */
+    )
+    ,(
+        'Edward Kmett', /* person */
+        'Machine Intelligence Research Institute', /* organization */
+        'Research staff', /* title */
+        '2018-12-01', /* start_date */
+        'month', /* start_date_precision */
+        NULL, /* end_date */
+        NULL, /* end_date_precision */
+        'https://intelligence.org/2018/12/16/december-2018-newsletter/', /* urls */
+        NULL, /* notes */
+        'position', /* ai_safety_relation */
+        NULL, /* subject */
+        'full-time', /* employment_type */
+        'AI safety' /* cause_area */
+    )
+    ,(
+        'James Payor', /* person */
+        'Machine Intelligence Research Institute', /* organization */
+        'Research staff', /* title */
+        '2018-12-01', /* start_date */
+        'month', /* start_date_precision */
+        NULL, /* end_date */
+        NULL, /* end_date_precision */
+        'https://intelligence.org/2018/12/16/december-2018-newsletter/', /* urls */
+        NULL, /* notes */
+        'position', /* ai_safety_relation */
+        NULL, /* subject */
+        'full-time', /* employment_type */
+        'AI safety' /* cause_area */
+    )
+    ,(
+        'Victoria Krakovna', /* person */
+        'Machine Intelligence Research Institute', /* organization */
+        'Research advisor', /* title */
+        '2018-09-30', /* start_date */
+        'month', /* start_date_precision */
+        NULL, /* end_date */
+        NULL, /* end_date_precision */
+        'https://intelligence.org/2018/09/30/september-2018-newsletter/', /* urls */
+        NULL, /* notes */
+        'position', /* ai_safety_relation */
+        NULL, /* subject */
+        'advisor', /* employment_type */
         'AI safety' /* cause_area */
     )
 ;
