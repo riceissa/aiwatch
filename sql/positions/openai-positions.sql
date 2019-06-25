@@ -141,4 +141,13 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Taehoon Kim','OpenAI','Research Engineer','2018-09-01','month',NULL,NULL,'https://web.archive.org/web/20190625213158/https://carpedm20.github.io/ https://www.linkedin.com/in/carpedm20/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Chris Clark','OpenAI','Chief Operating Officer','2016-03-01','month',NULL,NULL,'https://www.linkedin.com/in/crclark/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Karson Elmgren','OpenAI','Member of Recruiting Staff','2019-03-01','month',NULL,NULL,'https://www.linkedin.com/in/karson-elmgren-32417732/',NULL,'AGI organization',NULL,NULL,'AI safety')
+    ,('Karl Cobbe','OpenAI','OpenAI Fellow','2018-06-01','year','2018-10-01','year','https://openai.com/blog/openai-summer-fellows-2018/',NULL,'AGI organization',NULL,'intern','AI safety')
+    ,('Sam McCandlish','OpenAI','OpenAI Fellow','2018-05-01','month','2018-11-01','month','https://openai.com/blog/openai-summer-fellows-2018/ https://www.linkedin.com/in/sam-mccandlish',NULL,'AGI organization',NULL,'intern','AI safety')
+    ,('Yilun Du','OpenAI','OpenAI Fellow','2018-06-01','year','2018-10-01','year','https://openai.com/blog/openai-summer-fellows-2018/',NULL,'AGI organization',NULL,'intern','AI safety')
+    ,('Josh Meier','OpenAI','OpenAI Fellow','2018-06-01','year','2018-10-01','year','https://openai.com/blog/openai-summer-fellows-2018/',NULL,'AGI organization',NULL,'intern','AI safety')
+    ,('Johannes Otterbach','OpenAI','OpenAI Fellow','2018-06-01','year','2018-10-01','year','https://openai.com/blog/openai-summer-fellows-2018/',NULL,'AGI organization',NULL,'intern','AI safety')
+    ,('Xingyou (Richard) Song','OpenAI','OpenAI Fellow','2018-06-01','year','2018-10-01','year','https://openai.com/blog/openai-summer-fellows-2018/',NULL,'AGI organization',NULL,'intern','AI safety')
+    ,('Sam McCandlish','OpenAI','Member of the Technical Staff, Safety Team','2018-12-01','month',NULL,NULL,'https://www.linkedin.com/in/sam-mccandlish',NULL,'position',NULL,'full-time','AI safety')
+    ,('Nikolas Tezak','OpenAI','OpenAI Fellow','2019-03-01','month',NULL,NULL,'https://www.linkedin.com/in/nikolas-tezak-91939747/',NULL,'AGI organization',NULL,'intern','AI safety')
+    ,('Mira Murati','OpenAI','Strategy Lead','2018-06-01','month',NULL,NULL,'https://www.linkedin.com/in/mira-murati-4b39a066/',NULL,'AGI organization',NULL,NULL,'AI safety')
 ;
