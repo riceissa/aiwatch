@@ -37,7 +37,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jack Clark','OpenAI','Policy Director','2018-10-01','month',NULL,NULL,'https://www.linkedin.com/in/jack-clark-5a320317/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Scott Gray','OpenAI','Member of Technical Staff','2016-07-01','month',NULL,NULL,'https://blog.openai.com/team-update-august/ https://www.linkedin.com/in/scott-gray-569704/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Zain Shah','OpenAI',NULL,'2016-08-16','year',NULL,NULL,'https://blog.openai.com/team-update-august/',NULL,'AGI organization',NULL,NULL,'AI safety')
-    ,('Catherine Olsson','OpenAI','Intern or visitor','2016-08-16','year',NULL,NULL,'https://blog.openai.com/team-update-august/ https://twitter.com/catherineols?lang=en',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Harri Edwards','OpenAI','Intern','2016-10-01','month','2017-02-01','month','https://blog.openai.com/team-update-august/ https://www.linkedin.com/in/harri-edwards-7b199375/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Harri Edwards','OpenAI','Research Scientist','2017-07-01','month',NULL,NULL,'https://www.linkedin.com/in/harri-edwards-7b199375/ https://openai.com/blog/authors/harri/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Igor Mordatch','OpenAI','Intern or visitor','2016-08-16','year',NULL,NULL,'https://blog.openai.com/team-update-august/',NULL,'AGI organization',NULL,NULL,'AI safety')
@@ -61,7 +60,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Szymon Sidor','OpenAI','Rapid Lead','2018-04-01','month','2019-02-01','month','https://www.linkedin.com/in/szymon-sidor-98164044/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Szymon Sidor','OpenAI','Member of Technical Staff','2019-03-01','month',NULL,NULL,'https://www.linkedin.com/in/szymon-sidor-98164044/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Yaroslav Bulatov','OpenAI',NULL,'2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL,'AGI organization',NULL,NULL,'AI safety')
-    ,('Catherine Olsson','OpenAI',NULL,'2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Jonathan Ho','OpenAI',NULL,'2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Peter Chen','OpenAI',NULL,'2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Prafulla Dhariwal','OpenAI',NULL,'2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL,'AGI organization',NULL,NULL,'AI safety')
@@ -206,4 +204,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Ben Chess','OpenAI','Infrastructure','2019-01-01','month',NULL,NULL,'https://www.linkedin.com/in/ben-chess-69bba21/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Marie La','OpenAI','Project Management Contractor','2016-10-01','month','2017-01-01','month','https://www.linkedin.com/in/marie-la-85a961bb/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Remco Zwetsloot','OpenAI','Policy Analyst','2018-01-01','year','2018-12-31','year','https://www.linkedin.com/in/remco-zwetsloot-90994142/',NULL,'AGI organization',NULL,NULL,'AI safety')
+    ,('Catherine Olsson','OpenAI','Software Engineer','2017-01-30','year','2017-05-01','month','https://blog.openai.com/team-update-january/ https://www.linkedin.com/in/catherineolsson/',NULL,'AGI organization',NULL,NULL,'AI safety')
+    ,('Catherine Olsson','OpenAI','Intern or visitor','2016-08-01','month','2017-01-30','year','https://blog.openai.com/team-update-august/ https://twitter.com/catherineols?lang=en https://www.linkedin.com/in/catherineolsson/',NULL,'AGI organization',NULL,NULL,'AI safety')
 ;
