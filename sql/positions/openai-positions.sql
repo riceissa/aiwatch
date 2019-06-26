@@ -71,7 +71,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Michael Page','OpenAI','Policy and Ethics Advisor','2017-01-01','year',NULL,NULL,'https://www.linkedin.com/in/michael-page-71318613/ https://arxiv.org/pdf/1802.07228.pdf',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Parnian Barekatain','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/hackathon/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Jonathan Raiman','OpenAI','Research Scientist','2017-10-01','month',NULL,NULL,'https://blog.openai.com/discovering-types-for-entity-disambiguation/ https://www.linkedin.com/in/jonathan-raiman-36694123/',NULL,'AGI organization',NULL,NULL,'AI safety')
-    ,('Kevin Frans','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/learning-a-hierarchy/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Kevin Frans','OpenAI','Research Intern','2017-05-01','month','2017-07-01','month','https://blog.openai.com/learning-a-hierarchy/ https://www.linkedin.com/in/kevinfrans/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Xue Bin Peng','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/generalizing-from-simulation/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Lerrel Pinto','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/generalizing-from-simulation/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Josh Tobin','OpenAI','Research Scientist','2016-10-01','month',NULL,NULL,'https://blog.openai.com/generalizing-from-simulation/ https://blog.openai.com/robots-that-learn/ https://www.linkedin.com/in/josh-tobin-4b3b10a9/ http://archive.today/2019.06.25-212206/http://josh-tobin.com/',NULL,NULL,NULL,NULL,'AI safety')
@@ -204,4 +204,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Mikhail Pavlov','OpenAI','OpenAI Fellow','2018-10-01','month','2019-04-01','month','https://openai.com/blog/openai-fellows-fall-2018/','Hardware team','AGI organization',NULL,NULL,'AI safety')
     ,('Will Grathwohl','OpenAI','Research Intern','2018-05-01','month','2018-09-01','month','https://web.archive.org/web/20190626024037/http://www.cs.toronto.edu/~wgrathwohl/cv.pdf',NULL,'AGI organization',NULL,'intern','AI safety')
     ,('Ben Chess','OpenAI','Infrastructure','2019-01-01','month',NULL,NULL,'https://www.linkedin.com/in/ben-chess-69bba21/',NULL,'AGI organization',NULL,NULL,'AI safety')
+    ,('Marie La','OpenAI','Project Management Contractor','2016-10-01','month','2017-01-01','month','https://www.linkedin.com/in/marie-la-85a961bb/',NULL,'AGI organization',NULL,NULL,'AI safety')
+    ,('Remco Zwetsloot','OpenAI','Policy Analyst','2018-01-01','year','2018-12-31','year','https://www.linkedin.com/in/remco-zwetsloot-90994142/',NULL,'AGI organization',NULL,NULL,'AI safety')
 ;
