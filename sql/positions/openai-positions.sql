@@ -210,4 +210,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Cathy Wu','OpenAI','Member of Technical Staff, Intern','2017-06-01','month','2017-10-01','month','https://www.linkedin.com/in/cathywu/',NULL,'AGI organization',NULL,'intern','AI safety')
     ,('Ryan Carey','OpenAI','Research Engineering Intern','2018-02-01','month','2018-03-01','month','https://www.linkedin.com/in/careyryan/',NULL,'AGI organization',NULL,'intern','AI safety')
     ,('Erin Grant','OpenAI','Member of Technical Staff, Intern','2018-05-01','month','2018-08-01','month','https://www.linkedin.com/in/eringrant914/',NULL,'AGI organization',NULL,'intern','AI safety')
+    ,('Marika Allely','OpenAI','Demonstrator','2016-09-01','month','2016-12-01','month','https://www.linkedin.com/in/mballely/',NULL,'AGI organization',NULL,NULL,'AI safety')
+    ,('Karthik Narasimhan','OpenAI','Research Scientist','2017-09-01','month','2018-08-01','month','https://www.linkedin.com/in/karthik-narasimhan-65214455/',NULL,'AGI organization',NULL,NULL,'AI safety')
+    ,('Dustin Tran','OpenAI','Research Intern','2017-05-01','month','2017-10-01','month','https://web.archive.org/web/20190627001110/http://dustintran.com/cv.pdf',NULL,'AGI organization',NULL,'intern','AI safety')
 ;
