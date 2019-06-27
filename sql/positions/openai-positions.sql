@@ -41,7 +41,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Taco Cohen','OpenAI','Intern or visitor','2016-08-16','year',NULL,NULL,'https://blog.openai.com/team-update-august/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Tambet Matiisen','OpenAI','Intern or visitor','2016-08-16','year',NULL,NULL,'https://blog.openai.com/team-update-august/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Tom Brown','OpenAI','Member of Technical Staff','2016-01-01','year',NULL,NULL,'https://www.linkedin.com/in/nottombrown/ http://ai.vision/ https://web.archive.org/web/20171024192811/http://ai.vision/ https://blog.openai.com/team-update-january/',NULL,'AGI organization',NULL,NULL,'AI safety')
-    ,('Aleks Kamko','OpenAI',NULL,'2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL,'AGI organization',NULL,NULL,'AI safety')
+    ,('Aleks Kamko','OpenAI','Software Engineer','2017-02-01','month','2017-03-01','month','https://blog.openai.com/team-update-january/ https://www.linkedin.com/in/aleks-kamko/',NULL,'AGI organization',NULL,'part-time','AI safety')
     ,('Alex Ray','OpenAI',NULL,'2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Ankur Handa','OpenAI',NULL,'2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Bob McGrew','OpenAI','Member of Technical Staff','2017-01-01','month',NULL,NULL,'https://blog.openai.com/team-update-january/ https://www.linkedin.com/in/bobmcgrew/',NULL,'AGI organization',NULL,NULL,'AI safety')
@@ -224,4 +224,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Maciej Chociej','OpenAI','Member of Technical Staff','2017-11-01','month','2019-06-01','month','https://www.linkedin.com/in/maciejchociej/ https://openai.com/blog/authors/maciek/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Jonathan Hernandez','OpenAI','Contract Software Engineer','2016-10-01','month','2017-03-01','month','https://www.linkedin.com/in/jonohernandez/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Meredith Blankenship','OpenAI','Beta Test Consultant','2016-10-01','month','2016-12-01','month','https://www.linkedin.com/in/m-blankenship/',NULL,'AGI organization',NULL,NULL,'AI safety')
+    ,('Manuel Sherbakoff','OpenAI','Office Manager','2018-03-01','month','2018-07-01','month','https://www.linkedin.com/in/msherbakoff/',NULL,'AGI organization',NULL,NULL,'AI safety')
+    ,('Aditya Grover','OpenAI','Research Intern','2017-06-01','month','2017-09-01','month','https://www.linkedin.com/in/aditya-grover/',NULL,'AGI organization',NULL,'intern','AI safety')
+    ,('Kevin Wong','OpenAI','Freelance Level Designer','2018-02-01','month','2018-05-01','month','https://www.linkedin.com/in/thatkevinwong/',NULL,'AGI organization',NULL,'contractor','AI safety')
+    ,('Sadhika Malladi','OpenAI','Research Scientist','2018-05-01','month','2018-10-01','month','https://www.linkedin.com/in/sadhikamalladi/',NULL,'AGI organization',NULL,NULL,'AI safety')
+    ,('Yang Liu','OpenAI','Research Intern','2017-05-01','month','2017-08-01','month','https://www.linkedin.com/in/yang-liu-05088664/',NULL,'AGI organization',NULL,'intern','AI safety')
 ;
