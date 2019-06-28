@@ -33,6 +33,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/openai-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/paisri-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/chai-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/aiimpacts-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ought-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/cfar-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_documents.sql
