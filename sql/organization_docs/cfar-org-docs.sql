@@ -12,5 +12,31 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Rationality improvement', /* cause_area */
         'Lauren Lee, who recently departed CFAR after working there for two years, explains what she considers the positives and negatives of the CFAR work environment, and in particular argues that it is not a good work environment if burnout is a concern. This is the third of her comments on the post, which itself is about burnout, with the first two comments being about general strategies for dealing with burnout. The comment would later be deleted on the EA Forum for being too community-related, but survives on the EA Forum Reader that is being linked to' /* notes */
     )
+    ,(
+        'https://rationality.org/resources/updates/2019/cfars-mistakes-regarding-brent', /* url */
+        'CFAR''s Mistakes Regarding Brent', /* title */
+        '2019-01-01', /* publication_date */
+        NULL, /* modified_date */
+        'Timothy Telleen-Lawton', /* author */
+        'Center for Applied Rationality', /* publisher */
+        'Center for Applied Rationality', /* affected_organizations */
+        'Brent Dill|Timothy Telleen-Lawton', /* affected_people */
+        'Organizational mistake postmortem', /* document_scope */
+        'Rationality improvement', /* cause_area */
+        'Timothy Telleen-Lawton, the Executive Director of the Center for Applied Rationality, gives a postmortem of CFAR''s mistakes regarding Brent Dill, an individual accused by at least two people of sexual harassment, and by many others of behaving in other manipulative ways. Telleen-Lawton talks about the blind spots and errors made by CFAR, an organization devoted to improving rationality, in its handling of the situation' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/CJJDwgyqT4gXktq6g/long-term-future-fund-april-2019-grant-decisions#CFAR___150_000_', /* url */
+        'CFAR ($150,000)', /* title */
+        '2019-04-23', /* publication_date */
+        NULL, /* modified_date */
+        'Oliver Habryka', /* author */
+        NULL, /* publisher */
+        'Center for Applied Rationality', /* affected_organizations */
+        'Julia Galef|Andrew Critch|Kenzi Ashkie|Duncan Sabien|Anna Salamon', /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'Rationality improvement', /* cause_area */
+        'In a writeup explaining the $150,000 grant made from the Effective Altruism Funds'' Long Term Future Fund to the Center for Applied Rationality, Oliver Habryka comments on the organization''s personnel and financial issues. He notes that key people Julia Galef, Andrew Critch, Kenzi Ashkie, and Duncan Sabien have left and/or reduced their involvement, and Anna Salamon seems less involved in some respects. He also talks about how CFAR decided not to run a fundraiser in 2018 because they felt it would be in bad taste after the Brent Dill controversy, and how this leaves them more cash-strapped now.' /* notes */
+    )    
 ;
 

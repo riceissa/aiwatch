@@ -143,6 +143,19 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Sean Conley announces that GiveWell is resuming its hiring operations. He announces open positions with titles Research Analyst, Summer Research Analyst, Outreach Associate, and Conversation Notes Writer.' /* notes */
     )
     ,(
+        'http://benjaminrosshoffman.com/how-to-find-a-job-like-a-privileged-person-with-lots-of-options/', /* url */
+        'How to find a job like a privileged person with lots of options', /* title */
+        '2015-06-01', /* publication_date */
+        NULL, /* modified_date */
+        'Ben Hoffman', /* author */
+        NULL, /* publisher */
+        'GiveWell', /* affected_organizations */
+        NULL, /* affected_people */
+        'Job application experience', /* document_scope */
+        'Charity evaluator', /* cause_area */
+        'In this blog post, Ben Hoffman describes "things I''ve seen work well from both sides of the hiring process, and from talking with a bunch of people about career choice." He advises talking extensively to people in the field that one wants to apply to, and cautions against thoughtlessly going to school for training for a job. He also includes the cover letter of his job application to GiveWell.' /* notes */
+    )
+    ,(
         'https://blog.givewell.org/2016/05/24/hiring-director-operations/', /* url */
         'We’re hiring a Director of Operations', /* title */
         '2016-05-24', /* publication_date */
@@ -179,7 +192,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Rob Reich|Elie Hassenfeld', /* affected_people */
         'Board member departure', /* document_scope */
         'Charity evaluator', /* cause_area */
-        'Rob Reich resigns from the GiveWell board, citing three reasons: (1) He is taking on a new set of professional responsibilities and needs to free up time for those, (2) He believes that service on a nonprofit board should not be ongoing, and his five-year stint has been long enough. (3) He has continuing concerns that GiveWell leadership does not take the board''s role seriously, and that board meetings are held mainly to meet legal obligations. Although he has communicated this to GiveWell leadership and they have taken some steps to address his concerns, he thinks the steps are not adequate in achieving his goal of a professionalized board. Reich concludes by requesting that his letter be included on the GiveWell site and linked from  https://www.givewell.org/about/official-records#Boardmeetings -- this is granted, with https://www.givewell.org/changes-in-board-membership as an intermediate page. Reich''s resignation would be followed by the resignation of Brigid Slipka and Tom Rutledge after GiveWell leadership decides to contract the board. Slipka explains her resignation at https://www.givewell.org/files/Brigid_Slipka_Board_Resignation_Letter_03-05-19.pdf' /* notes */
+        'Rob Reich resigns from the GiveWell board, citing three reasons: (1) He is taking on a new set of professional responsibilities and needs to free up time for those, (2) He believes that service on a nonprofit board should not be ongoing, and his five-year stint has been long enough. (3) He has continuing concerns that GiveWell leadership does not take the board''s role seriously, and that board meetings are held mainly to meet legal obligations. Although he has communicated this to GiveWell leadership and they have taken some steps to address his concerns, he thinks the steps are not adequate in achieving his goal of a professionalized board. Reich concludes by requesting that his letter be included on the GiveWell site and linked from  https://www.givewell.org/about/official-records#Boardmeetings -- this is granted, with https://www.givewell.org/changes-in-board-membership as an intermediate page. Reich''s resignation would be followed by the resignation of Brigid Slipka and Tom Rutledge after GiveWell leadership decides to contract the board. Slipka explains her resignation at https://files.givewell.org/files/Brigid_Slipka_Board_Resignation_Letter_03-05-19.pdf' /* notes */
     )
     ,(
             'https://files.givewell.org/files/Brigid_Slipka_Board_Resignation_Letter_03-05-19.pdf', /* url */
@@ -219,5 +232,18 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Board member departure', /* document_scope */
         'Charity evaluator', /* cause_area */
         'Milan Griffes asks people what they know about the reasons for the departure of three board members from GiveWell announced at https://www.givewell.org/changes-in-board-membership The comments and answers discuss the resignation letters posted by Rob Reich and Brigid Slipka at https://files.givewell.org/files/Rob_Reich_Board_Resignation_Letter_02-04-19.pdf and https://files.givewell.org/files/Brigid_Slipka_Board_Resignation_Letter_03-05-19.pdf respectively, and also the response of GiveWell Executive Director (ED) Elie Hassenfeld at https://files.givewell.org/files/Elie_Hassenfeld_Board_Letter.pdf Griffes also links to and pastes questions by him and answers from Catherine Hollander of GiveWell in the GiveWell open thread https://blog.givewell.org/2019/03/11/march-2019-open-thread/' /* notes */
+    )
+    ,(
+        'https://denver-frederick.com/2019/05/04/elie-hassenfeld-co-founder-and-executive-director-of-givewell-joins-denver-frederick/', /* url */
+        'Elie Hassenfeld, Co-Founder and Executive Director of GiveWell, Joins Denver Frederick', /* title */
+        '2019-05-04', /* publication_date */
+        NULL, /* modified_date */
+        'Denver Frederick', /* author */
+        'The Business of Giving', /* publisher */
+        'GiveWell', /* affected_organizations */
+        'Elie Hassenfeld', /* affected_people */
+        'Job experience', /* document_scope */
+        'Charity evaluator', /* cause_area */
+        'Elie Hassenfeld, co-founder and Executive Director (ED) of GiveWell, discusses GiveWell''s work with Denver Frederick. While most of the discussion is around GiveWell''s work as a charity evaluator, there is some discussion of company culture. Hassenfeld says that GiveWell values openness, but also places importance on kindness toward one another. He mentions the existence of a Slack channel for people to post their mistakes. There is also discussion of GiveWell putting board meeting audio online.' /* notes */
     )
 ;
