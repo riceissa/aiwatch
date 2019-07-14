@@ -337,4 +337,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI safety', /* cause_area */
         'A guide for getting involved in AI alignment research, written with MIRIx groups (local groups that meet up to discuss MIRI’s work or make progress on AI alignment, with financial support from MIRI) in mind.' /* notes */
     )
+    ,(
+        'https://agentfoundations.org/item?id=1470', /* url */
+        'Why I am not currently working on the AAMLS agenda', /* title */
+        '2017-05-12', /* publication_date */
+        NULL, /* modified_date */
+        'Jessica Taylor', /* author */
+        'Intelligent Agent Foundations Forum', /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+        'Jessica Taylor', /* affected_people */
+        'Employee departure', /* document_scope */
+        'AI safety', /* cause_area */
+        'Jessica Taylor, who has been working at the Machine Intelligence Research Institute (MIRI) on the Alignment for Advanced Machine Learning Systems (AAMLS) agenda, announces that she is no longer working on the agenda. Around this time, she also leaves MIRI. The other two people working on the agenda also leave at around the same time: Patrick LaVictoire leaves MIRI completely, and Andrew Critch goes on indefinite leave to work on the Center for Human-Compatible AI (CHAI). The connection between Taylor''s post and the departures is made in the MIRI blog post https://intelligence.org/2017/07/04/updates-to-the-research-team-and-a-major-donation/ on July 4, 2017' /* notes */
+    )
 ;
