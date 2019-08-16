@@ -52,4 +52,6 @@ insert into product_creators(product, name, kind) values
     ,('Open Philanthropy Project AI Fellows Program','Open Philanthropy Project','organization')
     ,('AI Alignment Forum','LessWrong 2.0','organization')
     ,('LessWrong 2.0','LessWrong 2.0','organization')
+    ,('Clarifying some key hypotheses in AI alignment','Ben Cottier','person')
+    ,('Clarifying some key hypotheses in AI alignment','Rohin Shah','person')
 ;

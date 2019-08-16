@@ -1,7 +1,7 @@
 create table products(
     product_id int(11) not null auto_increment primary key,
     name varchar(100) not null unique,
-    product_type enum('blog','wiki','list','flowchart','graphic','discussion group','course','interactive application','workshop','contest','fellowship'),
+    product_type enum('blog','wiki','list','flowchart','graphic','discussion group','course','interactive application','workshop','contest','fellowship','diagram'),
     creation_date date,
     creation_date_precision enum('day','month','year','multi-year'),
     url varchar(200),
@@ -41,4 +41,5 @@ insert into products(name, product_type, creation_date, creation_date_precision,
     ,('Open Philanthropy Project AI Fellows Program','fellowship','2017-09-12','day','https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/open-philanthropy-project-ai-fellows-program','A fellowship to support PhD students in AI and machine learning. For the creation date, see <https://www.facebook.com/vipulnaik.r/posts/10213116327718748>.')
     ,('AI Alignment Forum','blog','2018-07-10','day','https://www.alignmentforum.org/','A group blog for discussion of technical aspects of AI alignment. The forum is built using the same software as LessWrong 2.0, and is integrated with LessWrong 2.0. For creation date, see <https://www.lesswrong.com/posts/JiMAMNAb55Qq24nES/announcing-alignmentforum-org-beta>.')
     ,('LessWrong 2.0','blog','2017-06-18','day','https://www.lesswrong.com','A community blog about rationality, decision theory, AI, the rationality community, and other topics relevant to AI safety. This is a re-launch/modernization of the original LessWrong. For the launch date, the date of the welcome post <https://www.lesswrong.com/posts/HJDbyFFKf72F52edp/welcome-to-lesswrong-2-0> is used.')
+    ,('Clarifying some key hypotheses in AI alignment','diagram','2019-08-15','day','https://www.lesswrong.com/posts/mJ5oNYnkYrd4sD5uE/clarifying-some-key-hypotheses-in-ai-alignment','A diagram collecting several hypotheses in AI alignment and their relationships to existing research agendas.')
 ;
