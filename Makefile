@@ -41,6 +41,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/cfar-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/general-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/givewell-org-docs.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/impossible-foods-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/lesswrong-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/miri-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/open-phil-org-docs.sql
