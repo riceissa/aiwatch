@@ -38,4 +38,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI', /* cause_area */
         'There is one substantive answer from Ilya Sutskever (Research Director), who says that interns have significant freedom, get to work closely with researchers, and that OpenAI generally hires non-PhD interns' /* notes */
    )
+  ,(
+        'https://www.reddit.com/r/MachineLearning/comments/404r9m/ama_the_openai_research_team/', /* url */
+        'AMA: the OpenAI Research Team', /* title */
+        '2016-01-08', /* publication_date */
+        '2016-01-09', /* modified_date */
+        'Ilya Sutskever', /* author */
+        'Reddit', /* publisher */
+        'OpenAI', /* affected_organizations */
+        'Ilya Sutskever|Andrej Karpathy|Durk Kingma|Greg Brockman|John Schulman|Vicki Cheung|Wojciech Zaremba', /* affected_people */
+        'Job experience', /* document_scope */
+        'AI', /* cause_area */
+        '6 members of the OpenAI research team, including Research Director Ilya Sutskever, conduct an Ask Me Anything (AMA) on Reddit. This is about one month after the official launch of OpenAI' /* notes */
+   )
 ;
