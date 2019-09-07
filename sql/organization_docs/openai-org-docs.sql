@@ -51,4 +51,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI', /* cause_area */
         '6 members of the OpenAI research team, including Research Director Ilya Sutskever, conduct an Ask Me Anything (AMA) on Reddit. This is about one month after the official launch of OpenAI' /* notes */
    )
+  ,(
+        'https://80000hours.org/podcast/episodes/the-world-needs-ai-researchers-heres-how-to-become-one/', /* url */
+        'How to train for a job developing AI at OpenAI or DeepMind', /* title */
+        '2017-07-21', /* publication_date */
+        NULL, /* modified_date */
+        'Robert Wiblin', /* author */
+        '80,000 Hours', /* publisher */
+        'OpenAI|DeepMind', /* affected_organizations */
+        'Robert Wiblin|Daio Amodei', /* affected_people */
+        'Job experience', /* document_scope */
+        'AI', /* cause_area */
+        'Robert Wiblin interviews Dario Amodei for the 80,000 Hours podcast about working at OpenAI and about the domains of AI and AI safety. The latter half of the podcast includes advice for people training to work in AI organizations such as OpenAI and DeepMind' /* notes */
+   )
 ;
