@@ -51,4 +51,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Movement building', /* cause_area */
         'In response to an anonymous comment saying in part “I feel like a lot of skilled people are now wasting their time on EA (e.g., Oliver Habryka), many of whom would otherwise be working on issues more directly related to AGI”, Oliver Habryka responds that he is no longer working in effective altruist movement building and that he almost certainly should not have spent two years working in the area.' /* notes */
     )
+    ,(
+        'https://forum.effectivealtruism.org/posts/wL6nzXsHQEAZ2WJcR/summary-of-core-feedback-collected-by-cea-in-spring-summer', /* url */
+        'Summary of Core Feedback Collected by CEA in Spring/Summer 2019', /* title */
+        '2019-11-07', /* publication_date */
+        NULL, /* modified_date */
+        'Ben West', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Centre for Effective Altruism', /* affected_organizations */
+        NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'Movement building', /* cause_area */
+        'The document summarizes findings from feedback collected by CEA in the Spring and Summer of 2019 from "about a dozen people who work in senior positions in EA-aligned organizations" about CEA and the effective altruism community. The post also says "The feedback is presented “as is,” without any endorsement by CEA." Things listed as going well include (1) comnunity health and events projects, (2) smart, talented, and thoughtful members, (3) kind members. Things which could be improved: (1) execution issues with EA Grants, EA Funds, and other projects, (2) communication and branding issues with EA Global and the EA Forum, (3) perception of low welcomingness, (4) demographic homogeneity.' /* notes */
+    )
 ;

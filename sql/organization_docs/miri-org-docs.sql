@@ -350,4 +350,18 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI safety', /* cause_area */
         'Jessica Taylor, who has been working at the Machine Intelligence Research Institute (MIRI) on the Alignment for Advanced Machine Learning Systems (AAMLS) agenda, announces that she is no longer working on the agenda. Around this time, she also leaves MIRI. The other two people working on the agenda also leave at around the same time: Patrick LaVictoire leaves MIRI completely, and Andrew Critch goes on indefinite leave to work on the Center for Human-Compatible AI (CHAI). The connection between Taylor''s post and the departures is made in the MIRI blog post https://intelligence.org/2017/07/04/updates-to-the-research-team-and-a-major-donation/ on July 4, 2017' /* notes */
     )
+    ,(
+        'https://www.lesswrong.com/posts/5syG88rmW5iD9kTM5/is-it-harder-to-become-a-miri-mathematician-in-2019-compared', /* url */
+        'Is it harder to become a MIRI mathematician in 2019 compared to in 2013?', /* title */
+        '2019-10-29', /* publication_date */
+        NULL, /* modified_date */
+        'Issa Rice', /* author */
+        'LessWrong', /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+        'Nate Soares', /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'Issa Rice divides MIRI research employees between "mathematicians" and "engineers" and notes that recently, MIRI has hired mostly engineers and not mathematicians. He also considers the example of Nate Soares, whose background prior to joining MIRI matched the engineer profile, but who still joined and did initial work as a mathematician. His post asks the question of whether this suggests it is harder to become a MIRI mathematician in 2019 (the time of writing the post) compared to 2013. The post includes a list of potential differences between the time periods.' /* notes */
+    )
+
 ;
