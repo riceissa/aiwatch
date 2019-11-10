@@ -52,6 +52,19 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'In response to an anonymous comment saying in part “I feel like a lot of skilled people are now wasting their time on EA (e.g., Oliver Habryka), many of whom would otherwise be working on issues more directly related to AGI”, Oliver Habryka responds that he is no longer working in effective altruist movement building and that he almost certainly should not have spent two years working in the area.' /* notes */
     )
     ,(
+        'https://www.centreforeffectivealtruism.org/blog/max-dalton-appointed-as-ceas-executive-director/', /* url */
+        'Max Dalton appointed as CEA’s Executive Director', /* title */
+        '2019-10-18', /* publication_date */
+        NULL, /* modified_date */
+        'Owen Cotton-Barratt|Jenna Peters|Julia Wise|Nick Beckstead|Will MacAskill', /* author */
+        'Centre for Effective Altruism', /* publisher */
+        'Centre for Effective Altruism', /* affected_organizations */
+        'Max Dalton', /* affected_people */
+        'Successful hire', /* document_scope */
+        'Movement building', /* cause_area */
+        'The blog post announces that Max Dalton is now the Executive Director of CEA. Dalton had been serving as Interim Executive Director of CEA since the firing of Larissa Hesketh-Rowe from the Executive Director position in January. The blog post is written by the committee that had been entrusted with the CEO search. This committee "solicited recommendations for possible candidates from over 70 stakeholders and worked to investigate roughly a dozen recommended people. The committee would like to thank staff, stakeholders, and community members for their input and the candidates for their time and patience during this process."' /* notes */
+    )
+    ,(
         'https://forum.effectivealtruism.org/posts/wL6nzXsHQEAZ2WJcR/summary-of-core-feedback-collected-by-cea-in-spring-summer', /* url */
         'Summary of Core Feedback Collected by CEA in Spring/Summer 2019', /* title */
         '2019-11-07', /* publication_date */
