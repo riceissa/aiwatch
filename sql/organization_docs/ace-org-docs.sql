@@ -1,5 +1,18 @@
 insert into organization_documents(url, title, publication_date, modified_date, author, publisher, affected_organizations, affected_people, document_scope, cause_area, notes) values
     (
+        'https://animalcharityevaluators.org/blog/how-should-we-evaluate-organizational-factors-that-affect-charity-performance/', /* url */
+        'How should we evaluate organizational factors that affect charity performance?', /* title */
+        '2017-07-09', /* publication_date */
+        NULL, /* modified_date */
+        'Allison Smith', /* author */
+        'Animal Charity Evaluators', /* publisher */
+        NULL, /* affected_organizations */
+        NULL, /* affected_people */
+        'General discussion of organizational practices', /* document_scope */
+        'Animal welfare', /* cause_area */
+        'The blog post describes how Animal Charity Evaluators plans to operationalize two of its seven criteria for evaluating animal charities, both of which are organizational in nature. The criteria are: Criterion 6, "The charity has strong leadership and a well-developed strategic vision" and Criterion 7, "The charity has a healthy culture and a sustainable structure". ACE''s process for fleshing out the criteria included a review of academic literature and expert recommendations, and the blog post includes many links to articles from the academic literature.' /* notes */
+    )
+    ,(
         'https://animalcharityevaluators.org/blog/roundtable-what-can-animal-charities-do-to-promote-healthy-work-cultures/', /* url */
         'Roundtable: what can animal charities do to promote healthy work cultures?', /* title */
         '2018-04-17', /* publication_date */
