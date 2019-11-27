@@ -1,7 +1,7 @@
 create table organization_documents (
   organization_document_id int(11) not null auto_increment primary key,
   url varchar(200),
-  title varchar(200),
+  title varchar(300),
   publication_date date,
   modified_date date,
   author varchar(200),
