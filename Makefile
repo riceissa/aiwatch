@@ -37,6 +37,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ought-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/cfar-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_documents.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/ace-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/cea-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/cfar-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/general-org-docs.sql
