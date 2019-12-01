@@ -387,6 +387,6 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Buck Shlegeris', /* affected_people */
         'AMA', /* document_scope */
         'AI safety', /* cause_area */
-        'On Friday November 15, Buck Shlegeris posts an Ask Me Anything (AMA) on the Effective Altruism Forum. He plans to respond to the questions on Tuesday November 19' /* notes */
+        'On Friday November 15, Buck Shlegeris posts an Ask Me Anything (AMA) on the Effective Altruism Forum. He responds to the questions on Tuesday November 19' /* notes */
     )
 ;
