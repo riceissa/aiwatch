@@ -101,7 +101,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* affected_people */
         'Hiring-related notice', /* document_scope */
         'Charity evaluator', /* cause_area */
-        'Elie Hassenfeld announces that GiveWell is looking for outstanding people to join its team, specifically the Resaerch Analyst and Research Associate positions. He says that GiveWell is hiring for both full-time positions and paid summer internships.' /* notes */
+        'Elie Hassenfeld announces that GiveWell is looking for outstanding people to join its team, specifically the Research Analyst and Research Associate positions. He says that GiveWell is hiring for both full-time positions and paid summer internships.' /* notes */
     )
     ,(
         'https://blog.givewell.org/2013/08/29/we-cant-simply-buy-capacity/', /* url */
