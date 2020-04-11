@@ -106,7 +106,7 @@ if ($stmt = $mysqli->prepare("select * from positions where person = ?")) {
   $result = $stmt->get_result();
 }
 ?>
-<h2>List of positions (<?= $result->num_rows ?> <?= $result->num_rows == 1 ? "position" : "positions" ?>)</h2>
+<h2 id="list-of-positions">List of positions (<?= $result->num_rows ?> <?= $result->num_rows == 1 ? "position" : "positions" ?>)</h2>
 
 <table>
   <thead>

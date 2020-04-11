@@ -410,7 +410,7 @@ if ($stmt = $mysqli->prepare($query)) {
   $result = $stmt->get_result();
 }
 ?>
-<h2>List of people (<?= $result->num_rows ?> <?= $result->num_rows == 1 ? "position" : "positions" ?>)</h2>
+<h2 id="list-of-people">List of people (<?= $result->num_rows ?> <?= $result->num_rows == 1 ? "position" : "positions" ?>)</h2>
 
 <table>
   <thead>
