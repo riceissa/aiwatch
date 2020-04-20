@@ -96,6 +96,23 @@ while ($row = $result->fetch_assoc()) { ?>
     </tr>
   <?php } ?>
 
+  <?php
+  if ($stmt = $mysqli->prepare("select * from agendas where associated_people REGEXP ?")) {
+    $stmt->bind_param("s", $person);
+    $stmt->execute();
+    $result = $stmt->get_result();
+  }
+  $agendas = array();
+  while ($row = $result->fetch_assoc()) {
+    $agendas[] = $row['name'];
+  }
+  ?>
+  <?php if ($agendas) { ?>
+    <tr>
+      <td>Agendas</td>
+      <td><?= implode(", ", array_map("link_agenda", $agendas)) ?></td>
+    </tr>
+  <?php } ?>
   </tbody>
 </table>
 
