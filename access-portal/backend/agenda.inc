@@ -66,6 +66,7 @@ if ($stmt = $mysqli->prepare("select * from documents where affected_agendas reg
       <th>Publisher</th>
       <th>Affected organizations</th>
       <th>Affected people</th>
+      <th>Affected agendas</th>
       <th>Notes</th>
     </tr>
   </thead>
@@ -79,6 +80,7 @@ if ($stmt = $mysqli->prepare("select * from documents where affected_agendas reg
         <td><?= $row['publisher'] ?></td>
         <td><?= implode(", ", array_map("link_organization", explode("|", $row['affected_organizations']))) ?></td>
         <td><?= implode(", ", array_map("link_person", explode("|", $row['affected_people']))) ?></td>
+        <td><?= implode(", ", array_map("link_agenda", explode("|", $row['affected_agendas']))) ?></td>
         <td><?= formatted_notes($row['notes'], $seen) ?></td>
       </tr>
     <?php }
