@@ -64,5 +64,18 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Rationality improvement', /* cause_area */
         'Duncan Sabien played a key role at the Center for Applied Rationality in conducting workshops and shaping the curriculum till his departure in late 2018 and the complete ending of his work with CFAR in April 2019 https://www.facebook.com/duncan.sabien/posts/2483881418313227 He explains that he believes that the new CFAR, under Tim Telleen-Lawton, will be quite different fom the CFAR where Duncan played a key role, partly due to a deliberate attempt by Tim to explore new directions. He also mentions the limited amount of knowledge transfer time (10 hours) from him to the new team, as well as the departure of Val and Anna Salamon switching to part-time.' /* notes */
     )
+    ,(
+        'https://forum.effectivealtruism.org/posts/eboo4zuXyXp3KhPus/how-is-it-going-with-cfar', /* url */
+        'How is it going with CFAR?', /* title */
+        '2020-06-11', /* publication_date */
+        NULL, /* modified_date */
+        'Duncan Sabien', /* author */
+        NULL, /* publisher */
+        'Center for Applied Rationality', /* affected_organizations */
+        'Adam Scholl', /* affected_people */
+        'General discussion of organizational practices', /* document_scope */
+        'Rationality improvement', /* cause_area */
+        'Jorgen Ljones posts a question to the Effective Altruism Forum asking what CFAR is up to, since their main activity (in-person workshops) is paused due to the COVID-19 pandemic. Adam Scholl, a CFAR instructor, replies: "Currently CFAR is on sabbatical, which we planned to allocate a couple months this year toward anyway. I.e., we''re reading, and learning and scheming, and in general trying to improve ourselves in ways that are hard to find time for during our normally-dense workshop schedule. We''re considering a range of options for what to do next—e.g. online workshops, zoom mentoring, helping other orgs in some way—but we haven''t yet settled on a decision."' /* notes */
+    )
 ;
 
