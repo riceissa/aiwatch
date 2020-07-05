@@ -2,7 +2,7 @@
 
 # Replacement makefile as a workaround for use in Windows (Git Bash).
 
-MYSQL="winpty /c/Program\\ Files/MySQL/MySQL\\ Server\\ 8.0/bin/mysql"
+MYSQL='winpty "/c/Program\ Files/MySQL/MySQL\ Server\ 8.0/bin/mysql"'
 
 $MYSQL --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "drop table if exists people"
 $MYSQL --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "drop table if exists positions"
