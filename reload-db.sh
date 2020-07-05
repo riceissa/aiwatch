@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 mysql --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "drop table if exists people"
 mysql --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "drop table if exists positions"
