@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Replacement makefile as a workaround for use in Windows (Git Bash).
+
 mysql --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "drop table if exists people"
 mysql --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "drop table if exists positions"
 mysql --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "drop table if exists organizations"
