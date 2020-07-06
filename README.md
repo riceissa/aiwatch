@@ -54,6 +54,64 @@ make fetch_tablesorter
 
 You can now visit `http://localhost:8000/` in your browser.
 
+## Basic steps for adding new data
+
+1. Open an existing .sql file or make a new .sql file in which to add new data.
+   For example, to add data to 80,000 Hours positions, you can open
+   `sql/positions/80000hours-positions.sql`.
+
+2. Add data to the file by looking at sources like Wayback Machine for the team
+   page, LinkedIn, blog posts, Facebook, etc.  For the data format, look at the
+   other files in the same directory and copy the format.
+
+   A few things to keep in mind:
+
+   - Date fields must include year, month, and day, so for example
+     `'2016-02-01'`. MySQL will complain if you only add year or month.
+   - The first row of a file shouldn't start with a comma, but all the
+     subsequent rows must start with a comma because of the way rows are
+     separated in MySQL.
+
+3. Stage the file in git. Type
+
+   ```bash
+   git add FILENAME
+   ```
+
+   where `FILENAME` is the name of the file(s) you have been editing.
+
+4. Commit your changes. There are two ways to do this:
+
+   - Simple way. You can type:
+
+     ```bash
+     git commit -m "your message here"
+     ```
+
+     where `your message here` is a summary of the changes you made. For example, you might type:
+
+     ```bash
+     git commit -m "Add 80,000 Hours team from 2012"
+     ```
+
+   - Using a text editor. You can type:
+
+     ```bash
+     git commit
+     ```
+
+     This will start a text editor for you to type your commit message. In Git
+     Bash, the default text editor is Vim. You can press `i` (which enters
+     insert mode) and then type in your message (e.g. "Add 80,000 Hours team
+     from 2012") and then press `Escape`. Then press `:wq` followed by `Enter`
+     (this will save the file and close Vim).
+
+5. Push your changes to GitHub. You can type:
+
+   ```bash
+   git push
+   ```
+
 ## Contributing
 
 All contributions are welcome.  Contributions might take the form of:
