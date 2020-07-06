@@ -60,7 +60,8 @@ You can now visit `http://localhost:8000/` in your browser.
    For example, to add data to 80,000 Hours positions, you can open
    `sql/positions/80000hours-positions.sql`.
 
-2. Add data to the file by looking at sources like Wayback Machine for the team
+2. Add data to the file (using a text editor such as Notepad) by looking at
+   sources like Wayback Machine for the team
    page, LinkedIn, blog posts, Facebook, etc.  For the data format, look at the
    other files in the same directory and copy the format.
 
@@ -72,7 +73,8 @@ You can now visit `http://localhost:8000/` in your browser.
      subsequent rows must start with a comma because of the way rows are
      separated in MySQL.
 
-3. Check for errors in the MySQL syntax. Type:
+3. Once you reach a good stopping point, check for errors in the MySQL syntax.
+   Type:
 
    ```bash
    ./reload-db.sh
@@ -92,7 +94,9 @@ You can now visit `http://localhost:8000/` in your browser.
    git add FILENAME
    ```
 
-   where `FILENAME` is the name of the file(s) you have been editing.
+   where `FILENAME` is the name of the file you have been editing. If there are
+   multiple files, you can either type `git add FILENAME1 FILENAME2` or you can
+   type one line for each file.
 
 5. Commit your changes. There are two ways to do this:
 
@@ -115,17 +119,26 @@ You can now visit `http://localhost:8000/` in your browser.
      git commit
      ```
 
-     This will start a text editor for you to type your commit message. In Git
+     This will open a text editor for you to type your commit message. In Git
      Bash, the default text editor is Vim. You can press `i` (which enters
      insert mode) and then type in your message (e.g. "Add 80,000 Hours team
      from 2012") and then press `Escape`. Then press `:wq` followed by `Enter`
      (this will save the file and close Vim).
 
-6. Push your changes to GitHub. You can type:
+6. Upload your changes to GitHub. You can type:
 
    ```bash
    git push
    ```
+
+Some tricky things to keep in mind:
+
+- An organization might change its team page location, so you might need to
+  find its old team page location in Wayback Machine. To do this, go to the
+  _homepage_ for the organization within Wayback Machine, find an old snapshot,
+  then find the team page within that snapshot.
+- A person might have changed their name over the years. In this case, you will
+  want to use their newest name.
 
 ## Contributing
 
