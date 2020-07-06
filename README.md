@@ -140,6 +140,13 @@ Some tricky things to keep in mind:
 - A person might have changed their name over the years. In this case, you will
   want to use their newest name.
 
+The very first time you set up Git, you will need to do the following:
+
+- Set name and email for Git.
+- `git checkout -b BRANCHNAME` to start a new branch.
+- `git push --set-upstream origin BRANCHNAME` to set the branch to push to on
+  origin (GitHub).
+
 ## Contributing
 
 All contributions are welcome.  Contributions might take the form of:
