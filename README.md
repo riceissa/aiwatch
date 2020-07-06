@@ -72,7 +72,17 @@ You can now visit `http://localhost:8000/` in your browser.
      subsequent rows must start with a comma because of the way rows are
      separated in MySQL.
 
-3. Stage the file in git. Type
+3. Check for errors in the MySQL syntax. Type:
+
+   ```bash
+   ./reload-db.sh
+   ```
+
+   This will reload all of the data in MySQL. MySQL will complain if there are
+   any errors, and you can fix them. If MySQL says nothing, that means all the
+   data has correct syntax.
+
+4. Stage the file in git. Type
 
    ```bash
    git add FILENAME
@@ -80,7 +90,7 @@ You can now visit `http://localhost:8000/` in your browser.
 
    where `FILENAME` is the name of the file(s) you have been editing.
 
-4. Commit your changes. There are two ways to do this:
+5. Commit your changes. There are two ways to do this:
 
    - Simple way. You can type:
 
@@ -88,7 +98,8 @@ You can now visit `http://localhost:8000/` in your browser.
      git commit -m "your message here"
      ```
 
-     where `your message here` is a summary of the changes you made. For example, you might type:
+     where `your message here` is a summary of the changes you made. For
+     example, you might type:
 
      ```bash
      git commit -m "Add 80,000 Hours team from 2012"
@@ -106,7 +117,7 @@ You can now visit `http://localhost:8000/` in your browser.
      from 2012") and then press `Escape`. Then press `:wq` followed by `Enter`
      (this will save the file and close Vim).
 
-5. Push your changes to GitHub. You can type:
+6. Push your changes to GitHub. You can type:
 
    ```bash
    git push
