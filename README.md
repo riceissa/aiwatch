@@ -82,6 +82,10 @@ You can now visit `http://localhost:8000/` in your browser.
    any errors, and you can fix them. If MySQL says nothing, that means all the
    data has correct syntax.
 
+   (One tricky point: `reload-db.sh` only reloads files that are explicitly
+   listed in the script, so if you made a new file, you will need to add it to
+   the script.)
+
 4. Stage the file in git. Type
 
    ```bash
