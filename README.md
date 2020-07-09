@@ -132,7 +132,8 @@ commands below must be done every time you want to save changes to git.
      git commit -m "Add 80,000 Hours team from 2012"
      ```
 
-   - Using a text editor. You can type:
+   - Using a text editor (this is better if you want to write a multi-line
+     commit message). You can type:
 
      ```bash
      git commit
