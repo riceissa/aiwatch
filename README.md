@@ -56,6 +56,17 @@ You can now visit `http://localhost:8000/` in your browser.
 
 ## Basic steps for adding new data
 
+Before running commands in Git Bash, make sure you are in the AI Watch directory.
+If you cloned the git repo from your home directory, you can go to the AI Watch
+directory by typing the following:
+
+```
+cd ~/aiwatch
+```
+
+This only needs to be done once every time you open Git Bash, whereas the other
+commands below must be done every time you want to save changes to git.
+
 1. Open an existing .sql file or make a new .sql file in which to add new data.
    For example, to add data to 80,000 Hours positions, you can open
    `sql/positions/80000hours-positions.sql`.
@@ -97,6 +108,14 @@ You can now visit `http://localhost:8000/` in your browser.
    where `FILENAME` is the name of the file you have been editing. If there are
    multiple files, you can either type `git add FILENAME1 FILENAME2` or you can
    type one line for each file.
+
+   To find all files with changes, you can type:
+
+   ```bash
+   git status
+   ```
+
+   Then you can copy the path that is shown there.
 
 5. Commit your changes. There are two ways to do this:
 
