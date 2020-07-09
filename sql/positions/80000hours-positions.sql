@@ -7,6 +7,7 @@
 # https://www.linkedin.com/in/howie-lempel/
 # https://www.linkedin.com/in/robertwiblin/?originalSubdomain=uk
 # https://www.linkedin.com/in/roman-duda-52287a52/
+# https://www.linkedin.com/in/keiran-harris-b799541a6/
 
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
     ('Peter McIntyre', '80,000 Hours', 'Head of Coaching', '2016-02-01', NULL, '2018-06-01', NULL, 'https://www.linkedin.com/in/peteramcintyre/?fbclid=IwAR2gbTSKWW1uN-AVtO_kx7_Aw_08OisKikAd-88FjjjLD1IllqzFLC2PQVE', 'profile says he worked as Head of Coaching between Feb 2016 and Jul 2018', NULL, 'effective altruism') 
@@ -30,7 +31,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Habiba Islam', '80,000 Hours', 'Advisor', '2020-05-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/habiba-i-5a1aa194/', NULL, NULL, 'effective altruism')
     ,('Howie Lempel', '80,000 Hours', 'Strategy Advisor', '2018-09-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/howie-lempel/', NULL, NULL, 'effective altruism')
     ,('Robert Wiblin', '80,000 Hours', 'Director of Research', '2015-07-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/robertwiblin/?originalSubdomain=uk', NULL, NULL, 'effective altruism')
-    ,('Roman Duda', '80,000 Hours', 'Director of Research', '2013-03-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/roman-duda-52287a52/', NULL, NULL, 'effective altruism')
+    ,('Roman Duda', '80,000 Hours', 'Director of Content', '2013-03-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/roman-duda-52287a52/', NULL, NULL, 'effective altruism')
+    ,('Keiran Harris', '80,000 Hours', 'Podcast producer', '2017-09-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/keiran-harris-b799541a6/', NULL, NULL, 'effective altruism')
 ;
 
 
