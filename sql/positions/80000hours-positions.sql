@@ -19,6 +19,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Matt Gibb', '80,000 Hours', 'Cofounder and technical advisor', '2011-11-01', NULL, NULL, NULL, 'http://web.archive.org/web/20120115044830/http://80000hours.org/meet-the-team', NULL, NULL, 'effective altruism')
     ,('Eric Gastfriend', '80,000 Hours', '80,000 Hours online social network developer', '2011-11-01', NULL, NULL, NULL, 'http://web.archive.org/web/20120115044830/http://80000hours.org/meet-the-team', NULL, NULL, 'effective altruism')
     ,('Robbie Shade', '80,000 Hours', '80,000 Hours website lead developer', '2011-11-01', NULL, NULL, NULL, 'http://web.archive.org/web/20120115044830/http://80000hours.org/meet-the-team', NULL, NULL, 'effective altruism')
+    ,('Arden Koehler', '80,000 Hours', 'Research Analyst', '2019-10-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/arden-koehler-2623a14a/', NULL, NULL, 'effective altruism')
 ;
 
 
