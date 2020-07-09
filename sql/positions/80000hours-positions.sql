@@ -3,6 +3,7 @@
 # http://web.archive.org/web/20120115044830/http://80000hours.org/meet-the-team
 # https://www.linkedin.com/in/arden-koehler-2623a14a/
 # https://www.linkedin.com/in/brenton-mayer-a2835188/
+# https://www.linkedin.com/in/habiba-i-5a1aa194/
 
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
     ('Peter McIntyre', '80,000 Hours', 'Head of Coaching', '2016-02-01', NULL, '2018-06-01', NULL, 'https://www.linkedin.com/in/peteramcintyre/?fbclid=IwAR2gbTSKWW1uN-AVtO_kx7_Aw_08OisKikAd-88FjjjLD1IllqzFLC2PQVE', 'profile says he worked as Head of Coaching between Feb 2016 and Jul 2018', NULL, 'effective altruism') 
@@ -23,6 +24,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Robbie Shade', '80,000 Hours', '80,000 Hours website lead developer', '2011-11-01', NULL, NULL, NULL, 'http://web.archive.org/web/20120115044830/http://80000hours.org/meet-the-team', NULL, NULL, 'effective altruism')
     ,('Arden Koehler', '80,000 Hours', 'Research Analyst', '2019-10-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/arden-koehler-2623a14a/', NULL, NULL, 'effective altruism')
     ,('Brenton Mayer', '80,000 Hours', 'Head of Internal Systems', '2017-02-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/brenton-mayer-a2835188/', NULL, NULL, 'effective altruism')
+    ,('Habiba Islam', '80,000 Hours', 'Advisor', '2020-05-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/habiba-i-5a1aa194/', NULL, NULL, 'effective altruism')
 ;
 
 
