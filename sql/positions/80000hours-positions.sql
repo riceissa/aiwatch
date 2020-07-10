@@ -33,8 +33,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Robert Wiblin', '80,000 Hours', 'Director of Research', '2015-07-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/robertwiblin/?originalSubdomain=uk', NULL, NULL, 'effective altruism')
     ,('Roman Duda', '80,000 Hours', 'Director of Content', '2013-03-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/roman-duda-52287a52/', NULL, NULL, 'effective altruism')
     ,('Keiran Harris', '80,000 Hours', 'Podcast producer', '2017-09-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/keiran-harris-b799541a6/', NULL, NULL, 'effective altruism')
+    ,('Peter Hartree', '80,000 Hours', 'Technical Director', '2014-14-17', NULL, NULL, NULL, 'https://web.archive.org/web/20141117051318/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
 ;
 
+
+ 
 
 
 
