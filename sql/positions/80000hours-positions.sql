@@ -35,6 +35,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Keiran Harris', '80,000 Hours', 'Podcast producer', '2017-09-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/keiran-harris-b799541a6/', NULL, NULL, 'effective altruism')
     ,('Peter Hartree', '80,000 Hours', 'Technical Director', '2014-11-17', NULL, NULL, NULL, 'https://web.archive.org/web/20141117051318/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
     ,('Jenna Peters', '80,000 Hours', 'Advisor', '2020-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jenna-c-peters/?originalSubdomain=uk  https://web.archive.org/web/20200220010455/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20200314122946/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
+    ,('Maria Gutierrez Rojas', '80,000 Hours', 'Freelance graphic designer', '2015-11-26', NULL, NULL, NULL, 'https://web.archive.org/web/20151126205931/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20150704055257/https://80000hours.org/about/meet-the-team/', 'Joining date was inferred by exploring Wayback Machine snapshot captures', NULL, 'effective altruism')
 ;
 
 
