@@ -34,7 +34,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Roman Duda', '80,000 Hours', 'Director of Content', '2013-03-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/roman-duda-52287a52/', NULL, NULL, 'effective altruism')
     ,('Keiran Harris', '80,000 Hours', 'Podcast producer', '2017-09-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/keiran-harris-b799541a6/', NULL, NULL, 'effective altruism')
     ,('Peter Hartree', '80,000 Hours', 'Technical Director', '2014-11-17', NULL, NULL, NULL, 'https://web.archive.org/web/20141117051318/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
-    ,('Jenna Peters', '80,000 Hours', 'Advisor', '2020-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jenna-c-peters/?originalSubdomain=uk  https://web.archive.org/web/20200220010455/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20200314122946/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
+    ,('Jenna Peters', '80,000 Hours', 'Advisor', '2020-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jenna-c-peters/?originalSubdomain=uk  https://web.archive.org/web/20200220010455/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20200314122946/ https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
+    ,('Miranda Dixon Luinenburg', '80,000 Hours', 'Operations Manager US branch', '2017-08-16', NULL, NULL, NULL, 'https://web.archive.org/web/20170513070448/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20170816061853/ https://80000hours.org/about/meet-the-team/' , NULL, NULL, 'effective altruism')
+    ,('Brenton Mayer', '80,000 Hours', 'Co-head of Coaching', '2017-02-01', 'month', NULL, NULL, 'https://web.archive.org/web/20170226223417/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20170816061853/https://80000hours.org/about/meet-the-team/ https://www.linkedin.com/in/brenton-mayer-a2835188/' , NULL, NULL, 'effective altruism')
 ;
 
 
