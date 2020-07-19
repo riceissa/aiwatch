@@ -47,6 +47,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Tom Ash', '80,000 Hours', 'Director of Operations', '2012-09-24', NULL , NULL, NULL, 'https://web.archive.org/web/20120824064711/http://80000hours.org/meet-the-team https://web.archive.org/web/20120924094442/http://80000hours.org/meet-the-team' , NULL, NULL, 'effective altruism')
     ,('George McGowan', '80,000 Hours', 'Human Resources', '2012-09-24', NULL , NULL, NULL, 'https://web.archive.org/web/20120824064711/http://80000hours.org/meet-the-team https://web.archive.org/web/20120924094442/http://80000hours.org/meet-the-team' , NULL, NULL, 'effective altruism')
     ,('Andreas Mogensen', '80,000 Hours', 'Legal and Financial', '2012-09-24', NULL , NULL, NULL, 'https://web.archive.org/web/20120824064711/http://80000hours.org/meet-the-team https://web.archive.org/web/20120924094442/http://80000hours.org/meet-the-team' , NULL, NULL, 'effective altruism')
+    ,('Matt Wright', '80,000 Hours', 'Logistics', '2012-09-24', NULL , NULL, NULL, 'https://web.archive.org/web/20120824064711/http://80000hours.org/meet-the-team https://web.archive.org/web/20120924094442/http://80000hours.org/meet-the-team' , NULL, NULL, 'effective altruism')
 ;
 
 
