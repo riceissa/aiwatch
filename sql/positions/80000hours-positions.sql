@@ -40,6 +40,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Max Deacon', '80,000 Hours', 'Finance Manager for the Centre for Effective Altruism, 80,000 Hours’ parent charitable company', '2012-02-01', 'month', NULL, NULL, 'https://web.archive.org/web/20120324063106/http://80000hours.org/meet-the-team' , NULL, NULL, 'effective altruism')
     ,('Mark Lee', '80,000 Hours', 'Director of Strategy, 80,000 Hours’ parent charitable company', '2012-02-01', 'month', NULL, NULL, 'https://web.archive.org/web/20120324063106/http://80000hours.org/meet-the-team' , NULL, NULL, 'effective altruism')
     ,('Carl Shulman', '80,000 Hours', 'Director of Careers Research', '2011-11-01', 'month', NULL, NULL, 'https://web.archive.org/web/20120423233421/http://80000hours.org/meet-the-team' , NULL, NULL, 'effective altruism')
+    ,('Tom Rowlands', '80,000 Hours', 'Communications Director', '2011-11-01', 'month', NULL, NULL, 'https://web.archive.org/web/20120423233421/http://80000hours.org/meet-the-team' , NULL, NULL, 'effective altruism')
 ;
 
 
