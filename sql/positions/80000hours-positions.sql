@@ -43,6 +43,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Tom Rowlands', '80,000 Hours', 'Communications Director', '2011-11-01', 'month', NULL, NULL, 'https://web.archive.org/web/20120423233421/http://80000hours.org/meet-the-team' , NULL, NULL, 'effective altruism')
     ,('Jake Nebel', '80,000 Hours', 'Head of the Princeton Chapter', '2012-09-24', NULL , NULL, NULL, 'https://web.archive.org/web/20120824064711/http://80000hours.org/meet-the-team https://web.archive.org/web/20120924094442/http://80000hours.org/meet-the-team' , NULL, NULL, 'effective altruism')
     ,('Abbie Taylor', '80,000 Hours', 'Head of the Oxford Chapter', '2012-09-24', NULL , NULL, NULL, 'https://web.archive.org/web/20120824064711/http://80000hours.org/meet-the-team https://web.archive.org/web/20120924094442/http://80000hours.org/meet-the-team' , NULL, NULL, 'effective altruism')
+    ,('Ilan Fischer', '80,000 Hours', 'Head of the Yale Chapter', '2012-09-24', NULL , NULL, NULL, 'https://web.archive.org/web/20120824064711/http://80000hours.org/meet-the-team https://web.archive.org/web/20120924094442/http://80000hours.org/meet-the-team' , NULL, NULL, 'effective altruism')
 ;
 
 
