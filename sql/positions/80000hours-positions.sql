@@ -59,6 +59,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Max Siegel', '80,000 Hours', 'Head of the Princeton Chapter', '2013-07-24', NULL, NULL, NULL, 'https://web.archive.org/web/20130502215203/http://80000hours.org/meet-the-team https://web.archive.org/web/20130724115131/http://80000hours.org/meet-the-team', NULL, NULL, 'effective altruism')
     ,('Toby Ord', '80,000 Hours', 'Advisor', '2013-09-18', NULL, NULL, NULL, 'https://web.archive.org/web/20130805183500/http://80000hours.org/meet-the-team https://web.archive.org/web/20130918144332/http://80000hours.org/meet-the-team', NULL, 'advisor', 'effective altruism')
     ,('Paul Christiano', '80,000 Hours', 'Advisor', '2013-09-18', NULL, NULL, NULL, 'https://web.archive.org/web/20130805183500/http://80000hours.org/meet-the-team https://web.archive.org/web/20130918144332/http://80000hours.org/meet-the-team', NULL, 'advisor', 'effective altruism')
+    ,('Owen Cotton-Barratt', '80,000 Hours', 'Advisor', '2014-11-17', NULL, NULL, NULL, 'https://web.archive.org/web/20130918144332/http://80000hours.org/meet-the-team https://web.archive.org/web/20141117051325/https://80000hours.org/about/meet-the-team/', NULL, 'advisor', 'effective altruism')
 ;
 
 
