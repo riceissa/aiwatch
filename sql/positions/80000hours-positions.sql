@@ -55,6 +55,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Adam Casey', '80,000 Hours', 'Finance officer', '2013-01-01', 'month', '2012-06-01', 'month', 'https://web.archive.org/web/20130310120921/http://80000hours.org:80/meet-the-team https://web.archive.org/web/20130410235815/http://80000hours.org:80/meet-the-team', NULL, NULL, 'effective altruism')
     ,('Isaac Lewis', '80,000 Hours', 'Lead Web Developer', '2013-07-24', NULL, NULL, NULL, 'https://web.archive.org/web/20130502215203/http://80000hours.org/meet-the-team https://web.archive.org/web/20130724115131/http://80000hours.org/meet-the-team', NULL, NULL, 'effective altruism')
     ,('Jenny Brennan', '80,000 Hours', 'Brand Manager', '2013-07-01', 'month', '2013-10-01', 'month', 'https://web.archive.org/web/20130502215203/http://80000hours.org/meet-the-team https://web.archive.org/web/20130724115131/http://80000hours.org/meet-the-team https://www.linkedin.com/in/jennyhbren/?originalSubdomain=uk', NULL, NULL, 'effective altruism')
+    ,('Jacob Trefethen', '80,000 Hours', 'Head of the Cambridge Chapter', '2013-03-01', 'month', '2014-03-01', 'month', 'https://www.linkedin.com/in/jacob-trefethen-82105350/ https://web.archive.org/web/20130502215203/http://80000hours.org/meet-the-team https://web.archive.org/web/20130724115131/http://80000hours.org/meet-the-team', 'According to wayback snapshots, Jacob Trefethen first appeared on the team page in July 2013', NULL, 'effective altruism')
 ;
 
 
