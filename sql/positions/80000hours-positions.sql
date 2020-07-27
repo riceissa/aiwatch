@@ -70,6 +70,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Caitlin Elizondo', '80,000 Hours', 'Head of Operations at Centre For Effective Altruism staff who assist 80,000 Hours', '2018-04-08', NULL, NULL, NULL, 'https://web.archive.org/web/20180401174755/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20180408174204/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
     ,('Mason Hartman', '80,000 Hours', 'Operations Analyst at Centre For Effective Altruism staff who assist 80,000 Hours', '2018-04-08', NULL, NULL, NULL, 'https://web.archive.org/web/20180401174755/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20180408174204/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
     ,('Larissa Hesketh-Rowe', '80,000 Hours', 'Chief Operating Officer at Centre For Effective Altruism staff who assist 80,000 Hours', '2018-04-08', NULL, NULL, NULL, 'https://web.archive.org/web/20180401174755/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20180408174204/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
+    ,('Naoki Peter', '80,000 Hours', 'Freelance web developer', '2018-04-15', NULL, NULL, NULL, 'https://web.archive.org/web/20180408174204/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20180415175956/https://80000hours.org/about/meet-the-team/', NULL, 'contractor', 'effective altruism')
 ;
 
  
