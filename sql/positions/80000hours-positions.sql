@@ -69,6 +69,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Julia Wise', '80,000 Hours', 'Community Liaison at Centre For Effective Altruism Support Staff', '2017-08-16', NULL, NULL, NULL, 'https://web.archive.org/web/20170513070448/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20170816061853/Tara%20Mac%20Aulay://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
     ,('Caitlin Elizondo', '80,000 Hours', 'Head of Operations at Centre For Effective Altruism staff who assist 80,000 Hours', '2018-04-08', NULL, NULL, NULL, 'https://web.archive.org/web/20180401174755/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20180408174204/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
     ,('Mason Hartman', '80,000 Hours', 'Operations Analyst at Centre For Effective Altruism staff who assist 80,000 Hours', '2018-04-08', NULL, NULL, NULL, 'https://web.archive.org/web/20180401174755/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20180408174204/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
+    ,('Larissa Hesketh-Rowe', '80,000 Hours', 'Chief Operating Officer at Centre For Effective Altruism staff who assist 80,000 Hours', '2018-04-08', NULL, NULL, NULL, 'https://web.archive.org/web/20180401174755/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20180408174204/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
 ;
 
  
