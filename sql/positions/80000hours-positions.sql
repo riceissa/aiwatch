@@ -77,6 +77,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Mary O’Connor', '80,000 Hours', 'Office Manager', '2019-12-24', NULL, NULL, NULL, 'https://web.archive.org/web/20190617210852/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20191224082517/https://80000hours.org/about/meet-the-team/', NULL, 'contractor', 'effective altruism')
     ,('Claire Zabel', '80,000 Hours', 'Trustee', '2019-12-24', NULL, NULL, NULL, 'https://web.archive.org/web/20190617210852/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20191224082517/https://80000hours.org/about/meet-the-team/', NULL, 'advisor', 'effective altruism')
     ,('Hilary Greaves', '80,000 Hours', 'Trustee', '2019-12-24', NULL, NULL, NULL, 'https://web.archive.org/web/20190617210852/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20191224082517/https://80000hours.org/about/meet-the-team/', NULL, 'advisor', 'effective altruism')
+    ,('Louis Dixon', '80,000 Hours', 'Finance Lead at CEA staff who work with 80,000 Hours', '2020-02-20', NULL, NULL, NULL, 'https://web.archive.org/web/20200119184324/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20200220010455/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
 ;
 
 
