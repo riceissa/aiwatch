@@ -102,7 +102,11 @@ have been adding all the ones I could think of.</p>
   the <a href="https://github.com/riceissa/aiwatch">Git repository on
     GitHub</a>, which has all the code and data.</p>
 
-<p>So far, all of the development is done by Issa Rice.</p>
+<p>So far, all of the website code is written by Issa Rice.
+  <a href="https://github.com/sebastiansanchez123">Sebastian Sanchez</a> and
+  <a href="https://vipulnaik.com/">Vipul Naik</a>
+  have provided contributions to the data.
+</p>
 
 <p>Funding is provided by <a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=AI+Watch&amp;matching=exact">Vipul Naik</a> (see <a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=Org+Watch&amp;matching=exact">here</a> for the Org Watch funding).
   That page only covers task payment. The site is developed under work time for Vipul, which is funded by a stipend as well. The stipend payment for AI Watch can be calculated as a percentage of the total stipend depending on how much time I have spent working on this site. Development on Vipul’s time is limited to one day per week (for several more weeks). I will add a calculation here at some point.</p>
@@ -148,6 +152,8 @@ have been adding all the ones I could think of.</p>
   (<a href="https://orgwatch.issarice.com/">Org Watch</a>) began on
   <a href="https://github.com/riceissa/aiwatch/commit/ec99501ddc99897a2c23fdabb90210422caf3918">June 17, 2018</a>.
   The Org Watch subdomain became active on June 21, 2018.</p>
+
+<p>
 
 <h2>Feedback</h2>
 
