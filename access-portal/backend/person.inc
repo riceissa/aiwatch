@@ -7,7 +7,7 @@ if ($stmt = $mysqli->prepare("select * from people where person = ?")) {
   $stmt->execute();
   $result = $stmt->get_result();
   if ($result->num_rows < 1) {
-    echo "<p>Person not found.</p>";
+    echo "<p>Person not found.</p></body></html>\n";
     http_response_code(404);
     die();
   }
