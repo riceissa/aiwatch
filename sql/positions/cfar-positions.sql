@@ -42,4 +42,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Leah Libresco', 'Center for Applied Rationality', 'Curriculum Developer', '2013-01-01', 'month', '2013-11-01', 'month', 'https://www.linkedin.com/in/leah-libresco-27810a91/', NULL, NULL, NULL, NULL, 'AI safety')
     ,('Jesse Liptrap', 'Center for Applied Rationality', 'Director', NULL, NULL, NULL, NULL, 'https://www.rationality.org/about/staff', NULL, NULL, NULL, NULL, 'AI safety')
     ,('Michael Blume', 'Center for Applied Rationality', 'Director', NULL, NULL, NULL, NULL, 'https://www.rationality.org/about/staff', NULL, NULL, NULL, NULL, 'AI safety')
+    ,('Cat Lavigne', 'Center for Applied Rationality', 'Instructor', NULL, NULL, NULL, NULL, 'https://www.rationality.org/about/instructors', NULL, NULL, NULL, NULL, 'AI safety')
 ;
