@@ -33,5 +33,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Luke Raskopf','Center for Applied Rationality','Instructor & Operations','2018-08-12','month',NULL,NULL,'https://web.archive.org/web/20180812171539/http://rationality.org/about/team',NULL,'position',NULL,NULL,'AI safety')
     ,('Brienne Strohl','Center for Applied Rationality','Research and Instructor','2019-04-05','month',NULL,NULL,NULL,NULL,'position',NULL,NULL,'AI safety')
     ,('Xavier Prospero','Center for Applied Rationality','Admin Support','2019-04-29','month',NULL,NULL,NULL,NULL,'position',NULL,NULL,'AI safety')
-    ,('Julia Galef','Center for Applied Rationality','President and cofounder','2012-01-01','year','2016-12-01','year', 'https://www.facebook.com/julia.galef/posts/10103010525130302', NULL,'position',NULL,NULL,'AI safety')
+    ,('Julia Galef','Center for Applied Rationality','President and cofounder','2012-01-01','year','2016-12-01','year', 'https://www.facebook.com/julia.galef/posts/10103010525130302', NULL,NULL,NULL,NULL,'AI safety')
+    ,('Kenzi Amodei', 'Center for Applied Rationality', 'Director Of Operations', '2012-05-01', 'month', '2016-11-01', 'month', 'https://www.linkedin.com/in/kenzi-amodei-28b30111/', NULL, NULL, NULL, NULL, 'AI safety')
 ;
