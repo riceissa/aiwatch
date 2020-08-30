@@ -38,5 +38,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Davis Kingsley', 'Center for Applied Rationality', 'Instructor', '2016-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/davis-kingsley-4a8a6a142/', NULL, NULL, NULL, 'Contractor', 'AI safety')
     ,('Davis Kingsley', 'Center for Applied Rationality', 'Instructor', '2016-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/davis-kingsley-4a8a6a142/', NULL, NULL, NULL, 'full-time', 'AI safety')
     ,('Davis Kingsley', 'Center for Applied Rationality', 'Operations/Finance Manager', '2014-03-01', 'month', '2016-10-01', 'month', 'https://www.linkedin.com/in/davis-kingsley-4a8a6a142/', NULL, NULL, NULL, 'full-time', 'AI safety')
-    ,('Andrew Critch', 'Center for Applied Rationality', 'Cofounder and Curriculum Developer', '2013-05'01', 'month', '2014-03'01', 'month', 'https://www.linkedin.com/in/acritch/', NULL, NULL, NULL, NULL, 'AI safety')
+    ,('Andrew Critch', 'Center for Applied Rationality', 'Cofounder and Curriculum Developer', '2013-05-01', 'month', '2014-03-01', 'month', 'https://www.linkedin.com/in/acritch/', NULL, NULL, NULL, NULL, 'AI safety')
+    ,('Leah Libresco', 'Center for Applied Rationality', 'Curriculum Developer', '2013-01-01', 'month', '2013-11-01', 'month', 'https://www.linkedin.com/in/leah-libresco-27810a91/', NULL, NULL, NULL, NULL, 'AI safety')
 ;
