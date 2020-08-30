@@ -152,4 +152,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Philip Zealley','Centre for Effective Altruism','Marketing Intern','2016-09-01','month','2016-09-30','month','https://www.linkedin.com/in/philip-zealley-15a88912b/',NULL,'intern','Effective altruism')
     ,('Callum Calvert','Centre for Effective Altruism','Research Intern','2012-09-01','month','2012-09-30','month','https://www.linkedin.com/in/callumcalvert/',NULL,'intern','Effective altruism')
     ,('Caroline Jeanmaire','Centre for Effective Altruism','Community building trainee','2018-01-01','month','2018-03-01','month','https://www.linkedin.com/in/caroline-jeanmaire-a315ba6a/',NULL,'volunteer','Effective altruism')
+    ,('Joan Gass', 'Centre for Effective Altruism', 'Managing Director', '2019-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joan-gass-50a11b30/?originalSubdomain=uk', NULL, NULL, 'Effective altruism')
 ;
