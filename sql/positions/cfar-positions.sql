@@ -36,6 +36,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Julia Galef','Center for Applied Rationality','President and cofounder','2012-01-01','year','2016-12-01','year', 'https://www.facebook.com/julia.galef/posts/10103010525130302', NULL,NULL,NULL,NULL,'AI safety')
     ,('Kenzi Amodei', 'Center for Applied Rationality', 'Director Of Operations', '2012-05-01', 'month', '2016-11-01', 'month', 'https://www.linkedin.com/in/kenzi-amodei-28b30111/', NULL, NULL, NULL, NULL, 'AI safety')
     ,('Davis Kingsley', 'Center for Applied Rationality', 'Instructor', '2016-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/davis-kingsley-4a8a6a142/', NULL, NULL, NULL, 'Contractor', 'AI safety')
-    ,('Davis Kingsley', 'Center for Applied Rationality', 'Instructor', '2016-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/davis-kingsley-4a8a6a142/', NULL, NULL, NULL, 'Contractor', 'AI safety')
-    ,('Davis Kingsley', 'Center for Applied Rationality', 'Operations/Finance Manager', '2014-03-01', 'month', '2016-10-01', 'month', 'https://www.linkedin.com/in/davis-kingsley-4a8a6a142/', NULL, NULL, NULL, 'Full time', 'AI safety')
+    ,('Davis Kingsley', 'Center for Applied Rationality', 'Instructor', '2016-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/davis-kingsley-4a8a6a142/', NULL, NULL, NULL, 'full-time', 'AI safety')
+    ,('Davis Kingsley', 'Center for Applied Rationality', 'Operations/Finance Manager', '2014-03-01', 'month', '2016-10-01', 'month', 'https://www.linkedin.com/in/davis-kingsley-4a8a6a142/', NULL, NULL, NULL, 'full-time', 'AI safety')
+    ,('Andrew Critch', 'Center for Applied Rationality', 'Cofounder and Curriculum Developer', '2013-05'01', 'month', '2014-03'01', 'month', 'https://www.linkedin.com/in/acritch/', NULL, NULL, NULL, NULL, 'AI safety')
 ;
