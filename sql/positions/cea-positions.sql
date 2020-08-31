@@ -157,5 +157,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Aaron Mayer', 'Centre for Effective Altruism', 'Co-Director of EA NYC', '2020-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/aaron-mayer-108/', NULL, 'full-time', 'Effective altruism')
     ,('Aaron Gertler', 'Centre for Effective Altruism', 'Content Specialist', '2018-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/aarongertler/', NULL, NULL, 'Effective altruism')
     ,('Jonas Emanuel Vollmer', 'Centre for Effective Altruism', 'Head of EA Funds', '2020-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jonasvollmer/', NULL, NULL, 'Effective altruism')
-    ,('Ben West', 'Centre for Effective Altruism', 'Division Manager', '2020-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/bentwest/', notes, NULL, NULL, 'Effective altruism')
+    ,('Ben West', 'Centre for Effective Altruism', 'Division Manager', '2020-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/bentwest/', NULL, NULL, 'Effective altruism')
+    ,('Joshua Axford', 'Centre for Effective Altruism', 'Head Of Operations', '2019-06-01', 'june', NULL, NULL, 'https://www.linkedin.com/in/joshua-axford/', NULL, NULL, 'Effective altruism')
 ;
