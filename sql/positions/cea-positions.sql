@@ -162,5 +162,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Joshua Axford', 'Centre for Effective Altruism', 'Head Of Operations', '2019-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joshua-axford/', NULL, NULL, 'Effective altruism')
     ,('Joshua Axford', 'Centre for Effective Altruism', 'Operations Specialist', '2018-10-01', 'month', '2019-06-01', 'month', 'https://www.linkedin.com/in/joshua-axford/', NULL, NULL, 'Effective altruism')
     ,('Jah Ying Chung', 'Centre for Effective Altruism', 'Market Researcher and Strategy Consultant', '2019-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jahying/', NULL, NULL, 'Effective altruism')
-    ,('Kuhan Jeyapragasan', 'Centre for Effective Altruism', 'Community Building Grant Recipient', '2019-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kuhan-jeyapragasan-53566b75/', NULL, NULL, 'Effective altruism')
+    ,('Kuhan Jeyapragasan', 'Centre for Effective Altruism', 'Community Building Grant Recipient', '2019-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kuhan-jeyapragasan-53566b75/', NULL, 'part-time', 'Effective altruism')
+    ,('Luke K. Freeman', 'Centre for Effective Altruism', 'Head of Giving What We Can', '2020-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lukekevinfreeman/', NULL, 'full-time', 'Effective altruism')
 ;
