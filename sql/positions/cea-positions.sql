@@ -154,5 +154,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Caroline Jeanmaire','Centre for Effective Altruism','Community building trainee','2018-01-01','month','2018-03-01','month','https://www.linkedin.com/in/caroline-jeanmaire-a315ba6a/',NULL,'volunteer','Effective altruism')
     ,('Joan Gass', 'Centre for Effective Altruism', 'Managing Director', '2019-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joan-gass-50a11b30/?originalSubdomain=uk', NULL, NULL, 'Effective altruism')
     ,('Darius Meissner', 'Centre for Effective Altruism', 'Contractor - Research and Writing for Online Moral Philosophy Textbook', '2019-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/darius-meissner/', NULL, 'contractor', 'Effective altruism')
-    ,('Aaron Mayer', 'Centre for Effective Altruism', 'Co-Director of EA NYC', 2020-08-01, 'month', NULL, NULL, 'https://www.linkedin.com/in/aaron-mayer-108/', NULL, 'full-time', 'Effective altruism')
+    ,('Aaron Mayer', 'Centre for Effective Altruism', 'Co-Director of EA NYC', '2020-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/aaron-mayer-108/', NULL, 'full-time', 'Effective altruism')
+    ,('Aaron Gertler', 'Centre for Effective Altruism', 'Content Specialist', '2018-10-01', 'Month', NULL, NULL, 'https://www.linkedin.com/in/aarongertler/', NULL, NULL, 'Effective altruism')
 ;
