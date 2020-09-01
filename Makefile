@@ -15,6 +15,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/organizations.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/products.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/product_creators.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/80000hours-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/givewell-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/cea-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ace-positions.sql
