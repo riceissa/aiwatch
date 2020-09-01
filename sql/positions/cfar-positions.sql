@@ -1,5 +1,5 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
-    ('Pete Michaud','Center for Applied Rationality','Executive Director',NULL,NULL,'2018-02-26','day','http://rationality.org/about/team https://web.archive.org/web/20171101040709/http://rationality.org/about/team http://rationality.org/resources/updates/2018/fundraising-and-leadership-updates',NULL,NULL,NULL,NULL,'AI safety')
+    ('Pete Michaud','Center for Applied Rationality','Executive Director',NULL,NULL,'2018-02-26','day','http://rationality.org/about/team https://web.archive.org/web/20171101040709/http://rationality.org/about/team http://rationality.org/resources/updates/2018/fundraising-and-leadership-updates',NULL,NULL, NULL,NULL,'AI safety')
     ,('Pete Michaud','Center for Applied Rationality','Facilitator in Residence','2017-02-27','day',NULL,NULL,'http://rationality.org/resources/updates/2018/fundraising-and-leadership-updates https://web.archive.org/web/20180301184639/http://rationality.org/about/team',NULL,NULL,NULL,NULL,'AI safety')
     ,('Anna Salamon','Center for Applied Rationality','President and Co-Founder',NULL,NULL,NULL,NULL,'http://rationality.org/about/team https://web.archive.org/web/20171101040709/http://rationality.org/about/team',NULL,NULL,NULL,NULL,'AI safety')
     ,('Michael Smith','Center for Applied Rationality','Senior Instructor and Co-Founder',NULL,NULL,'2018-11-21','month','http://rationality.org/about/team https://web.archive.org/web/20171101040709/http://rationality.org/about/team',NULL,NULL,NULL,NULL,'AI safety')
@@ -33,4 +33,14 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Luke Raskopf','Center for Applied Rationality','Instructor & Operations','2018-08-12','month',NULL,NULL,'https://web.archive.org/web/20180812171539/http://rationality.org/about/team',NULL,'position',NULL,NULL,'AI safety')
     ,('Brienne Strohl','Center for Applied Rationality','Research and Instructor','2019-04-05','month',NULL,NULL,NULL,NULL,'position',NULL,NULL,'AI safety')
     ,('Xavier Prospero','Center for Applied Rationality','Admin Support','2019-04-29','month',NULL,NULL,NULL,NULL,'position',NULL,NULL,'AI safety')
+    ,('Julia Galef','Center for Applied Rationality','President and cofounder','2012-01-01','year','2016-12-01','year', 'https://www.facebook.com/julia.galef/posts/10103010525130302', NULL,NULL,NULL,NULL,'AI safety')
+    ,('Kenzi Amodei', 'Center for Applied Rationality', 'Director Of Operations', '2012-05-01', 'month', '2016-11-01', 'month', 'https://www.linkedin.com/in/kenzi-amodei-28b30111/', NULL, NULL, NULL, NULL, 'AI safety')
+    ,('Davis Kingsley', 'Center for Applied Rationality', 'Instructor', '2016-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/davis-kingsley-4a8a6a142/', NULL, NULL, NULL, 'Contractor', 'AI safety')
+    ,('Davis Kingsley', 'Center for Applied Rationality', 'Instructor', '2016-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/davis-kingsley-4a8a6a142/', NULL, NULL, NULL, 'full-time', 'AI safety')
+    ,('Davis Kingsley', 'Center for Applied Rationality', 'Operations/Finance Manager', '2014-03-01', 'month', '2016-10-01', 'month', 'https://www.linkedin.com/in/davis-kingsley-4a8a6a142/', NULL, NULL, NULL, 'full-time', 'AI safety')
+    ,('Andrew Critch', 'Center for Applied Rationality', 'Cofounder and Curriculum Developer', '2013-05-01', 'month', '2014-03-01', 'month', 'https://www.linkedin.com/in/acritch/', NULL, NULL, NULL, NULL, 'AI safety')
+    ,('Leah Libresco', 'Center for Applied Rationality', 'Curriculum Developer', '2013-01-01', 'month', '2013-11-01', 'month', 'https://www.linkedin.com/in/leah-libresco-27810a91/', NULL, NULL, NULL, NULL, 'AI safety')
+    ,('Jesse Liptrap', 'Center for Applied Rationality', 'Director', NULL, NULL, NULL, NULL, 'https://www.rationality.org/about/staff', NULL, NULL, NULL, NULL, 'AI safety')
+    ,('Michael Blume', 'Center for Applied Rationality', 'Director', NULL, NULL, NULL, NULL, 'https://www.rationality.org/about/staff', NULL, NULL, NULL, NULL, 'AI safety')
+    ,('Cat Lavigne', 'Center for Applied Rationality', 'Instructor', NULL, NULL, NULL, NULL, 'https://www.rationality.org/about/instructors', NULL, NULL, NULL, NULL, 'AI safety')
 ;
