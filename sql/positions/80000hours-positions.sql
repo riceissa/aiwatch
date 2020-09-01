@@ -68,7 +68,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Louis Dixon', '80,000 Hours', 'Finance Lead at CEA staff who work with 80,000 Hours', '2020-02-20', NULL, NULL, NULL, 'https://web.archive.org/web/20200119184324/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20200220010455/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
     ,('Brian Tse', '80,000 Hours', 'Advisor', '2020-07-02', 'month', NULL, NULL, 'https://web.archive.org/web/20200511125559/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20200702101035/https://80000hours.org/about/meet-the-team/', NULL, 'advisor', 'effective altruism')
     ,('Carl Shulman', '80,000 Hours', 'Advisor', '2014-11-17', 'year', NULL, NULL, 'https://web.archive.org/web/20141117060412/https://80000hours.org/about/meet-the-team/', NULL, 'Advisor', 'effective altruism')
-    ('Jess Whittlestone', '80,000 Hours', 'Advisor', '2014-11-17', 'year', NULL, NULL, 'https://web.archive.org/web/20141117060412/https://80000hours.org/about/meet-the-team/', NULL, 'Advisor', 'effective altruism')
+    ,('Jess Whittlestone', '80,000 Hours', 'Advisor', '2014-11-17', 'year', NULL, NULL, 'https://web.archive.org/web/20141117060412/https://80000hours.org/about/meet-the-team/', NULL, 'Advisor', 'effective altruism')
 ;
 
 
