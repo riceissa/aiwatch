@@ -15,7 +15,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Ronja Lutz','AI Impacts',NULL,'2019-03-12','month','2019-06-28','month','https://web.archive.org/web/20190312023845/https://aiimpacts.org/about/ https://web.archive.org/web/20190628222028/https://aiimpacts.org/about/',NULL,'position','background',NULL,'AI safety')
     ,('Rick Korzekwa','AI Impacts',NULL,'2019-03-27','month',NULL,NULL,'https://web.archive.org/web/20190327151534/https://aiimpacts.org/about/',NULL,'position','background',NULL,'AI safety')
     ,('Asya Bergal','AI Impacts',NULL,'2019-06-28','month',NULL,NULL,'https://web.archive.org/web/20190628222028/https://aiimpacts.org/about/',NULL,'position','background',NULL,'AI safety')
-    ,('Michael Wulfsohn', 'AI Impacts', 'Researcher', '2016-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/michael-wulfsohn-48674076/', NULL, NULL, , NULL, 'AI safety')
+    ,('Michael Wulfsohn', 'AI Impacts', 'Researcher', '2016-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/michael-wulfsohn-48674076/', NULL, NULL , NULL, 'AI safety')
 ;
 
  
