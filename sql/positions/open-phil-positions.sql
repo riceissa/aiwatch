@@ -63,6 +63,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Povneet Dhillon','Open Philanthropy Project','Grants Associate','2019-04-28','month',NULL,NULL,'https://web.archive.org/web/20190428123739/http://www.openphilanthropy.org/about/team',NULL,'full-time',NULL)
     ,('Leena Jones','Open Philanthropy Project','Grants Associate','2019-04-28','month',NULL,NULL,'https://web.archive.org/web/20190428123739/http://www.openphilanthropy.org/about/team',NULL,'full-time',NULL)
     ,('Kira Maker','Open Philanthropy Project','Operations Associate','2019-04-28','month',NULL,NULL,'https://web.archive.org/web/20190428123739/http://www.openphilanthropy.org/about/team',NULL,'full-time',NULL)
+    ,('Zachary Robinson', 'Open Philanthropy Project', 'Strategy and Research Fellow', '2019-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/zyrobinson/', notes, 'full-time', NULL)
 ;
 
 # Other people found manually
