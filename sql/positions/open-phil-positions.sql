@@ -78,6 +78,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Karl Smith','Open Philanthropy Project','Consultant','2015-03-01','month','2015-11-01','month','https://www.linkedin.com/in/modeledbehavior/',NULL,'contractor',NULL)
     ,('Adam Marblestone','Open Philanthropy Project','Scientific advisor',NULL,NULL,NULL,NULL,'https://www.linkedin.com/in/adam-marblestone-87202813/',NULL,'advisor',NULL)
     ,('Jacob Steinhardt','Open Philanthropy Project',NULL,'2018-06-01','year','2018-09-01','year','http://effective-altruism.com/ea/1qx/the_ea_community_and_far_future_ea_funds_are_not/f27','Work over the summer.',NULL,NULL)
+    ,('Rinad Al-Anakrih', 'Open Philanthropy Project', 'Operations assistant', '2019-08-01', 'month', NULL, NULL, 'https://www.openphilanthropy.org/about/team/rinad-al-anakrih', NULL, NULL, NULL)
 ;
 
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
