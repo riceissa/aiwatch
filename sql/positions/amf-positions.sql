@@ -4,3 +4,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Rob Mather', 'Against Malaria Foundation', 'Founder, CEO', '2004-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20100219084813/http://www.againstmalaria.com:80/AboutUs.aspx', NULL, NULL, NULL)
     ,('Andrew Garner', 'Against Malaria Foundation', 'Head of Technology and Sole Developer', '2005-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/andrewjgarner/?originalSubdomain=uk', NULL, NULL, NULL)
     ,('Peter Sherratt', 'Against Malaria Foundation', 'Executive Chair', '2005-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/peter-sherratt-74290812/?originalSubdomain=uk', NULL, NULL, NULL)
+    ,('Jenny Kent', 'Against Malaria Foundation', 'Donation administration', NULL, NULL, NULL, NULL, 'https://www.againstmalaria.com/People.aspx', NULL, 'volunteer', NULL)
