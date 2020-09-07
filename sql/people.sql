@@ -101,3 +101,13 @@ insert into people(person)
 select distinct(name)
 from product_creators
 where name not in (select person from people);
+
+insert into people(person)
+select distinct(author)
+from organization_documents
+where author not in (select person from people);
+
+insert into people(person)
+select distinct(author)
+from documents
+where author not in (select person from people);
