@@ -6,3 +6,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Peter Sherratt', 'Against Malaria Foundation', 'Executive Chair', '2005-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/peter-sherratt-74290812/?originalSubdomain=uk', NULL, NULL, 'Global health and poverty')
     ,('Jenny Kent', 'Against Malaria Foundation', 'Donation administration', NULL, NULL, NULL, NULL, 'https://www.againstmalaria.com/People.aspx', NULL, 'volunteer', 'Global health and poverty')
     ,('Aisling Leow', 'Against Malaria Foundation', 'Data analist', NULL, NULL, NULL, NULL, 'https://www.againstmalaria.com/People.aspx', NULL, NULL, 'Global health and poverty')
+    ,('Sylvie More', 'Against Malaria Foundation', 'Operations Manager', NULL, NULL, NULL, NULL, 'https://www.againstmalaria.com/People.aspx', NULL, NULL, 'Global health and poverty')
