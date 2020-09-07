@@ -37,7 +37,6 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/aiimpacts-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ought-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/cfar-positions.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/people.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_documents.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/ace-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/cea-org-docs.sql
@@ -55,6 +54,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/documents.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/agenda_docs/iterated-amplification-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/agenda_docs/reward-modeling-docs.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/people.sql
 access-portal/head_date.txt:
 	git log -1 --format="%ad" --date=format:"%Y-%m-%d" > "$@"
 

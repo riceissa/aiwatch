@@ -96,3 +96,8 @@ insert into people(person)
 select distinct(person)
 from positions
 where person not in (select person from people);
+
+insert into people(person)
+select distinct(name)
+from product_creators
+where name not in (select person from people);
