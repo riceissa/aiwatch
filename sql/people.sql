@@ -102,12 +102,17 @@ select distinct(name)
 from product_creators
 where name not in (select person from people);
 
+# The substring_index stuff is a workaround because some documents with
+# multiple authors are stored as pipe-delimited strings, in which case we want
+# to insert each name separately. Since MySQL has no easy way to do that, we
+# are just inserting the first author in such cases. This should only affect a
+# small percentage of cases.
 insert into people(person)
-select distinct(author)
+select distinct(substring_index(author,"|",1))
 from organization_documents
-where author not in (select person from people);
+where substring_index(author,"|",1) not in (select person from people);
 
 insert into people(person)
-select distinct(author)
+select distinct(substring_index(author,"|",1))
 from documents
-where author not in (select person from people);
+where substring_index(author,"|",1) not in (select person from people);
