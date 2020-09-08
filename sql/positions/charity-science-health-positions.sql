@@ -32,5 +32,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Juliette Finetti', 'Charity Science Health', 'Program Coordinator', '2019-05-01', 'month', '2019-11-01', 'month', 'https://www.linkedin.com/in/juliette-finetti/?originalSubdomain=in', NULL, NULL, 'Global health and poverty')
     ,('Tanay Chanda', 'Charity Science Health', 'Program Assistant', '2019-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tanay-chanda-97262013b/?originalSubdomain=in', NULL, NULL, 'Global health and poverty')
     ,('Jake Peters', 'Charity Science Health', 'Operations and Technical Officer', '2018-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jake-peters-03159366/?originalSubdomain=ca', NULL, NULL, 'Global health and poverty')
-    ,('Arjun Kumar', 'Charity Science Health', 'Survey Consultant, '2018-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/arjun-kumar-3a861719b/?originalSubdomain=in', NULL, NULL, 'Global health and poverty')
+    ,('Arjun Kumar', 'Charity Science Health', 'Survey Consultant', '2018-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/arjun-kumar-3a861719b/?originalSubdomain=in', NULL, NULL, 'Global health and poverty')
+    ,('Mohammad Munaf', 'Charity Science Health', 'Survey Consultant', NULL, NULL, NULL, NULL, 'https://www.charitysciencehealth.com/our-team.html', NULL, NULL, 'Global health and poverty')
+    ,('Mohammad Munaf', 'Suvita', 'Data Collection Officer', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', NULL, NULL, 'Global health and poverty')
 ;
