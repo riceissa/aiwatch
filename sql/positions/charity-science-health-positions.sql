@@ -42,4 +42,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Varsha Venugopal', 'Suvita', 'Co-founder of Suvita', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', NULL, NULL, 'Global health and poverty')
     ,('Fiona Conlon', 'Suvita', 'Co-founder of Suvita', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', NULL, NULL, 'Global health and poverty')
     ,('Krutika Ravishankar', 'Suvita', 'Partnerships Volunteer', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', NULL, NULL, 'Global health and poverty')
+    ,('Survey Manager', 'Suvita', 'Survey Manager', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', NULL, NULL, 'Global health and poverty')
 ;
