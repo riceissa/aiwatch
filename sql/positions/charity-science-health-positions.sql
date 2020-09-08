@@ -27,4 +27,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Peter Quin-Conroy','Charity Science Health','Operations and Administration Officer','2018-06-01','month',NULL,NULL,'https://web.archive.org/web/20180620215159/https://www.charitysciencehealth.com/about.html',NULL,'full-time','Global health and poverty')
     ,('Amit Aglawe','Charity Science Health','Hospital Data Collector','2018-06-01','month',NULL,NULL,'https://web.archive.org/web/20180620215159/https://www.charitysciencehealth.com/about.html',NULL,'full-time','Global health and poverty')
     ,('Sunil Paripelli','Charity Science Health','Hospital Data Collector','2018-06-01','month',NULL,NULL,'https://web.archive.org/web/20180620215159/https://www.charitysciencehealth.com/about.html',NULL,'full-time','Global health and poverty')
+    ,('Krutika Ravishankar', 'Charity Science Health', 'Program Manager at Maharashtra', '2019-11-01', 'month', '2020-06-01', 'month', 'https://www.linkedin.com/in/krutikar/?originalSubdomain=in', NULL, NULL, 'Global health and poverty')
 ;
