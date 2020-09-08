@@ -35,4 +35,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Arjun Kumar', 'Charity Science Health', 'Survey Consultant', '2018-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/arjun-kumar-3a861719b/?originalSubdomain=in', NULL, NULL, 'Global health and poverty')
     ,('Mohammad Munaf', 'Charity Science Health', 'Survey Consultant', NULL, NULL, NULL, NULL, 'https://www.charitysciencehealth.com/our-team.html', NULL, NULL, 'Global health and poverty')
     ,('Mohammad Munaf', 'Suvita', 'Data Collection Officer', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', NULL, NULL, 'Global health and poverty')
+    ,('Ram Prakash Dube', 'Suvita', 'Data Collection Officer', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', NULL, NULL, 'Global health and poverty')
 ;
