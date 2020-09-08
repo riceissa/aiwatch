@@ -43,7 +43,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Fiona Conlon', 'Suvita', 'Co-founder of Suvita', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
     ,('Krutika Ravishankar', 'Suvita', 'Partnerships Volunteer', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
     ,('Deepak Bansal', 'Suvita', 'Survey Manager', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
-    ,('Katriel Friedman', 'Suvita', 'Advisor', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Katriel Friedman is the former CEO of Charity Science Health, which merged with Suvita in 2020', NULL, 'Global health and poverty')
-    ,('Priya Ajmera', 'Suvita', 'Advisor', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
-    ,('Patrick Stadler','Suvita', 'Advisor', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Katriel Friedman', 'Suvita', 'Advisor', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Katriel Friedman is the former CEO of Charity Science Health, which merged with Suvita in 2020', 'advisor', 'Global health and poverty')
+    ,('Priya Ajmera', 'Suvita', 'Advisor', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', 'advisor', 'Global health and poverty')
+    ,('Patrick Stadler','Suvita', 'Advisor', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', 'advisor', 'Global health and poverty')
+    ,('Ujwal Thakar', 'Suvita', 'Advisor', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', 'advisor', 'Global health and poverty')
 ;
