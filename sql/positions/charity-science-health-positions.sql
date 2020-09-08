@@ -39,4 +39,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Ravi Prakash Ojha', 'Suvita', 'Data Collection Officer', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', NULL, NULL, 'Global health and poverty')
     ,('Mukesh Raj', 'Suvita', 'Data Entry Officer', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', NULL, NULL, 'Global health and poverty')
     ,('Sonu Kumar', 'Suvita', 'Data Entry Officer', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', NULL, NULL, 'Global health and poverty')
+    ,('Varsha Venugopal', 'Suvita', 'Co-founder of Suvita', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', NULL, NULL, 'Global health and poverty')
 ;
