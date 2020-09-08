@@ -47,4 +47,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Priya Ajmera', 'Suvita', 'Advisor', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', 'advisor', 'Global health and poverty')
     ,('Patrick Stadler','Suvita', 'Advisor', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', 'advisor', 'Global health and poverty')
     ,('Ujwal Thakar', 'Suvita', 'Advisor', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', 'advisor', 'Global health and poverty')
+    ,('Joey Savoie', 'Suvita', 'Advisor', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', 'advisor', 'Global health and poverty')
 ;
