@@ -4,4 +4,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Johanna Kuhn', 'Sentience Politics', 'Project Manager', '2020-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/johanna-kuhn/', NULL, NULL, 'Animal welfare')
     ,('Ivo Mändli', 'Sentience Politics', 'Board Member', '2019-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ivo-m%C3%A4ndli-296375127/', NULL, NULL, 'Animal welfare')
     ,('Valentin Salzgeber', 'Sentience Politics', 'Board Member', NULL, NULL, NULL, NULL, 'https://sentience-politics.org/de/about/team/', NULL, NULL, 'Animal welfare')
-    ,('Reto Walther', 'Sentience Politics', 'Board Member', NULL, NULL, NULL, NULL, 'https://sentience-politics.org/de/about/team/', NULL, NULL, 'Animal welfare') 
+    ,('Reto Walther', 'Sentience Politics', 'Board Member', NULL, NULL, NULL, NULL, 'https://sentience-politics.org/de/about/team/', NULL, NULL, 'Animal welfare')
+    ,('Angelina Dobler', 'Sentience Politics', 'Board Member', NULL, NULL, NULL, NULL, 'https://sentience-politics.org/de/about/team/', NULL, NULL, 'Animal welfare')
