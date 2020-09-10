@@ -3,3 +3,4 @@
     ,('Lydia Chaudhry', 'The Humane League', 'Secretary', NULL, NULL, NULL, NULL, 'https://thehumaneleague.org/our-leadership', NULL, NULL, 'Animal welfare')
     ,('Suzanne Niemoth', 'The Humane League', 'Treasurer', NULL, NULL, NULL, NULL, 'https://thehumaneleague.org/our-leadership', NULL, NULL, 'Animal welfare')
     ,('Neysa Colizzi', 'The Humane League', 'Director', NULL, NULL, NULL, NULL, 'https://thehumaneleague.org/our-leadership', NULL, NULL, 'Animal welfare')
+    ,('Jacob Eliosoff', 'The Humane League', 'Director', NULL, NULL, NULL, NULL, 'https://thehumaneleague.org/our-leadership', NULL, NULL, 'Animal welfare')
