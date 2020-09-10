@@ -12,4 +12,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Mirjam Arn', 'Sentience Politics', 'Volunteer', NULL, NULL, NULL, NULL, 'https://sentience-politics.org/de/about/team/', NULL, 'volunteer', 'Animal welfare')
     ,('Rahel Alt', 'Sentience Politics', 'Volunteer', NULL, NULL, NULL, NULL, 'https://sentience-politics.org/de/about/team/', NULL, 'volunteer', 'Animal welfare')
     ,('Melina Tan', 'Sentience Politics', 'Volunteer', NULL, NULL, NULL, NULL, 'https://sentience-politics.org/de/about/team/', NULL, 'volunteer', 'Animal welfare')
-Melina Tan
+ 
