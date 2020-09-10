@@ -8,3 +8,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Angelina Dobler', 'Sentience Politics', 'Board Member', NULL, NULL, NULL, NULL, 'https://sentience-politics.org/de/about/team/', NULL, NULL, 'Animal welfare')
     ,('Urban Müller', 'Sentience Politics', 'Board Member', NULL, NULL, NULL, NULL, 'https://sentience-politics.org/de/about/team/', NULL, NULL, 'Animal welfare')
     ,('Anna Travinskaya', 'Sentience Politics', 'Volunteer', NULL, NULL, NULL, NULL, 'https://sentience-politics.org/de/about/team/', NULL, 'volunteer', 'Animal welfare')
+    ,('Daniel Rüthemann', 'Sentience Politics', 'Graphic and design', NULL, NULL, NULL, NULL, 'https://sentience-politics.org/de/about/team/', NULL, NULL, 'Animal welfare')
