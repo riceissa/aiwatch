@@ -13,5 +13,7 @@
     ,('Clare Farrow', 'The Humane League', 'Campaigns Intern', '2016-02-01', 'month', '2016-05-01', 'month', https://www.linkedin.com/in/claremfarrow/, NULL, NULL, 'Animal welfare')
     ,('Clare Farrow', 'The Humane League', 'NYC Grassroots Director', '2016-06-01', 'month', '2018-01-01', 'month', https://www.linkedin.com/in/claremfarrow/, NULL, NULL, 'Animal welfare')
     ,('Clare Farrow', 'The Humane League', 'Open Wing Alliance Membership Manager', '2018-01-01', 'month', NULL, NULL, https://www.linkedin.com/in/claremfarrow/, NULL, NULL, 'Animal welfare')
+    ,('Kristen Diederich', 'The Humane League', 'Donor Relations Manager', '2017-04-01', 'month', '2018-04-01', 'month', 'https://www.linkedin.com/in/kristen-diederich/', NULL, NULL, 'Animal welfare')
+    ,('Kristen Diederich', 'The Humane League', 'Development Projects Manager', '2018-04-01', 'month', 'NULL, NULL, 'https://www.linkedin.com/in/kristen-diederich/', NULL, NULL, 'Animal welfare')
 
 
