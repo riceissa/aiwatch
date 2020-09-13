@@ -15,7 +15,7 @@
     ,('Clare Farrow', 'The Humane League', 'Open Wing Alliance Membership Manager', '2018-01-01', 'month', NULL, NULL, https://www.linkedin.com/in/claremfarrow/, NULL, NULL, 'Animal welfare')
     ,('Kristen Diederich', 'The Humane League', 'Donor Relations Manager', '2017-04-01', 'month', '2018-04-01', 'month', 'https://www.linkedin.com/in/kristen-diederich/', NULL, NULL, 'Animal welfare')
     ,('Kristen Diederich', 'The Humane League', 'Development Projects Manager', '2018-04-01', 'month', 'NULL, NULL, 'https://www.linkedin.com/in/kristen-diederich/', NULL, NULL, 'Animal welfare')
-    ,('Kyle Fujisawa', 'The Humane League', 'Web Developer Intern', '2017-08-01', 'month', '2017-12-01', 'month', 'https://www.linkedin.com/in/kyle-fujisawa-563648139/', NULL, NULL, 'Animal welfare')
+    ,('Kyle Fujisawa', 'The Humane League', 'Web Developer Intern', '2017-08-01', 'month', '2017-12-01', 'month', 'https://www.linkedin.com/in/kyle-fujisawa-563648139/', NULL, 'intern', 'Animal welfare')
     ,('Kyle Fujisawa', 'The Humane League', 'Web Developer', '2018-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kyle-fujisawa-563648139/', NULL, NULL, 'Animal welfare')
 
 
