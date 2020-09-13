@@ -8,3 +8,5 @@
     ,('Shannon Campion', 'The Humane League', 'Director', NULL, NULL, NULL, NULL, 'https://thehumaneleague.org/our-leadership', NULL, NULL, 'Animal welfare')
     ,('Eryn Johnson', 'The Humane League', 'New Media Intern', '2017-03-01', 'month', NULL NULL, 'https://www.linkedin.com/in/erynjohnsonsocial/', NULL, 'volunteer', 'Animal welfare')
     ,('Samara Mendez', 'The Humane League Labs', 'Economist', '2018-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/samara-mendez-97741750/, NULL, NULL, 'Animal welfare')
+    ,('Cristyn Hypnar', 'The Humane League', 'Creative Lead', '2017-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cristynhypnar/, NULL, NULL, 'Animal welfare')
+    ,('Cristyn Hypnar', 'The Humane League', 'Graphic Designer', '2016-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cristynhypnar/, NULL, NULL, 'Animal welfare') 
