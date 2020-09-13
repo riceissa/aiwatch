@@ -6,3 +6,4 @@
     ,('Jacob Eliosoff', 'The Humane League', 'Director', NULL, NULL, NULL, NULL, 'https://thehumaneleague.org/our-leadership', NULL, NULL, 'Animal welfare')
     ,('Alicia Rodriguez', 'The Humane League', 'Director', NULL, NULL, NULL, NULL, 'https://thehumaneleague.org/our-leadership', NULL, NULL, 'Animal welfare')
     ,('Shannon Campion', 'The Humane League', 'Director', NULL, NULL, NULL, NULL, 'https://thehumaneleague.org/our-leadership', NULL, NULL, 'Animal welfare')
+    ,('Eryn Johnson', 'The Humane League', 'New Media Intern', '2017-03-01', 'month', NULL NULL, 'https://www.linkedin.com/in/erynjohnsonsocial/', NULL, 'volunteer', 'Animal welfare')
