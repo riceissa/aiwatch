@@ -10,3 +10,8 @@
     ,('Samara Mendez', 'The Humane League Labs', 'Economist', '2018-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/samara-mendez-97741750/, NULL, NULL, 'Animal welfare')
     ,('Cristyn Hypnar', 'The Humane League', 'Creative Lead', '2017-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cristynhypnar/, NULL, NULL, 'Animal welfare')
     ,('Cristyn Hypnar', 'The Humane League', 'Graphic Designer', '2016-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cristynhypnar/, NULL, NULL, 'Animal welfare') 
+    ,('Clare Farrow', 'The Humane League', 'Campaigns Intern', '2016-02-01', 'month', '2016-05-01', 'month', https://www.linkedin.com/in/claremfarrow/, NULL, NULL, 'Animal welfare')
+    ,('Clare Farrow', 'The Humane League', 'NYC Grassroots Director', '2016-06-01', 'month', '2018-01-01', 'month', https://www.linkedin.com/in/claremfarrow/, NULL, NULL, 'Animal welfare')
+    ,('Clare Farrow', 'The Humane League', 'Open Wing Alliance Membership Manager', '2018-01-01', 'month', NULL, NULL, https://www.linkedin.com/in/claremfarrow/, NULL, NULL, 'Animal welfare')
+
+
