@@ -21,4 +21,4 @@
     ,('Caroline Mills', 'The Humane League', 'Director Of Donor Relations', '2018-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/caroline-mills-7abab91a/', NULL, NULL, 'Animal welfare')
     ,('Stephanie Frankle', 'The Humane League', 'San Francisco Grassroots Director', '2014-01-01', 'month', '2016-06-01', 'month', 'https://www.linkedin.com/in/stephanie-frankle-0597455a/', NULL, NULL, 'Animal welfare')
     ,('Stephanie Frankle', 'The Humane League', 'Campus Outreach Director', '2016-07-01', 'month', '2017-05-01', 'month', 'https://www.linkedin.com/in/stephanie-frankle-0597455a/', NULL, NULL, 'Animal welfare')
-
+    ,('Stephanie Frankle', 'The Humane League', 'Director of Student Engagement', '2017-05-01', 'month', '2018-06-01', 'month', 'https://www.linkedin.com/in/stephanie-frankle-0597455a/', NULL, NULL, 'Animal welfare')
