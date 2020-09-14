@@ -17,5 +17,6 @@
     ,('Kristen Diederich', 'The Humane League', 'Development Projects Manager', '2018-04-01', 'month', 'NULL, NULL, 'https://www.linkedin.com/in/kristen-diederich/', NULL, NULL, 'Animal welfare')
     ,('Kyle Fujisawa', 'The Humane League', 'Web Developer Intern', '2017-08-01', 'month', '2017-12-01', 'month', 'https://www.linkedin.com/in/kyle-fujisawa-563648139/', NULL, 'intern', 'Animal welfare')
     ,('Kyle Fujisawa', 'The Humane League', 'Web Developer', '2018-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kyle-fujisawa-563648139/', NULL, NULL, 'Animal welfare')
-
+    ,('Caroline Mills', 'The Humane League', 'Donor Relations Manager', '2016-08-01', 'month', '2018-09-01', 'month', 'https://www.linkedin.com/in/caroline-mills-7abab91a/', NULL, NULL, 'Animal welfare')
+    ,('Caroline Mills', 'The Humane League', 'Director Of Donor Relations', '2018-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/caroline-mills-7abab91a/', NULL, NULL, 'Animal welfare')
 
