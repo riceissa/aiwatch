@@ -30,3 +30,5 @@
     ,('Maitlyn Healy', 'The Humane League', 'Field Organizer- DC', '2019-8-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/maitlynhealy/', NULL, 'full time', 'Animal welfare')
     ,('Ryan Bulzan', 'The Humane League', 'New Media Intern', '2017-03-01', 'month', '2017-11-01', 'month', 'https://www.linkedin.com/in/ryan-bulzan/', NULL, 'intern', 'Animal welfare')
     ,('Jennifer Barckley', 'The Humane League', 'Vice President, Communications', '2018-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jenniferbarckley/', NULL, NULL, 'Animal welfare')
+    ,('Michelle Kucerak', 'The Humane League', 'Vice President. Development', '2014-12-01', 'month', '2018-12-01', 'month', 'https://www.linkedin.com/in/michelle-kucerak-b057b76/', NULL, NULL, 'Animal welfare')
+ 
