@@ -27,3 +27,4 @@
     ,('Adrian Guinn, 'The Humane League', 'Boston Grassroots Coordinator', '2017-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adrian-guinn-7827b1171/', NULL, NULL, 'Animal welfare')
     ,('Anna Finch', 'The Humane League', 'Fundraising Events Coordinator', '2018-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/anna-lea-finch/', NULL, NULL, 'Animal welfare')
     ,('Erin Dorman', 'The Humane League', 'Copywritter', '2020-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/erin-doman-15399195/', NULL, NULL, 'Animal welfare')
+    ,('Maitlyn Healy', organization, 'Field Organizer- DC', '2019-8-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/maitlynhealy/', NULL, 'full time', 'Animal welfare')
