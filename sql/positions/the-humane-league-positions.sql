@@ -1,6 +1,6 @@
 (person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area)
     ,('Mark Middleton', 'The Humane League', 'Chairman', NULL, NULL, NULL, NULL, 'https://thehumaneleague.org/our-leadership', NULL, NULL, 'Animal welfare')
-    ,('Lydia Chaudhry', 'The Humane League', 'Secretary', NULL, NULL, NULL, NULL, 'https://thehumaneleague.org/our-leadership', NULL, NULL, 'Animal welfare')
+    ,('Lydia Chaudhry', 'The Humane League', 'Secretary', NULL, NULL, NULL, NULL, 'https://thehumaneleague.or g/our-leadership', NULL, NULL, 'Animal welfare')
     ,('Suzanne Niemoth', 'The Humane League', 'Treasurer', NULL, NULL, NULL, NULL, 'https://thehumaneleague.org/our-leadership', NULL, NULL, 'Animal welfare')
     ,('Neysa Colizzi', 'The Humane League', 'Director', NULL, NULL, NULL, NULL, 'https://thehumaneleague.org/our-leadership', NULL, NULL, 'Animal welfare')
     ,('Jacob Eliosoff', 'The Humane League', 'Director', NULL, NULL, NULL, NULL, 'https://thehumaneleague.org/our-leadership', NULL, NULL, 'Animal welfare')
@@ -29,3 +29,4 @@
     ,('Erin Dorman', 'The Humane League', 'Copywritter', '2020-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/erin-doman-15399195/', NULL, NULL, 'Animal welfare')
     ,('Maitlyn Healy', 'The Humane League', 'Field Organizer- DC', '2019-8-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/maitlynhealy/', NULL, 'full time', 'Animal welfare')
     ,('Ryan Bulzan', 'The Humane League', 'New Media Intern', '2017-03-01', 'month', '2017-11-01', 'month', 'https://www.linkedin.com/in/ryan-bulzan/', NULL, 'intern', 'Animal welfare')
+    ,('Jennifer Barckley', 'The Humane League', 'Vice President, Communications', '2018-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jenniferbarckley/', NULL, NULL, 'Animal welfare')
