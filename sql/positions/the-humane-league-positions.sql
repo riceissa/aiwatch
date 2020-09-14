@@ -24,3 +24,4 @@
     ,('Stephanie Frankle', 'The Humane League', 'Director of Student Engagement', '2017-05-01', 'month', '2018-06-01', 'month', 'https://www.linkedin.com/in/stephanie-frankle-0597455a/', NULL, NULL, 'Animal welfare')
     ,('Stephanie Frankle', 'The Humane League', 'Culture and Engagement Specialist', '2018-06-01', 'month', '2020-01-01', 'month', 'https://www.linkedin.com/in/stephanie-frankle-0597455a/', NULL, NULL, 'Animal welfare')
     ,('Jon Camp', 'The Humane League', 'Vice President, Grassroots', '2016-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jon-camp-68a746b6/?trk=public_profile_browsemap_profile-result-card_result-card_full-click', NULL, NULL, 'Animal welfare')
+    ,('Adrian Guinn, 'The Humane League', 'Boston Grassroots Coordinator', '2017-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adrian-guinn-7827b1171/', NULL, NULL, 'Animal welfare')
