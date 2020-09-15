@@ -42,3 +42,4 @@
     ,('Kassy Ortega', 'The Humane League', 'Corpor ate Relations Manager', '2017-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kassyortega/', NULL, NULL, 'Animal welfare')
     ,('Britta Johnson', 'The Humane League', 'Regional Field Organizer', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/britta-johnson-2b54b461/', NULL, NULL, 'Animal welfare')
     ,('Diana Cimino', 'The Humane League', 'Donor Relations Manager', '2017-08-01', 'month', '2018-07-01', 'month', 'https://www.linkedin.com/in/dianacimino/', NULL, NULL, 'Animal welfare')
+    ,('Diana Cimino', 'The Humane League', 'Senior Donor Relations Manager', '2018-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dianacimino/', NULL, NULL, 'Animal welfare')
