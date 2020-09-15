@@ -37,3 +37,4 @@
     ,('Michelle Kucerak', 'The Humane League', 'Senior Vice-President, Programs and Development', '2019-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/michelle-kucerak-b057b76/', NULL, NULL, 'Animal welfare')
     ,('Laura Elseroad', 'The Humane League', 'National Volunteer Coordinator, US', '2017-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lauraelseroad/', NULL, NULL, 'Animal welfare')
     ,('Laura Elseroad', 'The Humane League', 'Senior Field Organizer, Regional, '2019-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lauraelseroad/', NULL, NULL, 'Animal welfare') 
+    ,('Alex Wolfe', 'The Humane League', 'NYC Field Organizer', '2019-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alex-wolfe-55ba2435/', NULL, NULL, 'Animal welfare')
