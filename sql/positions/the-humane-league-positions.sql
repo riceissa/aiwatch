@@ -47,3 +47,7 @@
     ,('Taylor Ford', 'Director of Campaigns', 'Director of Corporate Engagement', '2017-01-01', 'month', '2020-01-01', 'month', 'https://www.linkedin.com/in/taylor-ford-83648693/', NULL, NULL, 'Animal welfare')
     ,('Taylor Ford', 'The Humane League', 'Director of Corporate Engagement', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/taylor-ford-83648693/', NULL, NULL, 'Animal welfare')
     ,('Beth Anne Hendrickson', 'The Humane League', 'Corporate Relations Specialist', '2017-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/bethannehendrickson/', NULL, NULL, 'Animal welfare')
+    ,('Jyllian Shepard', 'The Humane League', 'Human Resources Coordinator', '2017-09-01', 'month', '2018-04-01', 'month', 'https://www.linkedin.com/in/jyllian-shepard/', NULL, 'full time', 'Animal welfare')
+    ,('Jyllian Shepard', 'The Humane League', 'Human Resources Manager', '2018-04-01', 'month', '2019-01-01', 'month', 'https://www.linkedin.com/in/jyllian-shepard/', NULL, 'full time', 'Animal welfare')
+    ,('Jyllian Shepard', 'The Humane League', 'Talent Acquisition Manager', '2019-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jyllian-shepard/', NULL, 'full time', 'Animal welfare')
+
