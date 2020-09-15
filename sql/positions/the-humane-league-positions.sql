@@ -73,3 +73,4 @@
     ,('Chris Hendrickson', 'The Humane League', 'Boston Grassroots Director', '2015-09-01', 'month', '2017-09-01', 'month', 'https://www.linkedin.com/in/cahendrickson/', NULL, NULL, 'Animal welfare')
     ,('Chris Hendrickson', 'The Humane League', 'California Campaign Manager', '2017-09-01', 'month', '2019-01-01', 'month', 'https://www.linkedin.com/in/cahendrickson/', NULL, NULL, 'Animal welfare')
     ,('Chris Hendrickson', 'The Humane League', 'Regional Organizing Manager', '2019-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cahendrickson/', NULL, NULL, 'Animal welfare')
+    ,('John Oberg', 'The Humane League', 'Director of New Media', '2016-01-01', 'month', '2018-12-01', 'month', 'https://www.linkedin.com/in/johnsoberg/', NULL, NULL, 'Animal welfare')
