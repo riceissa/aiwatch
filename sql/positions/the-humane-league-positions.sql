@@ -34,4 +34,5 @@
     ,('Ryan Bulzan', 'The Humane League', 'Senior Field Organizer, Regional', '2019-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ryan-bulzan/', NULL, NULL, 'Animal welfare')
     ,('Jennifer Barckley', 'The Humane League', 'Vice President, Communications', '2018-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jenniferbarckley/', NULL, NULL, 'Animal welfare')
     ,('Michelle Kucerak', 'The Humane League', 'Vice President. Development', '2014-12-01', 'month', '2018-12-01', 'month', 'https://www.linkedin.com/in/michelle-kucerak-b057b76/', NULL, NULL, 'Animal welfare')
+    ,('Michelle Kucerak', 'The Humane League', 'Senior Vice-President, Programs and Development', '2019-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/michelle-kucerak-b057b76/', NULL, NULL, 'Animal welfare')
  
