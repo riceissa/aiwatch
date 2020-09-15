@@ -70,3 +70,6 @@
     ,('Derek Shiller', 'The Humane League', 'Web Developer', '2018-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/derek-shiller-3a254b121/', NULL, NULL, 'Animal welfare')
     ,('Angel Lugo', 'The Humane League', 'Video Editor', '2018-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/angel-lugo-88183722/', NULL, NULL, 'Animal welfare')
     ,('Catherine Liguori', 'The Humane League', 'Global Digital Ad Coordinator, '2015-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/catherine-liguori-874559129/', NULL, NULL, 'Animal welfare')
+    ,('Chris Hendrickson', 'The Humane League', 'Boston Grassroots Director', '2015-09-01', 'month', '2017-09-01', 'month', 'https://www.linkedin.com/in/cahendrickson/', NULL, NULL, 'Animal welfare')
+    ,('Chris Hendrickson', 'The Humane League', 'California Campaign Manager', '2017-09-01', 'month', '2019-01-01', 'month', 'https://www.linkedin.com/in/cahendrickson/', NULL, NULL, 'Animal welfare')
+    ,('Chris Hendrickson', 'The Humane League', 'Regional Organizing Manager', '2019-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cahendrickson/', NULL, NULL, 'Animal welfare')
