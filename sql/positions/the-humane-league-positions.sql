@@ -66,3 +66,4 @@
     ,('Amanda Waxman', 'The Humane League', 'Social Media Coordinator', '2019-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/amanda-waxman-032721148/', NULL, NULL, 'Animal welfare')
     ,('Kelsey Joseph', 'The Humane League', 'Grassroots Coordinator', '2017-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kelsey-joseph/', NULL, NULL, 'Animal welfare')
     ,('Kelsey Joseph', 'The Humane League', 'Senior Regional Field Organizer', '2019-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/kelsey-joseph/', NULL, NULL, 'Animal welfare')
+    ,('Danielle Fahs', 'The Humane League', 'Digital Mobilization Specialist', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/danielle-fahs/', NULL, NULL, 'Animal welfare')
