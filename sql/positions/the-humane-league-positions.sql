@@ -69,3 +69,4 @@
     ,('Danielle Fahs', 'The Humane League', 'Digital Mobilization Specialist', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/danielle-fahs/', NULL, NULL, 'Animal welfare')
     ,('Derek Shiller', 'The Humane League', 'Web Developer', '2018-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/derek-shiller-3a254b121/', NULL, NULL, 'Animal welfare')
     ,('Angel Lugo', 'The Humane League', 'Video Editor', '2018-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/angel-lugo-88183722/', NULL, NULL, 'Animal welfare')
+    ,('Catherine Liguori', 'The Humane League', 'Global Digital Ad Coordinator, '2015-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/catherine-liguori-874559129/', NULL, NULL, 'Animal welfare')
