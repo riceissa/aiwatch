@@ -60,3 +60,5 @@
     ,('Andrea Gunn', 'The Humane League', 'Charlotte Director', '2013-09-01', 'month', '2015-05-01', 'month', 'https://www.linkedin.com/in/andreagunnthl/', NULL, NULL, 'Animal welfare')
     ,('Andrea Gunn', 'The Humane League', 'National Grassroots Director', '2014-06-01', 'month', '2015-12-01', 'month', 'https://www.linkedin.com/in/andreagunnthl/', NULL, NULL, 'Animal welfare')
     ,('Andrea Gunn', 'The Humane League', 'Executive Vice President', '2016-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/andreagunnthl/', NULL, NULL, 'Animal welfare')
+    ,('David Coman-Hidy', 'The Humane League', 'Boston Grassroots Director', '2010-01-01', 'year', '2013-01-01', 'year', 'https://www.linkedin.com/in/david-coman-hidy-4816b727/', NULL, NULL, 'Animal welfare')
+    ,('David Coman-Hidy', 'The Humane League', 'President', '2013-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/david-coman-hidy-4816b727/', NULL, NULL, 'Animal welfare')
