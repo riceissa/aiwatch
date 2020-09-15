@@ -43,3 +43,7 @@
     ,('Britta Johnson', 'The Humane League', 'Regional Field Organizer', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/britta-johnson-2b54b461/', NULL, NULL, 'Animal welfare')
     ,('Diana Cimino', 'The Humane League', 'Donor Relations Manager', '2017-08-01', 'month', '2018-07-01', 'month', 'https://www.linkedin.com/in/dianacimino/', NULL, NULL, 'Animal welfare')
     ,('Diana Cimino', 'The Humane League', 'Senior Donor Relations Manager', '2018-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dianacimino/', NULL, NULL, 'Animal welfare')
+    ,('Taylor Ford', 'The Humane League', 'Corporate Campaigns Manager', '2014-12-01', 'month', '2017-04-01', 'month', 'https://www.linkedin.com/in/taylor-ford-83648693/', NULL, NULL, 'Animal welfare')
+    ,('Taylor Ford', 'Director of Campaigns', 'Director of Corporate Engagement', '2017-01-01', 'month', '2020-01-01', 'month', 'https://www.linkedin.com/in/taylor-ford-83648693/', NULL, NULL, 'Animal welfare')
+    ,('Taylor Ford', 'The Humane League', 'Director of Corporate Engagement', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/taylor-ford-83648693/', NULL, NULL, 'Animal welfare')
+
