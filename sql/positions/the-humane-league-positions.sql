@@ -50,4 +50,5 @@
     ,('Jyllian Shepard', 'The Humane League', 'Human Resources Coordinator', '2017-09-01', 'month', '2018-04-01', 'month', 'https://www.linkedin.com/in/jyllian-shepard/', NULL, 'full time', 'Animal welfare')
     ,('Jyllian Shepard', 'The Humane League', 'Human Resources Manager', '2018-04-01', 'month', '2019-01-01', 'month', 'https://www.linkedin.com/in/jyllian-shepard/', NULL, 'full time', 'Animal welfare')
     ,('Jyllian Shepard', 'The Humane League', 'Talent Acquisition Manager', '2019-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jyllian-shepard/', NULL, 'full time', 'Animal welfare')
-
+    ,('Chris Liptrot', 'The Humane League', 'Corporate Outreach Manager', NULL, NULL, NULL, NULL, 'https://www.linkedin.com/in/chris-liptrot-730289120/', NULL, NULL, 'Animal welfare')
+    ,('Chris Liptrot', 'The Humane League', 'Director Of Corporate Relations', '2017-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/chris-liptrot-730289120/', NULL, NULL, 'Animal welfare')
