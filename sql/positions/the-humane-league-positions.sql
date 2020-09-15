@@ -52,3 +52,6 @@
     ,('Jyllian Shepard', 'The Humane League', 'Talent Acquisition Manager', '2019-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jyllian-shepard/', NULL, 'full time', 'Animal welfare')
     ,('Chris Liptrot', 'The Humane League', 'Corporate Outreach Manager', NULL, NULL, NULL, NULL, 'https://www.linkedin.com/in/chris-liptrot-730289120/', NULL, NULL, 'Animal welfare')
     ,('Chris Liptrot', 'The Humane League', 'Director Of Corporate Relations', '2017-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/chris-liptrot-730289120/', NULL, NULL, 'Animal welfare')
+    ,('Kelly Myers', 'The Humane League', 'Corporate Campaigns Coordinator', '2016-01-01', 'year', '2020-02-01', 'month', 'https://www.linkedin.com/in/kelly-myers-4b08a780/', NULL, NULL, 'Animal welfare')
+    ,('Kelly Myers', 'The Humane League', 'Senior Campaigns Specialist', '2019-01-01', 'year', '2020-02-01', 'month', 'https://www.linkedin.com/in/kelly-myers-4b08a780/', NULL, NULL, 'Animal welfare')
+    ,('Kelly Myers', 'The Humane League', 'Senior Campaigns Specialist', '2020-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kelly-myers-4b08a780/', NULL, NULL, 'Animal welfare')
