@@ -29,6 +29,9 @@
     ,('Erin Dorman', 'The Humane League', 'Copywritter', '2020-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/erin-doman-15399195/', NULL, NULL, 'Animal welfare')
     ,('Maitlyn Healy', 'The Humane League', 'Field Organizer- DC', '2019-8-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/maitlynhealy/', NULL, 'full time', 'Animal welfare')
     ,('Ryan Bulzan', 'The Humane League', 'New Media Intern', '2017-03-01', 'month', '2017-11-01', 'month', 'https://www.linkedin.com/in/ryan-bulzan/', NULL, 'intern', 'Animal welfare')
+    ,('Ryan Bulzan', 'The Humane League', 'Grassroots Coordinator', '2017-10-01', 'month', '2019-03-01', 'month', 'https://www.linkedin.com/in/ryan-bulzan/', NULL, NULL, 'Animal welfare')
+    ,('Ryan Bulzan', 'The Humane League', 'Field Organizer, Regional', '2019-03-01', 'month', '2019-06-01', 'month', 'https://www.linkedin.com/in/ryan-bulzan/', NULL, NULL, 'Animal welfare')
+    ,('Ryan Bulzan', 'The Humane League', 'Senior Field Organizer, Regional', '2019-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ryan-bulzan/', NULL, NULL, 'Animal welfare')
     ,('Jennifer Barckley', 'The Humane League', 'Vice President, Communications', '2018-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jenniferbarckley/', NULL, NULL, 'Animal welfare')
     ,('Michelle Kucerak', 'The Humane League', 'Vice President. Development', '2014-12-01', 'month', '2018-12-01', 'month', 'https://www.linkedin.com/in/michelle-kucerak-b057b76/', NULL, NULL, 'Animal welfare')
  
