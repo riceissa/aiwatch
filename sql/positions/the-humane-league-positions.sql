@@ -57,3 +57,6 @@
     ,('Kelly Myers', 'The Humane League', 'Senior Campaigns Specialist', '2020-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kelly-myers-4b08a780/', NULL, NULL, 'Animal welfare')
     ,('Katerra Martin', 'The Humane League', 'Corporate Relations Specialist', '2018-12-01', 'month', '2020-03-01', 'month', 'https://www.linkedin.com/in/katerra-martin/', NULL, NULL, 'Animal welfare')
     ,('Rachel Huff-Wagenborg', 'The Humane League', 'Vice President of Operations', '2014-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rachelh-w/', NULL, NULL, 'Animal welfare')
+    ,('Andrea Gunn', 'The Humane League', 'Charlotte Director', '2013-09-01', 'month', '2015-05-01', 'month', 'https://www.linkedin.com/in/andreagunnthl/', NULL, NULL, 'Animal welfare')
+    ,('Andrea Gunn', 'The Humane League', 'National Grassroots Director', '2014-06-01', 'month', '2015-12-01', 'month', 'https://www.linkedin.com/in/andreagunnthl/', NULL, NULL, 'Animal welfare')
+    ,('Andrea Gunn', 'The Humane League', 'Executive Vice President', '2016-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/andreagunnthl/', NULL, NULL, 'Animal welfare')
