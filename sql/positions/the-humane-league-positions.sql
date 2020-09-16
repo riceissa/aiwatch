@@ -101,3 +101,5 @@
     ,('Pru Elliott, 'The Humane League', 'Head of Campaigns', '2017-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/pru-elliott-b471aa62/', NULL, NULL, 'Animal welfare') 
     ,('Cordelia Britton', 'The Humane League', 'Senior Campaigner', '2019-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cordelia-britton-4827a247/', NULL, NULL, 'Animal welfare')
     ,('Maddy Dawe', 'The Humane League', 'Campaigns Coordinator, UK', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/maddy-dawe-ba7b2019a/', NULL, 'part-time', 'Animal welfare')
+    ,('Emma Goddard', 'The Humane League', 'National Volunteer Coordinator', '2017-05-01', 'month', '2019-01-01', 'month', 'https://www.linkedin.com/in/emma-goddard-929667109/', NULL, NULL, 'Animal welfare')
+    ,('Emma Goddard', 'The Humane League', 'Programs Lead', '2019-01-01', 'month', PULL, PULL, 'https://www.linkedin.com/in/emma-goddard-929667109/', NULL, NULL, 'Animal welfare')
