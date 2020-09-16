@@ -77,3 +77,6 @@
     ,('José Elias', 'The Humane League', 'Campus Campaigns Coordinator', '2016-02-01', 'month', '2016-12-01', 'month', 'https://www.linkedin.com/in/jos%C3%A9-elias-478093139/', NULL, NULL, 'Animal welfare')
     ,('José Elias', 'The Humane League', 'Campus Outreach Director', '2016-12-01', 'month', '2019-06-01', 'month', 'https://www.linkedin.com/in/jos%C3%A9-elias-478093139/', NULL, NULL, 'Animal welfare')
     ,('José Elias', 'The Humane League', 'Assistant Video Producer', '2019-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jos%C3%A9-elias-478093139/', NULL, NULL, 'Animal welfare')
+    ,('Romina Giel, 'The Humane League', 'Intern', '2016-11-01', 'month', '2017-10-01', 'month', 'https://www.linkedin.com/in/romina-giel-aa7347a4/', NULL, 'intern', 'Animal welfare')
+    ,('Romina Giel, 'The Humane League', 'Philadelphia Grassroots Coordinator', '2017-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/romina-giel-aa7347a4/', NULL, NULL, 'Animal welfare')
+    ,('Romina Giel, 'The Humane League', 'Open Wing Alliance Events Coordinator', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/romina-giel-aa7347a4/', NULL, NULL, 'Animal welfare')
