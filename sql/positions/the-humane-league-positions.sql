@@ -121,3 +121,4 @@
     ,('Adam Peditto', 'The Humane League', 'Video Production Manager', '2019-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adampeditto/', NULL, NULL, 'Animal welfare')
     ,('Olivia Jannuzzi','The Humane League', 'Campaign Assistant', NULL, NULL, NULL, NULL, 'https://www.linkedin.com/in/olivia-jannuzzi-4647a5ba/', NULL, NULL, 'Animal welfare')
     ,('Cecilia Valenza, 'The Humane League', 'Advisory committee member at Open Wings Alliance - OWA', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cecilia-valenza/', NULL, 'full-time', 'Animal welfare')
+    ,('Janosch L.', 'The Humane League', 'Research Associate', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/janosch-l-728240138/', NULL, NULL, 'Animal welfare')
