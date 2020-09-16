@@ -87,3 +87,4 @@
     ,('Katie Zarajczyk', 'The Humane League', 'Campus Outreach Coordinator', '2018-07-01', 'month', '2019-12-01', 'month', 'https://www.linkedin.com/in/katie-zarajczyk-ma-70a5a3176/', NULL, NULL, 'Animal welfare')
     ,('Katie Zarajczyk', 'The Humane League', 'Fellowship Lead', '2019-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/katie-zarajczyk-ma-70a5a3176/', NULL, NULL, 'Animal welfare')
     ,('Daniela Escamilla', 'The Humane League', 'Social Media Manager', '2019-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/danielaescamilla/', NULL, NULL, 'Animal welfare')
+    ,('Kalista Barter', 'The Humane League', 'Senior Director Of Development', '2019-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kalista-barter/', NULL, NULL, 'Animal welfare')
