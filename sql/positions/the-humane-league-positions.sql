@@ -82,3 +82,4 @@
     ,('Romina Giel, 'The Humane League', 'Open Wing Alliance Events Coordinator', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/romina-giel-aa7347a4/', NULL, NULL, 'Animal welfare')
     ,('Alanna Ramsier', 'The Humane League', 'Communications Project Lead', '2017-09-01', 'month', '2020-02-01', 'month', 'https://www.linkedin.com/in/alanna-ramsier-16041672/', NULL, 'full time', 'Animal welfare')
     ,('Alanna Ramsier', 'The Humane League', 'Content Operations Lead', '2020-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alanna-ramsier-16041672/', NULL, 'full time', 'Animal welfare')
+    ,('Julia Tomkins', 'The Humane League', 'Public Relations Director', '2019-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/julia-tomkins-395ab236/', NULL, NULL, 'Animal welfare')
