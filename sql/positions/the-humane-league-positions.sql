@@ -119,3 +119,4 @@
     ,('Anne-Marie Renier', 'The Humane League', 'Development Coordinator', '2018-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/annemarierenier/', NULL, NULL, 'Animal welfare')
     ,('Adam Peditto', 'The Humane League', 'Video Producer', '2014-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adampeditto/', NULL, NULL, 'Animal welfare')
     ,('Adam Peditto', 'The Humane League', 'Video Production Manager', '2019-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adampeditto/', NULL, NULL, 'Animal welfare')
+    ,('Olivia Jannuzzi','The Humane League', 'Campaign Assistant', NULL, NULL, NULL, NULL, 'https://www.linkedin.com/in/olivia-jannuzzi-4647a5ba/', NULL, NULL, 'Animal welfare')
