@@ -115,3 +115,4 @@
     ,('Ashley Zebro', 'The Humane League', 'Operations Coordinator', '2020-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ashley-zebro-47612b74/', NULL, NULL, 'Animal welfare')
     ,('Skye Walker', 'The Humane League', 'Changemaker Volunteer', '2020-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/skye-walker-230474170/', NULL, NULL, 'Animal welfare')
     ,('Sarah De Munck', 'The Humane League', 'Operations Manager', '2016-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sarahdemunck/', NULL, NULL, 'Animal welfare')
+    ,('Giovana T.', 'The Humane League', 'Animal Welfare Specialist', '2018-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/giovana-t-15767689/', NULL, NULL, 'Animal welfare')
