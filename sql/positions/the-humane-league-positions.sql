@@ -96,3 +96,5 @@
     ,('Allie Gunter', 'The Humane League', 'Campaign Coordinator', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/allie-gunter-35371b32/', NULL, NULL, 'Animal welfare')
     ,('Allie Gunter', 'The Humane League', 'Development Coordinator (Temporary position)', '2018-11-01', 'month', '2019-01-01', 'month', 'https://www.linkedin.com/in/allie-gunter-35371b32/', NULL, NULL, 'Animal welfare')
     ,('Vicky Bond', 'The Humane League', 'Corporate Relations Specialist', '2016-11-01', 'month', '2017-04-01', 'month', 'https://www.linkedin.com/in/vicky-bond-b9107936/?originalSubdomain=uk', NULL, NULL, 'Animal welfare')
+    ,('Vicky Bond', 'The Humane League', 'Managing Director UK', '2017-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/vicky-bond-b9107936/?originalSubdomain=uk', NULL, NULL, 'Animal welfare')
+ 
