@@ -74,3 +74,6 @@
     ,('Chris Hendrickson', 'The Humane League', 'California Campaign Manager', '2017-09-01', 'month', '2019-01-01', 'month', 'https://www.linkedin.com/in/cahendrickson/', NULL, NULL, 'Animal welfare')
     ,('Chris Hendrickson', 'The Humane League', 'Regional Organizing Manager', '2019-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cahendrickson/', NULL, NULL, 'Animal welfare')
     ,('John Oberg', 'The Humane League', 'Director of New Media', '2016-01-01', 'month', '2018-12-01', 'month', 'https://www.linkedin.com/in/johnsoberg/', NULL, NULL, 'Animal welfare')
+    ,('José Elias', 'The Humane League', 'Campus Campaigns Coordinator', '2016-02-01', 'month', '2016-12-01', 'month', 'https://www.linkedin.com/in/jos%C3%A9-elias-478093139/', NULL, NULL, 'Animal welfare')
+    ,('José Elias', 'The Humane League', 'Campus Outreach Director', '2016-12-01', 'month', '2019-06-01', 'month', 'https://www.linkedin.com/in/jos%C3%A9-elias-478093139/', NULL, NULL, 'Animal welfare')
+    ,('José Elias', 'The Humane League', 'Assistant Video Producer', '2019-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jos%C3%A9-elias-478093139/', NULL, NULL, 'Animal welfare')
