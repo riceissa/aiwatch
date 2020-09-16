@@ -98,3 +98,4 @@
     ,('Vicky Bond', 'The Humane League', 'Corporate Relations Specialist', '2016-11-01', 'month', '2017-04-01', 'month', 'https://www.linkedin.com/in/vicky-bond-b9107936/?originalSubdomain=uk', NULL, NULL, 'Animal welfare')
     ,('Vicky Bond', 'The Humane League', 'Managing Director UK', '2017-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/vicky-bond-b9107936/?originalSubdomain=uk', NULL, NULL, 'Animal welfare')
     ,('Pru Elliott, 'The Humane League', 'UK Corporate Campaigns Coordinator', '2016-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/pru-elliott-b471aa62/', NULL, NULL, 'Animal welfare') 
+    ,('Pru Elliott, 'The Humane League', 'Head of Campaigns', '2017-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/pru-elliott-b471aa62/', NULL, NULL, 'Animal welfare') 
