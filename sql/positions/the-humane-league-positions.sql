@@ -103,3 +103,4 @@
     ,('Maddy Dawe', 'The Humane League', 'Campaigns Coordinator, UK', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/maddy-dawe-ba7b2019a/', NULL, 'part-time', 'Animal welfare')
     ,('Emma Goddard', 'The Humane League', 'National Volunteer Coordinator', '2017-05-01', 'month', '2019-01-01', 'month', 'https://www.linkedin.com/in/emma-goddard-929667109/', NULL, NULL, 'Animal welfare')
     ,('Emma Goddard', 'The Humane League', 'Programs Lead', '2019-01-01', 'month', PULL, PULL, 'https://www.linkedin.com/in/emma-goddard-929667109/', NULL, NULL, 'Animal welfare')
+    ,('Amy Odene', 'The Humane League UK', 'Global Corporate Relations', '2019-02-02', 'month', '2020-03-01', 'month', 'https://www.linkedin.com/in/amy-odene-29901414b/', NULL, NULL, 'Animal welfare')
