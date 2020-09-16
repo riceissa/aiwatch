@@ -110,3 +110,5 @@
     ,('Paulina Zyskowski', 'The Humane League', 'The Humane League Student Outreach Intern', '2018-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/paulina-zyskowski-a67544119/', NULL, NULL, 'Animal welfare')
     ,('Stephanie Chase', 'The Humane League', 'Intern', '2017-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/stephanie-chase-0011a456/', NULL, NULL, 'Animal welfare')
     ,('Hannah Truxell', 'The Humane League', 'Staff Attorney', '2019-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hannahtruxell/', NULL, 'full-time', 'Animal welfare')
+    ,('Sydney South', 'The Humane League', 'Graphic Designer', '2017-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sydney-south-0b950185/', NULL, NULL, 'Animal welfare')
+ 
