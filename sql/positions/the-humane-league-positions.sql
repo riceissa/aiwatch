@@ -93,3 +93,4 @@
     ,('Brooke Shephard, 'The Humane League', 'Changemaker Captain', '2019-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/brooke-shephard-865195154/', NULL, NULL, 'Animal welfare')
     ,('Agata Nguyen', 'The Humane League', 'Director of People Operations', '2019-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/agata-nguyen-shrm-cp-3b648629/', NULL, NULL, 'Animal welfare')
     ,('Ariav Feingersch', 'The Humane League', 'Internship', '2015-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ariav-feingersch-27552499/, NULL, 'intern', 'Animal welfare')
+    ,('Allie Gunter', 'The Humane League', 'Campaign Coordinator', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/allie-gunter-35371b32/', NULL, NULL, 'Animal welfare')
