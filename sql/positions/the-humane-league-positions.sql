@@ -83,3 +83,6 @@
     ,('Alanna Ramsier', 'The Humane League', 'Communications Project Lead', '2017-09-01', 'month', '2020-02-01', 'month', 'https://www.linkedin.com/in/alanna-ramsier-16041672/', NULL, 'full time', 'Animal welfare')
     ,('Alanna Ramsier', 'The Humane League', 'Content Operations Lead', '2020-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alanna-ramsier-16041672/', NULL, 'full time', 'Animal welfare')
     ,('Julia Tomkins', 'The Humane League', 'Public Relations Director', '2019-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/julia-tomkins-395ab236/', NULL, NULL, 'Animal welfare')
+    ,('Katie Zarajczyk', 'The Humane League', 'Campus Organizer', '2017-01-01', 'month', '2018-06-01', 'month', 'https://www.linkedin.com/in/katie-zarajczyk-ma-70a5a3176/', NULL, NULL, 'Animal welfare')
+    ,('Katie Zarajczyk', 'The Humane League', 'Campus Outreach Coordinator', '2018-07-01', 'month', '2019-12-01', 'month', 'https://www.linkedin.com/in/katie-zarajczyk-ma-70a5a3176/', NULL, NULL, 'Animal welfare')
+    ,('Katie Zarajczyk', 'The Humane League', 'Fellowship Lead', '2019-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/katie-zarajczyk-ma-70a5a3176/', NULL, NULL, 'Animal welfare')
