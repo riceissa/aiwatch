@@ -108,3 +108,4 @@
     ,('Hannah Yates', 'The Humane League', 'Communications Manager', '2019-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hannah-yates-387b5189/', NULL, NULL, 'Animal welfare')
     ,('Klara Schmidt', 'The Humane League UK', 'City Leader Volunteer', '2017-08-01', 'month', '2019-01-01', 'month', 'https://www.linkedin.com/in/kjjschmidt/?originalSubdomain=uk', NULL, NULL, 'Animal welfare')
     ,('Paulina Zyskowski', 'The Humane League', 'The Humane League Student Outreach Intern', '2018-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/paulina-zyskowski-a67544119/', NULL, NULL, 'Animal welfare')
+    ,('Stephanie Chase', 'The Humane League', 'Intern', '2017-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/stephanie-chase-0011a456/', NULL, NULL, 'Animal welfare')
