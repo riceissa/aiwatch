@@ -117,3 +117,5 @@
     ,('Sarah De Munck', 'The Humane League', 'Operations Manager', '2016-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sarahdemunck/', NULL, NULL, 'Animal welfare')
     ,('Giovana T.', 'The Humane League', 'Animal Welfare Specialist', '2018-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/giovana-t-15767689/', NULL, NULL, 'Animal welfare')
     ,('Anne-Marie Renier', 'The Humane League', 'Development Coordinator', '2018-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/annemarierenier/', NULL, NULL, 'Animal welfare')
+    ,('Adam Peditto', 'The Humane League', 'Video Producer', '2014-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adampeditto/', NULL, NULL, 'Animal welfare')
+    ,('Adam Peditto', 'The Humane League', 'Video Production Manager', '2019-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adampeditto/', NULL, NULL, 'Animal welfare')
