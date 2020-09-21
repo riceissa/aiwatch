@@ -142,3 +142,4 @@
     ,('David Marten', 'The Humane League', 'Web Developer', '2019-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/david-marten-035226a3/', NULL, NULL, 'Animal welfare')
     ,('Lydia Chaudhry', 'The Humane League', 'Operations Support & Volunteer Coordinator', '2009-01-01', 'year', '2015-01-01', 'year', 'https://www.linkedin.com/in/lydia-chaudhry-7515a858/',  NULL, NULL, 'Animal welfare')
     ,('Lydia Chaudhry', 'The Humane League', 'Organizer, Philadelphia Vegfest', '2014-01-01', 'year', '2015-01-01', 'year', 'https://www.linkedin.com/in/lydia-chaudhry-7515a858/',  NULL, NULL, 'Animal welfare')
+    ,('Lydia Chaudhry', 'The Humane League', 'Member Board Of Directors', '2013-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/lydia-chaudhry-7515a858/',  NULL, NULL, 'Animal welfare')
