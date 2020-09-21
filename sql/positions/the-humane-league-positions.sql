@@ -129,3 +129,4 @@
     ,('Madeleine Jones', 'The Humane League', 'Community Engagement Research Fellow', '2020-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/madeleine-a-jones/', NULL, NULL, 'Animal welfare')
     ,('Sajani Fernando', 'The Humane League', 'Communications Fellow', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sajanif/', NULL, 'intern', 'Animal welfare')
     ,('Gabrielle Sweetman', 'The Humane League', 'Veg Advocacy Fellow', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gabrielle-sweetman-3b1136140/', NULL, NULL, 'Animal welfare')
+    ,('Lily Lu-Lerner', 'The Humane League', 'Changemaker Captain', '2019-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lily-lu-lerner/', NULL, 'intern', 'Animal welfare')
