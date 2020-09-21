@@ -137,3 +137,4 @@
     ,('Cristina Diniz', 'The Humane League', 'Latin America Coordinator for the Open Wing Alliance', '2019-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cristinadiniz/', NULL, NULL, 'Animal welfare')
     ,('Jennifer Ashley', 'The Humane League', 'Development Coordinator', '2019-11-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/jennifernashley/', NULL, 'part-time', 'Animal welfare')
     ,('Asvini Ravindran', 'The Humane League', 'New Media Intern', '2018-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/asviniravindran/', NULL, NULL, 'Animal welfare')
+    ,('Nicole Birkhold', 'The Humane League', 'Production Artist', '2019-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nicole-birkhold-3a7233b/', NULL, NULL, 'Animal welfare')
