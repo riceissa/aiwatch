@@ -124,3 +124,4 @@
     ,('Janosch L.', 'The Humane League', 'Research Associate', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/janosch-l-728240138/', NULL, NULL, 'Animal welfare')
     ,('Morgan Nati', 'The Humane League', 'Associate Counsel', '2019-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/morgannati/', NULL, NULL, 'Animal welfare')
     ,('Karen Nilsen', 'The Humane League', 'Director of Digital Communications Strategy', '2020-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/karen-nilsen/', NULL, 'full-time', 'Animal welfare')
+    ,('Edie Bowles', 'The Humane League', 'Trustee', '2018-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/edie-bowles-b2500614/', NULL, NULL, 'Animal welfare')
