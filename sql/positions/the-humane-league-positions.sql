@@ -140,3 +140,4 @@
     ,('Nicole Birkhold', 'The Humane League', 'Production Artist', '2019-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nicole-birkhold-3a7233b/', NULL, NULL, 'Animal welfare')
     ,('Rebecca Coleman Lerback', 'The Humane League', 'Senior Donor Relations Officer', '2020-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rebecca-coleman-lerback-06211b6/', NULL, NULL, 'Animal welfare')
     ,('David Marten', 'The Humane League', 'Web Developer', '2019-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/david-marten-035226a3/', NULL, NULL, 'Animal welfare')
+    ,('Lydia Chaudhry', 'The Humane League', 'Operations Support & Volunteer Coordinator', '2019-01-01', 'year', '2015-01-01', 'year', 'https://www.linkedin.com/in/lydia-chaudhry-7515a858/',  NULL, NULL, 'Animal welfare')
