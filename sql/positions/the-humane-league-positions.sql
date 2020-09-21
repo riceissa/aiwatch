@@ -126,3 +126,4 @@
     ,('Karen Nilsen', 'The Humane League', 'Director of Digital Communications Strategy', '2020-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/karen-nilsen/', NULL, 'full-time', 'Animal welfare')
     ,('Edie Bowles', 'The Humane League', 'Trustee', '2018-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/edie-bowles-b2500614/', NULL, NULL, 'Animal welfare')
     ,('Michael Scandle', 'The Humane League', 'Volunteer', '2013-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/michael-scandle-91929183/', NULL, 'volunteer', 'Animal welfare')
+    ,('Madeleine Jones', 'The Humane League', 'Community Engagement Research Fellow', '2020-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/madeleine-a-jones/', NULL, NULL, 'Animal welfare')
