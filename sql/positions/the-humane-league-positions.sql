@@ -145,3 +145,4 @@
     ,('Lydia Chaudhry', 'The Humane League', 'Member Board Of Directors', '2013-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/lydia-chaudhry-7515a858/',  NULL, NULL, 'Animal welfare')
     ,('Alexandria Beck', 'The Humane League', 'Denver Grassroots Director and Regional Grassroots Manager', '2015-03-01', 'month', '2017-04-01', 'month', 'https://www.linkedin.com/in/alexandriabeck/', NULL, NULL, 'Animal welfare')
     ,('Alexandria Beck', 'The Humane League', 'Director, Open Wing Alliance', '2017-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alexandriabeck/', NULL, NULL, 'Animal welfare')
+    ,('Ellie Donohue-Miller', 'The Humane League', 'OWA Campaigns Manager', '2017-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ellie-donohue-miller-2789a6121/', NULL, NULL, 'Animal welfare')
