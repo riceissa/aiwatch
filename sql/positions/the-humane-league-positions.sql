@@ -134,3 +134,4 @@
     ,('Emily Glassman', 'The Humane League', 'Volunteer', '2012-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/emily-glassman-102315157/', NULL, 'volunteer', 'Animal welfare')
     ,('Darrell Sawczuk', 'The Humane League', 'Social Media Volunteer', '2019-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/darrell-sawczuk-a746a9188/', NULL, NULL, 'Animal welfare')
     ,('Maho Cavalier', 'The Humane League, Japan', 'Regional Manager', '2017-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/maho-cavalier-98604164/',  NULL, 'full-time', 'Animal welfare')
+    ,('Cristina Diniz', 'The Humane League', 'Latin America Coordinator for the Open Wing Alliance', '2019-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cristinadiniz/', NULL, NULL, 'Animal welfare')
