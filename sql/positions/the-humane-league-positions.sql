@@ -127,3 +127,4 @@
     ,('Edie Bowles', 'The Humane League', 'Trustee', '2018-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/edie-bowles-b2500614/', NULL, NULL, 'Animal welfare')
     ,('Michael Scandle', 'The Humane League', 'Volunteer', '2013-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/michael-scandle-91929183/', NULL, 'volunteer', 'Animal welfare')
     ,('Madeleine Jones', 'The Humane League', 'Community Engagement Research Fellow', '2020-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/madeleine-a-jones/', NULL, NULL, 'Animal welfare')
+    ,('Sajani Fernando', 'The Humane League', 'Communications Fellow', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sajanif/', NULL, 'intern', 'Animal welfare')
