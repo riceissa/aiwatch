@@ -131,4 +131,5 @@
     ,('Gabrielle Sweetman', 'The Humane League', 'Veg Advocacy Fellow', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gabrielle-sweetman-3b1136140/', NULL, NULL, 'Animal welfare')
     ,('Lily Lu-Lerner', 'The Humane League', 'Changemaker Captain', '2019-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lily-lu-lerner/', NULL, 'intern', 'Animal welfare')
     ,('Emily Glassman', 'The Humane League', 'Social Media Analyst', '2017-02-01', 'month', '2017-02-01', 'month', 'https://www.linkedin.com/in/emily-glassman-102315157/', NULL, NULL, 'Animal welfare')
+    ,('Emily Glassman', 'The Humane League', 'Volunteer', '2012-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/emily-glassman-102315157/', NULL, 'volunteer', 'Animal welfare')
     ,('Darrell Sawczuk', 'The Humane League', 'Social Media Volunteer', '2019-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/darrell-sawczuk-a746a9188/', NULL, NULL, 'Animal welfare')
