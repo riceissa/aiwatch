@@ -150,3 +150,4 @@
     ,('Jessika Griffin', 'The Humane League', 'Regional Field Organizer', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jessika-griffin/', NULL, NULL, 'Animal welfare')
     ,('Beau Broughton', 'The Humane League', 'Grassroots Director', San Diego', '2015-05-01', 'month', '2018-09-01', 'month', 'https://www.linkedin.com/in/beauabroughton/', NULL, NULL, 'Animal welfare')
     ,('Beau Broughton', 'The Humane League', 'Grassroots Engagement Manager', '2018-09-01', 'month', '2019-03-01', 'month', 'https://www.linkedin.com/in/beauabroughton/', NULL, NULL, 'Animal welfare')
+    ,('Beau Broughton', 'The Humane League', 'Regional Organizing Manager', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/beauabroughton/', NULL, NULL, 'Animal welfare')
