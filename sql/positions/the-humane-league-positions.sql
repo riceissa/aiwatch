@@ -148,3 +148,4 @@
     ,('Ellie Donohue-Miller', 'The Humane League', 'OWA Campaigns Manager', '2017-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ellie-donohue-miller-2789a6121/', NULL, NULL, 'Animal welfare')
     ,('Wendy Watts', 'The Humane League', 'Vice President, Legal and General Counsel', '2017-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/wendy-watts/', NULL, NULL, 'Animal welfare')
     ,('Jessika Griffin', 'The Humane League', 'Regional Field Organizer', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jessika-griffin/', NULL, NULL, 'Animal welfare')
+    ,('Beau Broughton', 'The Humane League', 'Grassroots Director, San Diego', '2015-05-01', 'month', '2018-09-01', 'month', 'https://www.linkedin.com/in/beauabroughton/', NULL, NULL, 'Animal welfare')
