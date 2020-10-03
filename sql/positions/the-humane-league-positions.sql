@@ -172,3 +172,4 @@
     ,('Rochelle Marrett-Smith', 'The Humane League', 'Dallas Director', '2015-11-01', NULL, '2017-05-01', 'month', 'https://www.linkedin.com/in/rochelle-marrett-smith-92675749/', 'Based in Dallas', NULL, 'Animal welfare')
     ,('Laura Nicole Miller', 'The Humane League', title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area)
     ,('Sarah De Munck', 'The Humane League', 'Operations Manager', '2016-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sarahdemunck/', NULL, NULL, 'Animal welfare')
+    ,('Meghan Smith', 'The Humane League', 'Atlanta Grassroots Director', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20170328195214/http://www.thehumaneleague.com/our-story/', NULL, NULL, 'Animal welfare')
