@@ -169,3 +169,4 @@
     ,('Maddie Segal', 'The Humane League', 'Fellowship Manager', '2019-04-01', 'month', '2020-02-01', 'month', 'https://www.linkedin.com/in/maddiesegal/', NULL, NULL, 'Animal welfare')
     ,('Heather Bolint', 'The Humane League', 'Seattle Director', '2014-09-01', 'month', '2017-06-01', 'month', 'https://www.linkedin.com/in/heather-bolint/', 'Based in Seattle', NULL, 'Animal welfare')
     ,('Ethan Dussault', 'The Humane League', 'Dallas Director', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20150815225839/http://www.thehumaneleague.org/our-story/', NULL, NULL, 'Animal welfare')
+    ,('Rochelle Marrett-Smith', 'The Humane League', 'Dallas Director', '2015-11-01', NULL, '2017-05-01', 'month', 'https://www.linkedin.com/in/rochelle-marrett-smith-92675749/', 'Based in Dallas', NULL, 'Animal welfare')
