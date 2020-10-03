@@ -152,3 +152,5 @@
     ,('Beau Broughton', 'The Humane League', 'Grassroots Engagement Manager', '2018-09-01', 'month', '2019-03-01', 'month', 'https://www.linkedin.com/in/beauabroughton/', NULL, NULL, 'Animal welfare')
     ,('Beau Broughton', 'The Humane League', 'Regional Organizing Manager', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/beauabroughton/', NULL, NULL, 'Animal welfare')
     ,('Aaron Ross', 'The Humane League', 'Vice President of Policy and Strategy', '2005-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/aaron-ross-303b48166/', NULL, NULL, 'Animal welfare')
+    ,('Rachel Atcheson', 'The Humane League', 'Philadelphia Campaign Director', '2013-08-01', 'month', '2015-07-01', 'month', 'https://www.linkedin.com/in/rachel-atcheson-517b47a0/', NULL, NULL, 'Animal welfare')
+    ,('Rachel Atcheson', 'The Humane League', 'Senior Campus Outreach Director', '2015-08-01', 'month', '2016-12-01', 'month', 'https://www.linkedin.com/in/rachel-atcheson-517b47a0/', NULL, NULL, 'Animal welfare')
