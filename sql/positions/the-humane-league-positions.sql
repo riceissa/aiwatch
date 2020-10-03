@@ -163,3 +163,4 @@
     ,('Di Lamont', 'The Humane League', 'Campaign Coordinator', '2015-03-01', 'month', '2015-12-01', 'month', 'https://www.linkedin.com/in/di-lamont/', 'Based in the Greater Chicago Area', NULL, 'Animal welfare')
     ,('Di Lamont', 'The Humane League', 'Campus Campaigns Manager', '2015-12-01', 'month', '2016-07-01', 'month', 'https://www.linkedin.com/in/di-lamont/', NULL, NULL, 'Animal welfare')
     ,('Di Lamont', 'The Humane League', 'Global Alliance Manager', '2016-07-01', 'month', '2017-02-01', 'month', 'https://www.linkedin.com/in/di-lamont/', 'Based in the San Francisco Bay Area', NULL, 'Animal welfare')
+    ,('Ana Ortega', 'The Humane League Mexico', 'Managing Director', '2015-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ana-ortega-9984625a/?originalSubdomain=mx', 'Based in Mexico', 'full-time', 'Animal welfare')
