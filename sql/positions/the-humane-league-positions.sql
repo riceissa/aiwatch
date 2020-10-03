@@ -157,3 +157,6 @@
     ,('Elyssa Diehl', 'The Humane League', 'South Florida Grassroots Director', '2014-08-01', 'month', '2016-06-01', 'month', 'https://www.linkedin.com/in/elyssa-s-diehl/', NULL, NULL, 'Animal welfare')
     ,('Elyssa Diehl', 'The Humane League', 'General Counsel', '2016-06-01', 'month', '2016-12-01', 'month', 'https://www.linkedin.com/in/elyssa-s-diehl/', NULL, NULL, 'Animal welfare')
     ,('Elyssa Diehl', 'The Humane League', 'Of Counsel', '2016-12-01', 'month', '2017-02-01', 'month', 'https://www.linkedin.com/in/elyssa-s-diehl/', NULL, NULL, 'Animal welfare')
+    ,('Rachel Black', 'The Humane League', 'Volunteer', '2014-01-01', 'month', '2019-02-01', 'month', 'https://www.linkedin.com/in/rachel-black-8631a52b/', NULL, NULL, 'Animal welfare')
+    ,('Rachel Black', 'The Humane League', 'Philadelphia Director', '2015-06-01', 'month', '2019-02-01', 'month', 'https://www.linkedin.com/in/rachel-black-8631a52b/', NULL, NULL, 'Animal welfare')
+    ,('Rachel Black', 'The Humane League', 'Senior National Volunteer Coordinator', '2017-01-01', 'month', '2019-02-01', 'month', 'https://www.linkedin.com/in/rachel-black-8631a52b/', NULL, NULL, 'Animal welfare')
