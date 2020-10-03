@@ -173,3 +173,6 @@
     ,('Laura Nicole Miller', 'The Humane League', title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area)
     ,('Sarah De Munck', 'The Humane League', 'Operations Manager', '2016-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sarahdemunck/', NULL, NULL, 'Animal welfare')
     ,('Meghan Smith', 'The Humane League', 'Atlanta Grassroots Director', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20170328195214/http://www.thehumaneleague.com/our-story/', NULL, NULL, 'Animal welfare')
+    ,('Zoë Sigle', 'The Humane League', 'Grassroots Director', '2016-07-01', 'month', '2018-04-01', 'month', 'https://www.linkedin.com/in/zoesigle/', NULL, NULL, 'Animal welfare')
+    ,('Zoë Sigle', 'The Humane League', 'Senior Grassroots Director', '2018-04-01', 'month', '2018-12-01', 'month', 'https://www.linkedin.com/in/zoesigle/', NULL, NULL, 'Animal welfare')
+    ,('Zoë Sigle', 'The Humane League', 'Corporate Relations Specialist', '2018-12-01', 'month', '2020-08-01', 'month', 'https://www.linkedin.com/in/zoesigle/', NULL, NULL, 'Animal welfare')
