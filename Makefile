@@ -37,6 +37,9 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/aiimpacts-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ought-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/cfar-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/amf-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/sentience-politics-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/the-humane-league-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_documents.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/ace-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/cea-org-docs.sql
