@@ -176,3 +176,4 @@
     ,('Zoë Sigle', 'The Humane League', 'Grassroots Director', '2016-07-01', 'month', '2018-04-01', 'month', 'https://www.linkedin.com/in/zoesigle/', NULL, NULL, 'Animal welfare')
     ,('Zoë Sigle', 'The Humane League', 'Senior Grassroots Director', '2018-04-01', 'month', '2018-12-01', 'month', 'https://www.linkedin.com/in/zoesigle/', NULL, NULL, 'Animal welfare')
     ,('Zoë Sigle', 'The Humane League', 'Corporate Relations Specialist', '2018-12-01', 'month', '2020-08-01', 'month', 'https://www.linkedin.com/in/zoesigle/', NULL, NULL, 'Animal welfare')
+    ,('Jeni Haines', 'The Humane League', 'Corporate Relations Manager, Latin America', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20170512030342/http://thehumaneleague.com:80/our-story', NULL, NULL, 'Animal welfare')
