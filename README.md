@@ -103,6 +103,13 @@ commands below must be done every time you want to save changes to git.
    ```bash
    winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source sql/positions/80000hours-positions.sql"
    ```
+   
+   After you edit and save `reload-db.sh`, you will need to commit changes to Git:
+   
+   ```bash
+   git add reload-db.sh
+   git commit -m "New SQL file"
+   ```
 
 4. Stage the file in git. Type
 
