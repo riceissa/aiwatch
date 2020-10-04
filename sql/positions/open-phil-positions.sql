@@ -63,6 +63,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Povneet Dhillon','Open Philanthropy Project','Grants Associate','2019-04-28','month',NULL,NULL,'https://web.archive.org/web/20190428123739/http://www.openphilanthropy.org/about/team',NULL,'full-time',NULL)
     ,('Leena Jones','Open Philanthropy Project','Grants Associate','2019-04-28','month',NULL,NULL,'https://web.archive.org/web/20190428123739/http://www.openphilanthropy.org/about/team',NULL,'full-time',NULL)
     ,('Kira Maker','Open Philanthropy Project','Operations Associate','2019-04-28','month',NULL,NULL,'https://web.archive.org/web/20190428123739/http://www.openphilanthropy.org/about/team',NULL,'full-time',NULL)
+    ,('Zachary Robinson', 'Open Philanthropy Project', 'Strategy and Research Fellow', '2019-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/zyrobinson/', notes, 'full-time', NULL)
 ;
 
 # Other people found manually
@@ -78,6 +79,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Karl Smith','Open Philanthropy Project','Consultant','2015-03-01','month','2015-11-01','month','https://www.linkedin.com/in/modeledbehavior/',NULL,'contractor',NULL)
     ,('Adam Marblestone','Open Philanthropy Project','Scientific advisor',NULL,NULL,NULL,NULL,'https://www.linkedin.com/in/adam-marblestone-87202813/',NULL,'advisor',NULL)
     ,('Jacob Steinhardt','Open Philanthropy Project',NULL,'2018-06-01','year','2018-09-01','year','http://effective-altruism.com/ea/1qx/the_ea_community_and_far_future_ea_funds_are_not/f27','Work over the summer.',NULL,NULL)
+    ,('Rinad Al-Anakrih', 'Open Philanthropy Project', 'Operations assistant', '2019-08-01', 'month', NULL, NULL, 'https://www.openphilanthropy.org/about/team/rinad-al-anakrih', NULL, NULL, NULL)
+    ,('Matthew Poe', 'Open Philanthropy Project', 'Salesforce Architect and Senior Administrator', '2019-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/matthewpoe/ https://www.openphilanthropy.org/about/team/matthew-poe', NULL, NULL, NULL)
 ;
 
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
