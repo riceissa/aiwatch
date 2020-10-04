@@ -179,3 +179,4 @@
     ,('Jeni Haines', 'The Humane League', 'Corporate Relations Manager, Latin America', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20170512030342/http://thehumaneleague.com:80/our-story', NULL, NULL, 'Animal welfare')
     ,('Zoe Novic', 'The Humane League', 'Grassroots Director, San Francisco', '2016-06-01', 'month', '2019-08-01', 'month', 'https://www.linkedin.com/in/zoe-novic-17045b169/', NULL, NULL, 'Animal welfare') 
     ,('Maho Uehara', 'The Humane League', 'Corporate Relations Manager, Japan', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20170512030342/http://thehumaneleague.com:80/our-story', NULL, NULL, 'Animal welfare')
+    ,('Clarké Snell', 'The Humane League', 'Grassroots Director, Chicago', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20170512030342/http://thehumaneleague.com:80/our-story', NULL, NULL, 'Animal welfare')
