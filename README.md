@@ -95,9 +95,14 @@ commands below must be done every time you want to save changes to git.
    any errors, and you can fix them. If MySQL says nothing, that means all the
    data has correct syntax.
 
-   (One tricky point: `reload-db.sh` only reloads files that are explicitly
-   listed in the script, so if you made a new file, you will need to add it to
-   the script.)
+   **WARNING:** `reload-db.sh` only reloads files that are explicitly
+   listed in the script, so if you make a new SQL file it will by default not be loaded
+   into the database. If you make a new SQL file, you must add a line similar to the following
+   one in `reload-db.sh`:
+   
+   ```bash
+   winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source sql/positions/80000hours-positions.sql"
+   ```
 
 4. Stage the file in git. Type
 
