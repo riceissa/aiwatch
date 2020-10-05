@@ -1,0 +1,5 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+	('Andrew Critch', 'Survival and Flourishing.Org', 'Project Director & Governing Committee Member', NULL, NULL, NULL, NULL, 'http://survivalandflourishing.org/', NULL, NULL, 'Effective altruism')
+	,('Alex Flint', 'Survival and Flourishing.Org', 'Governing Committee Member', NULL, NULL, NULL, NULL, 'http://survivalandflourishing.org/', NULL, NULL, 'Effective altruism')  
+	,('Eric Rogstad', 'Survival and Flourishing.Org', 'Governing Committee Member', NULL, NULL, NULL, NULL, 'http://survivalandflourishing.org/', NULL, NULL, 'Effective altruism')  
+	,('Julia Kerley', 'Survival and Flourishing.Org', 'Occasional Administrative Support', NULL, NULL, NULL, NULL, 'http://survivalandflourishing.org/', NULL, NULL, 'Effective altruism')    
