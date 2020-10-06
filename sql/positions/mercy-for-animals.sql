@@ -18,3 +18,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Lucas Alvarenga', 'Mercy For Animals', 'Brazil Communications Coordinator', '2013-01-01', 'month', '2015-10-01', 'month', 'https://www.linkedin.com/in/lucasalvarenga/', NULL, NULL, 'Animal welfare')
     ,('Lucas Alvarenga', 'Mercy For Animals', 'Vice President, Brazil', '2016-08-01', 'month', '2019-01-01', 'month', 'https://www.linkedin.com/in/lucasalvarenga/', NULL, NULL, 'Animal welfare')
     ,('Lucas Alvarenga', 'Mercy For Animals', 'Senior Vice President, International', '2018-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lucasalvarenga/', NULL, NULL, 'Animal welfare')
+    ,('Blanka Alfaro', 'Mercy For Animals', 'Vice president', NULL, NULL, NULL, NULL, 'https://mercyforanimals.lat/el-congreso-de-mxico-acta-para-eliminar-la', NULL, NULL, 'Animal welfare')
+
