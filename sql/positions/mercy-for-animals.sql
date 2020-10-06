@@ -15,3 +15,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Emma Cameron', 'Mercy For Animals', 'Corporate Campaign Specialist', '2018-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/emma-cameron-she-her-851100164/', NULL, 'Full-time', 'Animal welfare')
     ,('Nikunj Sharma', 'Mercy For Animals', 'Chief Executive Officer', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nikunj-sharma-0055b139/', NULL, NULL, 'Animal welfare')
     ,('Tyrell Dozier', 'Mercy For Animals', 'Head Organizer', '2020-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tyrelldozier/', NULL, NULL, 'Animal welfare')
+    ,('Lucas Alvarenga', 'Mercy For Animals', 'Brazil Communications Coordinator', '2013-01-01', 'month', '2015-10-01', 'month', 'https://www.linkedin.com/in/lucasalvarenga/', NULL, NULL, 'Animal welfare')
+    ,('Lucas Alvarenga', 'Mercy For Animals', 'Vice President, Brazil', '2016-08-01', 'month', '2019-01-01', 'month', 'https://www.linkedin.com/in/lucasalvarenga/', NULL, NULL, 'Animal welfare')
+    ,('Lucas Alvarenga', 'Mercy For Animals', 'Senior Vice President, International', '2018-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lucasalvarenga/', NULL, NULL, 'Animal welfare')
