@@ -9,3 +9,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jamie Berger', 'Mercy For Animals', 'Executive Assistant to the President', '2018-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jamiecberger/', NULL, NULL, 'Animal welfare')
     ,('Leah Garces', 'Mercy For Animals', 'President', '2018-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/leahgarces/', NULL, NULL, 'Animal welfare')
     ,('Chloë Cudaback', 'Mercy For Animals', 'Organizing Specialist, U.S.', '2019-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/chloecudaback/', NULL, NULL, 'Animal welfare')
+    ,('Nicole Furlan', 'Mercy For Animals', 'Associate Director of Web Development', '2015-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/nicolefurlan/', NULL, NULL, 'Animal welfare')
