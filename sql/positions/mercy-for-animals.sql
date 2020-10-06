@@ -21,3 +21,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Blanka Alfaro', 'Mercy For Animals', 'Vice president', NULL, NULL, NULL, NULL, 'https://mercyforanimals.lat/el-congreso-de-mxico-acta-para-eliminar-la', NULL, NULL, 'Animal welfare')
     ,('Eva Rocha', 'Mercy For Animals', 'Coordinadora Sénior de Relaciones Corporativas, Latinoamérica', '2016-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/eva-rocha-b60542169/', NULL, NULL, 'Animal welfare')
     ,('PJ Nyman', 'Mercy For Animals', 'Corporate Relations Specialist', '2020-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/pj-nyman-004b83132/', NULL, NULL, 'Animal welfare')
+    ,('Jennifer Behr', 'Mercy For Animals', 'Corporate Relations Specialist', '2020-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jennifer-behr-076248141/', NULL, 'Full-time', 'Animal welfare')
