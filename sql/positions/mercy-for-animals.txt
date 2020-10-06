@@ -1,0 +1,3 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+    ('Milo Runkle', 'Mercy For Animals', 'Founder and President', '2019-01-01', 'year', '1999-10-01', 'month', 'https://www.linkedin.com/in/nathanrunkle/', NULL, NULL, 'Animal welfare')
+    ('Milo Runkle', 'Mercy For Animals', 'Founder', '2019-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nathanrunkle/', NULL, NULL, 'Animal welfare')
