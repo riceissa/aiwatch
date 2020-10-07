@@ -46,3 +46,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Mikael Roldsgaard Nielsen', 'Mercy for Animals', 'Director of Leadership Giving', '2020-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mikael-roldsgaard-nielsen-9745005/',  NULL, 'Full-time', 'Animal welfare')
     ,('Eva Rocha', 'Mercy for Animals', 'Corporate relations senior coordinator, Latin America', '2016-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/eva-rocha-b60542169/', NULL, NULL, 'Animal welfare')
     ,('Linda Obregon', 'Mercy for Animals', 'Executive Director - Latin America', '2019-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lindaobregon/', NULL, NULL, 'Animal welfare')
+    ,('PJ Nyman', 'Mercy for Animals', 'Corporate Relations Specialist', '2020-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/pj-nyman-004b83132/', NULL, NULL, 'Animal welfare')
