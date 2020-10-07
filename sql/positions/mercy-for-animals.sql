@@ -40,3 +40,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Bruna T.', 'Mercy for Animals', 'Public relations specialist', '2018-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/bruna-t-94297739/', 'Based in Sao Paulo', NULL, 'Animal welfare')
     ,('Bruna T.', 'Mercy for Animals', 'Communications director', '2019-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/bruna-t-94297739/', 'Based in Sao Paulo', NULL, 'Animal welfare')
     ,('Zoë Sigle', 'Mercy for Animals', 'Global Corporate Engagement Manager', '2020-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/zoesigle/',NULL, NULL, 'Animal welfare')
+    ,('Mikael Roldsgaard Nielsen', 'Mercy for Animals', 'Development Specialist, '2019-10-01', 'month', '2020-04-01', 'month', 'https://www.linkedin.com/in/mikael-roldsgaard-nielsen-9745005/',  NULL, 'Full-time', 'Animal welfare')
+    ,('Mikael Roldsgaard Nielsen', 'Mercy for Animals', 'Global Campaigns Manager, '2012-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mikael-roldsgaard-nielsen-9745005/',  NULL, NULL, 'Animal welfare')
+    ,('Mikael Roldsgaard Nielsen', 'Mercy for Animals', ', '2012-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mikael-roldsgaard-nielsen-9745005/',  NULL, NULL, 'Animal welfare')
+    ,('Mikael Roldsgaard Nielsen', 'Mercy for Animals', 'Director of Leadership Giving', '2020-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mikael-roldsgaard-nielsen-9745005/',  NULL, 'Full-time', 'Animal welfare')
