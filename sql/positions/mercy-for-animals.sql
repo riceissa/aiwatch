@@ -37,3 +37,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Scarlett Callahan', 'Mercy for Animals', 'Annual Campaigns Specialist', '2019-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/scarlett-callahan-2a8676108/', NULL, NULL, 'Animal welfare')
     ,('Alexandra Bookis', 'Mercy for Animals', 'Transfarmation Project Research Assistant', '2020-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alexandra-bookis/', NULL, 'Part-time', 'Animal welfare')
     ,('Carolina Destro de Oliveira', 'Mercy for Animals', 'Development Manager', '2018-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/carolina-destro-de-oliveira-62516459/', NULL, NULL, 'Animal welfare')
+    ,('Bruna T.', 'Mercy for Animals', 'Public relations specialist', '2018-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/bruna-t-94297739/', 'Based in Sao Paulo', NULL, 'Animal welfare')
+    ,('Bruna T.', 'Mercy for Animals', 'Communications director', '2019-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/bruna-t-94297739/', 'Based in Sao Paulo', NULL, 'Animal welfare')
