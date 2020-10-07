@@ -28,4 +28,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Marissa Valladolid', 'Mercy For Animals', 'Annual Campaigns Manager', '2017-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/marissa-valladolid-006a9538/', NULL, NULL, 'Animal welfare')
     ,('Samantha Y.', 'Mercy for Animals', 'Talent Acquisition Manager', '2019-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/samantha-y-6808a2192/', NULL, NULL, 'Animal welfare')
     ,('Jesse Marks', 'Mercy for Animals', 'VP, Corporate Engagement', '2019-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jesse-marks/', NULL, NULL, 'Animal welfare')
-    ,('Jesse Marks', 'Mercy for Animals', 'SVP of Engagement', '2019-09-01', 'month', 'Overseeing the programs of corporate engagement, public engagement and volunteer engagement', NULL, 'https://www.linkedin.com/in/jesse-marks/', NULL, NULL, 'Animal welfare')
+    ,('Jesse Marks', 'Mercy for Animals', 'SVP of Engagement', '2019-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jesse-marks/', 'Overseeing the programs of corporate engagement, public engagement and volunteer engagement', NULL, 'Animal welfare')
+    ,('Matthew Scheer', 'Mercy for Animals', 'Freelance Graphic Designer', '2011-01-01', 'month', '2016-09-01', 'month', 'https://www.linkedin.com/in/matthew-scheer-125a0135/', NULL, NULL, 'Animal welfare')
+    ,('Matthew Scheer', 'Mercy for Animals', 'Graphic Design Manager', '2016-09-01', 'month', '2019-02-01', 'month', 'https://www.linkedin.com/in/matthew-scheer-125a0135/', NULL, NULL, 'Animal welfare')
+    ,('Matthew Scheer', 'Mercy for Animals', 'Director Of Graphic Design', '2019-02-01', 'month', '2019-07-01', 'month', 'https://www.linkedin.com/in/matthew-scheer-125a0135/', NULL, NULL, 'Animal welfare')
+    ,('Matthew Scheer', 'Mercy for Animals', 'Director of Creative', '2019-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/matthew-scheer-125a0135/', NULL, NULL, 'Animal welfare')
+
+ 
