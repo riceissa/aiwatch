@@ -65,3 +65,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Rachel Krantz', 'Mercy for Animals', 'Senior Writer', '2017-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rachel-krantz-3b6b1045/', 'Based in Los Angeles', NULL, 'Animal welfare')
     ,('Stephanie Lundstrom', 'Mercy for Animals', 'Operations Coordinator', '2016-09-01', 'month', '2017-11-01', 'month', 'https://www.linkedin.com/in/stephanie-lundstrom-13285610a/', 'Based in Los Angeles', NULL, 'Animal welfare')
     ,('Stephanie Lundstrom', 'Mercy for Animals', 'Video Editor', '2017-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/stephanie-lundstrom-13285610a/', NULL, NULL, 'Animal welfare')
+    ,('Sarah Von Alt', 'Mercy for Animals', 'Ohio Campaign Coordinator', '2011-09-01', NULL, '2012-01-01', 'month', 'https://www.linkedin.com/in/sarah-vonalt/', NULL, NULL, 'Animal welfare')
+    ,('Sarah Von Alt', 'Mercy for Animals', 'Western Outreach Coordinator', '2012-01-01', NULL, '2013-01-01', 'month', 'https://www.linkedin.com/in/sarah-vonalt/', 'Based in the Los Angeles area', NULL, 'Animal welfare')
+    ,('Sarah Von Alt', 'Mercy for Animals', 'Digital Campaigns Coordinator', '2011-09-01', NULL, '2012-01-01', 'month', 'https://www.linkedin.com/in/sarah-vonalt/', NULL, NULL, 'Animal welfare')
+    ,('Sarah Von Alt', 'Mercy for Animals', 'Ohio Campaign Coordinator', '2011-09-01', NULL, '2012-01-01', 'month', 'https://www.linkedin.com/in/sarah-vonalt/', NULL, NULL, 'Animal welfare')
+    ,('Sarah Von Alt', 'Mercy for Animals', 'Content Manager', '2015-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sarah-vonalt/', NULL, NULL, 'Animal welfare')
