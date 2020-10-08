@@ -50,3 +50,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Lindsey Bombard', 'Mercy for Animals', 'Talent Development Manager', '2018-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lindseybombardv/', NULL, NULL, 'Animal welfare')
     ,('Elizabeth Luxenberg', 'Mercy for Animals', 'Legal Intern', '2020-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/elizabeth-luxenberg-4a8716107/', NULL, 'intern', 'Animal welfare')
     ,('Sarah Coffman', 'Mercy for Animals', 'Director Of Annual Giving', '2020-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sarah-coffman-5841a062/', NULL, 'Full-time', 'Animal welfare')
+    ,('Hillary Hendrickson', 'Mercy for Animals', 'Campaign Coordinator', '2017-01-01', 'month', '2017-12-01', 'month', 'https://www.linkedin.com/in/hillary-hendrickson/', NULL, NULL, 'Animal welfare')
+    ,('Hillary Hendrickson', 'Mercy for Animals', 'Corporate Outreach Specialist', '2017-12-01', 'month', '2018-03-01', 'month', 'https://www.linkedin.com/in/hillary-hendrickson/', NULL, NULL, 'Animal welfare')
+    ,('Hillary Hendrickson', 'Mercy for Animals', 'Senior Corporate Relations Specialist', '2018-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hillary-hendrickson/', NULL, NULL, 'Animal welfare')
+    ,('Hillary Hendrickson', 'Mercy for Animals', 'Corporate Relations Manager, U.S. and Canada', '2019-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hillary-hendrickson/', NULL, NULL, 'Animal welfare')
