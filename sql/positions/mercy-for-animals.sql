@@ -62,3 +62,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Brian Alexander', 'Mercy for Animals', 'Corporate Policy Specialist', '2017-07-01', 'month', '2017-12-01', 'month', 'https://www.linkedin.com/in/brian-alexander-874bab16/', NULL, NULL, 'Animal welfare')
     ,('Brian Alexander', 'Mercy for Animals', 'Corporate Relations Manager, United States and Canada', '2017-12-01', 'month', '2019-02-01', 'month', 'https://www.linkedin.com/in/brian-alexander-874bab16/', NULL, NULL, 'Animal welfare')
     ,('Brian Alexander', 'Mercy for Animals', 'Director, Corporate Engagement, Animal Welfare, United States and Canada', '2019-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/brian-alexander-874bab16/', NULL, NULL, 'Animal welfare')
+    ,('Rachel Krantz', 'Mercy for Animals', 'Senior Writer', '2017-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rachel-krantz-3b6b1045/', 'Based in Los Angeles', NULL, 'Animal welfare')
