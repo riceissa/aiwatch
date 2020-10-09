@@ -72,4 +72,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Sarah Von Alt', 'Mercy for Animals', 'Content Manager', '2015-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sarah-vonalt/', NULL, NULL, 'Animal welfare')
     ,('John Seber', 'Mercy for Animals', 'Deputy General Counsel & Vice President of Legal Affairs', '2018-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/john-seber-a09b91100/', NULL, NULL, 'Animal welfare')
     ,('John Seber', 'Mercy for Animals', 'Senior Vice President, Advocacy', '2019-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/john-seber-a09b91100/', NULL, NULL, 'Animal welfare')
-    ,('Thaís Vizzaccaro', 'Mercy for Animals', 'Development specialist', '2020-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/thaisvizzaccaro/', NULL, NULL, 'Animal welfare')
+    ,('Thaís Vizzaccaro', 'Mercy for Animals', 'Development specialist', '2020-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/thaisvizzaccaro/', NULL, 'full-time', 'Animal welfare')
+    ,('Miranda Hoffman, 'Mercy for Animals', 'Advancement Services Manager', start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area)
+    ,('Rachel Mazzagatti', 'Mercy for Animals', 'Development Assistant', '2020-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rachel-mazzagatti711/', NULL, 'full-time', 'Animal welfare')
