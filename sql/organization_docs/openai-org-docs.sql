@@ -70,11 +70,11 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         '2020-10-01', /* publication_date */
         NULL, /* modified_date */
         'Paul Christiano', /* author */
-        'Lesswrong', /* publisher */
+        'LessWrong', /* publisher */
         'OpenAI', /* affected_organizations */
         NULL, /* affected_people */
         'Hiring-related notice', /* document_scope */
-        'AI', /* cause_area */
-        'Paul Christiano wposts on LessWrong a hiring note asking for engineers and researchers to work on GPT-3 alignment problems, as the language model is already being deployed in the OpenAI API' /* notes */
+        'AI safety', /* cause_area */
+        'Paul Christiano posts on LessWrong a hiring note asking for engineers and researchers to work on GPT-3 alignment problems, as the language model is already being deployed in the OpenAI API' /* notes */
    )
 ;
