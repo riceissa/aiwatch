@@ -64,4 +64,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI', /* cause_area */
         'Robert Wiblin interviews Dario Amodei for the 80,000 Hours podcast about working at OpenAI and about the domains of AI and AI safety. The latter half of the podcast includes advice for people training to work in AI organizations such as OpenAI and DeepMind' /* notes */
    )
+  ,(
+        'https://www.lesswrong.com/posts/dJQo7xPn4TyGnKgeC/hiring-engineers-and-researchers-to-help-align-gpt-3', /* url */
+        'Hiring engineers and researchers to help align GPT-3', /* title */
+        '2020-10-01', /* publication_date */
+        NULL, /* modified_date */
+        'Paul Christiano', /* author */
+        'Lesswrong', /* publisher */
+        'OpenAI', /* affected_organizations */
+        NULL, /* affected_people */
+        'Hiring-related notice', /* document_scope */
+        'AI', /* cause_area */
+        'Paul Christiano wposts on LessWrong a hiring note asking for engineers and researchers to work on GPT-3 alignment problems, as the language model is already being deployed in the OpenAI API' /* notes */
+   )
 ;
