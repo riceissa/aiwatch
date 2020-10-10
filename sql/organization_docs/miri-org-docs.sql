@@ -389,4 +389,16 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI safety', /* cause_area */
         'On Friday November 15, Buck Shlegeris posts an Ask Me Anything (AMA) on the Effective Altruism Forum. He responds to the questions on Tuesday November 19' /* notes */
     )
-;
+,(
+        'https://www.facebook.com/robbensinger/posts/10163981893970447', /* url */
+        'MIRI, the place where I work, is very seriously considering moving to a different country soon …', /* title */
+        '2020-10-09', /* publication_date */
+        NULL, /* modified_date */
+        'Rob Bensinger', /* author */
+        'Facebook', /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'Rob Bensinger, the communications person at MIRI, posts on his personal Facebook wall saying that MIRI is internally actively discussing and seriously considering a move from the San Francisco Bay Area (where MIRI is currently located) to another country or another part of the US. The post does not state the reasons MIRI is considering a move; in comments, Bensinger clarifies that it is too early to summarize the reasons MIRI is considering a move, but that he is looking for people’s thoughts on what the most important considerations are. Bensinger also posts a similar comment on LessWrong https://www.lesswrong.com/posts/FghubkDy6Dp6mnxk7/the-rationalist-community-s-location-problem?commentId=WggEETNGjd6d2XRgR' /* notes */
+    );
