@@ -80,3 +80,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Erin Kwiatkowski', 'Mercy for Animals', 'Global Vegetarian Support Manager', '2016-08-01', 'month', '2019-02-01', 'month', 'https://www.linkedin.com/in/erin-kwiatkowski/', NULL, NULL, 'Animal welfare')
     ,('Erin Kwiatkowski', 'Mercy for Animals', 'Corporate Partnerships Manager, Plant Based US', '2019-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/erin-kwiatkowski/', NULL, NULL, 'Animal welfare')
     ,('Lucas Lourenço', 'Mercy for Animals', 'Video editor', '2020-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/costalucaslourenco/', NULL, NULL, 'Animal welfare') 
+    ,('Catalina Lopez', 'Mercy for Animals', 'Corporate Relations Manager - Latin America', '2017-09-01', 'month', '2019-01-01', 'month', 'https://www.linkedin.com/in/catalina-lopez-38a30238/', 'Based in Mexico city', NULL, 'Animal welfare')
+    ,('Catalina Lopez', 'Mercy for Animals', 'Director of Corporate Engagement, Animal Welfare - Latin America', '2019-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/catalina-lopez-38a30238/', NULL, NULL, 'Animal welfare')
