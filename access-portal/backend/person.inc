@@ -1,6 +1,18 @@
 <?php
 $person = $_REQUEST['person'];
 $seen = array();
+
+if ($stmt = $mysqli->prepare("select * from people where person = ?")) {
+  $stmt->bind_param("s", $person);
+  $stmt->execute();
+  $result = $stmt->get_result();
+  if ($result->num_rows < 1) {
+    echo "<p>Person not found.</p></body></html>\n";
+    http_response_code(404);
+    die();
+  }
+}
+
 ?>
 
 <h1>Information for <?= htmlspecialchars($person) ?></h1>
@@ -26,11 +38,6 @@ $seen = array();
   <tbody>
 
 <?php
-if ($stmt = $mysqli->prepare("select * from people where person = ?")) {
-  $stmt->bind_param("s", $person);
-  $stmt->execute();
-  $result = $stmt->get_result();
-}
 while ($row = $result->fetch_assoc()) { ?>
   <?php if ($country = ($row['country'] ?? '')) { ?>
     <tr>

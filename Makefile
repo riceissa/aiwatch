@@ -11,10 +11,10 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists agendas"
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/positions-schema.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/positions.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/people.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organizations.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/products.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/product_creators.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/80000hours-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/givewell-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/cea-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ace-positions.sql
@@ -37,6 +37,9 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/aiimpacts-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ought-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/cfar-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/amf-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/sentience-politics-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/the-humane-league-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_documents.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/ace-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/cea-org-docs.sql
@@ -54,6 +57,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/documents.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/agenda_docs/iterated-amplification-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/agenda_docs/reward-modeling-docs.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/people.sql
 access-portal/head_date.txt:
 	git log -1 --format="%ad" --date=format:"%Y-%m-%d" > "$@"
 

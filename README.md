@@ -54,6 +54,131 @@ make fetch_tablesorter
 
 You can now visit `http://localhost:8000/` in your browser.
 
+## Basic steps for adding new data
+
+Before running commands in Git Bash, make sure you are in the AI Watch directory.
+If you cloned the git repo from your home directory, you can go to the AI Watch
+directory by typing the following:
+
+```
+cd ~/aiwatch
+```
+
+This only needs to be done once every time you open Git Bash, whereas the other
+commands below must be done every time you want to save changes to git.
+
+1. Open an existing .sql file or make a new .sql file in which to add new data.
+   For example, to add data to 80,000 Hours positions, you can open
+   `sql/positions/80000hours-positions.sql`.
+
+2. Add data to the file (using a text editor such as Notepad) by looking at
+   sources like Wayback Machine for the team
+   page, LinkedIn, blog posts, Facebook, etc.  For the data format, look at the
+   other files in the same directory and copy the format.
+
+   A few things to keep in mind:
+
+   - Date fields must include year, month, and day, so for example
+     `'2016-02-01'`. MySQL will complain if you only add year or month.
+   - The first row of a file shouldn't start with a comma, but all the
+     subsequent rows must start with a comma because of the way rows are
+     separated in MySQL.
+
+3. Once you reach a good stopping point, check for errors in the MySQL syntax.
+   Type:
+
+   ```bash
+   ./reload-db.sh
+   ```
+
+   This will reload all of the data in MySQL. MySQL will complain if there are
+   any errors, and you can fix them. If MySQL says nothing, that means all the
+   data has correct syntax.
+
+   **WARNING:** `reload-db.sh` only reloads files that are explicitly
+   listed in the script, so if you make a new SQL file it will by default not be loaded
+   into the database. If you make a new SQL file, you must add a line similar to the following
+   one in `reload-db.sh`:
+   
+   ```bash
+   winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source sql/positions/80000hours-positions.sql"
+   ```
+   
+   After you edit and save `reload-db.sh`, you will need to commit changes to Git:
+   
+   ```bash
+   git add reload-db.sh
+   git commit -m "New SQL file"
+   ```
+
+4. Stage the file in git. Type
+
+   ```bash
+   git add FILENAME
+   ```
+
+   where `FILENAME` is the name of the file you have been editing. If there are
+   multiple files, you can either type `git add FILENAME1 FILENAME2` or you can
+   type one line for each file.
+
+   To find all files with changes, you can type:
+
+   ```bash
+   git status
+   ```
+
+   Then you can copy the path that is shown there.
+
+5. Commit your changes. There are two ways to do this:
+
+   - Simple way. You can type:
+
+     ```bash
+     git commit -m "your message here"
+     ```
+
+     where `your message here` is a summary of the changes you made. For
+     example, you might type:
+
+     ```bash
+     git commit -m "Add 80,000 Hours team from 2012"
+     ```
+
+   - Using a text editor (this is better if you want to write a multi-line
+     commit message). You can type:
+
+     ```bash
+     git commit
+     ```
+
+     This will open a text editor for you to type your commit message. In Git
+     Bash, the default text editor is Vim. You can press `i` (which enters
+     insert mode) and then type in your message (e.g. "Add 80,000 Hours team
+     from 2012") and then press `Escape`. Then press `:wq` followed by `Enter`
+     (this will save the file and close Vim).
+
+6. Upload your changes to GitHub. You can type:
+
+   ```bash
+   git push
+   ```
+
+Some tricky things to keep in mind:
+
+- An organization might change its team page location, so you might need to
+  find its old team page location in Wayback Machine. To do this, go to the
+  _homepage_ for the organization within Wayback Machine, find an old snapshot,
+  then find the team page within that snapshot.
+- A person might have changed their name over the years. In this case, you will
+  want to use their newest name.
+
+The very first time you set up Git, you will need to do the following:
+
+- Set name and email for Git.
+- `git checkout -b BRANCHNAME` to start a new branch.
+- `git push --set-upstream origin BRANCHNAME` to set the branch to push to on
+  origin (GitHub).
+
 ## Contributing
 
 All contributions are welcome.  Contributions might take the form of:

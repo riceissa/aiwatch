@@ -102,7 +102,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Hayden Wilkinson','Centre for Effective Altruism','Operations Intern','2015-11-01','month','2016-03-01','month','https://www.linkedin.com/in/wilkinsonhayden/',NULL,'intern','Effective altruism')
     ,('Kyle Scott','Centre for Effective Altruism','Office Manager','2015-02-01','month','2015-06-01','month','https://www.linkedin.com/in/kdbscott/',NULL,NULL,'Effective altruism')
     ,('Emily Trench','Centre for Effective Altruism','Summer Research Fellow','2017-06-01','month','2017-07-01','month','https://www.linkedin.com/in/emily-tench-922232129/',NULL,NULL,'Effective altruism')
-    ,('Kerri Easterbrook','Centre for Effective Altruism','Assistant Event Producer','2018-03-01','month',NULL,NULL,'https://www.linkedin.com/in/kerrieasterbrook/',NULL,'contractor','Effective altruism')
+    # Removed by request:
+    # ,('Kerri Easterbrook','Centre for Effective Altruism','Assistant Event Producer','2018-03-01','month',NULL,NULL,'https://www.linkedin.com/in/kerrieasterbrook/',NULL,'contractor','Effective altruism')
     ,('Oliver Davies','Centre for Effective Altruism','Intern','2016-07-01','month','2016-09-01','month','https://www.linkedin.com/in/oliverjosephdavies/',NULL,'intern','Effective altruism')
     ,('Chris Jenkins','Centre for Effective Altruism','Marketing Manager','2015-03-01','month','2015-06-01','month','https://www.linkedin.com/in/coejenkins/',NULL,NULL,'Effective altruism')
     ,('Dillon Bowen','Centre for Effective Altruism','Student Volunteer Researcher','2015-01-01','month','2015-06-01','month','https://www.linkedin.com/in/dillon-bowen-409791a1/',NULL,'volunteer','Effective altruism')
