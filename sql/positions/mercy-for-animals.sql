@@ -95,3 +95,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Yip Fai Tse', 'Mercy for Animals', 'Strategy Consultant of China', '2018-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/yip-fai-tse-770a7b146/', NULL, NULL, 'Animal welfare')
     ,('Marie Camino', 'Mercy for Animals', 'Policy Advisor', '2019-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mariecamino/', 'Based in Washington D.C. Metro Area', NULL, 'Animal welfare')
     ,('Talita Trygsland', 'Mercy for Animals', 'Events Manager', '2016-08-01', 'month', NULl, NULL, 'https://www.linkedin.com/in/talitatrygsland/', 'Based in the Greater Los Angeles Area', NULL, 'Animal welfare')
+    ,('Diogo Fernandes', 'Mercy for Animals', 'Gerente de Voluntariado, Brasil', '2019-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/diogo-fernandes-3bbb9227/', 'Based in the São Paulo Area, Brazil', 'full-time', 'Animal welfare')
