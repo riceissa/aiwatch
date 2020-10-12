@@ -89,7 +89,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Akbar Ali', 'Mercy for Animals', 'Operations Manager', '2018-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/akbar-ali-bab69010a/', NULL, NULL, 'Animal welfare')
     ,('Caitlin Oates', 'Mercy for Animals', 'Philanthropy Officer', '2020-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/caitlin-oates-1a69b2a/', NULL, 'full-time', 'Animal welfare')
     ,('Miranda Eisen', 'Mercy for Animals', 'Government Affairs & Public Policy Intern', '2020-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/miranda-eisen-161862180/', NULL, 'intern', 'Animal welfare')
-    ,('Yip Fai Tse', 'Mercy for Animals', 'Campaign Coordinator', '2017-07-01', 'month', '2018-01-01', 'month', 'https://www.linkedin.com/in/yip-fai-tse-770a7b146/', NULL, NULL, 'Animal welfare')
+    ,('Yip Fai Tse', 'Mercy for Animals', 'Campaign Coordinator', '2017-07-01', 'month', '2018-01-01', 'month', 'https://www.linkedin.com/in/yip-fai-tse-770a7b146/', 'Based in Hong Kong', NULL, 'Animal welfare')
     ,('Yip Fai Tse', 'Mercy for Animals', 'Outreach Specialist', '2018-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/yip-fai-tse-770a7b146/', NULL, NULL, 'Animal welfare')
     ,('Yip Fai Tse', 'Mercy for Animals', 'Veg Suport Specialist', '2018-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/yip-fai-tse-770a7b146/', NULL, NULL, 'Animal welfare')
     ,('Yip Fai Tse', 'Mercy for Animals', 'Strategy Consultant of China', '2018-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/yip-fai-tse-770a7b146/', NULL, NULL, 'Animal welfare')
