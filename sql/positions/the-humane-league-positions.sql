@@ -181,3 +181,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Maho Uehara', 'The Humane League', 'Corporate Relations Manager, Japan', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20170512030342/http://thehumaneleague.com:80/our-story', NULL, NULL, 'Animal welfare')
     ,('Clarké Snell', 'The Humane League', 'Grassroots Director, Chicago', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20170512030342/http://thehumaneleague.com:80/our-story', NULL, NULL, 'Animal welfare')
     ,('Jessie Lingenfelter', 'The Humane League', 'Public Relations Manager', '2016-03-01', 'month', '2018-07-01', 'month', 'https://www.linkedin.com/in/jessielingenfelter/', NULL, NULL, 'Animal welfare')
+    ,('Gustavo Olvera', 'The Humane League', 'Coordinador de Campañas', NULL, NULL, NULL, NULL, 'https://www.linkedin.com/in/gustavo-olvera-73a415135/?originalSubdomain=mx', NULL, NULL, 'Animal welfare')
