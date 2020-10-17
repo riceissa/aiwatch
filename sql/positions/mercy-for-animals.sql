@@ -115,3 +115,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Kelcey Meadows-Lucas', 'Mercy for Animals', 'Philanthropy Officer', '2015-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kelcey-meadows-lucas-cfre-a559b99/', NULL, NULL, 'Animal welfare')
     ,('Lupemaria Beal', 'Mercy for Animals', 'International Project Manager', '2020-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lupemaria/', NULL, NULL, 'Animal welfare')
     ,('Michael Y. Gagné', 'Mercy for Animals', 'Director of Organizing', '2020-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/michaelygagne/', NULL, 'full-time', 'Animal welfare')
+    ,('Chelsie Schadt', 'Mercy for Animals', 'Campaign Coordinator', '2017-01-01', 'month', '2017-11-01', 'month', 'https://www.linkedin.com/in/chelsie-schadt-5218913b/', NULL, NULL, 'Animal welfare')
+    ,('Chelsie Schadt', 'Mercy for Animals', 'Corporate Relations Specialist', '2017-11-01', 'month', '2018-03-01', 'month', 'https://www.linkedin.com/in/chelsie-schadt-5218913b/', NULL, NULL, 'Animal welfare')
+    ,('Chelsie Schadt', 'Mercy for Animals', 'Senior Corporate Relations Specialist', '2018-03-01', 'month', '2019-07-01', 'month', 'https://www.linkedin.com/in/chelsie-schadt-5218913b/', NULL, NULL, 'Animal welfare')
+    ,('Chelsie Schadt', 'Mercy for Animals', 'Corporate Campaigns Manager, U.S. and Canada', '2019-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/chelsie-schadt-5218913b/', NULL, NULL, 'Animal welfare')
