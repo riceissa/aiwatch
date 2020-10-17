@@ -177,6 +177,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Zoë Sigle', 'The Humane League', 'Senior Grassroots Director', '2018-04-01', 'month', '2018-12-01', 'month', 'https://www.linkedin.com/in/zoesigle/', NULL, NULL, 'Animal welfare')
     ,('Zoë Sigle', 'The Humane League', 'Corporate Relations Specialist', '2018-12-01', 'month', '2020-08-01', 'month', 'https://www.linkedin.com/in/zoesigle/', NULL, NULL, 'Animal welfare')
     ,('Jeni Haines', 'The Humane League', 'Corporate Relations Manager, Latin America', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20170512030342/http://thehumaneleague.com:80/our-story', NULL, NULL, 'Animal welfare')
-    ,('Zoe Novic', 'The Humane League', 'Grassroots Director, San Francisco', '2016-06-01', 'month', '2019-08-01', 'month', 'https://www.linkedin.com/in/zoe-novic-17045b169/', NULL, NULL, 'Animal welfare') 
+    ,('Zoe Novic', 'The Humane League', 'Grassroots Director, San Francisco', '2016-06-01', 'month', '2019-08-01', 'month', 'https://www.linkedin.com/in/zoe-novic-17045b169/', NULL, NULL, 'Animal welfare')  
     ,('Maho Uehara', 'The Humane League', 'Corporate Relations Manager, Japan', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20170512030342/http://thehumaneleague.com:80/our-story', NULL, NULL, 'Animal welfare')
     ,('Clarké Snell', 'The Humane League', 'Grassroots Director, Chicago', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20170512030342/http://thehumaneleague.com:80/our-story', NULL, NULL, 'Animal welfare')
+    ,('Jessie Lingenfelter', 'The Humane League', 'Public Relations Manager', '2016-03-01', 'month', '2018-07-01', 'month', 'https://www.linkedin.com/in/jessielingenfelter/', NULL, NULL, 'Animal welfare')
