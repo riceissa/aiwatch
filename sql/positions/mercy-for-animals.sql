@@ -111,3 +111,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Fitzia B', 'Mercy for Animals' , 'Director Of Communications in Latin America', '2020-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/fitzia/', NULL, 'full-time', 'Animal welfare')
     ,('Mariana Garcia Anunciato', 'Mercy for Animals', 'People Operations Manager', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mariana-garcia-anunciato/', NULL, 'full-time', 'Animal welfare')
     ,('Daina Bray', 'Mercy for Animals', 'General Counsel', '2019-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/daina-bray-she-her-12aa4917/', NULL, NULL, 'Animal welfare')
+    ,('Leila Martins', 'Mercy for Animals', 'Director of Communications BR', '2020-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/leilaramos77/', NULL, NULL, 'Animal welfare')
