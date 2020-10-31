@@ -7,3 +7,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Anna Puglisi', 'Center for Security and Emerging Technology', 'Senior Fellow', '2020-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/anna-puglisi-65645a14b/', NULL, 'full-time', 'AI safety')
     ,('Ashwin Acharya', 'Center for Security and Emerging Technology', 'Research Analyst', '2020-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ashwin-acharya/', NULL, 'full-time', 'AI safety')
     ,('Aurora Johnson', 'Center for Security and Emerging Technology', 'Semester Research Analyst', NULL, NULL, NULL, NULL, 'https://cset.georgetown.edu/staff/aurora-johnson/', NULL, NULL, 'AI safety')
+    ,('Autumn Toney', 'Center for Security and Emerging Technology', 'Data Research Analyst', '2020-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/autumn-toney-7423a4147/', NULL, 'full-time', 'AI safety')
