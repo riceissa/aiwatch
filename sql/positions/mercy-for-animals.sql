@@ -122,3 +122,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Stephanie Nemeth-Brawley', 'Mercy for Animals', 'Legal Assistant', '2018-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/stephanie-nemeth-brawley-224505158/', 'Based in Los Angeles', NULL, 'Animal welfare')
     ,('Aline Bernardes de Oliveira', 'Mercy for Animals', 'Content reviewer', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/aline-bernardes-oliveira/', NULL, 'contractor', 'Animal welfare')
     ,('Fabiola Balmori', 'Mercy for Animals', 'Staff Attorney', '2018-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/fabiola-balmori-546274172/', NULL, NULL, 'Animal welfare')
+    ,('Paula Margarido', 'Mercy for Animals', 'Lawyer', '2017-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/paula-margarido-4454435a/', NULL, NULL, 'Animal welfare')
