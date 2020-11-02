@@ -44,7 +44,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Diana Cimino', 'The Humane League', 'Donor Relations Manager', '2017-08-01', 'month', '2018-07-01', 'month', 'https://www.linkedin.com/in/dianacimino/', NULL, NULL, 'Animal welfare')
     ,('Diana Cimino', 'The Humane League', 'Senior Donor Relations Manager', '2018-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dianacimino/', NULL, NULL, 'Animal welfare')
     ,('Taylor Ford', 'The Humane League', 'Corporate Campaigns Manager', '2014-12-01', 'month', '2017-04-01', 'month', 'https://www.linkedin.com/in/taylor-ford-83648693/', NULL, NULL, 'Animal welfare')
-    ,('Taylor Ford', 'Director of Campaigns', 'Director of Corporate Engagement', '2017-01-01', 'month', '2020-01-01', 'month', 'https://www.linkedin.com/in/taylor-ford-83648693/', NULL, NULL, 'Animal welfare')
+    ,('Taylor Ford', 'The Humane League', 'Director of Corporate Engagement', '2017-01-01', 'month', '2020-01-01', 'month', 'https://www.linkedin.com/in/taylor-ford-83648693/', NULL, NULL, 'Animal welfare')
     ,('Taylor Ford', 'The Humane League', 'Director of Corporate Engagement', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/taylor-ford-83648693/', NULL, NULL, 'Animal welfare')
     ,('Beth Anne Hendrickson', 'The Humane League', 'Corporate Relations Specialist', '2017-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/bethannehendrickson/', NULL, NULL, 'Animal welfare')
     ,('Jyllian Shepard', 'The Humane League', 'Human Resources Coordinator', '2017-09-01', 'month', '2018-04-01', 'month', 'https://www.linkedin.com/in/jyllian-shepard/', NULL, 'full-time', 'Animal welfare')
