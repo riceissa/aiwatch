@@ -77,5 +77,18 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Rationality improvement', /* cause_area */
         'Jorgen Ljones posts a question to the Effective Altruism Forum asking what CFAR is up to, since their main activity (in-person workshops) is paused due to the COVID-19 pandemic. Adam Scholl, a CFAR instructor, replies: "Currently CFAR is on sabbatical, which we planned to allocate a couple months this year toward anyway. I.e., we''re reading, and learning and scheming, and in general trying to improve ourselves in ways that are hard to find time for during our normally-dense workshop schedule. We''re considering a range of options for what to do next—e.g. online workshops, zoom mentoring, helping other orgs in some way—but we haven''t yet settled on a decision."' /* notes */
     )
+    ,(
+        'https://www.facebook.com/anna.salamon.96/posts/10158082768717682', /* url */
+        NULL, /* title */
+        '2019-12-31', /* publication_date */
+        NULL, /* modified_date */
+        'Anna Salamon', /* author */
+        NULL, /* publisher */
+        'Center for Applied Rationality', /* affected_organizations */
+        NULL, /* affected_people */
+        'General discussion of organizational practices', /* document_scope */
+        'Rationality improvement', /* cause_area */
+        'Anna Salamon, who worked at CFAR, explains her reasons as for why she chose CFAR as her favorite donation location in 2019. In brief, she expresses two basic senses in which donation can help CFAR: It provides (1) moral and (2) financial support. She also states the importance of assisting people toward being able to do AI alignment research, and, whereas she thinks that locating and helping educate potential researchers is expensive, she thinks they’re worth it.' /* notes */
+    )
 ;
 
