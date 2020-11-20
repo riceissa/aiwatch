@@ -88,7 +88,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* affected_people */
         'General discussion of organizational practices', /* document_scope */
         'Rationality improvement', /* cause_area */
-        'Anna Salamon, who worked at CFAR, explains her reasons as for why she chose CFAR as her favorite donation location in 2019. In brief, she expresses two basic senses in which donation can help CFAR: It provides (1) moral and (2) financial support. She also states the importance of assisting people toward being able to do AI alignment research, and, whereas she thinks that locating and helping educate potential researchers is expensive, she thinks they’re worth it.' /* notes */
+        'Anna Salamon, who worked at CFAR, explains on her Facebook page her reasons as for why she chose CFAR as her favorite donation location in 2019. In brief, she expresses two basic senses in which donation can help CFAR: It provides (1) moral and (2) financial support. She also states the importance of assisting people toward being able to do AI alignment research, and, whereas she thinks that locating and helping educate potential researchers is expensive, she thinks they’re worth it.' /* notes */
     )
 ;
 
