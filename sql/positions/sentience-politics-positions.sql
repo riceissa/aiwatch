@@ -12,4 +12,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Mirjam Arn', 'Sentience Politics', 'Volunteer', NULL, NULL, NULL, NULL, 'https://sentience-politics.org/de/about/team/', NULL, 'volunteer', 'Animal welfare')
     ,('Rahel Alt', 'Sentience Politics', 'Volunteer', NULL, NULL, NULL, NULL, 'https://sentience-politics.org/de/about/team/', NULL, 'volunteer', 'Animal welfare')
     ,('Melina Tan', 'Sentience Politics', 'Volunteer', NULL, NULL, NULL, NULL, 'https://sentience-politics.org/de/about/team/', NULL, 'volunteer', 'Animal welfare')
+    ,('Tamina S. Graber', 'Sentience Politics', 'Campaign Leader', '2020-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/taminagraber/', 'Based in Zürich', 'part-time', 'Animal welfare')
+    ,('Adriano Mannino', 'Sentience Politics', 'Co-Founder', '2014-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/adriano-mannino-5004a0a5/', NULL, NULL, 'Animal welfare')
+    ,('Meret Schneider', 'Sentience Politics', 'Manager at Sentience Politics Switzerland', '2015-18-10', 'year', NULL, NULL, 'https://web.archive.org/web/20151018063925/http://sentience-politics.org/about-2/', NULL, NULL, 'Animal welfare')
  
