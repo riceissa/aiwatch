@@ -401,4 +401,16 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Organization operations', /* document_scope */
         'AI safety', /* cause_area */
         'Rob Bensinger, the communications person at MIRI, posts on his personal Facebook wall saying that MIRI is internally actively discussing and seriously considering a move from the San Francisco Bay Area (where MIRI is currently located) to another country or another part of the US. The post does not state the reasons MIRI is considering a move; in comments, Bensinger clarifies that it is too early to summarize the reasons MIRI is considering a move, but that he is looking for people’s thoughts on what the most important considerations are. Bensinger also posts a similar comment on LessWrong https://www.lesswrong.com/posts/FghubkDy6Dp6mnxk7/the-rationalist-community-s-location-problem?commentId=WggEETNGjd6d2XRgR' /* notes */
+    ,(
+        'https://www.facebook.com/brianfinifter/posts/10102058260531588?comment_id=10102058311110228', /* url */
+        NULL, /* title */
+        '2020-06-02', /* publication_date */
+        NULL, /* modified_date */
+        'Brian Finifter', /* author */
+        NULL, /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+        'Michael Anissimov', /* affected_people */
+        'HR controversy', /* document_scope */
+        'AI safety', /* cause_area */
+        'Brian Finifter writes on his Facebook page revealing posts by Russian American Michael Anissimov (who has many Facebook connections with people at MIRI) endorsing white nationalism. Finifter calls for the transhumanist community not to tolerate such position. Among the people reacting to the Finifter publication, Eliezer Yudkowsky rensponds by giving more details and indicating that Anissimov no longer has a role in the community.' /* notes */
     );
