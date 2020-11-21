@@ -1,0 +1,3 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+    ('Omer Nevo', 'Probably Good', 'Founder', NULL, NULL, NULL, NULL, 'https://forum.effectivealtruism.org/posts/3QufK3jjQ5aqksaJu/new-career-guidance-organization-probably-good', NULL, NULL, 'Effective altruism')
+    ,('Sella Nevo', 'Probably Good', 'Founder', NULL, NULL, NULL, NULL, 'https://forum.effectivealtruism.org/posts/3QufK3jjQ5aqksaJu/new-career-guidance-organization-probably-good', NULL, NULL, 'Effective altruism')
