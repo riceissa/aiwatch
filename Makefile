@@ -40,6 +40,12 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/amf-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/sentience-politics-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/the-humane-league-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/cset-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/mercy-for-animals.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/metaculus-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/probably-good.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/survival-and-flourishing.fund.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/survival-and-flourishing.org.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_documents.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/ace-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/cea-org-docs.sql
