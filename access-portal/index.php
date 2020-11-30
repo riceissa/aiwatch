@@ -80,7 +80,7 @@ privilege of working with me, knowledge of the basics of web development
 (MySQL, PHP, Git). What the site needs: data collection/entry and website code
 improvements.</p>
 
-<p>Last updated on <?= $head_date ?>.</p>
+<p>Last updated on <?= $head_date ?>; see <a href="https://github.com/riceissa/aiwatch/commits/master">here</a> for a full list of recent changes.</p>
 
 <h2 id="table-of-contents">Table of contents</h2>
 
