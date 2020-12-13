@@ -163,6 +163,9 @@ commands below must be done every time you want to save changes to git.
    git push
    ```
 
+7. If you've finished working on an issue, add the `ready_for_review` label on
+   the issue.
+
 Some tricky things to keep in mind:
 
 - An organization might change its team page location, so you might need to
