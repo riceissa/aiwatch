@@ -26,6 +26,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ipa-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/gwwc-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/beri-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/one-for-the-world.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/wasr-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ea-foundation-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/gfi-positions.sql
