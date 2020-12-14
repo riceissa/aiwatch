@@ -24,6 +24,7 @@ if ($stmt = $mysqli->prepare("select * from people where person = ?")) {
   <li><a href="#products">Products</a></li>
   <li><a href="#organization-documents">Organization documents</a></li>
   <li><a href="#documents">Documents</a></li>
+  <li><a href="#similar-people">Similar people</a></li>
 </ul>
 
 <h2>Basic information</h2>
@@ -288,5 +289,60 @@ while ($row = $result->fetch_assoc()) {
         <td><?= formatted_notes($row['notes'], $seen) ?></td>
       </tr>
     <?php } ?>
+  </tbody>
+</table>
+
+<h2 id="similar-people">Similar people</h2>
+
+<p>Showing at most 20 people who are most similar in terms of which
+  organizations they have worked at.</p>
+
+<?php
+
+if ($stmt = $mysqli->prepare("select person, organization from positions")) {
+  $stmt->execute();
+  $result = $stmt->get_result();
+}
+$person_to_orgs = array();
+while ($row = $result->fetch_assoc()) {
+  if (!in_array($row['organization'], $person_to_orgs[$row['person']])) {
+    $person_to_orgs[$row['person']][] = $row['organization'];
+  }
+}
+$intersect_list = array();
+$intersect_counts = array();
+foreach($person_to_orgs[$person] as $org) {
+  foreach($person_to_orgs as $p => $os) {
+    if (in_array($org, $os) && $p !== $person) {
+          $intersect_list[$p][] = $org;
+          $intersect_counts[$p] = ($intersect_counts[$p] ?? 0) + 1;
+    }
+  }
+}
+arsort($intersect_counts);
+$intersect_counts = array_slice($intersect_counts, 0, 20);
+?>
+
+<table>
+  <thead>
+    <tr>
+      <th>Person</th>
+      <th>Number of organizations in common</th>
+      <th>List of organizations in common</th>
+    </tr>
+  </thead>
+  <tbody>
+<?php
+    foreach($intersect_counts as $p => $count) {
+      $orgs = $intersect_list[$p];
+?>
+    <tr>
+      <td><a href="/intersect.php?person1=<?= urlencode($person) ?>&amp;person2=<?= urlencode($p) ?>"><?= $p ?></a></td>
+      <td style="text-align: right;"><?= $count ?></td>
+      <td><?= implode(", ", array_map("link_organization", $orgs)) ?></td>
+    </tr>
+<?php
+    }
+?>
   </tbody>
 </table>
