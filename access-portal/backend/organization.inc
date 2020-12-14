@@ -15,6 +15,7 @@ $seen = array();
   <li><a href="#products">Products</a></li>
   <li><a href="#organization-documents">Organization documents</a></li>
   <li><a href="#documents">Documents</a></li>
+  <li><a href="#similar-organizations">Similar organizations</a></li>
 </ul>
 
 
@@ -581,5 +582,56 @@ $creators = linkedCreators($mysqli,
         <td><?= formatted_notes($row['notes'], $seen) ?></td>
       </tr>
     <?php } ?>
+  </tbody>
+</table>
+
+<h2 id="similar-organizations">Similar organizations</h2>
+
+<?php
+
+if ($stmt = $mysqli->prepare("select person, organization from positions")) {
+  $stmt->execute();
+  $result = $stmt->get_result();
+}
+$org_people = array();
+while ($row = $result->fetch_assoc()) {
+  if (!in_array($row['person'], $org_people[$row['organization']])) {
+    $org_people[$row['organization']][] = $row['person'];
+  }
+}
+$intersect_people = array();
+$intersect_counts = array();
+foreach($org_people[$organization] as $person) {
+  foreach($org_people as $org => $people) {
+    if (in_array($person, $people) && $org !== $organization) {
+          $intersect_people[$org][] = $person;
+          $intersect_counts[$org] = ($intersect_counts[$org] ?? 0) + 1;
+    }
+  }
+}
+arsort($intersect_counts);
+?>
+
+<table>
+  <thead>
+    <tr>
+      <th>Organization</th>
+      <th>Number of people in common</th>
+      <th>List of people in common</th>
+    </tr>
+  </thead>
+  <tbody>
+<?php
+    foreach($intersect_counts as $org => $count) {
+      $people = $intersect_people[$org];
+?>
+    <tr>
+      <td><a href="/intersect.php?organization1=<?= urlencode($organization) ?>&amp;organization2=<?= urlencode($org) ?>"><?= $org ?></a></td>
+      <td style="text-align: right;"><?= $count ?></td>
+      <td><?= implode(", ", array_map("link_person", $people)) ?></td>
+    </tr>
+<?php
+    }
+?>
   </tbody>
 </table>
