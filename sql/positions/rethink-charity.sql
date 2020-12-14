@@ -1,0 +1,16 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+
+     ('Peter Hurford', 'Rethink Charity', 'President', NULL, NULL, NULL, NULL, 'https://rtcharity.org/team/', NULL, NULL, 'effective altruism')
+    ,('Jessica Marcus', 'Rethink Charity', 'Treasurer', NULL, NULL, NULL, NULL, 'https://rtcharity.org/team/', NULL, NULL, 'effective altruism')
+    ,('Ed Prokop', 'Rethink Charity', 'Secretary', NULL, NULL, NULL, NULL, 'https://rtcharity.org/team/', NULL, NULL, 'effective altruism')
+    ,('Baxter Bullock', 'Rethink Charity', 'Director', NULL, NULL, NULL, NULL, 'https://rtcharity.org/team/', NULL, NULL, 'effective altruism')
+    ,('Tee Barnett', 'Rethink Charity', 'Director', NULL, NULL, NULL, NULL, 'https://rtcharity.org/team/', NULL, NULL, 'effective altruism')
+    ,('Alexander Gordon-Brown', 'Rethink Charity', 'Director', NULL, NULL, NULL, NULL, 'https://rtcharity.org/team/', NULL, NULL, 'effective altruism')
+    ,('Travis Cooper', 'Rethink Charity', 'Director', NULL, NULL, NULL, NULL, 'https://rtcharity.org/team/', NULL, NULL, 'effective altruism')
+    ,('Ozzie Gooen', 'Rethink Charity', 'Director', NULL, NULL, NULL, NULL, 'https://rtcharity.org/team/', NULL, NULL, 'effective altruism')
+    ,('Kalista Barter', 'Rethink Charity', 'Director', NULL, NULL, NULL, NULL, 'https://rtcharity.org/team/', NULL, NULL, 'effective altruism')
+    ,('Colm Ó Rian', 'Rethink Charity', 'Director', NULL, NULL, NULL, NULL, 'https://rtcharity.org/team/', NULL, NULL, 'effective altruism')
+    ,('Alexander Gordon-Brown', 'Rethink Charity', 'Director', NULL, NULL, NULL, NULL, 'https://rtcharity.org/team/', NULL, NULL, 'effective altruism')
+    ,('Jacob Grossbard', 'Rethink Charity', 'Tech officer', NULL, NULL, NULL, NULL, 'https://rtcharity.org/team/', NULL, NULL, 'effective altruism')
+    ,('Marisa Jurczyk', 'Rethink Charity', 'Operations Officer', NULL, NULL, NULL, NULL, 'https://rtcharity.org/team/', NULL, NULL, 'effective altruism')
+    ,('Siobhan Brenton', 'Manager of operations', 'Operations Officer', NULL, NULL, NULL, NULL, 'https://rtcharity.org/team/', NULL, NULL, 'effective altruism')
