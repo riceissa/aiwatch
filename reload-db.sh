@@ -75,6 +75,7 @@ winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source sql/pos
 winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source sql/positions/sentience-institute.sql"
 winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source sql/positions/new-incentives.sql"
 winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source sql/positions/rethink-charity.sql"
+winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source sql/positions/utility-farm.sql"
 
 
 
