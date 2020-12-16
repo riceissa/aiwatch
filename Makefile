@@ -48,6 +48,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/probably-good.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/survival-and-flourishing.fund.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/survival-and-flourishing.org.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/goodai.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_documents.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/ace-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/cea-org-docs.sql

@@ -1,0 +1,4 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
+	('Danit Gal', 'AI Challenge', NULL, NULL, NULL, NULL, NULL,  'https://www.general-ai-challenge.org/solving-the-ai-race-results https://www.linkedin.com/in/danit-gal/', NULL, 'position',NULL, NULL, 'AI safety' )
+	,('Roman V. Yampolskiy', 'AI Challenge', NULL, NULL, NULL, NULL, NULL, 'https://www.general-ai-challenge.org/solving-the-ai-race-results https://www.linkedin.com/in/romanyam/', NULL, 'position', NULL, NULL, 'AI safety')
+	,('Virginia Dignum', 'AI Challenge', NULL, NULL, NULL, NULL, NULL, 'https://www.general-ai-challenge.org/solving-the-ai-race-results https://www.linkedin.com/in/vdignum/', NULL, 'position', NULL, NULL, 'AI safety')
