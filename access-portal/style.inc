@@ -1,8 +1,12 @@
 <style type="text/css">
-body { font-family: sans-serif; }
+body {
+    font-family: sans-serif;
+    font-size: 15.4px;
+}
 table {
     background-color: #f9f9f9;
     border-collapse: collapse;
+    font-size: 14px;
 }
 table th {
     background-color: #f2f2f2;
