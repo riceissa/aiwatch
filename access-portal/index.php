@@ -61,8 +61,9 @@ if ($_REQUEST['person'] ?? '') {
   <a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=AI+Watch&amp;matching=exact">funded by Vipul Naik</a>.</p>
 <?php } else { ?>
   <p>This website is developed by <a href="https://issarice.com">Issa Rice</a>
-  with data contributions from <a href="https://github.com/sebastiansanchez123">Sebastian Sanchez</a> and
-  <a href="https://vipulnaik.com/">Vipul Naik</a>
+  with data contributions from <a href="https://github.com/sebastiansanchez123">Sebastian Sanchez</a>,
+  <a href="https://www.linkedin.com/in/amanarice/">Amana Rice</a>, and
+  <a href="https://vipulnaik.com/">Vipul Naik</a>,
   and has been partially
   <a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=Org+Watch&amp;matching=exact">funded by Vipul Naik</a>.</p>
 <?php } ?>
