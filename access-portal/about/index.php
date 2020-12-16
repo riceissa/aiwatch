@@ -103,7 +103,8 @@ have been adding all the ones I could think of.</p>
     GitHub</a>, which has all the code and data.</p>
 
 <p>So far, all of the website code is written by Issa Rice.
-  <a href="https://github.com/sebastiansanchez123">Sebastian Sanchez</a> and
+  <a href="https://github.com/sebastiansanchez123">Sebastian Sanchez</a>,
+  <a href="https://www.linkedin.com/in/amanarice/">Amana Rice</a>, and
   <a href="https://vipulnaik.com/">Vipul Naik</a>
   have provided contributions to the data.
 </p>
