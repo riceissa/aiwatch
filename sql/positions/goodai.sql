@@ -25,4 +25,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
 	,('Šimon Šicko', 'GoodAI', 'Advisor', NULL, NULL, NULL, NULL, 'https://archive.vn/Og7Sg', NULL, 'position', 'general', 'advisor', 'AI safety')
 	,('Lucia Šicková', 'GoodAI', 'Advisor', NULL, NULL, NULL, NULL, 'https://archive.vn/Og7Sg', NULL, 'position', 'general', 'advisor', 'AI safety')
 	,('Petr Šrámek', 'GoodAI', 'Advisor', '2019-11-01', 'month', NULL, NULL, 'https://archive.vn/Og7Sg https://www.linkedin.com/in/petrsramek/', 'Also CEO of Whytics', 'position', 'general', 'advisor', 'AI safety')
+	,('Lucie Krestova', 'GoodAI', 'HR Manager', '2017-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lucie-krestova-4694738/?locale=zh_CN', NULL, 'position', 'general', NULL, 'AI safety')
+	,('Viktorie Knezkova', 'GoodAI', 'Tech Recruiter', '2020-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/knezkova/', NULL, 'position', 'general', 'full-time', 'AI safety')
+	,('Michal Dvořák', 'GoodAI', 'AI/ML Engineer', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/michal-dvo%C5%99%C3%A1k-33093b25/?originalSubdomain=cz', NULL, 'position', 'general', NULL, 'AI safety')
+	
 	
