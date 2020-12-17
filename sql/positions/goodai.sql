@@ -1,5 +1,5 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
-	('Marek Rosa', 'GoodAI', 'Founder', '2015-07-01', 'month', NULL, NULL, 'https://archive.vn/Og7Sg https://www.linkedin.com/in/marekrosa1/', 'Also founder of the General AI Challenge and the AI Roadmap Institute, two initiatives by GoodAI.', 'position', 'general', NULL, 'AI safety')
+	('Marek Rosa', 'GoodAI', 'Founder', '2015-07-01', 'month', NULL, NULL, 'https://archive.vn/Og7Sg https://www.linkedin.com/in/marekrosa1/', 'Also founder of the General AI Challenge and the AI Roadmap Institute, two initiatives by GoodAI and Judging panel for AI Challenge 2018.', 'position', 'general', NULL, 'AI safety')
 	,('Marek Rosa', 'GoodAI', 'Chief Executive Officer', '2015-07-01', 'month', NULL, NULL, 'https://archive.vn/Og7Sg https://www.linkedin.com/in/marekrosa1/', NULL, 'position', 'general', NULL, 'AI safety')
 	,('Marek Rosa', 'GoodAI', 'Chief Technology Officer', '2015-07-01', 'month', NULL, NULL, 'https://archive.vn/Og7Sg https://www.linkedin.com/in/marekrosa1/', NULL, 'position', 'general', NULL, 'AI safety')
 	,('Olga Afanasjeva', 'GoodAI', 'Chief Operating Officer', '2015-10-01', 'month', NULL, NULL, 'https://archive.vn/Og7Sg https://www.linkedin.com/in/afanasjevaolga/?originalSubdomain=cz', 'Also Challenge Director of the General AI Challenge and a Contributer to the AI Roadmap Institute, two initatives by GoodAI.', 'position', 'general', NULL, 'AI safety')
@@ -22,4 +22,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 	,('Filip Hauptfleisch', 'GoodAI', 'AI Game Programmer', NULL, NULL, NULL, NULL, 'https://archive.vn/Og7Sg', NULL, 'position', 'general', NULL, 'AI safety')
 	,('Filip Hauptfleisch', 'GoodAI', 'Unity Developer', '2020-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/filip-hauptfleisch/', NULL, 'position', 'general', NULL, 'AI safety')
 	,('Steffen Eichler', 'GoodAI', 'Unity Programmer and Developer', '2020-10-01', 'month', NULL, NULL, 'https://archive.vn/Og7Sg https://www.linkedin.com/in/steffen-eichler-065919199/', NULL, 'position', 'general', NULL, 'AI safety')
+	,('Šimon Šicko', 'GoodAI', 'Advisor', NULL, NULL, NULL, NULL, 'https://archive.vn/Og7Sg', NULL, 'position', 'general', 'advisor', 'AI safety')
+	,('Lucia Šicková', 'GoodAI', 'Advisor', NULL, NULL, NULL, NULL, 'https://archive.vn/Og7Sg', NULL, 'position', 'general', 'advisor', 'AI safety')
+	,('Petr Šrámek', 'GoodAI', 'Advisor', '2019-11-01', 'month', NULL, NULL, 'https://archive.vn/Og7Sg https://www.linkedin.com/in/petrsramek/', 'Also CEO of Whytics', 'position', 'general', 'advisor', 'AI safety')
 	
