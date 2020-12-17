@@ -670,6 +670,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Sören Mindermann','Future of Humanity Institute',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1712.05812.pdf',NULL,'position','technical research',NULL,'AI safety')
     ,('Angela P.', NULL, 'Executive Assistant', '2018-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/angela-p-3949325a/', NULL, 'position', NULL, NULL, 'AI safety')
 	,('Nicolas Gagné', 'Machine Intelligence Research Institute', 'Intern', '2014-04-01', 'month', '2014-08-31', 'month', 'https://www.linkedin.com/in/nicolas-gagn%C3%A9-59744354/?originalSubdomain=ca', NULL, 'position', NULL, 'intern', 'AI safety')
+	,('Dmitrii Krasheninnikov', 'University of Amsterdam', 'Master of Science in Artificial Intelligence', '2017-01-01-', 'year', '2019-12-31', 'year', 'https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/ai-scholarships-2018 https://www.linkedin.com/in/dmitrii-krasheninnikov-a2302296/', 'Recipient of AI Scholarships', 'position', NULL, NULL, 'AI safety')
     ,(
         'Oliver Habryka', /* person */
         'Machine Intelligence Research Institute', /* organization */
