@@ -43,6 +43,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/sentience-politics-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/the-humane-league-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/cset-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/GCRI.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/mercy-for-animals.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/metaculus-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/probably-good.sql
