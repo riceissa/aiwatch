@@ -13,6 +13,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Abraham Rowe', 'Wild Animal Initiative', 'Executive Director', '2019-01-01', NULL, '2019-01-01', 'year', 'https://web.archive.org/web/20190125192248/https://www.wildanimalinitiative.org/about', NULL, NULL, 'Animal welfare')
     ,('Chloë Cudaback', 'Wild Animal Initiative', 'Program Manager - Outreach & Stewardship', '2018-10-01', 'month', '2019-01-01', 'month', 'https://www.linkedin.com/in/chloecudaback/', NULL, NULL, 'Animal welfare')
     ,('Chloë Cudaback', 'Wild Animal Initiative', 'Communications & Outreach Manager', '2019-01-01', 'month', '2019-06-01', 'month', 'https://web.archive.org/web/20190125192248/https://www.wildanimalinitiative.org/about https://www.linkedin.com/in/chloecudaback/', NULL, NULL, 'Animal welfare')
-    ,('Maia Laperle', 'Wild Animal Initiative', 'Podcast Producer & Host', '2018-09-01', 'month', '2020-01-01', '´month', 'https://web.archive.org/web/20190125192248/https://www.wildanimalinitiative.org/about https://www.linkedin.com/in/maia-laperle-a52770175/', NULL, NULL, 'Animal welfare')
+    ,('Maia Laperle', 'Wild Animal Initiative', 'Podcast Producer & Host', '2018-09-01', 'month', '2020-01-01', 'month', 'https://web.archive.org/web/20190125192248/https://www.wildanimalinitiative.org/about https://www.linkedin.com/in/maia-laperle-a52770175/', NULL, NULL, 'Animal welfare')
     ,('Cole Helsell', 'Wild Animal Initiative', 'Advisory Board', '2019-01-01', NULL, '2019-01-01', 'year', 'https://web.archive.org/web/20190125192248/https://www.wildanimalinitiative.org/about', NULL, NULL, 'Animal welfare')
     ,('Flor Serna', 'Wild Animal Initiative', 'Advisory Board', '2019-05-01', 'month', '2020-10-01', 'month', 'https://web.archive.org/web/20190125192248/https://www.wildanimalinitiative.org/about https://www.linkedin.com/in/florserna/', NULL, NULL, 'Animal welfare')
+
+

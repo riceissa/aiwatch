@@ -25,8 +25,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Luisa Rodriguez', 'Rethink Priorities', 'Board member (Director)', NULL, NULL, NULL, NULL, 'http://web.archive.org/web/20201126010023/https://www.rethinkpriorities.org/our-team https://www.linkedin.com/in/luisa-rodriguez-837835bb/', NULL, NULL, 'Cause prioritization')
     ,('Luisa Rodriguez', 'Rethink Priorities', 'Senior Staff Researcher', NULL, NULL, NULL, NULL, 'http://web.archive.org/web/20200220222539/https://www.rethinkpriorities.org/our-team https://www.linkedin.com/in/luisa-rodriguez-837835bb/', NULL, NULL, 'Cause prioritization')
     ,('David Reinstein', 'Rethink Priorities', 'Distinguished Researcher', NULL, NULL, NULL, NULL, 'https://forum.effectivealtruism.org/posts/33AnPajNYmNrdXQbj/rethink-priorities-2020-impact-and-2021-strategy', NULL, NULL, 'Cause prioritization')
-    ,('David Reinstein', 'Rethink Priorities', 'Senior Staff Researcher', '2020-01-01', 'year', NULL, NULL, https://eaforum.issarice.com/posts/33AnPajNYmNrdXQbj/rethink-priorities-2020-impact-and-2021-strategy', NULL, NULL, 'Cause prioritization')
-    ,('Linchuan Zhang', 'Rethink Priorities', 'Staff Researcher', '2020-10-01', 'month', NULL, NULL, https://eaforum.issarice.com/posts/33AnPajNYmNrdXQbj/rethink-priorities-2020-impact-and-2021-strategy https://www.linkedin.com/in/linch/', NULL, 'full-time', 'Cause prioritization')
+    ,('David Reinstein', 'Rethink Priorities', 'Senior Staff Researcher', '2020-01-01', 'year', NULL, NULL, 'https://eaforum.issarice.com/posts/33AnPajNYmNrdXQbj/rethink-priorities-2020-impact-and-2021-strategy', NULL, NULL, 'Cause prioritization')
+    ,('Linchuan Zhang', 'Rethink Priorities', 'Staff Researcher', '2020-10-01', 'month', NULL, NULL, 'https://eaforum.issarice.com/posts/33AnPajNYmNrdXQbj/rethink-priorities-2020-impact-and-2021-strategy https://www.linkedin.com/in/linch/', NULL, 'full-time', 'Cause prioritization')
 
 
 
