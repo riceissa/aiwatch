@@ -1,0 +1,2 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
+	('Magnus Vinding', 'Center for Reducing Suffering', 'Co-founder', '2020-01-01', 'year', NULL, NULL, 'http://archive.today/2020.12.22-170937/https://centerforreducingsuffering.org/team/ https://magnusvinding.com/about/', NULL, 'position', NULL, NULL, 'AI safety')
