@@ -246,5 +246,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Gavan Woolery','OpenAI','Contract Software Developer','2016-07-01','month','2016-08-01','month','https://www.linkedin.com/in/gavanw/',NULL,'AGI organization',NULL,'contractor','AI safety')
     ,('Jason Peng','OpenAI','Member of Technical Staff, Intern','2017-05-01','month','2017-08-01','month','https://www.linkedin.com/in/jasonpeng1/',NULL,'AGI organization',NULL,'intern','AI safety')
     ,('Thomas Anthony','OpenAI','Machine Learning Researcher','2018-04-01','month','2018-09-01','month','https://www.linkedin.com/in/thomas-anthony-6ba99111/',NULL,'AGI organization',NULL,NULL,'AI safety')
+	,('Long Ouyang', 'OpenAI', 'Research Scientist', '2019-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/longouyang/?locale=de_DE', NULL, 'AGI organization', 'technical research', NULL, 'AI safety')
     ,('Christos Louizos','OpenAI','Research Intern','2017-06-01','month','2017-08-01','month','https://www.linkedin.com/in/christoslouizos/',NULL,'AGI organization',NULL,'intern','AI safety')
 ;
