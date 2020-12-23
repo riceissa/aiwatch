@@ -1,0 +1,18 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+
+     ('Liv Boeree', 'Raising for Effective Giving', 'Board member', '2014-06-01', 'month', NULL, NULL, 'https://web.archive.org/web/20140709070515/http://reg-charity.org/about https://www.linkedin.com/in/liv-boeree-39049021/', NULL, 'advisor', 'Effective altruism')
+    ,('Renae Garcia', 'Raising for Effective Giving', 'Board member', '2014-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20140709070515/http://reg-charity.org/about', NULL, NULL, 'Effective altruism')
+    ,('Lukas Gloor', 'Raising for Effective Giving', 'Board member', '2014-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20140709070515/http://reg-charity.org/about', NULL, NULL, 'Effective altruism')
+    ,('Philipp Gruissem', 'Raising for Effective Giving', 'Board member', '2014-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20140709070515/http://reg-charity.org/about', NULL, NULL, 'Effective altruism')
+    ,('Stefan Huber', 'Raising for Effective Giving', 'Board member', '2014-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20140709070515/http://reg-charity.org/about', NULL, NULL, 'Effective altruism')
+    ,('Igor Kurganov', 'Raising for Effective Giving', 'Board member', '2014-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20140709070515/http://reg-charity.org/about https://www.linkedin.com/in/igor-kurganov-234402161/?originalSubdomain=uk', NULL, NULL, 'Effective altruism')
+    ,('Adriano Mannino', 'Raising for Effective Giving', 'Board member', '2014-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20140709070515/http://reg-charity.org/about', NULL, NULL, 'Effective altruism')
+    ,('Tobias Pulver', 'Raising for Effective Giving', 'Executive Director', '2014-08-01', 'month', '2016-08-01', 'month', 'https://web.archive.org/web/20150308042012/http://reg-charity.org/about/ https://www.linkedin.com/in/tobias-pulver/', NULL, NULL, 'Effective altruism')
+    ,('Micha Eichmann', 'Raising for Effective Giving', 'Director of Operations', '2015-03-01', 'month', NULL NULL, 'https://web.archive.org/web/20150308042012/http://reg-charity.org/about/', NULL, NULL, 'Effective altruism')
+    ,('Micha Eichmann', 'Raising for Effective Giving', 'Operations', '2015-10-01', 'month', NULL NULL, 'https://web.archive.org/web/20151006040209/http://reg-charity.org/about/', NULL, NULL, 'Effective altruism')
+    ,('Jonas Vollmer', 'Raising for Effective Giving', 'Operations', '2015-03-01', 'month', NULL, NULL, 'https://web.archive.org/web/20150308042012/http://reg-charity.org/about/', NULL, NULL, 'Effective altruism')
+    ,('Jonas Vollmer', 'Raising for Effective Giving', 'Director of Operations', '2015-10-01', 'month', NULL, NULL, 'https://web.archive.org/web/20151006040209/http://reg-charity.org/about/', NULL, NULL, 'Effective altruism')
+    ,('Ruairí Donnelly', 'Raising for Effective Giving', 'Director of Communications', '2015-03-01', 'month', NULL, NULL, 'https://web.archive.org/web/20150308042012/http://reg-charity.org/about/', NULL, NULL, 'Effective altruism')
+    ,('Ruairí Donnelly', 'Raising for Effective Giving', 'Board member', '2015-10-01', 'month', '2016-08-01', 'month', 'https://web.archive.org/web/20151006040209/http://reg-charity.org/about/', NULL, NULL, 'Effective altruism')
+    ,('Ruairí Donnelly', 'Raising for Effective Giving', 'Managing Director', '2015-11-01', 'month', '2016-08-01', 'month', 'https://web.archive.org/web/20151109010435/http://reg-charity.org/about', NULL, NULL, 'Effective altruism')
+  
