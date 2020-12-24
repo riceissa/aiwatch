@@ -707,6 +707,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 	,('Anand Srinivasan', NULL, NULL, NULL, NULL, NULL, NULL, 'https://app.effectivealtruism.org/funds/far-future/payouts/6vDsjtUyDdvBa3sNeoNVvl', 'April 2019: Long-Term Future Fund Grant Recipient', NULL, NULL, NULL, 'AI safety')
 	,('Zach Davis', 'Machine Intelligence Research Institute', 'Volunteer', NULL, NULL, NULL, NULL, 'https://www.lesswrong.com/posts/iLGrNTwTZivTX5774/less-wrong-q-and-a-with-eliezer-yudkowsky-ask-your-questions#h76Luakpa2JeWmsBJ', NULL, NULL, NULL, NULL, 'AI safety')
 	,('Scott Garrabrant', 'Machine Intelligence Research Institute', 'Contractor', '2015-03-01', 'month', NULL, NULL, 'https://www.greaterwrong.com/posts/iBBK4j6RWC7znEiDv/history-of-the-development-of-logical-induction', NULL, NULL, NULL, NULL, 'AI safety')
+	,('Nick Beckstead', 'Future of Humanity Institute', 'Research Fellow', NULL, NULL, NULL, NULL, 'https://app.effectivealtruism.org/funds/far-future#fund-managers https://www.nickbeckstead.com/', NULL, NULL, NULL, NULL, NULL)
 		,('Oliver Habryka', /* person */
         'Machine Intelligence Research Institute', /* organization */
         'Volunteer', /* title */
