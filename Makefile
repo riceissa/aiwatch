@@ -11,7 +11,6 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch -e "drop table if exists agendas"
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/positions-schema.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/positions.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/organizations.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/products.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/product_creators.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/80000hours-positions.sql
@@ -72,6 +71,8 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/openai-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/open-phil-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/sentience-institute-org-docs.sql
+	# Organizations file must be imported after all positions
+	mysql $(MYSQL_ARGS) aiwatch < sql/organizations.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/agendas.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/documents.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/agenda_docs/iterated-amplification-docs.sql

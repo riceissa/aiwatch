@@ -2,6 +2,29 @@
 <html lang="en">
 <?php
 include_once("backend/globalVariables/passwordFile.inc");
+
+// If the current organization name is an alias, then redirect to the correct
+// location.
+if ($_REQUEST['organization'] ?? '') {
+  $organization = $_REQUEST['organization'];
+  $query = "select organization from organizations where other_names REGEXP ?";
+  $stmt = $mysqli->prepare($query);
+  $exactMatchRegex = '(^|\\|)'.$organization.'(\\||$)';
+  $stmt->bind_param("s", $exactMatchRegex);
+  $stmt->execute();
+  $result = $stmt->get_result();
+  if ($result->num_rows > 0) {
+    $row = $result->fetch_assoc();
+    $canonicalName = $row['organization'];
+    $url_params = array();
+    parse_str($_SERVER['QUERY_STRING'], $url_params);
+    $url_params['organization'] = $canonicalName;
+    header("Location: " . $_SERVER['SCRIPT_NAME'] . '?' . http_build_query($url_params));
+    die();
+  }
+}
+
+
 $head_date = trim(file_get_contents("head_date.txt"));
 $title = "";
 if ($_REQUEST['person'] ?? '') {
