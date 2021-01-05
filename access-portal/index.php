@@ -19,7 +19,11 @@ if ($_REQUEST['organization'] ?? '') {
     $url_params = array();
     parse_str($_SERVER['QUERY_STRING'], $url_params);
     $url_params['organization'] = $canonicalName;
-    header("Location: " . $_SERVER['SCRIPT_NAME'] . '?' . http_build_query($url_params));
+    $scriptName = $_SERVER['SCRIPT_NAME'];
+    if ($scriptName === "/index.php") {
+      $scriptName = "/";
+    }
+    header("Location: " . $scriptName . '?' . http_build_query($url_params));
     die();
   }
 }
