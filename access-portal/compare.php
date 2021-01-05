@@ -1,5 +1,12 @@
 <?php
 include_once("backend/globalVariables/passwordFile.inc");
+// Replace any spaces in the URL with plus sign, and redirect to the new
+// location if the replacement caused any changes in the URL.
+$request_uri = preg_replace('/(%20| )/', '+', $_SERVER['REQUEST_URI']);
+if ($request_uri !== $_SERVER['REQUEST_URI']) {
+    header("Location: " . $request_uri);
+    die();
+}
 ?>
 <!DOCTYPE html>
 <html lang="en">
