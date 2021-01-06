@@ -1,7 +1,7 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
 
      ('Meret Schneider', 'Sentience Politics', 'Project Manager', '2015-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20151018063925/http://sentience-politics.org/about-2/', NULL, NULL, 'Animal welfare')
-     ('Meret Schneider', 'Sentience Politics', 'Co-director', '2017-06-02', 'month', NULL, NULL, 'https://web.archive.org/web/20210104022808/https://ea-foundation.org/blog/update-on-the-future-of-sentience-politics/', NULL, NULL, 'Animal welfare')
+     ,('Meret Schneider', 'Sentience Politics', 'Co-director', '2017-06-02', 'month', NULL, NULL, 'https://web.archive.org/web/20210104022808/https://ea-foundation.org/blog/update-on-the-future-of-sentience-politics/', NULL, NULL, 'Animal welfare')
     ,('Adriano Mannino', 'Sentience Politics', 'Co-Founder', '2014-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20150412234256/http://sentience-politics.org/about-2/ https://www.linkedin.com/in/adriano-mannino-5004a0a5/', NULL, NULL, 'Animal welfare')
     ,('Stefan Torges', 'Sentience Politics', 'Manager', '2015-12-01', 'month', '2016-12-01', 'month', 'https://web.archive.org/web/20160320014056/http://sentience-politics.org/about/team/ https://www.linkedin.com/in/stefan-torges-9b8b537a/', 'Based in Berlin, Germany', 'full-time', 'Animal welfare')
     ,('Kelly Witwicki', 'Sentience Politics', 'Head of Communication', '2017-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20170405175742/https://sentience-politics.org/about/team/', NULL, NULL, 'Animal welfare')
