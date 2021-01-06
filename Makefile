@@ -24,10 +24,10 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/chai-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/charity-science-health-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/charity-science-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/clr-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/cset-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ea-foundation-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/forethought-positions.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/positions/fri-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/generation-pledge.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/gfi-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/give-directly.sql
