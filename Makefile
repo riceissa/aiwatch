@@ -41,6 +41,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/median-group-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/mercy-for-animals.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/metaculus-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/miri-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/new-incentives.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/one-for-the-world.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/openai-positions.sql
