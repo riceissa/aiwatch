@@ -17,6 +17,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ace-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/aiimpacts-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/amf-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/animal-advocacy-africa.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/beri-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/cea-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/cfar-positions.sql
@@ -47,6 +48,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ought-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/paisri-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/probably-good.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/raising-for-effective-giving.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/rethink-charity.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/rethink-priorities.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/sentience-institute.sql
