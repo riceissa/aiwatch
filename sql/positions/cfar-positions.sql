@@ -30,6 +30,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Tsvi Benson-Tilsen','Center for Applied Rationality','Adjunct Instructor',NULL,NULL,NULL,NULL,'http://rationality.org/about/team https://web.archive.org/web/20171101040709/http://rationality.org/about/team',NULL,NULL,NULL,NULL,'AI safety')
     ,('Oliver Habryka','Center for Applied Rationality','Summer Internship','2013-06-01','month','2013-08-01','month','https://www.linkedin.com/in/oliver-habryka-8a585297/',NULL,'position',NULL,'intern','AI safety')
     ,('Gwern Branwen','Center for Applied Rationality',NULL,'2012-01-01','year','2012-12-31','year','https://www.gwern.net/Links',NULL,NULL,NULL,NULL,'AI safety')
+	,('Peter McIntyre', 'Center for Applied Rationality', 'Intern', '2013-12-01', 'month', NULL, NULL, 'https://eaforum.issarice.com/posts/EpQqh6wCDtfZkeneg/should-you-visit-an-ea-hub', NULL, NULL, NULL, 'intern', 'AI safety')
     ,('Luke Raskopf','Center for Applied Rationality','Instructor & Operations','2018-08-12','month',NULL,NULL,'https://web.archive.org/web/20180812171539/http://rationality.org/about/team',NULL,'position',NULL,NULL,'AI safety')
     ,('Brienne Strohl','Center for Applied Rationality','Research and Instructor','2019-04-05','month',NULL,NULL,NULL,NULL,'position',NULL,NULL,'AI safety')
     ,('Xavier Prospero','Center for Applied Rationality','Admin Support','2019-04-29','month',NULL,NULL,NULL,NULL,'position',NULL,NULL,'AI safety')
