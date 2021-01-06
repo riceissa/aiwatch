@@ -1,3 +1,4 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
     ('Eliezer Yudkowsky','Machine Intelligence Research Institute','Senior Research Fellow','2014-08-01','month',NULL,NULL,'https://web.archive.org/web/20140827214217/http://intelligence.org:80/team/',NULL,'position','technical research','full-time','AI safety')
     ,('Jesse Liptrap','Machine Intelligence Research Institute','Software Engineer','2017-08-01','month',NULL,NULL,'https://intelligence.org/2017/12/01/miris-2017-fundraiser/ https://web.archive.org/web/20180308204426/http://intelligence.org:80/team/',NULL,'position','software engineering','full-time','AI safety')
     ,('Nick Tarleton','Machine Intelligence Research Institute','Software Engineer','2017-11-01','month',NULL,NULL,'https://intelligence.org/2017/12/01/miris-2017-fundraiser/ https://web.archive.org/web/20180308204426/http://intelligence.org:80/team/',NULL,'position','software engineering','full-time','AI safety')
@@ -311,3 +312,4 @@
         'advisor', /* employment_type */
         'AI safety' /* cause_area */
     )
+;
