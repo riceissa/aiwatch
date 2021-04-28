@@ -416,7 +416,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jatnna Amador', 'Abdul Latif Jameel Poverty Action Lab', 'Policy & Training Events Manager', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jatnna-amador-cmp-aa01207a/', 'Based in Cambridge, Massachusetts', 'full-time', 'Global health and poverty') 
     ,('Sofia Valdivia Cox', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2020-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sofia-valdivia-cox-abbb681a7/', 'Based in Santiago de Chile, Chile', 'part-time', 'Global health and poverty') 
     ,('Nisarg Joshi', 'Abdul Latif Jameel Poverty Action Lab', 'Research Support Assistant', '2020-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nisargjoshi853/', 'Based in Ahmedabad', NULL, 'Global health and poverty') 
-    ,(Sarah DiCioccio', 'Abdul Latif Jameel Poverty Action Lab', 'Digital Communications Associate', '2020-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sdicioccio/', NULL, NULL, 'Global health and poverty') 
+    ,('Sarah DiCioccio', 'Abdul Latif Jameel Poverty Action Lab', 'Digital Communications Associate', '2020-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sdicioccio/', NULL, NULL, 'Global health and poverty') 
 
 
 
