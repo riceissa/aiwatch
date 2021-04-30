@@ -15,9 +15,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Owen Ozier', 'Abdul Latif Jameel Poverty Action Lab', 'Research Assistant', '2004-07-01', NULL, NULL, NULL, 'https://web.archive.org/web/20040718021905/http://www.povertyactionlab.org/researchers/?type=3', NULL, NULL, 'Global health and poverty') 
     ,('Ritwik Sarkar', 'Abdul Latif Jameel Poverty Action Lab', 'Project Coordinator', '2003-09-01', 'month', '2005-08-01', 'month', 'https://web.archive.org/web/20040718021905/http://www.povertyactionlab.org/researchers/?type=3 https://www.linkedin.com/in/ritwik-sarkar-17913620/?originalSubdomain=in', NULL, NULL, 'Global health and poverty') 
     ,('Callie Scott', 'Abdul Latif Jameel Poverty Action Lab', 'Research Assistant', '2002-01-01', 'month', '2004-09-01', 'month', 'https://web.archive.org/web/20040718021905/http://www.povertyactionlab.org/researchers/?type=3 https://www.linkedin.com/in/callie-scott-7a5a0a73/?locale=de_DE', NULL, NULL, 'Global health and poverty') 
-    ,('Marc Shotland', 'Abdul Latif Jameel Poverty Action Lab', 'Research Assistant', '2004-07-01', NULL, NULL, NULL, 'https://web.archive.org/web/20040718021905/http://www.povertyactionlab.org/researchers/?type=3', NULL, NULL, 'Global health and poverty') 
-    ,('Marc Shotland', 'Abdul Latif Jameel Poverty Action Lab', 'Director of Training', '2011-08-01', NULL, NULL, NULL, 'https://web.archive.org/web/20110813130907/http://www.povertyactionlab.org/people/global/executive', NULL, NULL, 'Global health and poverty') 
-    ,('Marc Shotland', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Research Manager', '2011-08-01', NULL, NULL, NULL, 'https://web.archive.org/web/20110813130336/http://www.povertyactionlab.org/people/global/research', NULL, NULL, 'Global health and poverty') 
+    ,('Marc Shotland', 'Abdul Latif Jameel Poverty Action Lab', 'Research Assistant', '2004-07-01', NULL, NULL, NULL, 'https://web.archive.org/web/20040718021905/http://www.povertyactionlab.org/researchers/?type=3 https://www.linkedin.com/in/marc-shotland-688525/', NULL, NULL, 'Global health and poverty') 
+    ,('Marc Shotland', 'Abdul Latif Jameel Poverty Action Lab', 'Director of Training', '2011-08-01', NULL, NULL, NULL, 'https://web.archive.org/web/20110813130907/http://www.povertyactionlab.org/people/global/executive https://www.linkedin.com/in/marc-shotland-688525/', NULL, NULL, 'Global health and poverty') 
+    ,('Marc Shotland', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Research Manager', '2011-08-01', NULL, NULL, NULL, 'https://web.archive.org/web/20110813130336/http://www.povertyactionlab.org/people/global/research https://www.linkedin.com/in/marc-shotland-688525/', NULL, NULL, 'Global health and poverty') 
     ,('Ashwin Vasan', 'Abdul Latif Jameel Poverty Action Lab', 'Field Project Manager', '2003-07-01', 'month', '2004-07-01', 'month', 'https://web.archive.org/web/20040718021905/http://www.povertyactionlab.org/researchers/?type=3 https://www.linkedin.com/in/ashwin-vasan/', NULL, NULL, 'Global health and poverty') 
     ,('Thomas Wang', 'Abdul Latif Jameel Poverty Action Lab', 'Research Assistant', '2003-06-01', 'month', '2005-07-01', 'month', 'https://web.archive.org/web/20040718021905/http://www.povertyactionlab.org/researchers/?type=3 https://www.linkedin.com/in/thomas-wang-14020232/', NULL, NULL, 'Global health and poverty') 
     ,('Rachel Glennerster', 'Abdul Latif Jameel Poverty Action Lab', 'Executive Director', '2004-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20050207002809/http://povertyactionlab.org/researchers/ https://www.linkedin.com/in/rachel-glennerster-b484725/', NULL, NULL, 'Global health and poverty') 
@@ -103,7 +103,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Juliette Seban', 'Abdul Latif Jameel Poverty Action Lab', 'Research Assistant', '2008-03-01', 'month', '2012-11-01', 'month', 'https://web.archive.org/web/20090303022657/http://www.povertyactionlab.org/researchers/?type=3 https://www.linkedin.com/in/juliette-seban-3123956/?originalSubdomain=fr', NULL, NULL, 'Global health and poverty') 
     ,('Paribhasha Sharma', 'Abdul Latif Jameel Poverty Action Lab', 'Research Assistant', '2009-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20090303022657/http://www.povertyactionlab.org/researchers/?type=3', NULL, NULL, 'Global health and poverty') 
     ,('Vandana Sharma', 'Abdul Latif Jameel Poverty Action Lab', 'Research Assistant', '2009-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20090303022657/http://www.povertyactionlab.org/researchers/?type=3', NULL, NULL, 'Global health and poverty') 
-    ,('Vandana Sharma', 'Abdul Latif Jameel Poverty Action Lab', 'Coordinator for Public', '2009-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20110813130336/http://www.povertyactionlab.org/people/global/research', NULL, NULL, 'Global health and poverty') 
+    ,('Vandana Sharma', 'Abdul Latif Jameel Poverty Action Lab', 'Coordinator for Public', '2009-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20110813130336/http://www.povertyactionlab.org/people/global/research https://www.linkedin.com/in/vandana-sharma-md-mph-b0b7b35/', NULL, NULL, 'Global health and poverty') 
     ,('Joseph Shields', 'Abdul Latif Jameel Poverty Action Lab', 'Research Assistant', '2008-07-01', 'month', '2009-08-01', 'month', 'https://web.archive.org/web/20090303022657/http://www.povertyactionlab.org/researchers/?type=3 https://www.linkedin.com/in/joseph-shields-5338009/', NULL, NULL, 'Global health and poverty') 
     ,('Anuja Singh', 'Abdul Latif Jameel Poverty Action Lab', 'Research Assistant', '2009-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20090303022657/http://www.povertyactionlab.org/researchers/?type=3', NULL, NULL, 'Global health and poverty') 
     ,('Felix Su', 'Abdul Latif Jameel Poverty Action Lab', 'Research Assistant', '2007-09-01', 'month', '2019-06-01', 'month', 'https://web.archive.org/web/20090303022657/http://www.povertyactionlab.org/researchers/?type=3 https://www.linkedin.com/in/felix-su-74b71614/', NULL, NULL, 'Global health and poverty') 
@@ -526,6 +526,484 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Gunjita Gupta', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2018-08-01', 'month', '2019-06-01', 'month', 'https://www.linkedin.com/in/gunjita-g/', 'Based in Chennai, India', NULL, 'Global health and poverty') 
     ,('Gunjita Gupta', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2019-06-01', 'month', '2020-11-01', 'month', 'https://www.linkedin.com/in/gunjita-g/', 'Based in Goa, India', NULL, 'Global health and poverty') 
     ,('Gunjita Gupta', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Research Assistant', '2020-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gunjita-g/', 'Based in Chennai, Tamil Nadu, India', NULL, 'Global health and poverty') 
+    ,('Ana Tabacaru', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Associate', '2018-02-01', 'month', '2019-07-01', 'month', 'https://www.linkedin.com/in/anatabacaru/', 'Based in Paris, France', NULL, 'Global health and poverty') 
+    ,('Ana Tabacaru', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy Associate', '2019-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/anatabacaru/', 'Based in Paris, France', NULL, 'Global health and poverty') 
+    ,('Sachin Dubey', 'Abdul Latif Jameel Poverty Action Lab', 'Consultant', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sachin-dubey-3a758b7/', NULL, NULL, 'Global health and poverty') 
+    ,('Sai Siddharth Janapareddy', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy Associate', '2019-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sai-siddharth-janapareddy-b2a2a345/', 'Based in New Delhi Area, India', NULL, 'Global health and poverty') 
+    ,('Swarupjit Palit', 'Abdul Latif Jameel Poverty Action Lab', 'Research Intern', '2020-04-01', 'month', '2020-05-01', 'month', 'https://www.linkedin.com/in/swarupjit-palit-91691a18b/', 'Based in Kolkata, West Bengal, India', 'Intern', 'Global health and poverty') 
+    ,('Swarupjit Palit', 'Abdul Latif Jameel Poverty Action Lab', 'Research Intern', '2020-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/swarupjit-palit-91691a18b/', 'Based in Kolkata, West Bengal, India', 'Intern', 'Global health and poverty') 
+    ,('Diana Warira', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Manager, Gender and Economic Agency Initiative', '2020-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/diana-warira-0131792a/', 'Based in Nairobi, Kenya', 'full-time', 'Global health and poverty') 
+    ,('Isabela Salgado', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Intern', '2018-08-01', 'month', '2019-08-01', 'month', 'https://www.linkedin.com/in/isabela-salgado-a4a652170/', NULL, 'Intern', 'Global health and poverty') 
+    ,('Isabela Salgado', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Associate', '2019-09-01', 'month', '2021-01-01', 'month', 'https://www.linkedin.com/in/isabela-salgado-a4a652170/', 'Based in Cambridge, Massachusetts', NULL, 'Global health and poverty') 
+    ,('Isabela Salgado', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy Associate', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/isabela-salgado-a4a652170/', 'Based in Cambridge, Massachusetts', 'full-time', 'Global health and poverty') 
+    ,('Aimee Hare', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2017-09-01', 'month', '2019-01-01', 'month', 'https://www.linkedin.com/in/aimee-hare-65b93239/', 'Based in Cape Town Area, South Africa', NULL, 'Global health and poverty') 
+    ,('Aimee Hare', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Associate', '2019-02-01', 'month', '2019-08-01', 'month', 'https://www.linkedin.com/in/aimee-hare-65b93239/', 'Based in Cape Town Area, South Africa', NULL, 'Global health and poverty') 
+    ,('Aimee Hare', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy Associate', '2019-09-01', 'month', '2021-03-01', 'month', 'https://www.linkedin.com/in/aimee-hare-65b93239/', 'Based in Cape Town Area, South Africa', 'full-time', 'Global health and poverty') 
+    ,('Aimee Hare', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Manager', '2021-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/aimee-hare-65b93239/', 'Based in Cape Town Area, South Africa', 'full-time', 'Global health and poverty') 
+    ,('Sharvari Ravishankar', 'Abdul Latif Jameel Poverty Action Lab', 'Research Intern', '2018-06-01', 'month', '2018-12-01', 'month', 'https://www.linkedin.com/in/sharvari-ravishankar-494a0615a/', 'Based in Chennai, Tamil Nadu', 'Intern', 'Global health and poverty') 
+    ,('Sharvari Ravishankar', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2019-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sharvari-ravishankar-494a0615a/', 'Based in Bangalore', NULL, 'Global health and poverty') 
+    ,('Nidhi Parekh', 'Abdul Latif Jameel Poverty Action Lab', 'Project Director, Digital Identification and Finance Initiative in Africa', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nidhi-parekh-31864644/', 'Based in Cape Town Area, South Africa', 'full-time', 'Global health and poverty') 
+    ,('Mano P.', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Consultant', '2014-08-01', 'month', '2015-12-01', 'month', 'https://www.linkedin.com/in/mano-p-53b2581/', 'Based in New Delhi Area, India', NULL, 'Global health and poverty') 
+    ,('Nadia Setiabudi', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2018-09-01', 'month', '2021-01-01', 'month', 'https://www.linkedin.com/in/nadiasetiabudi/', 'Based in Greater Jakarta Area, Indonesia', 'full-time', 'Global health and poverty') 
+    ,('Nadia Setiabudi', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Research Associate', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nadiasetiabudi/', 'Based in Greater Jakarta Area, Indonesia', 'full-time', 'Global health and poverty') 
+    ,('Bijit Das', 'Abdul Latif Jameel Poverty Action Lab', 'Incoming Research Associate', '2020-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/bijitdas/', 'Based in Paris, France', NULL, 'Global health and poverty') 
+    ,('Nadeen ElAshmawy', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Associate', '2020-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nadeen-elashmawy-424633114/', NULL, 'full-time', 'Global health and poverty') 
+    ,('Michelle Cherian', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2020-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/michelle-cherian1995/', NULL, 'full-time', 'Global health and poverty') 
+    ,('Noha Fadl', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2016-11-01', 'month', '2019-03-01', 'month', 'https://www.linkedin.com/in/noha-fadl-414b0459/', NULL, NULL, 'Global health and poverty') 
+    ,('Noha Fadl', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Research Associate', '2019-04-01', 'month', '2021-02-01', 'month', 'https://www.linkedin.com/in/noha-fadl-414b0459/', NULL, NULL, 'Global health and poverty') 
+    ,('Noha Fadl', 'Abdul Latif Jameel Poverty Action Lab', 'Research Manager', '2021-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/noha-fadl-414b0459/', NULL, NULL, 'Global health and poverty') 
+    ,('Alison Fahey', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Manager', '2014-09-01', 'month', '2016-12-01', 'month', 'https://www.linkedin.com/in/alison-fahey-6379529/', 'Based in Cambridge, Massachusetts', NULL, 'Global health and poverty') 
+    ,('Alison Fahey', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy Manager', '2017-01-01', 'month', '2018-06-01', 'month', 'https://www.linkedin.com/in/alison-fahey-6379529/', 'Based in Cambridge, Massachusetts', NULL, 'Global health and poverty') 
+    ,('Alison Fahey', 'Abdul Latif Jameel Poverty Action Lab', 'Associate Director of Policy', '2018-07-01', 'month', '2020-06-01', 'month', 'https://www.linkedin.com/in/alison-fahey-6379529/', 'Based in Cambridge, Massachusetts', NULL, 'Global health and poverty') 
+    ,('Alison Fahey', 'Abdul Latif Jameel Poverty Action Lab', 'Executive Director', '2020-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alison-fahey-6379529/', NULL, NULL, 'Global health and poverty') 
+    ,('Laura Poswell', 'Abdul Latif Jameel Poverty Action Lab', 'Executive Director', '2013-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/laura-poswell-0b8b2a63/', 'Based in Cape Town Area, South Africa', NULL, 'Global health and poverty') 
+    ,('Haris Zamaludin', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hariszamaludin/', 'Based in Jakarta, Indonesia', 'full-time', 'Global health and poverty') 
+    ,('Parsa Mahmud', 'Abdul Latif Jameel Poverty Action Lab', 'Research Intern', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/parsamahmud/', NULL, 'Intern', 'Global health and poverty') 
+    ,('Nada Rostom', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2021-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nada-rostom-1a81557b/', 'Based in Cairo, Egypt', 'full-time', 'Global health and poverty') 
+    ,('Ankit Agarwal', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2019-03-01', 'month', '2020-11-01', 'month', 'https://www.linkedin.com/in/ankit-agarwal-9483606/', 'Based in Jaipur, Rajasthan, India', NULL, 'Global health and poverty') 
+    ,('Ankit Agarwal', 'Abdul Latif Jameel Poverty Action Lab', 'Senior research associate', '2020-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ankit-agarwal-9483606/', 'Based in New Delhi, Delhi, India', 'full-time', 'Global health and poverty') 
+    ,('Nupur Ghuliani', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Associate', '2020-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nupur-ghuliani-098a1574/', 'Based in New Delhi, Delhi, India', 'full-time', 'Global health and poverty') 
+    ,('Tejal Johri', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Research Associate', '2019-03-01', 'month', '2021-02-01', 'month', 'https://www.linkedin.com/in/tejal-johri-14129849/', 'Based in Mumbai Area, India', 'full-time', 'Global health and poverty') 
+    ,('Tejal Johri', 'Abdul Latif Jameel Poverty Action Lab', 'Research Manager', '2021-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tejal-johri-14129849/', 'Based in Mumbai Metropolitan Region', 'full-time', 'Global health and poverty') 
+    ,('Laura Andrea Torres Cierpe', 'Abdul Latif Jameel Poverty Action Lab', 'Research project assistant', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/laura-andrea-torres-cierpe-210a21b5/', 'Based in Santiago de Chile, Chile', 'part-time', 'Global health and poverty') 
+    ,('Radhika Bhula', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy Associate', '2016-08-01', 'month', '2018-06-01', 'month', 'https://www.linkedin.com/in/radhika-bhula/', NULL, NULL, 'Global health and poverty') 
+    ,('Radhika Bhula', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Manager', '2018-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/radhika-bhula/', NULL, NULL, 'Global health and poverty') 
+    ,('Manvi Govil', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2018-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/manvi-govil-2b281011a/', 'Based in India', NULL, 'Global health and poverty') 
+    ,('Gaurav Saraf', 'Abdul Latif Jameel Poverty Action Lab', 'Intern', '2017-11-01', 'month', '2018-02-01', 'month', 'https://www.linkedin.com/in/gaurav-saraf/', 'Based in New Delhi Area, India', 'Intern', 'Global health and poverty') 
+    ,('Gaurav Saraf', 'Abdul Latif Jameel Poverty Action Lab', 'Research Consultant', '2018-12-01', 'month', '2018-07-01', 'month', 'https://www.linkedin.com/in/gaurav-saraf/', 'Based in New Delhi Area, India', NULL, 'Global health and poverty') 
+    ,('Gaurav Saraf', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2018-09-01', 'month', '2020-10-01', 'month', 'https://www.linkedin.com/in/gaurav-saraf/', 'Based in Lucknow Area, India', 'full-time', 'Global health and poverty') 
+    ,('Gaurav Saraf', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Research Associate', '2020-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gaurav-saraf/', NULL, 'full-time', 'Global health and poverty') 
+    ,('Silky Dalal', 'Abdul Latif Jameel Poverty Action Lab', 'Project Consultant', '2014-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/silky-dalal-06b7b24b/', NULL, NULL, 'Global health and poverty') 
+    ,('Srinish Muthukrishnan', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2019-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/srinishm/', 'Based in Coimbatore, Tamil Nadu, India', NULL, 'Global health and poverty') 
+    ,('Sanjana Prabala Gorti', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Research Manager', '2019-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sanjana-prabala-gorti-6295316/', 'Based in New Delhi Area, India', 'full-time', 'Global health and poverty') 
+    ,('Niharika Ohri', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2018-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/niharika-ohri-55822b105/', NULL, NULL, 'Global health and poverty') 
+    ,('Anshuman Shukla', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Manager', '2020-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/anshuman2501/', 'Based in New Delhi Area, India', 'full-time', 'Global health and poverty') 
+    ,('Soumya Das', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2018-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/soumya-das-64a280131/', 'Based in Bhubaneswar', 'full-time', 'Global health and poverty') 
+    ,('Sunder Singh', 'Abdul Latif Jameel Poverty Action Lab', 'Field Manager', '2014-03-01', 'month', '2015-08-01', 'month', 'https://www.linkedin.com/in/sunder-singh-89a91370/', 'Based in Delhi, India', NULL, 'Global health and poverty') 
+    ,('Sunder Singh', 'Abdul Latif Jameel Poverty Action Lab', 'Project Associate', '2015-07-01', 'month', '2016-02-01', 'month', 'https://www.linkedin.com/in/sunder-singh-89a91370/', NULL, NULL, 'Global health and poverty') 
+    ,('Sunder Singh', 'Abdul Latif Jameel Poverty Action Lab', 'Project Associate', '2016-02-01', 'month', '2016-02-01', 'month', 'https://www.linkedin.com/in/sunder-singh-89a91370/', 'Based in Haryana,India', NULL, 'Global health and poverty') 
+    ,('Sunder Singh', 'Abdul Latif Jameel Poverty Action Lab', 'Project Associate', '2016-03-01', 'month', '2016-12-01', 'month', 'https://www.linkedin.com/in/sunder-singh-89a91370/', 'Based in New Delhi Area, India', NULL, 'Global health and poverty') 
+    ,('Sunder Singh', 'Abdul Latif Jameel Poverty Action Lab', 'Project Associate', '2016-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sunder-singh-89a91370/', 'Based in New Delhi Area, India', NULL, 'Global health and poverty') 
+    ,('Sunder Singh', 'Abdul Latif Jameel Poverty Action Lab', 'Project Associate', '2012-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sunder-singh-89a91370/', 'Based in New Delhi Area, India', 'full-time', 'Global health and poverty') 
+    ,('Gulshan Banas', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gulshanbanas09/', 'Based in New Delhi Area, India', 'full-time', 'Global health and poverty') 
+    ,('Rachita Vig', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2018-05-01', 'month', '2019-07-01', 'month', 'https://www.linkedin.com/in/rachita-vig-22136588/', NULL, NULL, 'Global health and poverty') 
+    ,('Rachita Vig', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Research Associate', '2019-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rachita-vig-22136588/', NULL, NULL, 'Global health and poverty') 
+    ,('Simranjeet Dhir', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2019-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/simranjeet-dhir/', 'Based in New Delhi Area, India', 'full-time', 'Global health and poverty') 
+    ,('Yogendra Rajyaguru', 'Abdul Latif Jameel Poverty Action Lab', 'Contractor', '2009-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/yogendra-rajyaguru-916b5834/', 'Based in Gujarat, India', 'contractor', 'Global health and poverty') 
+    ,('Ola ElToukhi', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2019-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ola-eltoukhi-097372111/', 'Based in American University in Cairo', 'full-time', 'Global health and poverty') 
+    ,('Mayank Bhushan', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Research Associate', '2021-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mayank634/', 'Based in New Delhi, Delhi, India', 'full-time', 'Global health and poverty') 
+    ,('Brindha Gopal', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Associate', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/brindha-gopal-9b1b09a0/', NULL, NULL, 'Global health and poverty') 
+    ,('Spencer Crawford', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Associate', '2018-04-01', 'month', '2019-12-01', 'month', 'https://www.linkedin.com/in/spencerncrawford/', 'Based in Cambridge, Massachusetts', NULL, 'Global health and poverty') 
+    ,('Spencer Crawford', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy Associate', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/spencerncrawford/', NULL, NULL, 'Global health and poverty') 
+    ,('Sai Pitre', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2019-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sai-pitre-8a4906153/', 'Based in Mumbai Area, India', NULL, 'Global health and poverty') 
+    ,('Poonam Panda', 'Abdul Latif Jameel Poverty Action Lab', 'Project Associate', '2017-10-01', 'month', '2018-09-01', 'month', 'https://www.linkedin.com/in/poonam-panda-44349574/', 'Based in Bhubaneshwar Area, India', NULL, 'Global health and poverty') 
+    ,('Poonam Panda', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2019-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/poonam-panda-44349574/', 'Based in Patna, Bihar', 'full-time', 'Global health and poverty') 
+    ,('Bhavani Kumara Masillamani', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2018-07-01', 'month', '2019-11-01', 'month', 'https://www.linkedin.com/in/bhavanik26/', 'Based in Patna, Bihar', NULL, 'Global health and poverty') 
+    ,('Bhavani Kumara Masillamani', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Research Associate', '2019-11-01', 'month', '2020-11-01', 'month', 'https://www.linkedin.com/in/bhavanik26/', 'Based in Delhi, India', 'full-time', 'Global health and poverty') 
+    ,('Bhavani Kumara Masillamani', 'Abdul Latif Jameel Poverty Action Lab', 'Research Manager', '2020-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/bhavanik26/', NULL, 'full-time', 'Global health and poverty') 
+    ,('Sanchita Ohri', 'Abdul Latif Jameel Poverty Action Lab', 'Research Manager', '2017-04-01', 'month', '2018-08-01', 'month', 'https://www.linkedin.com/in/sanchita-ohri-88567696/', 'Based in Mumbai Area, India', NULL, 'Global health and poverty') 
+    ,('Sanchita Ohri', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Research Associate', '2018-10-01', 'month', '2019-10-01', 'month', 'https://www.linkedin.com/in/sanchita-ohri-88567696/', 'Based in New Delhi Area, India', NULL, 'Global health and poverty') 
+    ,('Sanchita Ohri', 'Abdul Latif Jameel Poverty Action Lab', 'Research Manager', '2019-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sanchita-ohri-88567696/', 'Based in New Delhi Area, India', 'full-time', 'Global health and poverty') 
+    ,('Kacem El Guernaoui', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2020-09-01', 'month', '2021-03-01', 'month', 'https://www.linkedin.com/in/kacem-el-guernaoui-9b6277104/', 'Based in Rabat, Rabat-Salé-Kenitra, Morocco', 'full-time', 'Global health and poverty') 
+    ,('Kacem El Guernaoui', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Research Associate', '2021-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kacem-el-guernaoui-9b6277104/', 'Based in Rabat, Rabat-Salé-Kenitra, Morocco', 'full-time', 'Global health and poverty') 
+    ,('María José González Fuentes', 'Abdul Latif Jameel Poverty Action Lab', 'Research Assistant Internship', '2021-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-gonz%C3%A1lez-fuentes-4254a9175/', 'Based in Paris, France', 'contractor', 'Global health and poverty') 
+    ,('Abhishek Deshwal', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2018-05-01', 'month', '2019-10-01', 'month', 'https://www.linkedin.com/in/abhishek-deshwal-215535b4/', 'Based in Ranchi Area, India', NULL, 'Global health and poverty') 
+    ,('Abhishek Deshwal', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Research Associate', '2019-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/abhishek-deshwal-215535b4/', 'Based in Jaipur Area, India', NULL, 'Global health and poverty') 
+    ,('Lipika Kapoor', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Research Associate', '2018-07-01', 'month', '2018-09-01', 'month', 'https://www.linkedin.com/in/lipikakapoor/', 'Based in Chennai, Tamil Nadu, India', 'full-time', 'Global health and poverty') 
+    ,('Lipika Kapoor', 'Abdul Latif Jameel Poverty Action Lab', 'Research Manager', '2018-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lipikakapoor/', 'Based in Chennai, Tamil Nadu, India', 'full-time', 'Global health and poverty') 
+    ,('Lobna Kassim', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Manager', '2020-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lobna-kassim-%D9%84%D8%A8%D9%86%D9%89-%D9%82%D8%A7%D8%B3%D9%85/', 'Based in Cairo, Egypt', NULL, 'Global health and poverty') 
+    ,('Wen Wen Teh', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2019-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/wen-wen-teh-3b2496113/', NULL, NULL, 'Global health and poverty') 
+    ,('Parul Khandelwal', 'Abdul Latif Jameel Poverty Action Lab', 'Associate Director Human Resources', '2018-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/parulkhandelwal/', 'Based in New Delhi Area, India', NULL, 'Global health and poverty') 
+    ,('Cristina Mac Gregor', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Research Associate', '2019-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/crismacg/', 'Based in Chicago, Illinois', 'full-time', 'Global health and poverty') 
+    ,('Bhavya Sinha', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sinhabhavya/', 'Based in Patna Area, India', NULL, 'Global health and poverty') 
+    ,('Divya Manoj Goel', 'Abdul Latif Jameel Poverty Action Lab', 'Manager Human Resources', '2016-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/divya-manoj-goel-96b0b811/', 'Based in New Delhi Area, India', NULL, 'Global health and poverty') 
+    ,('Arielle Rawlings', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Associate', '2019-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/arielle-rawlings-09607bb3/', 'Based in Massachusetts Institute of Technology, Cambridge, MA', NULL, 'Global health and poverty') 
+    ,('Heather McCurdy', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Administrative Associate and Research Administrator', '2011-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/heather-mccurdy-5684a85/', 'Based in MIT, Cambridge, MA', NULL, 'Global health and poverty') 
+    ,('Gargi Pal', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2018-07-01', 'month', '2020-10-01', 'month', 'https://www.linkedin.com/in/gargi-pal-36bb0bb1/', 'Based in Mumbai, Maharashtra, India', NULL, 'Global health and poverty') 
+    ,('Gargi Pal', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Research Associate', '2020-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gargi-pal-36bb0bb1/', NULL, 'full-time', 'Global health and poverty') 
+    ,('Katrina Pereira', 'Abdul Latif Jameel Poverty Action Lab', 'HR Manager', '2019-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/katrina-pereira-ma-shrm-cp-8b34223a/', 'Based in Cambridge, Massachusetts', NULL, 'Global health and poverty') 
+    ,('Saleena Son', 'Abdul Latif Jameel Poverty Action Lab', 'Human Resources Associate', '2020-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/saleenason/', 'Based in Cambridge, Massachusetts', 'full-time', 'Global health and poverty') 
+    ,('Arihant Jain', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2020-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/arihant-jain-67ba62127/', 'Based in Hyderabad, Telangana, India', 'full-time', 'Global health and poverty') 
+    ,('Ruben Menon', 'Abdul Latif Jameel Poverty Action Lab', 'Assistant Director Finance and Admin', '2012-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ruben-menon-78166618/', 'Based in Chennai Area, India', NULL, 'Global health and poverty') 
+    ,('Dishari Dasgupta', 'Abdul Latif Jameel Poverty Action Lab', 'Research Intern (Data Analytics Unit)', '2021-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/disharidasgupta215/', NULL, 'intern', 'Global health and poverty') 
+    ,('Movin Ansari', 'Abdul Latif Jameel Poverty Action Lab', 'Field Manager', '2015-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/movin-ansari-011898157/', 'Based in New Delhi Area, India', 'contractor', 'Global health and poverty') 
+    ,('Santosh Kumar Sahoo', 'Abdul Latif Jameel Poverty Action Lab', 'Survey Coordinator', '2012-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/santosh-kumar-sahoo-b230b0118/', NULL, NULL, 'Global health and poverty') 
+    ,('Lolita Moorena', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2017-08-01', 'month', '2018-07-01', 'month', 'https://www.linkedin.com/in/lolita-moorena-0a368135/', 'Based in Greater Jakarta Area, Indonesia', NULL, 'Global health and poverty') 
+    ,('Lolita Moorena', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Research Associate', '2018-08-01', 'month', '2019-08-01', 'month', 'https://www.linkedin.com/in/lolita-moorena-0a368135/', 'Based in Southeast Asia office', NULL, 'Global health and poverty') 
+    ,('Lolita Moorena', 'Abdul Latif Jameel Poverty Action Lab', 'Research Manager', '2019-09-01', 'month', '2021-02-01', 'month', 'https://www.linkedin.com/in/lolita-moorena-0a368135/', 'Based in Greater Jakarta Area, Indonesia', 'full-time', 'Global health and poverty') 
+    ,('Lolita Moorena', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy, Communications, and Training Manager', '2021-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lolita-moorena-0a368135/', NULL, 'full-time', 'Global health and poverty') 
+    ,('Krishna Parmar', 'Abdul Latif Jameel Poverty Action Lab', 'Supervisor under ETS scheme', '2019-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/krishna-parmar-81012a174/', 'Based in Khatodara, Surat', 'contractor', 'Global health and poverty') 
+    ,('Gautam Patel', 'Abdul Latif Jameel Poverty Action Lab', 'Project Manager (Policy)', '2013-09-01', 'month', '2015-04-01', 'month', 'https://www.linkedin.com/in/gautam-patel-1b2a4615/', 'Based in Gandhinagar, Gujarat', NULL, 'Global health and poverty') 
+    ,('Gautam Patel', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy Manager', '2015-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gautam-patel-1b2a4615/', 'Based in Gandhinagar, Gujarat', NULL, 'Global health and poverty') 
+    ,('Pragnya Mohanty', 'Abdul Latif Jameel Poverty Action Lab', 'Office Manager', '2014-03-01', 'month', '2020-05-01', 'month', 'https://www.linkedin.com/in/pragnya-mohanty-38299226/', 'Based in Bhubaneswar', NULL, 'Global health and poverty') 
+    ,('Pragnya Mohanty', 'Abdul Latif Jameel Poverty Action Lab', 'Administrative Assistant', '2020-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/pragnya-mohanty-38299226/', 'Based in Bangalore', 'full-time', 'Global health and poverty') 
+    ,('Mary Pietrusko', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Administrative Associate', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mary-pietrusko2019/', 'Based in Cambridge, MA', NULL, 'Global health and poverty') 
+    ,('Krishan Kumar', 'Abdul Latif Jameel Poverty Action Lab', 'Supervisor', '2017-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/krishan-kumar-509a8a160/', 'Based in Panipat and Sonipat Haryana', NULL, 'Global health and poverty') 
+    ,('Daniela Aizencang', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/daniela-aizencang/', 'Based in Santiago de Chile, Chile', 'full-time', 'Global health and poverty') 
+    ,('Adrien Pawlik', 'Abdul Latif Jameel Poverty Action Lab', 'Head of research', '2018-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adrien-pawlik/', 'Based in Chennai, Goa, Lucknow - Inde', 'full-time', 'Global health and poverty') 
+    ,('Aditya Madhusudan', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2018-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/aditya-madhusudan-4b9b3b83/', NULL, NULL, 'Global health and poverty') 
+    ,('John Ranjith', 'Abdul Latif Jameel Poverty Action Lab', 'Field surveyor', '2016-09-01', 'month', '2017-03-01', 'month', 'https://www.linkedin.com/in/john-ranjith-528627169/', 'Based in Coimbatore, Tamil Nadu', NULL, 'Global health and poverty') 
+    ,('John Ranjith', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Surveyor', '2017-03-01', 'month', '2018-09-01', 'month', 'https://www.linkedin.com/in/john-ranjith-528627169/', 'Based in Coimbatore, Tamil Nadu', NULL, 'Global health and poverty') 
+    ,('John Ranjith', 'Abdul Latif Jameel Poverty Action Lab', 'Field Supervisor', '2018-09-01', 'month', '2019-03-01', 'month', 'https://www.linkedin.com/in/john-ranjith-528627169/', 'Based in Chennai, Tamil Nadu', NULL, 'Global health and poverty') 
+    ,('John Ranjith', 'Abdul Latif Jameel Poverty Action Lab', 'Field monitor', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/john-ranjith-528627169/', 'Based in Chennai Area, India', 'full-time', 'Global health and poverty') 
+    ,('Maria Grazia Pastorello', 'Abdul Latif Jameel Poverty Action Lab', 'Research Manager', '2015-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/maria-grazia-pastorello-8b595236/', 'Based in Bhubaneshwar Area, India', NULL, 'Global health and poverty') 
+    ,('Kalila Jackson-Spieker', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Associate', '2018-06-01', 'month', '2019-06-01', 'month', 'https://www.linkedin.com/in/kalila-jackson-spieker-4b886042/', 'Based in Cambridge, USA', NULL, 'Global health and poverty') 
+    ,('Kalila Jackson-Spieker', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Associate', '2018-06-01', 'month', '2019-06-01', 'month', 'https://www.linkedin.com/in/kalila-jackson-spieker-4b886042/', 'Based in Cambridge, USA', NULL, 'Global health and poverty') 
+    ,('Kalila Jackson-Spieker', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Manager', '2019-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kalila-jackson-spieker-4b886042/', 'Based in Cambridge, Massachusetts', NULL, 'Global health and poverty') 
+    ,('Frances Lu', 'Abdul Latif Jameel Poverty Action Lab', 'Research Intern', '2015-06-01', 'month', '2015-08-01', 'month', 'https://www.linkedin.com/in/frances-lu-a8a91688/', 'Based in Bhubaneshwar Area, India', 'Intern', 'Global health and poverty') 
+    ,('Frances Lu', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2016-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/frances-lu-a8a91688/', 'Based in Greater San Diego Area', NULL, 'Global health and poverty') 
+    ,('Vijendra Singh', 'Abdul Latif Jameel Poverty Action Lab', 'Project Associate', '2014-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/vijendra-singh-60ab40a1/', 'Based in Bhopal Area, India', NULL, 'Global health and poverty')  
+    ,('Deepanshu Sharma', 'Abdul Latif Jameel Poverty Action Lab', 'Data Associate', '2012-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/deepanshu-sharma-191b3238/', 'Based in New Delhi', NULL, 'Global health and poverty') 
+    ,('Raul Ranjan', 'Abdul Latif Jameel Poverty Action Lab', 'Field Monitor', '2014-03-01', 'month', '2016-03-01', 'month', 'https://www.linkedin.com/in/rahul-ranjan-115486107/', 'Based in Chapara', NULL, 'Global health and poverty') 
+    ,('Raul Ranjan', 'Abdul Latif Jameel Poverty Action Lab', 'Field Manager', '2016-04-01', 'month', '2018-05-01', 'month', 'https://www.linkedin.com/in/rahul-ranjan-115486107/', 'Based in Patna Area, India', NULL, 'Global health and poverty') 
+    ,('Raul Ranjan', 'Abdul Latif Jameel Poverty Action Lab', 'BEP', '2014-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rahul-ranjan-115486107/', 'Based in Patna, Bihar, India', NULL, 'Global health and poverty') 
+    ,('Sandeep Langyan', 'Abdul Latif Jameel Poverty Action Lab', 'Monitor', '2019-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sandeep-langyan-921616166/', 'Based in Fatehgarh Sahib Punjab', NULL, 'Global health and poverty') 
+    ,('Srinivasa Rao M', 'Abdul Latif Jameel Poverty Action Lab', 'Sr. Manager - Finance & Operations', '2016-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/srinivasa-rao-m-0ba11b51/', 'Based in Hyderabad, Telangana, India', 'full-time', 'Global health and poverty') 
+    ,('Lauren Roode', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Associate', '2020-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lauren-roode-290a0b87/', 'Based in Cape Town, Western Cape, South Africa', 'full-time', 'Global health and poverty') 
+    ,('Siddharth P.', 'Abdul Latif Jameel Poverty Action Lab', 'Project Director', '2020-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/siddharthpandit/', NULL, NULL, 'Global health and poverty') 
+    ,('Hana Lakhdar Ghazal', 'Abdul Latif Jameel Poverty Action Lab', 'Deputy Director at Morocco Employment', '2020-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hana-lakhdar-ghazal-20375115a/', 'Based in Rabat, Rabat-Salé-Kénitra, Maroc', NULL, 'Global health and poverty') 
+    ,('Bakul Chugh', 'Abdul Latif Jameel Poverty Action Lab', 'Research Consultant', '2016-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/bakul-chugh-186214192/', 'Based in Lucknow Area, India', NULL, 'Global health and poverty') 
+    ,('Andrea Cristina Ruiz', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Manager', '2020-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/acruizsalmon/', 'Based in Boston, Massachusetts, United States', NULL, 'Global health and poverty') 
+    ,('Adam Osman', 'Abdul Latif Jameel Poverty Action Lab', 'Scientific Director', '2014-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adam-osman-b74a119/', NULL, NULL, 'Global health and poverty') 
+    ,('Suddhasatwa Bhattacharya', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2018-02-01', 'month', '2019-06-01', 'month', 'https://www.linkedin.com/in/suddhasatwa-bhattacharya-907159a3/', NULL, NULL, 'Global health and poverty') 
+    ,('Suddhasatwa Bhattacharya', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Research Associate', '2019-07-01', 'month', '2021-03-01', 'month', 'https://www.linkedin.com/in/suddhasatwa-bhattacharya-907159a3/', NULL, NULL, 'Global health and poverty') 
+    ,('Suddhasatwa Bhattacharya', 'Abdul Latif Jameel Poverty Action Lab', 'Research Manager', '2021-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/suddhasatwa-bhattacharya-907159a3/', NULL, NULL, 'Global health and poverty') 
+    ,('Lisa Corsetto', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Associate', '2016-08-01', 'month', '2017-12-01', 'month', 'https://www.linkedin.com/in/lisa-corsetto-708b0b71/', 'Based in Cambridge, Massachusetts', NULL, 'Global health and poverty') 
+    ,('Lisa Corsetto', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy Associate', '2018-01-01', 'month', '2019-12-01', 'month', 'https://www.linkedin.com/in/lisa-corsetto-708b0b71/', 'Based in Cambridge, Massachusetts', NULL, 'Global health and poverty') 
+    ,('Lisa Corsetto', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Manager', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lisa-corsetto-708b0b71/', 'Based in Cambridge, Massachusetts', NULL, 'Global health and poverty') 
+    ,('Margaret Andersen', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Associate', '2019-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/margaret-andersen-05632a12b/', 'Based in Cambridge, Massachusetts', NULL, 'Global health and poverty') 
+    ,('Niharika Betkerur', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Manager', '2019-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/niharika-betkerur-9b7a7941/', 'Based in New Delhi Area, India', NULL, 'Global health and poverty') 
+    ,('Alexia V.', 'Abdul Latif Jameel Poverty Action Lab', 'Field Research Associate', '2020-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alexia-van-rij-04b078106/', 'Based in Rabat, Rabat-Sale, Morocco', 'contractor', 'Global health and poverty') 
+    ,('Samuel Ayers', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2018-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/samuel-ayers-97aaa6150/', 'Based in Cambridge, Massachusetts', NULL, 'Global health and poverty') 
+    ,('Samuel Ayers', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Rearch Associate', '2020-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/samuel-ayers-97aaa6150/', 'Based in Cambridge, Massachusetts', 'full-time', 'Global health and poverty') 
+    ,('Madison Cann', 'Abdul Latif Jameel Poverty Action Lab', 'Operations Associate', '2019-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/madison-cann-3b0198161/', 'Based in Cambridge, Massachusetts', NULL, 'Global health and poverty') 
+    ,('Shubhangi Gokhroo', 'Abdul Latif Jameel Poverty Action Lab', 'Research Intern', '2020-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shubhangi-gokhroo-691108152/', NULL, 'Intern', 'Global health and poverty') 
+    ,('Shreya Chaturvedi', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shreya-chaturvedi-384b56111/', 'Based in India', 'full-time', 'Global health and poverty') 
+    ,('Buhat Siswi Yulianto', 'Abdul Latif Jameel Poverty Action Lab', 'Finance and Admin Associate', '2017-06-01', 'month', '2017-12-01', 'month', 'https://www.linkedin.com/in/buhat-siswi-yulianto-7b133499/', NULL, NULL, 'Global health and poverty') 
+    ,('Buhat Siswi Yulianto', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Finance and Administrative Associate', '2018-01-01', 'month', '2018-01-01', 'month', 'https://www.linkedin.com/in/buhat-siswi-yulianto-7b133499/', 'Based in Indonesia', NULL, 'Global health and poverty') 
+    ,('Buhat Siswi Yulianto', 'Abdul Latif Jameel Poverty Action Lab', 'Finance and Operations Manager', '2018-07-01', 'month', '2021-02-01', 'month', 'https://www.linkedin.com/in/buhat-siswi-yulianto-7b133499/', 'Based in Jakarta, Indonesia', 'full-time', 'Global health and poverty') 
+    ,('Buhat Siswi Yulianto', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Finance and Operations Manager', '2021-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/buhat-siswi-yulianto-7b133499/', 'Based in Jakarta, Indonesia', 'full-time', 'Global health and poverty') 
+    ,('Andrew Avitabile', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate, Global Education Measurement', '2019-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/andrew-avitabile/', 'Based in Greater Boston Area', NULL, 'Global health and poverty') 
+    ,('Siena Harlin', 'Abdul Latif Jameel Poverty Action Lab', 'Policy and Communications Associate', '2019-01-01', 'month', '2021-01-01', 'month', 'https://www.linkedin.com/in/siena-harlin-43410078/', 'Based in Cambridge, MA', NULL, 'Global health and poverty') 
+    ,('Siena Harlin', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy and Communications Associate', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/siena-harlin-43410078/', NULL, NULL, 'Global health and poverty') 
+    ,('Simon Cooper', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Associate', '2020-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/simon-cooper-0405a213b/', 'Based in Cambridge, Massachusetts, United States', 'full-time', 'Global health and poverty') 
+    ,('Megha Pradhan', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy and Training Associate', '2015-08-01', 'month', '2016-03-01', 'month', 'https://www.linkedin.com/in/megha-pradhan-0a53b5ab/', NULL, NULL, 'Global health and poverty') 
+    ,('Megha Pradhan', 'Abdul Latif Jameel Poverty Action Lab', 'Policy and Training Manager', '2016-04-01', 'month', '2019-03-01', 'month', 'https://www.linkedin.com/in/megha-pradhan-0a53b5ab/', 'Based in New Delhi', NULL, 'Global health and poverty') 
+    ,('Megha Pradhan', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy and Training Manager', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/megha-pradhan-0a53b5ab/', NULL, NULL, 'Global health and poverty') 
+    ,('Quentin Daviot', 'Abdul Latif Jameel Poverty Action Lab', 'Investigator', '2014-11-01', 'month', '2015-02-01', 'month', 'https://www.linkedin.com/in/quentin-daviot-35bba792/', 'Based in Paris, France', NULL, 'Global health and poverty') 
+    ,('Quentin Daviot', 'Abdul Latif Jameel Poverty Action Lab', 'Senior project manager', '2015-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/quentin-daviot-35bba792/', 'Based in Paris, France', NULL, 'Global health and poverty') 
+    ,('Toby Chaiken', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy Associate', '2017-03-01', 'month', '2018-07-01', 'month', 'https://www.linkedin.com/in/toby-chaiken/', 'Based in Cambridge, Massachusetts', NULL, 'Global health and poverty') 
+    ,('Toby Chaiken', 'Abdul Latif Jameel Poverty Action Lab', 'Policy & Training Manager', '2018-07-01', 'month', '2020-07-01', 'month', 'https://www.linkedin.com/in/toby-chaiken/', NULL, NULL, 'Global health and poverty') 
+    ,('Toby Chaiken', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy & Training Manager', '2020-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/toby-chaiken/', 'Based in Cambridge, Massachusetts', NULL, 'Global health and poverty') 
+    ,('Alessia Mortara', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Manager Africa', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alessia-mortara/', 'Based in South Africa', 'full-time', 'Global health and poverty') 
+    ,('Erin Graeber', 'Abdul Latif Jameel Poverty Action Lab', 'Policy and Communications Manager', '2018-07-01', 'month', '2020-07-01', 'month', 'https://www.linkedin.com/in/erin-graeber-a9308020/', NULL, NULL, 'Global health and poverty') 
+    ,('Erin Graeber', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy and Communications Manager', '2020-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/erin-graeber-a9308020/', NULL, 'full-time', 'Global health and poverty') 
+    ,('Audrey Cabral', 'Abdul Latif Jameel Poverty Action Lab', 'Program Associate', '2019-10-01', 'month', '2020-11-01', 'month', 'https://www.linkedin.com/in/audrey-cabral-2635b967/', NULL, NULL, 'Global health and poverty') 
+    ,('Audrey Cabral', 'Abdul Latif Jameel Poverty Action Lab', 'Human Resources Associate', '2020-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/audrey-cabral-2635b967/', NULL, NULL, 'Global health and poverty') 
+    ,('Sanaya Chandar', 'Abdul Latif Jameel Poverty Action Lab', 'Communications Associate', '2020-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sanaya-chandar-b96833149/', 'Based in New Delhi Area, India', 'full-time', 'Global health and poverty') 
+    ,('Sarah Kopper', 'Abdul Latif Jameel Poverty Action Lab', 'Research Manager', '2018-07-01', 'month', '2020-07-01', 'month', 'https://www.linkedin.com/in/sarah-kopper-67311222/', 'Based in Cambridge, MA', NULL, 'Global health and poverty') 
+    ,('Sarah Kopper', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Research Manager', '2020-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sarah-kopper-67311222/', NULL, NULL, 'Global health and poverty') 
+    ,('Carla Marie Peñafiel Messmer', 'Abdul Latif Jameel Poverty Action Lab', 'Research Consultant', '2020-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/carlapenafiel/', NULL, NULL, 'Global health and poverty') 
+    ,('Caroline Garau', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Associate', '2019-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/caroline-garau/', 'Based in Greater Boston Area', NULL, 'Global health and poverty') 
+    ,('Nitin Shankar Kanakaraj', 'Abdul Latif Jameel Poverty Action Lab', 'Research Assistant', '2019-09-01', 'month', '2020-11-01', 'month', 'https://www.linkedin.com/in/nitin-shankar-kanakaraj/', 'Based in Chennai Area, India', 'full-time', 'Global health and poverty') 
+    ,('Nitin Shankar Kanakaraj', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2020-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nitin-shankar-kanakaraj/', 'Based in Chennai Area, India', 'full-time', 'Global health and poverty') 
+    ,('Kevin Wentworth', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Grants and Financial Associate', '2019-08-01', 'month', '2021-01-01', 'month', 'https://www.linkedin.com/in/kcw15/', 'Based in Cambridge, Massachusetts', NULL, 'Global health and poverty') 
+    ,('Kevin Wentworth', 'Abdul Latif Jameel Poverty Action Lab', 'Grants and Operations Manager', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kcw15/', NULL, 'full-time', 'Global health and poverty') 
+    ,('Teresa Lezcano Cadwallader', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Manager', '2021-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/teresa-lezcano-cadwallader-a32a96104/', 'Based in Paris, France', 'full-time', 'Global health and poverty') 
+    ,('Laura Feeney', 'Abdul Latif Jameel Poverty Action Lab', 'Research Manager', '2014-10-01', 'month', '2016-06-01', 'month', 'https://www.linkedin.com/in/laura-feeney/', NULL, NULL, 'Global health and poverty') 
+    ,('Laura Feeney', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Research Manager', '2016-06-01', 'month', '2017-12-01', 'month', 'https://www.linkedin.com/in/laura-feeney/', 'Based in Greater Boston Area', NULL, 'Global health and poverty') 
+    ,('Laura Feeney', 'Abdul Latif Jameel Poverty Action Lab', 'Associate Director of Research & Training', '2018-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/laura-feeney/', 'Based in Greater Boston Area', NULL, 'Global health and poverty') 
+    ,('Kyle Murphy', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy Associate', '2015-09-01', 'month', '2016-12-01', 'month', 'https://www.linkedin.com/in/kylekmurphy/', 'Based in Cambridge, MA', NULL, 'Global health and poverty') 
+    ,('Kyle Murphy', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Manager', '2016-12-01', 'month', '2019-06-01', 'month', 'https://www.linkedin.com/in/kylekmurphy/', 'Based in Cambridge, MA', NULL, 'Global health and poverty') 
+    ,('Kyle Murphy', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy Manager', '2019-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kylekmurphy/', NULL, NULL, 'Global health and poverty') 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
