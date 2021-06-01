@@ -403,7 +403,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Rob Bensinger, the communications person at MIRI, posts on his personal Facebook wall saying that MIRI is internally actively discussing and seriously considering a move from the San Francisco Bay Area (where MIRI is currently located) to another country or another part of the US. The post does not state the reasons MIRI is considering a move; in comments, Bensinger clarifies that it is too early to summarize the reasons MIRI is considering a move, but that he is looking for people’s thoughts on what the most important considerations are. Bensinger also posts a similar comment on LessWrong https://www.lesswrong.com/posts/FghubkDy6Dp6mnxk7/the-rationalist-community-s-location-problem?commentId=WggEETNGjd6d2XRgR' /* notes */
     )
     ,(
-        'https://www.facebook.com/brianfinifter/posts/10102058260531588?comment_id=10102058311110228', /* url */
+        'https://www.facebook.com/brianfinifter/posts/10102058260531588', /* url */
         NULL, /* title */
         '2020-06-02', /* publication_date */
         NULL, /* modified_date */
@@ -414,4 +414,44 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'HR controversy', /* document_scope */
         'AI safety', /* cause_area */
         'Brian Finifter writes on his Facebook page revealing posts by Russian American Michael Anissimov (who has many Facebook connections with people at MIRI) endorsing white nationalism. Finifter calls for the transhumanist community not to tolerate such position. Among the people reacting to the Finifter publication, Eliezer Yudkowsky responds by giving more details and indicating that Anissimov no longer has a role in the community.' /* notes */
-    );
+    )
+    ,(
+        'https://www.lesswrong.com/posts/4oWXnodxAu4WgHnrd/how-siai-could-publish-in-mainstream-cognitive-science', /* url */
+	'How SIAI could publish in mainstream cognitive science journals', /* title */
+	'2011-03-09', /* publication_date */
+	NULL, /* modified_date */
+	'Luke Muehlhauser', /* author */
+	'LessWrong', /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+	NULL, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI safety', /* cause_area */
+	'This blog post is written by Luke Muehlhauser shortly before he moves to the Bay Area; within a few months Muehlhauser would become MIRI''s Executive Director and write in https://www.lesswrong.com/posts/yGZHQYqWkLMbXy3z7/video-q-and-a-with-singularity-institute-executive-director that he was mistaken and had missed the main arguments against spending effort publishing in journals.' /* notes */
+    )
+    ,(
+        'https://www.lesswrong.com/posts/y2qaZ7X2jHzqK84TZ/is-miri-actually-hiring-and-does-buck-shlegeris-still-work', /* url */
+	'Is MIRI actually hiring and does Buck Shlegeris still work for you?', /* title */
+	'2021-02-13', /* publication_date */
+	NULL, /* modified_date */
+	'seed', /* author */
+        'LessWrong', /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+	'Buck Shlegeris|Rob Bensinger', /* affected_people */
+	'Job application experience', /* document_scope */
+	'AI safety', /* cause_area */
+	'A person who applied for a MIRI software engineer position and did not hear back expresses concern because Buck Shlegeris, who is in charge of hiring software engineeers, has left MIRI, so the person asks the question on LessWrong. In a reply, Rob Bensinger notes that Buck is still in charge of getting in touch, and that hiring has slowed down as a result of COVID-19 and strategy re-evaluation.' /* notes */
+    )
+    ,(
+        'https://www.facebook.com/vipulnaik.r/posts/10210792236177912', /* url */
+        'Belief status: off-the-cuff thoughts!', /* title */
+        '2017-01-19', /* publication_date */
+        NULL, /* modified_date */
+        'Vipul Naik', /* author */
+        NULL, /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+        NULL, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'The post argues that (lack of) academic endorsement of the work done by MIRI should not be an important factor in evaluating MIRI, offering three reasons. Commenters include Rob Bensinger, Research Communications Manager at MIRI.' /* notes */
+    )
+;
