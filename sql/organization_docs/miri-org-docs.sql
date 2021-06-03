@@ -439,7 +439,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Buck Shlegeris|Rob Bensinger', /* affected_people */
 	'Job application experience', /* document_scope */
 	'AI safety', /* cause_area */
-	'A person who applied for a MIRI software engineer position and did not hear back expresses concern because Buck Shlegeris, who is in charge of hiring software engineeers, has left MIRI, so the person asks the question on LessWrong. In a reply, Rob Bensinger notes that Buck is still in charge of getting in touch, and that hiring has slowed down as a result of COVID-19 and strategy re-evaluation.' /* notes */
+	'A person who applied for a MIRI software engineer position and did not hear back expresses concern because Buck Shlegeris, who is in charge of hiring software engineers, has left MIRI, so the person asks the question on LessWrong. In a reply, Rob Bensinger notes that Buck is still in charge of getting in touch, and that hiring has slowed down as a result of COVID-19 and strategy re-evaluation.' /* notes */
     )
     ,(
         'https://www.facebook.com/vipulnaik.r/posts/10210792236177912', /* url */
