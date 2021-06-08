@@ -6,7 +6,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* modified_date */
         'Aaron Gertler', /* author */
         'Effective Altruism Forum', /* publisher */
-        'Centre for Effective Altruism|Open Philanthropy Project|Machine Intelligence Research Institute|Ought|Vox|AI Impacts|Center for Human-Compatible AI|Berkeley Existential Risk Initiative', /* affected_organizations */
+        'Centre for Effective Altruism|Open Philanthropy|Machine Intelligence Research Institute|Ought|Vox|AI Impacts|Center for Human-Compatible AI|Berkeley Existential Risk Initiative', /* affected_organizations */
         NULL, /* affected_people */
         'Job application experience', /* document_scope */
         'Various', /* cause_area */
@@ -175,7 +175,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* modified_date */
         'Nate Soares', /* author */
         'Effective Altruism Forum', /* publisher */
-        'Machine Intelligence Research Institute|Open Philanthropy Project', /* affected_organizations */
+        'Machine Intelligence Research Institute|Open Philanthropy', /* affected_organizations */
         'Daniel Dewey', /* affected_people */
         NULL, /* document_scope */
         'AI safety', /* cause_area */

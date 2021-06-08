@@ -5,8 +5,8 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         '2018-02-14', /* publication_date */
         NULL, /* modified_date */
         'Holden Karnofsky', /* author */
-        'Open Philanthropy Project', /* publisher */
-        'Open Philanthropy Project', /* affected_organizations */
+        'Open Philanthropy', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
         NULL, /* document_scope */
         NULL, /* cause_area */
@@ -18,8 +18,8 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         '2019-03-07', /* publication_date */
         NULL, /* modified_date */
         'Luke Muehlhauser', /* author */
-        'Open Philanthropy Project', /* publisher */
-        'Open Philanthropy Project', /* affected_organizations */
+        'Open Philanthropy', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
         NULL, /* document_scope */
         NULL, /* cause_area */
@@ -31,8 +31,8 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         '2018-03-26', /* publication_date */
         NULL, /* modified_date */
         'Holden Karnofsky', /* author */
-        'Open Philanthropy Project', /* publisher */
-        'Open Philanthropy Project', /* affected_organizations */
+        'Open Philanthropy', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
         NULL, /* document_scope */
         NULL, /* cause_area */
@@ -45,7 +45,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* modified_date */
         'EA applicant', /* author */
         'Effective Altruism Forum', /* publisher */
-        'Open Philanthropy Project|Centre for Effective Altruism|Future of Humanity Institute|Effective Giving UK|Rethink Charity|Johns Hopkins Center for Health Security|Nuclear Threat Initiative|Centre for the Study of Existential Risk|Global Priorities Institute|Ought|Veddis|Berkeley Existential Risk Initiative', /* affected_organizations */
+        'Open Philanthropy|Centre for Effective Altruism|Future of Humanity Institute|Effective Giving UK|Rethink Charity|Johns Hopkins Center for Health Security|Nuclear Threat Initiative|Centre for the Study of Existential Risk|Global Priorities Institute|Ought|Veddis|Berkeley Existential Risk Initiative', /* affected_organizations */
         NULL, /* affected_people */
         NULL, /* document_scope */
         NULL, /* cause_area */
@@ -58,7 +58,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* modified_date */
         'Max Daniel', /* author */
         'Effective Altruism Forum', /* publisher */
-        'Open Philanthropy Project|OpenAI|Berkeley Existential Risk Initiative|Centre for Effective Altruism|Future of Humanity Institute|AI Impacts', /* affected_organizations */
+        'Open Philanthropy|OpenAI|Berkeley Existential Risk Initiative|Centre for Effective Altruism|Future of Humanity Institute|AI Impacts', /* affected_organizations */
         NULL, /* affected_people */
         NULL, /* document_scope */
         NULL, /* cause_area */
@@ -71,7 +71,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* modified_date */
         'Luke Muehlhauser', /* author */
         'Effective Altruism Forum', /* publisher */
-        'Open Philanthropy Project', /* affected_organizations */
+        'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
         NULL, /* document_scope */
         NULL, /* cause_area */

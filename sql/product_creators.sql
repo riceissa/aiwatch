@@ -49,7 +49,7 @@ insert into product_creators(product, name, kind) values
     ,('AI Alignment Prize','Zvi Mowshowitz','person')
     ,('AI Alignment Prize','Vladimir Slepnev','person')
     ,('AI Alignment Prize','Paul Christiano','person')
-    ,('Open Philanthropy Project AI Fellows Program','Open Philanthropy Project','organization')
+    ,('Open Philanthropy Project AI Fellows Program','Open Philanthropy','organization')
     ,('AI Alignment Forum','LessWrong 2.0','organization')
     ,('LessWrong 2.0','LessWrong 2.0','organization')
     ,('Clarifying some key hypotheses in AI alignment','Ben Cottier','person')

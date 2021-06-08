@@ -6,7 +6,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* modified_date */
         'Jeff Kaufman', /* author */
         NULL, /* publisher */
-        'Open Philanthropy Project|Machine Intelligence Research Institute', /* affected_organizations */
+        'Open Philanthropy|Machine Intelligence Research Institute', /* affected_organizations */
         NULL, /* affected_people */
         'Job market commentary', /* document_scope */
         'Various', /* cause_area */
