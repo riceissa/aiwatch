@@ -20,6 +20,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/aiimpacts-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/amf-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/animal-advocacy-africa.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/anthropic-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/beri-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/cea-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/center-for-reducing-suffering-positions.sql
