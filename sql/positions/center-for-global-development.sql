@@ -142,7 +142,83 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Kevin Ummel', 'Center for Global Development', 'Research Assistant', '2006-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20061218022257/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Ellen Mackenzie', 'Center for Global Development', 'Controller', '2007-04-01', 'year', NULL, NULL, 'https://web.archive.org/web/20070407073348/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Rachel Nugent', 'Center for Global Development', 'Controller', '2007-04-01', 'year', NULL, NULL, 'https://web.archive.org/web/20070407073348/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('April Harding', 'Center for Global Development', 'Visiting Fellow', '2007-04-01', 'year', NULL, NULL, 'https://web.archive.org/web/20070407073348/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Jeremy Shiffman', 'Center for Global Development', 'Visiting Fellow', '2007-04-01', 'year', NULL, NULL, 'https://web.archive.org/web/20070407073348/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Sarah Marchal', 'Center for Global Development', 'Deputy Director of Institutional Advancement', '2007-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20070607171948/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Karelle Samuda', 'Center for Global Development', 'Deputy Director of Institutional Advancement', '2007-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20070607171948/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Justin Cohan-Shapiro', 'Center for Global Development', 'Intern', '2007-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20070607171948/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Paul Hubbard', 'Center for Global Development', 'Intern', '2007-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20070607171948/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Sahar Shah', 'Center for Global Development', 'Intern', '2007-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20070607171948/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Rena Pacheco-Theard', 'Center for Global Development', 'Special Assistant to Executive Office', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Ruth Coffman', 'Center for Global Development', 'Program Coordinator to the Vice President', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Reid Dossinger', 'Center for Global Development', 'Online Engagement and Strategy Manager', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Ben Edwards', 'Center for Global Development', 'Web and Media Assistant', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Dave Colner', 'Center for Global Development', 'Database Manager', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Luke Easley', 'Center for Global Development', 'Office Manager', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Danielle Kuczynski', 'Center for Global Development', 'Program Coordinator', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Steve Rosenzweig', 'Center for Global Development', 'Program Coordinator', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Cindy Prieto', 'Center for Global Development', 'Intern', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Juliette Seban', 'Center for Global Development', 'Intern', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Amy Quinn', 'Center for Global Development', 'Intern', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Rebecca Schutte', 'Center for Global Development', 'Research Assistant', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Robin Kraft', 'Center for Global Development', 'Research Assistant', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Chris Blattman', 'Center for Global Development', 'Visiting Fellow', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Danielle Coleman', 'Center for Global Development', 'Executive Assistant', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Joel Meister', 'Center for Global Development', 'Outreach and Policy Assistant', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('John Osterman', 'Center for Global Development', 'Publications Coordinator', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Anna Doctors', 'Center for Global Development', 'Office Manager', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('David Witzel', 'Center for Global Development', 'Office Manager', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
