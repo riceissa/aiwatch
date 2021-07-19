@@ -43,10 +43,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Ramzi Nemo', 'Center for Global Development', 'Research Associate', '2002-07-01', 'month', '2004-01-01', 'month', 'https://web.archive.org/web/20030228005309/http://www.cgdev.org/acgd/cgdstaff.html https://www.linkedin.com/in/ramzinemo/', NULL, NULL, 'Global health and poverty')
     ,('Andrew Stober', 'Center for Global Development', 'Program and Communications Assistant', '2001-12-01', 'month', '2004-06-01', 'month', 'https://web.archive.org/web/20030228005309/http://www.cgdev.org/acgd/cgdstaff.html https://www.linkedin.com/in/andrew-stober-178a684/', NULL, NULL, 'Global health and poverty')
     ,('Molly Kinder', 'Center for Global Development', 'Research Assistant', '2002-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20030228005309/http://www.cgdev.org/acgd/cgdstaff.html', NULL, NULL, 'Global health and poverty')
+   ,('Molly Kinder', 'Center for Global Development', 'Senior Policy Analyst', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('J. R. Brandon Bayton', 'Center for Global Development', 'Meetings and Events Coordinator', '2002-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20030228005309/http://www.cgdev.org/acgd/cgdstaff.html', NULL, NULL, 'Global health and poverty')
     ,('Robert Ayres', 'Center for Global Development', 'Non Resident Fellow', '2002-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20030228005309/http://www.cgdev.org/acgd/cgdstaff.html', NULL, NULL, 'Global health and poverty')
     ,('Michael Clemens', 'Center for Global Development', 'Research Fellow', '2002-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20030228005309/http://www.cgdev.org/acgd/cgdstaff.html', NULL, NULL, 'Global health and poverty')
     ,('William Cline', 'Center for Global Development', 'Senior Fellow', '2002-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20030228005309/http://www.cgdev.org/acgd/cgdstaff.html', NULL, NULL, 'Global health and poverty')
+    ,('William Cline', 'Center for Global Development', 'Senior Fellow Emeritu', '2014-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20140209225110/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
     ,('Prarthna Dayal', 'Center for Global Development', 'Research Assistant', '2002-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20030228005309/http://www.cgdev.org/acgd/cgdstaff.html', NULL, NULL, 'Global health and poverty')
     ,('Brian Deese', 'Center for Global Development', 'Research Assistant', '2002-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20030228005309/http://www.cgdev.org/acgd/cgdstaff.html', NULL, NULL, 'Global health and poverty')
     ,('William Easterly', 'Center for Global Development', 'Senior Fellow', '2002-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20030228005309/http://www.cgdev.org/acgd/cgdstaff.html', NULL, NULL, 'Global health and poverty')
@@ -58,6 +60,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('María Beatriz Orlando', 'Center for Global Development', 'Research Associate', '2002-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20030228005309/http://www.cgdev.org/acgd/cgdstaff.html', NULL, NULL, 'Global health and poverty')
     ,('Ceren Ozer', 'Center for Global Development', 'Research Assistant', '2002-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20030228005309/http://www.cgdev.org/acgd/cgdstaff.html', NULL, NULL, 'Global health and poverty')
     ,('Lant Pritchett', 'Center for Global Development', 'Non-Resident Fellow', '2002-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20030228005309/http://www.cgdev.org/acgd/cgdstaff.html', NULL, NULL, 'Global health and poverty')
+    ,('Lant Pritchett', 'Center for Global Development', 'Resident Fellow', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Steven Radelet', 'Center for Global Development', 'Senior Fellow', '2002-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20030228005309/http://www.cgdev.org/acgd/cgdstaff.html', NULL, NULL, 'Global health and poverty')
     ,('Liliana Rojas-Suarez', 'Center for Global Development', 'Non-Resident Senior Fellow', '2002-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20030228005309/http://www.cgdev.org/acgd/cgdstaff.html', NULL, NULL, 'Global health and poverty')
     ,('David Roodman', 'Center for Global Development', 'Research Fellow', '2002-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20030228005309/http://www.cgdev.org/acgd/cgdstaff.html', NULL, NULL, 'Global health and poverty')
@@ -67,6 +70,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Rikhil Bhavnani', 'Center for Global Development', 'Research Assistant', '2003-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20031219142421/http://www.cgdev.org/acgd/cgdstaff.html', NULL, NULL, 'Global health and poverty')
     ,('Gargee Ghosh', 'Center for Global Development', 'Policy Analyst', '2003-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20031219142421/http://www.cgdev.org/acgd/cgdstaff.html', NULL, NULL, 'Global health and poverty')
     ,('Todd Moss', 'Center for Global Development', 'Research Fellow', '2003-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20031219142421/http://www.cgdev.org/acgd/cgdstaff.html', NULL, NULL, 'Global health and poverty')
+    ,('Todd Moss', 'Center for Global Development', 'Research Staff', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty') 
+    ,('Todd Moss', 'Center for Global Development', 'Vice President for Corporate Affairs, and Senior Fellow', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty') 
     ,('Sandip Sukhtankar', 'Center for Global Development', 'Research Assistant', '2003-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20031219142421/http://www.cgdev.org/acgd/cgdstaff.html', NULL, NULL, 'Global health and poverty')
     ,('Jeremy Weinstein', 'Center for Global Development', 'Research Fellow', '2003-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20031219142421/http://www.cgdev.org/acgd/cgdstaff.html', NULL, NULL, 'Global health and poverty')
     ,('Kevin Watkins', 'Center for Global Development', 'Board of Director', '2003-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20031212081916/http://www.cgdev.org/acgd/boarddirectors.html', NULL, NULL, 'Global health and poverty')
@@ -85,9 +90,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Wendell Mottley', 'Center for Global Development', 'Visiting Fellow', '2004-04-01', 'year', NULL, NULL, 'https://web.archive.org/web/20040406123952if_/http://www.cgdev.org/About/?Page=Staff', NULL, NULL, 'Global health and poverty')
     ,('Peter Timmer', 'Center for Global Development', 'Senior Fellow', '2004-04-01', 'year', NULL, NULL, 'https://web.archive.org/web/20040406123952if_/http://www.cgdev.org/About/?Page=Staff', NULL, NULL, 'Global health and poverty')
     ,('Milan Vaishnav', 'Center for Global Development', 'Research Assistant', '2004-04-01', 'year', NULL, NULL, 'https://web.archive.org/web/20040406123952if_/http://www.cgdev.org/About/?Page=Staff', NULL, NULL, 'Global health and poverty')
+    ,('Milan Vaishnav', 'Center for Global Development', 'Visiting Senior Associate', '2010-11-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Andrew Warner', 'Center for Global Development', 'Visiting Fellow', '2004-04-01', 'year', NULL, NULL, 'https://web.archive.org/web/20040406123952if_/http://www.cgdev.org/About/?Page=Staff', NULL, NULL, 'Global health and poverty')
     ,('Sheila Basey', 'Center for Global Development', 'Executive Assistant', '2005-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20050206140720if_/http://www.cgdev.org/About/index.cfm?Page=Staff', NULL, NULL, 'Global health and poverty')
     ,('Sarah Dean', 'Center for Global Development', 'Events Coordinator', '2005-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20050206140720if_/http://www.cgdev.org/About/index.cfm?Page=Staff', NULL, NULL, 'Global health and poverty')
+    ,('Lawrence MacDonald', 'Center for Global Development', 'Vice President, Communications and Policy Outreach', '2009-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20090208030935/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Lawrence MacDonald', 'Center for Global Development', 'Director, Communications and Policy', '2005-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20050206140720if_/http://www.cgdev.org/About/index.cfm?Page=Staff', NULL, NULL, 'Global health and poverty')
     ,('Jessica Bartlett', 'Center for Global Development', 'Administrative Assistant', '2005-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20050206140720if_/http://www.cgdev.org/About/index.cfm?Page=Staff', NULL, NULL, 'Global health and poverty')
     ,('Owen Barder', 'Center for Global Development', 'Senior Program Associate', '2005-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20050206140720if_/http://www.cgdev.org/About/index.cfm?Page=Staff', NULL, NULL, 'Global health and poverty')
@@ -128,6 +135,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jessica Pickett', 'Center for Global Development', 'Program Coordinator', '2006-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20061218022257/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Mead Over', 'Center for Global Development', 'Senior Fellow', '2006-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20061218022257/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('David Wheeler', 'Center for Global Development', 'Senior Fellow', '2006-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20061218022257/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('David Wheeler', 'Center for Global Development', 'Senior Fellow Emeritu', '2014-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20140209225110/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
     ,('David Goldsbrough', 'Center for Global Development', 'Visiting Fellow', '2006-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20061218022257/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Simon Johnson', 'Center for Global Development', 'Visiting Fellow', '2006-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20061218022257/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Marlaine Lockheed', 'Center for Global Development', 'Visiting Fellow', '2006-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20061218022257/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
@@ -139,8 +147,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Arvind Nair', 'Center for Global Development', 'Research Assistant', '2006-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20061218022257/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Christine Park', 'Center for Global Development', 'Research Assistant', '2006-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20061218022257/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Sarah Rose', 'Center for Global Development', 'Research Assistant', '2006-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20061218022257/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Sarah Rose', 'Center for Global Development', 'Senior Policy Analyst', '2013-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130116191335/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Kevin Ummel', 'Center for Global Development', 'Research Assistant', '2006-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20061218022257/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Kevin Ummel', 'Center for Global Development', 'Visiting Senior Associate', '2014-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20140209225110/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
     ,('Ellen Mackenzie', 'Center for Global Development', 'Controller', '2007-04-01', 'year', NULL, NULL, 'https://web.archive.org/web/20070407073348/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Ellen Mackenzie', 'Center for Global Development', 'Chief Financial Officer and Director for Operations', '2014-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20140209225110/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
     ,('Rachel Nugent', 'Center for Global Development', 'Controller', '2007-04-01', 'year', NULL, NULL, 'https://web.archive.org/web/20070407073348/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('April Harding', 'Center for Global Development', 'Visiting Fellow', '2007-04-01', 'year', NULL, NULL, 'https://web.archive.org/web/20070407073348/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Jeremy Shiffman', 'Center for Global Development', 'Visiting Fellow', '2007-04-01', 'year', NULL, NULL, 'https://web.archive.org/web/20070407073348/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
@@ -155,9 +166,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Ben Edwards', 'Center for Global Development', 'Web and Media Assistant', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Dave Colner', 'Center for Global Development', 'Database Manager', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Luke Easley', 'Center for Global Development', 'Office Manager', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Luke Easley', 'Center for Global Development', 'Deputy Director of Finance and Human Resources', '2013-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130116191335/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Danielle Kuczynski', 'Center for Global Development', 'Program Coordinator', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Steve Rosenzweig', 'Center for Global Development', 'Program Coordinator', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Steve Rosenzweig', 'Center for Global Development', 'Intern', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Cindy Prieto', 'Center for Global Development', 'Intern', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Cindy Prieto', 'Center for Global Development', 'Program Coordinator', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Juliette Seban', 'Center for Global Development', 'Intern', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
     ,('Amy Quinn', 'Center for Global Development', 'Intern', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
     ,('Rebecca Schutte', 'Center for Global Development', 'Research Assistant', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
@@ -167,8 +181,319 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Joel Meister', 'Center for Global Development', 'Outreach and Policy Assistant', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('John Osterman', 'Center for Global Development', 'Publications Coordinator', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Anna Doctors', 'Center for Global Development', 'Office Manager', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
-    ,('David Witzel', 'Center for Global Development', 'Office Manager', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('David Witzel', 'Center for Global Development', 'Visiting Senior Program Associate', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Jean Arkedis', 'Center for Global Development', 'Intern', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Robert Fuentes', 'Center for Global Development', 'Intern', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Matthew Greco', 'Center for Global Development', 'Intern', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Jane Pennebaker', 'Center for Global Development', 'Intern', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Michelle Swearingen', 'Center for Global Development', 'Intern', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Dillon Alleyne', 'Center for Global Development', 'Visiting Fellow', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('John Gibson', 'Center for Global Development', 'Visiting Fellow', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Nancy Lee', 'Center for Global Development', 'Visiting Fellow', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Guillermo Perry', 'Center for Global Development', 'Non-Resident Fellow', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Leda Basombrio', 'Center for Global Development', 'Research Assistant', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Amy Crone', 'Center for Global Development', 'Research Assistant', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Amy Crone', 'Center for Global Development', 'Research and Policy Analyst', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Martina Tonizzo', 'Center for Global Development', 'Research Assistant', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Matt Hoffman', 'Center for Global Development', 'Research Assistant', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Julia Sekkel', 'Center for Global Development', 'Research Assistant', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Dan Hammer', 'Center for Global Development', 'Research Assistant', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Paolo Abarcar', 'Center for Global Development', 'Research Assistant', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Tom Slayton', 'Center for Global Development', 'Visiting Fellow', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('William Savedoff', 'Center for Global Development', 'Visiting Fellow', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('William Savedoff', 'Center for Global Development', 'Resident Fellow', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Nora Lustig', 'Center for Global Development', 'Visiting Fellow', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Jenny Aker', 'Center for Global Development', 'Visiting Fellow', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Elisa Rothenbuhler', 'Center for Global Development', 'Intern', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Emily Paul', 'Center for Global Development', 'Intern', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Emily Paul', 'Center for Global Development', 'Institutional Advancement Assistant', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')  
+    ,('Laura Drachsler', 'Center for Global Development', 'Intern', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('David Wendt', 'Center for Global Development', 'Policy Analyst', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Scott Kniaz', 'Center for Global Development', 'Program Coordinator', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Kristie Latulippe', 'Center for Global Development', 'Program Coordinator', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Randall Soderquist', 'Center for Global Development', 'Senior Trade Program Associate', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Fernando Cuervo', 'Center for Global Development', 'Information Technology Systems Administrator', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')  
+    ,('Dave Terpeny', 'Center for Global Development', 'Online Communications and Strategy Manager', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Casey Otto', 'Center for Global Development', 'Special Assistant to the Executive Office', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Ayah Mahgoub', 'Center for Global Development', 'Program Coordinator to the President', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Peter Gardner', 'Center for Global Development', 'Special Assistant to the President', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty') 
+    ,('Lindsay Coshatt', 'Center for Global Development', 'Assistant to the President', '2008-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20081219233512/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Sarah Marchal Murray', 'Center for Global Development', 'Deputy Director of Institutional Advancement', '2008-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20080511201157/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty') 
+    ,('Dana Alsen', 'Center for Global Development', 'Office Manager', '2009-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20090208030935/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')  
+    ,('Dana Alsen', 'Center for Global Development', 'Executive Assistant', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')  
+    ,('Lauren Konopacz', 'Center for Global Development', 'Intern', '2009-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20090208030935/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Timo Mahn', 'Center for Global Development', 'Intern', '2009-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20090208030935/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')  
+    ,('Lauren Young', 'Center for Global Development', 'Research Assistant', '2009-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20090208030935/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Owen McCarthy', 'Center for Global Development', 'Research Assistant', '2009-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20090208030935/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Veronica Gonzales', 'Center for Global Development', 'Research Assistant', '2009-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20090208030935/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty') 
+    ,('Desmond Bermingham', 'Center for Global Development', 'Visiting Fellow', '2009-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20090208030935/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('John Simon', 'Center for Global Development', 'Visiting Fellow', '2009-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20090208030935/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Jan von der Goltz', 'Center for Global Development', 'Visiting Senior Associate', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Katherine Douglas', 'Center for Global Development', 'Program Coordinator', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Katherine Douglas', 'Center for Global Development', 'Special Assistant to the President', '2010-11-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Christina Droggitis', 'Center for Global Development', 'Program Coordinator', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Katie Stein', 'Center for Global Development', 'Program Coordinator', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Sandy Stonesifer', 'Center for Global Development', 'Program Coordinator', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Wren Elhai', 'Center for Global Development', 'Communications and Research Assistant', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Kaci Farrell', 'Center for Global Development', 'Outreach and Policy Assistant', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Steve Perlow', 'Center for Global Development', 'Web Technology Manager', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Aaron Hoffmeyer', 'Center for Global Development', 'Database and Constituent Coordinator', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Aaron Hoffmeyer', 'Center for Global Development', 'Constituent Relations Coordinator', '2011-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Andy Phan', 'Center for Global Development', 'Office Manager', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Sam Reyes', 'Center for Global Development', 'Systems Administrator', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Rita Perakis', 'Center for Global Development', 'Program Coordinator to the President', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Julia Barmeier', 'Center for Global Development', 'Research Assistant', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Caroline Decker', 'Center for Global Development', 'Research Assistant', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Casey Dunning', 'Center for Global Development', 'Research Assistant', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Casey Dunning', 'Center for Global Development', 'Senior Policy Analyst', '2014-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20140209225110/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
+    ,('Lauren Aiken', 'Center for Global Development', 'Intern', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Mark Eisinger', 'Center for Global Development', 'Intern', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Abhijit Banerjee', 'Center for Global Development', 'Non-Resident Fellow', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Pranab Bardhan', 'Center for Global Development', 'Non-Resident Fellow', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Dean Karlan', 'Center for Global Development', 'Non-Resident Fellow', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Paul Romer', 'Center for Global Development', 'Non-Resident Fellow', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Raymond Robertson', 'Center for Global Development', 'Non-Resident Fellow', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Duncan Thomas', 'Center for Global Development', 'Non-Resident Fellow', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('John Williamson', 'Center for Global Development', 'Visiting Fellow', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Nuhu Ribadu', 'Center for Global Development', 'Visiting Fellow', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Andrew Natsios', 'Center for Global Development', 'Visiting Fellow', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Darius Nassiry', 'Center for Global Development', 'Visiting Fellow', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Julius Kiiza', 'Center for Global Development', 'Visiting Fellow', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Rena Eichler', 'Center for Global Development', 'Visiting Fellow', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Oeindrila Dube', 'Center for Global Development', 'Visiting Fellow', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Oeindrila Dube', 'Center for Global Development', 'Non-Resident Fellow', '2010-11-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Satish Chand', 'Center for Global Development', 'Visiting Fellow', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Thomas Bollyky', 'Center for Global Development', 'Visiting Fellow', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Owen Barder', 'Center for Global Development', 'Visiting Fellow', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Ben Leo', 'Center for Global Development', 'Resident Fellow', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Ben Leo', 'Center for Global Development', 'Director of Rethinking US Foreign Assistance Program and Senior Fellow', '2014-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20140209225110/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
+    ,('Alan Gelb', 'Center for Global Development', 'Resident Fellow', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Amanda Glassman', 'Center for Global Development', 'Director of Global Health Policy, and Research Fellow', '2010-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Connie Veillette', 'Center for Global Development', 'Director, Rethinking U.S. Foreign Assistance Program', '2010-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Jessica Brinton', 'Center for Global Development', 'Media Relations Coordinator', '2010-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Allysun Jackson', 'Center for Global Development', 'Events Coordinator', '2010-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Elvira S. Bustamante', 'Center for Global Development', 'Executive Assistant', '2010-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Jeremy Bennett', 'Center for Global Development', 'Research Assistant', '2010-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Stephanie Majerowicz', 'Center for Global Development', 'Research Assistant', '2010-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Pronita Saxena', 'Center for Global Development', 'Research Assistant', '2010-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Ross Thuotte', 'Center for Global Development', 'Research Assistant', '2010-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Tejaswi Velayudhan', 'Center for Global Development', 'Research Assistant', '2010-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Julie Walz', 'Center for Global Development', 'Research Assistant', '2010-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Julie Walz', 'Center for Global Development', 'Policy Analyst', '2013-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130116191335/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Graham Bocking', 'Center for Global Development', 'Intern', '2010-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Robin Comisar', 'Center for Global Development', 'Intern', '2010-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Fatma Shaaban', 'Center for Global Development', 'Intern', '2010-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Katie Stewart', 'Center for Global Development', 'Intern', '2010-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Simeon Nichter', 'Center for Global Development', 'Non-Resident Fellow', '2010-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Edward Bbaale', 'Center for Global Development', 'Visiting Fellow', '2010-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Ibrahim Elbadawi', 'Center for Global Development', 'Visiting Fellow', '2010-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Hrushikesh Mallick', 'Center for Global Development', 'Visiting Fellow', '2010-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Charles Kenny', 'Center for Global Development', 'Resident Fellow', '2010-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20101125071713/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Michele de Nevers', 'Center for Global Development', 'Visiting Senior Associate', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Julia Clark', 'Center for Global Development', 'Program Coordinator', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Danny Cutherell', 'Center for Global Development', 'Policy Analyst', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Kate McQueston', 'Center for Global Development', 'Program Coordinator', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Kyla Lawrence', 'Center for Global Development', 'Events Coordinator', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Will McKitterick', 'Center for Global Development', 'Communications Assistant', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Will McKitterick', 'Center for Global Development', 'Research Assistant', '2012-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120106011913/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Christopher Molitoris', 'Center for Global Development', 'Policy Outreach Assistant', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Jenny Ottenhoff', 'Center for Global Development', 'Policy Outreach Associate', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Charlie Rong', 'Center for Global Development', 'Office Manager', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Katherine Douglas Martel', 'Center for Global Development', 'Institutional Advancement Associate', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Annie Malknecht', 'Center for Global Development', 'Assistant to the President', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Emily Putze', 'Center for Global Development', 'Special Assistant to the President', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Liza Reynolds', 'Center for Global Development', 'Special Assistant to the President', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Liza Reynolds', 'Center for Global Development', 'Program Associate', '2013-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130116191335/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Ted Collins', 'Center for Global Development', 'Research Assistant', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Denizhan Duran', 'Center for Global Development', 'Research Assistant', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Jake Grover', 'Center for Global Development', 'Research Assistant', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Jonathan Karver', 'Center for Global Development', 'Research Assistant', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')      
+    ,('Rachel Silverman', 'Center for Global Development', 'Research Assistant', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Alexandra Beizan-Diaz', 'Center for Global Development', 'Intern', '2011-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Ruth Summers', 'Center for Global Development', 'Intern', '2011-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Tara Templin', 'Center for Global Development', 'Intern', '2011-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')   
+    ,('Justin Sandefur', 'Center for Global Development', 'Resident Fellow', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Arvind Subramanian', 'Center for Global Development', 'Resident Fellow', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Randall Akee', 'Center for Global Development', 'Visiting Fellow', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Andy Sumner', 'Center for Global Development', 'Visiting Fellow', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Sendhil Mullainathan', 'Center for Global Development', 'Non-Resident Fellow', '2011-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Alexandra Gordon', 'Center for Global Development', 'Communications Assistant', '2012-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120106011913/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty') 
+    ,('Michael Watkins', 'Center for Global Development', 'Web Technology Manager', '2012-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120106011913/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Victoria Fan', 'Center for Global Development', 'Resident Fellow', '2012-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120106011913/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')     
+    ,('Anna Moran', 'Center for Global Development', 'Web Technology Manager', '2012-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120106011913/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Enrique Rueda-Sabater', 'Center for Global Development', 'Visiting Fellow', '2012-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120106011913/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Youssoufou Congo', 'Center for Global Development', 'Visiting Fellow', '2012-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120106011913/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Maria Alejandra Amado', 'Center for Global Development', 'Research Assistant', '2012-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120106011913/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Nigel Purvis', 'Center for Global Development', 'Visiting Senior Associate', '2012-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120501050212/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Anna Scott', 'Center for Global Development', 'Program Assistant', '2012-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120501050212/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Catherine An', 'Center for Global Development', 'Media Relations Associate', '2012-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120501050212/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Aaron King', 'Center for Global Development', 'Communications Assistant', '2012-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120501050212/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Christian Meyer', 'Center for Global Development', 'Research Assistant', '2012-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120501050212/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Alli Blount', 'Center for Global Development', 'Intern', '2012-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120501050212/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Amaka Okechukwu', 'Center for Global Development', 'Intern', '2012-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120501050212/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')               
+    ,('Francis Fukuyama', 'Center for Global Development', 'Non-Resident Fellow', '2012-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120501050212/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Carola Pessino', 'Center for Global Development', 'Visiting Fellow', '2012-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120501050212/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Alexis Sowa', 'Center for Global Development', 'Senior Policy Analyst', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')     
+    ,('Sarah Jane Staats', 'Center for Global Development', 'Director, Rethinking U.S. Foreign Assistance Program', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Sarah Jane Staats', 'Center for Global Development', 'Director of Policy Outreach', '2012-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120501050212/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')           
+    ,('Marla Spivack', 'Center for Global Development', 'Director, Rethinking U.S. Foreign Assistance Program', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Beth Schwanke', 'Center for Global Development', 'Senior Associate for Policy Outreach', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Jessica Carsten', 'Center for Global Development', 'Research Assistant', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Sarah Dykstra', 'Center for Global Development', 'Research Assistant', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Carlos Aramayo', 'Center for Global Development', 'Intern', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Casey Friedman', 'Center for Global Development', 'Intern', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Anna Sosdian', 'Center for Global Development', 'Intern', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Anita Tung', 'Center for Global Development', 'Intern', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Jing Cao', 'Center for Global Development', 'Non-Resident Fellow', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Pretap Mehta', 'Center for Global Development', 'Non-Resident Fellow', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Ashoka Mody', 'Center for Global Development', 'Non-Resident Fellow', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Billy Pizer', 'Center for Global Development', 'Non-Resident Fellow', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Kate Almquist', 'Center for Global Development', 'Visiting Fellow', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Matt Andrews', 'Center for Global Development', 'Visiting Fellow', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Alejandro Foxley', 'Center for Global Development', 'Visiting Fellow', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Orin Levine', 'Center for Global Development', 'Visiting Fellow', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Clay Lowery', 'Center for Global Development', 'Visiting Fellow', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('John May', 'Center for Global Development', 'Visiting Fellow', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Laura Paler', 'Center for Global Development', 'Visiting Fellow', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Franck Wiebe', 'Center for Global Development', 'Visiting Fellow', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Andrew Zeitlin', 'Center for Global Development', 'Visiting Fellow', '2012-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120928112825/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Jenny Kendra', 'Center for Global Development', 'Special Assistant', '2013-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130116191335/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Michael Brown', 'Center for Global Development', 'Information Technology Manager', '2013-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130116191335/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Brenda Tobin', 'Center for Global Development', 'Executive Assistant to the President', '2013-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130116191335/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Chun-Wing Tse', 'Center for Global Development', 'Visiting Fellow', '2013-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130116191335/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Dennis Whittle', 'Center for Global Development', 'Visiting Fellow', '2013-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130116191335/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Petra Krylová', 'Center for Global Development', 'Program Coordinator', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
+    ,('Maria Cecilia Ramirez', 'Center for Global Development', 'Program Coordinator', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
+    ,('Clare Waite', 'Center for Global Development', 'Head of External Relations in Europe', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
+    ,('Erin Collinson', 'Center for Global Development', 'Policy Outreach Associate', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
+    ,('Ney Flores', 'Center for Global Development', 'Web Technology Manager', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
+    ,('Kristina Wilson', 'Center for Global Development', 'Communications Assistant', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
+    ,('Dawn Draayer', 'Center for Global Development', 'Major Gifts Officer', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
+    ,('David Park', 'Center for Global Development', 'Administrative Assistant to the Executive Office', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
+    ,('Albert Alwang', 'Center for Global Development', 'Research Assistant', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
+    ,('Jens Engelmann', 'Center for Global Development', 'Research Assistant', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
+    ,('Madeleine Gleave', 'Center for Global Development', 'Research Assistant', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
+    ,('Nabil Hashmi', 'Center for Global Development', 'Research Assistant', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
+    ,('Rifaiyat Mahbub', 'Center for Global Development', 'Research Assistant', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
+    ,('Christian J. Meyer', 'Center for Global Development', 'Research Assistant', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
+    ,('Sneha Raghavan', 'Center for Global Development', 'Research Assistant', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
+    ,('Yuna Sakuma', 'Center for Global Development', 'Research Assistant', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
+    ,('Sophia Bernazzani', 'Center for Global Development', 'Intern', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, 'Intern', 'Global health and poverty')
+    ,('Sulayman Gibba', 'Center for Global Development', 'Intern', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, 'Intern', 'Global health and poverty')                                                                
+    ,('Sulayman Gibba', 'Center for Global Development', 'IT Support Specialist', '2014-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20140209225110/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')                                                                
+    ,('Nick Gibian', 'Center for Global Development', 'Intern', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, 'Intern', 'Global health and poverty')                                                                
+    ,('Alex Cobham', 'Center for Global Development', 'Resident Fellow', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')                                                            
+    ,('Frances Seymour', 'Center for Global Development', 'Resident Fellow', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')                                                            
+    ,('Willa Friedman', 'Center for Global Development', 'Visiting Fellow', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')                                                            
+    ,('Scott Morris', 'Center for Global Development', 'Visiting Fellow', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')                                                            
+    ,('Scott Morris', 'Center for Global Development', 'Senior Associate', '2014-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20140209225110/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')                                                            
+    ,('Jessica Goldberg', 'Center for Global Development', 'Non-Resident Fellow', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')                                                            
+    ,('Ravi Kanbur', 'Center for Global Development', 'Non-Resident Fellow', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')                                                            
+    ,('Sara del Fierro', 'Center for Global Development', 'Program Assistant', '2014-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20140209225110/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')                                                            
+    ,('Matthew Kelleher', 'Center for Global Development', 'Office Assistant', '2014-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20140209225110/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')                                                            
+    ,('Mercedes Pepper', 'Center for Global Development', 'Institutional Advancement Associate', '2014-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20140209225110/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')                                                            
+    ,('Kalifi Ferretti', 'Center for Global Development', 'Research Assistant', '2014-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20140209225110/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')                                                            
+    ,('Robert Morello', 'Center for Global Development', 'Research Assistant', '2014-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20140209225110/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')                                                            
+    ,('Kevin Diasti', 'Center for Global Development', 'Intern', '2014-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20140209225110/http://www.cgdev.org/page/staff', NULL, 'Intern', 'Global health and poverty')         
+    ,('Scott Weathers', 'Center for Global Development', 'Intern', '2014-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20140209225110/http://www.cgdev.org/page/staff', NULL, 'Intern', 'Global health and poverty')          
+    ,('Jonah Busch', 'Center for Global Development', 'Resident Fellow', '2014-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20140209225110/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')                                                                                                              
+    ,('Tendai Biti', 'Center for Global Development', 'Visiting Fellow', '2014-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20140209225110/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')                                                                                                              
+    ,('Matt Collin', 'Center for Global Development', 'Visiting Fellow', '2014-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20140209225110/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')                                                                                                              
+    ,('Hiroaki Matsuura', 'Center for Global Development', 'Visiting Fellow', '2014-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20140209225110/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')                                                                                                              
+    ,('Dan Morrow', 'Center for Global Development', 'Visiting Fellow', '2014-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20140209225110/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')                                                                                                              
+    ,('Mujobu Moyo', 'Center for Global Development', 'Visiting Fellow', '2014-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20140209225110/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')                                                                                                              
+    ,('Mujobu Moyo', 'Center for Global Development', 'Visiting Fellow', '2014-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20140209225110/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')                                                                                                              
+                                                                                             
+                                 
+                                    
+                                 
+                                
+                
+                     
+                
  
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
