@@ -77,4 +77,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* cause_area */
         'Muehlhauser gives thoughts on applying to effective altruist organizations. He encourages people to not worry about wasting organizations’ time reviewing applications.' /* notes */
     )
+    ,(
+        'https://www.openphilanthropy.org/blog/our-approach-recruiting-strong-team', /* url */
+        'Our Approach to Recruiting a Strong Team', /* title */
+        '2021-01-05', /* publication_date */
+        NULL, /* modified_date */
+        'Anya Hunt', /* author */
+        'Open Philanthropy', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        NULL, /* document_scope */
+        NULL, /* cause_area */
+        'Open Philanthropy’s Recruiting Manager Anya Hunt discusses with Michael Levine about Open Philanthropy’s approach to recruiting, the role of work tests in the application process, and measures Open Phil is taking to diversify their pipeline and attract talent from different communities.' /* notes */
+    )
 ;
