@@ -465,7 +465,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* affected_people */
 	'Third-party commentary on organization', /* document_scope */
         'AI safety', /* cause_area */
-        'LessWrong user mingyuan posts a summary of discussions around her previous post titled The rationalist community's location problem. mingyuan also provides additional data and gives her thoughts on what she thinks the community should do.' /* notes */
+        'LessWrong user mingyuan posts a summary of discussions around her previous post titled The rationalist community''s location problem. mingyuan also provides additional data and gives her thoughts on what she thinks the community should do.' /* notes */
     )
 ;
 
