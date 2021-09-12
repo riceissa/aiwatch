@@ -454,4 +454,22 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI safety', /* cause_area */
         'The post argues that (lack of) academic endorsement of the work done by MIRI should not be an important factor in evaluating MIRI, offering three reasons. Commenters include Rob Bensinger, Research Communications Manager at MIRI.' /* notes */
     )
+    ,(
+        'https://lw2.issarice.com/posts/i3FyT3Gvst8pFX7gE/location-discussion-takeaways', /* url */
+        'Location Discussion Takeaways', /* title */
+        '2020-11-02', /* publication_date */
+        NULL, /* modified_date */
+        'mingyuan', /* author */
+        'LessWrong 2.0 Reader', /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+        NULL, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'LessWrong user mingyuan posts a summary of discussions around her previous post titled The rationalist community''s location problem. mingyuan also provides additional data and gives her thoughts on what she thinks the community should do.' /* notes */
+    )
 ;
+
+
+
+
+
