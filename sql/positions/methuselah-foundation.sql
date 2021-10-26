@@ -33,7 +33,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Paolo De Coppi', 'Methuselah Foundation', 'Advisor', '2014-12-01', NULL, NULL, NULL, 'https://web.archive.org/web/20141218185955/http://mfoundation.org/about#people', NULL, 'Advisor', 'Longevity')
     ,('Gabor Forgacs', 'Methuselah Foundation', 'Advisor', '2014-12-01', NULL, NULL, NULL, 'https://web.archive.org/web/20141218185955/http://mfoundation.org/about#people', NULL, 'Advisor', 'Longevity')
     ,('Wolfram Goessling', 'Methuselah Foundation', 'Advisor', '2014-12-01', NULL, NULL, NULL, 'https://web.archive.org/web/20141218185955/http://mfoundation.org/about#people', NULL, 'Advisor', 'Longevity')
-    ,('Jonathan Epstein', 'Methuselah Foundation', 'Advisor', ''2014-12-01', NULL, NULL, NULL, 'https://web.archive.org/web/20141218185955/http://mfoundation.org/about#people', NULL, 'Advisor', 'Longevity')
+    ,('Jonathan Epstein', 'Methuselah Foundation', 'Advisor', '2014-12-01', NULL, NULL, NULL, 'https://web.archive.org/web/20141218185955/http://mfoundation.org/about#people', NULL, 'Advisor', 'Longevity')
     ,('Valerie Gouon Evans', 'Methuselah Foundation', 'Advisor', '2014-12-01', NULL, NULL, NULL, 'https://web.archive.org/web/20141218185955/http://mfoundation.org/about#people', NULL, 'Advisor', 'Longevity')
     ,('Armand Keating', 'Methuselah Foundation', 'Advisor', '2014-12-01', NULL, NULL, NULL, 'https://web.archive.org/web/20141218185955/http://mfoundation.org/about#people', NULL, 'Advisor', 'Longevity')
     ,('Eric Lagasse', 'Methuselah Foundation', 'Advisor', '2014-12-01', NULL, NULL, NULL, 'https://web.archive.org/web/20141218185955/http://mfoundation.org/about#people', NULL, 'Advisor', 'Longevity')
