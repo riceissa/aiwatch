@@ -1,5 +1,5 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
-    ('Holden Karnofsky','GiveWell','Executive Director','2006-08-01','month','2007-06-01','month','https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people','He switched from part-time to full-time work on GiveWell in “mid-2007”.','part-time','Global health and poverty')
+     ('Holden Karnofsky','GiveWell','Executive Director','2006-08-01','month','2007-06-01','month','https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people','He switched from part-time to full-time work on GiveWell in “mid-2007”.','part-time','Global health and poverty')
     ,('Holden Karnofsky','GiveWell','Executive Director','2007-06-01','month','2017-06-01','month','https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people https://web.archive.org/web/20170615161652/https://www.givewell.org/about/people','He switched from part-time to full-time work on GiveWell in “mid-2007”.','full-time','Global health and poverty')
     ,('Elie Hassenfeld','GiveWell','Executive Director','2006-08-01','month','2007-08-01','month','https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people',NULL,'part-time','Global health and poverty')
     ,('Elie Hassenfeld','GiveWell','Executive Director','2007-08-01','month',NULL,NULL,'https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people',NULL,'full-time','Global health and poverty')
@@ -164,4 +164,13 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Stephanie Stojanovic','GiveWell','Major Gifts Officer','2019-04-01','month',NULL,NULL,NULL,NULL,'full-time','Global health and poverty')
     ,('Tom Sittler','GiveWell','Research Analyst','2019-05-11','month',NULL,NULL,NULL,NULL,'full-time','Global health and poverty')
     ,('Michael Eddy','GiveWell','Senior Advisor','2019-06-18','month',NULL,NULL,NULL,NULL,'full-time','Global health and poverty')
-;
+    ,('Timothy Ogden','GiveWell','Directors','2021-01-01', NULL,NULL,NULL, 'https://web.archive.org/web/20211111024251/https://www.givewell.org/about/people', NULL,'Board Member','Global health and poverty')
+    ,('Norma Altshuler','GiveWell','Directors','2021-01-01', NULL,NULL,NULL, 'https://web.archive.org/web/20211111024251/https://www.givewell.org/about/people', NULL,'Board Member','Global health and poverty')
+    ,('Zoe Mahony','GiveWell', 'Content Editor','2021-01-01', NULL,NULL,NULL, 'https://web.archive.org/web/20211111024251/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Willa Gruver','GiveWell', 'Operations Assistant','2021-01-01', NULL,NULL,NULL, 'https://web.archive.org/web/20211111024251/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Willa Gruver','GiveWell', 'Operations Assistant','2021-01-01', NULL,NULL,NULL, 'https://web.archive.org/web/20211111024251/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+
+
+
+
+
