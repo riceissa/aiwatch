@@ -1,4 +1,5 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
+
      ('Andrew Critch','Berkeley Existential Risk Initiative','Executive Director','2017-02-01','month',NULL,NULL,'https://web.archive.org/web/20170317050259/http://existence.org/ http://existence.org/08-2017-semi-annual-report.pdf',NULL,'GCR organization',NULL,NULL,'AI safety')
     ,('Kenzi Amodei','Berkeley Existential Risk Initiative','Interim Deputy Director','2017-07-01','month','2018-03-08','month','http://existence.org/team/ http://existence.org/08-2017-semi-annual-report.pdf https://web.archive.org/web/20180308063244/http://existence.org/team/',NULL,'GCR organization',NULL,NULL,'AI safety')
     ,('Kenzi Amodei','Berkeley Existential Risk Initiative','Deputy Director','2017-05-01','month',NULL,NULL,'https://www.linkedin.com/in/kenzi-amodei-28b30111/',NULL,NULL,NULL,NULL,'AI safety') 
