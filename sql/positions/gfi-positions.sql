@@ -2,7 +2,7 @@
 
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
 
-     ('Brian Kateman','The Good Food Institute','Innovation Manager','2016-05-09','month','2016-07-29','month','https://github.com/riceissa/gfi-positions/blob/master/data/2016-05-09.html https://github.com/riceissa/gfi-positions/blob/master/data/2016-07-29.html',NULL,NULL,'Animal welfare')
+    ('Brian Kateman','The Good Food Institute','Innovation Manager','2016-05-09','month','2016-07-29','month','https://github.com/riceissa/gfi-positions/blob/master/data/2016-05-09.html https://github.com/riceissa/gfi-positions/blob/master/data/2016-07-29.html',NULL,NULL,'Animal welfare')
     ,('Reannon Branchesi','The Good Food Institute','Executive Assistant','2016-05-27','month','2016-09-15','month','https://github.com/riceissa/gfi-positions/blob/master/data/2016-06-27.html https://github.com/riceissa/gfi-positions/blob/master/data/2016-10-15.html https://www.linkedin.com/in/reannon-branchesi-838b5614/',NULL,NULL,'Animal welfare')
     ,('Nicole Cook','The Good Food Institute','Legal Fellow','2016-07-29','month','2017-01-29','month','https://github.com/riceissa/gfi-positions/blob/master/data/2016-07-29.html https://github.com/riceissa/gfi-positions/blob/master/data/2017-01-29.html',NULL,NULL,'Animal welfare')
     ,('Tyler Nemkov','The Good Food Institute','Legal Intern','2016-09-24','month','2017-01-29','month','https://github.com/riceissa/gfi-positions/blob/master/data/2016-09-24.html https://github.com/riceissa/gfi-positions/blob/master/data/2017-01-29.html',NULL,NULL,'Animal welfare')
