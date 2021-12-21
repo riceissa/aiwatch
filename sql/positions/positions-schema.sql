@@ -38,6 +38,6 @@ create table positions(
     subject enum('technical research','software engineering','background','popularization','general','policy','scientific advising','grant investigation','strategy'),
 
     employment_type enum('full-time','part-time','contractor','intern','undergraduate student','graduate student','postdoc','board member','associate','advisor','volunteer','affiliate'),
-    cause_area enum('AI safety','Global health and poverty','Effective altruism','Animal welfare','Cause prioritization', 'Forecasting'),
+    cause_area enum('AI safety','Global health and poverty','Effective altruism','Animal welfare','Cause prioritization', 'Forecasting', 'Longevity'),
     notes varchar(2000) default null
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
