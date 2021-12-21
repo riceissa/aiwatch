@@ -18,6 +18,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ace-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ai-challenge.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/aiimpacts-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/albert-schweitzer-foundation.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/amf-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/animal-advocacy-africa.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/anthropic-positions.sql
@@ -50,11 +51,13 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/johns-hopkins-center-for-health-security.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/legal-priorities-project.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/leverage-research.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/lifespan-extension-advocacy-foundation.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/Longview-Philanthropy.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/lw2-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/median-group-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/mercy-for-animals.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/metaculus-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/methuselah-foundation.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/miri-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/new-incentives.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/nonlinear-fund.sql
@@ -65,8 +68,11 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/paisri-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/probably-good.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/raising-for-effective-giving.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/redwood-research.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/rethink-charity.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/rethink-priorities.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/sci-foundation.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/sens.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/sentience-institute.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/sentience-politics-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/simon-institute.sql
@@ -74,14 +80,17 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/survival-and-flourishing.org.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/The-Centre-for-Long-Term-Resilience.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/the-humane-league-positions.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/training-for-good.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/utility-farm.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/wasr-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/wild-animal-initiative.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/wild-animal-suffering-research.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_documents.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/80000-hours-doc.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/ace-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/cea-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/cfar-org-docs.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/effective-altruism-foundation-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/general-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/givewell-org-docs.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/organization_docs/impossible-foods-org-docs.sql
