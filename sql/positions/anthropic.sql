@@ -1,5 +1,6 @@
+ insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
  
-     ('Jack Clark','Anthropic','Co-Founder', '2021-01-01', 'month', NULL, NULL,'https://www.linkedin.com/in/jack-clark-5a320317/ https://transformer-circuits.pub/2021/framework/index.html', NULL,'full-time', 'AI safety')
+    ('Jack Clark','Anthropic','Co-Founder', '2021-01-01', 'month', NULL, NULL,'https://www.linkedin.com/in/jack-clark-5a320317/ https://transformer-circuits.pub/2021/framework/index.html', NULL,'full-time', 'AI safety')
     ,('Jackson Kernion','Anthropic','Technical Staff', '2021-11-01', 'month', NULL, NULL,'https://www.linkedin.com/in/jacksonkernion/ https://transformer-circuits.pub/2021/framework/index.html', NULL,'full-time', 'AI safety')
     ,('Anna Chen','Anthropic','Technical Staff', '2021-07-01', 'month', NULL, NULL,'https://www.linkedin.com/in/annaitchen/ https://transformer-circuits.pub/2021/framework/index.html', NULL,'full-time', 'AI safety')
     ,('Liane Lovitt','Anthropic','Senior Policy Analyst', '2021-09-01', 'month', NULL, NULL,'https://www.linkedin.com/in/lianelovitt/ https://transformer-circuits.pub/2021/framework/index.html', NULL, NULL, 'AI safety')
