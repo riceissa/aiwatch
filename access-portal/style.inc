@@ -23,4 +23,11 @@ a.subtracted:link { color: #AF180D; }
 a.subtracted:visited { color: #AF534D; }
 a.changed:link { color: #B19523; }
 a.changed:visited { color: #D8C471; }
+
+body.dark {
+    background-color: #002b36;
+    color: #93a1a1;
+}
+body.dark table { background-color: #073642; }
+body.dark table th { background-color: #1C454F; }
 </style>

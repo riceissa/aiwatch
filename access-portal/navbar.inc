@@ -2,7 +2,8 @@
 $menu_items = array(
   '<a href="/">Home</a>',
   '<a href="/about/">About</a>',
-  '<a href="/compare.php">Compare</a>'
+  '<a href="/compare.php">Compare</a>',
+  '<span id="changeThemeMenu" style="display: none;">Change <a href="#" onclick="change_theme_color()">color</a></span>'
 );
 
 if ($subdomain === "aiwatch") {

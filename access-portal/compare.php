@@ -30,6 +30,7 @@ if (($_REQUEST['by'] ?? '') && ($_REQUEST['for'] ?? '')) {
   <script src="/jquery.min.js"></script>
   <script src="/jquery.tablesorter.js"></script>
   <script src="/anchor.min.js"></script>
+  <script src="change-theme.js"></script>
 <?php include_once("style.inc"); ?>
 <?php include_once("analytics.inc"); ?>
 </head>
@@ -61,6 +62,8 @@ if (($_REQUEST['by'] ?? '') == 'organization') {
 <script>
     $(function(){$("table").tablesorter();});
     anchors.add();
+    document.getElementById('changeThemeMenu').style.display='inline';
+    set_theme_from_cookies();
 </script>
 </body>
 </html>
