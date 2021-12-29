@@ -36,6 +36,10 @@ if (($_REQUEST['by'] ?? '') && ($_REQUEST['for'] ?? '')) {
 </head>
 <body>
 <?php include_once("navbar.inc"); ?>
+  <script>
+    document.getElementById('changeThemeMenu').style.display='inline';
+    set_theme_from_cookies();
+  </script>
 <?php
 include_once("backend/util.inc");
 if (($_REQUEST['by'] ?? '') == 'organization') {
@@ -62,8 +66,6 @@ if (($_REQUEST['by'] ?? '') == 'organization') {
 <script>
     $(function(){$("table").tablesorter();});
     anchors.add();
-    document.getElementById('changeThemeMenu').style.display='inline';
-    set_theme_from_cookies();
 </script>
 </body>
 </html>

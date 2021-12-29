@@ -50,6 +50,10 @@ $site_name = $subdomain === "aiwatch" ? "AI Watch" : "Org Watch";
 </head>
 <body>
 <?php include_once("navbar.inc"); ?>
+  <script>
+    document.getElementById('changeThemeMenu').style.display='inline';
+    set_theme_from_cookies();
+  </script>
 <?php
 include_once("backend/util.inc");
 
@@ -63,8 +67,6 @@ if ($person1 && $person2) {
 <script>
     $(function(){$("table").tablesorter();});
     anchors.add();
-    document.getElementById('changeThemeMenu').style.display='inline';
-    set_theme_from_cookies();
 </script>
 </body>
 </html>
