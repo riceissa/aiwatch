@@ -82,6 +82,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Japhar Muvunyi', 'Give Directly', 'Call Center Manager', '2016-08-01', 'month', '2017-01-01', 'month', 'https://web.archive.org/web/20161029034712/https://givedirectly.org/team https://www.linkedin.com/in/japhar-muvunyi-218485104/', 'Based in Kigali, Rwanda', NULL, 'Global health and poverty')
     ,('Timothee Mwizihire', 'Give Directly', 'Office Administrator', '2016-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20161029034712/https://givedirectly.org/team', NULL, NULL, 'Global health and poverty')
     ,('Jerome Ngoga', 'Give Directly', 'Associate Field Manager', '2016-06-01', 'month', NULL, NULL, 'https://web.archive.org/web/20161029034712/https://givedirectly.org/team https://www.linkedin.com/in/jeromengoga/', 'Based in Kigali, Rwanda', NULL, 'Global health and poverty')
+    ,('Jerome Ngoga', 'Give Directly', 'Data Coordinator', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty')
     ,('Cedric Ntwali', 'Give Directly', 'Associate Field Manager', '2016-10-01', 'month', NULL, NULL, 'https://web.archive.org/web/20161029034712/https://givedirectly.org/team https://www.linkedin.com/in/cedric-ntwali/', 'Based in Rwanda', NULL, 'Global health and poverty')
     ,('Cedric Ntwali', 'Give Directly', 'Field Officer', '2016-07-01', 'month', '2016-10-01', 'month', 'https://www.linkedin.com/in/cedric-ntwali/', 'Based in Rwanda', NULL, 'Global health and poverty')
     ,('Ivan Ntwali', 'Give Directly', 'Country Director', '2016-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20161029034712/https://givedirectly.org/team https://www.linkedin.com/in/ntwaliivan/', 'Based in Kigali, Rwanda', NULL, 'Global health and poverty')
@@ -91,6 +92,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('John Odero', 'Give Directly', 'Special Projects Manager', '2016-11-01', 'month', '2018-04-01', 'month', 'https://www.linkedin.com/in/johnodero/', 'Based in Kisumu, Bomet', 'full-time', 'Global health and poverty')
     ,('John Odero', 'Give Directly', 'Project Manager', '2018-05-01', 'month', '2020-01-01', 'month', 'http://web.archive.org/web/20180626130358/https://www.givedirectly.org/team https://www.linkedin.com/in/johnodero/', NULL, 'full-time', 'Global health and poverty')
     ,('John Odero', 'Give Directly', 'Program Manager', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/johnodero/', 'Based in Kenia', 'full-time', 'Global health and poverty')
+    ,('John Odero', 'Give Directly', 'Senior Manager, Recipient Advocacy', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty')
     ,('Leakey Odongo', 'Give Directly', 'Associate Field Manager', '2016-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20161029034712/https://givedirectly.org/team https://www.linkedin.com/in/leakey-odongo-b62508121/', 'Based in Kenia', NULL, 'Global health and poverty')
     ,('Collins Ogugu', 'Give Directly', 'Associate Field Manager', '2016-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20161029034712/https://givedirectly.org/team https://www.linkedin.com/in/collins-ogugu-92875530/', 'Based in Kisumu, Kenya', 'part-time', 'Global health and poverty')
     ,('Collins Ogugu', 'Give Directly', 'Field Officer', '2014-10-01', 'month', '2015-11-01', 'month', 'https://www.linkedin.com/in/collins-ogugu-92875530/', 'Based in Siaya', 'part-time', 'Global health and poverty')
@@ -184,4 +186,415 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Mark Knapp', 'Give Directly', 'Senior Manager', '2019-07-01', 'month', '2020-10-01', 'month', 'http://web.archive.org/web/20191022231353/https://www.givedirectly.org/team/ https://www.linkedin.com/in/markdavidknapp/', 'Based in Uganda', NULL, 'Global health and poverty') 
     ,('William Howe', 'Give Directly', 'Liberia & Morocco Finance Manager', '2019-01-01', 'year', NULL, NULL, 'http://web.archive.org/web/20191022231353/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
     ,('Annie Kartheiser', 'Give Directly', 'Data Associate', '2019-06-01', 'month', NULL, NULL, 'http://web.archive.org/web/20191022231353/https://www.givedirectly.org/team/ https://www.linkedin.com/in/annie-kartheiser-9a0729109/', 'Based in New York', NULL, 'Global health and poverty') 
+    ,('Bennis Dahn Madave', 'Give Directly', 'Associate Field Manager', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Violet Magoba', 'Give Directly', 'Government Relations Manager', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Sada Malumfashi', 'Give Directly', 'Communications Intern', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Sada Malumfashi', 'Give Directly', 'Communications Intern', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Julie Xia', 'Give Directly', 'Software Engineer', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Catherine Wu', 'Give Directly', 'Director of Product', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Dash Wieland', 'Give Directly', 'Growth Data Analyst', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Jason Watters', 'Give Directly', 'Chief Financial Officer', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('John Wanjau', 'Give Directly', 'Field Manager, Kenya', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Lydiah Wangechi', 'Give Directly', 'Country Director, Kenya', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Ilan Wallentin', 'Give Directly', 'Associate, CEO’s Office', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Andrew Vaziri', 'Give Directly', 'AI Software Engineer, Innovation', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Gabriel Varela', 'Give Directly', 'Data Associate', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Ephrem Uwizeyimana', 'Give Directly', 'Finance Manager, Rwanda', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Graham Tyler', 'Give Directly', 'Sr. Manager, Data/Tech', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Maggie Shun', 'Give Directly', 'Senior Manager, Humanitarian', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Gilda Simbine', 'Give Directly', 'Finance Associate', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Tessa Robertson', 'Give Directly', 'Chief of Staff', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Harris Roberts', 'Give Directly', 'Senior Growth Marketing Manager', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Farheen Rizvi', 'Give Directly', 'Senior Manager, Humanitarian', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Kazmyn Ramos', 'Give Directly', 'Program Manager, US', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Andrés Parrado', 'Give Directly', 'Manager, Data/Tech', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Kwamina Orleans-Pobee', 'Give Directly', 'Engineering Lead, Growth', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('David Onyango', 'Give Directly', 'Program Manager, Recipient Advocacy', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Roben Nshimiyimana', 'Give Directly', 'Follow-up Associate Field Manager, Rwanda', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Moise Niyitegeka', 'Give Directly', 'Tech Associate Field Manager, Rwanda', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Venuste Niyitanga', 'Give Directly', 'Associate Field Manager, Rwanda', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Yvonne Namala-Murindiwa', 'Give Directly', 'Senior Manager, Malawi', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Alex Nawar', 'Give Directly', 'Director, Humanitarian & US Operations', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Sopani Robert Neba', 'Give Directly', 'Board Member', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, 'Board Member', 'Global health and poverty') 
+    ,('Rachel Sibande', 'Give Directly', 'Board Member', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, 'Board Member', 'Global health and poverty') 
+    ,('Dhruv Singh', 'Give Directly', 'Advisor', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, 'Advisor', 'Global health and poverty') 
+    ,('Olu Babalola', 'Give Directly', 'Chief Operating Officer', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Chisomo Banda', 'Give Directly', 'Associate Field Manager', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Yazmin Baptiste', 'Give Directly', 'Data Coordinator', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Leonard Baraka', 'Give Directly', 'Finance Associate, DRC', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Colette Bishogo', 'Give Directly', 'Senior Manager, DRC', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Mouna Boujmal', 'Give Directly', 'Program Manager, Morocco', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Mitchell Browne', 'Give Directly', 'Associate Field Manager', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Marie Cadelina', 'Give Directly', 'Recruitment Manager', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Jacob Carmichael', 'Give Directly', 'Growth Associate', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Anna Cerf', 'Give Directly', 'Sr. Manager, Growth', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Anil Chakka', 'Give Directly', 'Donor Relations Intern', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, 'Intern', 'Global health and poverty') 
+    ,('Driss Chaouki', 'Give Directly', 'Associate Field Manager, Morocco', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Sara Chedad', 'Give Directly', 'Office and Procurement Manager, Morocco', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Han Sheng Chia', 'Give Directly', 'Vice President of Innovation', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Augusto de Almeida', 'Give Directly', 'Program Manager, Mozambique', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Namita Desai', 'Give Directly', 'Director of Partnerships and Advisory', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Roshni Desai', 'Give Directly', 'Data Associate', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Hamza Ezzaim', 'Give Directly', 'Associate Field Manager, Morocco', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Michael Fisher', 'Give Directly', 'Flex Senior Manager Malawi, Uganda', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Becca Frank', 'Give Directly', 'Director of Field Technology', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Elisa Gabellieri', 'Give Directly', 'Humanitarian Senior Manager', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Shaunak Ganguly', 'Give Directly', 'Country Director, Malawi', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Pranathi Ganni', 'Give Directly', 'Data Associate', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Esnatt Gondwe-Matekesa', 'Give Directly', 'Program Manager', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Simon Grinsted', 'Give Directly', 'Research Manager', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Jon Hall', 'Give Directly', 'Engineer', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Tyler G Hall', 'Give Directly', 'Director of Communications', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Stephanie Hill', 'Give Directly', 'Vice President of People', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Sarina Jain', 'Give Directly', 'US Manager', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Jendayi Jones', 'Give Directly', 'Donor Relations Coordinator', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Said Juma', 'Give Directly', 'HR Manager, Kenya', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Timothy Deo Kabagambe', 'Give Directly', 'Call Center Manager, Rwanda', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Bienvenu Kamana', 'Give Directly', 'Field Manager, DRC', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Swaliho F. Kamara', 'Give Directly', 'Senior Manager, Liberia', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Alia Karim', 'Give Directly', 'Partnerships Manager', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Laura Keen', 'Give Directly', 'Senior Manager, US', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Sarah Kenkuyu', 'Give Directly', 'External Relations Manager, Rwanda', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Ariana Keyman', 'Give Directly', 'Partnerships Director', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Lilian Kimuya', 'Give Directly', 'Finance Manager, Kenya', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Pamela Kirabo', 'Give Directly', 'Metrics and Quality Associate Field Manager, Rwanda', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Doug Kirke-Smith', 'Give Directly', 'Regional Director', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Leila Lahlou', 'Give Directly', 'Associate Field Manager, Morocco', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Miriam Laker', 'Give Directly', 'Research Director', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Kristen Lee', 'Give Directly', 'Sr. Manager, Data/Tech', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Cedric Lisasi', 'Give Directly', 'Human Resources Intern', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Stella Luk', 'Give Directly', 'Regional Director, North and West Africa', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Vera Lummis', 'Give Directly', 'Innovation Manager', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Lucio Melito', 'Give Directly', 'Data Scientist', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Lalena Meyerson', 'Give Directly', 'Compliance and Grants Associate', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Leonard Moragia', 'Give Directly', 'Data Coordinator', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Sarah Moran', 'Give Directly', 'Country Director, US', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Chikondi Mphonde', 'Give Directly', 'Human Resources Manager', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+    ,('Grace Mwihia', 'Give Directly', 'Senior Finance Manager, Africa', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211209085225/https://www.givedirectly.org/team/', NULL, NULL, 'Global health and poverty') 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
