@@ -217,7 +217,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Abubakari Bukari','Innovations for Poverty Action','Ghana: Implementation Coordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Kym Cole','Innovations for Poverty Action','Ghana: Research Coordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Obed Djan','Innovations for Poverty Action','Ghana: Accountant', '2011-07-01', 'month',NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title= https://www.linkedin.com/in/obed-djan-70b1aa86/',NULL, NULL','Global health and poverty')
-    ,('Yussif Mohammed Hardi','Innovations for Poverty Action','Ghana: Office Assistant',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
+  ,('Yussif Mohammed Hardi','Innovations for Poverty Action','Ghana: Office Assistant',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Daniel Janamah','Innovations for Poverty Action','Ghana: Senior Field Manager',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Bridget Konadu Gyamfi','Innovations for Poverty Action','Ghana: Senior Policy and Implementation Manager',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Lukman Mohammed','Innovations for Poverty Action','Ghana: Senior Finance Assistant',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
@@ -534,7 +534,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
-
+  
 
 
 
