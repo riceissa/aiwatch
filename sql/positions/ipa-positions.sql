@@ -216,8 +216,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Clement Biadam','Innovations for Poverty Action','Ghana: Senior Field Officer',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Abubakari Bukari','Innovations for Poverty Action','Ghana: Implementation Coordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Kym Cole','Innovations for Poverty Action','Ghana: Research Coordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
-    ,('Obed Djan','Innovations for Poverty Action','Ghana: Accountant', '2011-07-01', 'month',NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title= https://www.linkedin.com/in/obed-djan-70b1aa86/',NULL, NULL','Global health and poverty')
-  ,('Yussif Mohammed Hardi','Innovations for Poverty Action','Ghana: Office Assistant',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
+    ,('Obed Djan','Innovations for Poverty Action','Ghana: Accountant', '2011-07-01', 'month',NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title= https://www.linkedin.com/in/obed-djan-70b1aa86/',NULL, NULL,'Global health and poverty')
+    ,('Yussif Mohammed Hardi','Innovations for Poverty Action','Ghana: Office Assistant',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Daniel Janamah','Innovations for Poverty Action','Ghana: Senior Field Manager',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Bridget Konadu Gyamfi','Innovations for Poverty Action','Ghana: Senior Policy and Implementation Manager',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Lukman Mohammed','Innovations for Poverty Action','Ghana: Senior Finance Assistant',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
@@ -527,9 +527,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Susan Athey','Innovations for Poverty Action','Director','2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, 'Board Member','Global health and poverty')
     ,('Rafael Mazer','Innovations for Poverty Action','Project Director, Consumer Protection','2019-09-01', 'month',NULL,NULL,'https://www.linkedin.com/in/rafael-mazer-13531b/',NULL, 'full-time','Global health and poverty')
     ,('Nicol Lesmes Guerrero','Innovations for Poverty Action','Qualitative Research Analyst','2011-06-01', 'month',NULL,NULL,'https://www.linkedin.com/in/nicol-lesmes-guerrero-969312191/',NULL, 'full-time','Global health and poverty')
-   
+     
 
-
+ 
 
 
 
