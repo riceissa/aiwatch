@@ -42,7 +42,7 @@
   // with ties" idea is introduced.
   if (($_REQUEST['display'] ?? '') != "full") {
     $limitWithTies = 300;
-    $query .= " having count(distinct organization) >= (select count(distinct organization) from positions group by person order by count(distinct organization) desc limit $limitWithTies, 1)";
+    $query .= " having count(distinct organization) >= coalesce((select count(distinct organization) from positions group by person order by count(distinct organization) desc limit $limitWithTies, 1),0)";
   }
 
   $query .= " order by count(distinct organization) desc";
@@ -54,7 +54,7 @@
     $result = $stmt->get_result();
   }
 
-  if (($_REQUEST['display'] ?? '') != "full") {
+  if ((($_REQUEST['display'] ?? '') != "full") && $mysqli->affected_rows >= $limitWithTies) {
     $displayLimitMessage = "Display is limited to $limitWithTies people (but includes ties, so may show more than $limitWithTies people).";
   } else {
     $displayLimitMessage = "";
