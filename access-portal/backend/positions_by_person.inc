@@ -36,7 +36,14 @@
   if ($subdomain === "aiwatch") {
     $query .= " and cause_area = 'AI safety'";
   }
-  $query .= " group by person order by count(distinct organization) desc";
+  $query .= " group by person";
+
+  // See https://github.com/riceissa/aiwatch/issues/98 for where the "limit
+  // with ties" idea is introduced.
+  $limitWithTies = 300;
+  $query .= " having count(distinct organization) >= (select count(distinct organization) from positions group by person order by count(distinct organization) desc limit $limitWithTies, 1)";
+
+  $query .= " order by count(distinct organization) desc";
   if ($stmt = $mysqli->prepare($query)) {
     if ($params) {
       $stmt->bind_param($param_str, ...$params);
@@ -50,7 +57,7 @@
 
 <h2 id="positions-grouped-by-person">Positions grouped by person</h2>
 
-<p>Showing <?= $mysqli->affected_rows ?> people with positions.</p>
+<p>Showing <?= $mysqli->affected_rows ?> people with positions. Display is limited to <?= $limitWithTies ?> people (but includes ties, so may show more than <?= $limitWithTies ?> people).</p>
 
 <table>
   <thead>
