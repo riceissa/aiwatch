@@ -16,7 +16,16 @@
   if ($subdomain === "aiwatch") {
     $query .= " and cause_area = 'AI safety'";
   }
-  $query .= " group by organization order by numPeeps desc";
+  $query .= " group by organization";
+
+  // See https://github.com/riceissa/aiwatch/issues/98 for where the "limit
+  // with ties" idea is introduced.
+  if (($_REQUEST['display'] ?? '') != "full") {
+    $limitWithTies = 300;
+    $query .= " having count(distinct person) >= coalesce((select count(distinct person) from positions group by organization order by count(distinct person) desc limit $limitWithTies, 1),0)";
+  }
+
+  $query .= " order by numPeeps desc";
   if ($stmt = $mysqli->prepare($query)) {
     if ($params) {
       $stmt->bind_param($param_str, ...$params);
@@ -24,9 +33,15 @@
     $stmt->execute();
     $result = $stmt->get_result();
   }
+
+  if ((($_REQUEST['display'] ?? '') != "full") && $mysqli->affected_rows >= $limitWithTies) {
+    $displayLimitMessage = "Display is limited to $limitWithTies organizations (but includes ties, so may show more than $limitWithTies organizations).";
+  } else {
+    $displayLimitMessage = "";
+  }
 ?>
 
-<p>Showing <?= $mysqli->affected_rows ?> organizations.</p>
+<p>Showing <?= $mysqli->affected_rows ?> organizations. <?= $displayLimitMessage ?></p>
 
 <table>
   <thead>
