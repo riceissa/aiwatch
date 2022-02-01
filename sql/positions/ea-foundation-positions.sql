@@ -68,3 +68,88 @@ insert into positions(person, organization, title, start_date, start_date_precis
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
     ('Max Daniel','Effective Altruism Foundation','Researcher',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20171104132257/http://wrai.org/',NULL,NULL,NULL,NULL,'AI safety')
 ;
+
+
+    ,('Thomas Metzinger','Effective Altruism Foundation','Advisor', '2019-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20180915223036/https://ea-foundation.org/team/',NULL,NULL,NULL,'Advisor','AI safety')
+    ,('Adrian Hutter','Effective Altruism Foundation','Advisor', '2019-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20180915223036/https://ea-foundation.org/team/',NULL,NULL,NULL,'Advisor','AI safety')
+    ,('Persis Eskander','Effective Altruism Foundation','Executive Director (Wild Animal Suffering Research)', '2019-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20180915223036/https://ea-foundation.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Ozy Brennan','Effective Altruism Foundation','Research Associate (Wild Animal Suffering Research)', '2019-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20180915223036/https://ea-foundation.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('David Althaus','Effective Altruism Foundation','Director of Strategy (Foundational Research Institute)', '2019-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20180915223036/https://ea-foundation.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Johannes Treutlein','Effective Altruism Foundation','Research and Growth (Foundational Research Institute)', '2019-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20180915223036/https://ea-foundation.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Brian Tomasik','Effective Altruism Foundation','Research Lead (Foundational Research Institute)', '2019-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20180915223036/https://ea-foundation.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Stefan Torges','Effective Altruism Foundation','Co-Executive Director', '2019-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20191029164831/https://ea-foundation.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Lukas Gloor','Effective Altruism Foundation','Senior Researcher', '2019-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20191029164831/https://ea-foundation.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Anni Leskelä','Effective Altruism Foundation','Researcher', '2019-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20191029164831/https://ea-foundation.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('David Althaus','Effective Altruism Foundation','Researcher', '2019-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20191029164831/https://ea-foundation.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Brian Tomasik','Effective Altruism Foundation','Advisor', '2019-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20191029164831/https://ea-foundation.org/team/',NULL,NULL,NULL,'Advisor','AI safety')
+    ,('Melinda Lohmann','Effective Altruism Foundation','Advisor', '2019-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20191029164831/https://ea-foundation.org/team/',NULL,NULL,NULL,'Advisor','AI safety')
+    ,('Rajshri Jayaraman','Effective Altruism Foundation','Advisor', '2019-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20191029164831/https://ea-foundation.org/team/',NULL,NULL,NULL,'Advisor','AI safety')
+    ,('Dina Pomeranz','Effective Altruism Foundation','Advisor', '2019-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20191029164831/https://ea-foundation.org/team/',NULL,NULL,NULL,'Advisor','AI safety')
+    ,('Klaus Wälde','Effective Altruism Foundation','Advisor', '2019-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20191029164831/https://ea-foundation.org/team/',NULL,NULL,NULL,'Advisor','AI safety')
+    ,('Stefan Klein','Effective Altruism Foundation','Advisor', '2019-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20191029164831/https://ea-foundation.org/team/',NULL,NULL,NULL,'Advisor','AI safety')
+    ,('Sascha Fink','Effective Altruism Foundation','Advisor', '2019-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20191029164831/https://ea-foundation.org/team/',NULL,NULL,NULL,'Advisor','AI safety')
+    ,('Sarah Dörpinghaus','Effective Altruism Foundation','Catering', '2019-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20191029164831/https://ea-foundation.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Daniel Rüthemann','Effective Altruism Foundation','Design', '2019-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20191029164831/https://ea-foundation.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Jesse Clifton','Effective Altruism Foundation','Co-Executive Director', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Emery Cooper','Effective Altruism Foundation','Researcher', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Paul Knott','Effective Altruism Foundation','Researcher', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Daniel Kokotajlo','Effective Altruism Foundation','Research Fellow', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Alexander Lyzhov','Effective Altruism Foundation','Research Fellow', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Linh Chi Nguyen','Effective Altruism Foundation','Research Analyst', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Jia Yuan Loke','Effective Altruism Foundation','Research Assistant & Office Manager', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Amrit Sidhu-Brar','Effective Altruism Foundation','Operations Analyst', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Maxime Riché','Effective Altruism Foundation','Contractor', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,NULL,'Contractor','AI safety')
+    ,('Hadrien Pouget','Effective Altruism Foundation','Research Fellow', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Alex Lyzhov','Effective Altruism Foundation','Research Fellow', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Ali Merali','Effective Altruism Foundation','Research Fellow', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Anthony DiGiovanni','Effective Altruism Foundation','Research Fellow', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Eric Chen','Effective Altruism Foundation','Research Fellow', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Julian Stastny','Effective Altruism Foundation','Research Fellow', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Michael Aird','Effective Altruism Foundation','Research Fellow', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Mojmír Stehlík','Effective Altruism Foundation','Research Fellow', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Olle Häggström','Effective Altruism Foundation','Advisor', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,NULL,'Advisor','AI safety')
+    ,('Ulla Wessels','Effective Altruism Foundation','Advisor', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,NULL,'Advisor','AI safety')
+    ,('David Pearce','Effective Altruism Foundation','Advisor', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,NULL,'Advisor','AI safety')
+    ,('Ole Martin Moen','Effective Altruism Foundation','Advisor', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,NULL,'Advisor','AI safety')
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+ 
+
+
+
+
