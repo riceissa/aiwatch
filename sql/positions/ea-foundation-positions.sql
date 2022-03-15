@@ -1,4 +1,5 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+
      ('Adriano Mannino','Effective Altruism Foundation','President',NULL,NULL,'2016-12-20','month','https://web.archive.org/web/20151128134254/http://ea-stiftung.org:80/team/ https://web.archive.org/web/20161220084424/http://ea-stiftung.org:80/team/',NULL,NULL,'Effective altruism')
     ,('Lucius Caviola','Effective Altruism Foundation','Leader',NULL,NULL,'2016-10-26','month','https://web.archive.org/web/20151128134254/http://ea-stiftung.org:80/team/ https://web.archive.org/web/20161026121638/http://ea-stiftung.org:80/team/',NULL,NULL,'Effective altruism')
     ,('Jonas Vollmer','Effective Altruism Foundation','Head of operations',NULL,NULL,'2016-01-05','month','https://web.archive.org/web/20151128134254/http://ea-stiftung.org:80/team/ https://web.archive.org/web/20160105114358/http://ea-stiftung.org:80/team/',NULL,NULL,'Effective altruism')
@@ -12,7 +13,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Daniel Kestenholz','Effective Altruism Foundation','Business operations',NULL,NULL,'2016-02-29','month','https://web.archive.org/web/20151128134254/http://ea-stiftung.org:80/team/ https://web.archive.org/web/20160229092002/http://ea-stiftung.org:80/team/',NULL,NULL,'Effective altruism')
     ,('Natalie Cargill','Effective Altruism Foundation','Scientific Associate',NULL,NULL,'2016-01-05','month','https://web.archive.org/web/20151128134254/http://ea-stiftung.org:80/team/ https://web.archive.org/web/20160105114358/http://ea-stiftung.org:80/team/',NULL,'volunteer','Effective altruism')
     ,('Charlotte Blattner','Effective Altruism Foundation','Scientific Associate',NULL,NULL,'2018-09-03','year','https://web.archive.org/web/20151128134254/http://ea-stiftung.org:80/team/ https://web.archive.org/web/20180903155442/https://ea-foundation.org/team/',NULL,'volunteer','Effective altruism')
-    ,('Jonas Vollmer','Effective Altruism Foundation','Director of Communications','2016-01-05','month','2018-09-03','year','https://web.archive.org/web/20160105114358/http://ea-stiftung.org:80/team/ https://web.archive.org/web/20180903155442/https://ea-foundation.org/team/',NULL,NULL,'Effective altruism')
     ,('Philipp Ryf','Effective Altruism Foundation','Scientific assistant','2016-01-05','month','2016-05-28','month','https://web.archive.org/web/20160105114358/http://ea-stiftung.org:80/team/ https://web.archive.org/web/20160528181300/http://ea-stiftung.org/team/',NULL,NULL,'Effective altruism')
     ,('Stefan Torges','Effective Altruism Foundation','Business operations','2016-01-05','month','2016-05-28','month','https://web.archive.org/web/20160105114358/http://ea-stiftung.org:80/team/ https://web.archive.org/web/20160528181300/http://ea-stiftung.org/team/',NULL,NULL,'Effective altruism')
     ,('Raffael Fasel','Effective Altruism Foundation','Head of legal questions','2016-01-05','month','2016-10-26','month','https://web.archive.org/web/20160105114358/http://ea-stiftung.org:80/team/ https://web.archive.org/web/20161026121638/http://ea-stiftung.org:80/team/',NULL,NULL,'Effective altruism')
@@ -59,7 +59,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Brian Tomasik','Effective Altruism Foundation','Research Lead (Foundational Research Institute)', '2019-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20180915223036/https://ea-foundation.org/team/',NULL,NULL,'AI safety')
     ,('Stefan Torges','Effective Altruism Foundation','Co-Executive Director', '2019-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20191029164831/https://ea-foundation.org/team/',NULL,NULL,'AI safety')
     ,('Lukas Gloor','Effective Altruism Foundation','Senior Researcher', '2019-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20191029164831/https://ea-foundation.org/team/',NULL,NULL,'AI safety')
-    ,('Anni Leskelä','Effective Altruism Foundation','Researcher', '2019-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20191029164831/https://ea-foundation.org/team/'NULL,NULL,'AI safety')
+    ,('Anni Leskelä','Effective Altruism Foundation','Researcher', '2019-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20191029164831/https://ea-foundation.org/team/',NULL,NULL,'AI safety')
     ,('David Althaus','Effective Altruism Foundation','Researcher', '2019-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20191029164831/https://ea-foundation.org/team/',NULL,NULL,'AI safety')
     ,('Brian Tomasik','Effective Altruism Foundation','Advisor', '2019-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20191029164831/https://ea-foundation.org/team/',NULL,'Advisor','AI safety')
     ,('Melinda Lohmann','Effective Altruism Foundation','Advisor', '2019-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20191029164831/https://ea-foundation.org/team/',NULL,'Advisor','AI safety')
@@ -83,7 +83,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Alex Lyzhov','Effective Altruism Foundation','Research Fellow', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,'AI safety')
     ,('Ali Merali','Effective Altruism Foundation','Research Fellow', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,'AI safety')
     ,('Anthony DiGiovanni','Effective Altruism Foundation','Research Fellow', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,'AI safety')
-    ,('Eric Chen','Effective Altruism Foundation','Research Fellow', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Eric Chen','Effective Altruism Foundation','Research Fellow', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,'AI safety')
     ,('Julian Stastny','Effective Altruism Foundation','Research Fellow', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,'AI safety')
     ,('Michael Aird','Effective Altruism Foundation','Research Fellow', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,'AI safety')
     ,('Mojmír Stehlík','Effective Altruism Foundation','Research Fellow', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,NULL,'AI safety')
@@ -91,7 +91,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Ulla Wessels','Effective Altruism Foundation','Advisor', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,'Advisor','AI safety')
     ,('David Pearce','Effective Altruism Foundation','Advisor', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,'Advisor','AI safety')
     ,('Ole Martin Moen','Effective Altruism Foundation','Advisor', '2021-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/',NULL,'Advisor','AI safety')
-
+    ,('Jonas Vollmer','Effective Altruism Foundation','Director of Communications','2016-01-05','month','2018-09-03','year','https://web.archive.org/web/20160105114358/http://ea-stiftung.org:80/team/ https://web.archive.org/web/20180903155442/https://ea-foundation.org/team/',NULL,NULL,'Effective altruism')
  
  
  
