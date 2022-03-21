@@ -12,4 +12,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
    ,('Greg Laughlin', 'Metaculus', 'Founder, Research & Development Fellow', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20201122022145if_/https://www.metaculus.com/about/', NULL, NULL, 'Forecasting')
    ,('Carroll Wainwright', 'Metaculus', 'Cofounder, data scientist, and software engineer', '2014-10-01', 'month', NULL, NULL, 'https://web.archive.org/web/20201122022145if_/https://www.metaculus.com/about/ https://www.linkedin.com/in/carroll-wainwright-7690229a/', NULL, NULL, 'Forecasting')
    ,('Matthew Barnett', 'Metaculus', 'Data Science & Software Engineering', '2020-11-01', NULL, NULL, NULL, 'https://web.archive.org/web/20201122022145if_/https://www.metaculus.com/about/', NULL, NULL, 'Forecasting')
-   ,('Matej Vrzala', 'Metaculus', 'Web Developer', '2020-11-01', NULL, NULL, NULL, 'https://web.archive.org/web/20201122022145if_/https://www.metaculus.com/about/', NULL, NULL, 'Forecasting')
+   ,('Matej Vrzala', 'Metaculus', 'Web Developer', '2019-12-01', 'month', NULL, NULL, 'https://web.archive.org/web/20201122022145if_/https://www.metaculus.com/about/ https://www.linkedin.com/in/matej-vrzala/', NULL, NULL, 'Forecasting')
+   ,('Steven Schkolne', 'Metaculus', 'Advisor', '2020-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/schkolne/', NULL, 'Advisor', 'Forecasting')
+   ,('Alex Lawsen', 'Metaculus', 'Community Moderator', '2020-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alex-lawsen-3b176121b/', NULL, 'part-time', 'Forecasting')
