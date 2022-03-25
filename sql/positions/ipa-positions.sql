@@ -22,6 +22,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Chrissy Schwen','Innovations for Poverty Action','Programs: (Temporary) Program Development Manager for Africa',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Christian Soler','Innovations for Poverty Action','Programs: Programs Associate',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Ben Tan','Innovations for Poverty Action','Programs: M&E Engagement Manager, Goldilocks Right-Fit Evidence Unit',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
+    ,('Ben Tan','Innovations for Poverty Action','Associate Director, Right-Fit Evidence Unit', '2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, NULL,'Global health and poverty')
     ,('Loïc Watine','Innovations for Poverty Action','Programs: Regional Director & Director, Goldilocks Right-Fit Evidence Unit',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Richard Attibu','Innovations for Poverty Action','Programs: Regional Operations Manager, Africa',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Valentina Brailovskaya','Innovations for Poverty Action','Programs: Research Associate',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
@@ -207,6 +208,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Stephanie Adjovu','Innovations for Poverty Action','Ghana: Research Associate',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Benjamin Afful','Innovations for Poverty Action','Ghana: IT Assistant',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Salifu Amadu','Innovations for Poverty Action','Ghana: Research Manager',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
+    ,('Salifu Amadu','Innovations for Poverty Action','Country Director, Ghana', '2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20200923101932/https://www.poverty-action.org/about/leadership',NULL,NULL,'Global health and poverty')
     ,('Abigail Amarh-Amartey','Innovations for Poverty Action','Ghana: Human Resource Associate',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Rebecca Antwi','Innovations for Poverty Action','Ghana: Administrative Assistant',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Kwabena Asamoah','Innovations for Poverty Action','Ghana: Policy and Implementation Field Manager',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
@@ -214,7 +216,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Clement Biadam','Innovations for Poverty Action','Ghana: Senior Field Officer',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Abubakari Bukari','Innovations for Poverty Action','Ghana: Implementation Coordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Kym Cole','Innovations for Poverty Action','Ghana: Research Coordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
-    ,('Obed Djan','Innovations for Poverty Action','Ghana: Accountant',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
+    ,('Obed Djan','Innovations for Poverty Action','Ghana: Accountant', '2011-07-01', 'month',NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title= https://www.linkedin.com/in/obed-djan-70b1aa86/',NULL, NULL,'Global health and poverty')
     ,('Yussif Mohammed Hardi','Innovations for Poverty Action','Ghana: Office Assistant',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Daniel Janamah','Innovations for Poverty Action','Ghana: Senior Field Manager',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Bridget Konadu Gyamfi','Innovations for Poverty Action','Ghana: Senior Policy and Implementation Manager',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
@@ -224,7 +226,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Heather Nelson Adumatta','Innovations for Poverty Action','Ghana: Operations Manager',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Enoch Pabby','Innovations for Poverty Action','Ghana: Finance Assistant',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Christine Papai','Innovations for Poverty Action','Ghana: Deputy Country Director',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
+    ,('Christine Papai','Innovations for Poverty Action','Associate Director', '2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20181229034638/https://www.poverty-action.org/about/leadership',NULL, NULL,'Global health and poverty')
     ,('Santiago Jose Sanchez Guiu','Innovations for Poverty Action','Ghana: Senior Research Manager',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
+    ,('Santiago Jose Sanchez Guiu','Innovations for Poverty Action','Director, Global Operations & Systems', '2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, NULL,'Global health and poverty')
     ,('Charles Sefenu','Innovations for Poverty Action','Ghana: Senior Field Manager',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Gabriel Teye','Innovations for Poverty Action','Ghana: Office Assistant',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Edward Tsinigo','Innovations for Poverty Action','Ghana: Senior Research Associate',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
@@ -293,6 +297,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jose Marie Gonzalez','Innovations for Poverty Action','Philippines: Senior Field Manager',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Peter Srouji','Innovations for Poverty Action','Philippines: Research Coordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Rachel Steinacher','Innovations for Poverty Action','Tanzania: Country Director, Tanzania',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
+    ,('Rachel Steinacher','Innovations for Poverty Action','Associate Director of Business and Program Development', '2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,NULL,'Global health and poverty')
     ,('Cristina Clerici','Innovations for Poverty Action','Tanzania: Senior Research Associate',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Rachel Jones','Innovations for Poverty Action','Tanzania: Research Manager',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Nyamtara Jumanne','Innovations for Poverty Action','Tanzania: Office Assistant',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
@@ -310,6 +315,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('George Ganda','Innovations for Poverty Action','Kenya: Field Manager',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Kelvin Gichia','Innovations for Poverty Action','Kenya: Policy Assistant',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Ginger Golub','Innovations for Poverty Action','Kenya: Research Manager',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
+    ,('Ginger Golub','Innovations for Poverty Action','Deputy Country Director, Kenya','2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, NULL,'Global health and poverty')
     ,('Daniel Mokrauer-Madden','Innovations for Poverty Action','Kenya: Research Coordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Frank Odhiambo','Innovations for Poverty Action','Kenya: Research Manager',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Jemima Okal','Innovations for Poverty Action','Kenya: Policy Associate',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
@@ -399,7 +405,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Phoebe Ogolla','Innovations for Poverty Action','Kenya: Senior Field Officer',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Vitalis Ogutu','Innovations for Poverty Action','Kenya: Associate Field Manager',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Jemima Okal','Innovations for Poverty Action','Kenya: Senior Field Officer',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
-    ,('Duncan Okiro','Innovations for Poverty Action','Kenya: Field Manager',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
+    ,('Duncan Okiro','Innovations for Poverty Action','Kenya: Field Manager', '2011-06-01', 'month',NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title= https://www.linkedin.com/in/duncan-okiro-2097745a/',NULL,NULL,'Global health and poverty')
     ,('Samwel Ombok','Innovations for Poverty Action','Kenya: Senior Field Officer',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Susan Violet Omeyo','Innovations for Poverty Action','Kenya: Senior Field Officer',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Diana Omolo','Innovations for Poverty Action','Kenya: Senior Field Officer',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
@@ -450,6 +456,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Rachel Wells','Innovations for Poverty Action','PPI: Data Analyst',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Heidi McAnnally-Linz','Innovations for Poverty Action','Policy & Communications: Director of Policy & Communications',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Bethany Park','Innovations for Poverty Action','Policy & Communications: Senior Policy Manager',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
+    ,('Bethany Park','Innovations for Poverty Action','Director of Policy', '2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, NULL,'Global health and poverty')
     ,('Michelle Read','Innovations for Poverty Action','Policy & Communications: Communications Associate',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('John Branch','Innovations for Poverty Action','Policy & Communications: Policy & Communications Associate',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Laura Burke','Innovations for Poverty Action','Policy & Communications: Manager, Policy Communications',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
@@ -469,4 +476,152 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Carlos Restituyo Vassallo','Innovations for Poverty Action','Dominican Republic: Research Associate',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20180627194550/https://www.poverty-action.org/about/staff-directory?title=',NULL,'full-time','Global health and poverty')
     ,('Luisa Rodriguez','Innovations for Poverty Action','Graduate Intern','2017-08-01','month','2018-02-01','month','https://www.linkedin.com/in/luisa-rodriguez-837835bb/',NULL,'intern','Global health and poverty')
     ,('Zachary Tausanovitch','Innovations for Poverty Action','Temporary Research Associate','2016-06-01','month','2016-10-01','month','https://www.linkedin.com/in/zachary-tausanovitch/',NULL,NULL,'Global health and poverty')
-;
+    ,('Bianca Verrilli','Innovations for Poverty Action','Global Operations Director','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20181229034638/https://www.poverty-action.org/about/leadership',NULL,NULL,'Global health and poverty')
+    ,('Anna Heard','Innovations for Poverty Action','Program Director, Health & Nutrition','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20181229034638/https://www.poverty-action.org/about/leadership',NULL,NULL,'Global health and poverty')
+    ,('Carin Mirowitz','Innovations for Poverty Action','Country Director, Uganda','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20181229034638/https://www.poverty-action.org/about/leadership',NULL,NULL,'Global health and poverty')
+    ,('Ankur Vora','Innovations for Poverty Action','Director','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20180418143258/http://www.poverty-action.org/about/board-of-directors',NULL, 'Board member','Global health and poverty')
+    ,('Kentaro Toyama','Innovations for Poverty Action','Director','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20180418143258/http://www.poverty-action.org/about/board-of-directors',NULL, 'Board member','Global health and poverty')
+    ,('James J. Prescott','Innovations for Poverty Action','Director','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20180418143258/http://www.poverty-action.org/about/board-of-directors',NULL, 'Board member','Global health and poverty')
+    ,('Mushfiq Mobarak','Innovations for Poverty Action','Director','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20180418143258/http://www.poverty-action.org/about/board-of-directors',NULL, 'Board member','Global health and poverty')
+    ,('Daniel Michalow','Innovations for Poverty Action','Director','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20180418143258/http://www.poverty-action.org/about/board-of-directors',NULL, 'Board member','Global health and poverty')
+    ,('Dean Karlan','Innovations for Poverty Action','Director','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20180418143258/http://www.poverty-action.org/about/board-of-directors',NULL, 'Board member','Global health and poverty')
+    ,('Laura Hattendorf','Innovations for Poverty Action','Director','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20180418143258/http://www.poverty-action.org/about/board-of-directors',NULL, 'Board member','Global health and poverty')
+    ,('Heather W. Grizzle','Innovations for Poverty Action','Director','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20180418143258/http://www.poverty-action.org/about/board-of-directors',NULL, 'Board member','Global health and poverty')
+    ,('Benjamin S. Appen','Innovations for Poverty Action','Director','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20180418143258/http://www.poverty-action.org/about/board-of-directors',NULL, 'Board member','Global health and poverty')
+    ,('Wendy Abt','Innovations for Poverty Action','Director','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20180418143258/http://www.poverty-action.org/about/board-of-directors',NULL, 'Board member','Global health and poverty')
+    ,('Stephen Toben','Innovations for Poverty Action','Director','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20180418143258/http://www.poverty-action.org/about/board-of-directors',NULL, 'Board member','Global health and poverty')
+    ,('Trey Beck','Innovations for Poverty Action','Director','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20180418143258/http://www.poverty-action.org/about/board-of-directors',NULL, 'Board member','Global health and poverty')
+    ,('Edward Miguel','Innovations for Poverty Action','Scientific Advisor (Kenya)','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20200924070435/https://www.poverty-action.org/about/scientific-advisors',NULL, 'Advisor','Global health and poverty')
+    ,('Tavneet Suri','Innovations for Poverty Action','Scientific Advisor (Kenya)','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20200924070435/https://www.poverty-action.org/about/scientific-advisors',NULL, 'Advisor','Global health and poverty')
+    ,('Jessica Goldberg','Innovations for Poverty Action','Scientific Advisor (Malawi)','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20200924070435/https://www.poverty-action.org/about/scientific-advisors',NULL, 'Advisor','Global health and poverty')
+    ,('Jonathan Robinson','Innovations for Poverty Action','Scientific Advisor (Malawi)','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20200924070435/https://www.poverty-action.org/about/scientific-advisors',NULL, 'Advisor','Global health and poverty')
+    ,('Craig McIntosh','Innovations for Poverty Action','Scientific Advisor (Rwanda)','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20200924070435/https://www.poverty-action.org/about/scientific-advisors',NULL, 'Advisor','Global health and poverty')
+    ,('Pia Raffler','Innovations for Poverty Action','Scientific Advisor (Uganda)','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20200924070435/https://www.poverty-action.org/about/scientific-advisors',NULL, 'Advisor','Global health and poverty')
+    ,('Andrew Dillon','Innovations for Poverty Action','Scientific Advisor (Francophone West Africa)','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20200924070435/https://www.poverty-action.org/about/scientific-advisors',NULL, 'Advisor','Global health and poverty')
+    ,('Christopher Udry','Innovations for Poverty Action','Scientific Advisor (Ghana)','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20200924070435/https://www.poverty-action.org/about/scientific-advisors',NULL, 'Advisor','Global health and poverty')
+    ,('Katherine Casey','Innovations for Poverty Action','Scientific Advisor (Liberia, Sierra Leone)','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20200924070435/https://www.poverty-action.org/about/scientific-advisors',NULL, 'Advisor','Global health and poverty')
+    ,('Mushfiq Mobarak','Innovations for Poverty Action','Scientific Advisor (Bangladesh)','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20200924070435/https://www.poverty-action.org/about/scientific-advisors',NULL, 'Advisor','Global health and poverty')
+    ,('Rocco Macchiavello','Innovations for Poverty Action','Scientific Advisor (Myanmar)','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20200924070435/https://www.poverty-action.org/about/scientific-advisors',NULL, 'Advisor','Global health and poverty')
+    ,('Dean Yang','Innovations for Poverty Action','Scientific Advisor (Philippines)','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20200924070435/https://www.poverty-action.org/about/scientific-advisors',NULL, 'Advisor','Global health and poverty')
+    ,('Paul Gertler','Innovations for Poverty Action','Scientific Advisor (Latin America)','2018-12-01',NULL,NULL,NULL,'https://web.archive.org/web/20200924070435/https://www.poverty-action.org/about/scientific-advisors',NULL, 'Advisor','Global health and poverty')
+    ,('Dylan Ramshaw','Innovations for Poverty Action','Interim Country Director, Francophone West Africa','2019-04-01',NULL,NULL,NULL,'https://web.archive.org/web/20190417095903/https://www.poverty-action.org/about/leadership',NULL, NULL,'Global health and poverty')
+    ,('Meseret Ansebo','Innovations for Poverty Action','Chief People Officer','2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, NULL,'Global health and poverty')
+    ,('Eric Fullilove','Innovations for Poverty Action','Chief Financial Officer','2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, NULL,'Global health and poverty')
+    ,('Steven Glazerman','Innovations for Poverty Action','Chief Research & Methodology Officer','2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, NULL,'Global health and poverty')
+    ,('Radha Rajkotia','Innovations for Poverty Action','Chief Research & Policy Officer','2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, NULL,'Global health and poverty')
+    ,('Tien Ngo','Innovations for Poverty Action','Director, Grants & Contracts','2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, NULL,'Global health and poverty')
+    ,('Ernest Ostro','Innovations for Poverty Action','Director of Technology','2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, NULL,'Global health and poverty')
+    ,('Heidi Wilde','Innovations for Poverty Action','Director of Grants Finance Management','2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, NULL,'Global health and poverty')
+    ,('Jeni Sorensen','Innovations for Poverty Action','Director, Human Trafficking Research Initiative','2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, NULL,'Global health and poverty')
+    ,('Rachel Strohm','Innovations for Poverty Action','Associate Director, Social Protection Program','2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, NULL,'Global health and poverty')
+    ,('Andrew Chikopa','Innovations for Poverty Action','Country Director, Malawi & Zambia','2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, NULL,'Global health and poverty')
+    ,('Emeka Eluemunor','Innovations for Poverty Action','Country Director, Nigeria','2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, NULL,'Global health and poverty')
+    ,('Walker Higgins','Innovations for Poverty Action','Country Manager, Liberia and Sierra Leone','2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, NULL,'Global health and poverty')
+    ,('Victoria Isika','Innovations for Poverty Action','Deputy Country Director, Rwanda & Uganda','2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, NULL,'Global health and poverty')
+    ,('Afke Jager','Innovations for Poverty Action','Country Director, Myanmar','2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, NULL,'Global health and poverty')
+    ,('Peter Srouji','Innovations for Poverty Action','Deputy Country Director, Philippines','2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, NULL,'Global health and poverty')
+    ,('David Wells','Innovations for Poverty Action','Director','2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, 'Board Member','Global health and poverty')
+    ,('Rakesh Rajani','Innovations for Poverty Action','Director','2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, 'Board Member','Global health and poverty')
+    ,('Alexia Latortue','Innovations for Poverty Action','Director','2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, 'Board Member','Global health and poverty')
+    ,('Aroon Balani','Innovations for Poverty Action','Director','2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, 'Board Member','Global health and poverty')
+    ,('Susan Athey','Innovations for Poverty Action','Director','2021-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20211118105521/https://www.poverty-action.org/about/leadership',NULL, 'Board Member','Global health and poverty')
+    ,('Rafael Mazer','Innovations for Poverty Action','Project Director, Consumer Protection','2019-09-01', 'month',NULL,NULL,'https://www.linkedin.com/in/rafael-mazer-13531b/',NULL, 'full-time','Global health and poverty')
+    ,('Nicol Lesmes Guerrero','Innovations for Poverty Action','Qualitative Research Analyst','2011-06-01', 'month',NULL,NULL,'https://www.linkedin.com/in/nicol-lesmes-guerrero-969312191/',NULL, 'full-time','Global health and poverty')
+     
+
+ 
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -6,3 +6,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Charlie Bresler', 'High Impact Athletes', 'Advisor', '2020-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20201201003557/https://highimpactathletes.com/team', NULL, NULL, 'Effective altruism')
     ,('Josh Daniell', 'High Impact Athletes', 'Advisor', '2020-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20201201003557/https://highimpactathletes.com/team', NULL, NULL, 'Effective altruism')
     ,('Caroline Daniell', 'High Impact Athletes', 'Legal Counsel', '2020-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20201201003557/https://highimpactathletes.com/team', NULL, NULL, 'Effective altruism')
+    ,('Judith Rensing', 'High Impact Athletes', 'Director of operations', '2021-04-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220104181119/https://highimpactathletes.org/team https://www.linkedin.com/in/judith-rensing/', NULL, 'full-time', 'Effective altruism')
+    ,('Peter Singer', 'High Impact Athletes', 'Advisor', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20220104181119/https://highimpactathletes.org/team', NULL, 'Advisor', 'Effective altruism')
+    ,('Jack Lewars', 'High Impact Athletes', 'Advisor', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20220104181119/https://highimpactathletes.org/team', NULL, 'Advisor', 'Effective altruism')
+   

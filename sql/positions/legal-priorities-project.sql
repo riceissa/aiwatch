@@ -5,7 +5,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
    ,('Jonas Schuett', 'Legal Priorities Project', 'Research Fellow', '2020-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20201025125757/https://www.legalpriorities.org/team/jonas-schuett.html https://www.legalpriorities.org/team/jonas-schuett.html https://www.linkedin.com/in/jonasschuett/', NULL, NULL, 'Cause prioritization')
    ,('Renan Araújo', 'Legal Priorities Project', 'Research Fellow', '2020-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20201025140638/https://www.legalpriorities.org/team/renan-araujo.html legalpriorities.org/team/renan-araujo.html https://www.linkedin.com/in/renannascimentoaraujo/', NULL, 'full-time', 'Cause prioritization')
    ,('Suzanne Van Arsdale', 'Legal Priorities Project', 'Research Fellow', '2020-09-01', 'month', NULL, NULL, 'https://www.legalpriorities.org/team/suzanne-van-arsdale.html https://www.linkedin.com/in/svanarsdale/', NULL, NULL, 'Cause prioritization')
-   ,('Alfredo Parra', 'Legal Priorities Project', 'Operations Manager', '2020-11-01', 'month', NULL, NULL, 'https://web.archive.org/web/20201121110212/https://www.legalpriorities.org/team/alfredo-parra.html https://www.legalpriorities.org/team/alfredo-parra.html https://www.linkedin.com/in/alfredoparrah/', NULL, 'part-time', 'Cause prioritization')
+   ,('Alfredo Parra', 'Legal Priorities Project', 'Operations Manager', '2020-11-01', 'month', '2021-12-01', 'month', 'https://web.archive.org/web/20201121110212/https://www.legalpriorities.org/team/alfredo-parra.html https://www.legalpriorities.org/team/alfredo-parra.html https://www.linkedin.com/in/alfredoparrah/', NULL, 'full-time', 'Cause prioritization')
+   ,('Alfredo Parra', 'Legal Priorities Project', 'Chief Of Staff', '2022-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alfredoparrah/', NULL, 'full-time', 'Cause prioritization')
    ,('Kevin Tobia', 'Legal Priorities Project', 'Senior Research Affiliate', '2020-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20201025130457/https://www.legalpriorities.org/team/kevin-tobia.html https://www.legalpriorities.org/team/kevin-tobia.html https://www.linkedin.com/in/kevintobia/', NULL, NULL, 'Cause prioritization')
    ,('Cullen O''Keefe', 'Legal Priorities Project', 'Founding Advisor & Research Affiliate', '2020-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20201025143504/https://www.legalpriorities.org/team/cullen-okeefe.html https://www.legalpriorities.org/team/cullen-okeefe.html https://www.linkedin.com/in/ccokeefe-law/', NULL, NULL, 'Cause prioritization')
    ,('Tyler John', 'Legal Priorities Project', 'Research Affiliate', '2020-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20201025133214/https://www.legalpriorities.org/team/tyler-john.html https://www.legalpriorities.org/team/tyler-john.html https://www.linkedin.com/in/tyler-john-94979156/', NULL, NULL, 'Cause prioritization')
@@ -23,6 +24,21 @@ insert into positions(person, organization, title, start_date, start_date_precis
    ,('Leor Zmigrod', 'Legal Priorities Project', 'Summer Research Fellow 2020', '2020-06-01', 'year', '2020-06-01', 'year', 'https://web.archive.org/web/20200918124400/https://www.legalpriorities.org/team/leor-zmigrod.html https://www.linkedin.com/in/leor-zmigrod-4b88909b/', NULL, NULL, 'Cause prioritization')
    ,('Lingxi Chenyang', 'Legal Priorities Project', 'Summer Research Fellow 2020', '2020-06-01', 'year', '2020-09-01', 'year', 'https://web.archive.org/web/20200918135015/https://www.legalpriorities.org/team/lingxi-chenyang.html', NULL, NULL, 'Cause prioritization')
    ,('D Black', 'Legal Priorities Project', 'Summer Research Fellow 2020', '2020-06-01', 'year', '2020-09-01', 'year', 'https://web.archive.org/web/20200918130154/https://www.legalpriorities.org/team/d-black.html', NULL, NULL, 'Cause prioritization')
-  
+   ,('Pauline Bomball', 'Legal Priorities Project', 'Senior Research Affiliate', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211019174815/https://www.legalpriorities.org/about.html', NULL, NULL, 'Cause prioritization')
+   ,('John Bliss', 'Legal Priorities Project', 'Senior Research Affiliate', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211019174815/https://www.legalpriorities.org/about.html', NULL, NULL, 'Cause prioritization')
+   ,('José Jaime Villalobos', 'Legal Priorities Project', 'Visiting research fellow', '2021-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20211019174815/https://www.legalpriorities.org/about.html https://www.linkedin.com/in/jos%C3%A9-jaime-villalobos-bb77a4114/', NULL, NULL, 'Cause prioritization')
+   ,('José Jaime Villalobos', 'Legal Priorities Project', 'Summer Research Fellow', '2021-05-01', 'month', '2021-07-01', 'month', 'https://www.linkedin.com/in/jos%C3%A9-jaime-villalobos-bb77a4114/', NULL, 'full-time', 'Cause prioritization')
+   ,('Cate Hall', 'Legal Priorities Project', 'Visiting research fellow', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211019174815/https://www.legalpriorities.org/about.html', NULL, NULL, 'Cause prioritization')
+   ,('Jade Leung', 'Legal Priorities Project', 'Advisor', '2021-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20211019174815/https://www.legalpriorities.org/about.html https://www.linkedin.com/in/jade-leung-2620bb9a/', NULL, 'Advisor', 'Cause prioritization')
+   ,('Judge William Garfinkel', 'Legal Priorities Project', 'Advisor', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20211019174815/https://www.legalpriorities.org/about.html', NULL, 'Advisor', 'Cause prioritization')
+   ,('Jeff Sebo', 'Legal Priorities Project', 'Senior Research Affiliate', '2022-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20220203223921/https://www.legalpriorities.org/about.html', NULL, NULL, 'Cause prioritization')
+   ,('Laurens Prins', 'Legal Priorities Project', 'Head of Litigation', '2022-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20220203223921/https://www.legalpriorities.org/about.html', NULL, NULL, 'Cause prioritization')
+   ,('Alexander Puutio', 'Legal Priorities Project', 'Research Affiliate', '2022-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20220203223921/https://www.legalpriorities.org/about.html', NULL, NULL, 'Cause prioritization')
+
+
+
+
+
+
 
 
