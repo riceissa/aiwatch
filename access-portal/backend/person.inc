@@ -305,7 +305,7 @@ if ($stmt = $mysqli->prepare("select person, organization from positions")) {
 }
 $person_to_orgs = array();
 while ($row = $result->fetch_assoc()) {
-  if (!in_array($row['organization'], $person_to_orgs[$row['person']])) {
+  if (!in_array($row['organization'], $person_to_orgs[$row['person']] ?? [])) {
     $person_to_orgs[$row['person']][] = $row['organization'];
   }
 }
