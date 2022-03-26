@@ -27,17 +27,37 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Reto Walther', 'Sentience Politics', 'Board Member', '2019-07-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190713153608/https://sentience-politics.org/de/about/team/ https://www.linkedin.com/in/retowalther/?originalSubdomain=ch', NULL, 'board member', 'Animal welfare')
     ,('Anna Travinskaya', 'Sentience Politics', 'Volunteer', '2019-07-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190713153608/https://sentience-politics.org/de/about/team/', NULL, 'volunteer', 'Animal welfare')
     ,('Daniel Rüthemann', 'Sentience Politics', 'Graphic and design', '2019-07-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190713153608/https://sentience-politics.org/de/about/team/', NULL, NULL, 'Animal welfare')
-    ,('Silvano Lieger', 'Sentience Politics', 'Co-Managing Director', '2019-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20210103200335/https://sentience-politics.org/de/about/team/ https://www.linkedin.com/in/lieger/', NULL, NULL, 'Animal welfare')
+    ,('Silvano Lieger', 'Sentience Politics', 'Co-Managing Director', '2019-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20210103200335/https://sentience-politics.org/de/about/team/ https://www.linkedin.com/in/lieger/', NULL, 'full-time', 'Animal welfare')
     ,('Johanna Kuhn', 'Sentience Politics', 'Project Manager', '2020-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20210103200335/https://sentience-politics.org/de/about/team/ https://www.linkedin.com/in/johanna-kuhn/', NULL, NULL, 'Animal welfare')
     ,('Angelina Dobler', 'Sentience Politics', 'Board Member', '2020-02-01', 'month', NULL, NULL, 'https://web.archive.org/web/20210103200335/https://sentience-politics.org/de/about/team/ https://www.linkedin.com/in/angelina-dobler-93b19b178/?originalSubdomain=ch', NULL, 'board member', 'Animal welfare')
     ,('Urban Müller', 'Sentience Politics', 'Board Member', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210103200335/https://sentience-politics.org/de/about/team/', NULL, 'board member', 'Animal welfare')
     ,('Mirjam Arn', 'Sentience Politics', 'Volunteer', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210103200335/https://sentience-politics.org/de/about/team/', NULL, 'volunteer', 'Animal welfare')
     ,('Rahel Alt', 'Sentience Politics', 'Volunteer', '2020-05-01', 'month', NULL, NULL, 'https://web.archive.org/web/20210103200335/https://sentience-politics.org/de/about/team/ https://www.linkedin.com/in/rahel-alt-7a97751b9/?originalSubdomain=ch', NULL, 'volunteer', 'Animal welfare')
-    ,('Melina Tan', 'Sentience Politics', 'Volunteer', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210103200335/https://sentience-politics.org/de/about/team/', NULL, 'volunteer', 'Animal welfare')
+    ,('Melina Tan', 'Sentience Politics', 'Volunteer', '2020-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20210103200335/https://sentience-politics.org/de/about/team/ https://www.linkedin.com/in/melina-tan-743b04/', NULL, 'volunteer', 'Animal welfare')
     ,('Tamina S. Graber', 'Sentience Politics', 'Campaign Leader', '2020-11-01', 'month', NULL, NULL, 'https://web.archive.org/web/20210103200335/https://sentience-politics.org/de/about/team/ https://www.linkedin.com/in/taminagraber/', 'Based in Zürich', 'part-time', 'Animal welfare')
     ,('Sophie Kwass', 'Sentience Politics', 'Co-director', '2017-07-01', 'month', '2018-10-01', 'month', 'https://www.linkedin.com/in/ann-sophie-kwass-20409b126/ https://web.archive.org/web/20210104022808/https://ea-foundation.org/blog/update-on-the-future-of-sentience-politics/', NULL, NULL, 'Animal welfare')
     ,('Tobias Pulver', 'Sentience Politics', 'Board member', '2017-06-02', 'month', NULL,NULL, 'https://web.archive.org/web/20210104022808/https://ea-foundation.org/blog/update-on-the-future-of-sentience-politics/', NULL, 'board member', 'Animal welfare')
+    ,('Luisa Baumgartner', 'Sentience Politics', 'Campaign team', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, NULL, 'Animal welfare')
+    ,('Priska Baur', 'Sentience Politics', 'Advisor', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, 'Advisor', 'Animal welfare')
+    ,('Charlotte Born', 'Sentience Politics', 'Intern', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, 'Intern', 'Animal welfare')
+    ,('Lea Born', 'Sentience Politics', 'Board Member', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, 'Board Member', 'Animal welfare')
+    ,('Tamina Graber', 'Sentience Politics', 'Campaign management primate initiative', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, NULL, 'Animal welfare')
+    ,('Anna Grun', 'Sentience Politics', 'Head of communications', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, NULL, 'Animal welfare')
+    ,('Julia Huguenin', 'Sentience Politics', 'Campaign team', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, NULL, 'Animal welfare')
+    ,('Johanna Kuhn', 'Sentience Politics', 'Head of agricultural policy', '2021-11-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/ https://www.linkedin.com/in/johanna-kuhn/', NULL, NULL, 'Animal welfare')
+    ,('Johanna Kuhn', 'Sentience Politics', 'Management', '2020-07-01', 'month', '2021-11-01', 'month', 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/ https://www.linkedin.com/in/johanna-kuhn/', NULL, NULL, 'Animal welfare')
+    ,('Naoki Peter', 'Sentience Politics', 'co-presidency', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, NULL, 'Animal welfare')
+    ,('Naomi Rey', 'Sentience Politics', 'Intern', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, 'Intern', 'Animal welfare')
+    ,('Philipp Ryf', 'Sentience Politics', 'Co-presidium, campaign management initiative against factory farming', '2017-08-01', 'month', NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/ https://www.linkedin.com/in/philipp-ryf-24095563/', NULL, 'part-time', 'Animal welfare')
+    ,('Charles Saint-Marc', 'Sentience Politics', 'Campaign team', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, NULL, 'Animal welfare')
+    ,('Katerina Stoykova', 'Sentience Politics', 'Advisor', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, 'Advisor', 'Animal welfare')
+    ,('Markus Wild', 'Sentience Politics', 'Advisor', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, 'Advisor', 'Animal welfare')
  
+
+
+
+
+
 
 
 
