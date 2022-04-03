@@ -1,7 +1,7 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
-    ('Peter McIntyre', '80,000 Hours', 'Head of Coaching', '2016-02-01', NULL, '2018-06-01', NULL, 'https://www.linkedin.com/in/peteramcintyre/?originalSubdomain=uk', 'profile says he worked as Head of Coaching between Feb 2016 and Jul 2018', NULL, 'effective altruism') 
-    ,('William MacAskill', '80,000 Hours', 'President', '2011-11-01', NULL, NULL, NULL, 'http://web.archive.org/web/20120115044830/http://80000hours.org/meet-the-team', 'William MacAskill was originally named William Crouch', NULL, 'effective altruism')
-    ,('Benjamin Todd', '80,000 Hours', 'Managing Director', '2011-11-01', NULL, NULL, NULL, 'http://web.archive.org/web/20120115044830/http://80000hours.org/meet-the-team', NULL, NULL, 'effective altruism')
+     ('Peter McIntyre', '80,000 Hours', 'Head of Coaching', '2016-02-01', NULL, '2018-06-01', NULL, 'https://www.linkedin.com/in/peteramcintyre/?originalSubdomain=uk', 'profile says he worked as Head of Coaching between Feb 2016 and Jul 2018', NULL, 'effective altruism') 
+    ,('William MacAskill', '80,000 Hours', 'President', '2011-09-01', 'month', NULL, NULL, 'http://web.archive.org/web/20120115044830/http://80000hours.org/meet-the-team https://www.linkedin.com/in/wdmacaskill/', 'William MacAskill was originally named William Crouch', NULL, 'effective altruism')
+    ,('Benjamin Todd', '80,000 Hours', 'Managing Director', '2011-10-01', 'month', NULL, NULL, 'http://web.archive.org/web/20120115044830/http://80000hours.org/meet-the-team https://www.linkedin.com/in/benjamin-j-todd/', NULL, NULL, 'effective altruism')
     ,('Vicky Clayton', '80,000 Hours', 'Researcher', '2011-11-01', NULL, '2012-09-24', NULL, 'http://web.archive.org/web/20120115044830/http://80000hours.org/meet-the-team http://web.archive.org/web/20120924094442/http://80000hours.org/meet-the-team', NULL, NULL, 'effective altruism') 
     ,('Ashley Dodge', '80,000 Hours', 'Events Team Member', '2011-11-01', NULL, '2012-09-24', NULL, 'http://web.archive.org/web/20120115044830/http://80000hours.org/meet-the-team http://web.archive.org/web/20120924094442/http://80000hours.org/meet-the-team', NULL, NULL, 'effective altruism')
     ,('Max Harris', '80,000 Hours', 'Events Manager', '2011-11-01', NULL, '2012-09-24', NULL, 'http://web.archive.org/web/20120115044830/http://80000hours.org/meet-the-team http://web.archive.org/web/20120924094442/http://80000hours.org/meet-the-team', NULL, NULL, 'effective altruism')
@@ -15,11 +15,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Eric Gastfriend', '80,000 Hours', '80,000 Hours online social network developer', '2011-11-01', NULL, '2012-09-24', NULL, 'http://web.archive.org/web/20120115044830/http://80000hours.org/meet-the-team http://web.archive.org/web/20120501000000*/http://80000hours.org/meet-the-team', NULL, NULL, 'effective altruism')
     ,('Robbie Shade', '80,000 Hours', '80,000 Hours website lead developer', '2011-11-01', NULL, '2013-04-10', NULL, 'http://web.archive.org/web/20120115044830/http://80000hours.org/meet-the-team http://web.archive.org/web/20130410235815/http://80000hours.org:80/meet-the-team', NULL, NULL, 'effective altruism')
     ,('Arden Koehler', '80,000 Hours', 'Research Analyst', '2019-10-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/arden-koehler-2623a14a/', NULL, NULL, 'effective altruism')
-    ,('Brenton Mayer', '80,000 Hours', 'Head of Internal Systems', '2017-02-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/brenton-mayer-a2835188/', NULL, NULL, 'effective altruism')
-    ,('Habiba Islam', '80,000 Hours', 'Advisor', '2020-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/habiba-i-5a1aa194/', NULL, NULL, 'effective altruism')
-    ,('Howie Lempel', '80,000 Hours', 'Strategy Advisor', '2018-09-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/howie-lempel/', NULL, NULL, 'effective altruism')
-    ,('Robert Wiblin', '80,000 Hours', 'Director of Research', '2015-07-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/robertwiblin/?originalSubdomain=uk', NULL, NULL, 'effective altruism')
-    ,('Roman Duda', '80,000 Hours', 'Director of Content', '2013-03-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/roman-duda-52287a52/', NULL, NULL, 'effective altruism')
+    ,('Brenton Mayer', '80,000 Hours', 'Head of Internal Systems', '2017-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/brenton-mayer-a2835188/', NULL, NULL, 'effective altruism')
+    ,('Habiba Islam', '80,000 Hours', 'Advisor', '2020-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/habiba-i-5a1aa194/', NULL, 'Advisor', 'effective altruism')
+    ,('Howie Lempel', '80,000 Hours', 'Strategy Advisor', '2018-09-01', 'month', '2021-01-01', 'month', 'https://www.linkedin.com/in/howie-lempel/', NULL, NULL, 'effective altruism')
+    ,('Robert Wiblin', '80,000 Hours', 'Director of Research', '2015-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/robertwiblin/?originalSubdomain=uk', NULL, 'full-time', 'effective altruism')
+    ,('Roman Duda', '80,000 Hours', 'Director of Content', '2013-03-01', 'month', '2018-05-01', 'month', 'https://www.linkedin.com/in/roman-duda-52287a52/', NULL, NULL, 'effective altruism')
+    ,('Roman Duda', '80,000 Hours', 'Software Engineer & Systems Analyst', '2018-05-01', 'month', '2020-05-01', 'month', 'https://www.linkedin.com/in/roman-duda-52287a52/', NULL, 'full-time', 'effective altruism')
     ,('Keiran Harris', '80,000 Hours', 'Podcast producer', '2017-09-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/keiran-harris-b799541a6/', NULL, NULL, 'effective altruism')
     ,('Peter Hartree', '80,000 Hours', 'Technical Director', '2014-11-17', NULL, NULL, NULL, 'https://web.archive.org/web/20141117051318/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
     ,('Jenna Peters', '80,000 Hours', 'Advisor', '2020-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jenna-c-peters/?originalSubdomain=uk  https://web.archive.org/web/20200220010455/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20200314122946/ https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
@@ -58,19 +59,98 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Mason Hartman', '80,000 Hours', 'Operations Analyst at Centre For Effective Altruism staff who assist 80,000 Hours', '2018-04-08', NULL, '2018-10-07', NULL, 'https://web.archive.org/web/20180401174755/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20180408174204/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20181007174115/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
     ,('Larissa Hesketh-Rowe', '80,000 Hours', 'Chief Operating Officer at Centre For Effective Altruism staff who assist 80,000 Hours', '2018-04-08', NULL, '2019-02-24', NULL, 'https://web.archive.org/web/20180401174755/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20180408174204/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20190224184726/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
     ,('Naoki Peter', '80,000 Hours', 'Freelance web developer', '2018-04-15', NULL, '2018-09-09', NULL, 'https://web.archive.org/web/20180408174204/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20180415175956/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20180909181140/https://80000hours.org/about/meet-the-team/', NULL, 'contractor', 'effective altruism')
-    ,('Michelle Hutchinson', '80,000 Hours', 'Career Coach', '2018-09-09', NULL, NULL, NULL, 'https://web.archive.org/web/20180902182236/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20180909181140/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
+    ,('Michelle Hutchinson', '80,000 Hours', 'Career Coach', '2018-08-01', 'month', '2019-02-01', 'month', 'https://web.archive.org/web/20180902182236/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20180909181140/https://80000hours.org/about/meet-the-team/ https://www.linkedin.com/in/michelle80k/', NULL, NULL, 'effective altruism')
+    ,('Michelle Hutchinson', '80,000 Hours', 'Head of Advising', '2019-02-01', 'month', '2020-12-01', 'month', 'https://www.linkedin.com/in/michelle80k/', NULL, NULL, 'effective altruism')
     ,('Chloe Malone', '80,000 Hours', 'U.S. Operations Specialist at CEA staff who work with 80,000 Hours', '2019-06-17', NULL, NULL, NULL, 'https://web.archive.org/web/20190508220534/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20190617210852/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
     ,('Josh Axford', '80,000 Hours', 'UK Operations Specialist at CEA staff who work with 80,000 Hours', '2019-06-17', NULL, NULL, NULL, 'https://web.archive.org/web/20190508220534/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20190617210852/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
     ,('Mary O’Connor', '80,000 Hours', 'Office Manager', '2019-12-02', 'year', '2020-01-19', NULL, 'https://web.archive.org/web/20190617210852/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20191202133651/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20200119184324/https://80000hours.org/about/meet-the-team/', NULL, 'contractor', 'effective altruism')
     ,('Claire Zabel', '80,000 Hours', 'Trustee', '2019-12-02', 'year', NULL, NULL, 'https://web.archive.org/web/20191202133651/https://80000hours.org/about/meet-the-team/', NULL, 'advisor', 'effective altruism')
     ,('Hilary Greaves', '80,000 Hours', 'Trustee', '2019-12-24', NULL, NULL, NULL, 'https://web.archive.org/web/20190617210852/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20191224082517/https://80000hours.org/about/meet-the-team/', NULL, 'advisor', 'effective altruism')
     ,('Louis Dixon', '80,000 Hours', 'Finance Lead at CEA staff who work with 80,000 Hours', '2020-02-20', NULL, NULL, NULL, 'https://web.archive.org/web/20200119184324/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20200220010455/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
-    ,('Brian Tse', '80,000 Hours', 'Advisor', '2020-07-02', 'month', NULL, NULL, 'https://web.archive.org/web/20200511125559/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20200702101035/https://80000hours.org/about/meet-the-team/', NULL, 'advisor', 'effective altruism')
+    ,('Brian Tse', '80,000 Hours', 'Advisor', '2018-02-01', 'month', NULL, NULL, 'https://web.archive.org/web/20200511125559/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20200702101035/https://80000hours.org/about/meet-the-team/ https://www.linkedin.com/in/briantsemanhei/', NULL, 'advisor', 'effective altruism')
     ,('Carl Shulman', '80,000 Hours', 'Advisor', '2014-11-17', 'year', NULL, NULL, 'https://web.archive.org/web/20141117060412/https://80000hours.org/about/meet-the-team/', NULL, 'Advisor', 'effective altruism')
-	,('Peter McIntyre', '80,000 Hours', 'Head of Growth-marketing', '2020-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/peteramcintyre/?originalSubdomain=uk', NULL, NULL, 'Effective altruism')
-	,('Peter McIntyre', '80,000 Hours', 'Head of Recruiting', '2018-08-01', 'month', '2020-12-31', 'month', 'https://app.effectivealtruism.org/funds/ea-community#fund-managers https://www.linkedin.com/in/peteramcintyre/?originalSubdomain=uk', NULL, NULL, 'Effective altruism')
+    ,('Peter McIntyre', '80,000 Hours', 'Head of Growth-marketing', '2020-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/peteramcintyre/?originalSubdomain=uk', NULL, NULL, 'Effective altruism')
+    ,('Peter McIntyre', '80,000 Hours', 'Head of Recruiting', '2018-08-01', 'month', '2020-12-31', 'month', 'https://app.effectivealtruism.org/funds/ea-community#fund-managers https://www.linkedin.com/in/peteramcintyre/?originalSubdomain=uk', NULL, NULL, 'Effective altruism')
     ,('Jess Whittlestone', '80,000 Hours', 'Advisor', '2014-11-17', 'year', NULL, NULL, 'https://web.archive.org/web/20141117060412/https://80000hours.org/about/meet-the-team/', NULL, 'Advisor', 'effective altruism')
-;
+    ,('Alex Lawsen', '80,000 Hours', 'Advisor', '2021-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/ https://www.linkedin.com/in/alex-lawsen-3b176121b/', NULL, 'Advisor', 'effective altruism')
+    ,('Arden Koehler', '80,000 Hours', 'Website Director', '2022-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
+    ,('Bella Forristal', '80,000 Hours', 'Marketer', '2022-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
+    ,('Benjamin Hilton', '80,000 Hours', 'Research Analyst', '2022-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
+    ,('Howie Lempel', '80,000 Hours', 'Chief of Staff', '2021-04-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/ https://www.linkedin.com/in/howie-lempel/', NULL, NULL, 'effective altruism')
+    ,('Howie Lempel', '80,000 Hours', 'Director of Strategy', '2021-02-01', 'month', '2021-04-01', 'month', 'https://www.linkedin.com/in/howie-lempel/', NULL, NULL, 'effective altruism')
+    ,('Jenna Peters', '80,000 Hours', 'Analyst', '2020-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/ https://www.linkedin.com/in/jenna-c-peters/', NULL, 'full-time', 'effective altruism')
+    ,('Luisa Rodriguez', '80,000 Hours', 'Research Analyst', '2021-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/ https://www.linkedin.com/in/luisa-rodriguez-837835bb/', NULL, 'full-time', 'effective altruism')
+    ,('María Gutiérrez Rojas', '80,000 Hours', 'Job Board Manager', '2018-06-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/ https://www.linkedin.com/in/maria-gutierrez-rojas-82218399/', NULL, NULL, 'effective altruism')
+    ,('Matt Reardon', '80,000 Hours', 'Advisor', '2021-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/ https://www.linkedin.com/in/matt-reardon-021a9b3a/', NULL, 'Advisor', 'effective altruism')
+    ,('Michelle Hutchinson', '80,000 Hours', 'Assistant Director of One-on-one Programme', '2021-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/ https://www.linkedin.com/in/michelle80k/', NULL, NULL, 'effective altruism')
+    ,('Niel Bowerman', '80,000 Hours', 'Director of One-on-One Programme and Job Board', '2020-12-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/ https://www.linkedin.com/in/nielbowerman/', NULL, 'full-time', 'effective altruism')
+    ,('Niel Bowerman', '80,000 Hours', 'AI policy specialist', '2017-10-01', 'month', '2020-12-01', 'month', 'https://www.linkedin.com/in/nielbowerman/', NULL, NULL, 'effective altruism')
+    ,('Rob Wiblin', '80,000 Hours', 'Head of Research', '2022-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
+    ,('Roman Duda', '80,000 Hours', 'Software Engineer', '2021-06-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/ https://www.linkedin.com/in/roman-duda-52287a52/', NULL, 'full-time', 'effective altruism')
+    ,('Sashika Coxhead', '80,000 Hours', 'Operations Specialist', '2021-05-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/ https://www.linkedin.com/in/sashika-coxhead-68ba09100/', NULL, NULL, 'effective altruism')
+    ,('Sashika Coxhead', '80,000 Hours', 'Junior Operations Specialist', '2020-09-01', 'month', '2021-05-01', 'month', 'https://www.linkedin.com/in/sashika-coxhead-68ba09100/', NULL, NULL, 'effective altruism')
+    ,('Ben Cordell', '80,000 Hours', 'Audio Engineer', '2022-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
+    ,('Katy Moore', '80,000 Hours', 'Copy Editor', '2021-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/ https://www.linkedin.com/in/katy-moore-29b78565/', NULL, NULL, 'effective altruism')
+    ,('Valerie Richmond', '80,000 Hours', 'Software Engineer', '2022-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
+    ,('Andrew Leeke', '80,000 Hours', 'Operations Associate', '2022-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
+    ,('Josh Axford', '80,000 Hours', 'Head of Operations', '2022-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
+    ,('Litawn Gan', '80,000 Hours', 'Finance & Data Lead', '2022-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
+    ,('Will MacAskill', '80,000 Hours', 'Co-founder and President', '2022-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
+    ,('Tasha McCauley', '80,000 Hours', 'Trustee', '2022-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
+    ,('Peter Hartree', '80,000 Hours', 'Advisor', '2022-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/', NULL, 'Advisor', 'effective altruism')
+    ,('Akash Wasil', '80,000 Hours', 'Contractor', '2022-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/akash-wasil-74bb50120/', NULL, 'Contractor', 'effective altruism')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
 
 
 
