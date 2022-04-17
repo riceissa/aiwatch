@@ -10,6 +10,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Neysa Colizzi', 'The Humane League', 'Director', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20210205151345/https://thehumaneleague.org/our-leadership', NULL, NULL, 'Animal welfare')
     ,('Jacob Eliosoff', 'The Humane League', 'Secretary', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20210205151345/https://thehumaneleague.org/our-leadership', NULL, NULL, 'Animal welfare')
     ,('Alicia Rodriguez', 'The Humane League', 'Director', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20210205151345/https://thehumaneleague.org/our-leadership', NULL, NULL, 'Animal welfare')
+    ,('Alicia Rodriguez', 'The Humane League', 'Board Member', '2019-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alicia-rodriguez-3b6aa068/', NULL, 'Board Member', 'Animal welfare')
     ,('Shannon Campion', 'The Humane League', 'Director', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20210205151345/https://thehumaneleague.org/our-leadership', NULL, NULL, 'Animal welfare')
     ,('Eryn Johnson', 'The Humane League', 'New Media Intern', '2017-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/erynjohnsonsocial/', NULL, 'volunteer', 'Animal welfare')
     ,('Samara Mendez', 'The Humane League', 'Economist', '2018-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/samara-mendez-97741750/', NULL, NULL, 'Animal welfare')
@@ -20,11 +21,13 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Clare Farrow', 'The Humane League', 'Open Wing Alliance Membership Cordinator', '2018-01-01', 'month', '2019-08-01', 'month', 'https://web.archive.org/web/20181022031654/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/claremfarrow/', NULL, NULL, 'Animal welfare')
     ,('Clare Farrow', 'The Humane League', 'NYC Grassroots Director', '2016-06-01', 'month', '2018-01-01', 'month', 'https://web.archive.org/web/20170313104721/http://thehumaneleague.org/our-story/ https://www.linkedin.com/in/claremfarrow/', NULL, NULL, 'Animal welfare')
     ,('Kristen Diederich', 'The Humane League', 'Donor Relations Manager', '2017-04-01', 'month', '2018-04-01', 'month', 'https://web.archive.org/web/20170910070122/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/kristen-diederich/', NULL, NULL, 'Animal welfare')
-    ,('Kristen Diederich', 'The Humane League', 'Development Projects Manager', '2018-04-01', 'month', NULL, NULL, 'https://web.archive.org/web/20181022031654/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/kristen-diederich/', NULL, NULL, 'Animal welfare')
+    ,('Kristen Diederich', 'The Humane League', 'Development Projects Manager', '2018-04-01', 'month', '2020-08-01', 'month', 'https://web.archive.org/web/20181022031654/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/kristen-diederich/', NULL, NULL, 'Animal welfare')
+    ,('Kristen Diederich', 'The Humane League', 'Director Of Annual Giving', '2020-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kristen-diederich/', NULL, NULL, 'Animal welfare')
     ,('Kyle Fujisawa', 'The Humane League', 'Web Developer Intern', '2017-08-01', 'month', '2017-12-01', 'month', 'https://www.linkedin.com/in/kyle-fujisawa-563648139/', NULL, 'intern', 'Animal welfare')
     ,('Kyle Fujisawa', 'The Humane League', 'Web Developer', '2018-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kyle-fujisawa-563648139/', NULL, NULL, 'Animal welfare')
     ,('Caroline Mills', 'The Humane League', 'Donor Relations Manager', '2016-08-01', 'month', '2018-09-01', 'month', 'https://web.archive.org/web/20170313104721/http://thehumaneleague.org/our-story/ https://www.linkedin.com/in/caroline-mills-7abab91a/', NULL, NULL, 'Animal welfare')
-    ,('Caroline Mills', 'The Humane League', 'Director Of Donor Relations', '2018-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/caroline-mills-7abab91a/', NULL, NULL, 'Animal welfare')
+    ,('Caroline Mills', 'The Humane League', 'Director Of Donor Relations', '2018-09-01', 'month', '2022-01-01', 'month', 'https://www.linkedin.com/in/caroline-mills-7abab91a/', NULL, NULL, 'Animal welfare')
+    ,('Caroline Mills', 'The Humane League', 'Chief Of Staff', '2022-01-01', 'month', 'NULL, NULL, 'https://www.linkedin.com/in/caroline-mills-7abab91a/', NULL, 'full-time', 'Animal welfare')
     ,('Stephanie Frankle', 'The Humane League', 'San Francisco Grassroots Director', '2014-01-01', 'month', '2016-06-01', 'month', 'https://web.archive.org/web/20140501000011/http://thehumaneleague.org/our-story.html https://www.linkedin.com/in/stephanie-frankle-0597455a/', NULL, NULL, 'Animal welfare')
     ,('Stephanie Frankle', 'The Humane League', 'Campus Outreach Director', '2016-07-01', 'month', '2017-05-01', 'month', 'http://web.archive.org/web/20170313104721/http://thehumaneleague.org/our-story/ https://www.linkedin.com/in/stephanie-frankle-0597455a/', NULL, NULL, 'Animal welfare')
     ,('Stephanie Frankle', 'The Humane League', 'Director of Student Engagement', '2017-05-01', 'month', '2018-06-01', 'month', 'https://web.archive.org/web/20170910070122/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/stephanie-frankle-0597455a/', NULL, NULL, 'Animal welfare')
@@ -32,7 +35,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jon Camp', 'The Humane League', 'Vice President, Grassroots', '2016-01-01', 'month', '2016-01-01', 'month', 'https://web.archive.org/web/20170910070122/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/jon-camp-2097a1152/', NULL, NULL, 'Animal welfare')
     ,('Jon Camp', 'The Humane League', 'National Grassroots Director', '2016-02-01', NULL, NULL, NULL, 'https://web.archive.org/web/20160202053112/http://www.thehumaneleague.org/our-story/', NULL, NULL, 'Animal welfare')
     ,('Jon Camp', 'The Humane League', 'Senior Officer, Community Engagement', '2016-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jon-camp-2097a1152/', NULL, NULL, 'Animal welfare') 
-    ,('Adrian Guinn', 'The Humane League', 'Boston Grassroots Coordinator', '2017-10-01', 'month', NULL, NULL, 'https://web.archive.org/web/20181022031654/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/adrian-guinn-7827b1171/', NULL, NULL, 'Animal welfare')
+    ,('Adrian Guinn, 'The Humane League', 'Boston Grassroots Coordinator', '2017-10-01', 'month', NULL, NULL, 'https://web.archive.org/web/20181022031654/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/adrian-guinn-7827b1171/', NULL, NULL, 'Animal welfare')
     ,('Anna Finch', 'The Humane League', 'Fundraising Events Coordinator', '2018-05-01', 'month', NULL, NULL, 'https://web.archive.org/web/20181022031654/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/anna-lea-finch/', NULL, NULL, 'Animal welfare')
     ,('Erin Dorman', 'The Humane League', 'Copywritter', '2020-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/erin-doman-15399195/', NULL, NULL, 'Animal welfare')
     ,('Maitlyn Healy', 'The Humane League', 'Field Organizer- DC', '2019-8-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/maitlynhealy/', NULL, 'full-time', 'Animal welfare')
@@ -46,7 +49,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Michelle Kucerak', 'The Humane League', 'Director of Development', '2015-02-01', NULL, NULL, NULL, 'https://web.archive.org/web/20150224014722/http://thehumaneleague.org/our-story.html', NULL, NULL, 'Animal welfare')
     ,('Laura Elseroad', 'The Humane League', 'National Volunteer Coordinator, US', '2017-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lauraelseroad/', NULL, NULL, 'Animal welfare')
     ,('Laura Elseroad', 'The Humane League', 'Senior Field Organizer, Regional', '2019-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lauraelseroad/', NULL, NULL, 'Animal welfare') 
-    ,('Alex Wolfe', 'The Humane League', 'NYC Field Organizer', '2019-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alex-wolfe-55ba2435/', NULL, NULL, 'Animal welfare')
+    ,('Alex Wolfe', 'The Humane League', 'NYC Field Organizer', '2019-08-01', 'month', '2021-01-01', 'month', 'https://www.linkedin.com/in/alex-wolfe-55ba2435/', NULL, NULL, 'Animal welfare')
+    ,('Alex Wolfe', 'The Humane League', 'Senior Field Organizer', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alex-wolfe-55ba2435/', NULL, 'full-time', 'Animal welfare')
     ,('Kassy Ortega', 'The Humane League', 'Grassroots Director', '2016-01-01', 'month', '2017-07-01', 'month','https://web.archive.org/web/20160202053112/http://www.thehumaneleague.org/our-story/ https://www.linkedin.com/in/kassyortega/', NULL, NULL, 'Animal welfare')
     ,('Kassy Ortega', 'The Humane League', 'Corporate Relations Manager', '2017-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20170910070122/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/kassyortega/', NULL, NULL, 'Animal welfare')
     ,('Britta Johnson', 'The Humane League', 'Regional Field Organizer', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/britta-johnson-2b54b461/', NULL, NULL, 'Animal welfare')
@@ -54,8 +58,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Diana Cimino', 'The Humane League', 'Senior Donor Relations Manager', '2018-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dianacimino/', NULL, NULL, 'Animal welfare')
     ,('Taylor Ford', 'The Humane League', 'Corporate Campaigns Manager', '2014-12-01', 'month', '2017-04-01', 'month', 'https://web.archive.org/web/20150224014722/http://thehumaneleague.org/our-story.html https://www.linkedin.com/in/taylor-ford-83648693/', NULL, NULL, 'Animal welfare')
     ,('Taylor Ford', 'The Humane League', 'Senior Campaign Coordinator', '2015-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20150406021902/http://thehumaneleague.org/our-story/', NULL, NULL, 'Animal welfare')  
-    ,('Taylor Ford', 'The Humane League', 'Director of Campaigns', '2017-01-01', 'month', '2020-01-01', 'month', 'https://web.archive.org/web/20170910070122/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/taylor-ford-83648693/', NULL, NULL, 'Animal welfare')
-    ,('Taylor Ford', 'The Humane League', 'Director of Corporate Engagement', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/taylor-ford-83648693/', NULL, NULL, 'Animal welfare')
+    ,('Taylor Ford', 'The Humane League', 'Director of Campaigns', '2017-04-01', 'month', '2020-01-01', 'month', 'https://web.archive.org/web/20170910070122/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/taylor-ford-83648693/', NULL, NULL, 'Animal welfare')
+    ,('Taylor Ford', 'The Humane League', 'Director of Corporate Engagement', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/taylor-ford-83648693/', NULL, 'full-time', 'Animal welfare')
     ,('Beth Anne Hendrickson', 'The Humane League', 'Corporate Relations Specialist', '2017-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20181022031654/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/bethannehendrickson/', NULL, NULL, 'Animal welfare')
     ,('Jyllian Shepard', 'The Humane League', 'Human Resources Coordinator', '2017-09-01', 'month', '2018-04-01', 'month', 'https://www.linkedin.com/in/jyllian-shepard/', NULL, 'full-time', 'Animal welfare')
     ,('Jyllian Shepard', 'The Humane League', 'Human Resources Manager', '2018-04-01', 'month', '2019-01-01', 'month', 'https://www.linkedin.com/in/jyllian-shepard/', NULL, 'full-time', 'Animal welfare')
@@ -65,7 +69,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Chris Liptrot', 'The Humane League', 'Director Of Corporate Relations', '2017-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20170910070122/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/chris-liptrot-730289120/', NULL, NULL, 'Animal welfare')
     ,('Kelly Myers', 'The Humane League', 'Corporate Campaigns Coordinator', '2016-04-02', 'month', '2020-02-01', 'month', 'https://web.archive.org/web/20160402161712/http://thehumaneleague.org/our-story/ https://www.linkedin.com/in/kelly-myers-4b08a780/', NULL, NULL, 'Animal welfare')
     ,('Kelly Myers', 'The Humane League', 'Senior Campaigns Specialist', '2019-01-01', 'year', '2020-02-01', 'month', 'https://www.linkedin.com/in/kelly-myers-4b08a780/', NULL, NULL, 'Animal welfare')
-    ,('Kelly Myers', 'The Humane League', 'Corporate Campaigns Manager', '2020-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kelly-myers-4b08a780/', NULL, NULL, 'Animal welfare')
+    ,('Kelly Myers', 'The Humane League', 'Corporate Campaigns Manager', '2020-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kelly-myers-4b08a780/', NULL, 'full-time', 'Animal welfare')
     ,('Katerra Martin', 'The Humane League', 'Corporate Relations Specialist', '2018-12-01', 'month', '2020-03-01', 'month', 'https://www.linkedin.com/in/katerra-martin/', NULL, NULL, 'Animal welfare')
     ,('Rachel Huff-Wagenborg', 'The Humane League', 'Vice President of Operations', '2014-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20170910070122/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/rachelh-w/', NULL, NULL, 'Animal welfare')
     ,('Rachel Huff-Wagenborg', 'The Humane League', 'Seattle Director', '2014-05-01', NULL, NULL, NULL, 'https://web.archive.org/web/20140501000011/http://thehumaneleague.org/our-story.html https://www.linkedin.com/in/rachelh-w/', NULL, NULL, 'Animal welfare')
@@ -77,13 +81,17 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('David Coman-Hidy', 'The Humane League', 'Boston Grassroots Director', '2010-01-01', 'year', '2013-01-01', 'year', 'https://web.archive.org/web/20140501000011/http://thehumaneleague.org/our-story.html https://www.linkedin.com/in/david-coman-hidy-4816b727/', NULL, NULL, 'Animal welfare')
     ,('David Coman-Hidy', 'The Humane League', 'President', '2013-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20170910070122/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/david-coman-hidy-4816b727/', NULL, NULL, 'Animal welfare')
     ,('David Coman-Hidy', 'The Humane League', 'Executive Director', '2014-05-01', NULL, NULL, NULL, 'https://web.archive.org/web/20140501000011/http://thehumaneleague.org/our-story.html', NULL, NULL, 'Animal welfare')
-    ,('Dena Blumenthal', 'The Humane League', 'Campaign coordinator', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/denablum/', NULL, NULL, 'Animal welfare')
-    ,('Amanda Waxman', 'The Humane League', 'Social Media Coordinator', '2019-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/amanda-waxman-032721148/', NULL, NULL, 'Animal welfare')
+    ,('Dena Blumenthal', 'The Humane League', 'Campaign coordinator', '2019-03-01', 'month', '2021-07-01', 'month', 'https://www.linkedin.com/in/denablum/', NULL, NULL, 'Animal welfare')
+    ,('Dena Blumenthal', 'The Humane League', 'Campaigns Specialist', '2021-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/denablum/', NULL, NULL, 'Animal welfare')
+    ,('Amanda Waxman', 'The Humane League', 'Social Media Coordinator', '2019-02-01', 'month', '2021-08-01', 'month', 'https://www.linkedin.com/in/amanda-waxman-032721148/', NULL, NULL, 'Animal welfare')
+    ,('Amanda Waxman', 'The Humane League', 'Writer and Editor', '2021-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/amanda-w-032721148/', NULL, NULL, 'Animal welfare')
     ,('Kelsey Joseph', 'The Humane League', 'Grassroots Coordinator Charlotte', '2017-10-01', 'month', NULL, NULL, 'https://web.archive.org/web/20181022031654/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/kelsey-joseph/', NULL, NULL, 'Animal welfare')
     ,('Kelsey Joseph', 'The Humane League', 'Senior Regional Field Organizer', '2019-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/kelsey-joseph/', NULL, NULL, 'Animal welfare')
-    ,('Danielle Fahs', 'The Humane League', 'Digital Mobilization Specialist', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/danielle-fahs/', NULL, NULL, 'Animal welfare')
+    ,('Danielle Fahs', 'The Humane League', 'Digital Mobilization Specialist', '2019-03-01', 'month', '2021-06-01', 'month', 'https://www.linkedin.com/in/danielle-fahs/', NULL, NULL, 'Animal welfare')
+    ,('Danielle Fahs', 'The Humane League', 'Digital Mobilization Manager', '2021-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/danielle-fahs/', NULL, 'full-time', 'Animal welfare')
     ,('Derek Shiller', 'The Humane League', 'Web Developer', '2018-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/derek-shiller-3a254b121/', NULL, NULL, 'Animal welfare')
     ,('Angel Lugo', 'The Humane League', 'Video Editor', '2018-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/angel-lugo-88183722/', NULL, NULL, 'Animal welfare')
+    ,('Angel Lugo', 'The Humane League', 'Senior Video Editor', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/angel-lugo-88183722/', NULL, 'full-time', 'Animal welfare')
     ,('Catherine Liguori', 'The Humane League', 'Global Digital Ad Coordinator', '2015-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/catherine-liguori-874559129/', NULL, NULL, 'Animal welfare')
     ,('Chris Hendrickson', 'The Humane League', 'Boston Grassroots Director', '2015-09-01', 'month', '2017-09-01', 'month', 'https://web.archive.org/web/20151124231014/http://www.thehumaneleague.org/our-story/ https://www.linkedin.com/in/cahendrickson/', NULL, NULL, 'Animal welfare')
     ,('Chris Hendrickson', 'The Humane League', 'California Campaign Manager', '2017-09-01', 'month', '2019-01-01', 'month', 'https://web.archive.org/web/20181022031654/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/cahendrickson/', NULL, NULL, 'Animal welfare')
@@ -102,13 +110,15 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Katie Zarajczyk', 'The Humane League', 'Campus Outreach Coordinator', '2018-07-01', 'month', '2019-12-01', 'month', 'https://www.linkedin.com/in/katie-zarajczyk-ma-70a5a3176/', NULL, NULL, 'Animal welfare')
     ,('Katie Zarajczyk', 'The Humane League', 'Fellowship Lead', '2019-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/katie-zarajczyk-ma-70a5a3176/', NULL, NULL, 'Animal welfare')
     ,('Daniela Escamilla', 'The Humane League', 'Social Media Manager', '2019-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/danielaescamilla/', NULL, NULL, 'Animal welfare')
-    ,('Kalista Barter', 'The Humane League', 'Senior Director Of Development', '2019-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kalista-barter/', NULL, NULL, 'Animal welfare')
+    ,('Kalista Barter', 'The Humane League', 'Senior Director Of Development', '2019-04-01', 'month', '2021-01-01', 'month', 'https://www.linkedin.com/in/kalista-barter/', NULL, NULL, 'Animal welfare')
+    ,('Kalista Barter', 'The Humane League', 'Vice President, Development', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kalista-barter/', NULL, NULL, 'Animal welfare')
     ,('Brooke Shephard', 'The Humane League', 'Social Media Intern', '2018-11-01', 'month', '2019-02-01', 'month', 'https://www.linkedin.com/in/brooke-shephard-865195154/', NULL, NULL, 'Animal welfare')
     ,('Brooke Shephard', 'The Humane League', 'Community Volunteer', '2018-07-01', 'month', '2019-07-01', 'month', 'https://www.linkedin.com/in/brooke-shephard-865195154/', NULL, 'volunteer', 'Animal welfare')
     ,('Brooke Shephard', 'The Humane League', 'Changemaker Captain', '2019-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/brooke-shephard-865195154/', NULL, NULL, 'Animal welfare')
     ,('Agata Nguyen', 'The Humane League', 'Director of People Operations', '2019-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/agata-nguyen-shrm-cp-3b648629/', NULL, NULL, 'Animal welfare')
     ,('Ariav Feingersch', 'The Humane League', 'Internship', '2015-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ariav-feingersch-27552499/', NULL, 'intern', 'Animal welfare')
-    ,('Allie Gunter', 'The Humane League', 'Campaign Coordinator', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/allie-gunter-35371b32/', NULL, NULL, 'Animal welfare')
+    ,('Allie Gunter', 'The Humane League', 'Campaigns Specialist  ', '2021-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/allie-gunter-35371b32/', NULL, 'full-time' 'Animal welfare')
+    ,('Allie Gunter', 'The Humane League', 'Campaign Coordinator', '2019-03-01', 'month', '2021-07-01', 'month', 'https://www.linkedin.com/in/allie-gunter-35371b32/', NULL, NULL, 'Animal welfare')
     ,('Allie Gunter', 'The Humane League', 'Development Coordinator (Temporary position)', '2018-11-01', 'month', '2019-01-01', 'month', 'https://www.linkedin.com/in/allie-gunter-35371b32/', NULL, NULL, 'Animal welfare')
     ,('Vicky Bond', 'The Humane League', 'Corporate Relations Specialist', '2016-11-01', 'month', '2017-04-01', 'month', 'https://web.archive.org/web/20170313104721/http://thehumaneleague.org/our-story/ https://www.linkedin.com/in/vicky-bond-b9107936/?originalSubdomain=uk', NULL, NULL, 'Animal welfare')
     ,('Vicky Bond', 'The Humane League', 'Managing Director UK', '2017-04-01', 'month', NULL, NULL, 'https://web.archive.org/web/20170910070122/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/vicky-bond-b9107936/?originalSubdomain=uk', NULL, NULL, 'Animal welfare')
@@ -124,8 +134,13 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Klara Schmidt', 'The Humane League UK', 'City Leader Volunteer', '2017-08-01', 'month', '2019-01-01', 'month', 'https://www.linkedin.com/in/kjjschmidt/?originalSubdomain=uk', NULL, NULL, 'Animal welfare')
     ,('Paulina Zyskowski', 'The Humane League', 'The Humane League Student Outreach Intern', '2018-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/paulina-zyskowski-a67544119/', NULL, NULL, 'Animal welfare')
     ,('Stephanie Chase', 'The Humane League', 'Intern', '2017-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/stephanie-chase-0011a456/', NULL, NULL, 'Animal welfare')
-    ,('Hannah Truxell', 'The Humane League', 'Staff Attorney', '2019-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hannahtruxell/', NULL, 'full-time', 'Animal welfare')
-    ,('Sydney South', 'The Humane League', 'Graphic Designer', '2017-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sydney-south-0b950185/', NULL, NULL, 'Animal welfare')
+    ,('Hannah Truxell', 'The Humane League', 'Staff Attorney', '2019-09-01', 'month', '2021-01-01', 'month', 'https://www.linkedin.com/in/hannahtruxell/', NULL, 'full-time', 'Animal welfare')
+    ,('Hannah Truxell', 'The Humane League', 'Associate Counsel', '2021-01-01', 'month', '2021-09-01', 'month', 'https://www.linkedin.com/in/hannahtruxell/', NULL, 'full-time', 'Animal welfare')
+    ,('Hannah Truxell', 'The Humane League', 'Assistant General Counsel', '2021-09-01', 'month', '2022-03-01', 'month', 'https://www.linkedin.com/in/hannahtruxell/', NULL, 'full-time', 'Animal welfare')
+    ,('Hannah Truxell', 'The Humane League', 'Senior Policy Counsel', '2022-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hannahtruxell/', NULL, 'full-time', 'Animal welfare')
+    ,('Sydney South', 'The Humane League', 'Graphic Designer', '2017-10-01', 'month', '2019-12-01', 'month', 'https://www.linkedin.com/in/sydney-south-0b950185/', NULL, NULL, 'Animal welfare')
+    ,('Sydney South', 'The Humane League', 'Graphic Designer II', '2019-12-01', 'month', '2021-06-01', 'month', 'https://www.linkedin.com/in/sydney-south-0b950185/', NULL, 'full-time', 'Animal welfare')
+    ,('Sydney South', 'The Humane League', 'Senior Designer', '2021-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sydney-south-0b950185/', NULL, NULL, 'Animal welfare')
     ,('Ashley Zebro', 'The Humane League', 'Executive Assistant', '2017-10-01', 'month', '2020-02-01', 'month', 'https://www.linkedin.com/in/ashley-zebro-47612b74/', NULL, NULL, 'Animal welfare')
     ,('Ashley Zebro', 'The Humane League', 'Operations Coordinator', '2020-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ashley-zebro-47612b74/', NULL, NULL, 'Animal welfare')
     ,('Skye Walker', 'The Humane League', 'Changemaker Volunteer', '2020-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/skye-walker-230474170/', NULL, NULL, 'Animal welfare')
@@ -139,9 +154,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Janosch L.', 'The Humane League', 'Research Associate', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/janosch-l-728240138/', NULL, NULL, 'Animal welfare')
     ,('Morgan Nati', 'The Humane League', 'Associate Counsel', '2019-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/morgannati/', NULL, NULL, 'Animal welfare')
     ,('Karen Nilsen', 'The Humane League', 'Director of Digital Communications Strategy', '2020-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/karen-nilsen/', NULL, 'full-time', 'Animal welfare')
+    ,('Karen Nilsen', 'The Humane League', 'Senior Director of Digital Strategy', '2021-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/karen-nilsen/', NULL, 'full-time', 'Animal welfare')
     ,('Edie Bowles', 'The Humane League', 'Trustee', '2018-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/edie-bowles-b2500614/', NULL, NULL, 'Animal welfare')
     ,('Michael Scandle', 'The Humane League', 'Volunteer', '2013-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/michael-scandle-91929183/', NULL, 'volunteer', 'Animal welfare')
     ,('Madeleine Jones', 'The Humane League', 'Community Engagement Research Fellow', '2020-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/madeleine-a-jones/', NULL, NULL, 'Animal welfare')
+    ,('Madeleine Jones', 'The Humane League', 'Social Media Specialist', '2021-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/madeleine-a-jones/', NULL, 'full-time', 'Animal welfare')
     ,('Sajani Fernando', 'The Humane League', 'Communications Fellow', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sajanif/', NULL, 'intern', 'Animal welfare')
     ,('Gabrielle Sweetman', 'The Humane League', 'Veg Advocacy Fellow', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gabrielle-sweetman-3b1136140/', NULL, NULL, 'Animal welfare')
     ,('Lily Lu-Lerner', 'The Humane League', 'Changemaker Captain', '2019-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lily-lu-lerner/', NULL, 'intern', 'Animal welfare')
@@ -151,6 +168,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Maho Cavalier', 'The Humane League', 'Regional Manager', '2017-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/maho-cavalier-98604164/',  NULL, 'full-time', 'Animal welfare')
     ,('Maho Cavalier', 'The Humane League', 'Corporate Relations Specialist, Japan', '2017-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20170313104721/http://thehumaneleague.org/our-story/',  NULL, NULL, 'Animal welfare')
     ,('Cristina Diniz', 'The Humane League', 'Latin America Coordinator for the Open Wing Alliance', '2019-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cristinadiniz/', NULL, NULL, 'Animal welfare')
+    ,('Cristina Diniz', 'The Humane League', 'Senior Latin America Coordinator', '2021-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cristinadiniz/', NULL, 'full-time', 'Animal welfare')
     ,('Jennifer Ashley', 'The Humane League', 'Development Coordinator', '2019-11-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/jennifernashley/', NULL, 'part-time', 'Animal welfare')
     ,('Asvini Ravindran', 'The Humane League', 'New Media Intern', '2018-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/asviniravindran/', NULL, NULL, 'Animal welfare')
     ,('Nicole Birkhold', 'The Humane League', 'Production Artist', '2019-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nicole-birkhold-3a7233b/', NULL, NULL, 'Animal welfare')
@@ -162,10 +180,13 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Ellie Donohue-Miller', 'The Humane League', 'OWA Campaigns Manager', '2017-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ellie-donohue-miller-2789a6121/', NULL, NULL, 'Animal welfare')
     ,('Ellie Donohue-Miller', 'The Humane League', 'Open Wing Alliance Campaign Coordinator', '2017-02-01', 'month', NULL, NULL, 'https://web.archive.org/web/20181022031654/https://thehumaneleague.org/our-story/', NULL, NULL, 'Animal welfare')
     ,('Wendy Watts', 'The Humane League', 'Vice President, Legal and General Counsel', '2017-02-01', 'month', NULL, NULL, 'https://web.archive.org/web/20170910070122/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/wendy-watts/', NULL, NULL, 'Animal welfare')
-    ,('Jessika Griffin', 'The Humane League', 'Regional Field Organizer', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jessika-griffin/', NULL, NULL, 'Animal welfare')
+    ,('Jessika Griffin', 'The Humane League', 'Regional Field Organizer', '2019-03-01', 'month', '2021-01-01', 'month', 'https://www.linkedin.com/in/jessika-griffin/', NULL, NULL, 'Animal welfare')
+    ,('Jessika Griffin', 'The Humane League', 'Senior Regional Field Organizer, Tech Lead', '2021-01-01', 'month', '2022-03-01', 'month', 'https://www.linkedin.com/in/jessika-griffin/', NULL, 'full-time', 'Animal welfare')
+    ,('Jessika Griffin', 'The Humane League', 'Regional Organizing Manager', '2022-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jessika-griffin/', NULL, 'full-time', 'Animal welfare')
     ,('Beau Broughton', 'The Humane League', 'Grassroots Director, San Diego', '2015-05-01', 'month', '2018-09-01', 'month', 'https://web.archive.org/web/20150815225839/http://www.thehumaneleague.org/our-story/ https://www.linkedin.com/in/beauabroughton/', NULL, NULL, 'Animal welfare')
     ,('Beau Broughton', 'The Humane League', 'Grassroots Engagement Manager', '2018-09-01', 'month', '2019-03-01', 'month', 'https://www.linkedin.com/in/beauabroughton/', NULL, NULL, 'Animal welfare')
-    ,('Beau Broughton', 'The Humane League', 'Regional Organizing Manager', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/beauabroughton/', NULL, NULL, 'Animal welfare')
+    ,('Beau Broughton', 'The Humane League', 'Regional Organizing Manager', '2019-03-01', 'month', '2022-01-01', 'month', 'https://www.linkedin.com/in/beauabroughton/', NULL, NULL, 'Animal welfare')
+    ,('Beau Broughton', 'The Humane League', 'Senior Regional Organizing Manager', '2022-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/beauabroughton/', NULL, 'full-time', 'Animal welfare')
     ,('Aaron Ross', 'The Humane League', 'Vice President of Policy and Strategy', '2005-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20170910070122/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/aaron-ross-303b48166/', NULL, NULL, 'Animal welfare')
     ,('Aaron Ross', 'The Humane League', 'Director of Campaigns', '2014-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20140501000011/http://thehumaneleague.org/our-story.html', NULL, NULL, 'Animal welfare')
     ,('Rachel Atcheson', 'The Humane League', 'Philadelphia Campaign Director', '2013-08-01', 'month', '2015-07-01', 'month', 'https://web.archive.org/web/20140501000011/http://thehumaneleague.org/our-story.html https://www.linkedin.com/in/rachel-atcheson-517b47a0/', NULL, NULL, 'Animal welfare')
@@ -221,7 +242,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Becki Markle', 'The Humane League', 'Projects and Events Planner', '2016-11-01', 'month', '2018-06-01', 'month', 'https://web.archive.org/web/20170313104721/http://thehumaneleague.org/our-story/ https://www.linkedin.com/in/beckimarkle/', NULL, NULL, 'Animal welfare')
     ,('Thomas Goodman', 'The Humane League', 'Corporate Campaigns Coordinator', '2016-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20160402161712/http://thehumaneleague.org/our-story/', NULL, NULL, 'Animal welfare')
     ,('Thomas Goodman', 'The Humane League', 'Senior Grassroots Director, D.C.', '2018-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20181022031654/https://thehumaneleague.org/our-story/', NULL, NULL, 'Animal welfare')
-    ,('Michael Windsor', 'The Humane League', 'Corporate Campaigns Coordinator', '2016-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20160402161712/http://thehumaneleague.org/our-story/', NULL, NULL, 'Animal welfare')
+    ,('Michael Windsor', 'The Humane League', 'Corporate Campaigns Coordinator', '2016-04-01', 'month', '2019-02-01', 'month', 'https://web.archive.org/web/20160402161712/http://thehumaneleague.org/our-story/ https://www.linkedin.com/in/michael-windsor-6a0746118/details/experience/', NULL, NULL, 'Animal welfare')
+    ,('Michael Windsor', 'The Humane League', 'Senior Campaigns Specialist', '2019-02-01', 'month', '2019-12-01', 'month', 'https://www.linkedin.com/in/michael-windsor-6a0746118/details/experience/', NULL, NULL, 'Animal welfare')
+    ,('Michael Windsor', 'The Humane League', 'Corporate Projects Lead', '2020-02-01', 'month', '2021-12-01', 'month', 'https://www.linkedin.com/in/michael-windsor-6a0746118/details/experience/', NULL, 'full-time', 'Animal welfare')
+    ,('Michael Windsor', 'The Humane League', 'Corporate Projects Manager', '2022-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/michael-windsor-6a0746118/details/experience/', NULL, 'full-time', 'Animal welfare')
     ,('Daniel Lusk', 'The Humane League', 'Software Engineer', '2016-03-01', 'month', '2017-12-01', 'month', 'https://web.archive.org/web/20160402161712/http://thehumaneleague.org/our-story/ https://www.linkedin.com/in/dluks/', NULL, NULL, 'Animal welfare')
     ,('Daniel Lusk', 'The Humane League', 'Technical Lead', '2017-12-01', 'month', '2018-04-01', 'month', 'https://www.linkedin.com/in/dluks/', 'Based in Greater New York City Area', NULL, 'Animal welfare')
     ,('Daniel Lusk', 'The Humane League', 'Director Of Technology', '2018-04-01', 'month', '2020-08-01', 'month', 'https://web.archive.org/web/20181022031654/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/dluks/', 'Based in Brooklyn, NY', NULL, 'Animal welfare')
@@ -243,7 +267,85 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Rina Rossi', 'The Humane League', 'UC Berkeley Representative for Student Alliance', '2020-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rina-rossi-9415241b6/', NULL, 'Volunteer', 'Animal welfare')
     ,('William Kiely', 'The Humane League', 'Corporate Relations Specialist', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/williamkiely/', NULL, NULL, 'Animal welfare')
     ,('Michelle Jackson', 'The Humane League', 'Volunteer Captain', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/michellejacksonconsulting/', 'Based in Tulsa, Oklahoma', 'Volunteer', 'Animal welfare')
-    ,('Claudia E.', 'The Humane League', 'Communications Coordinator', '2020-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/claudia-escorza/', NULL, NULL, 'Animal welfare')
+    ,('Claudia E.', 'The Humane League', 'Communications Coordinator', '2020-09-01', 'month', '2021-06-01', 'month', 'https://www.linkedin.com/in/claudia-escorza/', NULL, NULL, 'Animal welfare')
+    ,('Claudia E.', 'The Humane League', 'Communications Manager', '2021-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/claudia-escorza/', NULL, 'full-time', 'Animal welfare')
+    ,('Arnav Aggarwal', 'The Humane League', 'Software Engineer', '2021-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/arnavaggarwal/', NULL, 'full-time', 'Animal welfare')
+    ,('Lauren Kristine', 'The Humane League', 'Volunteer', NULL, NULL, NULL, NULL, 'https://www.linkedin.com/in/lauren-kristine-4a276b215/', NULL, 'full-time', 'Animal welfare')
+    ,('Anabelle Dunn', 'The Humane League', 'Student Alliance Representative', '2019-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/anabelle-dunn/', NULL, 'contractor', 'Animal welfare') 
+    ,('Aliya Amanzholova', 'The Humane League', 'Open Wing Alliance Training & Event Specialist', '2022-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/aliya-amanzholova-84090429/', NULL, 'full-time', 'Animal welfare')
+    ,('Sasha C.', 'The Humane League', 'Training and Retention Specialist', '2021-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sasha-c/', NULL, NULL, 'Animal welfare')
+    ,('June O.', 'The Humane League', 'Volunteer', '2021-09-01', 'month', '2021-12-01', 'month', 'https://www.linkedin.com/in/june-ok/', NULL, 'Volunteer', 'Animal welfare')
+    ,('June O.', 'The Humane League', 'Volunteer captain', '2021-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/june-ok/', NULL, 'Volunteer', 'Animal welfare')
+    ,('Yaqi Grover', 'The Humane League', 'Board member', '2021-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/yaqigao/', NULL, 'Board member', 'Animal welfare')
+    ,('Rizlane Baladi', 'The Humane League', 'Trustee', '2021-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rizlanebaladi/', NULL, NULL, 'Animal welfare')
+    ,('Marissa Garst', 'The Humane League', 'Regional Field Organizer', '2021-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/marissa-garst-msw-88582696/', NULL, 'full-time', 'Animal welfare')
+    ,('Nicole Cloutier Frizzo', 'The Humane League', 'Senior Events & Engagement Specialist', '2021-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ngccreative/', NULL, 'full-time', 'Animal welfare')
+    ,('Mia Fernyhough', 'The Humane League', 'Senior Animal Welfare Specialist', '2021-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mia-fernyhough-65122918/', NULL, NULL, 'Animal welfare')
+    ,('Liz Fergus', 'The Humane League', 'Corporate Relations Specialist', '2021-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/liz-fergus-491969191/', NULL, NULL, 'Animal welfare')
+    ,('Shad Clark', 'The Humane League', 'Writer', '2022-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shadclark/', NULL, 'contractor', 'Animal welfare')
+    ,('Mike Turowski', 'The Humane League', 'Junior Graphic Designer', '2021-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mike-turowski-graphic-designer/', NULL, 'full-time', 'Animal welfare')
+    ,('Sabrina Gaytan', 'The Humane League', 'Junior Graphic Designer', '2021-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gaytansabrina/', NULL, 'full-time', 'Animal welfare')
+    ,('Jonathan Frappier', 'The Humane League', 'Senior Donor Relations', '2021-11-01', 'month', '2022-01-01', 'month', 'https://www.linkedin.com/in/jfrappier/', NULL, 'full-time', 'Animal welfare')
+    ,('Jonathan Frappier', 'The Humane League', 'Director Of Donor Relations', '2022-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jfrappier/', NULL, 'full-time', 'Animal welfare')
+    ,('Aurelia Adhiambo', 'The Humane League', 'OWA Africa Coordinator', '2022-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/aurelia-adhiambo-17860710a/', NULL, 'full-time', 'Animal welfare')
+    ,('Erin McCarver', 'The Humane League', 'New Media Intern', '2017-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/erin-mccarver-492818120/', NULL, 'Intern', 'Animal welfare')
+    ,('Ashley Chang', 'The Humane League', 'Content Manager', '2021-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ashley-d-chang/', NULL, 'full-time', 'Animal welfare')
+    ,('Hannah Murray', 'The Humane League', 'Open Wing Alliance Grant Specialist', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hannahvmurray/', NULL, 'full-time', 'Animal welfare')
+    ,('Jessica Crane', 'The Humane League', 'Regional Organizing Manager', '2020-02-01', 'month', '2022-03-01', 'month', 'https://www.linkedin.com/in/jessicacrane/', NULL, NULL, 'Animal welfare')
+    ,('Jessica Crane', 'The Humane League', 'Senior Policy Specialist', '2022-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jessicacrane/', NULL, NULL, 'Animal welfare')
+    ,('Craig Dunham', 'The Humane League', 'Board Member', '2021-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/craigadunham/', NULL, 'Board Member', 'Animal welfare')
+    ,('Janet Martinez', 'The Humane League', 'Field Organizer, Los Angeles', '2019-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/janet-martinez-6b8053128/', NULL, 'full-time', 'Animal welfare')
+    ,('Angel Lau', 'The Humane League', 'Open Wing Alliance Asia Coordinator', '2021-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/angellauwm/', NULL, NULL, 'Animal welfare')
+    ,('Morgan Barber', 'The Humane League', 'Associate Counsel', '2019-09-01', 'month', '2021-06-01', 'month', 'https://www.linkedin.com/in/morganbarber/', NULL, NULL, 'Animal welfare')
+    ,('Morgan Barber', 'The Humane League', 'Interim General Counsel', '2021-06-01', 'month', '2021-08-01', 'month', 'https://www.linkedin.com/in/morganbarber/', NULL, NULL, 'Animal welfare')
+    ,('Morgan Barber', 'The Humane League', 'General Counsel', '2021-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/morganbarber/', NULL, NULL, 'Animal welfare')
+    ,('Gabriel Wildgen', 'The Humane League', 'Director of Public Policy', '2021-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gabrielwildgen/', NULL, 'full-time', 'Animal welfare')
+    ,('Sydney Fox', 'The Humane League', 'Campus Outreach Intern', '2017-09-01', 'month', '2019-06-01', 'month', 'https://www.linkedin.com/in/sydney-fox/', NULL, 'Intern', 'Animal welfare')
+    ,('Sydney Fox', 'The Humane League', 'Senior Regional Field Organizer', '2019-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sydney-fox/', NULL, NULL, 'Animal welfare')
+    ,('LaKeisha Arndt', 'The Humane League', 'Talent Acquisition Specialist', '2021-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lakeishaarndt/', NULL, 'full-time', 'Animal welfare')
+    ,('Paige Reeves', 'The Humane League', 'Changemaker Training Fellow', '2022-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/paige-reeves423/', NULL, 'contractor', 'Animal welfare')
+    ,('Paige Reeves', 'The Humane League', 'Changemaker Training Fellow', '2022-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/paige-reeves423/', NULL, 'contractor', 'Animal welfare')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
