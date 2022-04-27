@@ -24,6 +24,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ai-challenge.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/aiimpacts-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/albert-schweitzer-foundation.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/alter.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/amf-positions.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/animal-advocacy-africa.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/anthropic.sql
