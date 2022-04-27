@@ -89,7 +89,8 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('David Kristoffersson','Sweden','100012144258163',NULL,'davidkristoffersson',NULL,NULL,NULL,'https://www.lesserwrong.com/posts/KgFrtaajjfSnBSZoH/ai-safety-research-camp-project-proposal',NULL)
     ,('John Maxwell',NULL,'johnmaxwelliv',NULL,NULL,NULL,NULL,NULL,'https://www.lesserwrong.com/posts/4WbNGQMvuFtY3So7s/announcement-ai-alignment-prize-winners-and-next-round',NULL)
     ,('Anne Wissemann',NULL,'anne.wissemann',NULL,NULL,NULL,NULL,NULL,'http://archive.today/2018.06.14-212014/https://aisafetycamp.com/about-us/','Executive assistant to Allan Dafoe, but unclear what the exact arrangement is.')
-;
+	,('David Manheim', 'Israel', NULL, 'davidmanheim', NULL, 'davidmanheim', NULL, NULL, NULL, NULL);
+	
 
 # Insert the rest of the people by taking names from positions
 insert into people(person)
