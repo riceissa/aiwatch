@@ -1,6 +1,5 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
   
-
      ('Mark Middleton', 'The Humane League', 'Chairman', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20210205151345/https://thehumaneleague.org/our-leadership', NULL, NULL, 'Animal welfare')
     ,('Lydia Chaudhry', 'The Humane League', 'Secretary', NULL, NULL, NULL, NULL, 'https://thehumaneleague.or g/our-leadership https://www.linkedin.com/in/lydia-chaudhry-7515a858/', NULL, NULL, 'Animal welfare')
     ,('Lydia Chaudhry', 'The Humane League', 'Operations Support & Volunteer Coordinator', '2009-01-01', 'year', '2015-01-01', 'year', 'https://web.archive.org/web/20140501000011/http://thehumaneleague.org/our-story.html https://www.linkedin.com/in/lydia-chaudhry-7515a858/',  NULL, NULL, 'Animal welfare')
@@ -65,7 +64,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jyllian Shepard', 'The Humane League', 'Human Resources Manager', '2018-04-01', 'month', '2019-01-01', 'month', 'https://www.linkedin.com/in/jyllian-shepard/', NULL, 'full-time', 'Animal welfare')
     ,('Jyllian Shepard', 'The Humane League', 'Talent Acquisition Manager', '2019-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jyllian-shepard/', NULL, 'full-time', 'Animal welfare')
     ,('Chris Liptrot', 'The Humane League', 'Campaign Coordinator', '2015-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20150406021902/http://thehumaneleague.org/our-story/', NULL, NULL, 'Animal welfare')  
-    ,('Chris Liptrot', 'The Humane League', 'Corporate Outreach Manager', '2016-02-01', NULL, NULL, NULL, 'https://web.archive.org/web/20160202053112/http://www.thehumaneleague.org/our-story/ https://www.linkedin.com/in/chris-liptrot-730289120/', NULL, NULL, 'Animal welfare')
+     ,('Chris Liptrot', 'The Humane League', 'Corporate Outreach Manager', '2016-02-01', NULL, NULL, NULL, 'https://web.archive.org/web/20160202053112/http://www.thehumaneleague.org/our-story/ https://www.linkedin.com/in/chris-liptrot-730289120/', NULL, NULL, 'Animal welfare')
     ,('Chris Liptrot', 'The Humane League', 'Director Of Corporate Relations', '2017-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20170910070122/https://thehumaneleague.org/our-story/ https://www.linkedin.com/in/chris-liptrot-730289120/', NULL, NULL, 'Animal welfare')
     ,('Kelly Myers', 'The Humane League', 'Corporate Campaigns Coordinator', '2016-04-02', 'month', '2020-02-01', 'month', 'https://web.archive.org/web/20160402161712/http://thehumaneleague.org/our-story/ https://www.linkedin.com/in/kelly-myers-4b08a780/', NULL, NULL, 'Animal welfare')
     ,('Kelly Myers', 'The Humane League', 'Senior Campaigns Specialist', '2019-01-01', 'year', '2020-02-01', 'month', 'https://www.linkedin.com/in/kelly-myers-4b08a780/', NULL, NULL, 'Animal welfare')
@@ -114,10 +113,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Kalista Barter', 'The Humane League', 'Vice President, Development', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kalista-barter/', NULL, NULL, 'Animal welfare')
     ,('Brooke Shephard', 'The Humane League', 'Social Media Intern', '2018-11-01', 'month', '2019-02-01', 'month', 'https://www.linkedin.com/in/brooke-shephard-865195154/', NULL, NULL, 'Animal welfare')
     ,('Brooke Shephard', 'The Humane League', 'Community Volunteer', '2018-07-01', 'month', '2019-07-01', 'month', 'https://www.linkedin.com/in/brooke-shephard-865195154/', NULL, 'volunteer', 'Animal welfare')
-    ,('Brooke Shephard', 'The Humane League', 'Changemaker Captain', '2019-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/brooke-shephard-865195154/', NULL, NULL, 'Animal welfare')
+    ,(Brooke Shephard', 'The Humane League', 'Changemaker Captain', '2019-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/brooke-shephard-865195154/', NULL, NULL, 'Animal welfare') 
     ,('Agata Nguyen', 'The Humane League', 'Director of People Operations', '2019-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/agata-nguyen-shrm-cp-3b648629/', NULL, NULL, 'Animal welfare')
     ,('Ariav Feingersch', 'The Humane League', 'Internship', '2015-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ariav-feingersch-27552499/', NULL, 'intern', 'Animal welfare')
-    ,('Allie Gunter', 'The Humane League', 'Campaigns Specialist  ', '2021-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/allie-gunter-35371b32/', NULL, 'full-time' 'Animal welfare')
+    ,('Allie Gunter', 'The Humane League', 'Campaigns Specialist', '2021-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/allie-gunter-35371b32/', NULL, 'full-time' 'Animal welfare')
     ,('Allie Gunter', 'The Humane League', 'Campaign Coordinator', '2019-03-01', 'month', '2021-07-01', 'month', 'https://www.linkedin.com/in/allie-gunter-35371b32/', NULL, NULL, 'Animal welfare')
     ,('Allie Gunter', 'The Humane League', 'Development Coordinator (Temporary position)', '2018-11-01', 'month', '2019-01-01', 'month', 'https://www.linkedin.com/in/allie-gunter-35371b32/', NULL, NULL, 'Animal welfare')
     ,('Vicky Bond', 'The Humane League', 'Corporate Relations Specialist', '2016-11-01', 'month', '2017-04-01', 'month', 'https://web.archive.org/web/20170313104721/http://thehumaneleague.org/our-story/ https://www.linkedin.com/in/vicky-bond-b9107936/?originalSubdomain=uk', NULL, NULL, 'Animal welfare')
@@ -304,7 +303,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Sydney Fox', 'The Humane League', 'Senior Regional Field Organizer', '2019-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sydney-fox/', NULL, NULL, 'Animal welfare')
     ,('LaKeisha Arndt', 'The Humane League', 'Talent Acquisition Specialist', '2021-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lakeishaarndt/', NULL, 'full-time', 'Animal welfare')
     ,('Paige Reeves', 'The Humane League', 'Changemaker Training Fellow', '2022-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/paige-reeves423/', NULL, 'contractor', 'Animal welfare')
-    ,('Paige Reeves', 'The Humane League', 'Changemaker Training Fellow', '2022-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/paige-reeves423/', NULL, 'contractor', 'Animal welfare')
+    ,('Paige Reeves', 'The Humane League', 'Changemaker Training Fellow', '2022-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/paige-reeves423/', NULL, 'contractor', 'Animal welfare')  
 
 
 
