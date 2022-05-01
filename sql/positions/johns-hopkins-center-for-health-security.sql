@@ -80,6 +80,37 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Michael Snyder', 'Johns Hopkins Center for Health Security', 'Analyst, Research Associate', '2017-11-01', NULL, NULL, NULL, 'https://web.archive.org/web/20171121020315/http://www.centerforhealthsecurity.org/our-staff/profiles/index.html', NULL, NULL, 'Global health and poverty')
     ,('Elizabeth Lee Daugherty Biddison', 'Johns Hopkins Center for Health Security', 'Contributing Scholar', '2019-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190421001134/http://www.centerforhealthsecurity.org/our-staff/profiles', NULL, NULL, 'Global health and poverty')
     ,('Carolina Andrada', 'Johns Hopkins Center for Health Security', 'Analyst, Research Assistant', '2019-08-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190815221200/http://www.centerforhealthsecurity.org/our-people/', NULL, NULL, 'Global health and poverty')
+    ,('Anita Smith', 'Johns Hopkins Center for Health Security', 'Deputy Director', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220418221248/https://www.centerforhealthsecurity.org/our-people/', NULL, NULL, 'Global health and poverty')
+    ,('Clint Haines', 'Johns Hopkins Center for Health Security', 'Analyst', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220418221248/https://www.centerforhealthsecurity.org/our-people/', NULL, NULL, 'Global health and poverty')
+    ,('Natasha Kaushal', 'Johns Hopkins Center for Health Security', 'Analyst, Research Associate', '2021-03-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220418221248/https://www.centerforhealthsecurity.org/our-people/ https://www.linkedin.com/in/natashaakaushal/', NULL, 'full-time', 'Global health and poverty')
+    ,('Amanda Kobokovich', 'Johns Hopkins Center for Health Security', 'Managing Senior Analyst, Research Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220418221248/https://www.centerforhealthsecurity.org/our-people/', NULL, NULL, 'Global health and poverty')
+    ,('Christina Potter', 'Johns Hopkins Center for Health Security', 'Senior Analyst, Research Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220418221248/https://www.centerforhealthsecurity.org/our-people/', NULL, NULL, 'Global health and poverty')
+    ,('Marc Trotochaud', 'Johns Hopkins Center for Health Security', 'Senior Analyst, Research Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220418221248/https://www.centerforhealthsecurity.org/our-people/', NULL, NULL, 'Global health and poverty')
+    ,('Alyson Browett', 'Johns Hopkins Center for Health Security', 'Senior Editor/Writer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220418221248/https://www.centerforhealthsecurity.org/our-people/', NULL, NULL, 'Global health and poverty')
+    ,('Tommy O"Keefe', 'Johns Hopkins Center for Health Security', 'Senior Grants & Contract Analyst', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220418221248/https://www.centerforhealthsecurity.org/our-people/', NULL, NULL, 'Global health and poverty')
+    ,('Hannah Ottman-Feeney', 'Johns Hopkins Center for Health Security', 'Senior Administrative Coordinator', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220418221248/https://www.centerforhealthsecurity.org/our-people/', NULL, NULL, 'Global health and poverty')
+    ,('Meredith Piplani', 'Johns Hopkins Center for Health Security', 'Administrator', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220418221248/https://www.centerforhealthsecurity.org/our-people/', NULL, NULL, 'Global health and poverty')
+    ,('Shyneese Richardson', 'Johns Hopkins Center for Health Security', 'Grants & Contracts Analyst', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220418221248/https://www.centerforhealthsecurity.org/our-people/', NULL, NULL, 'Global health and poverty')
+    ,('Debora Sandiford', 'Johns Hopkins Center for Health Security', 'Program Manager', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220418221248/https://www.centerforhealthsecurity.org/our-people/', NULL, NULL, 'Global health and poverty')
+    ,('Sterling Sawaya', 'Johns Hopkins Center for Health Security', 'Fellow, Emerging Leaders in Biosecurity Initiative', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sterling-sawaya-9027a8170/', NULL, NULL, 'Global health and poverty')
+    ,('Andrew Liu', 'Johns Hopkins Center for Health Security', 'Emerging Leaders in Biosecurity Fellow', '2020-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/andrew-liu-8bb07929/', NULL, 'part-time', 'Global health and poverty')
+    ,('Giovanna Pontes', 'Johns Hopkins Center for Health Security', 'Fellow', '2020-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/giovanna-pontes-00767710b/', NULL, NULL, 'Global health and poverty')
+    ,('Lucia Mullen', 'Johns Hopkins Center for Health Security', 'Senior Analyst', '2020-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lucia-mullen-962120144/', NULL, NULL, 'Global health and poverty')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
