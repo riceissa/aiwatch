@@ -36,14 +36,12 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/chai.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/charity-science-health.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/charity-science.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/positions/clr.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/cset.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ea-foundation.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ea-retreats.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/effective-altruism-funds.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/effective-altruism-geneva.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/encultured-ai.sql
-	mysql $(MYSQL_ARGS) aiwatch < sql/positions/encultured.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/farmed-animal-funders.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/forethought.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ftx-future-fund.sql
