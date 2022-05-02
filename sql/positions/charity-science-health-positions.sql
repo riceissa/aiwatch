@@ -34,18 +34,43 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jake Peters', 'Charity Science Health', 'Operations and Technical Officer', '2018-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jake-peters-03159366/?originalSubdomain=ca', NULL, NULL, 'Global health and poverty')
     ,('Arjun Kumar', 'Charity Science Health', 'Survey Consultant', '2018-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/arjun-kumar-3a861719b/?originalSubdomain=in', NULL, NULL, 'Global health and poverty')
     ,('Mohammad Munaf', 'Charity Science Health', 'Survey Consultant', NULL, NULL, NULL, NULL, 'https://www.charitysciencehealth.com/our-team.html', NULL, NULL, 'Global health and poverty')
-    ,('Mohammad Munaf', 'Suvita', 'Data Collection Officer', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
-    ,('Ram Prakash Dube', 'Suvita', 'Data Collection Officer', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
-    ,('Ravi Prakash Ojha', 'Suvita', 'Data Collection Officer', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
-    ,('Mukesh Raj', 'Suvita', 'Data Entry Officer', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
-    ,('Sonu Kumar', 'Suvita', 'Data Entry Officer', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
-    ,('Varsha Venugopal', 'Suvita', 'Co-founder of Suvita', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
-    ,('Fiona Conlon', 'Suvita', 'Co-founder of Suvita', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Mohammad Munaf', 'Suvita', 'Data Collection Officer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Ram Prakash Dube', 'Suvita', 'Data Collection Officer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Ravi Prakash Ojha', 'Suvita', 'Data Collection Officer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Mukesh Raj', 'Suvita', 'Data Entry Officer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Sonu Kumar', 'Suvita', 'Data Entry Officer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Varsha Venugopal', 'Suvita', 'Co-founder of Suvita', '2019-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team https://www.linkedin.com/in/varsha-venugopal/', 'Charity Science Health merged with Suvita in 2020', 'full-time', 'Global health and poverty')
+    ,('Fiona Conlon', 'Suvita', 'Co-founder of Suvita', '2019-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team https://www.linkedin.com/in/fiona-conlon/', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
     ,('Krutika Ravishankar', 'Suvita', 'Partnerships Volunteer', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
-    ,('Deepak Bansal', 'Suvita', 'Survey Manager', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Deepak Bansal', 'Suvita', 'Survey Manager', '2020-07-01', 'month', '2021-11-01', 'month', 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team https://www.linkedin.com/in/deepak-bansal-b95431149/', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Deepak Bansal', 'Suvita', 'Program Coordinator', '2021-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/deepak-bansal-b95431149/', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
     ,('Katriel Friedman', 'Suvita', 'Advisor', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Katriel Friedman is the former CEO of Charity Science Health, which merged with Suvita in 2020', 'advisor', 'Global health and poverty')
     ,('Priya Ajmera', 'Suvita', 'Advisor', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', 'advisor', 'Global health and poverty')
     ,('Patrick Stadler','Suvita', 'Advisor', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', 'advisor', 'Global health and poverty')
     ,('Ujwal Thakar', 'Suvita', 'Advisor', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', 'advisor', 'Global health and poverty')
     ,('Joey Savoie', 'Suvita', 'Advisor', NULL, NULL, NULL, NULL, 'https://www.suvita.org/about-us', 'Charity Science Health merged with Suvita in 2020', 'advisor', 'Global health and poverty')
-;
+    ,('Soni Kumari', 'Suvita', 'Data Officer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Kundan Prasad', 'Suvita', 'Data Officer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Kahkasha Khan', 'Suvita', 'Data Officer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Deepika Kumari', 'Suvita', 'Data Officer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Sweety Singh', 'Suvita', 'Field Officer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Sapna Kumari', 'Suvita', 'Field Officer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Rakhi Singh', 'Suvita', 'Field Officer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty') 
+    ,('Manoj Kumar Chaudhary', 'Suvita', 'Field Officer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Jyoti Rajput', 'Suvita', 'Field Officer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Juhi Kumari', 'Suvita', 'Field Officer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Asif Akhtar Khan', 'Suvita', 'Field Officer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Anupam Kumari', 'Suvita', 'Field Officer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Amritesh Nishad', 'Suvita', 'Field Officer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Alex Catalán Flores', 'Suvita', 'Head of Operations', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Sumit Swami', 'Suvita', 'Programme Manager', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team', 'Charity Science Health merged with Suvita in 2020', NULL, 'Global health and poverty')
+    ,('Allen Francis', 'Suvita', 'Programme Manager', '2021-06-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220313202702/https://www.suvita.org/our-team https://www.linkedin.com/in/allenfrancis26/', 'Charity Science Health merged with Suvita in 2020', 'full-time', 'Global health and poverty')
+
+
+
+
+
+
+
+
+

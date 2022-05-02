@@ -16,3 +16,18 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jonas Vollmer', 'Sentience Institute', 'Board member', '2017-12-01', NULL, NULL, NULL, 'https://web.archive.org/web/20171229231806/https://www.sentienceinstitute.org/team', NULL, 'Board member', 'effective altruism')
     ,('Jeff Sebo', 'Sentience Institute', 'Advisory Board Member', '2018-11-01', NULL, NULL, NULL, 'https://web.archive.org/web/20181117004617/https://www.sentienceinstitute.org/team', NULL, 'Board member', 'effective altruism')
     ,('Max Daniel', 'Sentience Institute', 'Board member', '2019-08-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190805205904/https://www.sentienceinstitute.org/team', NULL, 'Board member', 'effective altruism')
+    ,('Michael Dello-Iacovo', 'Sentience Institute', 'Strategy Lead and Researcher', '2022-04-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220430195630/https://www.sentienceinstitute.org/team https://www.linkedin.com/in/michael-dello-iacovo/', NULL, NULL, 'effective altruism')
+    ,('Kelly Anthis', 'Sentience Institute', 'Co-Founder & Advisory Board Member', '2017-03-01', 'month', NULL, NULL, 'https://web.archive.org/web/20211207190553/https://www.sentienceinstitute.org/team https://www.linkedin.com/in/kellywitwicki/', NULL, 'Board Member', 'effective altruism')
+    ,('Maya Mathur', 'Sentience Institute', 'Advisory Board Member', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220430195630/https://www.sentienceinstitute.org/team', NULL, 'Board Member', 'effective altruism')
+    ,('Thomas Moynihan', 'Sentience Institute', 'Advisory Board Member', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20211207190553/https://www.sentienceinstitute.org/team', NULL, 'Board Member', 'effective altruism')
+
+
+
+
+
+
+
+
+
+
+
