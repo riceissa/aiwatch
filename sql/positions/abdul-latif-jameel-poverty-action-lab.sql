@@ -192,9 +192,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Dina Pomeranz', 'Abdul Latif Jameel Poverty Action Lab', 'Post-Doctoral Fellow', '2010-01-01', 'year', '2011-01-01', 'year', 'https://web.archive.org/web/20110813130336/http://www.povertyactionlab.org/people/global/research', NULL, NULL, 'Global health and poverty') 
     ,('Asha Stenquist', 'Abdul Latif Jameel Poverty Action Lab', 'Research Analyst', '2011-08-01', NULL, NULL, NULL, 'https://web.archive.org/web/20110813130336/http://www.povertyactionlab.org/people/global/research', NULL, NULL, 'Global health and poverty') 
     ,('Ryan Cooper', 'Abdul Latif Jameel Poverty Action Lab', 'Executive Director', '2011-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111017201343/http://www.povertyactionlab.org/board', NULL, NULL, 'Global health and poverty') 
-    ,('Bruno Crépon', 'Abdul Latif Jameel Poverty Action Lab', 'Co-Chair', '2011-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111017201343/http://www.povertyactionlab.org/board', NULL, NULL, 'Global health and poverty') 
+    ,('Bruno Crépon', 'Abdul Latif Jameel Poverty Action Lab', 'Co-Chair', '2011-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111017201343/http://www.povertyactionlab.org/board', NULL, 'Board member', 'Global health and poverty') 
     ,('Sebastian Galiani', 'Abdul Latif Jameel Poverty Action Lab', 'Co-Chair', '2011-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111017201343/http://www.povertyactionlab.org/board', NULL, NULL, 'Global health and poverty') 
-    ,('Francisco Gallego', 'Abdul Latif Jameel Poverty Action Lab', 'Scientific Director', '2011-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111017201343/http://www.povertyactionlab.org/board', NULL, NULL, 'Global health and poverty') 
+    ,('Francisco Gallego', 'Abdul Latif Jameel Poverty Action Lab', 'Scientific Director', '2011-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111017201343/http://www.povertyactionlab.org/board', NULL, 'Board member', 'Global health and poverty') 
     ,('Hélène Giacobino', 'Abdul Latif Jameel Poverty Action Lab', 'Executive Director', '2011-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111017201343/http://www.povertyactionlab.org/board', NULL, NULL, 'Global health and poverty') 
     ,('Marc Gurgand', 'Abdul Latif Jameel Poverty Action Lab', 'Scientific Director', '2011-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111017201343/http://www.povertyactionlab.org/board', NULL, NULL, 'Global health and poverty') 
     ,('Arvind Pande', 'Abdul Latif Jameel Poverty Action Lab', 'Chairman', '2011-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111017201343/http://www.povertyactionlab.org/board', NULL, NULL, 'Global health and poverty') 
@@ -344,7 +344,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Anahita Karandikar', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2019-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/anahita-karandikar-91412611a/', 'Based in Goa', NULL, 'Global health and poverty') 
     ,('Nitika Jain', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy Associate', '2020-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nitikajainnn/', 'Based in New Delhi, Delhi, India', 'full-time', 'Global health and poverty') 
     ,('David Alzate Proaño', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Associate', '2018-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/david-alzate-proa%C3%B1o-a76691121/', 'Based in Cambridge, Massachusetts, United States', NULL, 'Global health and poverty') 
-    ,('David Alzate Proaño', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy Associate', '2020-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/david-alzate-proa%C3%B1o-a76691121/', NULL, NULL, 'Global health and poverty') 
+    ,('David Alzate Proaño', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy Associate', '2020-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff https://www.linkedin.com/in/david-alzate-proa%C3%B1o-a76691121/', NULL, NULL, 'Global health and poverty') 
     ,('Eduardo Vargas Sánchez', 'Abdul Latif Jameel Poverty Action Lab', 'Policy and Research Manager', '2018-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/eduardovargassanchez/', 'Based in Perú and Chile', NULL, 'Global health and poverty') 
     ,('Gargee Goswami', 'Abdul Latif Jameel Poverty Action Lab', 'Research Intern', '2016-04-01', 'month', '2016-05-01', 'month', 'https://www.linkedin.com/in/gargee-goswami-69928a64/', 'Based in New Delhi Area, India', 'Intern', 'Global health and poverty') 
     ,('Gargee Goswami', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2017-12-01', 'month', '2019-03-01', 'month', 'https://www.linkedin.com/in/gargee-goswami-69928a64/', 'Based in Surat Area, India', NULL, 'Global health and poverty') 
@@ -492,7 +492,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Rashi Sabherwal', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2013-09-01', 'month', '2015-01-01', 'month', 'https://www.linkedin.com/in/rashisabherwal/', 'Based in Bhubaneshwar, Orissa, India', 'Contractor', 'Global health and poverty') 
     ,('Rashi Sabherwal', 'Abdul Latif Jameel Poverty Action Lab', 'Research Manager', '2016-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rashisabherwal/', 'Based in Mumbai, India', NULL, 'Global health and poverty') 
     ,('Lina Marliani', 'Abdul Latif Jameel Poverty Action Lab', 'Research Director', '2013-05-01', 'month', '2015-11-01', 'month', 'https://www.linkedin.com/in/lina-marliani-03205959/', 'Based in Jakarta', NULL, 'Global health and poverty') 
-    ,('Lina Marliani', 'Abdul Latif Jameel Poverty Action Lab', 'Executive Director', '2015-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lina-marliani-03205959/', 'Based in Jakarta', NULL, 'Global health and poverty') 
+    ,('Lina Marliani', 'Abdul Latif Jameel Poverty Action Lab', 'Executive Director', '2015-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lina-marliani-03205959/ https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', 'Based in Jakarta', 'Board member', 'Global health and poverty') 
     ,('Rashmi Bhat', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2015-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rashmi-bhat-444aa2a1/', 'Based in Bhubaneswar, Odisha, India', NULL, 'Global health and poverty') 
     ,('George Richards', 'Abdul Latif Jameel Poverty Action Lab', 'Board Member', '2017-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gergis/', 'Based in Paris, France', 'Board Member', 'Global health and poverty') 
     ,('Prachi Shukla', 'Abdul Latif Jameel Poverty Action Lab', 'Research Intern', '2019-04-01', 'month', '2019-10-01', 'month', 'https://www.linkedin.com/in/prachi-shukla/', 'Based in New Delhi, Delhi, India', 'Intern', 'Global health and poverty') 
@@ -555,7 +555,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Alison Fahey', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Manager', '2014-09-01', 'month', '2016-12-01', 'month', 'https://www.linkedin.com/in/alison-fahey-6379529/', 'Based in Cambridge, Massachusetts', NULL, 'Global health and poverty') 
     ,('Alison Fahey', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy Manager', '2017-01-01', 'month', '2018-06-01', 'month', 'https://www.linkedin.com/in/alison-fahey-6379529/', 'Based in Cambridge, Massachusetts', NULL, 'Global health and poverty') 
     ,('Alison Fahey', 'Abdul Latif Jameel Poverty Action Lab', 'Associate Director of Policy', '2018-07-01', 'month', '2020-06-01', 'month', 'https://www.linkedin.com/in/alison-fahey-6379529/', 'Based in Cambridge, Massachusetts', NULL, 'Global health and poverty') 
-    ,('Alison Fahey', 'Abdul Latif Jameel Poverty Action Lab', 'Executive Director', '2020-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alison-fahey-6379529/', NULL, NULL, 'Global health and poverty') 
+    ,('Alison Fahey', 'Abdul Latif Jameel Poverty Action Lab', 'Executive Director', '2020-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alison-fahey-6379529/ https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board member', 'Global health and poverty') 
     ,('Laura Poswell', 'Abdul Latif Jameel Poverty Action Lab', 'Executive Director', '2013-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/laura-poswell-0b8b2a63/', 'Based in Cape Town Area, South Africa', NULL, 'Global health and poverty') 
     ,('Haris Zamaludin', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hariszamaludin/', 'Based in Jakarta, Indonesia', 'full-time', 'Global health and poverty') 
     ,('Parsa Mahmud', 'Abdul Latif Jameel Poverty Action Lab', 'Research Intern', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/parsamahmud/', NULL, 'Intern', 'Global health and poverty') 
@@ -832,6 +832,108 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Simon Briole', 'Abdul Latif Jameel Poverty Action Lab', 'Chercheur postdoctoral', '2019-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/simon-briole-4123758a/', 'Based in Paris, France', NULL, 'Global health and poverty') 
     ,('Praveen Raj Velusamy', 'Abdul Latif Jameel Poverty Action Lab', 'Project Associate', NULL, NULL, NULL, NULL, 'https://www.linkedin.com/in/praveen-raj-velusamy-918166118/', NULL, NULL, 'Global health and poverty') 
     ,('Sonu Sahu', 'Abdul Latif Jameel Poverty Action Lab', 'Surveyor', '2018-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sonu-sahu-144634198/', NULL, NULL, 'Global health and poverty') 
+    ,('David Atkin', 'Abdul Latif Jameel Poverty Action Lab', 'Co-chair', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty') 
+    ,('Abhijit Banerjee', 'Abdul Latif Jameel Poverty Action Lab', 'Director', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty') 
+    ,('Marianne Bertrand', 'Abdul Latif Jameel Poverty Action Lab', 'Co-chair', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty') 
+    ,('Chris Blattman', 'Abdul Latif Jameel Poverty Action Lab', 'Co-chair', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty') 
+    ,('Nicholas Bloom', 'Abdul Latif Jameel Poverty Action Lab', 'Co-chair', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty') 
+    ,('Emily Breza', 'Abdul Latif Jameel Poverty Action Lab', 'Co-chair', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty') 
+    ,('Joseph Doyle', 'Abdul Latif Jameel Poverty Action Lab', 'Co-chair', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty') 
+    ,('Oeindrila Dube', 'Abdul Latif Jameel Poverty Action Lab', 'Co-chair', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty') 
+    ,('Esther Duflo', 'Abdul Latif Jameel Poverty Action Lab', 'Director', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty') 
+    ,('Pascaline Dupas', 'Abdul Latif Jameel Poverty Action Lab', 'Co-chair', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty') 
+    ,('Laura Feeney', 'Abdul Latif Jameel Poverty Action Lab', 'Co-Executive Director', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty') 
+    ,('Frederico Finan', 'Abdul Latif Jameel Poverty Action Lab', 'Co-Chair', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty')
+    ,('Amy Finkelstein', 'Abdul Latif Jameel Poverty Action Lab', 'Scientific Director', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty')
+    ,('Michael Greenstone', 'Abdul Latif Jameel Poverty Action Lab', 'Co-Chair', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty')
+    ,('Rema Hanna', 'Abdul Latif Jameel Poverty Action Lab', 'Scientific Director', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty')
+    ,('Kelsey Jack', 'Abdul Latif Jameel Poverty Action Lab', 'Co-Chair', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty')
+    ,('Seema Jayachandran', 'Abdul Latif Jameel Poverty Action Lab', 'Chair', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty')
+    ,('Dean Karlan', 'Abdul Latif Jameel Poverty Action Lab', 'Co-Chair', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty')
+    ,('Lawrence Katz', 'Abdul Latif Jameel Poverty Action Lab', 'Scientific Director', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty')
+    ,('Karen Macours', 'Abdul Latif Jameel Poverty Action Lab', 'Co-Chair', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty')
+    ,('Isaac Mbiti', 'Abdul Latif Jameel Poverty Action Lab', 'Scientific Director', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty')
+    ,('Craig McIntosh', 'Abdul Latif Jameel Poverty Action Lab', 'Co-Chair', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty')
+    ,('Shobhini Mukerji', 'Abdul Latif Jameel Poverty Action Lab', 'Executive Director', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty')
+    ,('Karthik Muralidharan', 'Abdul Latif Jameel Poverty Action Lab', 'Co-Chair', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty')
+    ,('Benjamin A. Olken', 'Abdul Latif Jameel Poverty Action Lab', 'Co-Chair', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty')
+    ,('Philip Oreopoulos', 'Abdul Latif Jameel Poverty Action Lab', 'Co-Chair', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty')
+    ,('Rohini Pande', 'Abdul Latif Jameel Poverty Action Lab', 'Co-Chair', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty')
+    ,('William Parienté', 'Abdul Latif Jameel Poverty Action Lab', 'Co-Chair', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty')
+    ,('Vincent Quan', 'Abdul Latif Jameel Poverty Action Lab', 'Co-Executive Director', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty')
+    ,('Tavneet Suri', 'Abdul Latif Jameel Poverty Action Lab', 'Co-Chair', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220130021324/https://www.povertyactionlab.org/board-members', NULL, 'Board Members', 'Global health and poverty')
+    ,('Abbas El Akari', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Hala ElBehairy', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Taliya Imaniya', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Operations Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('M Radhiyan Pasopati Pribadi', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Ayu Primastuti', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Laura Torres', 'Abdul Latif Jameel Poverty Action Lab', 'Research Assistant', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Alosias A', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Research Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Narayanee A', 'Abdul Latif Jameel Poverty Action Lab', 'Finance Manager', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Khaira Abdillah', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Mardhiyyah Achmad', 'Abdul Latif Jameel Poverty Action Lab', 'Administrative Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Primrose Adjepong', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Tanisha Agrawal', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Lou Aisenberg', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Daniela Aizencang', 'Abdul Latif Jameel Poverty Action Lab', 'Research Manager', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Mochamad Thoriq Akbar', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Ramsha Alam', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Associate Video Producer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Jatnna Amador', 'Abdul Latif Jameel Poverty Action Lab', 'Events Manager (Policy and Training)', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Farah Amalia', 'Abdul Latif Jameel Poverty Action Lab', 'Training and Communications Manager', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Razan Amine', 'Abdul Latif Jameel Poverty Action Lab', 'Research Manager', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Sanjana Anand', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Margaret Andersen', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Nadila Trisie', 'Abdul Latif Jameel Poverty Action Lab', 'Training Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Caitlyn Ark', 'Abdul Latif Jameel Poverty Action Lab', 'Policy and Research Co-op', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Bhawna Arora', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Administrative Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Manjali Arora', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Manager: C-LOP', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Winnifred Arthur', 'Abdul Latif Jameel Poverty Action Lab', 'Research Analyst', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Alok Arunam', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Associate: C-LOP', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Maria Arzumanov', 'Abdul Latif Jameel Poverty Action Lab', 'Policy Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Lakshmi Aishwarya Atluri', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Nadia Avianti', 'Abdul Latif Jameel Poverty Action Lab', 'Research Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Francesco Avvisati', 'Abdul Latif Jameel Poverty Action Lab', 'Project Director', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Vipin Awatramani', 'Abdul Latif Jameel Poverty Action Lab', 'Associate Director Research Operations', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('B. Ayyappa', 'Abdul Latif Jameel Poverty Action Lab', 'Administrative Manager', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Tanmay Bansal', 'Abdul Latif Jameel Poverty Action Lab', 'Finance Manager', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Aimee Barnes', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+    ,('Alejandra Barraza', 'Abdul Latif Jameel Poverty Action Lab', 'Senior Policy Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220223014728/https://www.povertyactionlab.org/staff', NULL, NULL, 'Global health and poverty')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
