@@ -14,9 +14,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Nora Ammann', 'Simon Institute', 'Research affiliate', '2021-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20210401122854/https://www.simoninstitute.ch/about/ https://www.linkedin.com/in/nora-ammann-329396139/', 'Based in Geneva, Switzerland', NULL, 'Cause prioritization')
     ,('Jens Fischer', 'Simon Institute', 'Research affiliate', '2021-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210401122854/https://www.simoninstitute.ch/about/', NULL, NULL, 'Cause prioritization')
     ,('Jan Pieter Snoeij', 'Simon Institute', 'Research affiliate', '2021-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210401122854/https://www.simoninstitute.ch/about/', NULL, NULL, 'Cause prioritization')
-    ,('Isaak Mengesha', 'Simon Institute', 'Research affiliate', '2021-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210401122854/https://www.simoninstitute.ch/about/', NULL, NULL, 'Cause prioritization')
+    ,('Isaak Mengesha', 'Simon Institute', 'Research affiliate', '2021-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20210401122854/https://www.simoninstitute.ch/about/ https://www.linkedin.com/in/isaak-mengesha-3544ab1b0/', NULL, NULL, 'Cause prioritization')
     ,('Igor Krawczuk', 'Simon Institute', 'Research affiliate', '2021-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210401122854/https://www.simoninstitute.ch/about/', NULL, NULL, 'Cause prioritization')
-    ,('Elias Kock', 'Simon Institute', 'Research affiliate', '2021-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210401122854/https://www.simoninstitute.ch/about/', NULL, NULL, 'Cause prioritization')
+    ,('Elias Kock', 'Simon Institute', 'Research affiliate', '2021-06-01', 'month', NULL, NULL, 'https://web.archive.org/web/20210401122854/https://www.simoninstitute.ch/about/ https://www.linkedin.com/in/elias-kock/', NULL, 'contractor', 'Cause prioritization')
     ,('Samia Hurst-Majno', 'Simon Institute', 'Advisor', '2021-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210401122854/https://www.simoninstitute.ch/about/', NULL, 'advisor', 'Cause prioritization')
     ,('Paul Cairney', 'Simon Institute', 'Advisor', '2021-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210401122854/https://www.simoninstitute.ch/about/', NULL, 'advisor', 'Cause prioritization')
     ,('Karsten Donnay', 'Simon Institute', 'Advisor', '2021-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210401122854/https://www.simoninstitute.ch/about/', NULL, 'advisor', 'Cause prioritization')
@@ -26,6 +26,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Anja Kaspersen', 'Simon Institute', 'Advisor', '2021-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210401122854/https://www.simoninstitute.ch/about/', NULL, 'advisor', 'Cause prioritization')
     ,('Salman Bal', 'Simon Institute', 'Advisor', '2021-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210401122854/https://www.simoninstitute.ch/about/', NULL, 'advisor', 'Cause prioritization')
     ,('Nick Hollman', 'Simon Institute', 'Research assistant', '2021-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210401122854/https://www.simoninstitute.ch/about/', NULL, NULL, 'Cause prioritization')
+    ,('Jacob Arbeid', 'Simon Institute', 'Field-building associate', '2021-10-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220518143751/https://www.simoninstitute.ch/about/ https://www.linkedin.com/in/jacob-arbeid-a0947b159/', NULL, 'part-time', 'Cause prioritization')
+    ,('Felix Haas', 'Simon Institute', 'Content writer', '2022-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20220518143751/https://www.simoninstitute.ch/about/', NULL, NULL, 'Cause prioritization')
+
+
+
 
 
 
