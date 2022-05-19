@@ -1,3 +1,4 @@
+
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
      ('Holden Karnofsky','GiveWell','Executive Director','2006-08-01','month','2007-06-01','month','https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people','He switched from part-time to full-time work on GiveWell in “mid-2007”.','part-time','Global health and poverty')
     ,('Holden Karnofsky','GiveWell','Executive Director','2007-06-01','month','2017-06-01','month','https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people https://web.archive.org/web/20170615161652/https://www.givewell.org/about/people','He switched from part-time to full-time work on GiveWell in “mid-2007”.','full-time','Global health and poverty')
@@ -168,7 +169,101 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Norma Altshuler','GiveWell','Director','2021-01-01', NULL,NULL,NULL, 'https://web.archive.org/web/20211111024251/https://www.givewell.org/about/people', NULL,'Board Member','Global health and poverty')
     ,('Zoe Mahony','GiveWell', 'Content Editor','2021-01-01', NULL,NULL,NULL, 'https://web.archive.org/web/20211111024251/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
     ,('Willa Gruver','GiveWell', 'Operations Assistant','2021-01-01', NULL,NULL,NULL, 'https://web.archive.org/web/20211111024251/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
-    ,('Willa Gruver','GiveWell', 'Operations Assistant','2021-01-01', NULL,NULL,NULL, 'https://web.archive.org/web/20211111024251/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Ahmed Alkhatib','GiveWell', 'Donations Specialist', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Alex Cohen','GiveWell', 'Senior Researcher', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Alicia Weng','GiveWell', 'Research Associate', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Andrew Martin','GiveWell', 'Senior Research Associate', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Audrey Cooper','GiveWell', 'Philanthropy Advisor', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Caitlin McGugan','GiveWell', 'Senior Researcher', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Catherine Hollander','GiveWell', 'Senior Program Associate', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Daisy Hao','GiveWell', 'Senior Accountant', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Devin Jacob','GiveWell', 'Data & Technology Project Manager', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Elie Hassenfeld','GiveWell', 'Co-Founder and Chief Executive Officer (President)', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Erin Crossett','GiveWell', 'Senior Researcher', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Erin Wolff','GiveWell', 'Donor Relations Associate', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Gaby Quintana','GiveWell', 'Operations Associate', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Grace Hultquist','GiveWell', 'Research Associate', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Hannah Bell','GiveWell', 'Program Associate', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Isabel Arjmand','GiveWell', 'Special Projects Officer', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('James Snowden','GiveWell', 'Program Officer', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Jason Anderson','GiveWell', 'Donor Engagement and Retention Specialist', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Jenna Shelby-Glick','GiveWell', 'Donor Relations Assistant', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Jeremy Rehwaldt','GiveWell', 'Content Editor', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Josh Rosenberg','GiveWell', 'Senior Advisor', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Julie Faller','GiveWell', 'Program Officer', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Justin (Loiseau) Labeille','GiveWell', 'Senior Research Associate', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Kameron Smith','GiveWell', 'Program Associate', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Katie McCulloch','GiveWell', 'Content Editor', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Kelly Kopish','GiveWell', 'Data & Technology Project Manager', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Laura Portko','GiveWell', 'Content Editor', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Madison Stieg','GiveWell', 'Research Analyst', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Maggie Lloydhauser','GiveWell', 'Philanthropy Advisor', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Marinella Capriati','GiveWell', 'Program Officer', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Meika Ball','GiveWell', 'Research Associate', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Miranda Kaplan','GiveWell', 'Communications Associate', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Natalie Crispin','GiveWell', 'Program Officer (Vice President)', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Nicole Zok','GiveWell', 'Content Editing Lead', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Olivia Larsen','GiveWell', 'Philanthropy Advisor', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Parker Blackiston','GiveWell', 'Senior Operations Associate', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Roman Guglielmo','GiveWell', 'Donor Relations Assistant', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
