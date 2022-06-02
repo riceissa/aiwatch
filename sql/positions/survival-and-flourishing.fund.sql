@@ -1,5 +1,5 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
-	 ('Alex Flint', 'Survival and Flourishing.Fund', 'Fund Advisor', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200107204509/http://survivalandflourishing.fund/', NULL, NULL, 'Effective altruism')  
-	,('Andrew Critch', 'Survival and Flourishing.Fund', 'Fund Advisor', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200107204509/http://survivalandflourishing.fund/', NULL, NULL, 'Effective altruism')
-	,('Eric Rogstad', 'Survival and Flourishing.Fund', 'Fund Advisor', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200107204509/http://survivalandflourishing.fund/', NULL, NULL, 'Effective altruism')  
- 
+     ('Alex Flint', 'Survival and Flourishing.Fund', 'Fund Advisor', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200107204509/http://survivalandflourishing.fund/', NULL, NULL, 'Effective altruism')  
+    ,('Andrew Critch', 'Survival and Flourishing.Fund', 'Fund Advisor', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200107204509/http://survivalandflourishing.fund/', NULL, NULL, 'Effective altruism')
+    ,('Eric Rogstad', 'Survival and Flourishing.Fund', 'Fund Advisor', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200107204509/http://survivalandflourishing.fund/', NULL, NULL, 'Effective altruism')  
+    ,('Eli Tyre', 'Survival and Flourishing.Fund', 'Grant Evaluator', '2018-01-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/eli-tyre-02b93260/', NULL, NULL, 'Effective altruism')  

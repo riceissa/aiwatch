@@ -146,6 +146,183 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Luke Koslosky', 'Center for Security and Emerging Technology', 'Research Analyst', '2021-02-01', 'month', NULL, NULL, 'https://web.archive.org/web/20210308214345/https://cset.georgetown.edu/team/ https://www.linkedin.com/in/lukekoslosky/', NULL, 'full-time', 'AI safety')
     ,('Sara Abdulla', 'Center for Security and Emerging Technology', 'Data Research Analyst', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210308214345/https://cset.georgetown.edu/team/', NULL, NULL, 'AI safety')
     ,('Shelton Fitch', 'Center for Security and Emerging Technology', 'Semester Research Analyst', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210308214345/https://cset.georgetown.edu/team/', NULL, NULL, 'AI safety')
+    ,('Amy Chao', 'Center for Security and Emerging Technology', 'Assistant Director of Analysis and Senior Fellow', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, NULL, 'AI safety')
+    ,('Anna Puglisi', 'Center for Security and Emerging Technology', 'Director of Biotechnology Programs and Senior Fellow', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, NULL, 'AI safety')
+    ,('Caroline Schuerger', 'Center for Security and Emerging Technology', 'Research Fellow', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, NULL, 'AI safety')
+    ,('Catherine Aiken', 'Center for Security and Emerging Technology', 'Director of Data Science and Research', '2021-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/ https://www.linkedin.com/in/catkaiken/', NULL, NULL, 'AI safety')
+    ,('Catherine Aiken', 'Center for Security and Emerging Technology', 'Acting Director of Data Science', '2021-02-01', 'month', '2021-09-01', 'month', 'https://www.linkedin.com/in/catkaiken/', NULL, NULL, 'AI safety')
+    ,('Catherine Aiken', 'Center for Security and Emerging Technology', 'Survey Specialist', '2019-07-01', 'month', '2021-02-01', 'month', 'https://www.linkedin.com/in/catkaiken/', NULL, NULL, 'AI safety')
+    ,('Emelia Probasco', 'Center for Security and Emerging Technology', 'Senior Fellow', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, NULL, 'AI safety')
+    ,('Emily Weinstein', 'Center for Security and Emerging Technology', 'Research Fellow', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, NULL, 'AI safety')
+    ,('Heather Frase', 'Center for Security and Emerging Technology', 'Senior Fellow', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, NULL, 'AI safety')
+    ,('Huey-Meei Chang', 'Center for Security and Emerging Technology', 'Senior China S&T Specialist', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, NULL, 'AI safety')
+    ,('Jack Corrigan', 'Center for Security and Emerging Technology', 'Research Analyst', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, NULL, 'AI safety')
+    ,('Jennifer Melot', 'Center for Security and Emerging Technology', 'Technical Lead', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, NULL, 'AI safety')
+    ,('John Bansemer', 'Center for Security and Emerging Technology', 'Director of the CyberAI Project and Senior Fellow', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, NULL, 'AI safety')
+    ,('Margarita Konaev', 'Center for Security and Emerging Technology', 'Deputy Director of Analysis and Research Fellow', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, NULL, 'AI safety')
+    ,('Mina Narayanan', 'Center for Security and Emerging Technology', 'Research Analyst', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, NULL, 'AI safety')
+    ,('Olivia Albrighton-Vanway', 'Center for Security and Emerging Technology', 'Assistant Director of Operations', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, NULL, 'AI safety')
+    ,('Owen Daniels', 'Center for Security and Emerging Technology', 'Policy Communications Specialist', '2021-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/ https://www.linkedin.com/in/owen-daniels-427ab881/', NULL, NULL, 'AI safety')
+    ,('Rafay Ur Rehman Khan', 'Center for Security and Emerging Technology', 'Semester Research Analyst', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, NULL, 'AI safety')
+    ,('Ronnie Kinoshita', 'Center for Security and Emerging Technology', 'Director of Operations', '2022-03-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/ https://www.linkedin.com/in/veronica-kinoshita/', NULL, 'full-time', 'AI safety')
+    ,('Walter Haydock', 'Center for Security and Emerging Technology', 'Research Fellow (non-resident)', '2022-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'part-time', 'AI safety')
+    ,('Zachary Arnold', 'Center for Security and Emerging Technology', 'Analytic Lead', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, NULL, 'AI safety')
+    ,('Aditi Joshi', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Alan Loera', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Alexandra Vreeman', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Ashton Garriott', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Ashwin Acharya', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Aurora Johnson', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Avonelle Davis', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Beba Cibralic', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Ben Buchanan', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Carrick Flynn', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Christine McNeill', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Christopher Back', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Cindy Martinez', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Claire Perkins', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Collins Nji', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Dakota Cary', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Dakota Foster', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Dalila Scott', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Daniel Cebul', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Darrin Gladman', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Elsa Kania', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Emefa Addo Agawu', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Eri Phinisee', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Ilya Rahkovsky', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Jack Lucas', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Jacob Feldgoise', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Jacob Strieb', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Jason Matheny', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Jeff Ding', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Add Oguike', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Lorand Laskai', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Matthew Daniels', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Max Langenkamp', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Melissa Flagg', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Michael Page', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Michael Sulmeyer', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Rebecca Kagan', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Remco Zwetsloot', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Robert Cardillo', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Roxanne Heston', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Santiago Mutis', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Schuyler Moore', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Stephanie O"Sullivan', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Sue Gordon', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Kate Collins', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Tarun Chhabra', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Thuy Nguyen', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Tina Huang', 'Center for Security and Emerging Technology', 'Alumni', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220413013007/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety')
+    ,('Nii Simmonds', 'Center for Security and Emerging Technology', 'Senior Advisor', '2022-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/niisimmonds/', NULL, 'part-time', 'AI safety')
+    ,('Laissa A.', 'Center for Security and Emerging Technology', 'Human Resources Recruitment Assistant', '2021-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/laissa-a-969901114/', NULL, 'part-time', 'AI safety')
+    ,('Abelardo Cruz Osorio', 'Center for Security and Emerging Technology', 'Forecaster', '2020-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/abelardo-cruz-osorio/', NULL, NULL, 'AI safety')
+    ,('Shuvo Bardhan', 'Center for Security and Emerging Technology', 'Research Assistant', '2021-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shuvo-bardhan-ab268216/', NULL, 'part-time', 'AI safety')
+    ,('Kevin Wolf', 'Center for Security and Emerging Technology', 'Senior Fellow', '2022-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kevin-wolf-7911625/', NULL, 'part-time', 'AI safety')
+    ,('Jessica J.', 'Center for Security and Emerging Technology', 'Graduate Student Research Assistant, CyberAI', '2021-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jessicamji/', NULL, 'part-time', 'AI safety')
+    ,('Wenchuan Dong', 'Center for Security and Emerging Technology', 'Research Assistant', '2020-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/wenchuan-dong-b8b606192/', NULL, 'full-time', 'AI safety')
+    ,('Channing Lee', 'Center for Security and Emerging Technology', 'Analysis Research Assistant - China S&T', '2021-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/channingclee/', NULL, 'part-time', 'AI safety') 
+    ,('Dewey Murdick', 'Center for Security and Emerging Technology', 'Director', '2021-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/murdick/', NULL, NULL, 'AI safety')
+    ,('Helen Toner', 'Center for Security and Emerging Technology', 'Director of Strategy and Foundational Research Grants', '2022-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/helen-toner-4162439a/', NULL, 'full-time', 'AI safety')
+    ,('Donna Artusy', 'Center for Security and Emerging Technology', 'Fellow - CyberAI (non-resident)', '2022-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/donna-artusy/', NULL, NULL, 'AI safety')
+    ,('Ella Kay', 'Center for Security and Emerging Technology', 'Research Analyst, CyberAI Team', '2021-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ella-kay-4633b51b5/', NULL, NULL, 'AI safety')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

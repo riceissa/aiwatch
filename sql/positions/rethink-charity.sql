@@ -44,6 +44,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Harysh Ilanghovan', 'Rethink Charity', 'Head Of Technology', '2015-01-01', 'year', '2017-01-01', 'year', 'https://www.linkedin.com/in/harysh/?originalSubdomain=in', NULL, NULL, 'effective altruism')
     ,('Caleb Ontiveros', 'Rethink Charity', 'Key volunteer', '2019-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190428234209/https://rtcharity.org/team/', NULL, 'Volunteer', 'effective altruism')
     ,('Litawn Gan', 'Rethink Charity', 'Data Consultant', '2020-08-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/litawn/', NULL, 'Part-time', 'effective altruism')
+    ,('Megan Jamer', 'Rethink Charity', 'Communications Manager', '2021-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/meganjamer/', NULL, 'full-time', 'effective altruism')
+    ,('Aishwarya (Aisha) G.', 'Rethink Charity', 'Independent Contractor', '2021-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/missaishagurung/', NULL, 'contractor', 'effective altruism')
+    ,('Ilva Ravinska', 'Rethink Charity', 'Project Manager', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ilva-ravinska/', NULL, 'full-time', 'effective altruism')
+  
+
+
 
 
 
