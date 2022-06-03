@@ -185,7 +185,8 @@ The very first time you set up Git, you will need to do the following:
 ## Some validation/sanity checking SQL commands
 
 To be able to run SQL commands, you must first open a MySQL command prompt.
-Open Git Bash, then type the following:
+Open Git Bash, then type the following (or copy-paste the command; to paste a
+command into Git Bash, right click the Git Bash window and select Paste):
 
 ```bash
 winpty "/c/Program Files/MySQL/MySQL Server 8.0/bin/mysql" --defaults-extra-file="$HOME/.my.cnf" aiwatch
