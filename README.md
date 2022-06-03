@@ -226,6 +226,28 @@ that are missing an `end_date` that should be added.
 select organization,person,group_concat(title) from positions where end_date is NULL group by person,organization having count(*) > 1 order by organization;
 ```
 
+## Tips for using Visual Studio Code
+
+Most keyboard shortcuts like copy, paste, save, search, all work as expected.
+Below are some advanced settings that are useful when doing data entry.
+
+### Sorting lines
+
+1. To sort a block of lines, go to the first line and click on it.
+2. Then type `Control`-`Shift`-`End`.  This will select all lines from the
+   current cursor position until the end of the file.
+3. Now type `Control`-`p` followed by `>` followed by the word `sort` and then
+   choose "Sort Lines Ascending" from the menu.
+
+**WARNING**: Be careful when sorting lines to make sure that there are no
+commented lines or SQL "rows" that take up more than one line, as these will be
+sorted incorrectly. Also when sorting a block of SQL "rows" for the whole file,
+add a comma to the first row, then sort, then remove a comma from the first
+row.
+
+### Word wrapping
+
+To toggle word wrapping, press `Alt`-`z`.
 
 ## Contributing
 
