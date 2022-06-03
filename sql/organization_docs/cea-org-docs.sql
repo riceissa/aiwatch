@@ -77,9 +77,8 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Movement building', /* cause_area */
         'The document summarizes findings from feedback collected by CEA in the Spring and Summer of 2019 from "about a dozen people who work in senior positions in EA-aligned organizations" about CEA and the effective altruism community. The post also says "The feedback is presented “as is,” without any endorsement by CEA." Things listed as going well include (1) comnunity health and events projects, (2) smart, talented, and thoughtful members, (3) kind members. Things which could be improved: (1) execution issues with EA Grants, EA Funds, and other projects, (2) communication and branding issues with EA Global and the EA Forum, (3) perception of low welcomingness, (4) demographic homogeneity.' /* notes */
     )
-;
     ,(
-        'https://forum.effectivealtruism.org/posts/aNKuzuQkpfyBLwqqv/announcing-my-retirement?fbclid=IwAR2SiiVMm93Osdu-gVfBh7lYbuErTxfXU7N6Ux7lJtT_EheOhM3tENjU7zo', /* url */
+        'https://forum.effectivealtruism.org/posts/aNKuzuQkpfyBLwqqv/announcing-my-retirement', /* url */
         'Announcing my retirement', /* title */
         '2021-11-25', /* publication_date */
         NULL, /* modified_date */
@@ -91,3 +90,4 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Effective altruism/movement growth', /* cause_area */
         'Aaron Gertler announces his departure as content specialist at Effective Altruism Forum, to happen on December 10th, 2021. Aaron declares having a good experience managing the forum, and announces joining Open Philanthropy as their communications officer, and also Effective Giving Quest as their first partnered streamer.' /* notes */
     )
+;
