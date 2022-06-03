@@ -182,6 +182,51 @@ The very first time you set up Git, you will need to do the following:
 - `git push --set-upstream origin BRANCHNAME` to set the branch to push to on
   origin (GitHub).
 
+## Some validation/sanity checking SQL commands
+
+To be able to run SQL commands, you must first open a MySQL command prompt.
+Open Git Bash, then type the following:
+
+```bash
+winpty "/c/Program Files/MySQL/MySQL Server 8.0/bin/mysql" --defaults-extra-file="$HOME/.my.cnf" aiwatch
+```
+
+Now you can type the following SQL commands.  To exit out of MySQL, you can
+type `Control`-`d`.
+
+The following command looks at each organization and finds distinct people with
+the same last name. This will often catch people who use shorted versions of
+their name in some contexts (e.g. "Alex Ray" and "Alexander Ray").
+
+```sql
+select organization,group_concat(distinct person) from positions group by organization, substring_index(person,' ',-1) having count(distinct person) > 1;
+```
+
+The following command will find duplicate (organization, person, title)
+combinations. This often means that the same position has been entered more
+than once.
+
+```sql
+select count(*),person,organization,title from positions group by person,organization,title having count(*)>1;
+```
+
+You can restrict the above to a single organization, say GiveWell, by typing
+the following instead:
+
+```sql
+select count(*),person,organization,title from positions where organization='GiveWell' group by person,organization,title having count(*)>1;
+```
+
+The following command will find all cases where there is more than one
+"unended" position for each (person, organization) pair. Since each person
+usually only holds one position at a time, this can often tell you of positions
+that are missing an `end_date` that should be added.
+
+```sql
+select organization,person,group_concat(title) from positions where end_date is NULL group by person,organization having count(*) > 1 order by organization;
+```
+
+
 ## Contributing
 
 All contributions are welcome.  Contributions might take the form of:
