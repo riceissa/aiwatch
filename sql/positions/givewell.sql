@@ -1,5 +1,6 @@
 
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+
      ('Holden Karnofsky','GiveWell','Executive Director','2006-08-01','month','2007-06-01','month','https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people','He switched from part-time to full-time work on GiveWell in “mid-2007”.','part-time','Global health and poverty')
     ,('Holden Karnofsky','GiveWell','Executive Director','2007-06-01','month','2017-06-01','month','https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people https://web.archive.org/web/20170615161652/https://www.givewell.org/about/people','He switched from part-time to full-time work on GiveWell in “mid-2007”.','full-time','Global health and poverty')
     ,('Elie Hassenfeld','GiveWell','Executive Director','2006-08-01','month','2007-08-01','month','https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people',NULL,'part-time','Global health and poverty')
@@ -7,8 +8,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Natalie Crispin','GiveWell','Research Analyst','2009-07-01','month','2015-06-01','month','https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people https://web.archive.org/web/20130208084816/http://www.givewell.org/about/people https://www.linkedin.com/in/natalie-crispin-31b87717/details/experience/',NULL,'full-time','Global health and poverty')
     ,('Simon Knutsson','GiveWell','Volunteer','2008-06-01','month','2010-06-01','month','https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people','From summer 2008 to summer 2010.','volunteer','Global health and poverty')
     ,('Simon Knutsson','GiveWell','Research Consultant','2010-06-01','month','2011-01-01','month','https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people https://web.archive.org/web/20110120035955/http://www.givewell.org/about/people','From summer 2010. Bio says he is “enrolled in a Master of Science in Economics program at the University of Gothenburg in Sweden” during this time, so assuming it’s not a full-time position.','part-time','Global health and poverty')
-    ,('Tom Rutledge','GiveWell','Board Chair',NULL,NULL,'2019-04-02','month','https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people',NULL,'board member','Global health and poverty')
-    ,('Lindy Miller Crane','GiveWell','Board Vice-chair',NULL,NULL,'2012-06-01','month','https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people https://web.archive.org/web/20120618144304/http://www.givewell.org/about/people',NULL,'board member','Global health and poverty')
     ,('Ari Herman','GiveWell','Board Treasurer',NULL,NULL,'2012-06-01','month','https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people https://web.archive.org/web/20120618144304/http://www.givewell.org/about/people',NULL,'board member','Global health and poverty')
     ,('Holden Karnofsky','GiveWell','Board Secretary',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people',NULL,'board member','Global health and poverty')
     ,('Greg Jensen','GiveWell','Board member',NULL,NULL,'2018-01-01','month','https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people https://web.archive.org/web/20180105182822/https://www.givewell.org/about/people',NULL,'board member','Global health and poverty')
@@ -216,19 +215,19 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Roman Guglielmo','GiveWell', 'Donor Relations Assistant', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
     ,('Sade McDougal','GiveWell', 'Donations Processing Assistant', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
     ,('Shahid Ahmad','GiveWell', 'Research Analyst', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Gabriela Quintana','GiveWell', 'Operations Associate', '2019-09-01', 'month',NULL,NULL, 'https://www.linkedin.com/in/gabyquintana/', NULL, 'full-time','Global health and poverty')
+    ,('Gabriela Quintana','GiveWell', 'Operations Associate', '2019-09-01', 'month',NULL,NULL, 'https://www.linkedin.com/in/gabyquintana/', NULL, 'full-time','Global health and poverty')
+    ,('Lindy Miller Crane','GiveWell','Board Vice-chair',NULL,NULL,'2012-06-01','month','https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people https://web.archive.org/web/20120618144304/http://www.givewell.org/about/people',NULL,'board member','Global health and poverty')
+    ,('Neil Buddy Shah','GiveWell', 'Managing Director', '2020-01-01', 'year',NULL,NULL, 'https://www.linkedin.com/in/neil-buddy-shah-403b1351/', NULL, NULL,'Global health and poverty')
     ,('Stephan Guyenet','GiveWell', 'Senior Researcher', '2017-05-01', 'month',NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people https://www.linkedin.com/in/guyenet/', NULL, NULL,'Global health and poverty')
     ,('Stephanie Stojanovic','GiveWell', 'Director of Development', '2020-07-01', 'month',NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people https://www.linkedin.com/in/stephanie-stojanovic-4998353b/', NULL, NULL,'Global health and poverty')
     ,('Taylor Smith','GiveWell', 'Philanthropy Advisor', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
     ,('Teryn Mattox','GiveWell', 'Senior Program Officer', '2021-11-01', 'month',NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people https://www.linkedin.com/in/teryn-mattox-189b2153/', NULL, 'full-time','Global health and poverty')
     ,('Teryn Mattox','GiveWell', 'Program Officer', '2020-09-01', 'month', '2021-11-01', 'month', 'https://www.linkedin.com/in/teryn-mattox-189b2153/', NULL, NULL,'Global health and poverty')
-    ,('Teryn Mattox','GiveWell', 'Senior Reseach', '2019-10-01', 'month', '2020-09-01', 'month', 'https://www.linkedin.com/in/teryn-mattox-189b2153/', NULL, NULL,'Global health and poverty')
+    ,('Teryn Mattox','GiveWell', 'Senior Reseacher', '2019-10-01', 'month', '2020-09-01', 'month', 'https://www.linkedin.com/in/teryn-mattox-189b2153/', NULL, NULL,'Global health and poverty')
+    ,('Tom Rutledge','GiveWell','Board member (chair)',NULL,NULL,'2019-04-02','month','https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people',NULL,'board member','Global health and poverty')
     ,('Tracy Williams','GiveWell', 'Senior Marketing Analyst', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
     ,('Zoe Mahony','GiveWell', 'Program Associate', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
-    ,('Neil Buddy Shah','GiveWell', 'Managing Director', '2020-01-01', 'year',NULL,NULL, 'https://www.linkedin.com/in/neil-buddy-shah-403b1351/', NULL, NULL,'Global health and poverty')
-    ,('Gabriela Quintana','GiveWell', 'Operations Associate', '2019-09-01', 'month',NULL,NULL, 'https://www.linkedin.com/in/gabyquintana/', NULL, 'full-time','Global health and poverty')
-    ,('Gabriela Quintana','GiveWell', 'Operations Associate', '2019-09-01', 'month',NULL,NULL, 'https://www.linkedin.com/in/gabyquintana/', NULL, 'full-time','Global health and poverty')
-
-
 
 
 
