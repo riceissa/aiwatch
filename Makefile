@@ -24,6 +24,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/amf.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/animal-advocacy-africa.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/anthropic.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/arb-research.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/astera.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/beri.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/cea.sql
@@ -36,6 +37,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/chai.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/charity-science-health.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/charity-science.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/cooperativeai.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/cset.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ea-foundation.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ea-retreats.sql
@@ -68,11 +70,13 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/miri.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/new-incentives.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/nonlinear-fund.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/nucleic-acid-observatory.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/one-for-the-world.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/open-philanthropy.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/openai.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ought.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/paisri.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/pantask.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/probably-good.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/raising-for-effective-giving.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/redwood-research.sql
