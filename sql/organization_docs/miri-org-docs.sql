@@ -475,7 +475,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Viktoria Malyasova', /* author */
         'LessWrong', /* publisher */
         'Machine Intelligence Research Institute', /* affected_organizations */
-        'Buck Shlegeris', /* affected_people */
+        'Buck Shlegeris|Anna Salamon', /* affected_people */
 	'Job application experience', /* document_scope */
         'AI safety', /* cause_area */
         'As a response to Rob Bensinger asking what MIRI could do to improve hiring, Viktoria Malyasova, in an attempt to give feedback, writes about her mostly negative experience applying for a MIRI job in 2020. Viktoria recounts from her early steps in the application while in Russia, then describes a long, conflictive process, and a final rejection. Much of the recounted experience involves Buck Shlegeris. Finally, Viktoria explains her reasons why she is against against meta-honesty' /* notes */
