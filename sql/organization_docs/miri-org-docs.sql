@@ -467,6 +467,19 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI safety', /* cause_area */
         'LessWrong user mingyuan posts a summary of discussions around her previous post titled The rationalist community''s location problem. mingyuan also provides additional data and gives her thoughts on what she thinks the community should do.' /* notes */
     )
+    ,(
+        'https://www.lesswrong.com/posts/HPBdzWYp95zH3mQCa/i-applied-for-a-miri-job-in-2020-here-s-what-happened-next', /* url */
+        'I applied for a MIRI job in 2020. Here''s what happened next.', /* title */
+        '2022-06-15', /* publication_date */
+        NULL, /* modified_date */
+        'Viktoria Malyasova', /* author */
+        'LessWrong', /* publisher */
+        'Machine Intelligence Research Institute', /* affected_organizations */
+        'Buck Shlegeris', /* affected_people */
+	'Job application experience', /* document_scope */
+        'AI safety', /* cause_area */
+        'As a response to Rob Bensinger asking what MIRI could do to improve hiring, Viktoria Malyasova, in an attempt to give feedback, writes about her mostly negative experience applying for a MIRI job in 2020. Viktoria recounts from her early steps in the application while in Russia, then describes a long, conflictive process, and a final rejection. Much of the recounted experience involves Buck Shlegeris. Finally, Viktoria explains her reasons why she is against against meta-honesty' /* notes */
+    )
 ;
 
 
