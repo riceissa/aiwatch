@@ -1,8 +1,6 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
    
 
- 
-
      ('Aaron Hoffmeyer', 'Center for Global Development', 'Constituent Relations Coordinator', '2011-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20110906041336/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Aaron Hoffmeyer', 'Center for Global Development', 'Database and Constituent Coordinator', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Aaron King', 'Center for Global Development', 'Communications Assistant', '2012-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120501050212/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
@@ -127,8 +125,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Chris Blattman', 'Center for Global Development', 'Non-Resident Fellow', '2016-08-01', 'year', NULL, NULL, 'https://web.archive.org/web/20160807012929/http://www.cgdev.org/section/experts/staff', NULL, NULL, 'Global health and poverty')
     ,('Chris Blattman', 'Center for Global Development', 'Visiting Fellow', '2007-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20071023080437/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Christian Haußner', 'Center for Global Development', 'Senior Policy Analyst', '2020-08-01', 'year', NULL, NULL, 'https://web.archive.org/web/20200811195240/https://www.cgdev.org/section/experts/staff', NULL, NULL, 'Global health and poverty')                                                                                                                                                                                                           
-    ,('Christian J. Meyer', 'Center for Global Development', 'Research Assistant', '2013-09-01', 'year', NULL, NULL, 'https://web.archive.org/web/20130906020857/http://www.cgdev.org/page/staff', NULL, NULL, 'Global health and poverty')
-    ,('Christian Meyer', 'Center for Global Development', 'Research Assistant', '2012-05-01', 'year', NULL, NULL, 'https://web.archive.org/web/20120501050212/http://www.cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
+    ,('Christian Meyer', 'Center for Global Development', 'Research Assistant', '2012-04-01', 'month', '2014-06-01', 'month', 'https://web.archive.org/web/20120501050212/http://www.cgdev.org/section/about/staff https://www.linkedin.com/in/christianjmeyer/', NULL, NULL, 'Global health and poverty')
     ,('Christina Counselman', 'Center for Global Development', 'Events and Database Coordinator', '2004-04-01', 'year', NULL, NULL, 'https://web.archive.org/web/20040406123952if_/http://www.cgdev.org/About/?Page=Staff', NULL, NULL, 'Global health and poverty')
     ,('Christina Droggitis', 'Center for Global Development', 'Program Coordinator', '2010-06-01', 'year', NULL, NULL, 'https://web.archive.org/web/20100619101119/http://cgdev.org/section/about/staff', NULL, NULL, 'Global health and poverty')
     ,('Christina Wood', 'Center for Global Development', 'Executive Assistant', '2002-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20030228005309/http://www.cgdev.org/acgd/cgdstaff.html', NULL, NULL, 'Global health and poverty')
