@@ -2,7 +2,7 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
 
 
-    ,('Allan Dafoe', 'Cooperative AI Foundation', 'Trustee', '2021-05-05', 'year', NULL, NULL, 'https://web.archive.org/web/20210505150134/https://www.cooperativeai.com/foundation https://web.archive.org/web/20220616134020/https://www.cooperativeai.com/foundation', NULL, 'board member', 'AI safety')
+    ('Allan Dafoe', 'Cooperative AI Foundation', 'Trustee', '2021-05-05', 'year', NULL, NULL, 'https://web.archive.org/web/20210505150134/https://www.cooperativeai.com/foundation https://web.archive.org/web/20220616134020/https://www.cooperativeai.com/foundation', NULL, 'board member', 'AI safety')
     ,('Amrit Sidhu-Brar', 'Cooperative AI Foundation', 'Operations Manager', NULL, NULL, '2022-05-09', 'month', 'https://web.archive.org/web/20220509104016/https://www.cooperativeai.com/foundation', NULL, NULL, 'AI safety')
     ,('Amrit Sidhu-Brar', 'Cooperative AI Foundation', 'Operations Associate', '2022-06-16', 'month', NULL, NULL, 'https://web.archive.org/web/20220616134020/https://www.cooperativeai.com/foundation', NULL, NULL, 'AI safety')
     ,('Dario Amodei', 'Cooperative AI Foundation', 'Trustee', '2021-05-05', 'year', NULL, NULL, 'https://web.archive.org/web/20210505150134/https://www.cooperativeai.com/foundation https://web.archive.org/web/20220610165957/https://www.cooperativeai.com/foundation', NULL, 'board member', 'AI safety')
