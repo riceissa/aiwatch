@@ -44,6 +44,7 @@ read:
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/effective-altruism-funds.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/effective-altruism-geneva.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/encultured-ai.sql
+	mysql $(MYSQL_ARGS) aiwatch < sql/positions/epoch.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/farmed-animal-funders.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/forethought.sql
 	mysql $(MYSQL_ARGS) aiwatch < sql/positions/ftx-future-fund.sql
