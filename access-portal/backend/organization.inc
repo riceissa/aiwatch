@@ -47,6 +47,12 @@ if ($stmt = $mysqli->prepare("select * from organizations where organization = ?
 }
 while ($row = $result->fetch_assoc()) { ?>
 
+  <?php if ($val = ($row['other_names'] ?? '')) { ?>
+    <tr>
+      <td>Other names</td>
+      <td><?= implode(', ', explode('|', $val)) ?></td>
+    </tr>
+  <?php } ?>
   <?php if ($val = ($row['country'] ?? '')) { ?>
     <tr>
       <td>Country</td>
