@@ -38,5 +38,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Dakota Norris', 'Global Catastrophic Risk Institute', 'Fellow', '2021-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dakota-norris-0b3300112/', NULL, 'GCR organization', NULL, NULL, 'AI safety')
     ,('Allan Suresh', 'Global Catastrophic Risk Institute', 'Research Fellowship', '2021-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/allan-suresh-824248147/?originalSubdomain=in', NULL, 'GCR organization', NULL, NULL, 'AI safety')
     ,('Uliana Certan', 'Global Catastrophic Risk Institute', 'Research Fellow', '2021-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/uliana-certan/?originalSubdomain=uk', NULL, 'GCR organization', NULL, NULL, 'AI safety')
-    ,('Uliana Certan', 'Global Catastrophic Risk Institute', 'Research Fellow', '2021-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/uliana-certan/?originalSubdomain=uk', NULL, 'GCR organization', NULL, NULL, 'AI safety')
-		
+ 
