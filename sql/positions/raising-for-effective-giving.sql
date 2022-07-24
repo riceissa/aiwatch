@@ -2,8 +2,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
      ('Liv Boeree', 'Raising for Effective Giving', 'Board member', '2014-06-01', 'month', NULL, NULL, 'https://web.archive.org/web/20140709070515/http://reg-charity.org/about https://www.linkedin.com/in/liv-boeree-39049021/', NULL, 'Advisor', 'Effective altruism')
     ,('Renae Garcia', 'Raising for Effective Giving', 'Board member', '2014-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20140709070515/http://reg-charity.org/about', NULL, NULL, 'Effective altruism')
-    ,('Lukas Gloor', 'Raising for Effective Giving', 'Board member', '2014-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20140709070515/http://reg-charity.org/about', NULL, NULL, 'Effective altruism')
-    ,('Lukas Gloor', 'Raising for Effective Giving', 'Board member', '2015-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20151006040209/http://reg-charity.org/about/', NULL, NULL, 'Effective altruism')
+    ,('Lukas Gloor', 'Raising for Effective Giving', 'Board member', '2014-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20140709070515/http://reg-charity.org/about', NULL, NULL, 'Effective altruism') 
     ,('Philipp Gruissem', 'Raising for Effective Giving', 'Board member', '2014-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20140709070515/http://reg-charity.org/about', NULL, NULL, 'Effective altruism')
     ,('Stefan Huber', 'Raising for Effective Giving', 'Board member', '2014-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20140709070515/http://reg-charity.org/about', NULL, NULL, 'Effective altruism')
     ,('Igor Kurganov', 'Raising for Effective Giving', 'Board member', '2014-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20140709070515/http://reg-charity.org/about https://www.linkedin.com/in/igor-kurganov-234402161/?originalSubdomain=uk', NULL, NULL, 'Effective altruism')
