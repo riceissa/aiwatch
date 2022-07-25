@@ -2,7 +2,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 /*This file needs more wayback references*/
 		
-	,('Charlie Scott', 'One for the World', 'Chief Financial Officer', '2018-08-01', 'month', '2019-12-31', 'month', 'https://www.linkedin.com/in/scottcharlie/', NULL, 'Volunteer', 'Global health and poverty')
+	 ('Charlie Scott', 'One for the World', 'Chief Financial Officer', '2018-08-01', 'month', '2019-12-31', 'month', 'https://www.linkedin.com/in/scottcharlie/', NULL, 'Volunteer', 'Global health and poverty')
 	,('Charlie Scott', 'One for the World', 'Chief Operating Officer', '2017-07-01', 'month', '2018-07-31', 'month', 'https://www.linkedin.com/in/scottcharlie/', NULL, 'Volunteer', 'Global health and poverty')
 	,('Charlie Scott', 'One for the World', 'Executive Committee', NULL, NULL, NULL, NULL, 'http://archive.today/2020.12.15-211556/https://www.1fortheworld.org/meet-the-team- https://web.archive.org/web/20181011213658/https://www.1fortheworld.org/advisory-board/', NULL, 'Volunteer', 'Global health and poverty')
 	,('Charlie Scott', 'One for the World', 'Operations', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20181011213658/https://www.1fortheworld.org/advisory-board/', NULL, 'Volunteer', 'Global health and poverty')
@@ -11,7 +11,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 	,('Ian Yamey', 'One for the World', 'Advisory Board Member', '2019-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ianyamey/', NULL, 'Board Member', 'Global health and poverty')
 	,('Ian Yamey', 'One for the World', 'Executive Committee', NULL, NULL, NULL, NULL, 'http://archive.today/2020.12.15-211556/https://www.1fortheworld.org/meet-the-team-', NULL, NULL, 'Global health and poverty')
 	,('Jack Lewars', 'One for the World', 'Executive Director', '2019-09-01', 'month', NULL, NULL, 'http://archive.today/2020.12.15-211556/https://www.1fortheworld.org/meet-the-team- https://www.linkedin.com/in/jack-lewars/', NULL, NULL, 'Global health and poverty')
-	,('Jennifer Wong', 'One for the World', 'Board Member', '2016-09-01', 'month', NULL. NULL, 'https://www.linkedin.com/in/wongjennifery/', NULL, 'board member', 'Global health and poverty')
+	,('Jennifer Wong', 'One for the World', 'Board Member', '2016-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/wongjennifery/', NULL, 'board member', 'Global health and poverty')
 	,('Joshua McCann', 'One for the World', 'Executive Committee', '2014-03-01', 'month', NULL, NULL, 'https://web.archive.org/web/20181011213658/https://www.1fortheworld.org/advisory-board/ https://www.linkedin.com/in/joshua-mccann-720b9b21/?originalSubdomain=uk', NULL, NULL, 'Global health and poverty')
 	,('Joshua McCann', 'One for the World','Co-Founder', '2014-03-01', 'month', NULL, NULL, 'http://archive.today/2020.12.15-211556/https://www.1fortheworld.org/meet-the-team- https://www.linkedin.com/in/joshua-mccann-720b9b21/?originalSubdomain=uk https://web.archive.org/web/20181011213658/https://www.1fortheworld.org/advisory-board/', NULL, NULL, 'Global health and poverty')
 	,('Kate Epstein', 'One for the World', 'Co-Founder', '2012-01-01', 'year', '2014-12-31', 'year', 'http://archive.today/2020.12.15-211556/https://www.1fortheworld.org/meet-the-team- https://web.archive.org/web/20181011213658/https://www.1fortheworld.org/advisory-board/', NULL, NULL, 'Global health and poverty')
