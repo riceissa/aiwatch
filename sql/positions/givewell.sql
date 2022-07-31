@@ -213,8 +213,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Whitney Shinkle','GiveWell','Director of Operations','2018-04-01','year',NULL,NULL,'https://web.archive.org/web/20180505212229/https://www.givewell.org/about/people https://www.linkedin.com/in/whitney-shinkle-161b764/',NULL, NULL,'Global health and poverty')
     ,('Willa Gruver','GiveWell', 'Operations Assistant','2021-01-01', NULL,NULL,NULL, 'https://web.archive.org/web/20211111024251/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
     ,('Zachary Tausanovitch','GiveWell','Independent Contractor','2017-03-01','month','2017-07-01','month','https://www.linkedin.com/in/zachary-tausanovitch/',NULL,NULL,'Global health and poverty')
-    ,('Zoe Mahony','GiveWell', 'Content Editor','2021-01-01', NULL,NULL,NULL, 'https://web.archive.org/web/20211111024251/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
-    ,('Zoe Mahony','GiveWell', 'Program Associate', NULL, NULL,NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')
+    ,('Zoe Mahony','GiveWell', 'Content Editor','2021-10-01', 'month','2022-04-01','month', 'https://www.linkedin.com/in/zoe-mahony-aa1934179/ https://web.archive.org/web/20211111024251/https://www.givewell.org/about/people https://web.archive.org/web/20220307113826/https://www.givewell.org/about/people', NULL, 'full-time','Global health and poverty')
+    ,('Zoe Mahony','GiveWell', 'Program Associate', '2022-04-01', 'month',NULL,NULL, 'https://www.linkedin.com/in/zoe-mahony-aa1934179/ https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people', NULL, 'full-time','Global health and poverty')
 
 
  
