@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Exit script immediately if any command fails
+set -e
+
 # Print each command before running, as Make would
 set -o xtrace
 
