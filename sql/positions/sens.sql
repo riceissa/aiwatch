@@ -109,7 +109,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Kristie Kim', 'SENS Research Foundation', 'Research Associate', '2020-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20210910231529/https://www.sens.org/about-us/team/ https://www.linkedin.com/in/kristie-kim-727503142/', NULL, 'full-time', 'Longevity')
     ,('Elena Magay', 'SENS Research Foundation', 'Lab Manager', '2021-09-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210910231529/https://www.sens.org/about-us/team/', NULL, NULL, 'Longevity')
     ,('Carly Truong', 'SENS Research Foundation', 'Research Technician', '2021-09-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210910231529/https://www.sens.org/about-us/team/', NULL, NULL, 'Longevity')
-    ,('Carly Truong', 'SENS Research Foundation', 'Research Technician', '2021-09-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210910231529/https://www.sens.org/about-us/team/', NULL, NULL, 'Longevity')
     ,('Walter Harvey Crompton', 'SENS Research Foundation', 'Volunteer', '2010-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/walter-harvey-crompton-a1b9959/', NULL, NULL, 'Longevity')  
    
  

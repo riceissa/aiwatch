@@ -13,6 +13,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Peter Barnett', 'Nonlinear Fund', 'Research Analyst', '2021-08-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210902003125/https://www.nonlinear.org/about.html', NULL, NULL, 'AI safety')
     ,('Chris Leong', 'Nonlinear Fund', 'Research Analyst', '2021-08-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210902003125/https://www.nonlinear.org/about.html', NULL, NULL, 'AI safety')
     ,('Corey Wood', 'Nonlinear Fund', 'Research Analyst', '2021-08-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210902003125/https://www.nonlinear.org/about.html', NULL, NULL, 'AI safety')
-    ,('Daniel del Castillo', 'Nonlinear Fund', 'Software Engineer', '2021-08-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210902003125/https://www.nonlinear.org/about.html', NULL, NULL, 'AI safety')
-    ,('Daniel del Castillo', 'Nonlinear Fund', 'Software Engineer', '2021-08-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210902003125/https://www.nonlinear.org/about.html', NULL, NULL, 'AI safety')
+    ,('Daniel del Castillo', 'Nonlinear Fund', 'Software Engineer', '2021-08-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210902003125/https://www.nonlinear.org/about.html', NULL, NULL, 'AI safety') 
  

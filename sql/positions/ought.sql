@@ -29,5 +29,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Ian McKenzie','Ought','Software Engineering Intern', '2022-01-01',NULL,NULL,NULL,'https://web.archive.org/web/20220119221441/https://ought.org/team',NULL,'position',NULL, 'Intern','AI safety')
     ,('Aparna Ashok','Ought','Independent Contractor', '2019-08-01', 'month',NULL,NULL,'https://www.linkedin.com/in/ashokaparna/',NULL,'position',NULL, 'Contractor','AI safety')
     ,('Aisha Aishwarya','Ought','Research Assistant', '2021-11-01', 'month',NULL,NULL,'https://www.linkedin.com/in/missaishagurung/',NULL,'position',NULL, 'Contractor','AI safety')
-    ,('Aisha Aishwarya','Ought','Research Assistant', '2021-11-01', 'month',NULL,NULL,'https://www.linkedin.com/in/missaishagurung/',NULL,'position',NULL, 'Contractor','AI safety')
+ 
        

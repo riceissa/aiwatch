@@ -61,8 +61,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Julian Englert', 'Effective Altruism Geneva', NULL, '2019-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190831082238/http://eageneva.org/about#our-members', NULL, NULL, 'Effective altruism')
     ,('Brenda Penante', 'Effective Altruism Geneva', NULL, '2019-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190831082238/http://eageneva.org/about#our-members', NULL, NULL, 'Effective altruism')
     ,('Cristina Bahamonde', 'Effective Altruism Geneva', NULL, '2018-10-01', 'month', NULL, NULL, 'https://web.archive.org/web/20191001124614/http://eageneva.org/about#our-members', NULL, NULL, 'Effective altruism')
-    ,('Ivan Madan', 'Effective Altruism Geneva', 'Program strategy consultant', '2022-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ivan-madan/', NULL, 'full-time', 'Effective altruism')
-    ,('Ivan Madan', 'Effective Altruism Geneva', 'Program strategy consultant', '2022-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ivan-madan/', NULL, 'full-time', 'Effective altruism')
- 
+    ,('Ivan Madan', 'Effective Altruism Geneva', 'Program strategy consultant', '2022-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ivan-madan/', NULL, 'full-time', 'Effective altruism') 
 
 

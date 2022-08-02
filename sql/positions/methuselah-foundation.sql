@@ -58,7 +58,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Simon Fleming', 'Methuselah Foundation', 'Medical Advisor', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/simon-fleming-58324345/', NULL, 'Advisor', 'Longevity')
     ,('Sergio Ruiz', 'Methuselah Foundation', 'Managing Director and CoFounder', '2016-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sergio-ruiz/', NULL, NULL, 'Longevity')
     ,('Danielle Ruiz', 'Methuselah Foundation', 'Fellow of Geriatric Medical Research', '2016-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/danielle-ruiz-msn-aprn-agnp-c-6774485b/', NULL, NULL, 'Longevity')
-    ,('Danielle Ruiz', 'Methuselah Foundation', 'Fellow of Geriatric Medical Research', '2016-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/danielle-ruiz-msn-aprn-agnp-c-6774485b/', NULL, NULL, 'Longevity')
+ 
  
 
 
