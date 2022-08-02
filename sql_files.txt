@@ -20,6 +20,7 @@ sql/positions/cea.sql
 sql/positions/center-for-emerging-risk-research.sql
 sql/positions/center-for-global-development.sql
 sql/positions/center-for-reducing-suffering.sql
+sql/positions/center-for-space-governance.sql
 sql/positions/center-on-long-term-risk.sql
 sql/positions/centre-for-long-term-resilience.sql
 sql/positions/cfar.sql
@@ -28,6 +29,7 @@ sql/positions/charity-science-health.sql
 sql/positions/charity-science.sql
 sql/positions/cooperativeai.sql
 sql/positions/cset.sql
+sql/positions/ea-engineers.sql
 sql/positions/ea-foundation.sql
 sql/positions/ea-retreats.sql
 sql/positions/effective-altruism-funds.sql
@@ -37,6 +39,7 @@ sql/positions/epoch.sql
 sql/positions/farmed-animal-funders.sql
 sql/positions/forethought.sql
 sql/positions/ftx-future-fund.sql
+sql/positions/fund-for-alignment-research.sql
 sql/positions/gcri.sql
 sql/positions/generation-pledge.sql
 sql/positions/gfi.sql
