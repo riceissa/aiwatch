@@ -1,9 +1,8 @@
 # Automated add from scripts/open_phil_proc.py
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
 
-     ('Aaron Gertler', 'Open Philanthropy', 'Communications Officer', '2021-12-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220509154433/https://www.openphilanthropy.org/about/team https://www.linkedin.com/in/aarongertler/', NULL, 'full-time', NULL)
-    ,('Adam Marblestone','Open Philanthropy','Scientific advisor',NULL,NULL,NULL,NULL,'https://www.linkedin.com/in/adam-marblestone-87202813/',NULL,'advisor',NULL)
-    ,('Adeline Sinclair', 'Open Philanthropy', 'Operations Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220509154433/https://www.openphilanthropy.org/about/team', NULL, NULL, NULL)
+     ('Aaron Gertler', 'Open Philanthropy', 'Communications Officer', '2021-12-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220509154433/https://www.openphilanthropy.org/about/team https://www.linkedin.com/in/aarongertler/', NULL, 'full-time', NULL) 
+    ,('Adeline Sinclair', 'Open Philanthropy', 'Operations Associate', '2021-09-16', 'month', NULL, NULL, 'https://web.archive.org/web/20210916111910/https://www.openphilanthropy.org/about/team https://web.archive.org/web/20220606045923/https://www.openphilanthropy.org/about/team', NULL, NULL, NULL)/*2022-08-18 update*/
     ,('Ajay Karpur', 'Open Philanthropy', 'Consultant, Biosecurity and Pandemic Preparedness', '2021-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/ajaykarpur/', NULL, 'contractor', NULL)
     ,('Ajeya Cotra','Open Philanthropy','Research Analyst','2016-07-01','month','2018-11-28','month','https://www.linkedin.com/in/ajeya-cotra-90942b8b/ https://web.archive.org/web/20160824201031/http://www.openphilanthropy.org:80/about/team  https://web.archive.org/web/20181128184458/http://www.openphilanthropy.org/about/team',NULL,'full-time',NULL)
     ,('Ajeya Cotra','Open Philanthropy','Senior Research Analyst','2018-12-01','month',NULL,NULL,'https://web.archive.org/web/20190311003104/http://www.openphilanthropy.org/about/team',NULL,'full-time',NULL)
