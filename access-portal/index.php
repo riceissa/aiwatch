@@ -109,8 +109,9 @@ if ($_REQUEST['person'] ?? '') {
 <?php } ?>
 
 <p><strong>If you like (or want to like) this website and have money:</strong> the current
-funder doesn't want to continue funding this project. As a result, it is
-currently mostly sitting around. If you want to bring this site to the next
+funder is mostly only funding data updates to existing organizations as well as
+adding data for some new effective altruist organizations. As a result, the site
+is not getting any new features or improvements in design. If you want to bring this site to the next
 level, contact Issa at riceissa@gmail.com. What you get: site improvements,
 recognition in the site credits. What the site needs: money.</p>
 
