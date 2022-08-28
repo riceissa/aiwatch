@@ -1,0 +1,40 @@
+Givewell p1
+Open Philanthropy p1
+Centre for Effective Altruism p1
+Machine Intelligence Research Institute p1
+AI Impacts p1
+LessWrong 2.0 (rename to Lightcone Infrastructure) p1
+
+80,000 Hours p2
+Berkeley Existential Risk Initiative p2
+Foundational Research Institute (renamed Center on Long Term Risk) p2
+Effective Altruism Foundation (renamed Center on Long Term Risk) p2
+
+Animal Charity Evaluators p2
+Center for Applied Rationality p2
+Future of Humanity Institute p2
+
+openai p3
+Median Group p3
+Longview Philanthropy p3
+Center for Human-Compatible AI p3
+Charity Science p3
+Theiss Research p3
+Center for Security and Emerging Technology p3
+
+Leverage Research p4
+FLOWERS p4
+Sentience Institute p4
+SENS Research Foundation p4
+
+The Good Food Institute p5
+The Humane League p5
+Innovation for poverty action p5
+Mercy for Animals p5
+Abdul Latif Jameel Poverty Action Lab p5
+Against Malaria Foundation p5
+Center for Global Development p5
+Give Directly p5
+New Incentives p5
+Johns Hopkins Center for Health Security p5
+SCI Foundation p5
