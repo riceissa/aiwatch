@@ -198,7 +198,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Timothy Ogden','GiveWell','Board Member','2008-01-01', 'month', '2019-09-01', 'month', 'https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people https://www.linkedin.com/in/timothyogden/'/*I'm relying on LinkedIn as the earliest Wayback snapshot is from June 9, 2010*/, NULL,'Board Member','Global health and poverty') /*Reviewed on 2022-08-23*/ 
     ,('Timothy Ogden','GiveWell','Chairman of the board','2019-09-01', 'month',NULL,NULL, 'https://www.linkedin.com/in/timothyogden/ https://web.archive.org/web/20220604071207/https://www.givewell.org/about/people', NULL,'Board Member','Global health and poverty')/*Reviewed on 2022-08-22*/  
     ,('Timothy Telleen-Lawton','GiveWell','Operations Associate','2016-09-20','month','2017-01-01','month','https://web.archive.org/web/20160920191536/http://www.givewell.org/about/people https://www.linkedin.com/in/timothytl/',NULL,'full-time','Global health and poverty')
-    ,('Timothy Telleen-Lawton','GiveWell','Research Analyst','2013-30-04','month','2015-08-01','month','https://web.archive.org/web/20130430093930/http://www.givewell.org/about/people https://www.linkedin.com/in/timothytl/ https://web.archive.org/web/20150729002408/http://www.givewell.org/about/people',NULL,'full-time','Global health and poverty') /*Reviewed on 2022-08-30*/  
+    ,('Timothy Telleen-Lawton','GiveWell','Research Analyst','2013-04-30','month','2015-08-01','month','https://web.archive.org/web/20130430093930/http://www.givewell.org/about/people https://www.linkedin.com/in/timothytl/ https://web.archive.org/web/20150729002408/http://www.givewell.org/about/people',NULL,'full-time','Global health and poverty') /*Reviewed on 2022-08-30*/  
     ,('Timothy Telleen-Lawton','GiveWell','Senior Research Analyst','2015-08-08','month','2016-08-30','month','https://web.archive.org/web/20150808020330/http://www.givewell.org/about/people https://web.archive.org/web/20160830204841/http://www.givewell.org/about/people',NULL,'full-time','Global health and poverty')
     ,('Tom Rutledge','GiveWell','Board member (chair)','2010-06-09', 'month','2019-04-02','month','https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people',NULL,'board member','Global health and poverty') /*Reviewed on 2022-08-23*/  
     ,('Tom Sittler','GiveWell','Research Analyst','2019-05-11','month',NULL,NULL,NULL,NULL,'full-time','Global health and poverty')
@@ -216,9 +216,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Zachary Tausanovitch','GiveWell','Independent Contractor','2017-03-01','month','2017-07-01','month','https://www.linkedin.com/in/zachary-tausanovitch/',NULL,NULL,'Global health and poverty')
     ,('Zoe Mahony','GiveWell', 'Content Editor','2021-10-01', 'month','2022-04-01','month', 'https://www.linkedin.com/in/zoe-mahony-aa1934179/ https://web.archive.org/web/20211111024251/https://www.givewell.org/about/people https://web.archive.org/web/20220307113826/https://www.givewell.org/about/people', NULL, 'full-time','Global health and poverty')
     ,('Zoe Mahony','GiveWell', 'Program Associate', '2022-04-01', 'month',NULL,NULL, 'https://www.linkedin.com/in/zoe-mahony-aa1934179/ https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people https://web.archive.org/web/20220604071207/https://www.givewell.org/about/people', NULL, 'full-time','Global health and poverty')/*Reviewed on 2022-08-22*/  
-    ,('Natalie Stone','GiveWell', 'Research Analyst ', '2010-06-09', NULL,NULL,NULL, 'https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people', NULL, 'full-time','Global health and poverty')/*Reviewed on 2022-08-29*/  
-
  
+ 
+
  
 
 
