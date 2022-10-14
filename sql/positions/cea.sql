@@ -1,19 +1,7 @@
-/*
-The archive snapshots used, in order:
-# https://web.archive.org/web/20141129225218/https://centreforeffectivealtruism.org/team/
-# https://web.archive.org/web/20160210140239/https://www.centreforeffectivealtruism.org/team/
-# https://web.archive.org/web/20160627023803/https://www.centreforeffectivealtruism.org/team/
-# https://web.archive.org/web/20161021191933/https://www.centreforeffectivealtruism.org/team/
-# https://web.archive.org/web/20170109075558/https://www.centreforeffectivealtruism.org/team
-# http://archive.today/2017.06.18-024650/https://www.centreforeffectivealtruism.org/team/
-# https://web.archive.org/web/20180124140416/https://www.centreforeffectivealtruism.org/team/
-# https://web.archive.org/web/20180618200316/https://www.centreforeffectivealtruism.org/team/
-*/
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values              
 
-insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
-                                       
-     ('Aadil Kara', 'Centre for Effective Altruism', 'Retention support', '2020-12-01', 'month', NULL, NULL, 'https://www.centreforeffectivealtruism.org/blog/cea-update-q2-2021/?fbclid=IwAR04SwXloOO8Q5bHgyu6tEp4zvMNL6Z6oBeDsFIJUOIIV-lrr6Zcg3LxOcI#org-chart https://www.linkedin.com/in/aadil-kara/?originalSubdomain=uk', NULL, 'contractor', 'Effective altruism') /* Updated as of 2022-09-30 */ /*Not on wayback team page*/ 
-    ,('Aaron Gertler', 'Centre for Effective Altruism', 'Content Specialist', '2018-10-01', 'month', '2021-12-01', 'month' 'https://web.archive.org/web/20181108005358/https://www.centreforeffectivealtruism.org/team/ https://www.linkedin.com/in/aarongertler/ https://web.archive.org/web/20211101112513/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /* Updated as of 2022-09-30 */
+     ('Aadil Kara', 'Centre for Effective Altruism', 'Retention support', '2020-12-01', 'month', NULL, NULL, 'https://www.centreforeffectivealtruism.org/blog/cea-update-q2-2021/?fbclid=IwAR04SwXloOO8Q5bHgyu6tEp4zvMNL6Z6oBeDsFIJUOIIV-lrr6Zcg3LxOcI#org-chart https://www.linkedin.com/in/aadil-kara/?originalSubdomain=uk', NULL, 'contractor', 'Effective altruism') /* Updated as of 2022-09-30 */ /*Not on team page*/ 
+    ,('Aaron Gertler', 'Centre for Effective Altruism', 'Content Specialist', '2018-10-01', 'month', '2021-12-01', 'month', 'https://web.archive.org/web/20181108005358/https://www.centreforeffectivealtruism.org/team/ https://www.linkedin.com/in/aarongertler/ https://web.archive.org/web/20211101112513/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /* Updated as of 2022-09-30 */
     ,('Aaron Mayer', 'Centre for Effective Altruism', 'Co-Director of EA NYC', '2020-08-01', 'month', '2021-08-01', 'month', 'https://www.linkedin.com/in/aaron-mayer-108/', NULL, 'full-time', 'Effective altruism') /* Updated as of 2022-09-30 */ /*Not found on wayback*/ 
     ,('Ales Flidr','Centre for Effective Altruism','Intern','2015-05-01','month','2015-07-01','month','https://www.linkedin.com/in/ales-flidr-96764638/',NULL,'intern','Effective altruism') /* Updated as of 2022-09-30 */ 
     ,('Ales Flidr','Centre for Effective Altruism','Summer Research Fellow','2017-06-01','month','2017-08-01','month','https://www.linkedin.com/in/ales-flidr-96764638/','AI policy research with Eric Drexler.','intern','AI safety') /* Updated as of 2022-09-30 */ 
