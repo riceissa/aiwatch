@@ -17,6 +17,7 @@ sql/positions/arb-research.sql
 sql/positions/astera.sql
 sql/positions/beri.sql
 sql/positions/cea.sql
+sql/positions/center-for-ai-safety.sql
 sql/positions/center-for-emerging-risk-research.sql
 sql/positions/center-for-global-development.sql
 sql/positions/center-for-reducing-suffering.sql
@@ -62,6 +63,7 @@ sql/positions/metaculus.sql
 sql/positions/methuselah-foundation.sql
 sql/positions/miri.sql
 sql/positions/new-incentives.sql
+sql/positions/non-trivial.sql
 sql/positions/nonlinear-fund.sql
 sql/positions/nucleic-acid-observatory.sql
 sql/positions/one-for-the-world.sql
