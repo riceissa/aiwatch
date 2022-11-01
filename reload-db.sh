@@ -129,6 +129,6 @@ winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source sql/pos
 winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source sql/positions/non-trivial.sql"
 winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source sql/positions/balsa-research.sql"
 winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source sql/positions/conjecture.sql"
-
+winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source centre-for-exploratory-altruism-research.sql"
 
 
