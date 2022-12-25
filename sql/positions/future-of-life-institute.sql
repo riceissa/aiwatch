@@ -30,7 +30,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Anna Yelizarova','Future of Life Institute','Project Manager',NULL,NULL,NULL,NULL,'https://futureoflife.org/team/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Andrea Berman','Future of Life Institute','Grants Manager',NULL,NULL,NULL,NULL,'https://futureoflife.org/team/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Emilia Javorsky','Future of Life Institute','Director of Grants and Multistakeholder Engagement',NULL,NULL,NULL,NULL,'https://futureoflife.org/team/',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Akhil Deo','Future of Life Institute','Social Media Manager',NULL,NULL,NULL,NULL,'https://futureoflife.org/team/',NULL,NULL,NULL,NULL,'AI safety')"
+    ,('Akhil Deo','Future of Life Institute','Social Media Manager',NULL,NULL,NULL,NULL,'https://futureoflife.org/team/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Gus Docker','Future of Life Institute','Podcast Host',NULL,NULL,NULL,NULL,'https://futureoflife.org/team/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Taylor Jones','Future of Life Institute','Website Manager',NULL,NULL,NULL,NULL,'https://futureoflife.org/team/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Will Jones','Future of Life Institute','Editorial Manager',NULL,NULL,NULL,NULL,'https://futureoflife.org/team/',NULL,NULL,NULL,NULL,'AI safety')
