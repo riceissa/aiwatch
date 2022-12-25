@@ -24,7 +24,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Richard Mallah','Future of Life Institute','Technical AI consultant',NULL,NULL,NULL,NULL,'https://futureoflife.org/team/ https://foresight.org/publications/AGI-Timeframes&PolicyWhitePaper.pdf',NULL,NULL,NULL,NULL,'AI safety')
     ,('Mark Brakel','Future of Life Institute','Director of Policy',NULL,NULL,NULL,NULL,'https://futureoflife.org/team/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Carlos Ignacio Gutierrez','Future of Life Institute','Policy Researcher',NULL,NULL,NULL,NULL,'https://futureoflife.org/team/',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Claudia Prettner,'Future of Life Institute','EU Representative',NULL,NULL,NULL,NULL,'https://futureoflife.org/team/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Claudia Prettner','Future of Life Institute','EU Representative',NULL,NULL,NULL,NULL,'https://futureoflife.org/team/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Risto Uuk','Future of Life Institute','Policy Researcher',NULL,NULL,NULL,NULL,'https://futureoflife.org/team/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Blake Pierson','Future of Life Institute','Director of Communications, Outreach and Operations',NULL,NULL,NULL,NULL,'https://futureoflife.org/team/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Anna Yelizarova','Future of Life Institute','Project Manager',NULL,NULL,NULL,NULL,'https://futureoflife.org/team/',NULL,NULL,NULL,NULL,'AI safety')
