@@ -1,5 +1,5 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
-    ,('Daniel Dewey','Future of Life Institute','Program Officer for AI Grants','2015-01-01','year',NULL,NULL,'https://www.fhi.ox.ac.uk/wp-content/uploads/Daniel-Dewey.pdf',NULL,NULL,NULL,NULL,'AI safety')
+    ('Daniel Dewey','Future of Life Institute','Program Officer for AI Grants','2015-01-01','year',NULL,NULL,'https://www.fhi.ox.ac.uk/wp-content/uploads/Daniel-Dewey.pdf',NULL,NULL,NULL,NULL,'AI safety')
     ,('Jaan Tallinn','Future of Life Institute','Co-Founder',NULL,NULL,NULL,NULL,'https://futureoflife.org/team/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Max Tegmark','Future of Life Institute','Co-Founder',NULL,NULL,NULL,NULL,'https://futureoflife.org/team/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Victoria Krakovna','Future of Life Institute','Co-Founder',NULL,NULL,NULL,NULL,'https://futureoflife.org/team/',NULL,NULL,NULL,NULL,'AI safety')
