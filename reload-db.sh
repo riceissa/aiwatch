@@ -127,3 +127,12 @@ winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source sql/pos
 winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source sql/positions/center-for-space-governance.sql"
 winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source sql/positions/center-for-ai-safety.sql"
 winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source sql/positions/non-trivial.sql"
+winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source sql/positions/balsa-research.sql"
+winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source sql/positions/conjecture.sql"
+winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source sql/positions/centre-for-exploratory-altruism-research.sql"
+winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source sql/positions/good-forever.sql"
+winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source sql/positions/condor-camp.sql"
+winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source sql/positions/forecasting-research-institute.sql"
+
+
+
