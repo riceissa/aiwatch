@@ -15,6 +15,7 @@ sql/positions/animal-advocacy-africa.sql
 sql/positions/anthropic.sql
 sql/positions/arb-research.sql
 sql/positions/astera.sql
+sql/positions/balsa-research.sql
 sql/positions/beri.sql
 sql/positions/cea.sql
 sql/positions/center-for-ai-safety.sql
@@ -23,11 +24,14 @@ sql/positions/center-for-global-development.sql
 sql/positions/center-for-reducing-suffering.sql
 sql/positions/center-for-space-governance.sql
 sql/positions/center-on-long-term-risk.sql
+sql/positions/centre-for-exploratory-altruism-research.sql
 sql/positions/centre-for-long-term-resilience.sql
 sql/positions/cfar.sql
 sql/positions/chai.sql
 sql/positions/charity-science-health.sql
 sql/positions/charity-science.sql
+sql/positions/condor-camp.sql
+sql/positions/conjecture.sql
 sql/positions/cooperativeai.sql
 sql/positions/cset.sql
 sql/positions/ea-engineers.sql
@@ -38,6 +42,7 @@ sql/positions/effective-altruism-geneva.sql
 sql/positions/encultured-ai.sql
 sql/positions/epoch.sql
 sql/positions/farmed-animal-funders.sql
+sql/positions/forecasting-research-institute.sql
 sql/positions/forethought.sql
 sql/positions/ftx-future-fund.sql
 sql/positions/fund-for-alignment-research.sql
@@ -47,6 +52,7 @@ sql/positions/generation-pledge.sql
 sql/positions/gfi.sql
 sql/positions/give-directly.sql
 sql/positions/givewell.sql
+sql/positions/good-forever.sql
 sql/positions/goodai.sql
 sql/positions/gwwc.sql
 sql/positions/happier-lives-institute.sql
