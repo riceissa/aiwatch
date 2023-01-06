@@ -1,6 +1,6 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
  
- ('Alex Pan', 'Center for AI Safety', 'Research Intern', '2022-07-01', 'month', '2022-08-01', 'month', 'https://www.linkedin.com/in/alexander-pan-0567a2102/', NULL, 'Intern', 'AI safety')
+ ('Alex Pan', 'Center for AI Safety', 'Research Intern', '2022-07-01', 'month', '2022-08-01', 'month', 'https://www.linkedin.com/in/alexander-pan-0567a2102/', NULL, 'Intern', 'AI safety')/*Updated as of 2023-01-05*/ 
 ,('Anders Edson', 'Center for AI Safety', 'Project Manager', '2022-07-01'/*Date taken from LinkedIn, which is earlier than the oldest wayback snapshot*/, 'year', NULL, NULL, 'https://www.linkedin.com/in/anders-edson-66565b236/ https://web.archive.org/web/20220813150758/https://safe.ai/about', NULL, NULL, 'AI safety')/*Updated as of 2023-01-05*/ 
 ,('Andy Zou', 'Center for AI Safety', 'Project Manager & Research Collaborator', '2022-08-13', 'year', NULL, NULL, 'https://web.archive.org/web/20220813150758/https://safe.ai/about', NULL, NULL, 'AI safety') 
 ,('Dan Hendrycks', 'Center for AI Safety', 'Executive and Research Director', '2022-08-13', 'year', NULL, NULL, 'https://web.archive.org/web/20220813150758/https://safe.ai/about', NULL, NULL, 'AI safety')
@@ -23,6 +23,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Steven Basart', 'Center for AI Safety', 'Research Engineer', '2022-05-01'/*Date taken from LinkedIn, which is earlier than the oldest wayback snapshot*/, 'month', NULL, NULL, 'https://www.linkedin.com/in/xksteven/ https://web.archive.org/web/20220813150758/https://safe.ai/about', NULL, 'Full-time', 'AI safety')
 ,('Thomas Woodside', 'Center for AI Safety', 'Researcher & Project Manager', '2022-01-01', 'month', '2022-08-01', 'month', 'https://web.archive.org/web/20220813150758/https://safe.ai/about https://www.linkedin.com/in/thomas-woodside-20131a145/', 'At the newly established Center for AI Safety, he was the first employee and spent full time working on research and managing projects. Some of his responsibilities included co-writing the Pragmatic AI Safety research agenda, overseeing the Machine Learning Safety Scholars program, and managing communications. He would be continuing with these duties on a part-time basis starting in mid-August 2022.', 'Full-time', 'AI safety')/*Updated as of 2023-01-05*/ 
 ,('Thomas Woodside', 'Center for AI Safety', 'Project Manager & Research Collaborator', '2022-08-13', 'year', NULL, NULL, 'https://web.archive.org/web/20220813150758/https://safe.ai/about https://www.linkedin.com/in/thomas-woodside-20131a145/', 'He would continue work part time while in school. Working on a research project involving Trojan detection in large language models.', 'Part-time', 'AI safety')/*Updated as of 2023-01-05*/ 
-,
+;
 
  
