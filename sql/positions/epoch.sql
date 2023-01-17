@@ -1,21 +1,20 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
 
-
-     ('Jaime Sevilla', 'Epoch ', 'Director', '2022-06-28', 'month', NULL, NULL, 'https://web.archive.org/web/20220628195022/https://epochai.org/team', NULL, NULL, 'AI safety')
-    ,('Tamay Besiroglu', 'Epoch ', 'Associate director', '2022-06-28', 'month', NULL, NULL, 'https://web.archive.org/web/20220628195022/https://epochai.org/team', NULL, NULL, 'AI safety')
-    ,('Pablo Villalobos', 'Epoch ', 'Staff Researcher', '2022-06-28', 'month', NULL, NULL, 'https://web.archive.org/web/20220628195022/https://epochai.org/team', NULL, NULL, 'AI safety')
-    ,('Anson Ho', 'Epoch ', 'Staff Researcher', '2022-06-28', 'month', NULL, NULL, 'https://web.archive.org/web/20220628195022/https://epochai.org/team', NULL, NULL, 'AI safety')
-    ,('Lennart Heim', 'Epoch ', 'Research Fellow and Strategy Specialist', '2022-06-28', 'month', NULL, NULL, 'https://web.archive.org/web/20220628195022/https://epochai.org/team', NULL, NULL, 'AI safety')
-    ,('Marius Hobbhahn', 'Epoch ', 'Research Fellow', '2022-06-28', 'month', NULL, NULL, 'https://web.archive.org/web/20220628195022/https://epochai.org/team', NULL, NULL, 'AI safety')
-    ,('Eduardo Infante-Roldán', 'Epoch ', 'Software Engineer', '2022-06-28', 'month', NULL, NULL, 'https://web.archive.org/web/20220628195022/https://epochai.org/team', NULL, NULL, 'AI safety')
-    ,('Tom Davidson', 'Epoch ', 'Research Advisor', '2022-06-28', 'month', NULL, NULL, 'https://web.archive.org/web/20220628195022/https://epochai.org/team', NULL, 'advisor', 'AI safety')
-    ,('Neil Thompson', 'Epoch ', 'Research Advisor', '2022-06-28', 'month', NULL, NULL, 'https://web.archive.org/web/20220628195022/https://epochai.org/team', NULL, 'advisor', 'AI safety')
-
-
-
-  
-
-
-  
-
  
+  
+     ('Anson Ho', 'Epoch ', 'Staff Researcher', '2022-06-28', 'month', NULL, NULL, 'https://web.archive.org/web/20220628195022/https://epochai.org/team https://web.archive.org/web/20221203202954/https://epochai.org/team', NULL, NULL, 'AI safety')/*Updated as of 2023-01-17*/
+    ,('Ben Cottier', 'Epoch', 'Staff Researcher', '2022-12-03', 'year', NULL, NULL, 'https://web.archive.org/web/20221203202954/https://epochai.org/team', NULL, NULL, 'AI safety')/*Updated as of 2023-01-17*/
+    ,('Daniela Amodei', 'Epoch', 'Advisory board', '2022-12-03', 'month', NULL, NULL, 'https://web.archive.org/web/20221203202954/https://epochai.org/team', NULL, 'Advisor', 'AI safety')/*Updated as of 2023-01-17*/
+    ,('David Atkinson', 'Epoch', 'Staff Researcher', '2022-12-03', 'year', NULL, NULL, 'https://web.archive.org/web/20221203202954/https://epochai.org/team', NULL, NULL, 'AI safety')/*Updated as of 2023-01-17*/
+    ,('Eduardo Infante-Roldán', 'Epoch ', 'Software Engineer', '2022-06-28', 'month', NULL, NULL, 'https://web.archive.org/web/20220628195022/https://epochai.org/team https://web.archive.org/web/20221203202954/https://epochai.org/team', NULL, NULL, 'AI safety')/*Updated as of 2023-01-17*/
+   ,('Ege Erdil', 'Epoch', 'Technical Advisor', '2022-09-26', 'year', NULL, NULL, 'https://web.archive.org/web/20220926170336/https://epochai.org/team', NULL, NULL, 'AI safety')/*Updated as of 2023-01-17*/
+    ,('Jaime Sevilla', 'Epoch ', 'Director', '2022-06-28', 'month', NULL, NULL, 'https://web.archive.org/web/20220628195022/https://epochai.org/team https://web.archive.org/web/20221203202954/https://epochai.org/team', NULL, NULL, 'AI safety')/*Updated as of 2023-01-17*/
+    ,('Jenny Xiao', 'Epoch', 'Research Fellow', '2022-12-03', 'year', NULL, NULL, 'https://web.archive.org/web/20221203202954/https://epochai.org/team', NULL, NULL, 'AI safety')/*Updated as of 2023-01-17*/
+    ,('Keith Wynroe', 'Epoch', 'Research manager', '2022-12-03', 'year', NULL, NULL, 'https://web.archive.org/web/20221203202954/https://epochai.org/team', NULL, NULL, 'AI safety')/*Updated as of 2023-01-17*/
+    ,('Lennart Heim', 'Epoch ', 'Research Fellow and Strategy Specialist', '2022-06-28', 'month', NULL, NULL, 'https://web.archive.org/web/20220628195022/https://epochai.org/team https://web.archive.org/web/20221203202954/https://epochai.org/team', NULL, NULL, 'AI safety')/*Updated as of 2023-01-17*/
+    ,('Marius Hobbhahn', 'Epoch ', 'Research Fellow', '2022-06-28', 'month', NULL, NULL, 'https://web.archive.org/web/20220628195022/https://epochai.org/team https://web.archive.org/web/20221203202954/https://epochai.org/team', NULL, NULL, 'AI safety')/*Updated as of 2023-01-17*/
+    ,('Matthew Barnett', 'Epoch', 'Staff Researcher', '2022-09-26', 'year', NULL, NULL, 'https://web.archive.org/web/20220926170336/https://epochai.org/team', NULL, NULL, 'AI safety') /*Updated as of 2023-01-17*/
+    ,('Neil Thompson', 'Epoch ', 'Research Advisor', '2022-06-28', 'month', NULL, NULL, 'https://web.archive.org/web/20220628195022/https://epochai.org/team https://web.archive.org/web/20221203202954/https://epochai.org/team', NULL, 'Advisor', 'AI safety')/*Updated as of 2023-01-17*/ 
+    ,('Pablo Villalobos', 'Epoch ', 'Staff Researcher', '2022-06-28', 'month', NULL, NULL, 'https://web.archive.org/web/20220628195022/https://epochai.org/team https://web.archive.org/web/20221203202954/https://epochai.org/team', NULL, NULL, 'AI safety')/*Updated as of 2023-01-17*/
+    ,('Tamay Besiroglu', 'Epoch ', 'Associate director', '2022-06-28', 'month', NULL, NULL, 'https://web.archive.org/web/20220628195022/https://epochai.org/team https://web.archive.org/web/20221203202954/https://epochai.org/team', NULL, NULL, 'AI safety')/*Updated as of 2023-01-17*/
+    ,('Tom Davidson', 'Epoch ', 'Research Advisor', '2022-06-28', 'month', NULL, NULL, 'https://web.archive.org/web/20220628195022/https://epochai.org/team https://web.archive.org/web/20221203202954/https://epochai.org/team', NULL, 'Advisor', 'AI safety')/*Updated as of 2023-01-17*/
