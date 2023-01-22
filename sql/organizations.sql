@@ -65,33 +65,15 @@ insert into organizations(organization, other_names, hosting_organization, websi
     ,('Epoch', NULL, 'Rethink Priorities', 'epochai.org', 'https://epochai.org/team', 'mailto:info@epochai.org', 'United States', '2022-06-23', 'month', 'https://epochai.org/blog/announcing-epoch', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, '@EpochAIResearch', NULL, NULL)/*updated as of 2023-01-17*/
     ,('EthicsNet','OpenEth',NULL,'https://www.ethicsnet.com/','https://www.ethicsnet.com/about/',NULL,'United Kingdom','2016-06-01','month','https://gist.github.com/riceissa/468de4fe4a0834c1f31c20c945f21dd0','https://gist.github.com/riceissa/468de4fe4a0834c1f31c20c945f21dd0',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
     ,('FLOWERS',NULL,'INRIA, ENSTA ParisTech','https://flowers.inria.fr/',NULL,NULL,'France',NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
-
-/*Forecasting Research Institute*/
-
-
+    ,('Forecasting Research Institute', NULL, NULL, 'forecastingresearch.org', 'https://forecastingresearch.org/team', NULL, 'United States', '2022-12-13', 'month', 'https://forum.effectivealtruism.org/posts/kEd5qWwg8pZjWAeFS/announcing-the-forecasting-research-institute-we-re-hirin', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)/*updated as of 2023-01-22*/
     ,('Forethought Foundation for Global Priorities Research',NULL,'Centre for Effective Altruism','https://www.forethought.org/','https://www.forethought.org/about-us', 'contact@forethought.org','United Kingdom','2018-12-04','month','https://forum.effectivealtruism.org/posts/vxwcxwiDKCnyHJhbz/announcing-the-new-forethought-foundation-for-global',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
-
-
-
-
     ,('Fund for Alignment Research', 'FAR', NULL, 'far.ai', 'https://far.ai/', 'hello@far.ai', 'United States', '2022-07-05', 'month', 'https://forum.effectivealtruism.org/posts/gNHjEmLeKM47FDdqM/introducing-the-fund-for-alignment-research-we-re-hiring-1', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)/*updated as of 2023-01-18*/
-
-
-
-
     ,('Future of Humanity Institute',NULL,NULL,'https://www.fhi.ox.ac.uk/',NULL,NULL,'United Kingdom','2005-01-01','year','http://www.oxfordmartin.ox.ac.uk/research/programmes/future-humanity/',NULL,NULL,'FHIOxford',NULL,NULL,NULL,NULL,NULL,'FHIOxford','https://en.wikipedia.org/wiki/Future_of_Humanity_Institute','user/FHIOxford')
     ,('Future of Life Institute',NULL,NULL,'https://futureoflife.org/',NULL,NULL,NULL,'2014-03-01','month','https://en.wikipedia.org/wiki/Future_of_Life_Institute',NULL,NULL,'futureoflifeinstitute',NULL,NULL,NULL,NULL,NULL,'FLIxrisk','https://en.wikipedia.org/wiki/Future_of_Life_Institute','channel/UC-rCCy3FQ-GItDimSR9lhzw')
     ,('General AI Challenge', NULL, 'GoodAI', 'general-ai-challenge.org', 'https://www.general-ai-challenge.org/team', 'discuss@general-ai-challenge.org', 'Czechia', '2017-02-01', 'month', 'https://www.facebook.com/AIchallenge/ https://www.goodai.com/general-ai-challenge/#:~:text=In%202017%20GoodAI%20launched%20the,in%20human%2Dlevel%20AI%20development.', NULL, NULL, 'AIchallenge', NULL, 'goodai-news', NULL, NULL, NULL, 'ai_challenge', NULL, 'GeneralAIChallenge')
-
     ,('Generation Pledge', NULL, NULL, 'generationpledge.org', 'https://www.generationpledge.org/team', NULL, 'United States', '2018-04-01', 'month', 'https://www.linkedin.com/in/marina-feffer-46682871/', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)/*updated as of 2023-01-20*/
-
-
     ,('GiveWell', 'The Clear Fund', NULL, 'https://www.givewell.org/', 'https://www.givewell.org/about/people', 'info@givewell.org', 'United States', '2006-08-01'/*Holden Karnofsky starting position at the org*/, 'month', 'https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people', NULL, 'Last major update was committed on May 20 2022, but some duplicates and inconsistencies remain', 'GiveWellCommunity', 'givewellorganization', NULL, NULL, 'https://timelines.issarice.com/wiki/Timeline_of_GiveWell', NULL, 'GiveWell', 'https://en.wikipedia.org/wiki/GiveWell', 'channel/UCWqBpgpVVrU7AE74PNVVGag')
-
-
     ,('Global Catastrophic Risk Institute', 'GCRI', NULL, 'gcrinstitute.org', 'https://gcrinstitute.org/people/', NULL, 'United States', '2011-1-01', 'year', 'https://gcrinstitute.org/about/#:~:text=GCRI%20was%20founded%20in%202011%20by%20Seth%20Baum%20and%20Tony%20Barrett.', NULL, NULL, 'gcrinstitute', NULL, NULL, NULL, NULL, NULL, '@GCRInstitute', NULL, NULL)/*updated as of 2023-01-18*/
-
-
     ,('GoodAI',NULL,NULL,'https://www.goodai.com',NULL,'info@goodai.com','Czech Republic','2014-01-01','month','https://archive.is/e1HBN',NULL,NULL,'GoodArtificialIntelligence',NULL,NULL,NULL,NULL,NULL,'GoodAIdev',NULL,'channel/UCdBhluje9KahmlnU6cibZfg')
     ,('Google DeepMind',NULL,NULL,'https://deepmind.com/',NULL,NULL,'United Kingdom',NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
     ,('Learning Intelligent Distribution Agent',NULL,'University of Memphis','http://ccrg.cs.memphis.edu/',NULL,NULL,'United States',NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
