@@ -73,11 +73,32 @@ insert into organizations(organization, other_names, hosting_organization, websi
     ,('General AI Challenge', NULL, 'GoodAI', 'general-ai-challenge.org', 'https://www.general-ai-challenge.org/team', 'discuss@general-ai-challenge.org', 'Czechia', '2017-02-01', 'month', 'https://www.facebook.com/AIchallenge/ https://www.goodai.com/general-ai-challenge/#:~:text=In%202017%20GoodAI%20launched%20the,in%20human%2Dlevel%20AI%20development.', NULL, NULL, 'AIchallenge', NULL, 'goodai-news', NULL, NULL, NULL, 'ai_challenge', NULL, 'GeneralAIChallenge')
     ,('Generation Pledge', NULL, NULL, 'generationpledge.org', 'https://www.generationpledge.org/team', NULL, 'United States', '2018-04-01', 'month', 'https://www.linkedin.com/in/marina-feffer-46682871/', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)/*updated as of 2023-01-20*/
     ,('GiveWell', 'The Clear Fund', NULL, 'https://www.givewell.org/', 'https://www.givewell.org/about/people', 'info@givewell.org', 'United States', '2006-08-01'/*Holden Karnofsky starting position at the org*/, 'month', 'https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people', NULL, 'Last major update was committed on May 20 2022, but some duplicates and inconsistencies remain', 'GiveWellCommunity', 'givewellorganization', NULL, NULL, 'https://timelines.issarice.com/wiki/Timeline_of_GiveWell', NULL, 'GiveWell', 'https://en.wikipedia.org/wiki/GiveWell', 'channel/UCWqBpgpVVrU7AE74PNVVGag')
+
+    ,('GiveDirectly', NULL, NULL, 'givedirectly.org', 'https://www.givedirectly.org/team/', 'info@givedirectly.org', 'United States', '2010-01-01', 'month', 'https://www.linkedin.com/in/paul-niehaus-99240a2/', NULL, NULL, 'givedirectly', 'givedirectly', 'givedirectly', NULL, 'https://timelines.issarice.com/wiki/Timeline_of_GiveDirectly', NULL, '@GiveDirectly', 'https://en.wikipedia.org/wiki/GiveDirectly', '@givedirectly1404')/*Upadted as of 2023-01-30*/
+
+
+/*(organization, other_names, hosting_organization, website, team_page, contact_email, country, launch_date, launch_date_precision, launch_date_url, urls, notes, facebook_username, instagram_username, medium_username, pinterest_username, timelines_wiki_page, tumblr_subdomain, twitter_username, wikipedia_page, youtube_username)*/
+ /*Giving What We Can*/
+
+
     ,('Global Catastrophic Risk Institute', 'GCRI', NULL, 'gcrinstitute.org', 'https://gcrinstitute.org/people/', NULL, 'United States', '2011-1-01', 'year', 'https://gcrinstitute.org/about/#:~:text=GCRI%20was%20founded%20in%202011%20by%20Seth%20Baum%20and%20Tony%20Barrett.', NULL, NULL, 'gcrinstitute', NULL, NULL, NULL, NULL, NULL, '@GCRInstitute', NULL, NULL)/*updated as of 2023-01-18*/
     ,('GoodAI',NULL,NULL,'https://www.goodai.com',NULL,'info@goodai.com','Czech Republic','2014-01-01','month','https://archive.is/e1HBN',NULL,NULL,'GoodArtificialIntelligence',NULL,NULL,NULL,NULL,NULL,'GoodAIdev',NULL,'channel/UCdBhluje9KahmlnU6cibZfg')
     ,('Good Forever', NULL, NULL, 'goodforever.org', 'https://www.goodforever.org/team', NULL, 'United States', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)/*updated as of 2023-01-22*/
     ,('Google DeepMind',NULL,NULL,'https://deepmind.com/',NULL,NULL,'United Kingdom',NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
+
+/*(organization, other_names, hosting_organization, website, team_page, contact_email, country, launch_date, launch_date_precision, launch_date_url, urls, notes, facebook_username, instagram_username, medium_username, pinterest_username, timelines_wiki_page, tumblr_subdomain, twitter_username, wikipedia_page, youtube_username)*/
+     /*Happier Lives Institute*/
+ /*High Impact Athletes*/
+/*Innovations for Poverty Action*/
+/*Johns Hopkins Center for Health Security*/
+
+
     ,('Learning Intelligent Distribution Agent',NULL,'University of Memphis','http://ccrg.cs.memphis.edu/',NULL,NULL,'United States',NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
+
+
+    /*LessWrong 2.0*/
+
+
     ,('Machine Intelligence Research Institute','MIRI|SIAI|Singularity Institute for Artificial Intelligence',NULL,'https://intelligence.org','https://intelligence.org/team/',NULL,'United States','2000-01-01','year','https://intelligence.org/transparency/',NULL,NULL,'MachineIntelligenceResearchInstitute',NULL,NULL,NULL,'https://timelines.issarice.com/wiki/Timeline_of_Machine_Intelligence_Research_Institute',NULL,'MIRI','https://en.wikipedia.org/wiki/Machine_Intelligence_Research_Institute','user/MIRIBerkeley')
     ,('Montreal Institute for Learning Algorithms',NULL,NULL,'https://mila.quebec/en/','https://mila.quebec/en/mila/team/','lisa@iro.umontreal.ca','Canada',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
     ,('NARS',NULL,'Temple University','https://sites.google.com/site/narswang/',NULL,NULL,'United States',NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
@@ -87,6 +108,11 @@ insert into organizations(organization, other_names, hosting_organization, websi
     ,('Real AI',NULL,NULL,'http://realai.org/',NULL,'info@realai.org','Hong Kong',NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
     ,('Susaro',NULL,NULL,'http://www.susaro.com/',NULL,'enquiries@susaro.com','United Kingdom',NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
     ,('Suvita', NULL, NULL, 'suvita.org', 'https://www.suvita.org/our-team', 'mailto:contact@suvita.org?subject=Hello!', 'United Kingdom', '2019-08-01', 'month', 'https://www.linkedin.com/in/varsha-venugopal/', NULL, NULL, 'Suvita-127996625498797', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)/*updated as of 2023-01-07*/
+
+    /*The Good Food Institute*/
+
+
+
     ,('Theiss Research',NULL,NULL,'http://www.theissresearch.org/','https://web.archive.org/web/20160610165130/http://www.theissresearch.org:80/scientists',NULL,'United States','2006-01-01','month','https://web.archive.org/web/20160601043516/http://www.theissresearch.org:80/organization/',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
     ,('Whole Brain Architecture Initiative',NULL,NULL,'https://wba-initiative.org/en/',NULL,NULL,'Japan',NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
 
