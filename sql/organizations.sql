@@ -77,8 +77,8 @@ insert into organizations(organization, other_names, hosting_organization, websi
     ,('GiveDirectly', NULL, NULL, 'givedirectly.org', 'https://www.givedirectly.org/team/', 'info@givedirectly.org', 'United States', '2010-01-01', 'month', 'https://www.linkedin.com/in/paul-niehaus-99240a2/', NULL, NULL, 'givedirectly', 'givedirectly', 'givedirectly', NULL, 'https://timelines.issarice.com/wiki/Timeline_of_GiveDirectly', NULL, '@GiveDirectly', 'https://en.wikipedia.org/wiki/GiveDirectly', '@givedirectly1404')/*Upadted as of 2023-01-30*/
 
 
-/*(organization, other_names, hosting_organization, website, team_page, contact_email, country, launch_date, launch_date_precision, launch_date_url, urls, notes, facebook_username, instagram_username, medium_username, pinterest_username, timelines_wiki_page, tumblr_subdomain, twitter_username, wikipedia_page, youtube_username)*/
- /*Giving What We Can*/
+    ,('Giving What We Can', 'GWWC', NULL, 'givingwhatwecan.org', 'https://www.givingwhatwecan.org/about-us/team', 'community@givingwhatwecan.org', 'United Kingdom', '2016-04-01', 'month', 'https://www.linkedin.com/in/kowrygo/', NULL, NULL, 'givingwhatwecan', 'giving_what_we_can', NULL, NULL, NULL, NULL, '@givingwhatwecan', 'https://en.wikipedia.org/wiki/Giving_What_We_Can', '@GivingWhatWeCanCommunity')/*Upadted as of 2023-01-30*/
+ 
 
 
     ,('Global Catastrophic Risk Institute', 'GCRI', NULL, 'gcrinstitute.org', 'https://gcrinstitute.org/people/', NULL, 'United States', '2011-1-01', 'year', 'https://gcrinstitute.org/about/#:~:text=GCRI%20was%20founded%20in%202011%20by%20Seth%20Baum%20and%20Tony%20Barrett.', NULL, NULL, 'gcrinstitute', NULL, NULL, NULL, NULL, NULL, '@GCRInstitute', NULL, NULL)/*updated as of 2023-01-18*/
