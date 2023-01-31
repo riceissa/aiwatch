@@ -85,9 +85,9 @@ insert into organizations(organization, other_names, hosting_organization, websi
     ,('GoodAI',NULL,NULL,'https://www.goodai.com',NULL,'info@goodai.com','Czech Republic','2014-01-01','month','https://archive.is/e1HBN',NULL,NULL,'GoodArtificialIntelligence',NULL,NULL,NULL,NULL,NULL,'GoodAIdev',NULL,'channel/UCdBhluje9KahmlnU6cibZfg')
     ,('Good Forever', NULL, NULL, 'goodforever.org', 'https://www.goodforever.org/team', NULL, 'United States', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)/*updated as of 2023-01-22*/
     ,('Google DeepMind',NULL,NULL,'https://deepmind.com/',NULL,NULL,'United Kingdom',NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
-    ,('Happier Lives Institute', NULL, 'Player Philanthropy Fund', 'happierlivesinstitute.org', 'https://www.happierlivesinstitute.org/about/meet-the-team/', 'hello@happierlivesinstitute.org', 'United Kingdom', '2019-06-01', 'month', 'https://www.linkedin.com/in/michael-plant-8445116a/?originalSubdomain=uk', NULL, NULL, 'happierlivesinstitute', instagram_username, medium_username, pinterest_username, NULL, NULL, '@HappierLivesIns', NULL, '@happierlivesinstitute')/*Upadted as of 2023-01-30*/
+    ,('Happier Lives Institute', NULL, 'Player Philanthropy Fund', 'happierlivesinstitute.org', 'https://www.happierlivesinstitute.org/about/meet-the-team/', 'hello@happierlivesinstitute.org', 'United Kingdom', '2019-06-01', 'month', 'https://www.linkedin.com/in/michael-plant-8445116a/?originalSubdomain=uk', NULL, NULL, 'happierlivesinstitute', NULL, NULL, NULL, NULL, NULL, '@HappierLivesIns', NULL, '@happierlivesinstitute')/*Upadted as of 2023-01-30*/
+    ,('High Impact Athletes', 'HIA', NULL, 'highimpactathletes.org', 'https://highimpactathletes.org/team', 'marcus@highimpactathletes.org', 'United States', '2020-06-01', 'month', 'https://www.linkedin.com/in/marcus-daniell-313b6893/', NULL, NULL, 'HIAorg', 'high.impact.athletes', NULL, NULL, NULL, NULL, '@HIAorg', NULL, '@highimpactathletes2907')/*Upadted as of 2023-01-30*/
 
- /*High Impact Athletes*/
 /*Innovations for Poverty Action*/
 /*Johns Hopkins Center for Health Security*/
 
