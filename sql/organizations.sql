@@ -73,28 +73,19 @@ insert into organizations(organization, other_names, hosting_organization, websi
     ,('General AI Challenge', NULL, 'GoodAI', 'general-ai-challenge.org', 'https://www.general-ai-challenge.org/team', 'discuss@general-ai-challenge.org', 'Czechia', '2017-02-01', 'month', 'https://www.facebook.com/AIchallenge/ https://www.goodai.com/general-ai-challenge/#:~:text=In%202017%20GoodAI%20launched%20the,in%20human%2Dlevel%20AI%20development.', NULL, NULL, 'AIchallenge', NULL, 'goodai-news', NULL, NULL, NULL, 'ai_challenge', NULL, 'GeneralAIChallenge')
     ,('Generation Pledge', NULL, NULL, 'generationpledge.org', 'https://www.generationpledge.org/team', NULL, 'United States', '2018-04-01', 'month', 'https://www.linkedin.com/in/marina-feffer-46682871/', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)/*updated as of 2023-01-20*/
     ,('GiveWell', 'The Clear Fund', NULL, 'https://www.givewell.org/', 'https://www.givewell.org/about/people', 'info@givewell.org', 'United States', '2006-08-01'/*Holden Karnofsky starting position at the org*/, 'month', 'https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people', NULL, 'Last major update was committed on May 20 2022, but some duplicates and inconsistencies remain', 'GiveWellCommunity', 'givewellorganization', NULL, NULL, 'https://timelines.issarice.com/wiki/Timeline_of_GiveWell', NULL, 'GiveWell', 'https://en.wikipedia.org/wiki/GiveWell', 'channel/UCWqBpgpVVrU7AE74PNVVGag')
-
     ,('GiveDirectly', NULL, NULL, 'givedirectly.org', 'https://www.givedirectly.org/team/', 'info@givedirectly.org', 'United States', '2010-01-01', 'month', 'https://www.linkedin.com/in/paul-niehaus-99240a2/', NULL, NULL, 'givedirectly', 'givedirectly', 'givedirectly', NULL, 'https://timelines.issarice.com/wiki/Timeline_of_GiveDirectly', NULL, '@GiveDirectly', 'https://en.wikipedia.org/wiki/GiveDirectly', '@givedirectly1404')/*Upadted as of 2023-01-30*/
-
-
     ,('Giving What We Can', 'GWWC', NULL, 'givingwhatwecan.org', 'https://www.givingwhatwecan.org/about-us/team', 'community@givingwhatwecan.org', 'United Kingdom', '2016-04-01', 'month', 'https://www.linkedin.com/in/kowrygo/', NULL, NULL, 'givingwhatwecan', 'giving_what_we_can', NULL, NULL, NULL, NULL, '@givingwhatwecan', 'https://en.wikipedia.org/wiki/Giving_What_We_Can', '@GivingWhatWeCanCommunity')/*Upadted as of 2023-01-30*/
- 
-
-
     ,('Global Catastrophic Risk Institute', 'GCRI', NULL, 'gcrinstitute.org', 'https://gcrinstitute.org/people/', NULL, 'United States', '2011-1-01', 'year', 'https://gcrinstitute.org/about/#:~:text=GCRI%20was%20founded%20in%202011%20by%20Seth%20Baum%20and%20Tony%20Barrett.', NULL, NULL, 'gcrinstitute', NULL, NULL, NULL, NULL, NULL, '@GCRInstitute', NULL, NULL)/*updated as of 2023-01-18*/
     ,('GoodAI',NULL,NULL,'https://www.goodai.com',NULL,'info@goodai.com','Czech Republic','2014-01-01','month','https://archive.is/e1HBN',NULL,NULL,'GoodArtificialIntelligence',NULL,NULL,NULL,NULL,NULL,'GoodAIdev',NULL,'channel/UCdBhluje9KahmlnU6cibZfg')
     ,('Good Forever', NULL, NULL, 'goodforever.org', 'https://www.goodforever.org/team', NULL, 'United States', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)/*updated as of 2023-01-22*/
     ,('Google DeepMind',NULL,NULL,'https://deepmind.com/',NULL,NULL,'United Kingdom',NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
     ,('Happier Lives Institute', NULL, 'Player Philanthropy Fund', 'happierlivesinstitute.org', 'https://www.happierlivesinstitute.org/about/meet-the-team/', 'hello@happierlivesinstitute.org', 'United Kingdom', '2019-06-01', 'month', 'https://www.linkedin.com/in/michael-plant-8445116a/?originalSubdomain=uk', NULL, NULL, 'happierlivesinstitute', NULL, NULL, NULL, NULL, NULL, '@HappierLivesIns', NULL, '@happierlivesinstitute')/*Upadted as of 2023-01-30*/
     ,('High Impact Athletes', 'HIA', NULL, 'highimpactathletes.org', 'https://highimpactathletes.org/team', 'marcus@highimpactathletes.org', 'United States', '2020-06-01', 'month', 'https://www.linkedin.com/in/marcus-daniell-313b6893/', NULL, NULL, 'HIAorg', 'high.impact.athletes', NULL, NULL, NULL, NULL, '@HIAorg', NULL, '@highimpactathletes2907')/*Upadted as of 2023-01-30*/
-
-
-    ,('Innovations for Poverty Action', 'IPA', NULL, 'poverty-action.org', 'https://poverty-action.org/about/leadership', 'pd@poverty-action.org', 'United States', '2002-0-01', 'year', 'https://www.linkedin.com/company/innovationsforpovertyaction/about/', NULL, NULL, 'InnovationsforPovertyAction', 'poverty_action', NULL, '351984527108648889', NULL, NULL, 'poverty_action', 'https://en.wikipedia.org/wiki/Innovations_for_Poverty_Action', '@poverty_action')/*Upadted as of 2023-01-31*/
+    ,('Innovations for Poverty Action', 'IPA', NULL, 'poverty-action.org', 'https://poverty-action.org/about/leadership', 'pd@poverty-action.org', 'United States', '2002-0-01', 'year', 'https://www.linkedin.com/company/innovationsforpovertyaction/about/', NULL, NULL, 'InnovationsforPovertyAction', 'poverty_action', NULL, '351984527108648889', NULL, NULL, 'poverty_action', 'https://en.wikipedia.org/wiki/Innovations_for_Poverty_Action', '@poverty_action')/*Upadted as of 2023-01-30*/
  
 
-
-/*Johns Hopkins Center for Health Security*/
-
+    ,('Johns Hopkins Center for Health Security', 'CHS, Johns Hopkins Center for Civilian Biodefense Strategies (1998–2003), Center for Biosecurity of UPMC (2003–2013), UPMC Center for Health Security (2013–2017)', 'Johns Hopkins Bloomberg School of Public Health', 'centerforhealthsecurity.org', 'https://www.centerforhealthsecurity.org/our-people/', 'centerhealthsecurity@jhu.edu', 'United States', '1998-01-01', 'year', 'https://www.openphilanthropy.org/grants/johns-hopkins-center-for-health-security-biosecurity-global-health-security-and-global-catastrophic-risks-2017/', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'https://en.wikipedia.org/wiki/Johns_Hopkins_Center_for_Health_Security', '@biosecuritycntr')/*Upadted as of 2023-01-30*/
+ 
 
     ,('Learning Intelligent Distribution Agent',NULL,'University of Memphis','http://ccrg.cs.memphis.edu/',NULL,NULL,'United States',NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
 
