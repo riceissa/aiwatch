@@ -94,11 +94,7 @@ insert into organizations(organization, other_names, hosting_organization, websi
     ,('Real AI',NULL,NULL,'http://realai.org/',NULL,'info@realai.org','Hong Kong',NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
     ,('Susaro',NULL,NULL,'http://www.susaro.com/',NULL,'enquiries@susaro.com','United Kingdom',NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
     ,('Suvita', NULL, NULL, 'suvita.org', 'https://www.suvita.org/our-team', 'mailto:contact@suvita.org?subject=Hello!', 'United Kingdom', '2019-08-01', 'month', 'https://www.linkedin.com/in/varsha-venugopal/', NULL, NULL, 'Suvita-127996625498797', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)/*updated as of 2023-01-07*/
-
-    /*The Good Food Institute*/
-
-
-
+    ,('The Good Food Institute', 'GFI', NULL, 'gfi.org', 'https://gfi.org/our-team/', 'media@gfi.org', 'United States', '2015-09-29','month', 'https://www.linkedin.com/in/brucegfriedrich/', NULL, NULL, 'thegoodfoodinstitute', 'thegoodfoodinstitute', NULL, NULL, NULL, NULL, '@GoodFoodInst', NULL, '@thegoodfoodinstitute3482')/*Upadted as of 2023-01-30*/
     ,('Theiss Research',NULL,NULL,'http://www.theissresearch.org/','https://web.archive.org/web/20160610165130/http://www.theissresearch.org:80/scientists',NULL,'United States','2006-01-01','month','https://web.archive.org/web/20160601043516/http://www.theissresearch.org:80/organization/',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
     ,('Whole Brain Architecture Initiative',NULL,NULL,'https://wba-initiative.org/en/',NULL,NULL,'Japan',NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
 
