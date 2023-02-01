@@ -104,7 +104,7 @@ insert into organizations(organization, other_names, hosting_organization, websi
     ,('Theiss Research',NULL,NULL,'http://www.theissresearch.org/','https://web.archive.org/web/20160610165130/http://www.theissresearch.org:80/scientists',NULL,'United States','2006-01-01','month','https://web.archive.org/web/20160601043516/http://www.theissresearch.org:80/organization/',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
     ,('Whole Brain Architecture Initiative',NULL,NULL,'https://wba-initiative.org/en/',NULL,NULL,'Japan',NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
     ,('Training for Good', NULL, NULL, 'trainingforgood.com', 'https://www.trainingforgood.com/team', NULL, 'United Kingdom', '2021-08-01', 'month', 'https://www.linkedin.com/in/jan-willemvanputten/', NULL, NULL, 'trainingforgood', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)/*Updated as of 2023-01-31*/
-    
+    ,('Wild Animal Initiative', NULL, NULL, 'wildanimalinitiative.org', 'https://www.wildanimalinitiative.org/team', 'info@wildanimalinitiative.org', 'United States', '2019-01-01', 'year', 'https://animalcharityevaluators.org/charity-review/wild-animal-initiative/#:~:text=Wild%20Animal%20Initiative%20(WAI)%20was,dedicated%20to%20wild%20animal%20welfare.', NULL, NULL, 'wildanimalinitiative', NULL, NULL, NULL, NULL, NULL, '@forwildanimals', 'https://en.wikipedia.org/wiki/Wild_Animal_Initiative', NULL)/*Updated as of 2023-01-31*/
 
 ;
 
