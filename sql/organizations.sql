@@ -103,6 +103,8 @@ insert into organizations(organization, other_names, hosting_organization, websi
     ,('The Humane League', NULL, NULL, 'thehumaneleague.org', 'https://thehumaneleague.org/our-leadership', 'info@thehumaneleague.org', 'United States', '2005-01-01', 'year', 'https://sentientmedia.org/the-humane-league-interview-with-president-david-coman-hidy/', NULL, NULL, 'thehumaneleague', 'thehumaneleague', NULL, 'thehumaneleague', 'https://timelines.issarice.com/wiki/Timeline_of_The_Humane_League', NULL, '@TheHumaneLeague', 'https://en.wikipedia.org/wiki/The_Humane_League', '@TheHumaneLeague')/*Updated as of 2023-01-31*/
     ,('Theiss Research',NULL,NULL,'http://www.theissresearch.org/','https://web.archive.org/web/20160610165130/http://www.theissresearch.org:80/scientists',NULL,'United States','2006-01-01','month','https://web.archive.org/web/20160601043516/http://www.theissresearch.org:80/organization/',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
     ,('Whole Brain Architecture Initiative',NULL,NULL,'https://wba-initiative.org/en/',NULL,NULL,'Japan',NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
+    ,('Training for Good', NULL, NULL, 'trainingforgood.com', 'https://www.trainingforgood.com/team', NULL, 'United Kingdom', '2021-08-01', 'month', 'https://www.linkedin.com/in/jan-willemvanputten/', NULL, NULL, 'trainingforgood', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)/*Updated as of 2023-01-31*/
+    
 
 ;
 
