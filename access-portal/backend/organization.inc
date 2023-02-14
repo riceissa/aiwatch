@@ -166,14 +166,17 @@ while ($row = $result->fetch_assoc()) { ?>
   </tbody>
 </table>
 
-<h2>Staff count by year</h2>
+<h2>Positions count by year</h2>
 
 <p>Hover over a name to see the position and date range. This table only
 includes positions where at least the start date is known. The positions count
-can count the same person multiple times if they held different positions.
+can count the same person multiple times if they held different positions;
+similarly, the list of staff may include the same person multiple times if
+they held more than one position during a single year.
 For each year, a person is included if they were at the organization for any
 part of the year; this means the actual staff count at any point during
-the year can be lower.</p>
+the year can be lower (or higher, if some staff held multiple positions in a
+single year).</p>
 
 <table>
   <thead>
