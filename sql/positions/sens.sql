@@ -1,12 +1,10 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
 
- 
-
      ('Alexandra Stolzing', 'SENS Research Foundation', 'Research Advisory Board', '2012-01-01', NULL, '2016-03-03', NULL, 'https://web.archive.org/web/20121127053747/http://www.sens.org/sens-research/advisory-board https://web.archive.org/web/20160303235922/http://www.sens.org/about/leadership/research-advisory-board', NULL, NULL, 'Longevity')/*updated as of 2023-02-24*/
     ,('Alexandra Stolzing', 'SENS Research Foundation', 'Vice President of Research', '2019-10-01', 'month', '2022-05-01', 'month', 'https://web.archive.org/web/20200103152631/https://www.sens.org/about-us/staff/ https://www.linkedin.com/in/alexandra-stolzing-799aa212/', NULL, NULL, 'Longevity')/*updated as of 2023-02-24*/
     ,('Amelia Anderson', 'SENS Research Foundation', 'Research Assistant', '2017-06-01', 'month', '2017-09-01', 'month', 'https://www.linkedin.com/in/amelia-anderson-870347130/?trk=pub-pbmap', NULL, 'intern', 'Longevity')/*Updated as of 2023-02-25*/
     ,('Amelia Anderson', 'SENS Research Foundation', 'Research Assistant', '2017-09-01', 'month', '2020-01-01', 'month', 'https://www.linkedin.com/in/amelia-anderson-870347130/?trk=pub-pbmap', NULL, NULL, 'Longevity')/*Updated as of 2023-02-25*/
-    ,('Amit Sharma', 'SENS Research Foundation', 'Group Lead, Senescence Immunology Research', '2019-08-01'/*LindekIn date*/, 'month', NULL, NULL, 'https://www.linkedin.com/in/amit-sharma-1613b189/ https://web.archive.org/web/20200103152631/https://www.sens.org/about-us/staff/', NULL, 'full time', 'Longevity')/*Updated as of 2023-02-25*/
+    ,('Amit Sharma', 'SENS Research Foundation', 'Group Lead, Senescence Immunology Research', '2019-08-01'/*LindekIn date*/, 'month', NULL, NULL, 'https://www.linkedin.com/in/amit-sharma-1613b189/ https://web.archive.org/web/20200103152631/https://www.sens.org/about-us/staff/', NULL, 'full-time', 'Longevity')/*Updated as of 2023-02-25*/
     ,('Amutha Boominathan', 'SENS Research Foundation', 'Senior Research Scientist'/*Taken from LinkedIn*/, '2013-01-01', 'month', '2016-01-01', 'month', 'https://www.linkedin.com/in/amutha-boominathan-7aa478213/ https://web.archive.org/web/20140103042300/http://sens.org/about/staff', NULL, NULL, 'Longevity')/*Updated as of 2023-02-25*/
     ,('Amutha Boominathan', 'SENS Research Foundation', 'Group Lead', '2016-01-01'/*Taken from LinkedIn*/, 'month', NULL, NULL, 'https://www.linkedin.com/in/amutha-boominathan-7aa478213/ https://web.archive.org/web/20200103152631/https://www.sens.org/about-us/staff/', NULL, NULL, 'Longevity')/*Updated as of 2023-02-25*/
     ,('Anne Corwin', 'SENS Research Foundation', 'Hardware Engineer, Content Editor', '2011-10-01', 'month', NULL, NULL, 'https://web.archive.org/web/20121014055252/http://sens.org/sens-foundation/people-search https://www.linkedin.com/in/annecorwin/', NULL, NULL, 'Longevity')/*Updated as of 2023-02-25*/
@@ -35,12 +33,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Ehud Goldin', 'SENS Research Foundation', 'Research Scientist, LysoSENS Lead', '2013-01-01', 'month', '2015-01-01', 'month', 'https://www.linkedin.com/in/medresearchexpert/ https://web.archive.org/web/20140103042300/http://sens.org/about/staff', NULL, NULL, 'Longevity')/*Updated as of 2023-02-25*/
     ,('Elena Magay', 'SENS Research Foundation', 'Lab Manager', '2021-09-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210910231529/https://www.sens.org/about-us/team/', NULL, NULL, 'Longevity')
     ,('Evan Snyder', 'SENS Research Foundation', 'Director', '2019-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190120072403/http://www.sens.org/about/leadership/research-advisory-board', NULL, NULL, 'Longevity')
-
-
     ,('Frank Schüler', 'SENS Research Foundation', 'Board of Director', '2016-11-01', 'month', '2022-03-01', 'month', 'https://web.archive.org/web/20161228082813/http://www.sens.org/about/leadership/board-of-directors https://www.linkedin.com/in/frankschueler/', NULL, 'Board member', 'Longevity')/*Updated as of 2023-02-25*/
-
-
-
     ,('Fyodor Urnov', 'SENS Research Foundation', 'Research Advisory Board', '2011-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111231061457/http://sens.org/sens-research/advisory-board', NULL, NULL, 'Longevity')
     ,('Gabor Forgacs', 'SENS Research Foundation', 'Research Advisory Board', '2014-12-01', NULL, NULL, NULL, 'https://web.archive.org/web/20141230164516/http://sens.org/about/leadership/research-advisory-board', NULL, NULL, 'Longevity')
     ,('Gayathri Swaminathan', 'SENS Research Foundation', 'Researcher', '2012-10-01', NULL, '2013-01-16', NULL, 'https://web.archive.org/web/20121014055252/http://sens.org/sens-foundation/people-search https://web.archive.org/web/20130116030146/http://sens.org/sens-foundation/people-search', NULL, NULL, 'Longevity')/*Updated as of 2023-02-25*/
@@ -55,12 +48,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Iain Inkster', 'SENS Research Foundation', 'Social Media', '2012-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20121014055252/http://sens.org/sens-foundation/people-search', NULL, NULL, 'Longevity')
     ,('Irina Conboy', 'SENS Research Foundation', 'Research Advisory Board', '2011-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111231061457/http://sens.org/sens-research/advisory-board', NULL, NULL, 'Longevity')
     ,('Jacques Mathieu', 'SENS Research Foundation', NULL, '2012-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20121014055252/http://sens.org/sens-foundation/people-search', NULL, NULL, 'Longevity')
-
-
     ,('James O"Neill', 'SENS Research Foundation', 'Board Member', '2010-04-01', 'month', '2021-11-01', 'month', 'https://web.archive.org/web/20120106092051/http://sens.org/sens-foundation/board https://www.linkedin.com/in/jim-o-neill-5703138/', NULL, 'Board Member', 'Longevity')/*Updated as of 2023-02-25*/
     ,('James O"Neill', 'SENS Research Foundation', 'CEO', '2019-10-01', 'month', '2021-07-01', 'month', 'https://www.linkedin.com/in/jim-o-neill-5703138/', ' responsible for managing a team of scientists who investigate, develop, and promote comprehensive regenerative medicine solutions for age-related illnesses. Their objective is to cure diseases associated with aging, such as cancer, Alzheimer''s disease, and heart disease, by supporting research that centers on a damage repair paradigm in labs located across America and Europe. In addition, they offer an education program that trains young scientists and provides an online high school biology curriculum for teachers.', NULL, 'Longevity')/*Updated as of 2023-02-25*/
-
-
     ,('Jan Vijg', 'SENS Research Foundation', 'Research Advisory Board', '2011-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111231061457/http://sens.org/sens-research/advisory-board', NULL, NULL, 'Longevity')
     ,('Janko Nikolich-Zugich', 'SENS Research Foundation', 'Research Advisory Board', '2011-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111231061457/http://sens.org/sens-research/advisory-board', NULL, NULL, 'Longevity')
     ,('Jay Jerome', 'SENS Research Foundation', 'Director', '2016-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20160114011823/http://sens.org/about/leadership/research-advisory-board', NULL, NULL, 'Longevity')
@@ -124,3 +113,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Vladimir Skulachev', 'SENS Research Foundation', 'Research Advisory Board', '2011-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111231061457/http://sens.org/sens-research/advisory-board', NULL, NULL, 'Longevity')
     ,('Walter Harvey Crompton', 'SENS Research Foundation', 'Volunteer', '2010-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/walter-harvey-crompton-a1b9959/', NULL, NULL, 'Longevity')  
     ,('William Haseltine', 'SENS Research Foundation', 'Research Advisory Board', '2011-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111231061457/http://sens.org/sens-research/advisory-board', NULL, NULL, 'Longevity')
+    ;
