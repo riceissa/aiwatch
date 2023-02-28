@@ -35,29 +35,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('David Halvorsen', 'SENS Research Foundation', 'Researcher; AI Mentor', '2012-10-01', NULL, '2013-01-16', NULL, 'https://web.archive.org/web/20130116030146/http://sens.org/sens-foundation/people-search https://web.archive.org/web/20121014055252/http://sens.org/sens-foundation/people-search', NULL, NULL, 'Longevity')/*Updated as of 2023-02-25*/
     ,('David Spiegel', 'SENS Research Foundation', 'Research Advisory Board', '2011-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111231061457/http://sens.org/sens-research/advisory-board', NULL, NULL, 'Longevity')
     ,('Ehud Goldin', 'SENS Research Foundation', 'Research Scientist, LysoSENS Lead', '2013-01-01', 'month', '2015-01-01', 'month', 'https://www.linkedin.com/in/medresearchexpert/ https://web.archive.org/web/20140103042300/http://sens.org/about/staff', NULL, NULL, 'Longevity')/*Updated as of 2023-02-25*/
-
-
-
     ,('Elena Magay', 'SENS Research Foundation', 'Lab Manager', '2021-09-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210910231529/https://www.sens.org/about-us/team/ https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/', NULL, NULL, 'Longevity')/*Updated as of 2023-02-27*/
-
-
     ,('Elizabeth Gilmour', 'SENS Research Foundation', 'Marketing and Communications Manager', '2022-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/ https://www.linkedin.com/in/elizabethgilmour/', NULL, NULL, 'Longevity')/*Updated as of 2023-02-27*/
- 
-
-/*
-    Emily Lillian Fishman
-Director of Academic Affairs
-https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/
-
-
-
-
-Esmeralda Jimenez
-Animal Lab Technician
-https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/
-
-*/
-
+    ,('Emily Lillian Fishman', 'SENS Research Foundation', 'Director of Academic Affairs', '2022-02-01', 'month', NULL, NULL, 'https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/ https://www.linkedin.com/in/emily-lilli-fishman-ph-d-0a4b1343/', NULL, 'full-time', 'Longevity') /*Updated as of 2023-02-27*/
+    ,('Esmeralda Jimenez', 'SENS Research Foundation', 'Animal Lab Technician', '2022-09-29', 'month', NULL, NULL, 'https://web.archive.org/web/20220929212913/https://www.sens.org/about-us/team/ https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/', NULL, NULL, 'Longevity') /*Updated as of 2023-02-27*/
     ,('Evan Snyder', 'SENS Research Foundation', 'Director', '2019-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190120072403/http://www.sens.org/about/leadership/research-advisory-board', NULL, NULL, 'Longevity')
     ,('Frank Schüler', 'SENS Research Foundation', 'Board of Director', '2016-11-01', 'month', '2022-03-01', 'month', 'https://web.archive.org/web/20161228082813/http://www.sens.org/about/leadership/board-of-directors https://www.linkedin.com/in/frankschueler/', NULL, 'Board member', 'Longevity')/*Updated as of 2023-02-25*/
     ,('Fyodor Urnov', 'SENS Research Foundation', 'Research Advisory Board', '2011-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111231061457/http://sens.org/sens-research/advisory-board', NULL, NULL, 'Longevity')
@@ -67,12 +48,8 @@ https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/
     ,('Ghezal Beliakoff', 'SENS Research Foundation', 'Research Scientist', '2014-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20140103042300/http://sens.org/about/staff', NULL, NULL, 'Longevity')
     ,('Gouri Yogalingam', 'SENS Research Foundation', 'LysoSENS Team Lead', '2012-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20121014055252/http://sens.org/sens-foundation/people-search', NULL, NULL, 'Longevity')
     ,('Graham Pawelec', 'SENS Research Foundation', 'Research Advisory Board', '2011-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111231061457/http://sens.org/sens-research/advisory-board', NULL, NULL, 'Longevity')
-
-/*
-https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/
-Greg Courson
-Human Resources Manager
-*/
+    ,('Greg Courson', 'SENS Research Foundation', 'Human Resources Manager', '2022-09-12', 'month', NULL, NULL, 'https://web.archive.org/web/20220912054748/https://www.sens.org/about-us/team/ https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/
+', NULL, NULL, 'Longevity')/*Updated as of 2023-02-28*/
     ,('Gregory Chin', 'SENS Research Foundation', 'Director, SRF Education', '2013-03-01', 'month', NULL, NULL, 'https://web.archive.org/web/20140103042300/http://sens.org/about/staff https://www.linkedin.com/in/greg-chin-a836542/', NULL, NULL, 'Longevity')
     ,('Haroldo Silva', 'SENS Research Foundation', 'Research Scientist, OncoSENS Lead', '2014-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20140103042300/http://sens.org/about/staff', NULL, NULL, 'Longevity')
     ,('Heidi Ward', 'SENS Research Foundation', 'Administrative Assistant', '2012-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20140103042300/http://sens.org/about/staff', NULL, NULL, 'Longevity')
@@ -90,36 +67,15 @@ Human Resources Manager
     ,('Jeff Hall', 'SENS Research Foundation', 'Co-Founder', '2009-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20091215032559/http://www.sens.org/index.php?pagename=mj_about_who_founders', NULL, NULL, 'Longevity')
     ,('Jerri Barrett', 'SENS Research Foundation', 'Vice President of Outreach', '2014-12-01', NULL, NULL, NULL, 'https://web.archive.org/web/20141231053200/http://www.sens.org/about/leadership/executive-team', NULL, NULL, 'Longevity')
     ,('Jerry Shay', 'SENS Research Foundation', 'Research Advisory Board', '2011-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111231061457/http://sens.org/sens-research/advisory-board', NULL, NULL, 'Longevity')
-
-/*
-Jessica Blair
-Outreach Coordinator
-https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/
-*/
-
+    ,('Jessica Blair', 'SENS Research Foundation', 'Outreach Coordinator', '2021-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jessica-blair-51058110/ https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/', NULL, 'full-time', 'Longevity') /*Updated as of 2023-02-27*/
     ,('Jessica Lubke', 'SENS Research Foundation', 'Administrative Assistant', '2019-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190120070604/http://www.sens.org/about/staff https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/', NULL, NULL, 'Longevity')/*Updated as of 2023-02-27*/
     ,('Jonathan Cain', 'SENS Research Foundation', 'Board Member', '2010-01-01', 'year', '2022-03-01', 'month', 'https://web.archive.org/web/20120106092051/http://sens.org/sens-foundation/board https://www.linkedin.com/in/jonathan-cain-1674b91/', NULL, 'Board Member', 'Longevity')/*Updated as of 2023-02-25*/
     ,('Judith Campisi', 'SENS Research Foundation', 'Research Advisory Board', '2011-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111231061457/http://sens.org/sens-research/advisory-board', NULL, NULL, 'Longevity')
     ,('Julie K. Andersen', 'SENS Research Foundation', 'Research Advisory Board', '2018-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20180125234421/http://www.sens.org/about/leadership/research-advisory-board', NULL, NULL, 'Longevity')
     ,('Jyothi Devakumar', 'SENS Research Foundation', 'Principal Consultant', '2019-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190120072403/http://www.sens.org/about/leadership/research-advisory-board', NULL, NULL, 'Longevity')
-
-/*
-    https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/
-Dr. Kathlene Joyce
-Staff Scientist I
-
-
     ,('Kathleen Powers', 'SENS Research Foundation', 'Research Scientist', '2014-12-01', NULL, NULL, NULL, 'https://web.archive.org/web/20141231183500/http://sens.org/about/staff', NULL, NULL, 'Longevity')
-
-
-
-/*
-https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/
-Katrina Anderson
-Accounts Payable Clerk
-/*Updated as of 2023-02-27*/
-*/
-
+    ,('Kathlene Joyce', 'SENS Research Foundation', 'Staff Scientist I', '2023-02-27', 'month', NULL, NULL, 'https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/', NULL, NULL, 'Longevity')/*Updated as of 2023-02-28*/
+    ,('Katrina Anderson', 'SENS Research Foundation', 'Accounts Payable Clerk', '2022-09-29', 'month', NULL, NULL, 'https://web.archive.org/web/20220929212913/https://www.sens.org/about-us/team/ https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/', NULL, NULL, 'Longevity')/*Updated as of 2023-02-28*/
     ,('Kelly Boemmel', 'SENS Research Foundation', 'Administrative Assistant', '2018-03-01', 'month', '2018-08-01', 'month', 'https://web.archive.org/web/20190120070604/http://www.sens.org/about/staff https://www.linkedin.com/in/kelly-boemmel-927a34157/', NULL, NULL, 'Longevity')/*Updated as of 2023-02-25*/
     ,('Kelly Boemmel', 'SENS Research Foundation', 'Executive Assistant', '2018-08-01', 'month', '2021-08-01', 'month', 'https://web.archive.org/web/20190120070604/http://www.sens.org/about/staff https://www.linkedin.com/in/kelly-boemmel-927a34157/', NULL, NULL, 'Longevity')/*Updated as of 2023-02-25*/
     ,('Kelly Boemmel', 'SENS Research Foundation', 'Chief Of Staff', '2021-08-01', 'month', '2022-04-01'/*As of 2023-2-27 she still appears on the team page*/, 'month', 'https://www.linkedin.com/in/kelly-boemmel-927a34157/ https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/', NULL, NULL, 'Longevity')/*Updated as of 2023-02-27*/
@@ -135,31 +91,9 @@ Accounts Payable Clerk
     ,('Lisa Fabiny Kiser', 'SENS Research Foundation', 'Director of Operations', '2014-12-01', 'month', '2018-06-01', 'month', 'https://www.linkedin.com/in/lisa-fabiny-kiser-11793633/', NULL, NULL, 'Longevity')/*Updated as of 2023-02-25*/
     ,('Lisa Fabiny Kiser', 'SENS Research Foundation', 'Vice President of Operations', '2018-06-01', 'month', '2022-05-01', 'month', 'https://web.archive.org/web/20200103152631/https://www.sens.org/about-us/staff/ https://www.linkedin.com/in/lisa-fabiny-kiser-11793633/ https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/', NULL, NULL, 'Longevity')/*Updated as of 2023-02-27*/
     ,('Lisa Fabiny Kiser', 'SENS Research Foundation', 'Chief Executive Officer', '2022-05-01', 'month', NULL,NULL, 'https://web.archive.org/web/20200103152631/https://www.sens.org/about-us/staff/ https://www.linkedin.com/in/lisa-fabiny-kiser-11793633/', NULL, 'full-time', 'Longevity')/*Updated as of 2023-02-25*/
-
-
-/*
-https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/
-Dr. Manikandan Samidurai
-Staff Scientist I
-
-
-
-
-
-https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/
-Dr. Marcela Atzori
-Staff Scientist I
-
-
-
- Marek Pinto
-Research Tech
- https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/
-
-*/
-
-
-
+    ,('Manikandan Samidurai', 'SENS Research Foundation', 'Staff Scientist I', '2022-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/manikandan-samidurai-ph-d-a58a3b83/ https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/', NULL, 'full-time', 'Longevity')/*Updated as of 2023-02-28*/
+    ,('Marcela Atzori', 'SENS Research Foundation', 'Staff Scientist I', '2022-07-30', 'month', NULL, NULL, 'https://web.archive.org/web/20220730050611/https://www.sens.org/about-us/team/ https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/', NULL, NULL, 'Longevity')/*Updated as of 2023-02-28*/
+    ,('Marek Pinto', 'SENS Research Foundation', 'Computational Biology Intern', '2022-06-01', 'month', '2022-09-01'/*taken from LinkedIn, as still appears on the team page as of 2023-02-28*/, 'month', 'https://www.linkedin.com/in/marekpinto/  https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/', NULL, 'intern', 'Longevity')/*Updated as of 2023-02-28*/
     ,('María A. Blasco', 'SENS Research Foundation', 'Research Advisory Board', '2011-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111231061457/http://sens.org/sens-research/advisory-board', NULL, NULL, 'Longevity')
     ,('Maria Entraigues', 'SENS Research Foundation', 'Global Outreach Coordinator', '2009-01-01', 'month', '2021-09-01', 'month', 'https://web.archive.org/web/20121020033343/http://sens.org/sens-foundation/people-search?page=1 https://www.linkedin.com/in/mariaentraigues/', NULL, NULL, 'Longevity')/*Updated as of 2023-02-26*/
     ,('Maria Entraigues Abramson', 'SENS Research Foundation', 'Director of Outreach', '2021-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20200103152631/https://www.sens.org/about-us/staff/ https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/ https://www.linkedin.com/in/mariaentraigues/', NULL, NULL, 'Longevity')/*Updated as of 2023-02-27*/
@@ -178,27 +112,11 @@ Research Tech
     ,('Michael West', 'SENS Research Foundation', 'Research Advisory Board', '2012-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20121127053747/http://www.sens.org/sens-research/advisory-board', NULL, NULL, 'Longevity')
     ,('Nadia Rosenthal', 'SENS Research Foundation', 'Research Advisory Board', '2012-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20121127053747/http://www.sens.org/sens-research/advisory-board', NULL, NULL, 'Longevity')
     ,('Pedro Alvarez', 'SENS Research Foundation', 'Research Advisory Board', '2011-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111231061457/http://sens.org/sens-research/advisory-board', NULL, NULL, 'Longevity')
-
-/*
-  Dr. Ravi Jain
-Vice President of Research
-https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/
-*/
-
-
+    ,('Ravi Jain', 'SENS Research Foundation', 'Vice President of Research', 2022-09-29, 'month', NULL, NULL, 'https://web.archive.org/web/20220929212913/https://www.sens.org/about-us/team/ https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/', NULL, NULL, 'Longevity')/*Updated as of 2023-02-28*/
     ,('Reto Hoehener', 'SENS Research Foundation', 'Volunteer', '2012-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20121020033343/http://sens.org/sens-foundation/people-search?page=1', NULL, NULL, 'Longevity')
     ,('Rob OCallahan', 'SENS Research Foundation', NULL, '2012-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20121020033343/http://sens.org/sens-foundation/people-search?page=1', NULL, NULL, 'Longevity')
     ,('Rudolph Tanzi', 'SENS Research Foundation', 'Research Advisory Board', '2012-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20121127053747/http://www.sens.org/sens-research/advisory-board', NULL, NULL, 'Longevity')
-
-
-/*
-https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/
-    Samuel Weisiger
-IT Technician
-*/
-
-
-
+    ,('Samuel Weisiger', 'SENS Research Foundation', 'IT Technician', '2022-09-29', 'month', NULL, NULL, 'https://web.archive.org/web/20220929212913/https://www.sens.org/about-us/team/ https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/', NULL, NULL, 'Longevity')/*Updated as of 2023-02-28*/
     ,('S. Mitchell Harman', 'SENS Research Foundation', 'Research Advisory Board', '2012-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20121127053747/http://www.sens.org/sens-research/advisory-board', NULL, NULL, 'Longevity')
     ,('Sarah Marr', 'SENS Research Foundation', 'Co-Founder and Vice President', '2009-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20091215032559/http://www.sens.org/index.php?pagename=mj_about_who_founders', NULL, NULL, 'Longevity')
     ,('Silvia Gravina', 'SENS Research Foundation', 'Research Associate', '2012-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20121020033330/http://sens.org/sens-foundation/people-search?page=2', NULL, NULL, 'Longevity')
@@ -210,11 +128,5 @@ IT Technician
     ,('Vladimir Skulachev', 'SENS Research Foundation', 'Research Advisory Board', '2011-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111231061457/http://sens.org/sens-research/advisory-board', NULL, NULL, 'Longevity')
     ,('Walter Harvey Crompton', 'SENS Research Foundation', 'Volunteer', '2010-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/walter-harvey-crompton-a1b9959/', NULL, NULL, 'Longevity')  
     ,('William Haseltine', 'SENS Research Foundation', 'Research Advisory Board', '2011-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20111231061457/http://sens.org/sens-research/advisory-board', NULL, NULL, 'Longevity')
-/*
-Yafei Hou
-Staff Scientist I
-    https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/
-
-*/
-
+    ,('Yafei Hou', 'SENS Research Foundation', 'Scientist', '2022-02-24', 'month', NULL, NULL, 'https://web.archive.org/web/20220224145427/https://www.sens.org/about-us/team/ https://web.archive.org/web/20230227191142/https://www.sens.org/about-us/team/', NULL, NULL, 'Longevity') /*Updated as of 2023-02-28*/
     ;
