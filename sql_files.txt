@@ -44,6 +44,7 @@ sql/positions/epoch.sql
 sql/positions/farmed-animal-funders.sql
 sql/positions/forecasting-research-institute.sql
 sql/positions/forethought.sql
+sql/positions/foundational-research-institute.sql
 sql/positions/ftx-future-fund.sql
 sql/positions/fund-for-alignment-research.sql
 sql/positions/future-of-life-institute.sql
@@ -61,6 +62,7 @@ sql/positions/ipa.sql
 sql/positions/johns-hopkins-center-for-health-security.sql
 sql/positions/legal-priorities-project.sql
 sql/positions/lesswrong.sql
+sql/positions/lev-foundation.sql
 sql/positions/leverage-research.sql
 sql/positions/lifespan-extension-advocacy-foundation.sql
 sql/positions/longview-philanthropy.sql
@@ -96,7 +98,6 @@ sql/positions/training-for-good.sql
 sql/positions/utility-farm.sql
 sql/positions/wasr.sql
 sql/positions/wild-animal-initiative.sql
-sql/positions/wild-animal-suffering-research.sql
 sql/organization_documents.sql
 sql/organization_docs/80000-hours-doc.sql
 sql/organization_docs/ace-org-docs.sql
@@ -109,8 +110,8 @@ sql/organization_docs/impossible-foods-org-docs.sql
 sql/organization_docs/lesswrong-org-docs.sql
 sql/organization_docs/leverage-research-org-docs.sql
 sql/organization_docs/miri-org-docs.sql
-sql/organization_docs/openai-org-docs.sql
 sql/organization_docs/open-phil-org-docs.sql
+sql/organization_docs/openai-org-docs.sql
 sql/organization_docs/sentience-institute-org-docs.sql
 
 # Organizations file must be imported after all positions
