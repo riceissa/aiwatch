@@ -13,7 +13,12 @@ winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "drop table if 
 winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "drop table if exists documents"
 winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "drop table if exists agendas"
 
-while read file; do
+OLDIFS=$IFS
+IFS=$'\n'
+
+FILES=( $( cat sql_files.txt ) )
+
+for file in ${FILES[@]}; do
 	# Skip blank lines
 	[ -z "$file" ] && continue
 
@@ -21,4 +26,6 @@ while read file; do
 	[[ $file == \#* ]] && continue
 
 	winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "source $file"
-done -e "source sql_files.txt"
+done
+
+IFS=$OLDIFS
