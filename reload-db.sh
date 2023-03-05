@@ -18,7 +18,7 @@ winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "drop table if 
 echo "Finished running drop table commands"
 
 OLDIFS=$IFS
-IFS=$'\n'
+IFS=$'\r\n'
 
 echo "Going to load from sql_files.txt"
 
