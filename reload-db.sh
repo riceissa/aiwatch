@@ -4,8 +4,6 @@
 
 MYSQL="/c/Program Files/MySQL/MySQL Server 8.0/bin/mysql"
 
-echo "Running drop table commands"
-
 winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "drop table if exists people"
 winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "drop table if exists positions"
 winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "drop table if exists organizations"
@@ -14,8 +12,6 @@ winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "drop table if 
 winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "drop table if exists organization_documents"
 winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "drop table if exists documents"
 winpty "$MYSQL" --defaults-extra-file="$HOME/.my.cnf" aiwatch -e "drop table if exists agendas"
-
-echo "Finished running drop table commands"
 
 OLDIFS=$IFS
 IFS=$'\r\n'
@@ -27,7 +23,8 @@ FILES=( $( cat sql_files.txt ) )
 echo "Finished loading from sql_files.txt"
 
 for file in ${FILES[@]}; do
-	echo "Examining file '$file'"
+	# uncomment the line below to see information printed for each file examined
+	# echo "Examining file '$file'"
 	# Skip blank lines
 	[ -z "$file" ] && continue
 
