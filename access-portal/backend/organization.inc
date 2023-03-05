@@ -119,6 +119,12 @@ while ($row = $result->fetch_assoc()) { ?>
       <td><?= link_organization($val) ?></td>
     </tr>
   <?php } ?>
+  <?php if ($val = ($row['last_major_data_update_date'] ?? '')) { ?>
+    <tr>
+      <td>Last recorded date when we made major data updates for this org</td>
+      <td><?= $val ?></td>
+    </tr>
+  <?php } ?>
   <?php if ($val = ($row['notes'] ?? '')) { ?>
     <tr>
       <td>Notes</td>
