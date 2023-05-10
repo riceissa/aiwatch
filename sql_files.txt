@@ -61,7 +61,6 @@ sql/positions/high-impact-athletes.sql
 sql/positions/ipa.sql
 sql/positions/johns-hopkins-center-for-health-security.sql
 sql/positions/legal-priorities-project.sql
-sql/positions/lesswrong.sql
 sql/positions/lev-foundation.sql
 sql/positions/leverage-research.sql
 sql/positions/lifespan-extension-advocacy-foundation.sql
