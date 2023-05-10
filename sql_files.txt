@@ -58,12 +58,14 @@ sql/positions/goodai.sql
 sql/positions/gwwc.sql
 sql/positions/happier-lives-institute.sql
 sql/positions/high-impact-athletes.sql
+sql/positions/high-impact-medicine.sql
 sql/positions/ipa.sql
 sql/positions/johns-hopkins-center-for-health-security.sql
 sql/positions/legal-priorities-project.sql
 sql/positions/lev-foundation.sql
 sql/positions/leverage-research.sql
 sql/positions/lifespan-extension-advocacy-foundation.sql
+sql/positions/lightcone-Iinfrastructure.sql
 sql/positions/longview-philanthropy.sql
 sql/positions/median-group.sql
 sql/positions/mercy-for-animals.sql
@@ -112,8 +114,8 @@ sql/organization_docs/miri-org-docs.sql
 sql/organization_docs/open-phil-org-docs.sql
 sql/organization_docs/openai-org-docs.sql
 sql/organization_docs/sentience-institute-org-docs.sql
-sql/organization_docs/high-impact-medicine.sql
-sql/organization_docs/lightcone-Iinfrastructure.sql
+
+
 
 
 
