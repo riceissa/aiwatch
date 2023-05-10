@@ -113,6 +113,10 @@ sql/organization_docs/miri-org-docs.sql
 sql/organization_docs/open-phil-org-docs.sql
 sql/organization_docs/openai-org-docs.sql
 sql/organization_docs/sentience-institute-org-docs.sql
+sql/organization_docs/high-impact-medicine.sql
+sql/organization_docs/lightcone-Iinfrastructure.sql
+
+
 
 # Organizations file must be imported after all positions
 sql/organizations.sql
