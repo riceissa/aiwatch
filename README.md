@@ -239,6 +239,10 @@ Example:
 
 ![image](https://github.com/riceissa/aiwatch/assets/1450515/ef850420-e1d4-4640-8a17-0beb5f1b4f74)
 
+The idea here is that if the list of violations for an org grows too long
+(say, 10+ positions), then it becomes pretty obvious that the last major
+data update date forgot to be changed when the data was updated.
+
 
 ## Tips for using Visual Studio Code
 
