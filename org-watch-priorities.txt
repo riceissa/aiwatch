@@ -1,19 +1,20 @@
-Givewell p1
-Open Philanthropy p1
-Centre for Effective Altruism p1
-Machine Intelligence Research Institute p1
-AI Impacts p1
-LessWrong 2.0 (rename to Lightcone Infrastructure) p1
+-- p1
+('GiveWell','Open Philanthropy','Centre for Effective Altruism','Machine Intelligence Research Institute','AI Impacts','LessWrong 2.0')
+-- query:
+select organization, last_major_data_update_date from organizations
+where organization in ('GiveWell','Open Philanthropy','Centre for Effective Altruism','Machine Intelligence Research Institute','AI Impacts','LessWrong 2.0')
+and (last_major_data_update_date is null or datediff(curdate(), last_major_data_update_date) > 183)
+order by last_major_data_update_date;
 
-80,000 Hours p2
-Berkeley Existential Risk Initiative p2
-Foundational Research Institute (renamed Center on Long Term Risk) p2
-Effective Altruism Foundation (renamed Center on Long Term Risk) p2
+-- p2
+('80,000 Hours','Berkeley Existential Risk Initiative','Center on Long-Term Risk','Animal Charity Evaluators','Center for Applied Rationality','Future of Humanity Institute')
+-- query:
+select organization, last_major_data_update_date from organizations
+where organization in ('80,000 Hours','Berkeley Existential Risk Initiative','Center on Long-Term Risk','Animal Charity Evaluators','Center for Applied Rationality','Future of Humanity Institute')
+and (last_major_data_update_date is null or datediff(curdate(), last_major_data_update_date) > 365)
+order by last_major_data_update_date;
 
-Animal Charity Evaluators p2
-Center for Applied Rationality p2
-Future of Humanity Institute p2
-
+-- p3
 openai p3
 Median Group p3
 Longview Philanthropy p3
