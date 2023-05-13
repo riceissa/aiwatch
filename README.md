@@ -227,6 +227,19 @@ that are missing an `end_date` that should be added.
 select organization,person,group_concat(title) from positions where end_date is NULL group by person,organization having count(*) > 1 order by organization;
 ```
 
+The following command flags organizations whose last position date
+(i.e. the latest date out of all `start_date` and `end_date` values)
+is later than the last major data update date:
+
+```sql
+select o.organization, o.last_major_data_update_date, group_concat(p.person, ': ', greatest(p.start_date, p.end_date) separator '; ') as violations from organizations o inner join positions p on o.organization = p.organization where o.last_major_data_update_date < greatest(p.start_date, p.end_date) group by o.organization, o.last_major_data_update_date;
+```
+
+Example:
+
+![image](https://github.com/riceissa/aiwatch/assets/1450515/ef850420-e1d4-4640-8a17-0beb5f1b4f74)
+
+
 ## Tips for using Visual Studio Code
 
 Most keyboard shortcuts like copy, paste, save, search, all work as expected.
