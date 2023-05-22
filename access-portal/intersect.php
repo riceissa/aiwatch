@@ -12,7 +12,7 @@ if ($request_uri !== $_SERVER['REQUEST_URI']) {
 }
 
 $head_date = trim(file_get_contents("head_date.txt"));
-$title = "";
+$title = "Intersect " . htmlspecialchars($_REQUEST['person1']) . " and " . htmlspecialchars($_REQUEST['person2']);
 
 if (($_REQUEST['person1'] ?? '') and ($_REQUEST['person1'] ?? '')) {
   $person1 = $_REQUEST['person1'];
