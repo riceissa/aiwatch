@@ -66,7 +66,7 @@ sql/positions/legal-priorities-project.sql
 sql/positions/lev-foundation.sql
 sql/positions/leverage-research.sql
 sql/positions/lifespan-extension-advocacy-foundation.sql
-sql/positions/lightcone-Iinfrastructure.sql
+sql/positions/lightcone-infrastructure.sql
 sql/positions/longview-philanthropy.sql
 sql/positions/median-group.sql
 sql/positions/mercy-for-animals.sql
