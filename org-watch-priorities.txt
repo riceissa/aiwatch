@@ -1,8 +1,8 @@
 -- p1
-('GiveWell','Open Philanthropy','Centre for Effective Altruism','Machine Intelligence Research Institute','AI Impacts','LessWrong 2.0')
+('GiveWell','Open Philanthropy','Centre for Effective Altruism','Machine Intelligence Research Institute','AI Impacts','Lightcone Infrastructure')
 -- query:
 select organization, last_major_data_update_date from organizations
-where organization in ('GiveWell','Open Philanthropy','Centre for Effective Altruism','Machine Intelligence Research Institute','AI Impacts','LessWrong 2.0')
+where organization in ('GiveWell','Open Philanthropy','Centre for Effective Altruism','Machine Intelligence Research Institute','AI Impacts','Lightcone Infrastructure')
 and (last_major_data_update_date is null or datediff(curdate(), last_major_data_update_date) > 183)
 order by last_major_data_update_date;
 
