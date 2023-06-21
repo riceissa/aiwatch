@@ -26,5 +26,5 @@ for url in URLS:
     if response.status_code == 200:
         print(f"Archived {url}")
     else:
-        print(f"ERROR: {response.status_code}")
+        print(f"ERROR: {response.status_code} when trying to archive {url}")
     time.sleep(2)
