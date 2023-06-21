@@ -9,7 +9,7 @@ SLACK_URL = None
 with open("slack-url.txt", "r") as f:
     line = f.readline()
     if line.strip():
-    SLACK_URL = line.strip()
+        SLACK_URL = line.strip()
 
 def print_and_slack(message):
     if SLACK_URL:
