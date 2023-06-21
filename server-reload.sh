@@ -4,6 +4,6 @@
 # my.cnf is a file that looks like this:
 #     [client]
 #     user=issa
-#     user=secret
+#     password=secret
 
 git pull && make -B access-portal/head_date.txt && make read MYSQL_ARGS="--defaults-extra-file=my.cnf"
