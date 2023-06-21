@@ -66,7 +66,12 @@ for url in URLS:
     time.sleep(2)
 
 for url in try_again:
-    response = requests.get("https://web.archive.org/save/" + url)
+    try:
+        response = requests.get("https://web.archive.org/save/" + url)
+    except requests.exceptions.ConnectionError:
+        print_and_slack("Got a connection error. Waiting a bit.")
+        time.sleep(30)
+        continue
     if response.status_code == 200:
         print(f"Archived {url}")
     elif response.status_code == 429:
