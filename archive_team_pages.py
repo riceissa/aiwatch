@@ -37,7 +37,12 @@ try_again = []
 
 # This part is modified from https://gitlab.com/orpheuslummis/archive-subwikis/-/blob/master/archive_subwikis.py#L27-36
 for url in URLS:
-    response = requests.get("https://web.archive.org/save/" + url)
+    try:
+        response = requests.get("https://web.archive.org/save/" + url)
+    except requests.exceptions.ConnectionError:
+        print_and_slack("Got a connection error. Waiting a bit.")
+        time.sleep(30)
+        continue
     if response.status_code == 200:
         print(f"Archived {url}")
     elif response.status_code == 429:
