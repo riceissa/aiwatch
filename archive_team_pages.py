@@ -3,6 +3,7 @@
 import time
 import requests
 import mysql.connector
+import os
 
 SLACK_URL = None
 
@@ -17,7 +18,17 @@ def print_and_slack(message):
                       json={"text": message})
     print(message)
 
-cnx = mysql.connector.connect(user='issa', database='aiwatch')
+if os.path.isfile('my.cnf'):
+    with open('my.cnf', 'r') as f:
+        for line in f:
+            if line.startswith('user='):
+                user = line.strip()[len('user='):]
+            if line.startswith('password='):
+                password = line.strip()[len('password='):]
+        cnx = mysql.connector.connect(user=user, password=password,
+                                      database='aiwatch')
+else:
+    cnx = mysql.connector.connect(user='issa', database='aiwatch')
 cursor = cnx.cursor()
 
 cursor.execute("""select team_page from organizations where team_page is not NULL""")
