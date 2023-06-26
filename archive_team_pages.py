@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
 
+import datetime
 import time
 import requests
 import mysql.connector
 import os
 
 SLACK_URL = None
+
+print(f"========== {timestamp()} NEW RUN ==========")
 
 with open("slack-url.txt", "r") as f:
     line = f.readline()
@@ -17,6 +20,9 @@ def print_and_slack(message):
         requests.post(SLACK_URL, headers={"Content-type": "application/json"},
                       json={"text": message})
     print(message)
+
+def timestamp():
+    return datetime.datetime.utcnow().isoformat() + " (UTC)"
 
 if os.path.isfile('my.cnf'):
     with open('my.cnf', 'r') as f:
@@ -51,33 +57,33 @@ for url in URLS:
     try:
         response = requests.get("https://web.archive.org/save/" + url)
     except requests.exceptions.ConnectionError:
-        print_and_slack("Got a connection error. Waiting a bit.")
+        print_and_slack(f"{timestamp()} Got a connection error. Waiting a bit.")
         time.sleep(30)
         continue
     if response.status_code == 200:
-        print(f"Archived {url}")
+        print(f"{timestamp()} Archived {url}")
     elif response.status_code == 429:
         # We're sending too many requests, so wait a bit
-        print(f"ERROR: We got a 429 so we're sending too many requests; will try {url} again at the end")
+        print(f"{timestamp()} ERROR: We got a 429 so we're sending too many requests; will try {url} again at the end")
         try_again.append(url)
         time.sleep(20)
     else:
-        print_and_slack(f"ERROR: {response.status_code} when trying to archive {url}")
+        print_and_slack(f"{timestamp()} ERROR: {response.status_code} when trying to archive {url}")
     time.sleep(2)
 
 for url in try_again:
     try:
         response = requests.get("https://web.archive.org/save/" + url)
     except requests.exceptions.ConnectionError:
-        print_and_slack("Got a connection error. Waiting a bit.")
+        print_and_slack("{timestamp()} Got a connection error. Waiting a bit.")
         time.sleep(30)
         continue
     if response.status_code == 200:
-        print(f"Archived {url}")
+        print(f"{timestamp()} Archived {url}")
     elif response.status_code == 429:
         # We're sending too many requests, so wait a bit
-        print_and_slack(f"ERROR: We got a 429 so we're sending too many requests; giving up on {url}")
+        print_and_slack(f"{timestamp()} ERROR: We got a 429 so we're sending too many requests; giving up on {url}")
         time.sleep(20)
     else:
-        print_and_slack(f"ERROR: {response.status_code} when trying to archive {url}")
+        print_and_slack(f"{timestamp()} ERROR: {response.status_code} when trying to archive {url}")
     time.sleep(10)
