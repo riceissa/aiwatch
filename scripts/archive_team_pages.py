@@ -8,6 +8,9 @@ import os
 
 SLACK_URL = None
 
+def timestamp():
+    return datetime.datetime.utcnow().isoformat() + " (UTC)"
+
 print(f"========== {timestamp()} NEW RUN ==========")
 
 with open("slack-url.txt", "r") as f:
@@ -20,9 +23,6 @@ def print_and_slack(message):
         requests.post(SLACK_URL, headers={"Content-type": "application/json"},
                       json={"text": message})
     print(message)
-
-def timestamp():
-    return datetime.datetime.utcnow().isoformat() + " (UTC)"
 
 if os.path.isfile('my.cnf'):
     with open('my.cnf', 'r') as f:
