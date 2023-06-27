@@ -4,6 +4,7 @@
      ('Amanda Askell','Anthropic','Technical Staff', '2021-03-01', 'month', NULL, NULL,'https://www.linkedin.com/in/amanda-askell/ https://transformer-circuits.pub/2021/framework/index.html', NULL, 'full-time', 'AI safety')
     ,('Andy Jones','Anthropic', NULL, NULL, 'month', NULL, NULL,'https://voxcom.cmail19.com/t/ViewEmail/d/5E61BDB945C3771F2540EF23F30FEDED/7655520C49A52981BA4AF9908B8D85ED?fbclid=IwAR35DO8qfgx0ysXanssoc5gGkRqBUG89Uzcfbf6mDRsUkEDVH2SHeGfZvaA', NULL, NULL, 'AI safety')
     ,('Anna Chen','Anthropic','Technical Staff', '2021-07-01', 'month', NULL, NULL,'https://www.linkedin.com/in/annaitchen/ https://transformer-circuits.pub/2021/framework/index.html', NULL,'full-time', 'AI safety')
+    ,('Avital Balwit', 'Anthropic', 'Communications Lead', '2023-03-09', 'day', NULL, NULL, 'https://twitter.com/avitalbalwit/status/1633876670066348033?fbclid=IwAR37FgLJJaoINuIBkgJhH-vtlBAcJmksAP3B5h9rdCBjAr9-V7u_KlmmOOw', NULL, NULL, 'AI safety') /*Reviewed as of 2023-06-21*/
     ,('Benjamin Mann','Anthropic','Technical Staff', '2021-02-01', 'month', NULL, NULL,'https://www.linkedin.com/in/benjamin-mann/ https://transformer-circuits.pub/2021/framework/index.html', NULL, NULL, 'AI safety')
     ,('Catherine Olsson','Anthropic', NULL, NULL, 'month', NULL, NULL,'https://transformer-circuits.pub/2021/framework/index.html', NULL, NULL, 'AI safety')
     ,('Chris Olah','Anthropic', NULL, NULL, 'month', NULL, NULL,'https://transformer-circuits.pub/2021/framework/index.html', NULL, NULL, 'AI safety')
