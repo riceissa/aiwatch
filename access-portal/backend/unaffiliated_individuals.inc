@@ -4,7 +4,7 @@
   if ($subdomain === "aiwatch") {
     // On AI Watch, non-AI safety organization positions won't be displayed, so
     // it is easier for a person to be unaffiliated.
-    $query = "select person,website,urls from people where person not in (select distinct(person) from positions where cause_area = 'AI safety')";
+    $query = "select person,website,urls from people where person not in (select distinct(person) from positions where cause_area = 'AI safety') and aiwatch_flag = TRUE";
   } else {
     $query = "select person,website,urls from people where person not in (select distinct(person) from positions)";
   }
