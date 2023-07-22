@@ -1,12 +1,12 @@
 <?php if ($subdomain === "aiwatch") { ?>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108608632-1"></script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-W8YHY9TRPF"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-
-    gtag('config', 'UA-108608632-1');
+  
+    gtag('config', 'G-W8YHY9TRPF');
   </script>
 <?php } else { ?>
   <!-- Global site tag (gtag.js) - Google Analytics -->

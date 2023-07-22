@@ -125,7 +125,11 @@ while ($row = $result->fetch_assoc()) { ?>
 </table>
 
 <?php
-if ($stmt = $mysqli->prepare("select * from positions where person = ?")) {
+$query = "select * from positions where person = ?";
+if ($subdomain === "aiwatch") {
+  $query .= " and cause_area = 'AI safety'";
+}
+if ($stmt = $mysqli->prepare($query)) {
   $stmt->bind_param("s", $person);
   $stmt->execute();
   $result = $stmt->get_result();
@@ -299,7 +303,11 @@ while ($row = $result->fetch_assoc()) {
 
 <?php
 
-if ($stmt = $mysqli->prepare("select person, organization from positions")) {
+$query = "select person, organization from positions";
+if ($subdomain === "aiwatch") {
+  $query .= " where cause_area = 'AI safety'";
+ }
+if ($stmt = $mysqli->prepare($query)) {
   $stmt->execute();
   $result = $stmt->get_result();
 }
