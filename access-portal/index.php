@@ -92,21 +92,13 @@ if ($_REQUEST['person'] ?? '') {
   for the source code and data of this website.
 </p>
 
-<?php if ($subdomain === "aiwatch") { ?>
-  <p>This website is developed by <a href="https://issarice.com">Issa Rice</a>
-  with data contributions from <a href="https://github.com/sebastiansanchez123">Sebastian Sanchez</a>,
-  <a href="https://www.linkedin.com/in/amanarice/">Amana Rice</a>, and
-  <a href="https://vipulnaik.com/">Vipul Naik</a>,
-  and has been partially
-  <a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=AI+Watch&amp;matching=exact">funded by Vipul Naik</a>.</p>
-<?php } else { ?>
-  <p>This website is developed by <a href="https://issarice.com">Issa Rice</a>
-  with data contributions from <a href="https://github.com/sebastiansanchez123">Sebastian Sanchez</a>,
-  <a href="https://www.linkedin.com/in/amanarice/">Amana Rice</a>, and
-  <a href="https://vipulnaik.com/">Vipul Naik</a>,
-  and has been partially
-  <a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=Org+Watch&amp;matching=exact">funded by Vipul Naik</a>.</p>
-<?php } ?>
+<p>This website is developed by <a href="https://issarice.com">Issa Rice</a>
+with data contributions from <a href="https://github.com/sebastiansanchez123">Sebastian Sanchez</a>,
+<a href="https://www.linkedin.com/in/amanarice/">Amana Rice</a>, and
+<a href="https://vipulnaik.com/">Vipul Naik</a>,
+and has been partially
+<a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=<?php echo ($subdomain === "aiwatch" ? "AI+Watch" : "Org+Watch"); ?>&amp;matching=exact">funded by Vipul Naik</a>
+and <a href="https://matiroy.com/">Mati Roy</a> (who in July 2023 paid for the time Issa had spent answering people’s questions about AI Watch up until that point).</p>
 
 <p><strong>If you like (or want to like) this website and have money:</strong> the current
 funder is mostly only funding data updates to existing organizations as well as
