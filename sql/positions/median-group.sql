@@ -1,5 +1,4 @@
-insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) va/*current position*/lues
-  
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
      ('Baeo Maltinsky','Median Group','Co-founder and researcher','2018-03-01','month',NULL,NULL,'http://www.maltinsky.net/pdfs/CV.pdf https://web.archive.org/web/20181004171036/http://mediangroup.org/team https://web.archive.org/web/20230815041601/http://mediangroup.org/team',NULL,NULL,NULL) /*Updated as of 2023-08-15*/ /*current position*/
     ,('Ben Hoffman','Median Group',NULL,'2018-01-01','year',NULL,NULL,'https://web.archive.org/web/20181004171036/http://mediangroup.org/team https://web.archive.org/web/20230815041601/http://mediangroup.org/team',NULL,NULL,NULL) /*Updated as of 2023-08-15*/ /*current position*/
     ,('Ben Hoffman','Median Group',NULL,'2018-01-01','year',NULL,NULL,'https://web.archive.org/web/20181004171036/http://mediangroup.org/team https://web.archive.org/web/20230815041601/http://mediangroup.org/team',NULL,NULL,NULL) /*Updated as of 2023-08-15*/ /*current position*/
