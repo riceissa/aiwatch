@@ -1,253 +1,30 @@
-insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
-   
-
-     ('Natalie Cargill', 'Longview Philanthropy', 'Founder and CEO', '2018-05-01', 'month', NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people https://www.linkedin.com/in/natalie-cargill-1490a850/', NULL, NULL, 'Cause prioritization')
-    ,('Simran Dhaliwal', 'Longview Philanthropy', 'Managing director', '2019-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people https://www.linkedin.com/in/simran-dhaliwal-78b306167/', NULL, NULL, 'Cause prioritization')
-    ,('Tyler John', 'Longview Philanthropy', 'Head of research', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people', NULL, NULL, 'Cause prioritization')
-    ,('Petr Maslov', 'Longview Philanthropy', 'Head of operations and events', '2021-01-01', 'month', '2021-04-01', 'month', 'https://web.archive.org/web/20210116210641/https://www.longview.org/people https://www.linkedin.com/in/petr-maslov1/', NULL, 'full-time', 'Cause prioritization')
-    ,('Kit Harris', 'Longview Philanthropy', 'Grants analyst', '2018-12-01', 'month', NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people https://www.linkedin.com/in/kitharris/', NULL, NULL, 'Cause prioritization')
-    ,('Ollie Base', 'Longview Philanthropy', 'Research analyst', '2018-10-01', 'month', NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people https://www.linkedin.com/in/ollie-base-970922135/', NULL, NULL, 'Cause prioritization')
-    ,('Will MacAskill', 'Longview Philanthropy', 'Advisor', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people', NULL, 'Advisor', 'Cause prioritization')
-    ,('Claire Zabel', 'Longview Philanthropy', 'Advisor', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people', NULL, 'Advisor', 'Cause prioritization')
-    ,('Kevin M. Esvelt', 'Longview Philanthropy', 'Advisor', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people', NULL, 'Advisor', 'Cause prioritization')
-    ,('Carl Robichaud', 'Longview Philanthropy', 'Advisor', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people', NULL, 'Advisor', 'Cause prioritization')
-    ,('Liv Boeree', 'Longview Philanthropy', 'Advisor', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people', NULL, 'Advisor', 'Cause prioritization')
-    ,('Hilary Greaves', 'Longview Philanthropy', 'Advisor', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people', NULL, 'Advisor', 'Cause prioritization')
-    ,('Nick Beckstead', 'Longview Philanthropy', 'Advisor', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people', NULL, 'Advisor', 'Cause prioritization')
-    ,('Charlotte Stix', 'Longview Philanthropy', 'Advisor', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people', NULL, 'Advisor', 'Cause prioritization')
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values  
+     ('Andrew Player', 'Longview Philanthropy', 'Head of Grants Management & Compliance', '2022-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/andrew-player/ https://web.archive.org/web/20230815165008/https://www.longview.org/about/', NULL, NULL, 'Cause prioritization') /*Reviewed on 2023-08-15*/ /*current position*/
     ,('Andrew Snyder-Beattie', 'Longview Philanthropy', 'Advisor', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people', NULL, 'Advisor', 'Cause prioritization')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    ,('Carl Robichaud', 'Longview Philanthropy', 'Advisor', '2021-07-01', 'month', '2022-10-01', 'month', 'https://web.archive.org/web/20210116210641/https://www.longview.org/people https://www.linkedin.com/in/carl-robichaud-1854641/ https://web.archive.org/web/20230815165008/https://www.longview.org/about/', NULL, 'Advisor', 'Cause prioritization')
+    ,('Carl Robichaud', 'Longview Philanthropy', 'Program Officer', '2022-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/carl-robichaud-1854641/ https://web.archive.org/web/20230815165008/https://www.longview.org/about/', NULL, NULL, 'Cause prioritization') /*Reviewed on 2023-08-15*/ /*current position*/
+    ,('Charlotte Stix', 'Longview Philanthropy', 'Advisor', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people', NULL, 'Advisor', 'Cause prioritization')
+    ,('Claire Zabel', 'Longview Philanthropy', 'Advisor', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people', NULL, 'Advisor', 'Cause prioritization')
+    ,('Fin Moorhouse', 'Longview Philanthropy', 'Research Analyst', '2023-08-15', 'year', NULL, NULL, 'https://web.archive.org/web/20230815165008/https://www.longview.org/about/', NULL, NULL, 'Cause prioritization') /*Reviewed on 2023-08-15*/ /*current position*/
+    ,('Hamish Hobbs', 'Longview Philanthropy', 'Policy Adviser to OECD Strategic Foresight Unit', '2021-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hamish-hobbs-16704189/?originalSubdomain=uk https://web.archive.org/web/20230815165008/https://www.longview.org/about/', NULL, 'full time', 'Cause prioritization') /*Reviewed on 2023-08-15*/ /*current position*/
+    ,('Hilary Greaves', 'Longview Philanthropy', 'Advisor', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people', NULL, 'Advisor', 'Cause prioritization')
+    ,('Jonathan Huang', 'Longview Philanthropy', 'Chief of Staff', '2023-04-19', NULL, NULL, NULL, 'https://web.archive.org/web/20230419132724/https://www.longview.org/about/ https://web.archive.org/web/20230815165008/https://www.longview.org/about/', NULL, NULL, 'Cause prioritization') /*Reviewed on 2023-08-15*/ /*current position*/
+    ('Katie Hearsum', 'Longview Philanthropy', 'Senior Operations Analyst', '2021-07-01', 'month', '2022-07-01', 'month', 'https://www.linkedin.com/in/katie-hearsum-011027a7/?originalSubdomain=uk', NULL, NULL, 'Cause prioritization') /*Reviewed on 2023-08-15*/  
+    ('Katie Hearsum', 'Longview Philanthropy', 'Head Of Operations', '2022-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/katie-hearsum-011027a7/?originalSubdomain=uk https://web.archive.org/web/20230815165008/https://www.longview.org/about/', NULL, NULL, 'Cause prioritization') /*Reviewed on 2023-08-15*/  /*current position*/
+    ,('Kevin M. Esvelt', 'Longview Philanthropy', 'Advisor', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people', NULL, 'Advisor', 'Cause prioritization')
+    ,('Kit Harris', 'Longview Philanthropy', 'Existential Risks Programme Officer', '2018-12-01', 'month', NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people https://www.linkedin.com/in/kitharris/ https://web.archive.org/web/20230815165008/https://www.longview.org/about/', NULL, NULL, 'Cause prioritization') /*Reviewed on 2023-08-15*/ /*current position*/
+    ,('Liv Boeree', 'Longview Philanthropy', 'Advisor', '2021-01-01', 'year', '2021-12-01', 'year', 'https://web.archive.org/web/20210116210641/https://www.longview.org/people https://web.archive.org/web/20211210022522/https://www.longview.org/people', NULL, 'Advisor', 'Cause prioritization') /*Reviewed on 2023-08-15*/ 
+    ,('Liv Boeree', 'Longview Philanthropy', 'Ambassador', '2022-05-18', 'year', NULL, NULL, 'https://web.archive.org/web/20220518195538/https://www.longview.org/people https://web.archive.org/web/20230815165008/https://www.longview.org/about/', NULL, NULL, 'Cause prioritization') /*Reviewed on 2023-08-15*/ /*current position*/
+    ,('Matthew Gentzel', 'Longview Philanthropy', 'Program Officer', '2022-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/matthew-gentzel/ https://web.archive.org/web/20230815165008/https://www.longview.org/about/', NULL, NULL, 'Cause prioritization') /*Reviewed on 2023-08-15*/ /*current position*/
+    ,('Natalie Cargill', 'Longview Philanthropy', 'Founder and CEO', '2018-05-01', 'month', NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people https://www.linkedin.com/in/,natalie-cargill-1490a850/ https://web.archive.org/web/20230815165008/https://www.longview.org/about/', NULL, NULL, 'Cause prioritization') /*Reviewed on 2023-08-15*/ /*current position*/
+    ,('Nick Beckstead', 'Longview Philanthropy', 'Advisor', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people', NULL, 'Advisor', 'Cause prioritization')
+    ,('Ollie Base', 'Longview Philanthropy', 'Research analyst', '2018-10-01', 'month', NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people https://www.linkedin.com/in/ollie-base-970922135/', NULL, NULL, 'Cause prioritization')
+    ,('Petr Maslov', 'Longview Philanthropy', 'Head of operations and events', '2021-01-01', 'month', '2021-04-01', 'month', 'https://web.archive.org/web/20210116210641/https://www.longview.org/people https://www.linkedin.com/in/petr-maslov1/', NULL, 'full-time', 'Cause prioritization')
+    ,('Ruth Wallis', 'Longview Philanthropy', 'Operations Analyst', '2021-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ruth-wallis-5b42bb160/?originalSubdomain=ukhttps://web.archive.org/web/20230815165008/https://www.longview.org/about/', NULL, 'full time', 'Cause prioritization') /*Reviewed on 2023-08-15*/ /*current position*/
+    ,('Simran Dhaliwal', 'Longview Philanthropy', 'Co-CEO', '2022-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/simran-dhaliwal-78b306167/ https://web.archive.org/web/20230815165008/https://www.longview.org/about/', NULL, NULL, 'Cause prioritization') /*Reviewed on 2023-08-15*/ /*current position*/
+    ,('Simran Dhaliwal', 'Longview Philanthropy', 'Managing director', '2019-08-01', 'month', '2022-05-01', month, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people https://www.linkedin.com/in/simran-dhaliwal-78b306167/', NULL, NULL, 'Cause prioritization') /*Reviewed on 2023-08-15*/
+    ,('Tildy Stokes', 'Longview Philanthropy', 'Events Director', '2022-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tildy-stokes/?originalSubdomain=uk https://web.archive.org/web/20230815165008/https://www.longview.org/about/', NULL, 'full time', 'Cause prioritization') /*Reviewed on 2023-08-15*/ /*current position*/
+    ,('Toby Jolly', 'Longview Philanthropy', 'Events Director', '2023-08-15', 'year', NULL, NULL, 'https://web.archive.org/web/20230815165008/https://www.longview.org/about/', NULL, NULL, 'Cause prioritization') /*Reviewed on 2023-08-15*/ /*current position*/
+    ,('Tyler John', 'Longview Philanthropy', 'Head of research', '2020-10-01', 'month', '2022-04-01', 'month', 'https://web.archive.org/web/20210116210641/https://www.longview.org/people https://www.linkedin.com/in/tyler-john-94979156/', NULL, NULL, 'Cause prioritization') /*Reviewed on 2023-08-15*/
+    ,('Tyler John', 'Longview Philanthropy', 'Head of research', '2022-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tyler-john-94979156/ https://web.archive.org/web/20230815165008/https://www.longview.org/about/', NULL, NULL, 'Cause prioritization') /*Reviewed on 2023-08-15*/ /*current position*/
+    ,('Will MacAskill', 'Longview Philanthropy', 'Advisor', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people', NULL, 'Advisor', 'Cause prioritization')
