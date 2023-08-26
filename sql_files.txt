@@ -96,6 +96,7 @@ sql/positions/sentience-politics.sql
 sql/positions/simon-institute.sql
 sql/positions/survival-and-flourishing.fund.sql
 sql/positions/survival-and-flourishing.org.sql
+sql/positions/suvita.sql
 sql/positions/the-humane-league.sql
 sql/positions/training-for-good.sql
 sql/positions/utility-farm.sql
