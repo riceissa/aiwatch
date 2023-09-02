@@ -18,6 +18,7 @@ sql/positions/astera.sql
 sql/positions/balsa-research.sql
 sql/positions/beri.sql
 sql/positions/cea.sql
+sql/positions/center-for-ai-policy.sql
 sql/positions/center-for-ai-safety.sql
 sql/positions/center-for-emerging-risk-research.sql
 sql/positions/center-for-global-development.sql
