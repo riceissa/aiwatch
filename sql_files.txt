@@ -8,6 +8,7 @@ sql/positions/ace.sql
 sql/positions/ai-challenge.sql
 sql/positions/ai-impacts.sql
 sql/positions/albert-schweitzer-foundation.sql
+sql/positions/alignment-research-center.sql
 sql/positions/alter.sql
 sql/positions/alvea.sql
 sql/positions/amf.sql
