@@ -1,9 +1,9 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
-     
-  
-     ('Adam D’Angelo','OpenAI','Board',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20190625230941/https://openai.com/about/',NULL,NULL,NULL,'board member','AI safety')
-    ,('Adam Goldberg','OpenAI','Account Director, Go-To-Market Team','2021-11-01','month', NULL, NULL,'https://www.linkedin.com/in/adam-goldberg-b8569b6/',NULL, 'AGI organization',NULL, NULL,'AI safety')
-    ,('Adam Nace','OpenAI','Head of Legal Operations','2022-02-01', 'month', NULL, NULL,'https://www.linkedin.com/in/adam-nace-62a17770/',NULL, 'AGI organization',NULL, 'full-time','AI safety')
+     ('Adam D’Angelo','OpenAI','Board','2018-04-24','month',NULL,NULL,'https://twitter.com/adamdangelo/status/988859015315701760?lang=en https://web.archive.org/web/20230919191719/https://www.semafor.com/article/04/19/2023/quora-ceo-adam-dangelo-on-poe-becoming-the-web-browser-for-ai',NULL,NULL,NULL,'board member','AI safety') /*Reviewed on 2023-09-19*/ /*current position*/
+    ,('Adam Goldberg','OpenAI','Account Director, Go-To-Market Team','2021-11-01','month', '2022-12-01', 'month','https://www.linkedin.com/in/adam-goldberg-b8569b6/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on 2023-09-19*/  
+    ,('Adam Goldberg','OpenAI','Head of Azure OpenAI Enablement & Account Director, GTM Team','2022-12-01','month', '2023-08-01', 'month','https://www.linkedin.com/in/adam-goldberg-b8569b6/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on 2023-09-19*/ 
+    ,('Adam Goldberg','OpenAI','Member of the GTM Team, ChatGPT Enterprise ','2023-08-01','month', NULL, NULL,'https://www.linkedin.com/in/adam-goldberg-b8569b6/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-09-19*/  /*current position*/
+    ,('Adam Nace','OpenAI','Head of Legal Operations','2022-02-01', 'month', NULL, NULL,'https://www.linkedin.com/in/adam-nace-62a17770/ https://web.archive.org/web/20230919194222/https://news.bloomberglaw.com/business-and-practice/chatgpt-creator-openai-bolsters-legal-ranks-as-issues-grow',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-09-19*/  /*current position*/
     ,('Adam Rhodes','OpenAI','AI Specialist','2022-01-01', 'month', NULL, NULL,'https://www.linkedin.com/in/adambrillrhodes/',NULL, 'AGI organization',NULL, 'full-time','AI safety')
     ,('Adam Rhodes','OpenAI','Technical Support and Operations Consulting','2020-10-01', 'month', '2021-12-01', 'month','https://www.linkedin.com/in/adambrillrhodes/',NULL, 'AGI organization',NULL, 'contractor','AI safety')
     ,('Adam Smets','OpenAI','Neuropsychologist','2018-01-01','year', NULL, NULL,'https://www.linkedin.com/in/adamsmets/',NULL, 'AGI organization',NULL, NULL,'AI safety')
@@ -21,7 +21,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Angie Luo','OpenAI','Recruiter','2021-08-01','month', NULL, NULL,'https://www.linkedin.com/in/angieluo/',NULL, 'AGI organization',NULL, NULL,'AI safety')
     ,('Anish Athalye','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/robust-adversarial-inputs/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Ankur Handa','OpenAI',NULL,'2017-01-30','year',NULL,NULL,'https://blog.openai.com/team-update-january/',NULL,'AGI organization',NULL,NULL,'AI safety')
-    ,('Anna Makanju','OpenAI','Head of Public Policy','2021-09-01', 'month', NULL, NULL,'https://www.linkedin.com/in/anna-makanju-6388453a/',NULL, 'AGI organization',NULL, NULL,'AI safety')
+    ,('Anna Makanju','OpenAI','Head of Public Policy','2021-09-01', 'month', '2023-06-01', 'month','https://www.linkedin.com/in/anna-makanju-6388453a/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on 2023-09-19*/  
+    ,('Anna Makanju','OpenAI','Vice President, Global Affairs','2023-06-01', 'month', NULL, NULL,'https://web.archive.org/web/20230919194749/https://time.com/collection/time100-ai/6309470/anna-makanju/ https://www.linkedin.com/in/anna-makanju-6388453a/',NULL, 'AGI organization',NULL, 'Full-time','AI safety') /*Reviewed on 2023-09-19*/ /*current position*/  
     ,('Aravind Srinivas','OpenAI','Member of Technical Staff','2018-05-01','month','2018-08-01','month','https://www.linkedin.com/in/aravind-srinivas-16051987/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Aravind Srinivas','OpenAI','Research Scientist','2021-09-01','month', NULL, NULL,'https://www.linkedin.com/in/aravind-srinivas-16051987/',NULL, 'AGI organization',NULL, NULL,'AI safety')
     ,('Aris Konstantinidis','OpenAI','Business Operations Lead','2019-10-01', 'month', NULL, NULL,'https://www.linkedin.com/in/ariskonstant/',NULL, 'AGI organization',NULL, 'full-time','AI safety')
