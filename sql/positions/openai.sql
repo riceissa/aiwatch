@@ -334,7 +334,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Sam Altman', 'OpenAI', 'Co-Founder', '2015-12-11', 'month', NULL, NULL, 'https://en.wikipedia.org/wiki/OpenAI', NULL, NULL, NULL, 'board member', 'AI safety') /*Reviewed on 2023-10-09*/
     ,('Sam McCandlish','OpenAI','OpenAI Fellow','2018-05-01','month','2020-12-01','month','https://openai.com/blog/openai-summer-fellows-2018/ https://www.linkedin.com/in/sam-mccandlish',NULL,'AGI organization',NULL,'intern','AI safety') /*Reviewed on 2023-10-09*/
     /*,('Sandy Huang','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/adversarial-example-research/',NULL,NULL,NULL,NULL,'AI safety')*/
-    ,('Sarah Shoker','OpenAI','Research Scientist','2021-09-01','month', NULL, NULL,'https://www.linkedin.com/in/sarahshoker/',NULL, 'AGI organization',NULL, 'full-time','AI safety')
+    ,('Sarah Shoker','OpenAI','Research Scientist','2021-09-01','month', NULL, NULL,'https://www.linkedin.com/in/sarahshoker/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-10-09*/
     ,('Sarthak Agrawal','OpenAI','Safety Analyst','2021-05-01','month', NULL, NULL,'https://www.linkedin.com/in/sarthaksagrawal/',NULL, 'AGI organization',NULL, NULL,'AI safety')
     ,('Scott Gray','OpenAI','Member of Technical Staff','2016-07-01','month',NULL,NULL,'https://blog.openai.com/team-update-august/ https://www.linkedin.com/in/scott-gray-569704/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Shariq Hashme','OpenAI','Member of Technical Staff','2017-01-01','month','2017-09-01','month','https://blog.openai.com/team-update-january/ https://www.linkedin.com/in/hashme/',NULL,'AGI organization',NULL,NULL,'AI safety')
