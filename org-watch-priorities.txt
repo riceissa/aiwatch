@@ -15,7 +15,7 @@ and (last_major_data_update_date is null or datediff(curdate(), last_major_data_
 order by last_major_data_update_date;
 
 -- p3
-openai p3
+OpenAI p3
 Median Group p3
 Longview Philanthropy p3
 Center for Human-Compatible AI p3
@@ -23,16 +23,28 @@ Charity Science p3
 Theiss Research p3
 Center for Security and Emerging Technology p3
 Future of Life Institute p3
+-- query:
+select organization, last_major_data_update_date from organizations
+where organization in ('OpenAI','Median Group','Longview Philanthropy','Center for Human-Compatible AI','Charity Science','Theiss Research','Center for Security and Emerging Technology','Future of Life Institute')
+and (last_major_data_update_date is null or datediff(curdate(), last_major_data_update_date) > 548)
+order by last_major_data_update_date;
 
+-- p4
 Leverage Research p4
 FLOWERS p4
 Sentience Institute p4
 SENS Research Foundation p4
+-- query:
+select organization, last_major_data_update_date from organizations
+where organization in ('Leverage Research','FLOWERS','Sentience Institute','SENS Research Institute')
+and (last_major_data_update_date is null or datediff(curdate(), last_major_data_update_date) > 730)
+order by last_major_data_update_date;
 
+-- p5
 The Good Food Institute p5
 The Humane League p5
-Innovation for poverty action p5
-Mercy for Animals p5
+Innovation for Poverty Action p5
+Mercy For Animals p5
 Abdul Latif Jameel Poverty Action Lab p5
 Against Malaria Foundation p5
 Center for Global Development p5
@@ -40,3 +52,8 @@ Give Directly p5
 New Incentives p5
 Johns Hopkins Center for Health Security p5
 SCI Foundation p5
+-- query:
+select organization, last_major_data_update_date from organizations
+where organization in ('The Good Food Institute','The Humane League','Innovations for Poverty Action','Mercy For Animals','Abdul Latif Jameel Poverty Action Lab','Against Malaria Foundation','Center for Global Development','Give Directly','New Incentives','John Hopkins Center for Health Security','SCI Foundation')
+and (last_major_data_update_date is null or datediff(curdate(), last_major_data_update_date) > 1461)
+order by last_major_data_update_date;
