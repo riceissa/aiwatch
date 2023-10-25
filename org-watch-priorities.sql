@@ -62,7 +62,7 @@ where organization in (
   'Mercy For Animals',
   'New Incentives',
   'SCI Foundation',
-  'Suvita'
+  'Suvita',
   'The Good Food Institute',
   'The Humane League'
 ) and (last_major_data_update_date is null or datediff(curdate(), last_major_data_update_date) > 1461)
