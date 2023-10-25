@@ -41,7 +41,7 @@ where organization in (
   'FLOWERS',
   'Leverage Research',
   'Methuselah Foundation',
-  'SENS Research Institute',
+  'SENS Research Foundation',
   'Sentience Institute',
   'Sentience Politics'
 ) and (last_major_data_update_date is null or datediff(curdate(), last_major_data_update_date) > 730)
