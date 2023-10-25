@@ -31,12 +31,14 @@ order by last_major_data_update_date;
 
 -- p4
 Leverage Research p4
+Methuselah Foundation p4
 FLOWERS p4
 Sentience Institute p4
+Sentience Politics p4
 SENS Research Foundation p4
 -- query:
 select organization, last_major_data_update_date from organizations
-where organization in ('Leverage Research','FLOWERS','Sentience Institute','SENS Research Institute')
+where organization in ('Leverage Research','Methuselah Foundation','FLOWERS','Sentience Institute','Sentience Politics','SENS Research Institute')
 and (last_major_data_update_date is null or datediff(curdate(), last_major_data_update_date) > 730)
 order by last_major_data_update_date;
 
@@ -47,13 +49,16 @@ Innovation for Poverty Action p5
 Mercy For Animals p5
 Abdul Latif Jameel Poverty Action Lab p5
 Against Malaria Foundation p5
+Albert Schweitzer Foundation p5
 Center for Global Development p5
 Give Directly p5
+Lifespan Extension Advocacy Foundation p5
 New Incentives p5
 Johns Hopkins Center for Health Security p5
 SCI Foundation p5
+Suvita p5
 -- query:
 select organization, last_major_data_update_date from organizations
-where organization in ('The Good Food Institute','The Humane League','Innovations for Poverty Action','Mercy For Animals','Abdul Latif Jameel Poverty Action Lab','Against Malaria Foundation','Center for Global Development','Give Directly','New Incentives','John Hopkins Center for Health Security','SCI Foundation')
+where organization in ('The Good Food Institute','The Humane League','Innovations for Poverty Action','Mercy For Animals','Abdul Latif Jameel Poverty Action Lab','Against Malaria Foundation','Albert Schweitzer Foundation','Center for Global Development','Give Directly','Lifespan Extension Advocacy Foundation','New Incentives','John Hopkins Center for Health Security','SCI Foundation','Suvita')
 and (last_major_data_update_date is null or datediff(curdate(), last_major_data_update_date) > 1461)
 order by last_major_data_update_date;
