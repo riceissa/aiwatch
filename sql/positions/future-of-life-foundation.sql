@@ -1,0 +1,9 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values  
+     ('Anthony Aguirre', 'Future of Life Foundation', 'President', '2023-10-18', 'month', NULL, NULL, 'https://web.archive.org/web/20231018100948/https://www.flf.org/', NULL, 'Board member', 'Existential risk prevention') /*Reviewed on 2023-10-31*/ /*current position*/
+    ,('Josh Jacobson', 'Future of Life Foundation', 'Chief Operating Officer', '2023-10-18', 'month', NULL, NULL, 'https://web.archive.org/web/20231018100948/https://www.flf.org/', NULL, NULL, 'Existential risk prevention') /*Reviewed on 2023-10-31*/ /*current position*/
+    ,('Jaan Tallinn', 'Future of Life Foundation', 'Board of Directors', '2023-10-18', 'month', NULL, NULL, 'https://web.archive.org/web/20231018100948/https://www.flf.org/', 'Co-Founder of Skype, the Future of Life Institute, and the Cambridge Centre for the Study of Existential Risk', 'Board member', 'Existential risk prevention') /*Reviewed on 2023-10-31*/ /*current position*/
+    ,('Max Tegmark', 'Future of Life Foundation', 'Board of Directors', '2023-10-18', 'month', NULL, NULL, 'https://web.archive.org/web/20231018100948/https://www.flf.org/', 'President of the Future of Life Institute, MIT Professor, & Author of Life 3.0 and Our Mathematical Universe', 'Board member', 'Existential risk prevention') /*Reviewed on 2023-10-31*/ /*current position*/
+    ,('Meia Chita-Tegmark', 'Future of Life Foundation', 'Board of Directors', '2023-10-18', 'month', NULL, NULL, 'https://web.archive.org/web/20231018100948/https://www.flf.org/', 'Meia Chita-Tegmark, Co-Founder of the Future of Life Institute', 'Board member', 'Existential risk prevention') /*Reviewed on 2023-10-31*/ /*current position*/
+ 
+
+ 
