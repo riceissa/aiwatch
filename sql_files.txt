@@ -50,8 +50,9 @@ sql/positions/forethought.sql
 sql/positions/foundational-research-institute.sql
 sql/positions/ftx-future-fund.sql
 sql/positions/fund-for-alignment-research.sql
-sql/positions/future-of-life-institute.sql
 sql/positions/future-of-humanity-institute.sql
+sql/positions/future-of-life-foundation.sql
+sql/positions/future-of-life-institute.sql
 sql/positions/gcri.sql
 sql/positions/generation-pledge.sql
 sql/positions/gfi.sql
