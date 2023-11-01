@@ -38,7 +38,7 @@ create table positions(
     subject enum('technical research','software engineering','background','popularization','general','policy','scientific advising','grant investigation','strategy'),
 
     employment_type enum('full-time','part-time','contractor','intern','undergraduate student','graduate student','postdoc','board member','associate','advisor','volunteer','affiliate'),
-    cause_area enum('AI safety','Global health and poverty','Effective altruism','Animal welfare','Cause prioritization', 'Forecasting', 'Longevity', 'Longtermism', 'Medicine', 'Politics', 'Suffering-focused ethics'),
+    cause_area enum('AI safety','Global health and poverty','Effective altruism','Animal welfare','Cause prioritization', 'Existential risk prevention', 'Forecasting', 'Longevity', 'Longtermism', 'Medicine', 'Politics', 'Suffering-focused ethics'),
     notes varchar(2000) default null,
     check (start_date <= end_date),
     check (NOT (start_date = end_date and start_date_precision = 'day' and end_date_precision = 'day'))
