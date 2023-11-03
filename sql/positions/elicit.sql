@@ -8,7 +8,7 @@
     ,('Jungwon Byun', 'Elicit', 'Cofounder & COO', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jungwonbyun/ https://web.archive.org/web/20231103160743/https://elicit.com/team', NULL, 'Full-time', NULL)/*Reviewed as of 2023-11-03*/ /*current position*/
     ,('Justin Reppert', 'Elicit', 'Machine Learning Research Engineer', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/justinreppert/ https://web.archive.org/web/20231103160743/https://elicit.com/team', NULL, 'Full-time', NULL) /*Reviewed as of 2023-11-03*/ /*current position*/
     ,('Luke Stebbing', 'Elicit', 'Software Engineer', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/luke-stebbing-38897b3/ https://web.archive.org/web/20231103160743/https://elicit.com/team', NULL, 'Full-time', NULL) /*Reviewed as of 2023-11-03*/ /*current position*/
-    ('Sarah Park', 'Elicit', 'Head of Operations', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/park-sarah/ https://web.archive.org/web/20231103160743/https://elicit.com/team', NULL, NULL, NULL)/*Reviewed as of 2023-11-03*/ /*current position*/
+    ,('Sarah Park', 'Elicit', 'Head of Operations', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/park-sarah/ https://web.archive.org/web/20231103160743/https://elicit.com/team', NULL, NULL, NULL)/*Reviewed as of 2023-11-03*/ /*current position*/
 
  
  
