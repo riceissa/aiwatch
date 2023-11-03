@@ -41,6 +41,7 @@ sql/positions/ea-foundation.sql
 sql/positions/ea-retreats.sql
 sql/positions/effective-altruism-funds.sql
 sql/positions/effective-altruism-geneva.sql
+sql/positions/elicit.sql
 sql/positions/encultured-ai.sql
 sql/positions/epoch.sql
 sql/positions/farmed-animal-funders.sql
