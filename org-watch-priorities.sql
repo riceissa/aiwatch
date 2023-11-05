@@ -2,7 +2,7 @@
 -- Goal is that last_major_data_update_date should be at most half a year old
 -- This includes leading orgs working in AI safety, effective altruism meta,
 -- and the biggest grantmakers / grant influencers
-select "p1", organization, last_major_data_update_date from organizations
+select 'p1' as priority, organization, last_major_data_update_date from organizations
 where organization in (
   'AI Impacts',
   'Centre for Effective Altruism',
@@ -18,9 +18,10 @@ order by last_major_data_update_date;
 -- This includes orgs working in AI safety or other GCRs, including orgs
 -- that play a supporting role; it also includes evaluator and EA meta orgs;
 -- by and large, we avoid putting very large orgs at p2
-select "p2", organization, last_major_data_update_date from organizations
+select 'p2' as priority, organization, last_major_data_update_date from organizations
 where organization in (
   '80,000 Hours',
+  'AI Safety Camp',
   'Alignment Research Center',
   'Animal Charity Evaluators',
   'Berkeley Existential Risk Initiative',
@@ -37,7 +38,7 @@ order by last_major_data_update_date;
 -- This includes orgs working in AI safety and other GCRS, including orgs
 -- that play a supporting role; the main distinction between p2 and p3
 -- is that p2 orgs tend to be some combination of smaller and more important
-select "p3", organization, last_major_data_update_date from organizations
+select 'p3' as priority, organization, last_major_data_update_date from organizations
 where organization in (
   'Anthropic', -- this is a small org right now in Org Watch, but is expected to have grown quite a bit and is expected to continue to grow more
   'Center for AI Safety',
@@ -56,7 +57,7 @@ where organization in (
   'Leverhulme Centre for the Future of Intelligence',
   'Longview Philanthropy',
   'Median Group',
-  'Nonlinear Fund', -- consider rebranding to Nonlinear as they seem to have rebranded to remove the "Fund" from their org name
+  'Nonlinear Fund', -- consider rebranding to Nonlinear as they seem to have rebranded to remove the 'Fund' from their org name
   'OpenAI',
   'Theiss Research'
 ) and (last_major_data_update_date is null or datediff(curdate(), last_major_data_update_date) > 548)
@@ -67,7 +68,7 @@ order by last_major_data_update_date;
 -- This includes orgs further down than p3 in importance or bigger in size;
 -- it mostly doesn't include AI safety orgs as those are p3 or higher;
 -- however, it does include other GCR orgs, EA meta, and the smaller animal welfare meta orgs
-select "p4", organization, last_major_data_update_date from organizations
+select 'p4' as priority, organization, last_major_data_update_date from organizations
 where organization in (
   'Alvea',
   'Centre for the Study of Existential Risk',
@@ -95,7 +96,7 @@ order by last_major_data_update_date;
 -- Goal is that last_major_data_update_date should be at most 4 years old
 -- This includes orgs in object-level (not meta) areas prioritized in EA,
 -- and is limited to orgs with fewer than 150 people
-select "p5", organization, last_major_data_update_date from organizations
+select 'p5' as priority, organization, last_major_data_update_date from organizations
 where organization in (
   'Against Malaria Foundation',
   'Albert Schweitzer Foundation',
@@ -121,7 +122,7 @@ order by last_major_data_update_date;
 -- Goal is that last_major_data_update_date should be at most 8 years old
 -- This includes a large org (100+ people, usually 150+ people) that are impractical to update
 -- and are not super-interesting to us
-select "p6", organization, last_major_data_update_date from organizations
+select 'p6' as priority, organization, last_major_data_update_date from organizations
 where organization in (
   'Abdul Latif Jameel Poverty Action Lab',
   'Center for Global Development',
