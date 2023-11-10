@@ -7,6 +7,7 @@ sql/positions/abdul-latif-jameel-poverty-action-lab.sql
 sql/positions/ace.sql
 sql/positions/ai-challenge.sql
 sql/positions/ai-impacts.sql
+sql/positions/ai-safety-camp.sql
 sql/positions/albert-schweitzer-foundation.sql
 sql/positions/alignment-research-center.sql
 sql/positions/alter.sql
