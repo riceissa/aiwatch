@@ -1,11 +1,15 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
-     ('Adam Shimi', organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area)
-    ,('Andrew Player', 'AI Safety Camp', 'Organizer (Logistics)', '2020-05-01', 'month', '2020-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Virtual', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/     
+     /*('Adam Shimi', organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area)*/
+    ('Andrew Player', 'AI Safety Camp', 'Organizer (Logistics)', '2020-05-01', 'month', '2020-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Virtual', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/  
+    ,('Brandon Perry', 'AI Safety Camp', 'Organizer (Program coordination)', '2019-05-01', 'month', '2019-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Madrid', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/     
     ,('Colin Bested', 'AI Safety Camp', 'Organizer (main coordinator)', '2020-05-01', 'month', '2020-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Virtual', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/
     ,('Cynthia Yoon', 'AI Safety Camp', 'Organizer (Program, Funding)', '2020-05-01', 'month', '2020-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Virtual', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/
     ,('David Lindner', 'AI Safety Camp', 'Organizer (Topic coordination)', '2019-05-01', 'month', '2019-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Madrid', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/      
+    ,('Fabian Steuer', 'AI Safety Camp', 'Organizer (Topic coordination)', '2019-05-01', 'month', '2019-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Madrid', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/  
     ,('JJ Hepburn', 'AI Safety Camp', 'Organizer (Applications, Topic & Team deliberations)', '2020-05-01', 'month', '2020-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Virtual', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/    
     ,('Kristi Uustalu', 'AI Safety Camp', 'Operations Coordinator', '2021-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kristi-uustalu-586800233/?originalSubdomain=uk', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/
+    ,('Johannes Heidecke', 'AI Safety Camp', 'Organizer (Funding, Advisor)', '2019-05-01', 'month', '2019-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Madrid', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/    
+    ,('Kristina Nemcova', 'AI Safety Camp', 'Organizer (Participant coordination)', '2019-05-01', 'month', '2019-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Madrid', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/    
     ,('Linda Linsefors', 'AI Safety Camp', 'Research Coordinator', '2022-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dr-linda-linsefors-a2158ba2/?originalSubdomain=se
 ', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/
     ,('Nix Goldowsky-Dill', 'AI Safety Camp', 'Organizer (Team mentorship)', '2020-05-01', 'month', '2020-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Virtual', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/  
@@ -15,27 +19,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Sabrina Kavanagh', 'AI Safety Camp', 'Organizer (Applications)', '2019-05-01', 'month', '2019-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Madrid', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/        
     ,('Sai Joseph', 'AI Safety Camp', 'Participant Facilitation', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', NULL, NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/
     ,('Sebastian Kosch ', 'AI Safety Camp', 'Organizer (Participant communications)', '2020-05-01', 'month', '2020-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Virtual', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/
+    ,('Tomáš Gavenčiak', 'AI Safety Camp', 'Organizer (Supervisor communication, Coaching)', '2019-05-01', 'month', '2019-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Madrid', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/    
+
+
  
 
-
-
- 
 /*Past organizers of AI Safety Camps were volunteers and mainly past participants. 
-
-
- 
-
-#3. Physical
-Madrid  (May 2019)
-Remmelt Ellen  (Main coordination)
-Sabrina Kavanagh  (Applications)
-David Lindner  (Topic coordination)
-Fabian Steuer  (Topic coordination)
-Kristina Nemcova  (Participant coordination)
-Brandon Perry  (Program coordination)
-Tomáš Gavenčiak  (Supervisor communication, Coaching)
-Johannes Heidecke  (Funding, Advisor)
-→ See research summaries.
 
 
 
