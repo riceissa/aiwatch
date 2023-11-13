@@ -1,10 +1,12 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
      /*('Adam Shimi', organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area)*/
-    ('Andrew Player', 'AI Safety Camp', 'Organizer (Logistics)', '2020-05-01', 'month', '2020-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Virtual', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/   
+    ('Andrew Player', 'AI Safety Camp', 'Organizer (Logistics)', '2020-05-01', 'month', '2020-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Virtual', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/  
+    ,('Anne Wissemann', 'AI Safety Camp', 'Organizer (on-the-ground operations)', '2018-04-01', 'month', '2018-04-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Gran Canaria', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-13*/        
     ,('Anne Wissemann', 'AI Safety Camp', 'Organizer (Participant coordination)', '2019-10-01', 'month', '2019-10-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Prague', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/      
     ,('Brandon Perry', 'AI Safety Camp', 'Organizer (Program coordination)', '2019-05-01', 'month', '2019-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Madrid', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/   
     ,('Colin Bested', 'AI Safety Camp', 'Organizer (main coordinator)', '2020-05-01', 'month', '2020-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Virtual', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/  
-    ,('Cynthia Yoon', 'AI Safety Camp', 'Organizer (Program, Funding)', '2020-05-01', 'month', '2020-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Virtual', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/  
+    ,('Cynthia Yoon', 'AI Safety Camp', 'Organizer (Program, Funding)', '2020-05-01', 'month', '2020-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Virtual', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ 
+    ,('David Kristoffersson', 'AI Safety Camp', 'Organizer (international connector)', '2018-04-01', 'month', '2018-04-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Gran Canaria', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-13*/    
     ,('David Lindner', 'AI Safety Camp', 'Organizer (Topic coordination)', '2019-05-01', 'month', '2019-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Madrid', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/      
     ,('Fabian Steuer', 'AI Safety Camp', 'Organizer (Topic coordination)', '2019-05-01', 'month', '2019-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Madrid', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ 
     ,('JJ Hepburn', 'AI Safety Camp', 'Organizer (Applications, Topic & Team deliberations)', '2020-05-01', 'month', '2020-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Virtual', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ 
@@ -13,12 +15,17 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jiří Nadvorník', 'AI Safety Camp', 'Organizer (Program coordination)', '2019-10-01', 'month', '2019-10-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Prague', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ 
     ,('Johannes Heidecke', 'AI Safety Camp', 'Organizer (Funding, Advisor)', '2019-05-01', 'month', '2019-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Madrid', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ 
     ,('Johannes Heidecke', 'AI Safety Camp', 'Organizer (Main coordination)', '2019-10-01', 'month', '2019-10-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Prague', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/  
+    ,('Karol Kubicki', 'AI Safety Camp', 'Organizer (venue logistics)', '2018-04-01', 'month', '2018-04-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Gran Canaria', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-13*/  
     ,('Kristi Uustalu', 'AI Safety Camp', 'Operations Coordinator', '2021-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kristi-uustalu-586800233/?originalSubdomain=uk', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/
     ,('Kristina Nemcova', 'AI Safety Camp', 'Organizer (Participant coordination)', '2019-05-01', 'month', '2019-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Madrid', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/    
     ,('Kristina Nemcova', 'AI Safety Camp', 'Organizer (Logistics)', '2019-10-01', 'month', '2019-10-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Prague', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/    
-    ,('Linda Linsefors', 'AI Safety Camp', 'Research Coordinator', '2022-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dr-linda-linsefors-a2158ba2/?originalSubdomain=se
-', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/
+    ,('Linda Linsefors', 'AI Safety Camp', 'Organizer (initiator of the program)', '2018-04-01', 'month', '2018-04-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Gran Canaria', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-13*/        
+    ,('Linda Linsefors', 'AI Safety Camp', 'Research Coordinator', '2022-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dr-linda-linsefors-a2158ba2/?originalSubdomain=se', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/
+    ,('Maia Pasek', 'AI Safety Camp', 'Organizer (location initiator)', '2018-04-01', 'month', '2018-04-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Gran Canaria', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-13*/ 
+    ,('Markus Salmela', 'AI Safety Camp', 'Organizer (interviews assistance)', '2018-04-01', 'month', '2018-04-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Gran Canaria', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-13*/    
+    ,('Nandi Schoots', 'AI Safety Camp', 'Organizer (interviews, program design)', '2018-04-01', 'month', '2018-04-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Gran Canaria', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-13*/    
     ,('Nix Goldowsky-Dill', 'AI Safety Camp', 'Organizer (Team mentorship)', '2020-05-01', 'month', '2020-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Virtual', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/  
+    ,('Remmelt Ellen', 'AI Safety Camp', 'Organizer (meetings, logistics)', '2018-04-01', 'month', '2018-04-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Gran Canaria', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-13*/        
     ,('Remmelt Ellen', 'AI Safety Camp', 'Organizer (Main coordination)', '2019-05-01', 'month', '2019-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Madrid', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/   
     ,('Remmelt Ellen', 'AI Safety Camp', 'Organizer (Advisor)', '2019-10-01', 'month', '2019-10-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Prague', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/      
     ,('Remmelt Ellen', 'AI Safety Camp', 'Organizer (Virtual pivot)', '2020-05-01', 'month', '2020-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', NULL, NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/         
@@ -27,25 +34,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Sai Joseph', 'AI Safety Camp', 'Participant Facilitation', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', NULL, NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/
     ,('Sebastian Kosch ', 'AI Safety Camp', 'Organizer (Participant communications)', '2020-05-01', 'month', '2020-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Virtual', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/
     ,('Tomáš Gavenčiak', 'AI Safety Camp', 'Organizer (Supervisor communication, Coaching)', '2019-05-01', 'month', '2019-05-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Madrid', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-11*/ /*current position*/    
+    ,('Tom McGrath', 'AI Safety Camp', 'Organizer (team preparation)', '2018-04-01', 'month', '2018-04-01', NULL, 'https://web.archive.org/web/20220809220555/https://aisafety.camp/organizers/', 'Physical presence, in Gran Canaria', NULL, NULL, 'volunteer', 'AI safety') /*Reviewed on 2023-11-13*/    
 
 
  
 
-/*Past organizers of AI Safety Camps were volunteers and mainly past participants. 
-
-
-
-
-
-→ See research summaries.
-#1. Physical
-Gran Canaria  (Apr 2018)
-Linda Linsefors  (initiator of the program)
-Nandi Schoots  (interviews, program design)
-Markus Salmela  (interviews assistance)
-Remmelt Ellen  (meetings, logistics)
-Tom McGrath  (team preparation)
-David Kristoffersson  (international connector)
-Anne Wissemann  (on-the-ground operations)
-Maia Pasek  (location initiator)
-Karol Kubicki  (venue logistics)*/
+ 
