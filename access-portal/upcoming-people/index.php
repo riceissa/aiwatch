@@ -27,6 +27,8 @@ if ($subdomain != "aiwatch") {
 
 <h1>Upcoming AI safety people</h1>
 
+<p><b>The information on this page was last updated in 2018.</b></p>
+
 <p>This page tracks people who are currently training to work on AI
   safety, but have not held positions at organizations or published
   work. The idea is to stay “one step ahead” by knowing which people
