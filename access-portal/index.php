@@ -84,7 +84,13 @@ if ($_REQUEST['person'] ?? '') {
 
 <p>
 <?php if ($subdomain === "aiwatch") { ?>
-  Welcome! This is a website to track people and organizations working on AI safety.
+  Welcome! This is a website to track people and organizations in the AI safety/alignment/AI existential risk communities.
+  A position or organization being on AI Watch does not indicate an assessment that that position or organization
+  is actually making AI safer or that the position or organization is good for the world in any way.  It is mostly
+  a sociological indication that the position or organization is associated with these communities, as well as an
+  indication that the position or organization <a href="https://www.lesswrong.com/posts/xhD6SHAAE9ghKZ9HS/safetywashing"><em>claims</em>
+  to be working on AI safety or alignment</a>.  (There are some
+  plans to eventually introduce such assessments on AI Watch, but for now there are none.)
 <?php } else { ?>
   Welcome! This is a website to track people and organizations.
 <?php } ?>
