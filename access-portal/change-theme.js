@@ -15,15 +15,18 @@ function change_theme_read_cookie(name) {
 function change_theme_color() {
   if (document.body.classList.contains("dark")) {
     document.body.classList.remove("dark");
-    document.cookie = 'colorCookie=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; SameSite=None; Secure';
+    document.cookie = 'colorCookie=light; max-age=31536000; path=/; SameSite=None; Secure';
   } else {
     document.body.classList.add("dark");
     document.cookie = 'colorCookie=dark; max-age=31536000; path=/; SameSite=None; Secure';
   }
 }
 
-function set_theme_from_cookies() {
-  if (change_theme_read_cookie("colorCookie")) {
+function set_theme_from_cookies_or_browser_preference() {
+  let colorCookie = change_theme_read_cookie("colorCookie");
+  if (colorCookie === "dark") {
     document.body.classList.add("dark");
+  } else if (colorCookie === null && window.matchMedia("(prefers-color-scheme: dark)").matches) {
+    change_theme_color();
   }
 }
