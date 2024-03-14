@@ -6,7 +6,7 @@ create table organizations(
     website varchar(100),
     team_page varchar(200),
     contact_email varchar(42),
-    country varchar(40),  # Country of main activity
+    country varchar(200),  # Country of main activity
     launch_date date,
     launch_date_precision enum('day','month','year','multi-year'),
     launch_date_url varchar(200),
