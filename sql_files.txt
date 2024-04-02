@@ -62,6 +62,7 @@ sql/positions/give-directly.sql
 sql/positions/givewell.sql
 sql/positions/good-forever.sql
 sql/positions/goodai.sql
+sql/positions/google-deep-mind.sql
 sql/positions/gwwc.sql
 sql/positions/happier-lives-institute.sql
 sql/positions/high-impact-athletes.sql
