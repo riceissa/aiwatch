@@ -38,7 +38,7 @@ if (($_REQUEST['by'] ?? '') && ($_REQUEST['for'] ?? '')) {
 <?php include_once("navbar.inc"); ?>
   <script>
     document.getElementById('changeThemeMenu').style.display='inline';
-    set_theme_from_cookies();
+    set_theme_from_cookies_or_browser_preference();
   </script>
 <?php
 include_once("backend/util.inc");
