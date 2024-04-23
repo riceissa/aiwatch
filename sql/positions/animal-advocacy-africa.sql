@@ -1,5 +1,4 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
-   
      ('Brett Thompson', 'Animal Advocacy Africa', 'Advisor', '2020-12-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220315234328/https://www.animaladvocacyafrica.org/team https://www.linkedin.com/in/brett-thompson-6893171b/', NULL, 'Advisor', 'Animal welfare')
     ,('Brett Thompson', 'Animal Advocacy Africa', 'Co-founder', '2020-12-01', 'month', NULL, NULL, 'https://web.archive.org/web/20201228011953/https://www.animaladvocacyafrica.org/about', NULL, NULL, 'Animal welfare')
     ,('Calvin Solomon', 'Animal Advocacy Africa', 'Advisor', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20201228011953/https://www.animaladvocacyafrica.org/about', NULL, 'Advisor', 'Animal welfare')
