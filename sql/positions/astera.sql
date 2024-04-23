@@ -1,5 +1,4 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
-
      ('Adam Marblestone','Astera Institute','Research Director, Longevity', '2021-01-01', 'month',NULL,NULL,'https://web.archive.org/web/20210721224630/https://astera.org/about/ https://www.linkedin.com/in/adam-marblestone-87202813/',NULL,'part-time',NULL)
     ,('Anastasia Gamick','Astera Institute','Project Manager, FROs, Longevity', '2021-06-01', 'month',NULL,NULL,'https://web.archive.org/web/20210721224630/https://astera.org/about/ https://www.linkedin.com/in/anastasiagamick/',NULL,NULL,'Longevity')
     ,('Benjamin Reinhardt','Astera Institute','Research Fellow, Metascience', '2021-01-01', 'year',NULL,NULL,'https://web.archive.org/web/20210721224630/https://astera.org/about/',NULL,NULL,NULL)
