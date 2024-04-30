@@ -1,6 +1,6 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
      ('Abhishek Rao', 'Google DeepMind', 'Research Engineer', '2023-05-01', 'month', NULL, NULL, 'https://www.signalhire.com/profiles/abhishek-rao%27s-email/1754960', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/ 
-     ('Aditya Srikanth Veerubhotla', 'Google DeepMind', 'Research Engineer', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/aditya-srikanth-veerubhotla/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/ 
+    ,('Aditya Srikanth Veerubhotla', 'Google DeepMind', 'Research Engineer', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/aditya-srikanth-veerubhotla/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/ 
     ,('Andrew Lefrancq','Google DeepMind','Program Manager','2016-01-01','month','2020-04-01','month','https://www.linkedin.com/in/alefrancq',NULL,NULL,NULL,NULL,'AI safety') /*closed*/
     ,('Andrew Lefrancq','Google DeepMind','Senior Program Manager','2017-11-01','month','2017-11-01','month','https://www.linkedin.com/in/alefrancq',NULL,NULL,NULL,NULL,'AI safety') /*closed*/
     ,('Andrew Lefrancq','Google DeepMind','Lead Program Manager, AI Research','2020-05-01','month','2023-04-01','month','https://www.linkedin.com/in/alefrancq',NULL,NULL,NULL,NULL,'AI safety') /*closed*/
