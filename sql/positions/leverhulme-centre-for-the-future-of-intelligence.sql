@@ -1,5 +1,5 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
-    ,('Adrian Weller','Leverhulme Centre for the Future of Intelligence','Project Leader',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/adrian-weller/',NULL,NULL,NULL,NULL,'AI safety')
+     ('Adrian Weller','Leverhulme Centre for the Future of Intelligence','Project Leader',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/adrian-weller/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Alan Winfield','Leverhulme Centre for the Future of Intelligence','Associate Fellow',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/alan-winfield/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Alison Gopnik','Leverhulme Centre for the Future of Intelligence','External Advisor',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/alison-gopnik/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Andrew Snyder-Beattie','Leverhulme Centre for the Future of Intelligence','Research Exercise Leader',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/andrew-snyder-beattie/',NULL,NULL,NULL,NULL,'AI safety')
