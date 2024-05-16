@@ -1,6 +1,4 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
-  
-
      ('Alison Lowndes', 'General AI Challenge', 'Advisor', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20210613020011/https://www.general-ai-challenge.org/team', NULL, 'Advisor', 'AI safety')
     ,('Ayako Fukui', 'General AI Challenge', 'Advisor', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20210613020011/https://www.general-ai-challenge.org/team', NULL, 'Advisor', 'AI safety')
     ,('Danit Gal', 'General AI Challenge', 'Advisor', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20210613020011/https://www.general-ai-challenge.org/team', NULL, 'Advisor', 'AI safety')
@@ -14,7 +12,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Julian Togelius', 'General AI Challenge', 'Advisor', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20210613020011/https://www.general-ai-challenge.org/team', NULL, 'Advisor', 'AI safety')
     ,('Ling Ge', 'General AI Challenge', 'Advisor', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20210613020011/https://www.general-ai-challenge.org/team', NULL, 'Advisor', 'AI safety')
     ,('Marek Havrda', 'General AI Challenge', 'Challenge Ambassador', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20210613020011/https://www.general-ai-challenge.org/team', NULL, NULL, 'AI safety')
-    ,('Marek Rosa', 'General AI Challenge', 'Founder', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20210613020011/https://www.general-ai-challenge.org/team', NULL, NULL, 'AI safety')
+    ,('Marek Rosa', 'General AI Challenge', 'Founder', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20210613020011/https://www.general-ai-challenge.org/team https://web.archive.org/web/20240514045619/https://www.goodai.com/research/ai-challenge/team/', NULL, NULL, 'AI safety') /*Reviewed on 2024-05-14*/ /*current position*/
     ,('Miles Brundage', 'General AI Challenge', 'Advisor', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20210613020011/https://www.general-ai-challenge.org/team', NULL, 'Advisor', 'AI safety')
     ,('Olga Afanasjeva', 'General AI Challenge', 'Advisor', '2017-02-01', 'month', NULL, NULL, 'https://web.archive.org/web/20210613020011/https://www.general-ai-challenge.org/team https://www.linkedin.com/in/afanasjevaolga/', NULL, 'Advisor', 'AI safety')
     ,('Pavel Kordik', 'General AI Challenge', 'Advisor', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20210613020011/https://www.general-ai-challenge.org/team', NULL, 'Advisor', 'AI safety')
@@ -24,4 +22,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Tak Lo', 'General AI Challenge', 'Advisor', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20210613020011/https://www.general-ai-challenge.org/team', NULL, 'Advisor', 'AI safety')
     ,('Tomas Mikolov', 'General AI Challenge', 'Advisor', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20210613020011/https://www.general-ai-challenge.org/team', NULL, 'Advisor', 'AI safety')
     ,('Virginia Dignum', 'General AI Challenge', 'Advisor', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20210613020011/https://www.general-ai-challenge.org/team', NULL, 'Advisor', 'AI safety')
-    ,('Will Millership', 'General AI Challenge', 'Challenge Director', '2017-08-01', 'month', '2021-08-01', 'month', 'https://web.archive.org/web/20210613020011/https://www.general-ai-challenge.org/team https://www.linkedin.com/in/will-millership-98393b58/details/experience/', NULL, NULL, 'AI safety')
+    ,('Will Millership', 'General AI Challenge', 'Challenge Director', '2017-08-01', 'month', '2021-08-01', 'month', 'https://web.archive.org/web/20210613020011/https://www.general-ai-challenge.org/team https://www.linkedin.com/in/will-millership-98393b58/details/experience/', NULL, NULL, 'AI safety') /*closed*/
