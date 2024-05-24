@@ -108,6 +108,7 @@ sql/positions/survival-and-flourishing.org.sql
 sql/positions/suvita.sql
 sql/positions/the-humane-league.sql
 sql/positions/theiss-research.sql
+sql/positions/tlon.sql
 sql/positions/training-for-good.sql
 sql/positions/utility-farm.sql
 sql/positions/wasr.sql
