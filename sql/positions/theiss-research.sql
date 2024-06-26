@@ -3,7 +3,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Karina Torres Castro', 'Theiss Research', 'Project Engineer', '2023-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/karina-torres-castro-553ba687/', NULL, NULL, NULL, 'Part-time', 'AI safety') /*Reviewed on 2023-09-04*/ /*current position*/
     ,('Long Ouyang','Theiss Research',NULL,NULL,NULL,NULL,NULL,'https://futureoflife.org/first-ai-grant-recipients/','One of 37 AGI Safety Researchers of 2015 funded by donations from Elon Musk and the Open Philanthropy Project',NULL,NULL,NULL,'AI safety')
     ,('Paul Christiano','Theiss Research','Contractor',NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1606.06565.pdf',NULL,'position',NULL,'contractor','AI safety')
-    ,('Rebecca Bone', 'Theiss Research', 'Postdoctoral Researcher', '2022-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rebecca-bone-374b25128/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2023-09-04*/ /*current position*/
+    ,('Rebecca Bone', 'Theiss Research', 'Postdoctoral Researcher', '2022-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rebecca-bone-374b25128/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-06-25*/ /*current position*/
     ,('Rodrigo Duran', 'Theiss Research', 'Principal Research Scientist', '2017-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/r-duran/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-09-04*/ /*current position*/
     ,('Soraya Bernal', 'Theiss Research', 'Administrative Assistant', NULL, NULL, NULL, NULL, 'https://www.linkedin.com/in/soraya-bernal-25308825b/', NULL, NULL, NULL, 'Part-time', 'AI safety') /*Reviewed on 2023-09-04*/ /*current position*/
     
