@@ -1,6 +1,4 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
-  
-
      ('Adam Trotman','Alvea',NULL, '2022-02-01','month',NULL,NULL,'https://web.archive.org/web/20220204171534/https://www.alvea.bio/',NULL,NULL,NULL,NULL,NULL)
     ,('Alexander Large','Alvea', 'Head of Shared Knowledge', '2022-01-01','month',NULL,NULL,'https://web.archive.org/web/20220204171534/https://www.alvea.bio/ https://www.linkedin.com/in/alexanderklarge/',NULL,NULL,NULL, 'Contractor',NULL)
     ,('Althea McLaughlin','Alvea',NULL, '2022-02-01','month',NULL,NULL,'https://web.archive.org/web/20220204171534/https://www.alvea.bio/',NULL,NULL,NULL,NULL,NULL)
@@ -13,9 +11,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Chris Painter','Alvea',NULL, '2022-02-01','month',NULL,NULL,'https://web.archive.org/web/20220204171534/https://www.alvea.bio/',NULL,NULL,NULL,NULL,NULL)
     ,('Connor Flexman','Alvea', 'Clinical Team', '2022-01-01','month',NULL,NULL,'https://web.archive.org/web/20220204171534/https://www.alvea.bio/ https://www.linkedin.com/in/connor-flexman-2b01866a/',NULL,NULL,NULL, 'full-time',NULL)
     ,('Dylan Miars','Alvea',NULL, '2022-02-01','month',NULL,NULL,'https://web.archive.org/web/20220204171534/https://www.alvea.bio/',NULL,NULL,NULL,NULL,NULL)
-    ,('Ethan Alley','Alvea', 'Co-CEO', '2022-02-01','month',NULL,NULL,'https://web.archive.org/web/20220204171534/https://www.alvea.bio/ https://forum.effectivealtruism.org/posts/67awq5ozeYSjsYchk/announcing-alvea-an-ea-covid-vaccine-project',NULL,NULL,NULL,NULL,NULL)
+    ,('Ethan Alley','Alvea', 'board member', '2022-02-01','month',NULL,NULL,'https://web.archive.org/web/20220204171534/https://www.alvea.bio/ https://forum.effectivealtruism.org/posts/67awq5ozeYSjsYchk/announcing-alvea-an-ea-covid-vaccine-project https://web.archive.org/web/20240704040636/https://www.alvea.bio/team/',NULL,NULL,NULL,'Board-member',NULL) /*Reviewed on 2024-07-04*/ /*current position*/  
     ,('Gianni Bennardo','Alvea', 'Trial Operations & Strategy', '2021-12-01','month',NULL,NULL,'https://web.archive.org/web/20220204171534/https://www.alvea.bio/ https://www.linkedin.com/in/gianni-bennardo/',NULL,NULL,NULL,NULL,NULL)
-    ,('Grigory Khimulya','Alvea', 'Co-CEO', '2021-01-01','month',NULL,NULL,'https://web.archive.org/web/20220204171534/https://www.alvea.bio/ https://www.linkedin.com/in/grigorykhimulya/?_l=es_ES',NULL,NULL,NULL,NULL,NULL)
+    ,('Grigory Khimulya','Alvea', 'Co-CEO', '2021-01-01','month',NULL,NULL,'https://web.archive.org/web/20220204171534/https://www.alvea.bio/ https://www.linkedin.com/in/grigorykhimulya ',NULL,NULL,NULL,NULL,NULL)
     ,('James Smith','Alvea',NULL, '2022-02-01','month',NULL,NULL,'https://web.archive.org/web/20220204171534/https://www.alvea.bio/',NULL,NULL,NULL,NULL,NULL)
     ,('Jamie Balsillie','Alvea',NULL, '2022-02-01','month',NULL,NULL,'https://web.archive.org/web/20220204171534/https://www.alvea.bio/',NULL,NULL,NULL,NULL,NULL)
     ,('Johnson Ramsaur','Alvea', 'Internal Ops', '2021-12-01','month',NULL,NULL,'https://web.archive.org/web/20220204171534/https://www.alvea.bio/ https://www.linkedin.com/in/johnsonramsaur/',NULL,NULL,NULL, 'full-time',NULL)
