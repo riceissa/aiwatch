@@ -64,6 +64,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Ole Martin Moen', 'Center on Long-Term Risk', 'Advisor', '2020-05-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200513045048/https://longtermrisk.org/team/ https://web.archive.org/web/20221013220337/https://longtermrisk.org/team/', NULL, 'Advisor', 'Cause prioritization') /* Reviewed on 2023-07-21 */ /*Current position*/ 
     ,('Olle Häggström', 'Center on Long-Term Risk', 'Advisor', '2020-05-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200513045048/https://longtermrisk.org/team/ https://web.archive.org/web/20230719224656/https://longtermrisk.org/team/', NULL, 'Advisor', 'Cause prioritization')  /* Reviewed on 2023-07-19 */ /*Current position*/
     ,('Paul Knott','Center on Long-Term Risk','Researcher', '2021-04-01', 'month',NULL,NULL,'https://web.archive.org/web/20210423180846/https://longtermrisk.org/team/ https://web.archive.org/web/20230719224656/https://longtermrisk.org/team/',NULL,NULL, 'Cause prioritization') /* Reviewed on 2022-10-15 */  
+    ,('Quratul Aain Zainab', 'Center on Long-Term Risk', 'Summer Research Fellow', '2022-06-01', 'month', '2022-08-01', 'month', 'https://www.linkedin.com/in/qzainab/', NULL, NULL, 'Cause prioritization')  /*closed*/ 
     ,('Rory Svarc','Center on Long-Term Risk','Research fellow', '2021-07-01', 'month', '2021-11-01', 'month','https://web.archive.org/web/20210731154011/https://longtermrisk.org/team/ https://web.archive.org/web/20211117042450/https://longtermrisk.org/team/',NULL,NULL, 'Cause prioritization')  /*closed*/ 
     ,('Ruairí Donnelly', 'Center on Long-Term Risk', 'Director of Growth (cause prioritization)', '2020-05-01', NULL, '2021-01-01', 'month', 'https://web.archive.org/web/20200513045048/https://longtermrisk.org/team/ https://web.archive.org/web/20210118092904/https://longtermrisk.org/team/', NULL, NULL, 'Cause prioritization') /* Reviewed on 2022-10-13 */
     ,('Sara Haxhia','Center on Long-Term Risk','Project Manager: Operations & Community', '2021-10-01', 'month','2022-07-01', 'month','https://web.archive.org/web/20220109035734/https://longtermrisk.org/team/ https://www.linkedin.com/in/sara-haxhia-93b69213b/ https://web.archive.org/web/20220428132814/https://longtermrisk.org/team/',NULL, 'full-time', 'Cause prioritization') /*closed*/ 
@@ -81,4 +82,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
  
 
-/* Missing: Alan Chan, David Udell, Hjalmar Wijk, James Faville, Nathaniel Sauerberg, Nisan Stiennon, Quratul Zainab, Sylvester Kollin, Alex Lyzhov, Ali Merali,*/
+/* Missing: Alan Chan, David Udell, Hjalmar Wijk, James Faville, Nathaniel Sauerberg, Nisan Stiennon, Sylvester Kollin, Alex Lyzhov, Ali Merali,*/
