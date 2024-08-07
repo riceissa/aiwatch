@@ -106,6 +106,7 @@ and has been partially
 <a href="https://contractwork.vipulnaik.com/tasks.php?receptacle=<?php echo ($subdomain === "aiwatch" ? "AI+Watch" : "Org+Watch"); ?>&amp;matching=exact">funded by Vipul Naik</a>
 and <a href="https://matiroy.com/">Mati Roy</a> (who in July 2023 paid for the time Issa had spent answering people’s questions about AI Watch up until that point).</p>
 
+<!--
 <p><strong>If you like (or want to like) this website and have money:</strong> the current
 funder is mostly only funding data updates to existing organizations as well as
 adding data for some new effective altruist organizations. As a result, the site
@@ -120,6 +121,7 @@ site gets funding; see previous paragraph), recognition in the site credits,
 privilege of working with me, knowledge of the basics of web development
 (MySQL, PHP, Git). What the site needs: data collection/entry and website code
 improvements.</p>
+-->
 
 <p>Last updated on <?= $head_date ?>; see <a href="https://github.com/riceissa/aiwatch/commits/master">here</a> for a full list of recent changes.</p>
 
