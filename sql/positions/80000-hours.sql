@@ -1,11 +1,10 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values    
-   
-      ('Niel Bowerman', '80,000 Hours', 'Chief Executive Officer', '2024-04-29', 'month', NULL, NULL, 'https://web.archive.org/web/20240429224505/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')
+     ('Niel Bowerman', '80,000 Hours', 'Chief Executive Officer', '2024-04-29', 'month', NULL, NULL, 'https://web.archive.org/web/20240429224505/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
     ,('Abigail Hoskin', '80,000 Hours', 'Advisor', '2023-01-27', 'year', NULL, NULL, 'https://web.archive.org/web/20230127131327/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, 'Advisor', 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
     ,('Alex Holness-Tofts', '80,000 Hours', 'Headhunting Lead', '2024-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alex-holness-tofts-69838a18b https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
     ,('Alice De Gennaro', '80,000 Hours', 'Business Operations Associate', '2024-08-07', 'year', NULL, NULL, 'https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
     ,('Arden Koehler', '80,000 Hours', 'Website Director', '2022-06-30', 'year', NULL, NULL, 'https://web.archive.org/web/20220630105730/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
-    ,('Balázs Rapi', '80,000 Hours', 'Business Operations Specialist', '2024-04-29', 'year', '2024-02-25', 'month', 'https://web.archive.org/web/20240429224505/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
+    ,('Balázs Rapi', '80,000 Hours', 'Business Operations Specialist', '2024-04-29', 'year', NULL, NULL, 'https://web.archive.org/web/20240429224505/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
     ,('Bella Forristal', '80,000 Hours', 'Head of Marketing', '2023-01-27', 'year', NULL, NULL, 'https://web.archive.org/web/20230127131327/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
     ,('Brenton Mayer', '80,000 Hours', 'Chief Operating Officer', '2024-04-19', 'month', NULL, NULL, 'https://web.archive.org/web/20240429224505/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
     ,('Callum Evans', '80,000 Hours', 'People Operations Associate', '2024-08-07', 'year', NULL, NULL, 'https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
@@ -13,14 +12,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Conor Barnes', '80,000 Hours', 'Job Board Product Engineer', '2024-04-29', 'month', NULL, NULL, 'https://web.archive.org/web/20240429224505/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
     ,('Daniel Dewey', '80,000 Hours', 'Advisor', '2024-04-29', 'month', NULL, NULL, 'https://web.archive.org/web/20240429224505/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, 'Advisor', 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
     ,('Huon Porteous', '80,000 Hours', 'Advising Manager', '2024-04-29', 'month', NULL, NULL, 'https://web.archive.org/web/20240429224505/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, 'Advisor', 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
-
-
-
-
-
-
-
-
+    ,('Inés Fernandez', '80,000 Hours', 'Business Operations Associate', '2024-08-07', 'year', NULL, NULL, 'https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
 
 
 
