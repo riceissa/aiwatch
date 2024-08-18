@@ -78,31 +78,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Lalit Kumar', 'GiveWell', 'Research Council', '2024-05-27', 'month', NULL, NULL, 'https://web.archive.org/web/20240527225704/https://www.givewell.org/about/people https://web.archive.org/web/20240814034710/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Reviewed on 2024-08-14*/ /*current position*/
     ,('Lalit Kumar', 'GiveWell', 'Ahmed Mushfiq Mobarak', '2024-05-27', 'month', NULL, NULL, 'https://web.archive.org/web/20240527225704/https://www.givewell.org/about/people https://web.archive.org/web/20240814034710/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Reviewed on 2024-08-14*/ /*current position*/
     ,('Lalit Kumar', 'GiveWell', 'James Tibenderana', '2024-05-27', 'month', NULL, NULL, 'https://web.archive.org/web/20240527225704/https://www.givewell.org/about/people https://web.archive.org/web/20240814034710/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Reviewed on 2024-08-14*/ /*current position*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ,('Aaron Kavanaugh','GiveWell','Administrative Assistant','2016-08-27','month','2017-02-05','month','https://web.archive.org/web/20160827092426/http://www.givewell.org/about/people https://web.archive.org/web/20170205200152/http://www.givewell.org/about/people',NULL,'full-time','Global health and poverty')/*closed*/ 
     ,('Aaron Kavanaugh','GiveWell','Office Manager','2017-02-20','month','2022-06-04','year','https://web.archive.org/web/20170220032712/http://www.givewell.org/about/people https://www.linkedin.com/in/aaron-kavanaugh-13aab754/ https://web.archive.org/web/20220604071207/https://www.givewell.org/about/people',NULL,'full-time','Global health and poverty')/*closed*/ 
     ,('Aaron Kavanaugh','GiveWell','Operations Associate','2022-08-01','month','2024-01-01','month','https://www.linkedin.com/in/aaron-kavanaugh-13aab754/ https://web.archive.org/web/20240101111005/https://www.givewell.org/about/people',NULL,'full-time','Global health and poverty')/*closed*/ 
@@ -188,7 +163,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Helen Toner','GiveWell','Research Analyst','2015-03-01','month','2016-09-01','month','https://web.archive.org/web/20150628071657/http://www.givewell.org/about/people https://web.archive.org/web/20160920191536/https://www.givewell.org/about/people',NULL,'full-time','Global health and poverty') /*closed*/  
     ,('Holden Karnofsky','GiveWell','Co-Founder, Co-Executive Director', '2006-08-01','month','2007-04-27', 'month','https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people https://blog.givewell.org/2007/04/28/whats-in-it-for-me/ https://www.linkedin.com/in/holden-karnofsky-75970b7/', 'He switched from part-time to full-time work on GiveWell in mid-2007.', 'part-time','Global health and poverty')  /*closed*/  
     ,('Holden Karnofsky','GiveWell','Co-Executive Director', '2007-04-28','month','2008-01-03'/*according to https://www.givewell.org/about/official-records/board-meeting-6 "Holden Karnofsky was restored to his prior position as Board Secretary, but not to his prior position as Executive Director (both had previously been removed at the January meeting).*/, 'month','https://blog.givewell.org/2007/04/28/whats-in-it-for-me/ https://www.linkedin.com/in/holden-karnofsky-75970b7/ https://www.givewell.org/about/official-records/board-meeting-6', NULL, 'full-time','Global health and poverty')  /*closed*/  
-    ,('Holden Karnofsky','GiveWell','Program Officer', '2008-01-04'/*Downloaded file reads: "Holden will be moved to a Program Officer position"*/,'month',NULL, NULL,'https://www.givewell.org/files/ClearFund/Meeting%202008%2001%2003/Meeting%202008%2001%2003%20Official%20Statement.doc',NULL,'full-time','Global health and poverty')/*Reviewed on 2022-10-14*/  
+    ,('Holden Karnofsky','GiveWell','Program Officer', '2008-01-04'/*Downloaded file reads: "Holden will be moved to a Program Officer position"*/,'month','2008-01-04', NULL,'https://www.givewell.org/files/ClearFund/Meeting%202008%2001%2003/Meeting%202008%2001%2003%20Official%20Statement.doc',NULL,'full-time','Global health and poverty')/*closed*/  
     ,('Holden Karnofsky','GiveWell','Board Secretary'/*according to https://www.givewell.org/about/official-records/board-meeting-6 "Holden Karnofsky was restored to his prior position as Board Secretary*/, '2008-01-04'/*2010-06-09 is the oldest available wayback snapshot*/,NULL,'2011-07-25', 'month','https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people https://web.archive.org/web/20110725235250/http://www.givewell.org/about/people',NULL,'full-time','Global health and poverty') /*closed*/   
     ,('Holden Karnofsky','GiveWell','Co-Executive Director', '2011-08-05', 'month','2017-06-01'/*taken from LinkedIn*/,'month','https://web.archive.org/web/20110805070747/http://www.givewell.org/about/people https://www.linkedin.com/in/holden-karnofsky-75970b7/', NULL, 'full-time','Global health and poverty') /*closed*/  
     ,('Howie Lempel','GiveWell','Program Officer, Global Catastrophic Risks','2015-02-27','month','2016-09-01','month','https://web.archive.org/web/20150227163110/http://www.givewell.org/about/people https://web.archive.org/web/20160920191536/https://www.givewell.org/about/people',NULL,'full-time','Global health and poverty') /*closed*/  
@@ -272,12 +247,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Olivia Larsen','GiveWell','Summer Research Analyst','2016-06-01','month','2016-08-01','month','https://www.linkedin.com/in/oliviaroselarsen/',NULL,NULL,'Global health and poverty') /*closed*/  
     ,('Olivia Larsen','GiveWell','Research Analyst, Outreach Focus','2018-09-01','month', '2019-07-01', 'month','https://web.archive.org/web/20181005203924/http://www.givewell.org/about/people https://www.linkedin.com/in/oliviaroselarsen/ https://web.archive.org./web/20201001233703/https://www.givewell.org/about/people',NULL, NULL,'Global health and poverty')  /*closed*/    
     ,('Olivia Larsen','GiveWell','Gift Officer','2019-07-01','month', '2020-10-01', 'month','https://www.linkedin.com/in/oliviaroselarsen/',NULL, NULL,'Global health and poverty') /*closed*/  
-    ,('Olivia Larsen','GiveWell','Philanthropy Advisor','2020-10-01','month', NULL, NULL,'https://www.linkedin.com/in/oliviaroselarsen/ https://web.archive.org/web/20240212173534/https://www.givewell.org/about/people',NULL, NULL,'Global health and poverty') /*Reviewed on 2024-02-12*/ /*current position*/
-    ,('Parker Blackiston','GiveWell', 'Senior Operations Associate', '2019-11-01', 'month',NULL,NULL, 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people https://www.linkedin.com/in/parker-blackiston-10180b5/ https://web.archive.org/web/20220604071207/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')/*Reviewed on 2022-08-22*/ 
-
-
-    
-     
+    ,('Olivia Larsen','GiveWell','Philanthropy Advisor','2020-10-01','month', '2024-05-27', 'month','https://www.linkedin.com/in/oliviaroselarsen/ https://web.archive.org/web/20240527225704/https://www.givewell.org/about/people',NULL, NULL,'Global health and poverty') /*closed*/  
+    ,('Parker Blackiston','GiveWell', 'Senior Operations Associate', '2019-11-01', 'month','2023-01-01','month', 'https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people https://www.linkedin.com/in/parker-blackiston-10180b5/ https://web.archive.org/web/20220604071207/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')/*closed*/  
     ,('Phil Steinmeyer','GiveWell','Board member','2013-02-13','month','2017-06-01','month','https://web.archive.org/web/20130208084816/http://www.givewell.org/about/people https://web.archive.org/web/20170615161652/https://www.givewell.org/about/people',NULL,'board member','Global health and poverty')  /*closed*/  
     ,('Rachel Mitchell', 'GiveWell', 'Content Editor', '2022-10-01', 'month', '2023-10-16', 'month', 'https://www.linkedin.com/in/rachel-mitchell-586a8312b/ https://web.archive.org/web/20230708220143/https://www.givewell.org/about/people https://web.archive.org/web/20231016225739/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*closed*/ 
     ,('Rebecca Raible','GiveWell','Research Analyst','2014-11-03','month','2016-12-01','month','https://web.archive.org/web/20141103201119/http://www.givewell.org/about/people https://web.archive.org/web/20161228055756/https://www.givewell.org/about/people',NULL,'full-time','Global health and poverty') /*closed*/  
@@ -293,12 +264,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Rossa O’Keeffe-O’Donovan','GiveWell','Independent Contractor','2017-01-01','month','2017-09-01','month','https://www.linkedin.com/in/rossa-o-keeffe-o-donovan-b1296846/',NULL,NULL,'Global health and poverty')
     ,('Ruth Levine','GiveWell','Research Analyst','2014-06-01','month','2014-08-01','month','https://www.linkedin.com/in/ruth-levine-2287419/',NULL,NULL,'Global health and poverty')  /*closed*/  
     ,('Sade McDougal','GiveWell', 'Donations Processing Assistant', '2021-10-01', 'month','2022-09-01','month', 'https://www.linkedin.com/in/sademcdougal/', NULL, NULL,'Global health and poverty') /*closed*/  
-    ,('Sade McDougal','GiveWell', 'Donations Specialist', '2022-08-01', 'month',NULL,NULL, 'https://www.linkedin.com/in/sademcdougal/ https://web.archive.org/web/20240212173534/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Reviewed on 2024-02-12*/ /*current position*/
+    ,('Sade McDougal','GiveWell', 'Donations Specialist', '2022-08-01', 'month','2024-02-12','month', 'https://www.linkedin.com/in/sademcdougal/ https://web.archive.org/web/20240212173534/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*closed*/
     ,('Sara Altman','GiveWell','Summer Research Analyst','2015-06-01','month','2015-08-01','month','https://www.linkedin.com/in/sarakaltman/',NULL,NULL,'Global health and poverty') /*closed*/  
     ,('Sarah Ward','GiveWell','Director of Operations and General Counsel','2017-09-01','month','2018-02-01','month','https://web.archive.org/web/20170930041922/https://www.givewell.org/about/people https://web.archive.org/web/20180226190255/https://www.givewell.org/about/people',NULL,NULL,'Global health and poverty') /*closed*/  
     ,('Sarah Ward','GiveWell','Director of Operations','2016-07-01','month','2017-09-01','month','https://web.archive.org/web/20160728234856/http://www.givewell.org/about/people https://web.archive.org/web/20170930041922/https://www.givewell.org/about/people',NULL,'full-time','Global health and poverty')  /*closed*/  
     ,('Sarah Ward','GiveWell','Research Analyst','2016-01-01','month','2016-06-27','month','https://web.archive.org/web/20160129091105/http://www.givewell.org/about/people https://web.archive.org/web/20160627012615/http://www.givewell.org/about/people',NULL,'full-time','Global health and poverty')  /*closed*/  
-    ,('Sara Wong', 'GiveWell', 'Donor Relations Associate', '2023-07-01', 'month', NULL,NULL, 'https://www.linkedin.com/in/sara-wong-15a11967/ https://web.archive.org/web/20240212173534/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Reviewed on 2024-02-12*/ /*current position*/
+    ,('Sara Wong', 'GiveWell', 'Donor Relations Associate', '2023-07-01', 'month', '2024-03-05','month', 'https://www.linkedin.com/in/sara-wong-15a11967/ https://web.archive.org/web/20240305011356/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*closed*/  
     ,('Scott Weathers','GiveWell','Summer Research Analyst','2017-06-01','month','2017-07-01','month','https://www.linkedin.com/in/weathersscott/',NULL,NULL,'Global health and poverty')  /*closed*/  
     ,('Sean Conley','GiveWell','Research Analyst','2013-09-28','month','2016-10-01','month','https://web.archive.org/web/20130928105319/http://www.givewell.org/about/people https://web.archive.org/web/20161022035455/https://www.givewell.org/about/people',NULL,'full-time','Global health and poverty') /*closed*/  
     ,('Shahid Ahmad','GiveWell', 'Research Analyst', '2021-01-01', 'year','2024-01-01','month', 'https://www.linkedin.com/in/shahid-ahmad-a67ba497/https://web.archive.org/web/20240101111005/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*closed*/ 
@@ -333,11 +304,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Wendy Knight','GiveWell','Research Analyst','2011-03-21','month','2011-10-01','month','https://web.archive.org/web/20110321172245/http://www.givewell.org/about/people https://web.archive.org/web/20111019121140/http://www.givewell.org/about/people',NULL,'full-time','Global health and poverty')  /*closed*/  
     ,('Wendy Knight','GiveWell','Volunteer','2010-11-01','month','2011-02-01','month','https://web.archive.org/web/20110321172245/http://www.givewell.org/about/people',NULL,'volunteer','Global health and poverty')   /*closed*/ 
     ,('Whitney Shinkle','GiveWell','Director of Operations','2018-04-01','year','2023-09-25','month','https://web.archive.org/web/20180505212229/https://www.givewell.org/about/people https://www.linkedin.com/in/whitney-shinkle-161b764/ https://web.archive.org/web/20230925230143/https://www.givewell.org/about/people',NULL, NULL,'Global health and poverty') /*closed*/
-    ,('Willa Gruver','GiveWell', 'Operations Assistant','2021-01-01', NULL,NULL,NULL, 'https://web.archive.org/web/20211111024251/https://www.givewell.org/about/people https://web.archive.org/web/20220604071207/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty')/*Reviewed on 2022-08-22*/  
+    ,('Willa Gruver','GiveWell', 'Operations Assistant','2019-09-01', 'month','2023-04-01','month', 'https://web.archive.org/web/20220604071207/https://www.givewell.org/about/people https://www.linkedin.com/in/willa-gruver-65815a163/', NULL, NULL,'Global health and poverty')/*closed*/  
     ,('Zachary McLeod', 'GiveWell', 'Content Editor', '2022-10-01', 'month', '2023-06-26', 'month', 'https://www.linkedin.com/in/zachary-mcleod-34398040/ https://web.archive.org/web/20230708220143/https://www.givewell.org/about/people https://web.archive.org/web/20230626225317/https://www.givewell.org/about/people', NULL, 'full-time','Global health and poverty') /*closed*/ 
     ,('Zachary Tausanovitch','GiveWell','Independent Contractor','2017-03-01','month','2017-07-01','month','https://www.linkedin.com/in/zachary-tausanovitch/',NULL,NULL,'Global health and poverty')  /*closed*/ 
     ,('Zoe Mahony','GiveWell', 'Content Editor','2021-10-01', 'month','2022-04-01','month', 'https://www.linkedin.com/in/zoe-mahony-aa1934179/ https://web.archive.org/web/20211111024251/https://www.givewell.org/about/people https://web.archive.org/web/20220307113826/https://www.givewell.org/about/people', NULL, 'full-time','Global health and poverty')  /*closed*/ 
-    ,('Zoe Mahony','GiveWell', 'Program Associate', '2022-04-01', 'month',NULL,NULL, 'https://www.linkedin.com/in/zoe-mahony-aa1934179/ https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people https://web.archive.org/web/20230717225926/https://www.givewell.org/about/people', NULL, 'full-time','Global health and poverty')   /*Reviewed on 2024-02-12*/ /*current position*/
+    ,('Zoe Mahony','GiveWell', 'Program Associate', '2022-04-01', 'month','2023-09-25','month', 'https://www.linkedin.com/in/zoe-mahony-aa1934179/ https://web.archive.org/web/20220519185236/https://www.givewell.org/about/people https://web.archive.org/web/20230925230143/https://www.givewell.org/about/people', NULL, 'full-time','Global health and poverty')   /*closed*/ 
    ;
 
  
