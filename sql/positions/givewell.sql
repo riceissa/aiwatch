@@ -78,6 +78,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Lalit Kumar', 'GiveWell', 'Research Council', '2024-05-27', 'month', NULL, NULL, 'https://web.archive.org/web/20240527225704/https://www.givewell.org/about/people https://web.archive.org/web/20240814034710/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Reviewed on 2024-08-14*/ /*current position*/
     ,('Lalit Kumar', 'GiveWell', 'Ahmed Mushfiq Mobarak', '2024-05-27', 'month', NULL, NULL, 'https://web.archive.org/web/20240527225704/https://www.givewell.org/about/people https://web.archive.org/web/20240814034710/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Reviewed on 2024-08-14*/ /*current position*/
     ,('Lalit Kumar', 'GiveWell', 'James Tibenderana', '2024-05-27', 'month', NULL, NULL, 'https://web.archive.org/web/20240527225704/https://www.givewell.org/about/people https://web.archive.org/web/20240814034710/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Reviewed on 2024-08-14*/ /*current position*/
+
+
+                                                                                             /*closed positions below*/
+
+
     ,('Aaron Kavanaugh','GiveWell','Administrative Assistant','2016-08-27','month','2017-02-05','month','https://web.archive.org/web/20160827092426/http://www.givewell.org/about/people https://web.archive.org/web/20170205200152/http://www.givewell.org/about/people',NULL,'full-time','Global health and poverty')/*closed*/ 
     ,('Aaron Kavanaugh','GiveWell','Office Manager','2017-02-20','month','2022-06-04','year','https://web.archive.org/web/20170220032712/http://www.givewell.org/about/people https://www.linkedin.com/in/aaron-kavanaugh-13aab754/ https://web.archive.org/web/20220604071207/https://www.givewell.org/about/people',NULL,'full-time','Global health and poverty')/*closed*/ 
     ,('Aaron Kavanaugh','GiveWell','Operations Associate','2022-08-01','month','2024-01-01','month','https://www.linkedin.com/in/aaron-kavanaugh-13aab754/ https://web.archive.org/web/20240101111005/https://www.givewell.org/about/people',NULL,'full-time','Global health and poverty')/*closed*/ 
