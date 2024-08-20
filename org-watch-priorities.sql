@@ -27,7 +27,6 @@ where organization in (
   'Berkeley Existential Risk Initiative',
   'Center for Applied Rationality',
   'Center on Long-Term Risk',
-  'Future of Humanity Institute',
   'Ought',
   'Redwood Research'
 ) and (last_major_data_update_date is null or datediff(curdate(), last_major_data_update_date) > 365)
