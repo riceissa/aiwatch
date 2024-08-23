@@ -23,6 +23,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Pedro Oliboni','Forethought Foundation for Global Priorities Research','Global Priorities Fellow','2021-02-01', 'month', '2022-02-01', 'month', 'https://www.linkedin.com/in/pedrooliboni/',NULL, NULL,'Cause prioritization')/*closed*/
     ,('Zach Freitas-Groff','Forethought Foundation for Global Priorities Research','Global Priorities Fellow','2019-01-01', 'month', '2021-12-01', 'month', 'https://www.linkedin.com/in/zachgroff/',NULL, NULL,'Cause prioritization')/*closed*/
     ,('Abie Rohrig', 'Forethought Foundation for Global Priorities Research', 'Communications director', '2022-11-30', 'month', '2022-11-30', 'month', 'https://web.archive.org/web/20221130112641/https://www.forethought.org/about-us', NULL, NULL,'Cause prioritization')/*closed*/
+    ,('Arvo Muñoz Morán', 'Forethought Foundation for Global Priorities Research', 'Research Analyst', '2022-07-01', 'month', '2023-07-01', 'month', 'https://web.archive.org/web/20221130112641/https://www.forethought.org/about-us https://www.linkedin.com/in/arvomm/', NULL, NULL,'Cause prioritization')/*closed*/
+    ,('Keith Wynroe', 'Forethought Foundation for Global Priorities Research', 'Research Analyst', '2022-03-01', 'month', '2022-11-30'/*position still open according to LinedIn*/, 'month', 'https://web.archive.org/web/20221130112641/https://www.forethought.org/about-us https://www.linkedin.com/in/keith-wynroe-8252a2124/', NULL, 'Full-time','Cause prioritization')/*closed*/
+    ,('Gavin Weinberg', 'Forethought Foundation for Global Priorities Research', 'Operations Intern', '2022-09-01', 'month', '2023-01-01', 'month', 'https://www.linkedin.com/in/gavinweinberg/', NULL, NULL,'Cause prioritization')/*closed*/
+    ,('Gavin Weinberg', 'Forethought Foundation for Global Priorities Research', 'Operations Associate', '2023-01-01', 'month', '2024-04-01', 'month', 'https://www.linkedin.com/in/gavinweinberg/', NULL, NULL,'Cause prioritization')/*closed*/
 
-
-
+ 
