@@ -73,7 +73,6 @@ where organization in (
   'Centre for the Study of Existential Risk',
   'FLOWERS',
   'Forethought Foundation for Global Priorities Research',
-  'Foundational Research Institute',
   'Giving What We Can',
   'Happier Lives Institute',
   'Legal Priorities Project',
