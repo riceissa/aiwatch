@@ -125,7 +125,7 @@ while ($row = $result->fetch_assoc()) { ?>
 </table>
 
 <?php
-$query = "select * from positions where person = ?";
+$query = "select * from positions where person = ? order by coalesce(start_date, end_date) asc";
 if ($subdomain === "aiwatch") {
   $query .= " and cause_area = 'AI safety'";
 }
