@@ -1,8 +1,4 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
-/*
-    ,(person, 'Institute for Law and AI', title, start_date, start_date_precision, NULL, NULL,' https://web.archive.org/web/20240827002253/https://law-ai.org/web/20240827002253/https://law-ai.org/team/', NULL, NULL, 'Cause prioritization') /*Reviewed on 2024-08-27*/  /*current position*/
-..............................
-*/
     ('Cullen O''Keefe', 'Institute for Law and AI', 'Director of Research', '2024-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ccokeefe-law/ https://web.archive.org/web/20240827002253/https://law-ai.org/web/20240827002253/https://law-ai.org/team/', NULL, 'Full-time', 'Cause prioritization') /*Reviewed on 2024-08-23*/  /*current position*/
     ,('Christoph Winter', 'Institute for Law and AI', 'Founder & Director', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/christoph-winter/ https://web.archive.org/web/20240827002253/https://law-ai.org/web/20240827002253/https://law-ai.org/team/', NULL, NULL, 'Cause prioritization') /*Reviewed on 2024-08-23*/  /*current position*/
     ,('Matthijs Maas', 'Institute for Law and AI', 'Senior Research Fellow', '2022-08-01', 'month', NULL, NULL,'https://www.linkedin.com/in/matthijsmaas/ https://web.archive.org/web/20240827002253/https://law-ai.org/web/20240827002253/https://law-ai.org/team/', NULL, 'Full-time', 'Cause prioritization') /*Reviewed on 2024-08-23*/  /*current position*/
@@ -19,43 +15,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
    ,('José Jaime Villalobos', 'Institute for Law and AI', 'Visiting Litigation Fellow', '2021-08-01', 'month', '2022-07-01', 'month','https://www.linkedin.com/in/jos%C3%A9-jaime-villalobos-bb77a4114/', NULL, 'Full-time', 'Cause prioritization') /*closed*/
    ,('José Jaime Villalobos', 'Institute for Law and AI', 'International Law and Policy Fellow', '2022-07-01', 'month', '2024-01-01', 'month','https://www.linkedin.com/in/jos%C3%A9-jaime-villalobos-bb77a4114/', NULL, NULL, 'Cause prioritization') /*closed*/
    ,('José Jaime Villalobos', 'Institute for Law and AI', 'Research Affiliate', '2024-01-01', 'month', NULL, NULL,'https://www.linkedin.com/in/jos%C3%A9-jaime-villalobos-bb77a4114/', NULL, NULL, 'Cause prioritization') /*Reviewed on 2024-08-27*/  /*current position*/
-
-
-
-
- 
-
-
-/*
-Cecil Abungu
-Cecil Abungu
-Research Affiliate
-Jeff Sebo
-Prof Jeff Sebo
-Senior Research Affiliate
-Peter Salib
-Prof Peter Salib
-Senior Research Affiliate
-John Bliss
-Prof John Bliss
-Senior Research Affiliate
-Leonie Koessler
-Leonie Koessler
-Research Affiliate
-Kevin Frazier
-Prof Kevin Frazier
-Research Affiliate
-Jonas Schuett
-Jonas Schuett
-Research Affiliate
-*/
-
-
-
-
-
-
-
    ,('Cullen O''Keefe', 'Institute for Law and AI', 'Founding Advisor & Research Affiliate', '2020-08-01', 'month', '2024-04-01', 'month', 'https://web.archive.org/web/20201025143504/https://www.legalpriorities.org/team/cullen-okeefe.html https://www.legalpriorities.org/team/cullen-okeefe.html https://www.linkedin.com/in/ccokeefe-law/', NULL, NULL, 'Cause prioritization') /*closed*/ 
    ,('Christoph Winter', 'Institute for Law and AI', 'Director', '2020-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20201025132143/https://www.legalpriorities.org/team/christoph-winter.html https://www.legalpriorities.org/team/christoph-winter.html https://www.linkedin.com/in/christoph-winter/', NULL, NULL, 'Cause prioritization')
    ,('Bradly Condon', 'Institute for Law and AI', 'Senior Research Fellow', '2020-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20201005054456/https://www.legalpriorities.org/team/bradly-condon.html https://www.legalpriorities.org/team/bradly-condon.html https://www.linkedin.com/in/bradly-condon-8755884/', NULL, NULL, 'Cause prioritization')
