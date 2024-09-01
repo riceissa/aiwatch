@@ -61,6 +61,7 @@ sql/positions/generation-pledge.sql
 sql/positions/gfi.sql
 sql/positions/give-directly.sql
 sql/positions/givewell.sql
+sql/positions/global-priorities-institute-oxford-university.sql
 sql/positions/good-forever.sql
 sql/positions/goodai.sql
 sql/positions/google-deep-mind.sql
