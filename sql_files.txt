@@ -30,6 +30,7 @@ sql/positions/center-for-space-governance.sql
 sql/positions/center-on-long-term-risk.sql
 sql/positions/centre-for-exploratory-altruism-research.sql
 sql/positions/centre-for-long-term-resilience.sql
+sql/positions/centre-for-the-study-of-existential-risk.sql
 sql/positions/cfar.sql
 sql/positions/chai.sql
 sql/positions/charity-science-health.sql
