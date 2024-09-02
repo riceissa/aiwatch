@@ -48,6 +48,7 @@ sql/positions/encultured-ai.sql
 sql/positions/epoch.sql
 sql/positions/farmed-animal-funders.sql
 sql/positions/fishwelfareinitiative.org.sql
+sql/positions/flowers-laboratory.sql
 sql/positions/forecasting-research-institute.sql
 sql/positions/forethought.sql
 sql/positions/foundational-research-institute.sql
