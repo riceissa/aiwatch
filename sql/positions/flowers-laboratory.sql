@@ -5,13 +5,18 @@ insert into positions(person, organization, title, start_date, start_date_precis
    ,('David Filliat', 'Flowers Laboratory', 'Permanent researcher', '2009-01-01', 'month', NULL, NULL, 'https://perso.ensta-paris.fr/~filliat/en/ https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
    ,('Didier Roy', 'Flowers Laboratory', 'Permanent researcher', '2012-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20240414233000/https://dproy.wordpress.com/ https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
    ,('Sao Mai Nguyen', 'Flowers Laboratory', 'Permanent researcher', start_date, NULL, NULL, NULL, 'https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
-   ,('Natalia Diaz Rodriguez', 'Flowers Laboratory', 'Researcher', start_date, NULL, NULL, NULL, 'https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
+   ,('Natalia Diaz Rodriguez', 'Flowers Laboratory', 'Researcher', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
+   ,('Catherine Cattaert-Megrat', 'Flowers Laboratory', 'Administrative assistant', '2018-09-27', NULL, NULL, NULL, 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/ https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
+   ,('Nathalie Robin', 'Flowers Laboratory', 'Administrative assistant', '2018-09-27', NULL, NULL, NULL, 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/ https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
+   ,('Cécile Mazon', 'Flowers Laboratory', 'Postdoc', '2020-10-25', 'year', NULL, NULL, 'https://web.archive.org/web/20201025214050/https://flowers.inria.fr/team/ https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
+
  
  
 
 
 
 
+    ,('Cécile Mazon', 'Flowers Laboratory', 'Stagiaire (Master 1)', '2015-04-01', 'month', '2015-07-01', 'month', 'https://www.linkedin.com/in/c%C3%A9cile-mazon/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
     ,('Manuel Lopes','Flowers Laboratory','Research Scientist',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('David Filliat','Flowers Laboratory','Professor',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Alexandre Gepperth','Flowers Laboratory','Associate Professor',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
