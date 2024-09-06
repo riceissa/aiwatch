@@ -9,23 +9,51 @@ insert into positions(person, organization, title, start_date, start_date_precis
    ,('Catherine Cattaert-Megrat', 'Flowers Laboratory', 'Administrative assistant', '2018-09-27', NULL, NULL, NULL, 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/ https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
    ,('Nathalie Robin', 'Flowers Laboratory', 'Administrative assistant', '2018-09-27', NULL, NULL, NULL, 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/ https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
    ,('Cécile Mazon', 'Flowers Laboratory', 'Postdoc', '2020-10-25', 'year', NULL, NULL, 'https://web.archive.org/web/20201025214050/https://flowers.inria.fr/team/ https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
-
- 
- 
-
-
-
-
+   ,('Eleni Nisioti', 'Flowers Laboratory', 'Postdoc', '2020-10-25', 'year', NULL, NULL, 'https://web.archive.org/web/20201025214050/https://flowers.inria.fr/team/ https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
+   ,('Masataka Sawayama', 'Flowers Laboratory', 'Postdoc', '2021-03-05', 'year', NULL, NULL, 'https://web.archive.org/web/20210305062229/https://flowers.inria.fr/team/ https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/ 
+   ,('Guillermo Valle', 'Flowers Laboratory', 'Postdoc', '2021-03-05', 'year', NULL, NULL, 'https://web.archive.org/web/20210305062229/https://flowers.inria.fr/team/ https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/  
+   ,('Grgur Kovac', 'Flowers Laboratory', 'Research Engineer', '2019-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20210305062229/https://flowers.inria.fr/team/ https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
+   ,('Benjamin Clément', 'Flowers Laboratory', 'Research Engineer', '2019-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
+   ,('Julius Taylor', 'Flowers Laboratory', 'PhD Student', '2020-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
+   ,('Maxime Adolphe ', 'Flowers Laboratory', 'PhD Student', '2020-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
+   ,('Mayalen Etcheverry', 'Flowers Laboratory', 'PhD Student', '2019-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
+   ,('Laetitia Teodorescu', 'Flowers Laboratory', 'PhD Student', '2019-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
+   ,('Tristan Karch', 'Flowers Laboratory', 'PhD Student', '2019-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
+   ,('Remy Portelas', 'Flowers Laboratory', 'PhD Student', '2018-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
+   ,('Alexander Ten', 'Flowers Laboratory', 'PhD Student', '2018-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
+    ,('Hugo Caselles-Dupré', 'Flowers Laboratory', 'PhD Student', '2018-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
+   ,('Timothée Lesort', 'Flowers Laboratory', 'PhD Student', '2018-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
+   ,('Cédric Colas', 'Flowers Laboratory', 'PhD Student', '2017-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
     ,('Cécile Mazon', 'Flowers Laboratory', 'Stagiaire (Master 1)', '2015-04-01', 'month', '2015-07-01', 'month', 'https://www.linkedin.com/in/c%C3%A9cile-mazon/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
-    ,('Manuel Lopes','Flowers Laboratory','Research Scientist',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
+    ,('Manuel Lopes','Flowers Laboratory','Research Scientist','2010-10-01',NULL,NULL,NULL,'https://www.linkedin.com/in/manuellopes/ https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/',NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
+    ,('Adrien Matricon', 'Flowers Laboratory', 'PhD researcher', '2024-12-01', 'month', '2018-07-01', 'month', 'https://www.linkedin.com/in/adrien-matricon-ba053425/details/experience/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
+   ,('Clément Masson', 'Flowers Laboratory', 'PhD Student', '2015-01-01', 'year', '2016-04-15', NULL, 'https://web.archive.org/web/20160415183920/https://flowers.inria.fr/team/ https://web.archive.org/web/20160415183920/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
+ 
+
+
+/*
+Yuxin Chen
+
+Louis-Charles Caron
+
+Pierre Rouanet
+
+Yoan Mollard
+
+Nicolas Rabault
+
+Matthieu Lapeyre
+
+Loïc Dauphin
+*/
     ,('David Filliat','Flowers Laboratory','Professor',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Alexandre Gepperth','Flowers Laboratory','Associate Professor',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Freek Stulp','Flowers Laboratory','Associate Professor',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Anna-Lisa Vollmer','Flowers Laboratory','Researcher',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Didier Roy','Flowers Laboratory','Senior Member',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Nicolas Jahier','Flowers Laboratory','Administrative Assistant',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
-    ,('Panagiotis Papadakis','Flowers Laboratory','Postdoctoral researcher','2014-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
-    ,('Cem Karaoguz','Flowers Laboratory','Postdoctoral researcher','2015-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
+    ,('Panagiotis Papadakis','Flowers Laboratory','Postdoctoral researcher','2014-01-01','year','2017-01-01',NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://web.archive.org/web/20160415183920/https://flowers.inria.fr/team/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
+    ,('Cem Karaoguz','Flowers Laboratory','Postdoctoral researcher','2015-01-01','year','2017-01-01',NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://web.archive.org/web/20160415183920/https://flowers.inria.fr/team/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
     ,('Pierre Rouanet','Flowers Laboratory','Engineer',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Yoan Mollard','Flowers Laboratory','Engineer',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Nicolas Rabault','Flowers Laboratory','Engineer',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
@@ -33,17 +61,21 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Loïc Dauphin','Flowers Laboratory','Engineer',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Stéphanie Noirpoudre','Flowers Laboratory','Engineer',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Théo Segonds','Flowers Laboratory','Engineer',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
-    ,('Damien Caselli','Flowers Laboratory','Engineer',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
+    ,('Damien Caselli','Flowers Laboratory','Engineer',NULL,NULL,'2016-04-15',NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://web.archive.org/web/20160415183920/https://flowers.inria.fr/team/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
     ,('Louis-Charles Caron','Flowers Laboratory','PhD student','2011-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Guillaume Duceux','Flowers Laboratory','PhD student','2011-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
-    ,('Thibaut Munzer','Flowers Laboratory','PhD student','2013-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
-    ,('Baptiste Busch','Flowers Laboratory','PhD student','2014-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
-    ,('Gennaro Raiola','Flowers Laboratory','PhD student','2014-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
-    ,('Alexandra Delmas','Flowers Laboratory','PhD student','2014-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
-    ,('Céline Craye','Flowers Laboratory','PhD student','2014-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
-    ,('Adrien Matricon','Flowers Laboratory','PhD student','2014-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
+    ,('Thibaut Munzer','Flowers Laboratory','PhD student','2013-01-01','year','2015-01-01',NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://web.archive.org/web/20220816032615/https://flowers.inria.fr/team/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
+    ,('Baptiste Busch','Flowers Laboratory','PhD student','2014-01-01','year','2017-01-01','year','https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://web.archive.org/web/20220816032615/https://flowers.inria.fr/team/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
+    ,('Gennaro Raiola','Flowers Laboratory','PhD student','2014-01-01','year','2017-01-01','year','https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://web.archive.org/web/20220816032615/https://flowers.inria.fr/team/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
+    ,('Alexandra Delmas','Flowers Laboratory','PhD student','2014-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')/*closed*/
+    ,('Céline Craye','Flowers Laboratory','PhD student','2014-01-01','year','2017-01-01','year','https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://web.archive.org/web/20220816032615/https://flowers.inria.fr/team/',NULL,'AGI organization',NULL,NULL,'AI safety')/*closed*/
+    ,('Adrien Matricon','Flowers Laboratory','PhD student','2014-01-01','year','2016-04-15',NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://web.archive.org/web/20160415183920/https://flowers.inria.fr/team/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
     ,('William Schueller','Flowers Laboratory','PhD student','2015-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Sébastien Forestier','Flowers Laboratory','PhD student','2015-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Benjamin Clément','Flowers Laboratory','PhD student','2015-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
-    ,('Florian Golemo','Flowers Laboratory','PhD student','2015-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
-    ,('Alvaro Ovalle Castaneda','Flowers Laboratory','PhD student','2016-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
+    ,('Florian Golemo','Flowers Laboratory','PhD student','2015-01-01','year','2018-01-01','year','https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
+    ,('Alvaro Ovalle Castaneda','Flowers Laboratory','PhD student','2016-01-01','year','2017-01-01','year','https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
+
+
+ 
+ 
