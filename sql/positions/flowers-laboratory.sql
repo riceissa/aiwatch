@@ -26,26 +26,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
    ,('Cédric Colas', 'Flowers Laboratory', 'PhD Student', '2017-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
     ,('Cécile Mazon', 'Flowers Laboratory', 'Stagiaire (Master 1)', '2015-04-01', 'month', '2015-07-01', 'month', 'https://www.linkedin.com/in/c%C3%A9cile-mazon/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
     ,('Manuel Lopes','Flowers Laboratory','Research Scientist','2010-10-01',NULL,NULL,NULL,'https://www.linkedin.com/in/manuellopes/ https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/',NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
-    ,('Adrien Matricon', 'Flowers Laboratory', 'PhD researcher', '2024-12-01', 'month', '2018-07-01', 'month', 'https://www.linkedin.com/in/adrien-matricon-ba053425/details/experience/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
-   ,('Clément Masson', 'Flowers Laboratory', 'PhD Student', '2015-01-01', 'year', '2016-04-15', NULL, 'https://web.archive.org/web/20160415183920/https://flowers.inria.fr/team/ https://web.archive.org/web/20160415183920/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
- 
-
-
-/*
-Yuxin Chen
-
-Louis-Charles Caron
-
-Pierre Rouanet
-
-Yoan Mollard
-
-Nicolas Rabault
-
-Matthieu Lapeyre
-
-Loïc Dauphin
-*/
+    ,('Adrien Matricon', 'Flowers Laboratory', 'PhD researcher', '2014-12-01', 'month', '2018-07-01', 'month', 'https://www.linkedin.com/in/adrien-matricon-ba053425/details/experience/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
+    ,('Clément Masson', 'Flowers Laboratory', 'PhD Student', '2015-01-01', 'year', '2016-04-15', NULL, 'https://web.archive.org/web/20160415183920/https://flowers.inria.fr/team/ https://web.archive.org/web/20160415183920/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
     ,('David Filliat','Flowers Laboratory','Professor',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Alexandre Gepperth','Flowers Laboratory','Associate Professor',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Freek Stulp','Flowers Laboratory','Associate Professor',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
@@ -74,8 +56,23 @@ Loïc Dauphin
     ,('Sébastien Forestier','Flowers Laboratory','PhD student','2015-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Benjamin Clément','Flowers Laboratory','PhD student','2015-01-01','year',NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Florian Golemo','Flowers Laboratory','PhD student','2015-01-01','year','2018-01-01','year','https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
-    ,('Alvaro Ovalle Castaneda','Flowers Laboratory','PhD student','2016-01-01','year','2017-01-01','year','https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
+    ,('Alvaro Ovalle Castaneda','Flowers Laboratory','PhD student','2016-01-01','year','2017-01-01','year','https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/',NULL,'AGI organization',NULL,NULL,'AI safety'); /*closed*/
 
 
  
+ /*
+Yuxin Chen
+
+Louis-Charles Caron
+
+Pierre Rouanet
+
+Yoan Mollard
+
+Nicolas Rabault
+
+Matthieu Lapeyre
+
+Loïc Dauphin
+*/
  
