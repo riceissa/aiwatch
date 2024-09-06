@@ -37,6 +37,7 @@ sql/positions/charity-science-health.sql
 sql/positions/charity-science.sql
 sql/positions/condor-camp.sql
 sql/positions/conjecture.sql
+sql/positions/continualai.sql
 sql/positions/cooperativeai.sql
 sql/positions/cset.sql
 sql/positions/ea-engineers.sql
