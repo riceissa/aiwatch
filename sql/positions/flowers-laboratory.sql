@@ -28,10 +28,14 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Manuel Lopes','Flowers Laboratory','Research Scientist','2010-10-01',NULL,NULL,NULL,'https://www.linkedin.com/in/manuellopes/ https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/',NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
     ,('Adrien Matricon', 'Flowers Laboratory', 'PhD researcher', '2014-12-01', 'month', '2018-07-01', 'month', 'https://www.linkedin.com/in/adrien-matricon-ba053425/details/experience/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
     ,('Clément Masson', 'Flowers Laboratory', 'PhD Student', '2015-01-01', 'year', '2016-04-15', NULL, 'https://web.archive.org/web/20160415183920/https://flowers.inria.fr/team/ https://web.archive.org/web/20160415183920/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
-    ,('David Filliat','Flowers Laboratory','Professor',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
-    ,('Alexandre Gepperth','Flowers Laboratory','Associate Professor',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
-    ,('Freek Stulp','Flowers Laboratory','Associate Professor',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
-    ,('Anna-Lisa Vollmer','Flowers Laboratory','Researcher',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
+    ,('Alexandre Gepperth','Flowers Laboratory','Permanent Researcher','2014-03-13',NULL,NULL,NULL,'https://web.archive.org/web/20140313002137/https://flowers.inria.fr/team/ https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/',NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
+    ,('Freek Stulp','Flowers Laboratory','Assistant Professor','2011-11-01','month','2016-01-01','month','https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://www.linkedin.com/in/freek-stulp-3207713/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
+
+ 
+
+
+
+    ,('Anna-Lisa Vollmer','Flowers Laboratory','Researcher','2015-10-29',NULL,'2016-04-15','year','https://web.archive.org/web/20151029195635/https://flowers.inria.fr/team/ https://web.archive.org/web/20160415183920/https://flowers.inria.fr/team/',NULL,'AGI organization',NULL,NULL,'AI safety')/*closed*/
     ,('Didier Roy','Flowers Laboratory','Senior Member',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Nicolas Jahier','Flowers Laboratory','Administrative Assistant',NULL,NULL,NULL,NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Panagiotis Papadakis','Flowers Laboratory','Postdoctoral researcher','2014-01-01','year','2017-01-01',NULL,'https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://web.archive.org/web/20160415183920/https://flowers.inria.fr/team/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
