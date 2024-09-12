@@ -4,7 +4,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
    ,('Clément Moulin-Frier', 'Flowers Laboratory', 'Permanent researcher', '2019-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cl%C3%A9ment-moulin-frier-updated-info-on-my-website-0225a131/ https://web.archive.org/web/20240229212029/https://clement-moulin-frier.github.io/ https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
    ,('David Filliat', 'Flowers Laboratory', 'Permanent researcher', '2009-01-01', 'month', NULL, NULL, 'https://perso.ensta-paris.fr/~filliat/en/ https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
    ,('Didier Roy', 'Flowers Laboratory', 'Permanent researcher', '2012-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20240414233000/https://dproy.wordpress.com/ https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
-   ,('Sao Mai Nguyen', 'Flowers Laboratory', 'Permanent researcher', start_date, NULL, NULL, NULL, 'https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
+   ,('Sao Mai Nguyen', 'Flowers Laboratory', 'Permanent researcher', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
    ,('Natalia Diaz Rodriguez', 'Flowers Laboratory', 'Researcher', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
    ,('Catherine Cattaert-Megrat', 'Flowers Laboratory', 'Administrative assistant', '2018-09-27', NULL, NULL, NULL, 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/ https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
    ,('Nathalie Robin', 'Flowers Laboratory', 'Administrative assistant', '2018-09-27', NULL, NULL, NULL, 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/ https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-02*/ /*current position*/
@@ -71,11 +71,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
    ,('Natalia Lyubova', 'Flowers Laboratory', NULL, '2010-01-01', 'year', '2013-01-01', 'year', 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/', NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/  
    ,('Olivier Mangin', 'Flowers Laboratory', NULL, '2010-01-01', 'year', '2014-01-01', 'year', 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/', NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/  
    ,('Thomas Degris', 'Flowers Laboratory', NULL, '2011-01-01', 'year', NULL,NULL, 'https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL,'AGI organization',NULL,NULL,'AI safety')/*Reviewed on 2024-09-02*/ /*current position*/
+   ,('Adrien Baranes', 'Flowers Laboratory', 'PhD Student', '2008-01-01', 'year', '2011-01-01', 'year', 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/', NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/ 
+
  
- 
-
-
-
  /*
 Yuxin Chen
 
@@ -128,8 +126,6 @@ Antoine Hoarau (Engineer)
 Mai Nguyen (2010–2013, coming from Ecole Polytechnique and Master in Cognitive Robotics, University of Osaka, Japan)
 
 
-
-Adrien Baranes (PhD, 2008–2011, coming from Master “Robotique et systèmes intelligents”, University Paris VI – and he did his master’s thesis in FLOWERS under Pierre-Yves’ supervision)
 
 
 
