@@ -5,3 +5,6 @@ access-portal/tablesorter.css
 access-portal/anchor.min.js
 access-portal/head_date.txt
 slack-url.txt
+Makefile
+access-portal/Makefile
+reload-db.sh
