@@ -68,7 +68,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
    ,('Jérome Béchu', 'Flowers Laboratory', 'engineer', '2008-01-01', 'year', '2012-01-01', 'year', 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/', NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
    ,('Fabien Benureau', 'Flowers Laboratory', NULL, '2010-01-01', 'year', '2015-01-01', 'year', 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/', NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
    ,('Olivier Ly', 'Flowers Laboratory', NULL, '2010-01-01', 'year', '2011-01-01', 'year', 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/', NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/ 
-   ,('Natalia Lyubova ', 'Flowers Laboratory', NULL, '2010-01-01', 'year', '2013-01-01', 'year', 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/', NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/  
+   ,('Natalia Lyubova', 'Flowers Laboratory', NULL, '2010-01-01', 'year', '2013-01-01', 'year', 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/', NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/  
+   ,('Olivier Mangin', 'Flowers Laboratory', NULL, '2010-01-01', 'year', '2014-01-01', 'year', 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/', NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/  
+   ,('Thomas Degris', 'Flowers Laboratory', NULL, '2011-01-01', 'year', NULL,NULL, 'https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/', NULL,'AGI organization',NULL,NULL,'AI safety')/*Reviewed on 2024-09-02*/ /*current position*/
+ 
  
 
 
@@ -114,7 +117,7 @@ Freek Stulp, Associate professor, Ensta ParisTech, Paris.
 
 Steve Nguyen (2014)
 
-Olivier Mangin (2010–2014, coming from Ecole Polytechnique and Master MVA at ENS Cachan).
+
 
 Antoine Hoarau (Engineer)
 
@@ -128,7 +131,7 @@ Mai Nguyen (2010–2013, coming from Ecole Polytechnique and Master in Cognitive
 
 Adrien Baranes (PhD, 2008–2011, coming from Master “Robotique et systèmes intelligents”, University Paris VI – and he did his master’s thesis in FLOWERS under Pierre-Yves’ supervision)
 
-Thomas Degris (2011–present), INRIA Bordeaux-Sud Ouest.
+
 
 
 
