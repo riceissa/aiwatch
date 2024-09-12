@@ -62,9 +62,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Alvaro Ovalle Castaneda','Flowers Laboratory','PhD student','2016-01-01','year','2017-01-01','year','https://archive.is/Iq39J https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741 https://web.archive.org/web/20240902193100/https://flowers.inria.fr/team/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
     ,('Louis-Charles Caron', 'Flowers Laboratory', 'PhD student', '2011-01-01', 'year', '2014-01-01', 'year', 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/', NULL, 'AGI organization',NULL,NULL,'AI safety') /*closed*/
     ,('Paul Fudal', 'Flowers Laboratory', 'Engineer', '2010-01-01', 'year', '2024-01-01', 'year', 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/', NULL, 'AGI organization',NULL,NULL,'AI safety') /*closed*/
+   ,('Thomas Cederborg', 'Flowers Laboratory', NULL, '2009-01-01', 'year', '2013-01-01', 'year', 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/', NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
+
  
-
-
 
 
  
@@ -90,12 +90,7 @@ Loïc Dauphin
  
 
  
-   
-
-Thibaut Munzer (PhD, 2013-2015)
-
-Panagiotis Papadakis (2014-2017)
-
+ 
 Cem Karaoguz (2015-2017)
 
 Alvaro Ovalle Castaneda (2016-2017)
@@ -126,9 +121,9 @@ Olivier Mangin (2010–2014, coming from Ecole Polytechnique and Master MVA at E
 
 Antoine Hoarau (Engineer)
 
-Paul Fudal (Engineer, 2010–2014)
+ 
 
-Thomas Cederborg (2009–2013, coming from Master in statistical physics, Chalmers University, Sweden)
+
 
 Mai Nguyen (2010–2013, coming from Ecole Polytechnique and Master in Cognitive Robotics, University of Osaka, Japan)
 
