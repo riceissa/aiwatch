@@ -1,4 +1,4 @@
-MYSQL_ARGS=-u root -pnew_password aiwatch
+MYSQL_ARGS=
 
 read:
 	./make-reload-db.sh "$(MYSQL_ARGS)"
