@@ -1,9 +1,5 @@
 #!/bin/bash
 # Define the MySQL command with explicit credentials
-MYSQL="/c/Program Files/MySQL/MySQL Server 9.0/bin/mysql"
-USER="root"
-PASSWORD="new_password"
-DATABASE="aiwatch"
 
 # Replacement makefile as a workaround for use in Windows (Git Bash).
 
