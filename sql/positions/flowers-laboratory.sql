@@ -63,11 +63,16 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Louis-Charles Caron', 'Flowers Laboratory', 'PhD student', '2011-01-01', 'year', '2014-01-01', 'year', 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/', NULL, 'AGI organization',NULL,NULL,'AI safety') /*closed*/
     ,('Paul Fudal', 'Flowers Laboratory', 'Engineer', '2010-01-01', 'year', '2024-01-01', 'year', 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/', NULL, 'AGI organization',NULL,NULL,'AI safety') /*closed*/
    ,('Thomas Cederborg', 'Flowers Laboratory', NULL, '2009-01-01', 'year', '2013-01-01', 'year', 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/', NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
-
+   ,('Louis-Charles Caron', 'Flowers Laboratory', 'PhD student', '2011-01-01', 'year', '2014-01-01', 'year', 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/', NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
+   ,('Jonathan Grizou', 'Flowers Laboratory', NULL, '2011-01-01', 'year', '2014-01-01', 'year', 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/', NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
+   ,('Jérome Béchu', 'Flowers Laboratory', 'engineer', '2008-01-01', 'year', '2012-01-01', 'year', 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/', NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
+   ,('Fabien Benureau', 'Flowers Laboratory', NULL, '2010-01-01', 'year', '2015-01-01', 'year', 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/', NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
+   ,('Olivier Ly', 'Flowers Laboratory', NULL, '2010-01-01', 'year', '2011-01-01', 'year', 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/', NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/ 
+   ,('Natalia Lyubova ', 'Flowers Laboratory', NULL, '2010-01-01', 'year', '2013-01-01', 'year', 'https://web.archive.org/web/20180927132539/https://flowers.inria.fr/team/', NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/  
  
 
 
- 
+
  /*
 Yuxin Chen
 
@@ -88,12 +93,7 @@ Nicolas Rabault
 Loïc Dauphin
 
  
-
  
- 
-Cem Karaoguz (2015-2017)
-
-Alvaro Ovalle Castaneda (2016-2017)
 
 Anna-Lisa Vollmer (Starting Research Position)
 
@@ -101,19 +101,16 @@ Alexandre Gepperth, Associate professor, Ensta ParisTech.
 
 Freek Stulp, Associate professor, Ensta ParisTech, Paris.
 
-Clément Moulin-Frier (2011–2014), INRIA Bordeaux-Sud Ouest.
+ 
 
-Louis-Charles Caron (PhD, 2011–2014)
+ 
 
-Guillaume Duceux (2011–2014)
 
-Jérome Béchu (2008–2012), engineer)
+ 
 
-Matthieu Lapeyre (2010–2014, coming from ENS Cachan, Master in Mechanics).
 
-Jonathan Grizou (2011–2014, coming from INSA Toulouse)
 
-Fabien Benureau (2010–2015, coming from ENS Lyon, magistère informatique).
+
 
 Steve Nguyen (2014)
 
@@ -127,13 +124,13 @@ Antoine Hoarau (Engineer)
 
 Mai Nguyen (2010–2013, coming from Ecole Polytechnique and Master in Cognitive Robotics, University of Osaka, Japan)
 
-Natalia Lyubova (2010–2013)
+
 
 Adrien Baranes (PhD, 2008–2011, coming from Master “Robotique et systèmes intelligents”, University Paris VI – and he did his master’s thesis in FLOWERS under Pierre-Yves’ supervision)
 
 Thomas Degris (2011–present), INRIA Bordeaux-Sud Ouest.
 
-Olivier Ly, Labri/University of Bordeaux (in delegation at INRIA Flowers in 2010–2011).
+
 
 
 */
