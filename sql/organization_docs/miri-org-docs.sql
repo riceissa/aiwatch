@@ -60,7 +60,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'LessWrong', /* publisher */
         'Machine Intelligence Research Institute', /* affected_organizations */
         NULL, /* affected_people */
-        NULL, /* document_scope */
+        'Organization operations', /* document_scope */
         'AI safety', /* cause_area */
         'Bensinger notes some updates that have been made to MIRI’s research guide (which was first published in 2014).' /* notes */
     )
@@ -177,7 +177,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Effective Altruism Forum', /* publisher */
         'Machine Intelligence Research Institute|Open Philanthropy', /* affected_organizations */
         'Daniel Dewey', /* affected_people */
-        NULL, /* document_scope */
+        'General discussion of organizational practices', /* document_scope */
         'AI safety', /* cause_area */
         'Soares responds to a blog post calling for an evaluation of MIRI’s research output and strategy. Soares mentions an ongoing investigation by Open Philanthropy Project, as well as plans for “an independent evaluation of our organizational efficacy”.' /* notes */
     )
@@ -190,7 +190,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Effective Altruism Forum', /* publisher */
         'Machine Intelligence Research Institute', /* affected_organizations */
         NULL, /* affected_people */
-        NULL, /* document_scope */
+        'General discussion of organizational practices', /* document_scope */
         'AI safety', /* cause_area */
         'Bourgon (Chief Operating Officer at MIRI) answers a question regarding number of hours worked by MIRI staff per week. Bourgon writes that “the average and median are pretty close at somewhere between 40–50 hours a week depending on the month. During crunch times some people might be working 60–100-hour weeks.” However, he notes that the amount of work that gets done and how people are feeling are more important than number of hours worked.' /* notes */
     )
@@ -203,7 +203,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Effective Altruism Forum', /* publisher */
         'Machine Intelligence Research Institute', /* affected_organizations */
         NULL, /* affected_people */
-        NULL, /* document_scope */
+        'Organizational growth introspection', /* document_scope */
         'AI safety', /* cause_area */
         'Bensinger writes that MIRI is hoping to double the size of its research team over the next year or two.' /* notes */
     )
@@ -216,9 +216,9 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Effective Altruism Forum', /* publisher */
         'Machine Intelligence Research Institute', /* affected_organizations */
         NULL, /* affected_people */
-        NULL, /* document_scope */
+        'Hiring-related notice', /* document_scope */
         'AI safety', /* cause_area */
-        'In response to a question, Soares writes that MIRI has decided against hiriting senior math people in a supervisor role, and also writes that MIRI is bottlenecked on technical writing ability.' /* notes */
+        'In response to a question, Soares writes that MIRI has decided against hiriing senior math people in a supervisor role, and also writes that MIRI is bottlenecked on technical writing ability.' /* notes */
     )
     ,(
         'https://forum.effectivealtruism.org/posts/GA7ytcMeRQe5b27ge/ask-miri-anything-ama#pY5CWCmmSvwHXTun7', /* url */
@@ -229,7 +229,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Effective Altruism Forum', /* publisher */
         'Machine Intelligence Research Institute', /* affected_organizations */
         NULL, /* affected_people */
-        NULL, /* document_scope */
+        'Organization operations', /* document_scope */
         'AI safety', /* cause_area */
         'Bourgon answers a question about the differences in what researchers spend their time doing in academia vs at MIRI. He writes that in academia, faculty have non-research responsibilities like grant writing, teaching, supervision, and sitting on councils, as well as publish-or-perish incentives, which are all things that researchers at MIRI don’t have. He also writes that the operations team at MIRI takes care of many “distractions” so that the research team can focus on doing research.' /* notes */
     )
@@ -242,7 +242,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Effective Altruism Forum', /* publisher */
         'Machine Intelligence Research Institute', /* affected_organizations */
         NULL, /* affected_people */
-        NULL, /* document_scope */
+        'Hiring-related notice', /* document_scope */
         'AI safety', /* cause_area */
         'Bourgon answers a question about MIRI’s preferences for its next few hires. He writes that MIRI’s current focus is on expanding its research team.' /* notes */
     )
@@ -255,7 +255,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Effective Altruism Forum', /* publisher */
         'Machine Intelligence Research Institute', /* affected_organizations */
         NULL, /* affected_people */
-        NULL, /* document_scope */
+        'Organization operations', /* document_scope */
         'AI safety', /* cause_area */
         'Soares gives a list of metrics that MIRI uses internally to measure its own success.' /* notes */
     )
@@ -268,7 +268,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Effective Altruism Forum', /* publisher */
         'Machine Intelligence Research Institute', /* affected_organizations */
         NULL, /* affected_people */
-        NULL, /* document_scope */
+        'Job market commentary', /* document_scope */
         'AI safety', /* cause_area */
         'In response to a question, Soares writes that at the moment MIRI is talent-constrained, while noting that MIRI is taking steps to hire more researchers.' /* notes */
     )
@@ -281,7 +281,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Effective Altruism Forum', /* publisher */
         'Machine Intelligence Research Institute', /* affected_organizations */
         NULL, /* affected_people */
-        NULL, /* document_scope */
+        'Hiring-related notice', /* document_scope */
         'AI safety', /* cause_area */
         'Soares notes that MIRI is going to hire a full-time office manager soon. He also writes that MIRI is looking for researchers who can write fast and well, and will look for “a person who can stay up to speed on the technical research but spend most of their time doing outreach and stewarding other researchers who are interested in doing AI alignment research”.' /* notes */
     )
@@ -294,7 +294,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Effective Altruism Forum', /* publisher */
         'Machine Intelligence Research Institute', /* affected_organizations */
         NULL, /* affected_people */
-        NULL, /* document_scope */
+        'Hiring-related notice', /* document_scope */
         'AI safety', /* cause_area */
         'Soares responds to a software engineer about how to get involved.' /* notes */
     )
@@ -404,7 +404,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
     )
     ,(
         'https://www.facebook.com/brianfinifter/posts/10102058260531588', /* url */
-        NULL, /* title */
+        'I have 43 mutual friends with a self proclaimed white nationalist (already down probably a couple dozen from yesterday).', /* title */
         '2020-06-02', /* publication_date */
         NULL, /* modified_date */
         'Brian Finifter', /* author */
