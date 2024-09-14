@@ -38,5 +38,4 @@
     ,('Sam Clarke', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2022-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/samckclarke/',NULL,'position',NULL,'board member','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
     ,('Cecil Abungu', 'Centre for the Study of Existential Risk', 'Visiting Researcher', '2021-10-01', 'month', '2023-07-01', 'month', 'https://www.linkedin.com/in/cecil-abungu-a9244716b/',NULL,'position',NULL,'board member','AI safety') /*closed*/
     ,('Cecil Abungu', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cecil-abungu-a9244716b/',NULL,'position',NULL,'board member','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
-
- 
+   ,('Ross Gruetzemacher', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2022-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rossgritz/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/',NULL,'position',NULL,'board member','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
