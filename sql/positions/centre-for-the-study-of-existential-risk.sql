@@ -8,6 +8,9 @@
 
 
 
+
+
+
     ,('Seán Ó hÉigeartaigh','Centre for the Study of Existential Risk','Executive Director',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/news/lords-ai-committee-written-evidence/ http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/artificial-intelligence-committee/artificial-intelligence/written/69655.html https://archive.is/PTkrC https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://www.cser.ac.uk/team/sean-o-heigeartaigh/ https://arxiv.org/pdf/1802.07228.pdf',NULL,'position',NULL,NULL,'AI safety')
     ,('Shahar Avin','Centre for the Study of Existential Risk','Research Associate',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/news/lords-ai-committee-written-evidence/ http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/artificial-intelligence-committee/artificial-intelligence/written/69655.html https://archive.is/PTkrC https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://www.cser.ac.uk/team/shahar-avin/ https://foresight.org/publications/AGI-Timeframes&PolicyWhitePaper.pdf https://arxiv.org/pdf/1802.07228.pdf',NULL,'position',NULL,NULL,'AI safety')
     ,('Haydn Belfield','Centre for the Study of Existential Risk','Research Associate and Academic Project Manager','2017-01-01','month',NULL,NULL,'https://www.linkedin.com/in/haydnbelfield/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/','April 2020: Long-Term Future Fund Grant Recipient','position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
@@ -30,3 +33,10 @@
     ,('Stephen Hawking','Centre for the Study of Existential Risk','Advisor',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/',NULL,'position',NULL,NULL,'AI safety')
     ,('Sean Holden','Centre for the Study of Existential Risk','Advisor',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/',NULL,'position',NULL,NULL,'AI safety')
     ,('Adrian Weller','Centre for the Study of Existential Risk','Advisor',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/',NULL,'position',NULL,NULL,'AI safety')
+  
+  /*......................................positions found only on LinedIn below...........................................*/
+    ,('Sam Clarke', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2022-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/samckclarke/',NULL,'position',NULL,'board member','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+    ,('Cecil Abungu', 'Centre for the Study of Existential Risk', 'Visiting Researcher', '2021-10-01', 'month', '2023-07-01', 'month', 'https://www.linkedin.com/in/cecil-abungu-a9244716b/',NULL,'position',NULL,'board member','AI safety') /*closed*/
+    ,('Cecil Abungu', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cecil-abungu-a9244716b/',NULL,'position',NULL,'board member','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+
+ 
