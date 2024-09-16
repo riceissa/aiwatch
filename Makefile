@@ -1,5 +1,3 @@
-MYSQL_ARGS=
-
 read:
 	./make-reload-db.sh "$(MYSQL_ARGS)"
 
@@ -8,11 +6,11 @@ access-portal/head_date.txt:
 
 .PHONY: fetch_tablesorter
 fetch_tablesorter:
-	curl --ssl-no-revoke -Lo access-portal/jquery.min.js \
+	curl -Lo access-portal/jquery.min.js \
 		'https://code.jquery.com/jquery-3.7.1.min.js'
-	curl --ssl-no-revoke -Lo access-portal/jquery.tablesorter.js \
+	curl -Lo access-portal/jquery.tablesorter.js \
 		'https://raw.githubusercontent.com/Mottie/tablesorter/master/js/jquery.tablesorter.js'
-	curl --ssl-no-revoke -Lo access-portal/tablesorter.css \
+	curl -Lo access-portal/tablesorter.css \
 		'https://raw.githubusercontent.com/riceissa/tablesorter-bare-bones-theme/master/theme.css'
 
 .PHONY: clean_tablesorter
@@ -23,7 +21,7 @@ clean_tablesorter:
 
 .PHONY: fetch_anchorjs
 fetch_anchorjs:
-	curl --ssl-no-revoke -Lo access-portal/anchor.min.js \
+	curl -Lo access-portal/anchor.min.js \
 		'https://raw.githubusercontent.com/bryanbraun/anchorjs/master/anchor.min.js'
 
 .PHONY: clean_anchorjs
