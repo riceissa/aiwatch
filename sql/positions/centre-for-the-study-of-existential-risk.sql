@@ -3,6 +3,8 @@
     ,('Jaan Tallinn','Centre for the Study of Existential Risk','Co-Founder','2012-01-01','year',NULL,NULL,'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/',NULL,'position',NULL,'board member','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
     ,('Huw Price','Centre for the Study of Existential Risk','Co-Founder','2012-01-01','year',NULL,NULL,'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/',NULL,'position',NULL,'board member','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
     ,('Matthew Connelly', 'Centre for the Study of Existential Risk', 'Director', '2023-07-01', 'month', NULL, NULL, 'https://forum.effectivealtruism.org/posts/pdfmwgGLNMwNAjJdo/new-cser-director-prof-matthew-connelly https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/',NULL,'position',NULL,'board member','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+    
+   .('Thomas Moynihan', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/thomas-moynihan-3a69731a7/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
 
     
 
@@ -42,4 +44,8 @@
    ,('Lara Mani', 'Centre for the Study of Existential Risk', 'Research Associate in Communication and Outreach for a Science of Global Risk', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lara-mani-9b23a228/',NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
    ,('Matthijs M. Maas', 'Centre for the Study of Existential Risk', 'Postdoctoral Research Associate', '2020-10-01', 'month', '2022-07-01', 'month', 'https://www.linkedin.com/in/matthijsmaas/', NULL,'position',NULL,NULL,'AI safety') /*closed*/
    ,('Matthijs M. Maas', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2022-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/matthijsmaas/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+   ,('Abdullahi Alim', 'Centre for the Study of Existential Risk', 'Visiting Researcher', '2022-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/abdullahialim/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+   ,('Taniel Yusef', 'Centre for the Study of Existential Risk', 'Affilliate', '2023-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/taniel-yusef-b301a737/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+   .('Thomas Moynihan', 'Centre for the Study of Existential Risk', 'Visiting Researcher', '2023-03-01', 'month', '2024-03-01', 'month', 'https://www.linkedin.com/in/thomas-moynihan-3a69731a7/', NULL,'position',NULL,NULL,'AI safety') /*closed*/
+
  
