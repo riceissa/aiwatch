@@ -1,4 +1,3 @@
- 
 #!/bin/bash
 
 # Replacement makefile as a workaround for use in Windows (Git Bash).
