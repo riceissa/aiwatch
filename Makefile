@@ -1,3 +1,5 @@
+MYSQL_ARGS=
+
 read:
 	./make-reload-db.sh "$(MYSQL_ARGS)"
 
