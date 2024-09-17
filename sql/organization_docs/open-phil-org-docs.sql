@@ -90,4 +90,32 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* cause_area */
         'Open Philanthropy’s Recruiting Manager Anya Hunt discusses with Michael Levine about Open Philanthropy’s approach to recruiting, the role of work tests in the application process, and measures Open Phil is taking to diversify their pipeline and attract talent from different communities.' /* notes */
     )
+    ,(
+        'https://www.openphilanthropy.org/research/12-tentative-ideas-for-us-ai-policy/', /* url */
+        '12 Tentative Ideas for US AI Policy', /* title */
+        '2023-04-17', /* publication_date */
+        NULL, /* modified_date */
+        'Luke Muehlhauser', /* author */
+        'Open Philanthropy', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        NULL, /* document_scope */
+        NULL, /* cause_area */
+        'Muehlhauser provides an update on 12 US policy ideas that could reduce existential risks from transformative AI, reflecting his tentative opinions and recent developments in the field.' /* notes */
+    )
+    ,(
+        'https://www.openphilanthropy.org/research/potential-risks-from-advanced-artificial-intelligence-the-philanthropic-opportunity/', /* url */
+        'Potential Risks from Advanced Artificial Intelligence: The Philanthropic Opportunity', /* title */
+        '2016-05-16', /* publication_date */
+        NULL, /* modified_date */
+        'Holden Karofsky', /* author */
+        'Open Philanthropy', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        NULL, /* document_scope */
+        NULL, /* cause_area */
+        'Karnofsky discusses the potential risks posed by advanced artificial intelligence and the philanthropic opportunities to mitigate those risks.' /* notes */
+    )
+    
 ;
+
