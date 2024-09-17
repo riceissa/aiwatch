@@ -218,7 +218,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* affected_people */
         'Hiring-related notice', /* document_scope */
         'AI safety', /* cause_area */
-        'In response to a question, Soares writes that MIRI has decided against hiriing senior math people in a supervisor role, and also writes that MIRI is bottlenecked on technical writing ability.' /* notes */
+        'In response to a question, Soares writes that MIRI has decided against hiring senior math people in a supervisor role, and also writes that MIRI is bottlenecked on technical writing ability.' /* notes */
     )
     ,(
         'https://forum.effectivealtruism.org/posts/GA7ytcMeRQe5b27ge/ask-miri-anything-ama#pY5CWCmmSvwHXTun7', /* url */
