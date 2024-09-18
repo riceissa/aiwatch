@@ -14,6 +14,10 @@
     ,('Shahar Avin','Centre for the Study of Existential Risk','Research Associate',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/news/lords-ai-committee-written-evidence/ http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/artificial-intelligence-committee/artificial-intelligence/written/69655.html https://archive.is/PTkrC https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://www.cser.ac.uk/team/shahar-avin/ https://foresight.org/publications/AGI-Timeframes&PolicyWhitePaper.pdf https://arxiv.org/pdf/1802.07228.pdf',NULL,'position',NULL,NULL,'AI safety')
     ,('Haydn Belfield','Centre for the Study of Existential Risk','Research Associate and Academic Project Manager','2017-01-01','month',NULL,NULL,'https://www.linkedin.com/in/haydnbelfield/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/','April 2020: Long-Term Future Fund Grant Recipient','position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
     ,('Fazl Barez', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2022-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/fbarez/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/',NULL,'position',NULL,'board member','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+   ,('Lalitha Sundaram', 'Centre for the Study of Existential Risk', 'Senior Research Associate', '2017-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lalitha-sundaram-b64a292/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/',NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+
+
+
     ,('Yang Liu','Centre for the Study of Existential Risk','Research Associate',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://www.cser.ac.uk/team/yang-liu/',NULL,'position',NULL,NULL,'AI safety')
     ,('Beth Barnes','Centre for the Study of Existential Risk','Research Affiliate',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://www.cser.ac.uk/team/beth-barnes/',NULL,'position',NULL,NULL,'AI safety')
     ,('Seth Baum','Centre for the Study of Existential Risk','Research Affiliate',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://www.cser.ac.uk/team/seth-baum/',NULL,'position',NULL,NULL,'AI safety')
@@ -42,11 +46,8 @@
    ,('Matthijs M. Maas', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2022-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/matthijsmaas/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
    ,('Abdullahi Alim', 'Centre for the Study of Existential Risk', 'Visiting Researcher', '2022-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/abdullahialim/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
    ,('Thomas Moynihan', 'Centre for the Study of Existential Risk', 'Visiting Researcher', '2023-03-01', 'month', '2024-03-01', 'month', 'https://www.linkedin.com/in/thomas-moynihan-3a69731a7/', NULL,'position',NULL,NULL,'AI safety') /*closed*/
-
-
-
-
-
+  ,('Carla Zoe Cremer', 'Centre for the Study of Existential Risk', 'Affiliated Researcher', '2018-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/carla-zoe-cremer-34073068/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+   ,('Charlotte Christiane Hammer', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2020-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/charlotte-christiane-hammer/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
 
 
  ;
