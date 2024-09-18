@@ -56,6 +56,8 @@
   ,('Zoe Hemsley', 'Centre for the Study of Existential Risk', 'Research Assistant', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/zoe-hemsley-4180311a7/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
    ,('Laura Elmer', 'Centre for the Study of Existential Risk', 'PA and Administrative Assistant', '2020-11-01', 'month', '2024-01-01', 'month', 'https://www.linkedin.com/in/laura-elmer-68ab29155/', NULL,'position',NULL,'Full-time','AI safety') /*closed*/
    ,('José Hernández-Orallo', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2021-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jos%C3%A9-hern%C3%A1ndez-orallo-b04005245/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
-
-
- ;
+   ,('Alexandra Klein', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2024-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alexandra-klein-bb9b24121/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+   ,('Alexandra Klein', 'Centre for the Study of Existential Risk', 'Research Assistant', '2022-09-01', 'month', '2024-01-01', 'month', 'https://www.linkedin.com/in/alexandra-klein-bb9b24121/', NULL,'position',NULL,NULL,'AI safety') /*closed*/
+   ,('Reuben Makomere', 'Centre for the Study of Existential Risk', 'Visiting Scholar', '2024-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/reubenmakomere/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+   ,('Jessica Bland', 'Centre for the Study of Existential Risk', 'Deputy Director', '2021-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jessica-bland-86742216/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+   ,('Sarah Dryhurst', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sarahdryhurst/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
