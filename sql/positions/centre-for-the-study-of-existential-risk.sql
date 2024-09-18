@@ -16,6 +16,8 @@
     ,('Fazl Barez', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2022-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/fbarez/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/',NULL,'position',NULL,'board member','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
    ,('Lalitha Sundaram', 'Centre for the Study of Existential Risk', 'Senior Research Associate', '2017-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lalitha-sundaram-b64a292/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/',NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
    ,('Paul Ingram', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/paul-ingram-393a755/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Full-time','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+   ,('Laura Elmer', 'Centre for the Study of Existential Risk', 'Communication and Events Administrator', '2024-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/laura-elmer-68ab29155/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Full-time','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+
 
 
     ,('Yang Liu','Centre for the Study of Existential Risk','Research Associate',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://www.cser.ac.uk/team/yang-liu/',NULL,'position',NULL,NULL,'AI safety')
@@ -52,9 +54,8 @@
    ,('Paul Ingram', 'Centre for the Study of Existential Risk', 'Academic Programme Manager', '2021-11-01', 'month', '2024-03-01', 'month', 'https://www.linkedin.com/in/paul-ingram-393a755/
 ', NULL,'position',NULL,'Full-time','AI safety') /*closed*/
   ,('Zoe Hemsley', 'Centre for the Study of Existential Risk', 'Research Assistant', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/zoe-hemsley-4180311a7/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
-
-
-
+   ,('Laura Elmer', 'Centre for the Study of Existential Risk', 'PA and Administrative Assistant', '2020-11-01', 'month', '2024-01-01', 'month', 'https://www.linkedin.com/in/laura-elmer-68ab29155/', NULL,'position',NULL,'Full-time','AI safety') /*closed*/
+   ,('José Hernández-Orallo', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2021-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jos%C3%A9-hern%C3%A1ndez-orallo-b04005245/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
 
 
  ;
