@@ -48,6 +48,10 @@
    ,('Thomas Moynihan', 'Centre for the Study of Existential Risk', 'Visiting Researcher', '2023-03-01', 'month', '2024-03-01', 'month', 'https://www.linkedin.com/in/thomas-moynihan-3a69731a7/', NULL,'position',NULL,NULL,'AI safety') /*closed*/
   ,('Carla Zoe Cremer', 'Centre for the Study of Existential Risk', 'Affiliated Researcher', '2018-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/carla-zoe-cremer-34073068/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
    ,('Charlotte Christiane Hammer', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2020-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/charlotte-christiane-hammer/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
-
+   ,('Kennedy Mbeva', 'Centre for the Study of Existential Risk', 'Research Associate', '2023-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kennedy-mbeva/', NULL,'position',NULL,'Full-time','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+   ,('Paul Ingram', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/paul-ingram-393a755/', NULL,'position',NULL,'Full-time','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+   ,('Paul Ingram', 'Centre for the Study of Existential Risk', 'Academic Programme Manager', '2021-11-01', 'month', '2024-03-01', 'month', 'https://www.linkedin.com/in/paul-ingram-393a755/
+', NULL,'position',NULL,'Full-time','AI safety') /*closed*/
+ 
 
  ;
