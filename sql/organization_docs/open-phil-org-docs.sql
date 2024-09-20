@@ -60,8 +60,8 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Effective Altruism Forum', /* publisher */
         'Open Philanthropy|OpenAI|Berkeley Existential Risk Initiative|Centre for Effective Altruism|Future of Humanity Institute|AI Impacts', /* affected_organizations */
         NULL, /* affected_people */
-        NULL, /* document_scope */
-        NULL, /* cause_area */
+        'Job application experience', /* document_scope */
+        'Various', /* cause_area */
         'Daniel gives his experience applying to various effective altruist organizations, detailing the time he spent on applications and preparation.' /* notes */
     )
     ,(
@@ -73,8 +73,8 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Effective Altruism Forum', /* publisher */
         'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
-        NULL, /* document_scope */
-        NULL, /* cause_area */
+        'Job application Experience', /* document_scope */
+        'Various', /* cause_area */
         'Muehlhauser gives thoughts on applying to effective altruist organizations. He encourages people to not worry about wasting organizations’ time reviewing applications.' /* notes */
     )
     ,(
@@ -86,8 +86,8 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Open Philanthropy', /* publisher */
         'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
-        NULL, /* document_scope */
-        NULL, /* cause_area */
+        'Hiring Related Notice', /* document_scope */
+        'AI Safety', /* cause_area */
         'Open Philanthropy’s Recruiting Manager Anya Hunt discusses with Michael Levine about Open Philanthropy’s approach to recruiting, the role of work tests in the application process, and measures Open Phil is taking to diversify their pipeline and attract talent from different communities.' /* notes */
     )
     ,(
@@ -100,7 +100,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
         NULL, /* document_scope */
-        NULL, /* cause_area */
+        'AI Safety', /* cause_area */
         'Muehlhauser provides an update on 12 US policy ideas that could reduce existential risks from transformative AI, reflecting his tentative opinions and recent developments in the field.' /* notes */
     )
     ,(
@@ -108,14 +108,40 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Potential Risks from Advanced Artificial Intelligence: The Philanthropic Opportunity', /* title */
         '2016-05-16', /* publication_date */
         NULL, /* modified_date */
-        'Holden Karofsky', /* author */
+        'Holden Karnofsky', /* author */
         'Open Philanthropy', /* publisher */
         'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
-        NULL, /* document_scope */
-        NULL, /* cause_area */
+        'General Organization Operations', /* document_scope */
+        'AI Safety', /* cause_area */
         'Karnofsky discusses the potential risks posed by advanced artificial intelligence and the philanthropic opportunities to mitigate those risks.' /* notes */
     )
+     ,(
+        'https://www.openphilanthropy.org/research/our-ai-governance-grantmaking-so-far/', /* url */
+        'Our AI Governance Grantmaking So Far', /* title */
+        '2020-12-08', /* publication_date */
+        NULL, /* modified_date */
+        'Luke Muehlhauser', /* author */
+        'Open Philanthropy', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization Operations', /* document_scope */
+        'AI Safety', /* cause_area */
+        "Muehlhauser outlines Open Philanthropy's AI governance grantmaking priorities, focusing on reducing catastrophic risks from transformative AI by funding research, advocacy, and field-building efforts to improve AI governance, with comparisons to past successes like the Nunn-Lugar Act in mitigating nuclear threats." /* notes */
+    )
     
+    ,(
+        'https://www.openphilanthropy.org/research/rfps-on-llm-impacts/', /* url */
+        'Two New Requests for Proposals: Understanding the Real-World Capabilities and Impacts of Large Language Models', /* title */
+        '2023-11-10', /* publication_date */
+        NULL, /* modified_date */
+        'Ajeya Cotra', /* author */
+        'Open Philanthropy', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization Operations', /* document_scope */
+        'AI Safety', /* cause_area */
+        "Cotra announces Open Philanthropy's requests for proposals to fund research on benchmarking large language model (LLM) agents and studying the real-world impacts of LLM systems, aiming to better understand their capabilities, potential risks, and long-term societal effects." /* notes */
+    )
 ;
 
