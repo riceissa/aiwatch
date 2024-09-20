@@ -84,6 +84,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Cullen O"Keefe','OpenAI','Research Scientist (Policy)','2019-08-01', 'month', '2021-02-01', 'month','https://www.linkedin.com/in/ccokeefe-law/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on 2023-09-25*/
     ,('Cullen O"Keefe','OpenAI','Counsel, Policy & Governance','2021-02-01', 'month', '2022-04-01', 'month','https://www.linkedin.com/in/ccokeefe-law/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-09-25*/
     ,('Daniel Kappler', 'OpenAI', 'Member of Technical Staff', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/daniel-kappler-a20b337b/', NULL, 'AGI organization', NULL, 'full-time','AI safety') /*Reviewed on 2023-10-18*/ /*current position*/
+    ,('Daniel Kokotajlo', 'OpenAI', 'Governance researcher', '2022-01-01', 'year', '2024-04-01', 'month', 'https://www.nytimes.com/2024/06/04/technology/openai-culture-whistleblowers.html https://x.com/DKokotajlo67142/status/1797994238468407380?lang=en', NULL, 'AGI organization', NULL, NULL,'AI safety') /*closed*/
     /*,('Daniel Levy','OpenAI','Member Of Technical Staff','2022-03-01','month', NULL, NULL,'https://www.linkedin.com/in/daniel-levy-87032a221/',NULL, 'AGI organization',NULL, 'full-time','AI safety')*/
     ,('Daniel Ziegler','OpenAI','Member Of Technical Staff','2018-05-01','month','2021-11-01','month','https://futureoflife.org/wp-content/uploads/2019/01/BAGI-bios.pdf https://www.linkedin.com/in/daniel-ziegler-b4b61882/ https://80000hours.org/podcast/episodes/olsson-and-ziegler-ml-engineering-and-safety/','Research engineer on the Safety Team','position',NULL,NULL,'AI safety') /*Reviewed on 2023-09-25*/
     ,('Daniela Amodei','OpenAI','Engineering Manager + VP of People','2018-10-01','month','2020-05-01','month','https://www.linkedin.com/in/daniela-amodei-790bb22a/ https://futureoflife.org/wp-content/uploads/2019/01/BAGI-bios.pdf',NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on 2023-09-25*/
@@ -188,6 +189,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jakub Pachocki','OpenAI','Research Lead (Science of Deep Learning)','2017-03-01','month',NULL,NULL,'https://www.linkedin.com/in/jakub-pachocki/details/experience/',NULL,'AGI organization',NULL,'Full-time','AI safety') /*Reviewed on 2023-09-29*/ /*current position*/ 
     ,('Jakub Pachocki','OpenAI','Principal of Research','2021-11-01','month',NULL,NULL,'https://www.linkedin.com/in/jakub-pachocki/details/experience/',NULL,'AGI organization',NULL,'Full-time','AI safety') /*Reviewed on 2023-09-29*/ /*current position*/ 
     ,('Jan Hendrik Kirchner', 'OpenAI', 'Research Engineer', '2022-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jan-hendrik-kirchner-17077393/', NULL, 'AGI organization',NULL,NULL,'AI safety') /*Reviewed on 2023-10-20*/ /*current position*/ 
+    ,('Jan Leike', 'OpenAI', 'Executive', '2021-01-01', 'year', '2024-05-16', 'day', 'https://web.archive.org/web/20240519023447/https://time.com/collection/time100-ai/6310616/jan-leike/ https://www.ndtv.com/world-news/jan-leike-openai-executive-jan-leike-resigns-cites-safety-concerns-sam-altman-responds-5719798', 'head of alignment, superalignment lead, and executive', NULL, NULL, NULL, 'AI safety') /*closed*/ 
     ,('Janet Brown','OpenAI','OpenAI Scholar','2019-02-01','month','2019-05-01','month','https://openai.com/blog/openai-scholars-class-of-19/ https://openai.com/blog/openai-scholars-spring-2019-final-projects/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Janine Korovesis','OpenAI','Controller','2018-11-01','month', '2022-02-01', 'month','https://www.linkedin.com/in/janinekorovesis/',NULL,'AGI organization',NULL,'full-time','AI safety') /*Reviewed on 2023-09-30*/
     ,('Janine Korovesis','OpenAI','VP Finance','2022-02-01','month', NULL, NULL,'https://www.linkedin.com/in/janinekorovesis/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-09-30*/ /*current position*/ 
@@ -382,6 +384,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Ryan Peterson','OpenAI','Executive Recruiting Lead','2023-01-01','month', NULL, NULL,'https://www.linkedin.com/in/ryanpeterson41/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on 2023-10-09*/ /*current position*/
     ,('Sadhika Malladi','OpenAI','Research Scientist','2018-05-01','month','2018-10-01','month','https://www.linkedin.com/in/sadhikamalladi/',NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on 2023-10-09*/
     ,('Sam Altman', 'OpenAI', 'Co-Founder', '2015-12-11', 'month', NULL, NULL, 'https://en.wikipedia.org/wiki/OpenAI', NULL, NULL, NULL, 'board member', 'AI safety') /*Reviewed on 2023-10-09*/
+    ,('Sam Altman', 'OpenAI', 'Chief Executive Officer', '2023-11-29', 'month', NULL, NULL, 'https://openai.com/index/sam-altman-returns-as-ceo-openai-has-a-new-initial-board/ https://en.wikipedia.org/wiki/OpenAI', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-20*/ /*current position*/
     ,('Sam McCandlish','OpenAI','OpenAI Fellow','2018-05-01','month','2020-12-01','month','https://openai.com/blog/openai-summer-fellows-2018/ https://www.linkedin.com/in/sam-mccandlish',NULL,'AGI organization',NULL,'intern','AI safety') /*Reviewed on 2023-10-09*/
     /*,('Sandy Huang','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/adversarial-example-research/',NULL,NULL,NULL,NULL,'AI safety')*/
     ,('Sarah Shoker','OpenAI','Research Scientist','2021-09-01','month', NULL, NULL,'https://www.linkedin.com/in/sarahshoker/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-10-09*/
@@ -480,5 +483,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Zack Kass','OpenAI','Head of GTM','2021-01-01', 'year', NULL, NULL,'https://www.linkedin.com/in/zackkass/',NULL, 'AGI organization',NULL, NULL,'AI safety')
     ,('Zain Shah','OpenAI','Machine Learning Research','2016-07-01','month','2016-11-01','month','https://blog.openai.com/team-update-august/ https://www.linkedin.com/in/za1nsh4h/',NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on 2023-09-27*/
     ,('Zarina Stanik','OpenAI','Enterprise Marketing','2021-12-01','month', NULL, NULL,'https://www.linkedin.com/in/zarina-stanik-41818b24/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-10-10*/         
+    ,('Zico Kolter', 'OpenAI', 'Board of Directors', '2024-08-01', 'month', NULL, NULL, 'https://openai.com/index/zico-kolter-joins-openais-board-of-directors/', NULL,'AGI organization',NULL,'board member','AI safety') /*Reviewed on 2024-09-20*/ /*current position*/
+    
+
+    
 
  
