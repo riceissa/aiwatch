@@ -112,9 +112,9 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Open Philanthropy', /* publisher */
         'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
-        'General Organization Operations', /* document_scope */
+        'General Organization Operations,' /* document_scope */
         'AI Safety', /* cause_area */
-        'Karnofsky discusses the potential risks posed by advanced artificial intelligence and the philanthropic opportunities to mitigate those risks.' /* notes */
+        'Karnofsky discusses the potential risks posed by advanced artificial intelligence and the philanthropic opportunities to mitigate those risks.', /* notes */
     )
      ,(
         'https://www.openphilanthropy.org/research/our-ai-governance-grantmaking-so-far/', /* url */
@@ -127,7 +127,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* affected_people */
         'Organization Operations', /* document_scope */
         'AI Safety', /* cause_area */
-        "Muehlhauser outlines Open Philanthropy's AI governance grantmaking priorities, focusing on reducing catastrophic risks from transformative AI by funding research, advocacy, and field-building efforts to improve AI governance, with comparisons to past successes like the Nunn-Lugar Act in mitigating nuclear threats." /* notes */
+        "Muehlhauser outlines Open Philanthropys AI governance grantmaking priorities, focusing on reducing catastrophic risks from transformative AI by funding research, advocacy, and field-building efforts to improve AI governance, with comparisons to past successes like the Nunn-Lugar Act in mitigating nuclear threats." /* notes */
     )
     
     ,(
@@ -139,9 +139,113 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Open Philanthropy', /* publisher */
         'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
-        'Organization Operations', /* document_scope */
+        'Organisation Operations', /* document_scope */
         'AI Safety', /* cause_area */
         "Cotra announces Open Philanthropy's requests for proposals to fund research on benchmarking large language model (LLM) agents and studying the real-world impacts of LLM systems, aiming to better understand their capabilities, potential risks, and long-term societal effects." /* notes */
+    )
+    ,(
+        'https://www.openphilanthropy.org/research/jacob-steinhardt-graduate-student-in-artificial-intelligence-stanford-university-and-science-advisor-open-philanthropy-project/', /* url */
+        'Jacob Steinhardt, Graduate Student in Artificial Intelligence, Stanford University and Science Advisor, Open Philanthropy Project', /* title */
+        '2015-08-19', /* publication_date */
+        NULL, /* modified_date */
+        'Jacob	Steinhardt and Luke	Muehlhauser', /* author */
+        'Open Philanthropy', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'General discussion of organizational practices', /* document_scope */
+        'AI Safety', /* cause_area */
+        "Muehlhauser engages in a conversation with Jacob Steinhardt about the risks and benefits of artificial intelligence, exploring various aspects of AI governance, alignment, and safety research, while addressing key considerations for effective decision-making in the field." /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/SQSXfiByKat2YzpWu/new-roles-on-my-team-come-build-open-phil-s-technical-ai', /* url */
+        "New roles on my team: come build Open Phil's technical AI safety program with me!", /* title */
+        '2023-10-19', /* publication_date */
+        NULL, /* modified_date */
+        'Ajeya Cotra', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Hiring-related notice', /* document_scope */
+        'AI Safety', /* cause_area */
+        "Ajeya Cotra discusses Open Philanthropy's recent hiring initiatives in the Technical AI Safety team, highlighting the need for more capacity to evaluate and fund AI safety research, and the potential for significant growth in grantmaking to address global catastrophic risks." /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/RueHqBuBKQBtSYkzp/observations-on-the-funding-landscape-of-ea-and-ai-safety', /* url */
+        "Observations on the funding landscape of EA and AI safety", /* title */
+        '2023-10-02', /* publication_date */
+        NULL, /* modified_date */
+        'Vilhelm Skoglund', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        "Third-party commentary on funding dynamics within the EA community", /* document_scope */
+        'AI Safety', /* cause_area */
+        "Skoglund analyzes the current funding landscape for effective altruism (EA) and AI safety, highlighting trends, challenges, and opportunities for funders in these areas while reflecting on the implications for long-term impact." /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/aJwcgm2nqiZu6zq2S/taking-a-leave-of-absence-from-open-philanthropy-to-work-on', /* url */
+        "Taking a leave of absence from Open Philanthropy to work on AI safety", /* title */
+        '2023-02-23', /* publication_date */
+        NULL, /* modified_date */
+        'Holden Karnofsky', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        'Holden Karnofsky', /* affected_people */
+        "Leadership transition at Open Philanthropy.", /* document_scope */
+        'AI Safety', /* cause_area */
+        "Karnofsky announces his upcoming leave of absence from Open Philanthropy to focus on AI safety, particularly on establishing safety standards for AI systems, while Alexander Berger will serve as sole CEO during his absence, emphasizing his commitment to effective organizational transitions and reducing AI risk." /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/FPXFtBQHhkDDHBSt6/report-on-semi-informative-priors-for-ai-timelines-open', /* url */
+        "Report on Semi-informative Priors for AI timelines (Open Philanthropy)", /* title */
+        '2021-03-26', /* publication_date */
+        NULL, /* modified_date */
+        'Tom_Davidson', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        "Predicting AGI development", /* document_scope */
+        'AI Safety', /* cause_area */
+        "Davidson presents a report for Open Philanthropy that develops a framework for forecasting the development of artificial general intelligence (AGI) using historical analogies, estimating probabilities for AGI's arrival by specific years, and emphasizing the need for cautious interpretation of these predictions due to subjective judgments and the exclusion of certain evidence." /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/QAqghTmp7FSMcJ4ch/ama-ajeya-cotra-researcher-at-open-phil#praXjZNWfQKDNwuQg', /* url */
+        "AMA: Ajeya Cotra, researcher at Open Phil", /* title */
+        '2021-01-28', /* publication_date */
+        NULL, /* modified_date */
+        'Ajeya Cotra', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        "Open Philanthropy's approach to funding AI safety", /* document_scope */
+        'AI Safety', /* cause_area */
+        "Cotra discusses funding opportunities in AI safety that Open Philanthropy would support, emphasizing the importance of mentoring senior researchers to foster early-career talent, while also addressing challenges in evaluating grant applications and the focus on larger grants over smaller ones." /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/QAqghTmp7FSMcJ4ch/ama-ajeya-cotra-researcher-at-open-phil#PqNACu5gqrJnrJBWc', /* url */
+        "AMA: Ajeya Cotra, researcher at Open Phil", /* title */
+        '2021-01-28', /* publication_date */
+        NULL, /* modified_date */
+        'Ajeya Cotra', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        "Forecasting AI timelines using economic modeling", /* document_scope */
+        'AI Safety', /* cause_area */
+        "Cotra expresses excitement about economic modeling approaches to AI timelines and takeoff dynamics, highlighting the potential of historical value-added estimates and analyses that relate AI progress to hardware and software efforts, particularly in the context of Open Philanthropy's interests in forecasting AI development." /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/Tujzv8bRETmS3GBMp/ai-safety-incubation-program-applications-open', /* url */
+        "AMA: Ajeya Cotra, researcher at Open Phil", /* title */
+        '2021-01-28', /* publication_date */
+        NULL, /* modified_date */
+        'Ajeya Cotra', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        "Forecasting AI timelines using economic modeling", /* document_scope */
+        'AI Safety', /* cause_area */
+        "Cotra expresses excitement about economic modeling approaches to AI timelines and takeoff dynamics, highlighting the potential of historical value-added estimates and analyses that relate AI progress to hardware and software efforts, particularly in the context of Open Philanthropy's interests in forecasting AI development." /* notes */
     )
 ;
 
