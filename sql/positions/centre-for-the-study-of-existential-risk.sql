@@ -15,7 +15,7 @@
     ,('Shahar Avin','Centre for the Study of Existential Risk','Research Associate','2015-09-01','month','2015-09-01','month','https://www.linkedin.com/in/shaharavin/ https://www.cser.ac.uk/news/lords-ai-committee-written-evidence/ http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/artificial-intelligence-committee/artificial-intelligence/written/69655.html https://archive.is/PTkrC https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://www.cser.ac.uk/team/shahar-avin/ https://foresight.org/publications/AGI-Timeframes&PolicyWhitePaper.pdf https://arxiv.org/pdf/1802.07228.pdf',NULL,'position',NULL,NULL,'AI safety') /*closed*/
     ,('Shahar Avin','Centre for the Study of Existential Risk','Senior Research Associate','2019-09-01','month',NULL,NULL,'https://www.linkedin.com/in/shaharavin/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/',NULL,'position',NULL,'Full-time','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
  
-  ('Maurice Chiodo', 'Centre for the Study of Existential Risk', 'Research Associate', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/maurice-chiodo-516542261/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Full-time','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+  ,('Maurice Chiodo', 'Centre for the Study of Existential Risk', 'Research Associate', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/maurice-chiodo-516542261/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Full-time','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
    ,('S. J. Beard', 'Centre for the Study of Existential Risk', 'Academic Programme Manager and Senior Research Associate', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/simon-beard/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Full-time','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
 
 
@@ -83,10 +83,14 @@
 
 
 
-
-
-
-
+ 
  
 
+ ,('Catherine Rhodes', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2021-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/catherine-rhodes-9a70a25b/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+ ,('Coleman Snell', 'Centre for the Study of Existential Risk', 'Research Fellow', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/coleman-snell/', NULL, 'position', NULL, 'Full-time', 'AI safety') 
+/*Reviewed on 2024-09-04*/ /*current position*/
+
  
+ ,('Freya Jephcott', 'Centre for the Study of Existential Risk', 'Senior Research Associate', '2021-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/freya-jephcott-a959b992/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL, 'position', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+
+,('Freya Jephcott', 'Centre for the Study of Existential Risk', 'Postdoctoral Research Associate', '2020-09-01', 'month', '2021-11-01', 'month', 'https://www.linkedin.com/in/freya-jephcott-a959b992/', NULL, 'position', NULL, NULL, 'AI safety') /*closed*/
