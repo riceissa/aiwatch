@@ -81,22 +81,16 @@
    ,('Shahar Avin', 'Centre for the Study of Existential Risk', 'Research Associate', '2015-09-01', 'month', '2019-09-01', 'month', 'https://www.linkedin.com/in/shaharavin/',  NULL,'position',NULL,NULL,'AI safety') /*closed*/
 
 
-
-
- 
- 
-
  ,('Catherine Rhodes', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2021-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/catherine-rhodes-9a70a25b/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
  ,('Coleman Snell', 'Centre for the Study of Existential Risk', 'Research Fellow', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/coleman-snell/', NULL, 'position', NULL, 'Full-time', 'AI safety') 
 /*Reviewed on 2024-09-04*/ /*current position*/
-
- 
  ,('Freya Jephcott', 'Centre for the Study of Existential Risk', 'Senior Research Associate', '2021-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/freya-jephcott-a959b992/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL, 'position', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
-
 ,('Freya Jephcott', 'Centre for the Study of Existential Risk', 'Postdoctoral Research Associate', '2020-09-01', 'month', '2021-11-01', 'month', 'https://www.linkedin.com/in/freya-jephcott-a959b992/', NULL, 'position', NULL, NULL, 'AI safety') /*closed*/
 ,('Constantin Arnscheidt', 'Centre for the Study of Existential Risk', 'Research Associate', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/constantinarnscheidt/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL, 'position', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
 ,('Nathaniel Cooke', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2022-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nathanielcooke/', NULL, 'position', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
-
 ,('Clarissa Rios Rojas', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/clarissariosrojas/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL, 'position', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
-
-,('Clarissa Rios Rojas', 'Centre for the Study of Existential Risk', 'Postdoctoral Research Associate', '2020-03-01', 'month', '2023-03-01', 'month', 'https://www.linkedin.com/in/clarissariosrojas/', NULL, 'position', NULL, 'Full-time', 'AI safety') /*closed/
+,('Clarissa Rios Rojas', 'Centre for the Study of Existential Risk', 'Postdoctoral Research Associate', '2020-03-01', 'month', '2023-03-01', 'month', 'https://www.linkedin.com/in/clarissariosrojas/', NULL, 'position', NULL, 'Full-time', 'AI safety') /*closed*/
+,('Tom Hobson', 'Centre for the Study of Existential Risk', 'Postdoctoral Research Associate', '2020-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tom-hobson87/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL, 'position', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/ 
+,('Elizabeth Cooper', 'Centre for the Study of Existential Risk', 'Visiting Researcher', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/eicooper/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL, 'position', NULL, NULL, 'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+,('Shin-Shin Hua', 'Centre for the Study of Existential Risk', 'Research Affiliate in AI research', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shin-shin-hua-0a048067/', NULL, 'position', NULL, NULL, 'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+,('Rumtin Sepasspour', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2019-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rumtin/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL, 'position', NULL, NULL, 'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
