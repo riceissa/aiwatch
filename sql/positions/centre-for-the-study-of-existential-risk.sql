@@ -3,6 +3,16 @@
     ,('Jaan Tallinn','Centre for the Study of Existential Risk','Co-Founder','2012-01-01','year',NULL,NULL,'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/',NULL,'position',NULL,'board member','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
     ,('Huw Price','Centre for the Study of Existential Risk','Co-Founder','2012-01-01','year',NULL,NULL,'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/',NULL,'position',NULL,'board member','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
     ,('Matthew Connelly', 'Centre for the Study of Existential Risk', 'Director', '2023-07-01', 'month', NULL, NULL, 'https://forum.effectivealtruism.org/posts/pdfmwgGLNMwNAjJdo/new-cser-director-prof-matthew-connelly https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/',NULL,'position',NULL,'board member','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+   ,('Jessica Bland', 'Centre for the Study of Existential Risk', 'Deputy Director', '2021-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jessica-bland-86742216/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/',NULL,'position',NULL,'board member','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+   ,('Clare Arnstein', 'Centre for the Study of Existential Risk', 'Centre Co-ordinator (CSER) & Deputy Institute Manager (Institute for Technology and Humanity)', '2024-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/clare-arnstein/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Full-time','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+
+
+
+/*Nikol Bobokova*/
+
+
+
+
    ,('Thomas Moynihan', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/thomas-moynihan-3a69731a7/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
    ,('Aarathi Krishnan', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/aarathikrishnan/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
    ,('Julian Huppert', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2023-11-16', 'month', NULL, NULL, 'https://www.linkedin.com/posts/centre-for-the-study-of-existential-risk_were-pleased-to-announce-julian-huppert-activity-7130562160165842944-rrbC/?trk=public_profile_like_view https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
@@ -72,9 +82,9 @@
 
    
    ,('Reuben Makomere', 'Centre for the Study of Existential Risk', 'Visiting Scholar', '2024-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/reubenmakomere/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
-   ,('Jessica Bland', 'Centre for the Study of Existential Risk', 'Deputy Director', '2021-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jessica-bland-86742216/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+
    ,('Sarah Dryhurst', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sarahdryhurst/', NULL,'position',NULL,NULL,'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
-   ,('Clare Arnstein', 'Centre for the Study of Existential Risk', 'Centre Co-ordinator (CSER) & Deputy Institute Manager (Institute for Technology and Humanity)', '2024-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/clare-arnstein/', NULL,'position',NULL,'Full-time','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+
    ,('Clare Arnstein', 'Centre for the Study of Existential Risk', 'Centre Co-ordinator, Centre for the Study of Existential Risk', '2018-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/clare-arnstein/', NULL,'position',NULL,'Full-time','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
    ,('Shoshana Dahdi', 'Centre for the Study of Existential Risk', 'CERI Futures Fellowship ', '2024-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shoshana-dahdi-88816a1a5/', NULL,'position',NULL,'Part-time','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
    ,('Shahar Avin', 'Centre for the Study of Existential Risk', 'Senior Research Associate', '2019-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shaharavin/', NULL,'position',NULL,'Full-time','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
