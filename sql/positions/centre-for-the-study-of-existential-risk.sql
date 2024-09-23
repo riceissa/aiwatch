@@ -54,6 +54,23 @@ S. M. Amadae*/
 
 
 
+,('Jessica Bland', 'Centre for the Study of Existential Risk', 'Deputy Director; Member of CSER Advisory Board', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Advisor','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+,('Des Browne', 'Centre for the Study of Existential Risk', 'Member of CSER Advisory Board', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Advisor','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+,('Belinda Cleeland', 'Centre for the Study of Existential Risk', 'Member of CSER Advisory Board', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Advisor','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+,('Matthew Connelly', 'Centre for the Study of Existential Risk', 'Director; Member of CSER Advisory Board', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Advisor','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+,('Beatrice Crona', 'Centre for the Study of Existential Risk', 'Member of CSER Advisory Board', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Advisor','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+,('Robert Doubleday', 'Centre for the Study of Existential Risk', 'Member of CSER Advisory Board', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Advisor','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+,('Thomas Homer-Dixon', 'Centre for the Study of Existential Risk', 'Member of CSER Advisory Board', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Advisor','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+,('Piers Millett', 'Centre for the Study of Existential Risk', 'Member of CSER Advisory Board', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Advisor','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+,('Mami Mizutori', 'Centre for the Study of Existential Risk', 'Member of CSER Advisory Board', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Advisor','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+,('Susan Owens', 'Centre for the Study of Existential Risk', 'Member of CSER Advisory Board', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Advisor','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+,('Martin Rees', 'Centre for the Study of Existential Risk', 'Co-founder; Member of CSER Advisory Board', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Advisor','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+,('Madhulika Srikumar', 'Centre for the Study of Existential Risk', 'Research Affiliate; Member of CSER Advisory Board', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Advisor','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+,('William Sutherland', 'Centre for the Study of Existential Risk', 'Member of CSER Advisory Board', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Advisor','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+,('Jaan Tallinn', 'Centre for the Study of Existential Risk', 'Co-founder; Member of CSER Advisory Board', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Advisor','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+,('Clare Arnstein', 'Centre for the Study of Existential Risk', 'Centre Co-ordinator (CSER) & Deputy Institute Manager (ITH); Secretary to CSER Advisory Board', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Advisor','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+
+
 
 
 
