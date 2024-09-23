@@ -46,7 +46,9 @@ S. M. Amadae*/
 ,('Charlotte Hammer', 'Centre for the Study of Existential Risk', 'Research Affiliate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL, 'position', NULL, NULL, 'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
 ,('Sophie Dannreuther', 'Centre for the Study of Existential Risk', 'Research Affiliate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL, 'position', NULL, NULL, 'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
 ,('Caroline Baylon', 'Centre for the Study of Existential Risk', 'Research Affiliate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL, 'position', NULL, NULL, 'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
-
+,('Seth Baum', 'Centre for the Study of Existential Risk', 'Research Affiliate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL, 'position', NULL, NULL, 'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+,('Olaf Corry', 'Centre for the Study of Existential Risk', 'Research Affiliate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL, 'position', NULL, NULL, 'AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
+,('Yuval Noah Harari', 'Centre for the Study of Existential Risk', 'Distinguished Research Fellow', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL, 'position', NULL, NULL, 'AI safety')  /*Reviewed on 2024-09-04*/ /*current position*/
 
 
 
@@ -62,7 +64,10 @@ S. M. Amadae*/
    ,('Paul Ingram', 'Centre for the Study of Existential Risk', 'Research Affiliate', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/paul-ingram-393a755/ https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Full-time','AI safety') /*Reviewed on 2024-09-04*/ /*current position*/
     ,('Yang Liu','Centre for the Study of Existential Risk','Research Associate',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://www.cser.ac.uk/team/yang-liu/',NULL,'position',NULL,NULL,'AI safety')
     ,('Beth Barnes','Centre for the Study of Existential Risk','Research Affiliate',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://www.cser.ac.uk/team/beth-barnes/',NULL,'position',NULL,NULL,'AI safety')
-    ,('Seth Baum','Centre for the Study of Existential Risk','Research Affiliate',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://www.cser.ac.uk/team/seth-baum/',NULL,'position',NULL,NULL,'AI safety')
+
+
+
+ 
     ,('Martina Kunz','Centre for the Study of Existential Risk','Research Affiliate',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://www.cser.ac.uk/team/martina-kunz/',NULL,'position',NULL,NULL,'AI safety')
     ,('Ryan Carey','Centre for the Study of Existential Risk','Research Affiliate',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://www.cser.ac.uk/team/ryan-carey/',NULL,'position',NULL,NULL,'AI safety')
     ,('Margaret Boden','Centre for the Study of Existential Risk','Advisor',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/',NULL,'position',NULL,NULL,'AI safety')
