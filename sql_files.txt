@@ -40,6 +40,7 @@ sql/positions/condor-camp.sql
 sql/positions/conjecture.sql
 sql/positions/continualai.sql
 sql/positions/cooperativeai.sql
+sql/positions/cornell-effective-altruism.sql
 sql/positions/cset.sql
 sql/positions/ea-engineers.sql
 sql/positions/ea-foundation.sql
