@@ -71,6 +71,13 @@ S. M. Amadae*/
 ,('Clare Arnstein', 'Centre for the Study of Existential Risk', 'Centre Co-ordinator (CSER) & Deputy Institute Manager (ITH); Secretary to CSER Advisory Board', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240904123155/https://www.cser.ac.uk/team/', NULL,'position',NULL,'Advisor','AI safety') /*Reviewed on 2024-09-04*/ /*ongoing position*/
 
 
+ 
+
+
+
+
+
+
 
 
 
@@ -81,11 +88,23 @@ S. M. Amadae*/
   ,('Beth Barnes','Centre for the Study of Existential Risk','Research Affiliate','2017-11-07',NULL,'2020-11-29','year','https://web.archive.org/web/20171107184718/https://www.cser.ac.uk/team/ https://web.archive.org/web/20201129172358/https://www.cser.ac.uk/team/',NULL,'position',NULL,NULL,'AI safety')/*closed*/
   ,('Martina Kunz','Centre for the Study of Existential Risk','Research Affiliate','2017-11-07',NULL,'2019-07-28','year','https://web.archive.org/web/20171107184718/https://www.cser.ac.uk/team/ https://web.archive.org/web/20190728120201/https://www.cser.ac.uk/team/',NULL,'position',NULL,NULL,'AI safety')/*closed*/
   ,('Ryan Carey','Centre for the Study of Existential Risk','Research Affiliate',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://www.cser.ac.uk/team/ryan-carey/',NULL,'position',NULL,NULL,'AI safety')
-  ,('Margaret Boden','Centre for the Study of Existential Risk','Advisor',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/',NULL,'position',NULL,NULL,'AI safety')
-  ,('Nick Bostrom','Centre for the Study of Existential Risk','Advisor',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/',NULL,'position',NULL,NULL,'AI safety')
-  ,('David Chalmers','Centre for the Study of Existential Risk','Advisor',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/',NULL,'position',NULL,NULL,'AI safety')
-  ,('Alison Gopnik','Centre for the Study of Existential Risk','Advisor',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/',NULL,'position',NULL,NULL,'AI safety')
-  ,('Elon Musk','Centre for the Study of Existential Risk','Advisor',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/',NULL,'position',NULL,NULL,'AI safety')
+  ,('Margaret Boden','Centre for the Study of Existential Risk','Scientific Advisor','2017-11-07',NULL,'2023-06-05','year','https://web.archive.org/web/20171107184718/https://www.cser.ac.uk/team/ https://web.archive.org/web/20230605092004/https://www.cser.ac.uk/team/',NULL,'position',NULL,'Advisor','AI safety')/*closed*/
+  ,('Nick Bostrom','Centre for the Study of Existential Risk','Scientific Advisor','2017-11-07',NULL,'2022-12-08','year','https://web.archive.org/web/20171107184718/https://www.cser.ac.uk/team/ https://web.archive.org/web/20221208072907/https://www.cser.ac.uk/team/',NULL,'position',NULL,'Advisor','AI safety')/*closed*/
+  ,('David Chalmers','Centre for the Study of Existential Risk','Scientific Advisor','2017-11-07',NULL,'2023-06-05','year','https://web.archive.org/web/20171107184718/https://www.cser.ac.uk/team/ https://web.archive.org/web/20230605092004/https://www.cser.ac.uk/team/',NULL,'position',NULL,'Advisor','AI safety')/*closed*/
+  ,('Alison Gopnik','Centre for the Study of Existential Risk','Scientific Advisor',NULL,NULL,'2023-06-05','year','https://web.archive.org/web/20230605092004/https://www.cser.ac.uk/team/',NULL,'position',NULL,'Advisor','AI safety')
+  ,('Robert May', 'Centre for the Study of Existential Risk', 'Scientific Advisor', '2017-11-07', NULL, '2020-08-14', NULL, 'https://web.archive.org/web/20171107184718/https://www.cser.ac.uk/team/ https://web.archive.org/web/20200814060035/https://www.cser.ac.uk/team/', NULL, 'position', NULL, 'Advisor', 'AI safety')/*closed*/
+ ,('Elon Musk', 'Centre for the Study of Existential Risk', 'Advisor', '2017-11-07', NULL, '2021-12-03', 'year', 'https://web.archive.org/web/20171107184718/https://www.cser.ac.uk/team/ https://web.archive.org/web/20211203105904/https://www.cser.ac.uk/team/', NULL, 'position', NULL, 'Advisor', 'AI safety')/*closed*/
+ ,('Tim Palmer', 'Centre for the Study of Existential Risk', 'Scientific Advisor', '2017-11-07', NULL, '2023-06-05', 'year', 'https://web.archive.org/web/20171107184718/https://www.cser.ac.uk/team/ https://web.archive.org/web/20230605092004/https://www.cser.ac.uk/team/', NULL, 'position', NULL, 'Advisor', 'AI safety')/*closed*/
+ ,('Peter Piot', 'Centre for the Study of Existential Risk', 'Scientific Advisor', '2017-11-07', NULL, '2023-06-05', NULL, 'https://web.archive.org/web/20171107184718/https://www.cser.ac.uk/team/ https://web.archive.org/web/20230605092004/https://www.cser.ac.uk/team/', NULL, 'position', NULL, 'Advisor', 'AI safety')/*closed*/
+
+
+
+
+
+ 
+
+
+
   ,('Stuart Russell','Centre for the Study of Existential Risk','Advisor',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/',NULL,'position',NULL,NULL,'AI safety')
   ,('Dana Scott','Centre for the Study of Existential Risk','Advisor',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/',NULL,'position',NULL,NULL,'AI safety')
   ,('Murray Shanahan','Centre for the Study of Existential Risk','Advisor',NULL,NULL,NULL,NULL,'https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/ https://web.archive.org/web/20171107185800/https://www.cser.ac.uk/team/filter/all/risks-from-artificial-intelligence/',NULL,'position',NULL,NULL,'AI safety')
