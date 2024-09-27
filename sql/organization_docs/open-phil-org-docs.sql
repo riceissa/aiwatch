@@ -234,6 +234,122 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI Safety', /* cause_area */
         'Cotra expresses excitement about economic modeling approaches to AI timelines and takeoff dynamics, highlighting the potential of historical value-added estimates and analyses that relate AI progress to hardware and software efforts, particularly in the context of Open Philanthropy''s interests in forecasting AI development.' /* notes */
     )
-    
+    ,(
+        'https://forum.effectivealtruism.org/posts/peLstYwka2EzxiNG7/ama-six-open-philanthropy-staffers-discuss-op-s-new-gcr', /* url */
+        'AMA: Six Open Philanthropy staffers discuss OP''s new GCR hiring round', /* title */
+        '2023-10-18', /* publication_date */
+        NULL, /* modified_date */
+        'Ajeya Cotra, Julian Hazell, Eli Rose', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'AMA', /* document_scope */
+        'Various', /* cause_area */
+        'Open Philanthropy conducts a AMA where Ajeya Cotra focuses on AI safety, Julian Hazell on AI policy, Jason Schukraft on GCR prioritization, Eli Rose on GCR capacity building, Chris Bakerlee on biosecurity, and Philip Zealley on recruiting for the 20 new roles.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/QwBiHdHGij67sdrxk/new-positions-on-open-philanthropy-s-cause-prioritization', /* url */
+        'New positions on Open Philanthropy''s Cause Prioritization team (Global Health and Wellbeing)', /* title */
+        '2023-12-21', /* publication_date */
+        NULL, /* modified_date */
+        'Open Philanthropy', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Hiring-related notice', /* document_scope */
+        NULL, /* cause_area */
+        'Open Philanthropy gives an overview of their Global Health and Wellbeing (GHW) portfolio’s plan to grant over $300 million annually, while hiring Research and Strategy Fellows to aid in cause prioritization, strategy, and advancing cost-effective grantmaking.' /* notes */
+    )
+     ,(
+        'https://forum.effectivealtruism.org/posts/pQKrGnKzSQrqz5esZ/writing-about-my-job-on-open-philanthropy-s-global-aid', /* url */
+        'Writing about my job on Open Philanthropy''s Global Aid Policy program + related career opportunities', /* title */
+        '2024-04-13', /* publication_date */
+        NULL, /* modified_date */
+        'Sam Anschell', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Job experience', /* document_scope */
+        NULL, /* cause_area */
+        'Sam Anschell reflects on his transition to the Global Aid Policy program at Open Philanthropy, sharing insights on aid policy, his work experiences, and potential opportunities for impactful careers in aid advocacy and policy.' /* notes */
+    )
+     ,(
+        'https://forum.effectivealtruism.org/posts/9qGhQAST9mpcLMsPy/open-philanthropy-is-hiring-people-to-help-hire-more-people', /* url */
+        'Open Philanthropy is hiring people to… help hire more people!', /* title */
+        '2024-08-17', /* publication_date */
+        NULL, /* modified_date */
+        'Maura', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Hiring-related notice', /* document_scope */
+        NULL, /* cause_area */
+        'Maura outlines Open Philanthropy’s need for new recruiters, highlighting the broad scope of recruiting responsibilities, desirable qualities for candidates, and encouragement for those without prior recruiting experience to apply.' /* notes */
+    )
+    ,(
+        'https://www.openphilanthropy.org/research/day-in-the-life-abhi-kumar/', /* url */
+        'Day in the Life: Abhi Kumar, Program Associate — Farm Animal Welfare', /* title */
+        '2024-04-17', /* publication_date */
+        NULL, /* modified_date */
+        'Abhi Khumar', /* author */
+        'Open Philanthropy', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Job experience', /* document_scope */
+        'Animal welfare', /* cause_area */
+        'Abhi Kumar provides a detailed look into his role at Open Philanthropy, focusing on his work with the Farm Animal Welfare team to advance alternatives to animal products through grantmaking, while highlighting daily tasks, collaboration, and strategic decision-making.' /* notes */
+    )
+     ,(
+        'https://www.openphilanthropy.org/research/day-in-the-life-anna-weldon/', /* url */
+        'Day in the Life: Anna Weldon, Director of Internal Operations', /* title */
+        '2024-06-18', /* publication_date */
+        NULL, /* modified_date */
+        'Anna Weldon', /* author */
+        'Open Philanthropy', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Job experience', /* document_scope */
+        NULL, /* cause_area */
+        'Anna Weldon gives an overview of her role as Open Philanthropy’s Director of Internal Operations, highlighting the diverse teams she manages, her focus on operational efficiency, talent development, and leadership coaching, as well as preparations for company-wide events.' /* notes */
+    )
+     ,(
+        'https://forum.effectivealtruism.org/posts/ymsgPwLh9agzpsbKe/ama-lewis-bollard-program-director-of-farm-animal-welfare-at', /* url */
+        'AMA: Lewis Bollard, Program Director of Farm Animal Welfare at OpenPhil', /* title */
+        '2024-03-01', /* publication_date */
+        NULL, /* modified_date */
+        'Toby Tremlett, Lewis Bollard', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'AMA', /* document_scope */
+        'Animal welfare', /* cause_area */
+        'Toby Tremlett announces an upcoming AMA with Lewis Bollard, Program Director of Farm Animal Welfare at Open Philanthropy, highlighting Bollard''s work on Open Philanthropy''s strategy, funding efforts, and key topics in animal welfare, including ways to help end factory farming and the impact of AI on animal welfare.' /* notes */
+    )
+    ,(
+        'https://www.openphilanthropy.org/research/social-science-research-topics-for-animal-welfare/', /* url */
+        'Social Science Research Topics for Animal Welfare', /* title */
+        '2024-01-09', /* publication_date */
+        NULL, /* modified_date */
+        'Martin Gould, Emma Buckland', /* author */
+        'Open Philanthropy', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'Animal welfare', /* cause_area */
+        'Martin Gould and Emma Buckland provide a comprehensive list of social science research topics related to farm animal welfare, aimed at students and researchers, detailing areas of interest for Open Philanthropy’s Farm Animal Welfare team, including corporate commitments, policy reform, alternative proteins, and dietary changes, while clarifying that Open Philanthropy does not offer funding or formal review for these projects.' /* notes */
+    )
+     ,(
+        'https://forum.effectivealtruism.org/posts/bBefhAXpCFNswNr9m/open-philanthropy-is-hiring-for-multiple-roles-across-our', /* url */
+        'Open Philanthropy is hiring for multiple roles across our Global Catastrophic Risks teams', /* title */
+        '2023-09-30', /* publication_date */
+        NULL, /* modified_date */
+        'Open Philanthropy', /* author */
+        'Open Philanthropy', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Hiring-related notice', /* document_scope */
+        'Global Catastrophic Risks', /* cause_area */
+        'Open Philanthropy gives an overview of their 2023 hiring expansion, highlighting open roles across Global Catastrophic Risks teams, their streamlined application process, and the urgent need for more capacity to maximize grantmaking and research impact' /* notes */
+    )
 ;
 
