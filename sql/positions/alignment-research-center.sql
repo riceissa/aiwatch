@@ -24,7 +24,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Rae She', 'Alignment Research Center', 'Member of Operations Staff', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240930213009/https://metr.org/team/', NULL, NULL, 'AI safety')  /*Reviewed on 2024-09-30*/ /*current position*/
 ,('Rebecca Baron', 'Alignment Research Center', 'Member of Operations Staff', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240930213009/https://metr.org/team/', NULL, NULL, 'AI safety')  /*Reviewed on 2024-09-30*/ /*current position*/
 ,('Michael Chen', 'Alignment Research Center', 'Member of Policy Staff', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240930213009/https://metr.org/team/', NULL, NULL, 'AI safety')  /*Reviewed on 2024-09-30*/ /*current position*/
-,('Adam Gleave', 'Alignment Research Center', 'Advisor and Board Member', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240930213009/https://metr.org/team/', NULL, 'Bord Member', 'AI safety')  /*Reviewed on 2024-09-30*/ /*current position*/
+,('Adam Gleave', 'Alignment Research Center', 'Advisor and Board Member', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240930213009/https://metr.org/team/', NULL, 'Board member', 'AI safety')  /*Reviewed on 2024-09-30*/ /*current position*/
 ,('Holden Karnofsky', 'Alignment Research Center', 'Advisor', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240930213009/https://metr.org/team/', NULL, 'Advisor', 'AI safety')  /*Reviewed on 2024-09-30*/ /*current position*/
 ,('Yoshua Bengio', 'Alignment Research Center', 'Advisor', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240930213009/https://metr.org/team/', NULL, 'Advisor', 'AI safety')  /*Reviewed on 2024-09-30*/ /*current position*/
 
@@ -36,16 +36,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-     ('Amanda She', 'Alignment Research Center', 'Executive Assistant (ARC Evals)', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/amandarshe/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-09-12*/ /*current position*/
+
+    ,('Amanda She', 'Alignment Research Center', 'Executive Assistant (ARC Evals)', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/amandarshe/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-09-12*/ /*current position*/
     ,('Aryan Bhatt', 'Alignment Research Center', 'SERI MATS Research Scholar', '2022-11-01', 'month', '2023-02-01', 'month', 'https://www.linkedin.com/in/aryanbhatt17/', NULL, 'Full-time', 'AI safety')  /*Reviewed on 2023-09-14*/ 
     ,('Aryan Bhatt', 'Alignment Research Center', 'Visiting Researcher', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/aryanbhatt17/', NULL, 'Full-time', 'AI safety')  /*Reviewed on 2023-09-14*/ /*current position*/ 
     ,('Brian Goodrich', 'Alignment Research Center', 'Member of Technical Staff', '2023-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20230301170836/https://evals.alignment.org/team/ https://web.archive.org/web/20230912013151/https://evals.alignment.org/team/', NULL, NULL, 'AI safety')  /*Reviewed on 2023-09-12*/ /*current position*/ 
