@@ -16,6 +16,7 @@ sql/positions/alvea.sql
 sql/positions/amf.sql
 sql/positions/animal-advocacy-africa.sql
 sql/positions/anthropic.sql
+sql/positions/antikythera.sql
 sql/positions/arb-research.sql
 sql/positions/astera.sql
 sql/positions/balsa-research.sql
