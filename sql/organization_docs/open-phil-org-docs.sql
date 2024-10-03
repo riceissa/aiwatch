@@ -351,5 +351,97 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Global Catastrophic Risks', /* cause_area */
         'Open Philanthropy gives an overview of their 2023 hiring expansion, highlighting open roles across Global Catastrophic Risks teams, their streamlined application process, and the urgent need for more capacity to maximize grantmaking and research impact' /* notes */
     )
+    ,(
+        'https://forum.effectivealtruism.org/posts/spTeNt4ebbJnGvzAi/ama-james-snowden-open-philanthropy', /* url */
+        'AMA, James Snowden, Open Philanthropy', /* title */
+        '2023-09-30', /* publication_date */
+        NULL, /* modified_date */
+        'James Snowden', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'AMA', /* document_scope */
+        'Global health and development', /* cause_area */
+        'James Snowden provides an overview of Open Philanthropy''s launch of the Lead Exposure Action Fund (LEAF) and its partnership with the Partnership for a Lead-Free Future (PLF), highlighting Open Phil''s initiatives in lead exposure reduction, public health policy, and the organization’s broader mission.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/8DRXLFminPYFqKWHv/announcing-open-philanthropy-s-ai-governance-and-policy-rfp', /* url */
+        'Announcing Open Philanthropy''s AI governance and policy RF', /* title */
+        '2024-07-17', /* publication_date */
+        NULL, /* modified_date */
+        'Julian Hazell', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI Safety', /* cause_area */
+        'Julian Hazell outlines Open Philanthropy’s call for funding proposals aimed at mitigating catastrophic risks from advanced AI, focusing on six key areas of AI governance and policy, with applications open to individuals and organizations globally.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/FoBQxB7hjreoW9iFJ/open-philanthropy-is-hiring-more-people-than-ever-this-year', /* url */
+        'Open Philanthropy is hiring more people than ever this year', /* title */
+        '2022-04-09', /* publication_date */
+        NULL, /* modified_date */
+        'Anya Hunt', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Hiring-related notice', /* document_scope */
+        NULL, /* cause_area */
+        'Anya Hunt provides an overview of Open Philanthropy’s ambitious growth plans, highlighting their goal to significantly expand both their staff and grantmaking capacity, while outlining current open roles, recruitment strategies, and key priorities for scaling their philanthropic efforts.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/8Thh2HmuSyYCGknuW/new-roles-in-global-health-and-wellbeing-open-philanthropy', /* url */
+        'New Roles in Global Health and Wellbeing (Open Philanthropy)', /* title */
+        '2021-06-29', /* publication_date */
+        NULL, /* modified_date */
+        'Aaron Gertler', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Hiring-related notice', /* document_scope */
+        NULL, /* cause_area */
+        'Aaron Gertler announces Open Philanthropy''s expansion, highlighting new job opportunities to lead philanthropic efforts in areas like South Asian air quality and global aid advocacy, as well as roles for generalists to help identify future focus areas for large-scale grantmaking.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/GAfzt6BPoNuYxKDTM/announcing-the-launch-of-open-phil-s-new-website', /* url */
+        'Announcing the launch of Open Phil''s new website', /* title */
+        '2022-07-07', /* publication_date */
+        NULL, /* modified_date */
+        'Aaron Gertler', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        NULL, /* cause_area */
+        'Aaron Gertler announces the launch of Open Philanthropy’s newly redesigned website, highlighting updates to the mission statement, improved navigation, enhanced content sorting, and new pages for emerging focus areas like South Asian Air Quality and Global Aid Policy.' /* notes */
+    )
+     ,(
+        'https://forum.effectivealtruism.org/posts/8xsDrkLpzvsh5zZeR/open-philanthropy-is-hiring-for-lots-of-operations-roles', /* url */
+        'Open Philanthropy is hiring for (lots of) operations roles!', /* title */
+        '2022-12-14', /* publication_date */
+        NULL, /* modified_date */
+        'Maura', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Hiring-related notice', /* document_scope */
+        NULL, /* cause_area */
+        'Maura gives an overview of Open Philanthropy’s rapid team expansion in 2022, highlighting key operations roles currently open for recruitment, details on the hiring process, and innovative approaches to trial employment and candidate feedback.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/85pJEjQu9aF49CScs/our-progress-in-2022-and-plans-for-2023', /* url */
+        'Our Progress in 2022 and Plans for 2023', /* title */
+        '2023-05-12', /* publication_date */
+        NULL, /* modified_date */
+        'Open Philanthropy', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        NULL, /* cause_area */
+        'Open Philanthropy gives a detailed overview of its 2022 achievements, including record-breaking grantmaking of over $650 million, the launch of new focus areas, major grants in AI risks, biosecurity, global health, and animal welfare, as well as plans for future growth in grantmaking, staffing, and leadership transitions.' /* notes */
+    )
+    
 ;
 
