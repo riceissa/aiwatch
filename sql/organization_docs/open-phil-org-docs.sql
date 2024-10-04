@@ -442,6 +442,44 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* cause_area */
         'Open Philanthropy gives a detailed overview of its 2022 achievements, including record-breaking grantmaking of over $650 million, the launch of new focus areas, major grants in AI risks, biosecurity, global health, and animal welfare, as well as plans for future growth in grantmaking, staffing, and leadership transitions.' /* notes */
     )
-    
+    ,(
+        'https://www.openphilanthropy.org/research/alexander-berger-is-now-sole-ceo-of-open-philanthropy/', /* url */
+        'Alexander Berger is Now Sole CEO of Open Philanthropy', /* title */
+        '2023-07-27', /* publication_date */
+        NULL, /* modified_date */
+        'Holden Karnofsky', /* author */
+        'Open Philanthropy', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Successful hire', /* document_scope */
+        NULL, /* cause_area */
+        'Holden Karnofsky announces Alexander Berger as the new sole CEO of Open Philanthropy, highlighting his leadership since 2021 and outlining key organizational changes, including Emily Oehlsen’s promotion to Managing Director of Global Health and Wellbeing, while Karnofsky shifts his focus to AI strategy.' /* notes */
+    )
+     ,(
+        'https://www.openphilanthropy.org/research/our-progress-in-2021-and-plans-for-2022/', /* url */
+        'Our Progress in 2021 and Plans for 2022', /* title */
+        '2023-07-27', /* publication_date */
+        NULL, /* modified_date */
+        'Holden Karnofsky and Alexander Berger', /* author */
+        'Open Philanthropy', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'General discussion of organizational practices', /* document_scope */
+        NULL, /* cause_area */
+        'Holden Karnofsky and Alexander Berger provide a detailed review of Open Philanthropy''s 2021 progress, including over $400 million in grants, the launch of new focus areas like South Asian air quality and global aid policy, key updates to US policy causes, and ambitious plans for 2022, with a focus on doubling grantmaking and expanding capacity through significant hiring initiatives.' /* notes */
+    )
+    ,(
+        'https://www.openphilanthropy.org/research/open-philanthropys-new-co-ceo/', /* url */
+        'Open Philanthropy’s New Co-CEO', /* title */
+        '2021-06-15', /* publication_date */
+        NULL, /* modified_date */
+        'Holden Karnofsky', /* author */
+        'Open Philanthropy', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Successful hire', /* document_scope */
+        NULL, /* cause_area */
+        'Holden Karnofsky announces the promotion of Open Philanthropy co-founder Alexander Berger to co-CEO, highlighting the formalization of a dual-CEO structure to reflect the organization''s division between longtermist work and the Global Health and Wellbeing portfolio.' /* notes */
+    )
 ;
 
