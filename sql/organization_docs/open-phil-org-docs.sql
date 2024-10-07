@@ -48,7 +48,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Open Philanthropy|Centre for Effective Altruism|Future of Humanity Institute|Effective Giving UK|Rethink Charity|Johns Hopkins Center for Health Security|Nuclear Threat Initiative|Centre for the Study of Existential Risk|Global Priorities Institute|Ought|Veddis|Berkeley Existential Risk Initiative', /* affected_organizations */
         NULL, /* affected_people */
         'Job application experience', /* document_scope */
-        'AI Safety', /* cause_area */
+        'AI safety', /* cause_area */
         'A pseudonymous effective altruist gives their experience applying to various effective altruist (and related) organizations.' /* notes */
     )
     ,(
@@ -61,7 +61,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Open Philanthropy|OpenAI|Berkeley Existential Risk Initiative|Centre for Effective Altruism|Future of Humanity Institute|AI Impacts', /* affected_organizations */
         NULL, /* affected_people */
         'Job application experience', /* document_scope */
-        'Various', /* cause_area */
+        NULL, /* cause_area */
         'Daniel gives his experience applying to various effective altruist organizations, detailing the time he spent on applications and preparation.' /* notes */
     )
     ,(
@@ -74,7 +74,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
         'Job application experience', /* document_scope */
-        'Various', /* cause_area */
+        NULL, /* cause_area */
         'Muehlhauser gives thoughts on applying to effective altruist organizations. He encourages people to not worry about wasting organizations’ time reviewing applications.' /* notes */
     )
     ,(
@@ -87,7 +87,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
         'Hiring-related notice', /* document_scope */
-        'AI Safety', /* cause_area */
+        'AI safety', /* cause_area */
         'Open Philanthropy’s Recruiting Manager Anya Hunt discusses with Michael Levine about Open Philanthropy’s approach to recruiting, the role of work tests in the application process, and measures Open Phil is taking to diversify their pipeline and attract talent from different communities.' /* notes */
     )
     ,(
@@ -100,7 +100,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
         NULL, /* document_scope */
-        'AI Safety', /* cause_area */
+        'AI safety', /* cause_area */
         'Muehlhauser provides an update on 12 US policy ideas that could reduce existential risks from transformative AI, reflecting his tentative opinions and recent developments in the field.' /* notes */
     )
     ,(
@@ -113,7 +113,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
         'General organization operations', /* document_scope */
-        'AI Safety', /* cause_area */
+        'AI safety', /* cause_area */
         'Karnofsky discusses the potential risks posed by advanced artificial intelligence and the philanthropic opportunities to mitigate those risks.', /* notes */
     )
      ,(
@@ -126,7 +126,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
         'Organization operations', /* document_scope */
-        'AI Safety', /* cause_area */
+        'AI safety', /* cause_area */
         'Muehlhauser outlines Open Philanthropy''s AI governance grantmaking priorities, focusing on reducing catastrophic risks from transformative AI by funding research, advocacy, and field-building efforts to improve AI governance, with comparisons to past successes like the Nunn-Lugar Act in mitigating nuclear threats.' /* notes */
     )
     
@@ -139,8 +139,8 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Open Philanthropy', /* publisher */
         'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
-        'Organisation operations', /* document_scope */
-        'AI Safety', /* cause_area */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
         'Cotra announces Open Philanthropy''s requests for proposals to fund research on benchmarking large language model (LLM) agents and studying the real-world impacts of LLM systems, aiming to better understand their capabilities, potential risks, and long-term societal effects.' /* notes */
     )
     ,(
@@ -153,7 +153,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
         'General discussion of organizational practices', /* document_scope */
-        'AI Safety', /* cause_area */
+        'AI safety', /* cause_area */
         'Muehlhauser engages in a conversation with Jacob Steinhardt about the risks and benefits of artificial intelligence, exploring various aspects of AI governance, alignment, and safety research, while addressing key considerations for effective decision-making in the field.' /* notes */
     )
     ,(
@@ -166,7 +166,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
         'Hiring-related notice', /* document_scope */
-        'AI Safety', /* cause_area */
+        'AI safety', /* cause_area */
         'Ajeya Cotra discusses Open Philanthropy''s recent hiring initiatives in the Technical AI Safety team, highlighting the need for more capacity to evaluate and fund AI safety research, and the potential for significant growth in grantmaking to address global catastrophic risks.' /* notes */
     )
     ,(
@@ -178,8 +178,8 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Effective Altruism Forum', /* publisher */
         'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
-        'Third-party commentary on organisation', /* document_scope */
-        'AI Safety', /* cause_area */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
         'Skoglund analyzes the current funding landscape for effective altruism (EA) and AI safety, highlighting trends, challenges, and opportunities for funders in these areas while reflecting on the implications for long-term impact.' /* notes */
     )
     ,(
@@ -192,7 +192,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Open Philanthropy', /* affected_organizations */
         'Holden Karnofsky', /* affected_people */
         'Board member departure', /* document_scope */
-        'AI Safety', /* cause_area */
+        'AI safety', /* cause_area */
         'Karnofsky announces his upcoming leave of absence from Open Philanthropy to focus on AI safety, particularly on establishing safety standards for AI systems, while Alexander Berger will serve as sole CEO during his absence, emphasizing his commitment to effective organizational transitions and reducing AI risk.' /* notes */
     )
     ,(
@@ -205,7 +205,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
         'Organization operations', /* document_scope */
-        'AI Safety', /* cause_area */
+        'AI safety', /* cause_area */
         'Davidson presents a report for Open Philanthropy that develops a framework for forecasting the development of artificial general intelligence (AGI) using historical analogies, estimating probabilities for AGI''s arrival by specific years, and emphasizing the need for cautious interpretation of these predictions due to subjective judgments and the exclusion of certain evidence.' /* notes */
     )
     ,(
@@ -218,7 +218,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
         'General dscussion of organizational practices', /* document_scope */
-        'AI Safety', /* cause_area */
+        'AI safety', /* cause_area */
         'Cotra discusses funding opportunities in AI safety that Open Philanthropy would support, emphasizing the importance of mentoring senior researchers to foster early-career talent, while also addressing challenges in evaluating grant applications and the focus on larger grants over smaller ones.' /* notes */
     )
     ,(
@@ -231,7 +231,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
         'Organizational growth introspection', /* document_scope */
-        'AI Safety', /* cause_area */
+        'AI safety', /* cause_area */
         'Cotra expresses excitement about economic modeling approaches to AI timelines and takeoff dynamics, highlighting the potential of historical value-added estimates and analyses that relate AI progress to hardware and software efforts, particularly in the context of Open Philanthropy''s interests in forecasting AI development.' /* notes */
     )
     ,(
@@ -244,7 +244,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
         'AMA', /* document_scope */
-        'Various', /* cause_area */
+        NULL, /* cause_area */
         'Open Philanthropy conducts a AMA where Ajeya Cotra focuses on AI safety, Julian Hazell on AI policy, Jason Schukraft on GCR prioritization, Eli Rose on GCR capacity building, Chris Bakerlee on biosecurity, and Philip Zealley on recruiting for the 20 new roles.' /* notes */
     )
     ,(
@@ -374,7 +374,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
         'Organization operations', /* document_scope */
-        'AI Safety', /* cause_area */
+        'AI safety', /* cause_area */
         'Julian Hazell outlines Open Philanthropy’s call for funding proposals aimed at mitigating catastrophic risks from advanced AI, focusing on six key areas of AI governance and policy, with applications open to individuals and organizations globally.' /* notes */
     )
     ,(
@@ -460,7 +460,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Our Progress in 2021 and Plans for 2022', /* title */
         '2023-07-27', /* publication_date */
         NULL, /* modified_date */
-        'Holden Karnofsky and Alexander Berger', /* author */
+        'Holden Karnofsky|Alexander Berger', /* author */
         'Open Philanthropy', /* publisher */
         'Open Philanthropy', /* affected_organizations */
         NULL, /* affected_people */
@@ -481,5 +481,71 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* cause_area */
         'Holden Karnofsky announces the promotion of Open Philanthropy co-founder Alexander Berger to co-CEO, highlighting the formalization of a dual-CEO structure to reflect the organization''s division between longtermist work and the Global Health and Wellbeing portfolio.' /* notes */
     )
+    ,(
+        'https://www.openphilanthropy.org/research/day-in-the-life-dee-kathuria-recruiter/', /* url */
+        'Day in the Life: Dee Kathuria, Recruiter', /* title */
+        '2024-08-21', /* publication_date */
+        NULL, /* modified_date */
+        'Dee Kathuria', /* author */
+        'Open Philanthropy', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Job experience', /* document_scope */
+        NULL, /* cause_area */
+        'Dee Kathuria, a Recruiter at Open Philanthropy, shares insights into her daily work managing recruitment rounds, improving processes, and fostering collaboration, emphasizing the organization’s commitment to thoughtful hiring and continuous improvement.' /* notes */
+    )
+    ,(
+        'https://www.openphilanthropy.org/research/day-in-the-life-anna-weldon/', /* url */
+        'Day in the Life: Anna Weldon, Director of Internal Operations', /* title */
+        '2024-07-18', /* publication_date */
+        NULL, /* modified_date */
+        'Anna Weldon', /* author */
+        'Open Philanthropy', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Job experience', /* document_scope */
+        NULL, /* cause_area */
+        'Anna Weldon, Open Philanthropy’s Director of Internal Operations, shares a day in her role managing Recruiting, People Operations, Business Operations, and IT, detailing her work on team support, strategic planning, and fostering leadership development across the organization.' /* notes */
+    )
+    ,(
+        'https://www.openphilanthropy.org/research/day-in-the-life-phillip-greene-finance-operations-coordinator/', /* url */
+        'Day in the Life: Phillip Greene, Finance Operations Coordinator', /* title */
+        '2024-04-05', /* publication_date */
+        NULL, /* modified_date */
+        'Phillip Greene', /* author */
+        'Open Philanthropy', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Job experience', /* document_scope */
+        NULL, /* cause_area */
+        'Phillip Greene, Finance Operations Coordinator at Open Philanthropy, shares his day managing contractor payments, work test honoraria, and financial processes, emphasizing his role in improving efficiency while balancing work with personal time.' /* notes */
+    )
+    ,(
+        'https://www.openphilanthropy.org/research/day-in-the-life-sam-anschell/', /* url */
+        'Day in the Life: Sam Anschell, Program Associate — Global Aid Policy', /* title */
+        '2024-04-23', /* publication_date */
+        NULL, /* modified_date */
+        'Sam Anschell', /* author */
+        'Open Philanthropy', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Job experience', /* document_scope */
+        'Global aid policy', /* cause_area */
+        'Sam Anschell, a Program Associate at Open Philanthropy, shares insights from his transition from an operations role to working on the Global Aid Policy team, highlighting the impact of aid policy and the exciting opportunities available in the field.' /* notes */
+    )
+    ,(
+        'https://www.openphilanthropy.org/research/day-in-the-life-alex-bowles/', /* url */
+        'Day in the Life: Alex Bowles, Senior Program Associate — Science and Global Health R&D', /* title */
+        '2024-04-17', /* publication_date */
+        NULL, /* modified_date */
+        'Alex Bowles', /* author */
+        'Open Philanthropy', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Job experience', /* document_scope */
+        'Science and Global Health R&D', /* cause_area */
+        'Alex Bowles, a Senior Program Associate at Open Philanthropy, shares insights into his dual role on the Science and Global Health R&D and Global Health and Wellbeing Cause Prioritization teams, focusing on cost-effectiveness analysis of grants, exploring new strategic areas like hepatitis C vaccine development, and collaborating with colleagues across time zones.' /* notes */
+    )
+    
 ;
 
