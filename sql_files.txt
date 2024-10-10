@@ -134,6 +134,7 @@ sql/organization_docs/miri-org-docs.sql
 sql/organization_docs/open-phil-org-docs.sql
 sql/organization_docs/openai-org-docs.sql
 sql/organization_docs/sentience-institute-org-docs.sql
+sql/organization_docs/anthropic-org-docs.sql
 
 
 
