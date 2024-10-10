@@ -90,4 +90,69 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI safety', /* cause_area */
         'A blog post by Jan Leike announcing his new position at Anthropic AI, where he expresses enthusiasm for continuing his work in AI alignment and safety.' /* notes */
     )
+    ,(
+        'https://forum.effectivealtruism.org/posts/PFD8MJBEmpZLe54x9/anthropic-announces-new-s-o-t-a-claude-3',  /* url */
+        'Anthropic Announces new S.O.T.A. Claude 3"', /* title */
+        '2024-03-04', /* publication_date */
+        NULL, /* modified_date */
+        'Joseph Miller', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Anthropic', /* affected_organizations */
+         NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'A blog post by Joseph Miller announcing the release of Anthropic''s state-of-the-art Claude 3 model, highlighting its new capabilities and advancements in AI safety research.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/DfnaKtqeKPAM8mJwD/podcast-tamera-lanham-on-ai-risk-threat-models-alignment',  /* url */
+        'Podcast: Tamera Lanham on AI risk, threat models, alignment proposals, externalized reasoning oversight, and working at Anthropic"', /* title */
+        '2022-12-21', /* publication_date */
+        NULL, /* modified_date */
+        'Akash', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Anthropic', /* affected_organizations */
+         NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'A summary of an interview with Tamera Lanham, a research resident at Anthropic, discussing her journey into AI alignment, her work on externalized reasoning oversight, and her insights on AI risks and safety.' /* notes */
+    )
+     ,(
+        'https://forum.effectivealtruism.org/posts/jmfayiD4x9DGnFAhD/ai-safety-newsletter-37-us-launches-antitrust-investigations',  /* url */
+        'AI Safety Newsletter #37: US Launches Antitrust Investigations Plus, recent criticisms of OpenAI and Anthropic, and a summary of Situational Awareness"', /* title */
+        '2024-06-18', /* publication_date */
+        NULL, /* modified_date */
+        'Center for AI Safety| Corin Katzke| AlexaPanYue| Julius| Dan H', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Anthropic|OpenAI |Microsoft|Nvidia', /* affected_organizations */
+         NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'A newsletter from the Center for AI Safety covering recent antitrust investigations into Nvidia, OpenAI, and Microsoft, along with developments in AI safety and governance.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/N28dn7J4FF9AaWbTN/197-on-whether-anthropic-s-ai-safety-policy-is-up-to-the',  /* url */
+        '#197 – On whether Anthropic''s AI safety policy is up to the task (Nick Joseph on The 80,000 Hours Podcast)"', /* title */
+        '2024-08-22', /* publication_date */
+        NULL, /* modified_date */
+        '80000_Hours', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Anthropic', /* affected_organizations */
+         NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'An interview with Nick Joseph by 80,000 Hours discussing Anthropic''s responsible scaling policy and the challenges of ensuring AI safety as capabilities increase.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/75KAanpuYFJBfAkhp/anthropic-google-microsoft-and-openai-announce-executive',  /* url */
+        'Anthropic, Google, Microsoft & OpenAI announce Executive Director of the Frontier Model Forum & over $10 million for a new AI Safety Fund', /* title */
+        '2025-10-25', /* publication_date */
+        NULL, /* modified_date */
+        'Zach Stein-Perlman', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Anthropic|OpenAI|Microsoft|Google', /* affected_organizations */
+         NULL, /* affected_people */
+        'Successful hire', /* document_scope */
+        'AI safety', /* cause_area */
+        'A blog post by Zach Stein-Perlman announcing the appointment of Chris Meserole as Executive Director of the Frontier Model Forum, backed by Anthropic, Google, Microsoft, and OpenAI, alongside the launch of a $10 million AI Safety Fund supported by philanthropic partners to advance research in AI safety.' /* notes */
+    )
 ;
