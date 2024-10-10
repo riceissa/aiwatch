@@ -1,6 +1,5 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
-  
-,('Mark Xu', 'Alignment Research Center', 'Research staff member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/mark-xu', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
+('Mark Xu', 'Alignment Research Center', 'Research staff member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/mark-xu', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
 ,('Jacob Hilton', 'Alignment Research Center', 'Research staff member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/jacob-hilton', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
 ,('Eric Neyman', 'Alignment Research Center', 'Research staff member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/eric-neyman', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
 ,('Dávid Matolcsi', 'Alignment Research Center', 'Research staff member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/david-matolcsi', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
@@ -16,20 +15,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Buck Shlegeris', 'Alignment Research Center', 'Board Member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/buck-shlegeris', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
 ,('Ben Hoskin', 'Alignment Research Center', 'Board Member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/ben-hoskin', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
 
-
-
-
-
-/*
-
-
-
-
-
-
-
-
-    ('Amanda She', 'Alignment Research Center', 'Executive Assistant (ARC Evals)', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/amandarshe/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-09-12*/ /*current position*/
+ 
+ ,('Amanda She', 'Alignment Research Center', 'Executive Assistant (ARC Evals)', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/amandarshe/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-09-12*/ /*current position*/
   ,('Aryan Bhatt', 'Alignment Research Center', 'SERI MATS Research Scholar', '2022-11-01', 'month', '2023-02-01', 'month', 'https://www.linkedin.com/in/aryanbhatt17/', NULL, 'Full-time', 'AI safety')  /*Reviewed on 2023-09-14*/ 
   ,('Aryan Bhatt', 'Alignment Research Center', 'Visiting Researcher', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/aryanbhatt17/', NULL, 'Full-time', 'AI safety')  /*Reviewed on 2023-09-14*/ /*current position*/ 
   ,('Chris Painter', 'Alignment Research Center', 'Member of Technical Staff (ARC Evals)', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cpainter1/ https://web.archive.org/web/20230912013151/https://evals.alignment.org/team/', NULL, 'Full-time', 'AI safety')  /*Reviewed on 2023-09-12*/ /*current position*/
@@ -55,6 +42,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Tao Lin', 'Alignment Research Center', 'Member of Technical Staff', '2023-05-29', 'year', NULL, NULL, 'https://web.archive.org/web/20230529225539/https://evals.alignment.org/team/ https://web.archive.org/web/20230912013151/https://evals.alignment.org/team/', NULL, NULL, 'AI safety')  /*Reviewed on 2023-09-12*/ /*current position*/
     ,('Ted Suzman', 'Alignment Research Center', 'Member of Technical Staff', '2023-08-20', 'year', NULL, NULL, 'https://web.archive.org/web/20230820073018/https://evals.alignment.org/team/ https://web.archive.org/web/20230912013151/https://evals.alignment.org/team/', NULL, NULL, 'AI safety')  /*Reviewed on 2023-09-12*/ /*current position*/
     ,('Timothy Kokotajlo', 'Alignment Research Center', 'Contractor', '2022-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/timothy-kokotajlo-087666b7/', NULL, 'Contractor', 'AI safety')  /*Reviewed on 2023-09-17*/ /*current position*/
-
-
- */
+ 
