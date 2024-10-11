@@ -123,7 +123,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* modified_date */
         'Center for AI Safety| Corin Katzke| AlexaPanYue| Julius| Dan H', /* author */
         'Effective Altruism Forum', /* publisher */
-        'Anthropic|OpenAI |Microsoft|Nvidia', /* affected_organizations */
+        'Anthropic|OpenAI|Microsoft|Nvidia', /* affected_organizations */
          NULL, /* affected_people */
         'Third-party commentary on organization', /* document_scope */
         'AI safety', /* cause_area */
@@ -145,7 +145,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
     ,(
         'https://forum.effectivealtruism.org/posts/75KAanpuYFJBfAkhp/anthropic-google-microsoft-and-openai-announce-executive',  /* url */
         'Anthropic, Google, Microsoft & OpenAI announce Executive Director of the Frontier Model Forum & over $10 million for a new AI Safety Fund', /* title */
-        '2025-10-25', /* publication_date */
+        '2024-10-25', /* publication_date */
         NULL, /* modified_date */
         'Zach Stein-Perlman', /* author */
         'Effective Altruism Forum', /* publisher */
@@ -154,5 +154,70 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Successful hire', /* document_scope */
         'AI safety', /* cause_area */
         'A blog post by Zach Stein-Perlman announcing the appointment of Chris Meserole as Executive Director of the Frontier Model Forum, backed by Anthropic, Google, Microsoft, and OpenAI, alongside the launch of a $10 million AI Safety Fund supported by philanthropic partners to advance research in AI safety.' /* notes */
+    )
+     ,(
+        'https://forum.effectivealtruism.org/posts/JgAvau7rhmMGwscBA/would-an-anthropic-openai-merger-be-good-for-ai-safety',  /* url */
+        'Would an Anthropic/OpenAI merger be good for AI safety?', /* title */
+        '2023-11-22', /* publication_date */
+        NULL, /* modified_date */
+        'M', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Anthropic|OpenAI', /* affected_organizations */
+         NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'M reports that OpenAI''s board, including two Effective Altruists (EAs), considered a merger with Anthropic, which is more safety-focused, potentially leading to less competition and a slower pace in AI development.' /* notes */
+    )
+     ,(
+        'https://forum.effectivealtruism.org/posts/DDDyTvuZxoKStm92M/ai-safety-needs-great-engineers',  /* url */
+        'AI Safety Needs Great Engineers', /* title */
+        '2021-11-24', /* publication_date */
+        NULL, /* modified_date */
+        'Andy Jones', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Anthropic', /* affected_organizations */
+         NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'Andy Jones outlines the urgent need for skilled engineers in AI safety labs like Anthropic, emphasizing the role of engineers in building custom infrastructure for AI experiments and encouraging those capable of contributing to major machine learning libraries to apply.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/snto3JZs6HrgvsoJG/the-tech-industry-is-the-biggest-blocker-to-meaningful-ai',  /* url */
+        'The Tech Industry is the Biggest Blocker to Meaningful AI Safety Regulations', /* title */
+        '2024-08-16', /* publication_date */
+        NULL, /* modified_date */
+        'Garrison', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Anthropic', /* affected_organizations */
+         NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'Benjamin Todd discusses the potential crash of AI stocks, its implications for AI safety, and the impact it may have on funding, public sentiment, and long-term AI timelines.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/gkfMLX4NWZdmpikto/critiques-of-prominent-ai-safety-labs-conjecture',  /* url */
+        'Critiques of prominent AI safety labs: Conjecture', /* title */
+        '2023-06-12', /* publication_date */
+        NULL, /* modified_date */
+        'Omega', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Anthropic', /* affected_organizations */
+         NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'Omega critiques prominent AI safety labs, with a focus on Anthropic, analyzing their approaches and effectiveness in advancing AI safety.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/Y2xbKLjEmL6dCd2Z6/uk-government-to-host-first-global-summit-on-ai-safety',  /* url */
+        'UK government to host first global summit on AI Safety', /* title */
+        '2023-06-08', /* publication_date */
+        NULL, /* modified_date */
+        'David Nash', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Anthropic|Google DeepMind', /* affected_organizations */
+         NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'David Nash highlights Anthropic''s commitment to AI safety, with CEO Dario Amodei emphasizing the importance of global collaboration, as the UK strengthens its position in AI development with key partnerships and initiatives.' /* notes */
     )
 ;
