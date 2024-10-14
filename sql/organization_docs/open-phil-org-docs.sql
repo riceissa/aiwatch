@@ -546,6 +546,44 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Science and Global Health R&D', /* cause_area */
         'Alex Bowles, a Senior Program Associate at Open Philanthropy, shares insights into his dual role on the Science and Global Health R&D and Global Health and Wellbeing Cause Prioritization teams, focusing on cost-effectiveness analysis of grants, exploring new strategic areas like hepatitis C vaccine development, and collaborating with colleagues across time zones.' /* notes */
     )
-    
+     ,(
+        'https://forum.effectivealtruism.org/posts/h22mEkh9o5vCQE8Ti/dario-amodei-machines-of-loving-grace', /* url */
+        'Dario Amodei — Machines of Loving Grace', /* title */
+        '2024-10-12', /* publication_date */
+        NULL, /* modified_date */
+        'Matrice Jacobine', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        'Dario Amodei', /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article by Matrice Jacobine focuses on Anthropic CEO Dario Amodei''s perspective on the potential positive impact of AI, emphasizing that addressing AI risks is crucial to unlocking its transformative benefits.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/fKMPa7cxSnBCymuRm/is-pausing-ai-possible', /* url */
+        'Is Pausing AI Possible?', /* title */
+        '2024-10-12', /* publication_date */
+        NULL, /* modified_date */
+        'Richard Annilo', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        'Dario Amodei', /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'Richard Annilo, the author explores the challenges and feasibility of pausing AI development, with a significant focus on Anthropic’s efforts and strategies in addressing AI risks.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/uGDCaPFaPkuxAowmH/anthropic-core-views-on-ai-safety-when-why-what-and-how', /* url */
+        'Anthropic: Core Views on AI Safety: When, Why, What, and How', /* title */
+        '2023-03-09', /* publication_date */
+        NULL, /* modified_date */
+        'Jonmenaster', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        'Dario Amodei', /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article by Jon Menaster offers a comprehensive overview of Anthropic''s core views on AI safety, addressing the timeline, reasons, focus areas, and approaches to mitigating AI-related risks.' /* notes */
+    )
 ;
 
