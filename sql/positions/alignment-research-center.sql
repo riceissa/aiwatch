@@ -15,15 +15,27 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Buck Shlegeris', 'Alignment Research Center', 'Board Member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/buck-shlegeris', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
 ,('Ben Hoskin', 'Alignment Research Center', 'Board Member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/ben-hoskin', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
 
+
+
+
+
+
  
- ,('Amanda She', 'Alignment Research Center', 'Executive Assistant (ARC Evals)', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/amandarshe/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-09-12*/ /*current position*/
-  ,('Aryan Bhatt', 'Alignment Research Center', 'SERI MATS Research Scholar', '2022-11-01', 'month', '2023-02-01', 'month', 'https://www.linkedin.com/in/aryanbhatt17/', NULL, 'Full-time', 'AI safety')  /*Reviewed on 2023-09-14*/ 
-  ,('Aryan Bhatt', 'Alignment Research Center', 'Visiting Researcher', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/aryanbhatt17/', NULL, 'Full-time', 'AI safety')  /*Reviewed on 2023-09-14*/ /*current position*/ 
-  ,('Chris Painter', 'Alignment Research Center', 'Member of Technical Staff (ARC Evals)', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cpainter1/ https://web.archive.org/web/20230912013151/https://evals.alignment.org/team/', NULL, 'Full-time', 'AI safety')  /*Reviewed on 2023-09-12*/ /*current position*/
-  ,('Elizabeth Barnes', 'Alignment Research Center', 'Project Lead (ARC Evals)', '2022-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/elizabethmbarnes/ https://web.archive.org/web/20230912013151/https://evals.alignment.org/team/', NULL, 'Full-time', 'AI safety')  /*Reviewed on 2023-09-12*/ /*current position*/
-  ,('Emma Abele', 'Alignment Research Center', 'Chief of Staff (ARC Evals)', '2023-03-01', 'month', NULL, NULL, 'https://web.archive.org/web/20230301170836/https://evals.alignment.org/team/ https://www.linkedin.com/in/emma-abele-00147493/ https://web.archive.org/web/20230912013151/https://evals.alignment.org/team/', NULL, 'Full-time', 'AI safety')  /*Reviewed on 2023-09-12*/ /*current position*/
+
+  ,('Aryan Bhatt', 'Alignment Research Center', 'SERI MATS Research Scholar', '2022-11-01', 'month', '2023-02-01', 'month', 'https://www.linkedin.com/in/aryanbhatt17/', NULL, 'Full-time', 'AI safety')  /*Closed*/ 
+  ,('Aryan Bhatt', 'Alignment Research Center', 'Visiting Researcher', '2023-08-01', 'month', '2023-11-01', ',month', 'https://www.linkedin.com/in/aryanbhatt17/', NULL, 'Full-time', 'AI safety')  /*Closed*/ 
+
+
+
+
+
+
+ 
+
   ,('Eric Neyman', 'Alignment Research Center', 'Researcher', '2023-09-14', 'month', NULL, NULL, 'https://web.archive.org/web/20230914171025/https://www.alignment.org/theory/ ', NULL, NULL, 'AI safety')  /*Reviewed on 2023-09-12*/ /*current position*/
-  ,('Hjalmar Wijk', 'Alignment Research Center', 'Member of Technical Staff', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hjalmar-wijk/ https://web.archive.org/web/20230301170836/https://evals.alignment.org/team/ https://web.archive.org/web/20230912013151/https://evals.alignment.org/team/', 'Machine Learning Researcher. He works on the ARC evals team evaluating the capabilities and safety of machine learning systems, trying to reduce worst-case risks from future models.', 'Full-time', 'AI safety')  /*Reviewed on 2023-09-17*/ /*current position*/
+
+
+ 
   ,('Haoxing Du', 'Alignment Research Center', 'Member of Technical Staff (ARC Evals)', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/haoxing-du-796963247/ https://web.archive.org/web/20230912013151/https://evals.alignment.org/team/', NULL, 'Full-time', 'AI safety')  /*Reviewed on 2023-09-12*/ /*current position*/
   ,('Jacob Hilton', 'Alignment Research Center', 'Researcher', '2023-06-05', 'year', NULL, NULL, 'https://web.archive.org/web/20230605061745/https://www.alignment.org/theory/ https://web.archive.org/web/20230914171025/https://www.alignment.org/theory/', NULL, NULL, 'AI safety')  /*Reviewed on 2023-09-12*/ /*current position*/
    ,('Josh Jacobson', 'Alignment Research Center', 'Interim Operations Lead (Evals), Formerly Interim Operations Lead (Theory)', '2022-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joshmjacobson/', NULL, 'contractor', 'AI safety')  /*Reviewed on 2023-09-17*/ /*current position*/
@@ -43,3 +55,15 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Ted Suzman', 'Alignment Research Center', 'Member of Technical Staff', '2023-08-20', 'year', NULL, NULL, 'https://web.archive.org/web/20230820073018/https://evals.alignment.org/team/ https://web.archive.org/web/20230912013151/https://evals.alignment.org/team/', NULL, NULL, 'AI safety')  /*Reviewed on 2023-09-12*/ /*current position*/
     ,('Timothy Kokotajlo', 'Alignment Research Center', 'Contractor', '2022-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/timothy-kokotajlo-087666b7/', NULL, 'Contractor', 'AI safety')  /*Reviewed on 2023-09-17*/ /*current position*/
  
+
+
+
+
+
+/*...........Positions at Model Evaluation and Threat Research (METR), a spinoff of Alignment Research Center, are found below................................*/
+
+  ,('Amanda She', 'Alignment Research Center', 'Executive Assistant (ARC Evals)', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/amandarshe/', NULL, 'Full-time', 'AI safety')
+  ,('Chris Painter', 'Alignment Research Center', 'Member of Technical Staff (ARC Evals)', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cpainter1/ https://web.archive.org/web/20230912013151/https://evals.alignment.org/team/', NULL, 'Full-time', 'AI safety')  
+ ,('Elizabeth Barnes', 'Alignment Research Center', 'Project Lead (ARC Evals)', '2022-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/elizabethmbarnes/ https://web.archive.org/web/20230912013151/https://evals.alignment.org/team/', NULL, 'Full-time', 'AI safety')  
+   ,('Emma Abele', 'Alignment Research Center', 'Chief of Staff (ARC Evals)', '2023-03-01', 'month', NULL, NULL, 'https://web.archive.org/web/20230301170836/https://evals.alignment.org/team/ https://www.linkedin.com/in/emma-abele-00147493/ https://web.archive.org/web/20230912013151/https://evals.alignment.org/team/', NULL, 'Full-time', 'AI safety')   
+ ,('Hjalmar Wijk', 'Alignment Research Center', 'Member of Technical Staff', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hjalmar-wijk/ https://web.archive.org/web/20230301170836/https://evals.alignment.org/team/ https://web.archive.org/web/20230912013151/https://evals.alignment.org/team/', 'Machine Learning Researcher. He works on the ARC evals team evaluating the capabilities and safety of machine learning systems, trying to reduce worst-case risks from future models.', 'Full-time', 'AI safety')   
