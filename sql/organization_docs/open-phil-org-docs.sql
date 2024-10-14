@@ -546,6 +546,19 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Science and Global Health R&D', /* cause_area */
         'Alex Bowles, a Senior Program Associate at Open Philanthropy, shares insights into his dual role on the Science and Global Health R&D and Global Health and Wellbeing Cause Prioritization teams, focusing on cost-effectiveness analysis of grants, exploring new strategic areas like hepatitis C vaccine development, and collaborating with colleagues across time zones.' /* notes */
     )
-     
+    ,(
+        'https://forum.effectivealtruism.org/posts/trqswoctpQ92tcY2y/criticism-thread-what-things-should-openphil-improve-on', /* url */
+        'Criticism Thread: What things should OpenPhil improve on?', /* title */
+        '2024-04-17', /* publication_date */
+        NULL, /* modified_date */
+        'anonymousEA20', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        NULL, /* cause_area */
+        'The article discusses concerns about conflicts of interest within Open Philanthropy, highlighting how organizations like Anthropic, with personal ties to Open Phil leadership, have received substantial funding, raising the need for reforms in grantmaking processes to ensure fairness and transparency.' /* notes */
+    )
+    
 ;
 
