@@ -220,4 +220,70 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI safety', /* cause_area */
         'David Nash highlights Anthropic''s commitment to AI safety, with CEO Dario Amodei emphasizing the importance of global collaboration, as the UK strengthens its position in AI development with key partnerships and initiatives.' /* notes */
     )
+    ,(
+        'https://forum.effectivealtruism.org/posts/h22mEkh9o5vCQE8Ti/dario-amodei-machines-of-loving-grace', /* url */
+        'Dario Amodei — Machines of Loving Grace', /* title */
+        '2024-10-12', /* publication_date */
+        NULL, /* modified_date */
+        'Matrice Jacobine', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Anthropic', /* affected_organizations */
+        'Dario Amodei', /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article by Matrice Jacobine focuses on Anthropic CEO Dario Amodei''s perspective on the potential positive impact of AI, emphasizing that addressing AI risks is crucial to unlocking its transformative benefits.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/fKMPa7cxSnBCymuRm/is-pausing-ai-possible', /* url */
+        'Is Pausing AI Possible?', /* title */
+        '2024-10-12', /* publication_date */
+        NULL, /* modified_date */
+        'Richard Annilo', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Anthropic', /* affected_organizations */
+        NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'Richard Annilo, the author explores the challenges and feasibility of pausing AI development, with a significant focus on Anthropic’s efforts and strategies in addressing AI risks.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/uGDCaPFaPkuxAowmH/anthropic-core-views-on-ai-safety-when-why-what-and-how', /* url */
+        'Anthropic: Core Views on AI Safety: When, Why, What, and How', /* title */
+        '2023-03-09', /* publication_date */
+        NULL, /* modified_date */
+        'Jonmenaster', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Anthropic', /* affected_organizations */
+        NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article by Jon Menaster offers a comprehensive overview of Anthropic''s core views on AI safety, addressing the timeline, reasons, focus areas, and approaches to mitigating AI-related risks.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/WDeKmM87KB6NLKuBm/has-anthropic-already-made-the-externally-legible', /* url */
+        'Has Anthropic already made the externally legible commitments that it planned to make?', /* title */
+        '2024-03-12', /* publication_date */
+        NULL, /* modified_date */
+        'Ofer', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Anthropic', /* affected_organizations */
+        NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article, written by Ofer and answered by Neel Nanda, discusses whether Anthropic has made its promised externally legible commitments regarding the development of AI models beyond a certain capability threshold, with reference to their Responsible Scaling Policy..' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/gbPthwLw3NovHAJdp/software-engineering-career-review', /* url */
+        'Software engineering - Career review', /* title */
+        '2022-02-08', /* publication_date */
+        NULL, /* modified_date */
+        ' Benjamin Hilton| 80000_Hours', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Anthropic|Ought| Secure DNA Project|Momentum|Telis Bioscience ', /* affected_organizations */
+        NULL, /* affected_people */
+        'Job experince', /* document_scope */
+        NULL, /* cause_area */
+        'The article provides an overview of Anthropic''s recent software engineering hiring practices, focusing on lessons learned during the recruitment process.' /* notes */
+    ) 
+     
 ;
