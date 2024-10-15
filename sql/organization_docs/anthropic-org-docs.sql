@@ -277,13 +277,104 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Software engineering - Career review', /* title */
         '2022-02-08', /* publication_date */
         NULL, /* modified_date */
-        ' Benjamin Hilton| 80000_Hours', /* author */
+        'Benjamin Hilton| 80000_Hours', /* author */
         'Effective Altruism Forum', /* publisher */
         'Anthropic|Ought| Secure DNA Project|Momentum|Telis Bioscience ', /* affected_organizations */
         NULL, /* affected_people */
-        'Job experince', /* document_scope */
+        'Job experience', /* document_scope */
         NULL, /* cause_area */
         'The article provides an overview of Anthropic''s recent software engineering hiring practices, focusing on lessons learned during the recruitment process.' /* notes */
     ) 
+     ,(
+        'https://time.com/6980000/anthropic/', /* url */
+        'Inside Anthropic, the AI Company Betting That Safety Can Be a Winning Strategy', /* title */
+        '2024-05-30', /* publication_date */
+        NULL, /* modified_date */
+        'Billy Perrigo', /* author */
+        'Time', /* publisher */
+        'Anthropic', /* affected_organizations */
+        NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article provides an in-depth look at Anthropic, focusing on CEO Dario Amodei''s decision to withhold the release of their advanced AI, Claude, in favor of prioritizing AI safety and fostering industry-wide responsibility, despite the potential for significant financial loss.' /* notes */
+    ) 
+     ,(
+        'https://www.cnbc.com/2024/08/29/openai-and-anthropic-agree-to-let-us-ai-safety-institute-test-models.html', /* url */
+        'OpenAI and Anthropic agree to let U.S. AI Safety Institute test and evaluate new models', /* title */
+        '2024-08-29', /* publication_date */
+        '2024-08-29', /* modified_date */
+        'Hayden Field', /* author */
+        'CNBC', /* publisher */
+        'Anthropic|OpenAI|U.S. AI Safety Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'Hayden Field reports that Anthropic has partnered with the U.S. AI Safety Institute to conduct pre-release safety testing on its AI models, reinforcing the company''s focus on identifying and mitigating AI risks to ensure responsible development.' /* notes */
+    ) 
+    ,(
+        'https://www.forbes.com/sites/timabansal/2024/01/16/openai-or-anthropic-which-will-keep-you-more-safe/', /* url */
+        'Which Company Will Ensure AI Safety? OpenAI Or Anthropic', /* title */
+        '2024-01-16', /* publication_date */
+        '2024-01-16', /* modified_date */
+        'Tima Bansal', /* author */
+        'Forbes', /* publisher */
+        'Anthropic|OpenAI', /* affected_organizations */
+        NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article contrasts OpenAI''s recent governance changes with Anthropic''s stronger focus on AI safety, highlighting how Anthropic''s Public-Benefit Corporation (PBC) and Long-Term Benefit Trust structure embed ethical oversight into its operations, positioning it as a leader in safe AI development.' /* notes */
+    ) 
+    ,(
+        'https://www.cio.com/article/2130038/ex-open-ai-researcher-jan-leike-joins-anthropic-amid-ai-safety-concerns.html', /* url */
+        'Ex-Open AI researcher Jan Leike joins Anthropic amid AI safety concerns', /* title */
+        '2024-05-29', /* publication_date */
+        NULL, /* modified_date */
+        'Gyana Swain', /* author */
+        'CIO', /* publisher */
+        'Anthropic|OpenAI', /* affected_organizations */
+        NULL, /* affected_people */
+        'Successful hire', /* document_scope */
+        'AI safety', /* cause_area */
+        'Jan Leike, a former OpenAI researcher, joins Anthropic to focus on scalable oversight and AI safety, following concerns over OpenAI''s safety culture.' /* notes */
+    ) 
+    ,(
+        'https://coingeek.com/california-waters-down-ai-safety-bill-to-appease-industry-opposition/', /* url */
+        'California waters down AI safety bill to appease industry opposition', /* title */
+        '2024-10-15', /* publication_date */
+        NULL, /* modified_date */
+        'James Field', /* author */
+        'Coingeek', /* publisher */
+        'Anthropic|OpenAI', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'California lawmakers revised the AI safety bill SB-1074 following opposition from the industry, including AI firm Anthropic, which influenced changes related to enforcement penalties and oversight to balance innovation with safety.' /* notes */
+    ) 
+    ,(
+        'https://www.pymnts.com/artificial-intelligence-2/2024/the-week-in-ai-anthropics-ai-safety-initiative-regulation-battles-and-investor-alerts-the-ai-landscape-shifts/', /* url */
+        'The Week in AI: Anthropic’s AI Safety Initiative, Regulation Battles, and Investor Alerts: The AI Landscape Shifts', /* title */
+        '2024-06-05', /* publication_date */
+        NULL, /* modified_date */
+        'PYMNTS', /* author */
+        'PYMNTS', /* publisher */
+        'Anthropic', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'Anthropic launches a new AI safety initiative aimed at establishing benchmarks for advanced AI evaluations, focusing on cybersecurity and threat assessments, as global regulations tighten and investor interest grows.' /* notes */
+    )
+    ,(
+        'https://www.datasciencecentral.com/openai-and-anthropic-hopes-for-ai-alignment-and-safety-should-not-be-centralized/', /* url */
+        'OpenAI and Anthropic: Hopes for AI alignment and safety should not be centralized', /* title */
+        '2024-09-04', /* publication_date */
+        NULL, /* modified_date */
+        'David Stephen', /* author */
+        'Data Science Central', /* publisher */
+        'Anthropic|OpenAI', /* affected_organizations */
+        NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'David Stephen critiques the centralized approach to AI safety and alignment efforts by Anthropic and OpenAI, emphasizing the need for broader, more decentralized and interdisciplinary solutions to effectively mitigate AI risks and harms.' /* notes */
+    )
      
 ;
