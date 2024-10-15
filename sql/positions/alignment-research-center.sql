@@ -14,23 +14,14 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Kyle Scott', 'Alignment Research Center', 'Secretary', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/kyle-scott', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
 ,('Buck Shlegeris', 'Alignment Research Center', 'Board Member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/buck-shlegeris', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
 ,('Ben Hoskin', 'Alignment Research Center', 'Board Member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/ben-hoskin', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
-
-
-
-
-
-
- 
-
   ,('Aryan Bhatt', 'Alignment Research Center', 'SERI MATS Research Scholar', '2022-11-01', 'month', '2023-02-01', 'month', 'https://www.linkedin.com/in/aryanbhatt17/', NULL, 'Full-time', 'AI safety')  /*Closed*/ 
-  ,('Aryan Bhatt', 'Alignment Research Center', 'Visiting Researcher', '2023-08-01', 'month', '2023-11-01', ',month', 'https://www.linkedin.com/in/aryanbhatt17/', NULL, 'Full-time', 'AI safety')  /*Closed*/ 
+  ,('Aryan Bhatt', 'Alignment Research Center', 'Visiting Researcher', '2023-08-01', 'month', '2023-11-01', 'month', 'https://www.linkedin.com/in/aryanbhatt17/', NULL, 'Full-time', 'AI safety')  /*Closed*/ 
 
 
 
 
 
 
- 
 
   ,('Eric Neyman', 'Alignment Research Center', 'Researcher', '2023-09-14', 'month', NULL, NULL, 'https://web.archive.org/web/20230914171025/https://www.alignment.org/theory/ ', NULL, NULL, 'AI safety')  /*Reviewed on 2023-09-12*/ /*current position*/
 
