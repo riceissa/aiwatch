@@ -376,5 +376,108 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI safety', /* cause_area */
         'David Stephen critiques the centralized approach to AI safety and alignment efforts by Anthropic and OpenAI, emphasizing the need for broader, more decentralized and interdisciplinary solutions to effectively mitigate AI risks and harms.' /* notes */
     )
-     
+    ,(
+        'https://time.com/6985504/openai-google-deepmind-employees-letter/', /* url */
+        'Employees Say OpenAI and Google DeepMind Are Hiding Dangers From the Public', /* title */
+        '2024-06-04', /* publication_date */
+        NULL, /* modified_date */
+        'Solcyré Burga', /* author */
+        'Time', /* publisher */
+        'Anthropic|OpenAI|Google DeepMind', /* affected_organizations */
+        NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'A group of current and former employees from AI companies, including Anthropic, raised concerns in a public letter about the dangers of advanced AI systems, calling for greater transparency and regulation to address risks such as misinformation, bias, and potential human extinction.' /* notes */
+    )
+    ,(
+        'https://www.ft.com/content/07611b74-3d69-4579-9089-f2fc2af61baa', /* url */
+        'AI start-up Anthropic accused of ‘egregious’ data scraping', /* title */
+        '2024-07-26', /* publication_date */
+        NULL, /* modified_date */
+        'George Hammond ', /* author */
+        'Financial Times', /* publisher */
+        'Anthropic', /* affected_organizations */
+        NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article discusses accusations against Anthropic, an AI start-up, for allegedly engaging in aggressive data scraping from websites to train its AI models, despite publishers'' requests to stop, raising concerns about the ethics of such practices.' /* notes */
+    )
+     ,(
+        'https://www.pymnts.com/artificial-intelligence-2/2024/openai-co-founder-john-schulman-joins-anthropic/', /* url */
+        'OpenAI Co-Founder John Schulman Joins Anthropic', /* title */
+        '2024-08-06', /* publication_date */
+        NULL, /* modified_date */
+        NULL, /* author */
+        'PYMNTS', /* publisher */
+        'Anthropic|OpenAI', /* affected_organizations */
+        NULL, /* affected_people */
+        'Successful hire', /* document_scope */
+        'AI safety', /* cause_area */
+        'John Schulman, co-founder of OpenAI, has left the OpenAI to join Anthropic, citing a desire to deepen his focus on AI alignment and work alongside experts in the field.' /* notes */
+    )
+     ,(
+        'https://www.technologyreview.com/2024/07/22/1095193/ai-companies-promised-the-white-house-to-self-regulate-one-year-ago-whats-changed/', /* url */
+        'AI companies promised to self-regulate one year ago. What’s changed?', /* title */
+        '2022-07-22', /* publication_date */
+        NULL, /* modified_date */
+        'Melissa Heikkilä', /* author */
+        'MIT Technology Review', /* publisher */
+        'Anthropic|OpenAI|Google|Inflection|Meta|Microsoft', /* affected_organizations */
+        NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article highlights that, one year after AI companies made voluntary commitments to self-regulate, there has been some progress, but significant gaps remain. These companies—Amazon, Anthropic, Google, Inflection, Meta, Microsoft, and OpenAI—have made strides in technical measures like red-teaming and watermarking, but issues such as transparency and meaningful accountability are still lacking.' /* notes */
+    )
+     ,(
+        'https://www.datasciencecentral.com/openai-and-anthropic-hopes-for-ai-alignment-and-safety-should-not-be-centralized/', /* url */
+        'How Anthropic has doubled down on AI safety', /* title */
+        '2024-03-19', /* publication_date */
+        NULL, /* modified_date */
+        'Mark Sullivan', /* author */
+        'Fast Company', /* publisher */
+        'Anthropic|OpenAI', /* affected_organizations */
+        NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'Mark Sullivan provides an overview of how Anthropic doubled down on AI safety in 2023 by raising $7 billion, launching Claude 2 with enhanced capabilities, and pioneering a "Constitutional AI" approach to align its models with ethical principles.' /* notes */
+    )
+    ,(
+        'https://www.anthropic.com/news/model-safety-bug-bounty', /* url */
+        'Expanding our model safety bug bounty program', /* title */
+        '2024-08-08', /* publication_date */
+        NULL, /* modified_date */
+        NULL, /* author */
+        'Anthropic', /* publisher */
+        NULL, /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'Anthropic announces the expansion of its model safety bug bounty program, focusing on identifying and mitigating universal jailbreaks in high-risk domains such as CBRN and cybersecurity.' /* notes */
+    )
+    ,(
+        'https://www.fastcompany.com/90948058/how-anthropics-daniela-amodei-is-keeping-ai-grounded-in-safety', /* url */
+        'How Anthropic’s Daniela Amodei is keeping AI from spinning out of control', /* title */
+        '2024-09-06', /* publication_date */
+        NULL, /* modified_date */
+        'Mark Sullivan', /* author */
+        'Fast Company', /* publisher */
+        'Anthropic', /* affected_organizations */
+        NULL, /* affected_people */
+        'Job experience', /* document_scope */
+        'AI safety', /* cause_area */
+        'Daniela Amodei, co-founder and president of Anthropic, leads efforts to build AI models that prioritize safety, transparency, and human feedback, ensuring they are helpful, honest, and harmless.' /* notes */
+    )
+    ,(
+        'https://www.fastcompany.com/90879287/ron-conway-responsible-ai', /* url */
+        'Why Internet ‘godfather’ Ron Conway called a meeting to discuss responsible AI', /* title */
+        '2023-04-10', /* publication_date */
+        NULL, /* modified_date */
+        'Mark Sullivan', /* author */
+        'Fast Company', /* publisher */
+        'Anthropic', /* affected_organizations */
+        NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'Ron Conway convened a meeting with leaders from major AI companies, including Anthropic, to discuss responsible AI development, focusing on best practices and policy frameworks amid rapid advancements in generative AI.' /* notes */
+    )
 ;
