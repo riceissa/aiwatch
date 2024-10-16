@@ -1,4 +1,4 @@
-
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
 
 ('Adam Gleave', 'FAR.AI', 'CEO and President of the Board', '2023-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20230129162342/http://far.ai/ https://www.linkedin.com/in/adamgleave/ https://web.archive.org/web/20240917153637/https://far.ai/about/team/', NULL, 'Directly involved in AI safety research leadership', 'full-time', 'AI safety') /* Reviewed on 2024-10-03*/ /* Ongoing position */
 ,('Karl Berzins', 'FAR.AI', ' Chief Operating Officer', '2022-11-01', 'month', NULL, NULL, 'https://web.archive.org/web/20230129162342/http://far.ai/ https://www.linkedin.com/in/karlberzins/ https://web.archive.org/web/20240917153637/https://far.ai/about/team/', NULL, 'Operations in AI safety initiatives', NULL, 'AI safety') /* Reviewed on 2024-10-03*/ /* Ongoing position */
