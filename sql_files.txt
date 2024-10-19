@@ -6,6 +6,7 @@ sql/positions/80000-hours.sql
 sql/positions/abdul-latif-jameel-poverty-action-lab.sql
 sql/positions/ace.sql
 sql/positions/ai-challenge.sql
+sql/positions/ai-for-good-foundation.sql
 sql/positions/ai-impacts.sql
 sql/positions/ai-safety-camp.sql
 sql/positions/albert-schweitzer-foundation.sql
@@ -15,6 +16,7 @@ sql/positions/alvea.sql
 sql/positions/amf.sql
 sql/positions/animal-advocacy-africa.sql
 sql/positions/anthropic.sql
+sql/positions/antikythera.sql
 sql/positions/arb-research.sql
 sql/positions/astera.sql
 sql/positions/balsa-research.sql
@@ -39,6 +41,7 @@ sql/positions/condor-camp.sql
 sql/positions/conjecture.sql
 sql/positions/continualai.sql
 sql/positions/cooperativeai.sql
+sql/positions/cornell-effective-altruism.sql
 sql/positions/cset.sql
 sql/positions/ea-engineers.sql
 sql/positions/ea-foundation.sql
@@ -48,6 +51,7 @@ sql/positions/effective-altruism-geneva.sql
 sql/positions/elicit.sql
 sql/positions/encultured-ai.sql
 sql/positions/epoch.sql
+sql/positions/far_ai.sql
 sql/positions/farmed-animal-funders.sql
 sql/positions/fishwelfareinitiative.org.sql
 sql/positions/flowers-laboratory.sql
@@ -86,6 +90,7 @@ sql/positions/mercy-for-animals.sql
 sql/positions/metaculus.sql
 sql/positions/methuselah-foundation.sql
 sql/positions/miri.sql
+sql/positions/model-evaluation-and-threat-research.sql
 sql/positions/new-incentives.sql
 sql/positions/non-trivial.sql
 sql/positions/nonlinear-fund.sql
