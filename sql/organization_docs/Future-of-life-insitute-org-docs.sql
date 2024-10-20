@@ -79,7 +79,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
     )
     ,(
         'https://forum.effectivealtruism.org/posts/Htq8ucEFXp9EEiYBn/announcing-the-ai-safety-summit-talks-with-yoshua-bengio',  /* url */
-        'Announcing the AI Safety Summit Talks with Yoshua Bengio"', /* title */
+        'Announcing the AI Safety Summit Talks with Yoshua Bengio', /* title */
         '2024-05-15', /* publication_date */
         NULL, /* modified_date */
         'Otto', /* author */
@@ -90,5 +90,187 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI safety', /* cause_area */
         'The article announces the AI Safety Summit Talks, featuring key figures like Max Tegmark from the Future of Life Institute, aimed at addressing AI existential risks through public debate and governance discussions.' /* notes */
     )
-    
+     ,(
+        'https://forum.effectivealtruism.org/posts/akbwyBioGBd68CsNx/summary-the-case-for-halting-ai-development-max-tegmark-on',  /* url */
+        'Summary: The Case for Halting AI Development - Max Tegmark on the Lex Fridman Podcast', /* title */
+        '2023-04-17', /* publication_date */
+        NULL, /* modified_date */
+        'Madhav Malhotra', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'Max Tegmark, cofounder of the Future of Life Institute, argues on the Lex Fridman Podcast for halting AI development beyond GPT-4 due to safety concerns and the global need for a coordinated pause to address the risks of advancing Artificial General Intelligence (AGI) too quickly.' /* notes */
+    )
+     ,(
+        'https://forum.effectivealtruism.org/posts/h95YqrLvjMovGmPna/latest-ea-updates-for-april-2019',  /* url */
+        'Latest EA Updates for April 2019', /* title */
+        '2019-05-01', /* publication_date */
+        NULL, /* modified_date */
+        'David Nash', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article provides an April 2019 update on effective altruism activities, covering media, organization news, grants, and research. Of note, the Future of Life Institute is highlighted for awarding Matthew Meselson, a key figure in the fight against bio-weapons, in recognition of his work.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/Ewk9eXrcRRcJvqBY8/ai-risk-and-policy-forecasts-from-metaculus-and-fli-s-ai',  /* url */
+        'AI Risk & Policy Forecasts from Metaculus & FLI’s AI Pathways Workshop', /* title */
+        '2023-05-16', /* publication_date */
+        NULL, /* modified_date */
+        'Will Aldred', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'Will Aldred''s article summarizes key findings from a joint workshop by Metaculus and the Future of Life Institute, highlighting policy directions like API restrictions and model export controls as potential measures to mitigate AI risks, with insights from Pro Forecasters and AI safety experts.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/iAowzcZm87wNrTQCb/a-biosecurity-and-biorisk-reading-list',  /* url */
+        'A Biosecurity and Biorisk Reading+ List', /* title */
+        '2021-05-14', /* publication_date */
+        NULL, /* modified_date */
+        'Tessa A', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'This comprehensive biosecurity and biorisk reading list highlights essential resources, including reports and podcasts from the Future of Life Institute, aimed at reducing global catastrophic biological risks and advancing biosecurity governance.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/4CbJRAfr2JsYXQ9wD/latest-ea-updates-for-september-2019',  /* url */
+        'Latest EA Updates for September 2019', /* title */
+        '2019-05-28', /* publication_date */
+        NULL, /* modified_date */
+        'David Nash', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'This article provides a comprehensive update on various effective altruism organizations and initiatives for September 2019, highlighting topics such as grants, research, podcasts, and media coverage, including a new podcast series by the Future of Life Institute focusing on climate change risks and global security.' /* notes */
+    )
+     ,(
+        'https://forum.effectivealtruism.org/posts/AQrthFKWgJvMWw5JB/i-m-interviewing-max-tegmark-about-ai-safety-and-more-what',  /* url */
+        'I''m interviewing Max Tegmark about AI safety and more. What shouId I ask him?', /* title */
+        '2022-05-13', /* publication_date */
+        NULL, /* modified_date */
+        'Robert Wiblin', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'AMA', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article discusses an upcoming interview with Max Tegmark, founder of the Future of Life Institute, and seeks suggestions for AI safety-related questions, focusing on his work with the Institute and advancements in AI alignment.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/kMcr72cQ78q8G2jNv/link-center-for-the-governance-of-ai-govai-annual-report',  /* url */
+        '[Link] Center for the Governance of AI (GovAI) Annual Report 2018', /* title */
+        '2018-12-21', /* publication_date */
+        NULL, /* modified_date */
+        'Markus Anderljung', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'The 2018 GovAI Annual Report highlights the organization''s growth and research efforts, supported by key funders including the Future of Life Institute, focusing on AI governance to mitigate risks and ensure AI benefits humanity.' /* notes */
+    )
+     ,(
+        'https://forum.effectivealtruism.org/posts/3zoxiT6bnaTpLZZD3/fli-podcast-series-imagine-a-world-about-aspirational',  /* url */
+        'FLI podcast series, "Imagine A World", about aspirational futures with AGI', /* title */
+        '2018-12-21', /* publication_date */
+        NULL, /* modified_date */
+        'Jackson Wagner', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article provides an overview of the Future of Life Institute''s podcast series "Imagine A World," which explores aspirational futures shaped by AGI through discussions on innovative governance, digital nations, and inclusive AI development, all based on winning entries from FLI''s AI Worldbuilding Contest.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/3RpCB4rhpPNoCH7mL/ea-organization-updates-july-2019',  /* url */
+        'EA Organization Updates: July 2019', /* title */
+        '2019-08-07', /* publication_date */
+        NULL, /* modified_date */
+        'Aaron Gertler', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article provides updates from various EA organizations, with the Future of Life Institute highlighting the winner of their Sapiens Plurum short story contest and the release of podcasts on AI governance and climate risks, while preparing a series on climate risk topics based on community input.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/M4NEtSghTx9BWBDQa/ea-organization-updates-march-2020',  /* url */
+        'EA Organization Updates: March 2020', /* title */
+        '2020-04-17', /* publication_date */
+        NULL, /* modified_date */
+        'Aaron Gertler', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article provides updates from various effective altruism organizations in March 2020, highlighting the Future of Life Institute''s response to the COVID-19 crisis, including their involvement in government advisory roles and the development of epidemic forecasting tools.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/LFN2NtfcKaCFayLtC/fli-ai-alignment-podcast-evan-hubinger-on-inner-alignment',  /* url */
+        'FLI AI Alignment podcast: Evan Hubinger on Inner Alignment, Outer Alignment, and Proposals for Building Safe Advanced AI', /* title */
+        '2020-07-01', /* publication_date */
+        NULL, /* modified_date */
+        'Evhub', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'In a podcast episode from the Future of Life Institute, Evan Hubinger discusses critical issues in AI safety, focusing on inner and outer alignment, and proposes promising solutions to ensure the safe development of advanced AI.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/dYf4w6qvidP7x5AND/data-collection-for-ai-alignment-career-review',  /* url */
+        'Data collection for AI alignment - Career review', /* title */
+        '2022-07-03', /* publication_date */
+        NULL, /* modified_date */
+        'Benjamin Hilton|80000_Hours', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article discusses the critical role of data collection for AI alignment, emphasizing its importance in shaping the future of AI safety and featuring insights from the Future of Life Institute and individuals like Long Ouyang, who transitioned from psychology to contribute to AI safety efforts.' /* notes */
+    )
+     ,(
+        'https://forum.effectivealtruism.org/posts/9orJx6uvgbLD7FkGC/fli-is-hiring-a-new-director-of-us-policy',  /* url */
+        'FLI is hiring a new Director of US Policy', /* title */
+        '2022-07-03', /* publication_date */
+        NULL, /* modified_date */
+        'Aaguirre', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Hiring-related notice', /* document_scope */
+        'AI safety', /* cause_area */
+        'The Future of Life Institute is seeking a new Director of US Policy to enhance its advocacy efforts in AI governance, focusing on the promotion of ethical AI policies and collaboration with key stakeholders.' /* notes */
+    )
+     ,(
+        'https://forum.effectivealtruism.org/posts/EjGowxHhRifb2r8tE/welcome-to-apply-the-2024-vitalik-buterin-fellowships-in-ai',  /* url */
+        'Welcome to Apply: The 2024 Vitalik Buterin Fellowships in AI Existential Safety by FLI!', /* title */
+        '2024-09-02', /* publication_date */
+        NULL, /* modified_date */
+        'Zhijing Jin', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'The Future of Life Institute is now accepting applications for the 2024 Vitalik Buterin Fellowships in AI Existential Safety, offering funding for PhD and postdoc researchers dedicated to advancing safety in AI research.' /* notes */
+    )
+;
 ;
