@@ -272,5 +272,110 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI safety', /* cause_area */
         'The Future of Life Institute is now accepting applications for the 2024 Vitalik Buterin Fellowships in AI Existential Safety, offering funding for PhD and postdoc researchers dedicated to advancing safety in AI research.' /* notes */
     )
+    ,(
+        'https://forum.effectivealtruism.org/posts/j5xhPbj7ywdv6aEJc/ama-future-of-life-institute-s-eu-team',  /* url */
+        'AMA: Future of Life Institute''s EU Team', /* title */
+        '2022-01-31', /* publication_date */
+        NULL, /* modified_date */
+        'Risto Uuk', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'AMA', /* document_scope */
+        'AI safety', /* cause_area */
+        'Risto Uuk and Mark Brakel of the Future of Life Institute''s EU team provide an overview of FLI''s policy efforts in Europe, focusing on AI safety, lethal autonomous weapons, and an open position for an EU Policy Analyst.' /* notes */
+    ) 
+    ,(
+        'https://forum.effectivealtruism.org/posts/EjGowxHhRifb2r8tE/welcome-to-apply-the-2024-vitalik-buterin-fellowships-in-ai',  /* url */
+        'The Future of Life Institute is Hiring', /* title */
+        '2020-04-26', /* publication_date */
+        NULL, /* modified_date */
+        'Palus Astra', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Hiring-related notice', /* document_scope */
+        'AI safety', /* cause_area */
+        'Palus Astra announces a job opening at the Future of Life Institute for a project coordinator, highlighting the organization''s focus on improving humanity''s long-term future through global collaboration.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/44XPFrHiFwFBM2jfL/an-appraisal-of-the-future-of-life-institute-ai-existential',  /* url */
+        'An appraisal of the Future of Life Institute AI existential risk program', /* title */
+        '2022-12-11', /* publication_date */
+        NULL, /* modified_date */
+        'PabloAMC', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article provides an appreciation of the Future of Life Institute''s efforts in fostering AI existential risk research through their academic community and the Vitalik Buterin fellowships, highlighting the program''s impact on AI safety collaboration and talent development.' /* notes */
+    )
+     ,(
+        'https://forum.effectivealtruism.org/posts/Ewk9eXrcRRcJvqBY8/ai-risk-and-policy-forecasts-from-metaculus-and-fli-s-ai',  /* url */
+        'AI Risk & Policy Forecasts from Metaculus & FLI’s AI Pathways Workshop', /* title */
+        '2023-05-16', /* publication_date */
+        NULL, /* modified_date */
+        'Will Aldred', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'Will Aldred''s article discusses key insights from Metaculus and the Future of Life Institute''s AI Pathways Workshop, focusing on forecasting policy directions to reduce existential risks from advanced AI through international collaboration, API restrictions, and potential U.S. policies.' /* notes */
+    )
+      ,(
+        'https://forum.effectivealtruism.org/posts/sBeqhuQPLFgPiHevF/fli-is-hiring-across-comms-and-ops',  /* url */
+        'FLI is hiring across Comms and Ops', /* title */
+        '2024-07-25', /* publication_date */
+        NULL, /* modified_date */
+        'Ben_Eisenpress', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Hiring-related notice', /* document_scope */
+        'AI safety', /* cause_area */
+        'The Future of Life Institute is hiring for multiple remote roles in communications and operations, aiming to steer transformative technology away from existential risks.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/z4Z4BA2tMGbN3fSiL/2023-news-on-ai-safety-animal-welfare-global-health-and-more',  /* url */
+        '2023: news on AI safety, animal welfare, global health, and more', /* title */
+        '2024-01-06', /* publication_date */
+        NULL, /* modified_date */
+        'Lizka', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'In 2023, the Future of Life Institute played a pivotal role in AI safety by releasing a high-profile letter calling for a pause on large-scale AI experiments, garnering support from major public figures and AI experts.' /* notes */
+    )
+     ,(
+        'https://newsletter.futureoflife.org/p/fli-newsletter-february-2024',  /* url */
+        'Future of Life Institute Newsletter: FLI x The Elders, and #BanDeepfakes', /* title */
+        '2024-03-04', /* publication_date */
+        NULL, /* modified_date */
+        'Maggie Munro', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'Maggie Munro''s article in the Future of Life Institute''s newsletter highlights their partnership with The Elders to address global risks, the launch of a #BanDeepfakes campaign, and new funding opportunities to support AI research and governance.' /* notes */
+    )
+     ,(
+        'https://futureoflife.org/document/bis-rule-for-establishment-of-reporting-requirements/',  /* url */
+        'RfC on BIS Rule for ‘Establishment of Reporting Requirements for Advanced AI Models and Computing Clusters’', /* title */
+        '2024-10-11', /* publication_date */
+        NULL, /* modified_date */
+        'Hamza Chaudhry', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'Hamza Chaudhry of the Future of Life Institute provides recommendations to the Bureau of Industry and Security (BIS) regarding reporting requirements for AI models and computing clusters, focusing on enhancing safety practices and national security.' /* notes */
+    )
+;
 ;
 ;
