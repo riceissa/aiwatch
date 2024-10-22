@@ -480,4 +480,56 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI safety', /* cause_area */
         'Ron Conway convened a meeting with leaders from major AI companies, including Anthropic, to discuss responsible AI development, focusing on best practices and policy frameworks amid rapid advancements in generative AI.' /* notes */
     )
+     ,(
+        'https://forum.effectivealtruism.org/posts/JoJwBsGJFWtq72omp/anthropic-announcing-our-updated-responsible-scaling-policy', /* url */
+        'Anthropic rewrote its RSP', /* title */
+        '2024-10-15', /* publication_date */
+        NULL, /* modified_date */
+        'Zach Stein-Perlman', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Anthropic', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article discusses Anthropic''s updated Responsible Scaling Policy (RSP), highlighting its new risk management framework, capability thresholds, and safeguards aimed at mitigating catastrophic risks from AI systems, while addressing internal governance and evaluation procedures.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/oDpiccqTQyRTzPSpj/dispelling-the-anthropic-shadow-teruji-thomas', /* url */
+        'Dispelling the Anthropic Shadow (Teruji Thomas)', /* title */
+        '2024-10-16', /* publication_date */
+        NULL, /* modified_date */
+        'Global Priorities Institute', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Anthropic', /* affected_organizations */
+        NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI safety', /* cause_area */
+        'Teruji Thomas'' paper "Dispelling the Anthropic Shadow" critiques the idea that the anthropic shadow leads to significant biases in estimating the probability of catastrophic events, arguing that historical data still reliably informs risk estimates despite unobservable omnicidal events.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/KJm2Pzhad24wxkDcy/ea-organization-updates-october-2024', /* url */
+        'EA Organization Updates: October 2024', /* title */
+        '2024-10-16', /* publication_date */
+        NULL, /* modified_date */
+        'Toby Tremlett🔹| Dane Valerie', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Anthropic', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article provides an update on various EA organizations, highlighting job opportunities and projects, with a focus on Anthropic''s recruitment efforts for high-impact roles like Research Engineers and Scientists in AI safety and alignment, offering substantial salaries across multiple locations.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/fS8udrb8EfhaGeFnh/regulation-of-ai-use-for-personal-data-protection-comparison', /* url */
+        'Regulation of AI Use for Personal Data Protection: Comparison of Global Strategies and Opportunities for Latin America', /* title */
+        '2024-10-16', /* publication_date */
+        NULL, /* modified_date */
+        'Lisbeth Guzman', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Anthropic', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'A comprehensive analysis comparing AI personal data protection regulations across the US, EU, and China to inform Latin American policy development, highlighting the EU''s GDPR and recent AI Act as leading frameworks while noting the US''s state-by-state approach and China''s focus on state control..' /* notes */
+    )
 ;
