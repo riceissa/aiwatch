@@ -559,6 +559,57 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* cause_area */
         'The article discusses concerns about conflicts of interest within Open Philanthropy, highlighting how organizations like Anthropic, with personal ties to Open Phil leadership, have received substantial funding, raising the need for reforms in grantmaking processes to ensure fairness and transparency.' /* notes */
     )
-    
+    ,(
+        'https://forum.effectivealtruism.org/posts/4GqFqhou2KynWFFcQ/launching-the-health-progress-hub-and-how-you-can-help-us', /* url */
+        'Launching the Health Progress Hub (and how you can help us!)', /* title */
+        '2024-10-15', /* publication_date */
+        NULL, /* modified_date */
+        ' Berke|Martijn Klop|Ren D. Karabulut', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'Global health and wellbeing', /* cause_area */
+        'The article announces the launch of the Health Progress Hub by the Global Policy Research Group, focusing on addressing talent and infrastructure gaps in global health policy, particularly in low- and middle-income countries, with a pilot program aimed at training and connecting local talent to high-impact health organizations.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/BDuHXoSDBPuoCxuro/are-organically-farmed-animals-already-living-a-net-positive', /* url */
+        'Are Organically Farmed Animals Already Living a Net-Positive Life?', /* title */
+        '2024-10-17', /* publication_date */
+        NULL, /* modified_date */
+        'Christoph Hartmann', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'Animal welfare', /* cause_area */
+        'Christoph Hartmann explores whether organically farmed animals under Naturland certification experience net-positive lives compared to wild animals and conventional farming, raising questions about ethical consumer choices and advocacy for organic diets.' /* notes */
+    )
+     ,(
+        'https://forum.effectivealtruism.org/posts/KZXkP9Qs8Sy8AWcpp/how-likely-are-various-precursors-of-existential-risk', /* url */
+        'How Likely Are Various Precursors of Existential Risk?', /* title */
+        '2024-10-22', /* publication_date */
+        NULL, /* modified_date */
+        'NunoSempere', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'Effective altruism', /* cause_area */
+        'Muehlhauser provides an update on Open Philanthropy''s longtermist initiatives, including a recent hiring round and key lessons learned from the recruitment process.' /* notes */
+    )
+     ,(
+        'https://www.vox.com/future-perfect/23365512/future-perfect-50-ajeya-cotra-senior-research-analyst-open-philanthropy', /* url */
+        'How smart will AI get? Ajeya Cotra has an answer.', /* title */
+        '2022-10-20', /* publication_date */
+        NULL, /* modified_date */
+        'Sigal Samuel', /* author */
+        'Vox', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'Ajeya Cotra of Open Philanthropy updates her AI timelines, estimating transformative AI could emerge by 2040, prompting a shift in prioritizing AI risk funding over other causes like bio risk.' /* notes */
+    )
 ;
 
