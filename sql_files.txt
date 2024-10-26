@@ -107,6 +107,7 @@ sql/positions/pantask.sql
 sql/positions/probably-good.sql
 sql/positions/raising-for-effective-giving.sql
 sql/positions/redwood-research.sql
+sql/positions/responsible-ai-institute.sql
 sql/positions/rethink-charity.sql
 sql/positions/rethink-priorities.sql
 sql/positions/sci-foundation.sql
