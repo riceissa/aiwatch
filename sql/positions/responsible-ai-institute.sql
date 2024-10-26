@@ -65,6 +65,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Kate Shcheglova-Goldfinch', 'Responsible AI Institute', 'Member', '2023-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kateshcheglova/details/experience/', NULL, NULL, NULL, NULL, 'AI safety') /* Reviewed on 2024-10-15*/ /* Ongoing position */
 ,('Given Muwowo', 'Responsible AI Institute', 'Member', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/given-muwowo-b673a51b2/', NULL, NULL, NULL, NULL, 'AI safety') /* Reviewed on 2024-10-15*/ /* Ongoing position */
 ,('Beatrice O.', 'Responsible AI Institute', 'Member', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/beatriceoh/', NULL, NULL, NULL, NULL, 'AI safety') /* Reviewed on 2024-10-15*/ /* Ongoing position */
+
+
+
+
 ,('Elena Morettini', 'Responsible AI Institute', 'Leadership Team', '2023-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/elenamorettini/', NULL, NULL, NULL, NULL, 'AI safety') /* Reviewed on 2024-10-15*/ /* Ongoing position */
 ,('Kevin Ferguson', 'Responsible AI Institute', 'Member', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kevinferguson1/', NULL, NULL, NULL, NULL, 'AI safety') /* Reviewed on 2024-10-15*/ /* Ongoing position */
 ,('Daniel B.', 'Responsible AI Institute', 'Member', '2024-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/daniel-b-11240556/', NULL, NULL, NULL, NULL, 'AI safety') /* Reviewed on 2024-10-15*/ /* Ongoing position */
@@ -76,6 +80,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Nupur Raut', 'Responsible AI Institute', 'Member', '2024-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/nupur-raut/', NULL, NULL, NULL, NULL, 'AI safety') /* Reviewed on 2024-10-15*/ /* Ongoing position */
 ,('Padmini S.', 'Responsible AI Institute', 'Responsible AI Advocate', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/padminisoni-ai/', NULL, NULL, NULL, NULL, 'AI safety') /* Reviewed on 2024-10-15*/ /* Ongoing position */
 ,('Matt Grasser', 'Responsible AI Institute', 'Member', '2023-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/msgrasser/', NULL, NULL, NULL, NULL, 'AI safety') /* Reviewed on 2024-10-15*/ /* Ongoing position */
+
+
+
 ,('Thiago Araújo', 'Responsible AI Institute', 'Member', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/araujotja/', NULL, NULL, NULL, NULL, 'AI safety') /* Reviewed on 2024-10-15*/ /* Ongoing position */
 ,('Bianca de Teffé Erb', 'Responsible AI Institute', 'Member', '2024-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/biancadeteffeerb/', NULL, NULL, NULL, NULL, 'AI safety') /* Reviewed on 2024-10-15*/ /* Ongoing position */
 ,('Ellie D. Norris', 'Responsible AI Institute', 'Member', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/elliednorris/', NULL, NULL, NULL, NULL, 'AI safety') /* Reviewed on 2024-10-15*/ /* Ongoing position */
@@ -95,10 +102,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Giulio Mallardi', 'Responsible AI Institute', 'Member', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/giuliomallardi/', NULL, NULL, NULL, NULL, 'AI safety') /* Reviewed on 2024-10-15*/ /* Ongoing position */
 ,('Susanne B', 'Responsible AI Institute', 'Member', '2024-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/bergsusie/', NULL, NULL, NULL, NULL, 'AI safety') /* Reviewed on 2024-10-15*/ /* Ongoing position */
 ,('London Fobbs', 'Responsible AI Institute', 'AI Ethicist', '2024-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/london-fobbs-a6a9142a5/', NULL, NULL, NULL, 'part-time', 'AI safety') /* Reviewed on 2024-10-15*/ /* Ongoing position */
-,('Mica Syjuco', 'Responsible AI Institute', 'Member', '2023-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mica-syjuco-27759373/', NULL, NULL, NULL, NULL, 'AI safety') /* Reviewed on 2024-10-15*/ /* Ongoing position */
+,('Mica Syjuco', 'Responsible AI Institute', 'Member', '2023-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mica-syjuco-27759373/', NULL, NULL, NULL, NULL, 'AI safety') /* Reviewed on 2024-10-15*/ /* Ongoing position */  
+
+ 
 
 /* Closed positions below */
-
+ 
 ,('Nicole McCaffrey', 'Responsible AI Institute', 'Head of Marketing & Engagement', '2023-06-01', 'month', '2024-09-01', 'month', 'https://web.archive.org/web/20230906212436/https://www.responsible.ai/who-we-are/#team https://www.linkedin.com/in/nicole-mccaffrey-0b49674/ https://web.archive.org/web/20240721050130/https://www.responsible.ai/who-we-are/#team', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Sabrina Shih', 'Responsible AI Institute', 'AI Policy Analyst', '2023-11-02', 'month', '2024-05-01', 'month', 'https://web.archive.org/web/20231128104028/https://www.responsible.ai/who-we-are/#team https://www.linkedin.com/in/sabrinajadeshih/ https://web.archive.org/web/20240419231916/https://www.responsible.ai/who-we-are/#team', NULL, NULL, NULL, NULL, 'AI safety') 
 ,('Sabrina Shih', 'Responsible AI Institute', 'AI Policy Fellow', '2023-10-01', 'month', '2023-11-01', 'month', 'https://www.linkedin.com/in/sabrinajadeshih/', NULL, NULL, NULL, NULL, 'AI safety') 
@@ -111,6 +120,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Alex Benay', 'Responsible AI Institute', 'Advisor', '2021-06-01', NULL, '2022-09-01', 'year', 'https://web.archive.org/web/20210612201812/https://www.responsible.ai/about/ https://web.archive.org/web/20220928002120/https://www.responsible.ai/about/', NULL, NULL, NULL, 'Advisor', 'AI safety') 
 ,('Ashley Casovan', 'Responsible AI Institute', 'Executive Director', '2019-08-01', 'month', '2023-10-01', 'month', 'https://web.archive.org/web/20210612201812/https://www.responsible.ai/about/ https://www.linkedin.com/in/ashley-casovan-b3247211/ https://web.archive.org/web/20230921085828/https://www.responsible.ai/who-we-are/#team', NULL, NULL, NULL, 'full-time', 'AI safety') 
 ,('Phil Dawson', 'Responsible AI Institute', 'Senior Policy Counsel', '2021-06-01', NULL, '2022-08-01', 'month', 'https://web.archive.org/web/20210612201812/https://www.responsible.ai/about/ https://web.archive.org/web/20220816100317/https://www.responsible.ai/about/', NULL, NULL, NULL, NULL, 'AI safety') 
+
+
+
+
 ,('Kara Scully', 'Responsible AI Institute', 'Communications and Engagement Manager', '2021-06-01', NULL, '2021-10-01', 'year', 'https://web.archive.org/web/20210612201812/https://www.responsible.ai/about/ https://web.archive.org/web/20211019115747/https://www.responsible.ai/about/', NULL, NULL, NULL, NULL, 'AI safety') 
 ,('Hiring Soon', 'Responsible AI Institute', 'Lead Developer', '2021-06-01', NULL, '2021-10-01', 'year', 'https://web.archive.org/web/20210612201812/https://www.responsible.ai/about/ https://web.archive.org/web/20211019115747/https://www.responsible.ai/about/', NULL, NULL, NULL, NULL, 'AI safety') 
 ,('Var Shankar', 'Responsible AI Institute', 'Senior Manager, Policy', '2021-09-01', 'month', '2022-02-01', 'month', 'https://www.linkedin.com/in/var-shankar/', NULL, NULL, NULL, NULL, 'AI safety') 
@@ -124,16 +137,22 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Amanda Lawson', 'Responsible AI Institute', 'AI Policy Manager', '2023-12-02', 'month', '2024-06-01', 'month', 'https://web.archive.org/web/20231202111332/https://www.responsible.ai/who-we-are/#team https://www.linkedin.com/in/amandaleighlawson/ https://web.archive.org/web/20240530084159/https://www.responsible.ai/who-we-are/#team', NULL, NULL, NULL, NULL, 'AI safety') 
 ,('Raidhy Herrera', 'Responsible AI Institute', 'Marketing and Development Analyst', '2022-01-02', 'month', '2022-01-02', 'year', 'https://web.archive.org/web/20220120230204/https://www.responsible.ai/about/', NULL, NULL, NULL, NULL, 'AI safety') 
 ,('Stephanie Cairns', 'Responsible AI Institute', 'Research and Policy Analyst', '2022-01-02', 'month', '2022-01-02', 'year', 'https://web.archive.org/web/20220120230204/https://www.responsible.ai/about/', NULL, NULL, NULL, NULL, 'AI safety') 
+
+
 ,('Ife Ogunleye', 'Responsible AI Institute', 'Research and Policy Analyst', '2022-07-01', 'year', '2022-08-01', 'month', 'https://web.archive.org/web/20220706070258/https://www.responsible.ai/about https://web.archive.org/web/20220816100317/https://www.responsible.ai/about', NULL, NULL, NULL, NULL, 'AI safety') 
 ,('Aditi Lakhtakia', 'Responsible AI Institute', 'Marketing Coordinator', '2022-11-01', 'month', '2023-03-01', 'month', 'https://web.archive.org/web/20221110033035/https://www.responsible.ai/who-we-are/#team https://web.archive.org/web/20230330135432/https://www.responsible.ai/who-we-are/#team', NULL, NULL, NULL, NULL, 'AI safety') 
 ,('Jatin Kulkarni', 'Responsible AI Institute', 'Responsible AI Policy', '2022-02-01', 'month', '2022-12-01', 'month', 'https://web.archive.org/web/20221110033035/https://www.responsible.ai/who-we-are/#team https://www.linkedin.com/in/jatin-kulkarni/ https://web.archive.org/web/20221202171041/https://www.responsible.ai/who-we-are/#team', NULL, NULL, NULL, 'intern', 'AI safety') 
 ,('Anders Liman', 'Responsible AI Institute', 'Responsible AI Policy', '2022-05-01', 'month', '2022-12-01', 'month', 'https://web.archive.org/web/20221110033035/https://www.responsible.ai/who-we-are/#team https://www.linkedin.com/in/anders-liman/ https://web.archive.org/web/20221202171041/https://www.responsible.ai/who-we-are/#team', NULL, NULL, NULL, 'intern', 'AI safety') 
 ,('Scarlett Kelly', 'Responsible AI Institute', 'Responsible AI Policy', '2022-11-01', 'month', '2022-12-01', 'month', 'https://web.archive.org/web/20221110033035/https://www.responsible.ai/who-we-are/#team https://web.archive.org/web/20221202171041/https://www.responsible.ai/who-we-are/#team', NULL, NULL, NULL, 'intern', 'AI safety') 
 ,('Emma Kallina', 'Responsible AI Institute', 'Research Fellow', '2023-01-01', 'month', '2023-06-01', 'year', 'https://web.archive.org/web/20230128005609/https://www.responsible.ai/who-we-are/#team https://web.archive.org/web/20230604175725/https://www.responsible.ai/who-we-are/#team', NULL, NULL, NULL, NULL, 'AI safety') 
+
+ 
 ,('Anna Blue', 'Responsible AI Institute', 'Social Impact Fellow', '2023-03-01', 'month', '2024-07-01', 'year', 'https://web.archive.org/web/20230330135432/https://www.responsible.ai/who-we-are/#team https://web.archive.org/web/20240712200623/https://www.responsible.ai/who-we-are/#team', NULL, NULL, NULL, NULL, 'AI safety') 
 ,('Claire Dennis', 'Responsible AI Institute', 'Social Impact Fellow', '2023-01-01', 'month', '2023-06-01', 'month', 'https://web.archive.org/web/20230330135432/https://www.responsible.ai/who-we-are/#team https://www.linkedin.com/in/claireedithdennis/?originalSubdomain=uk https://web.archive.org/web/20240712200623/https://www.responsible.ai/who-we-are/#team', NULL, NULL, NULL, NULL, 'AI safety') 
 ,('Nazeer Kamdar', 'Responsible AI Institute', 'Social Impact Fellow', '2023-07-01', 'month', '2024-05-01', 'month', 'https://web.archive.org/web/20230921085828/https://www.responsible.ai/who-we-are/#team https://www.linkedin.com/in/nazeer-kamdar/ https://web.archive.org/web/20240116021758/https://www.responsible.ai/who-we-are/#team', NULL, NULL, NULL, 'part-time', 'AI safety') 
 ,('Manon Revel', 'Responsible AI Institute', 'Fellow', '2023-11-01', 'year', '2024-01-01', 'year', 'https://web.archive.org/web/20231128104028/https://www.responsible.ai/who-we-are/#team https://web.archive.org/web/20240116021758/https://www.responsible.ai/who-we-are/#team', NULL, NULL, NULL, NULL, 'AI safety') 
 ,('Lucy He', 'Responsible AI Institute', 'Fellow', '2023-11-01', 'year', '2024-01-01', 'year', 'https://web.archive.org/web/20231128104028/https://www.responsible.ai/who-we-are/#team https://web.archive.org/web/20240116021758/https://www.responsible.ai/who-we-are/#team', NULL, NULL, NULL, NULL, 'AI safety') 
 ,('Coran Darling', 'Responsible AI Institute', 'Fellow', '2023-10-01', 'month', '2024-07-01', 'year', 'https://web.archive.org/web/20231128104028/https://www.responsible.ai/who-we-are/#team https://www.linkedin.com/in/corandarling/ https://web.archive.org/web/20240712200623/https://www.responsible.ai/who-we-are/#team', NULL, NULL, NULL, 'full-time', 'AI safety') 
-,('Kendall Brogle', 'Responsible AI Institute', 'Fellow', '2024-09-01', 'month', '2024-07-01', 'year', 'https://web.archive.org/web/20240530084159/https://www.responsible.ai/who-we-are/#team https://www.linkedin.com/in/kendall-brogle-752977240/ https://web.archive.org/web/20240721050130/https://www.responsible.ai/who-we-are/#team', NULL, NULL, NULL, NULL, 'AI safety') 
+,('Kendall Brogle', 'Responsible AI Institute', 'Fellow', '2024-01-01', 'month', '2024-09-01', 'month', 'https://web.archive.org/web/20240530084159/https://www.responsible.ai/who-we-are/#team https://www.linkedin.com/in/kendall-brogle-752977240/ https://web.archive.org/web/20240721050130/https://www.responsible.ai/who-we-are/#team', NULL, NULL, NULL, NULL, 'AI safety')  
+ 
+ 
