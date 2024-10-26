@@ -106,6 +106,7 @@ sql/positions/palisade-research.sql
 sql/positions/pantask.sql
 sql/positions/probably-good.sql
 sql/positions/raising-for-effective-giving.sql
+sql/positions/reducetarian-foundation.sql
 sql/positions/redwood-research.sql
 sql/positions/responsible-ai-institute.sql
 sql/positions/rethink-charity.sql
