@@ -35,6 +35,7 @@ sql/positions/centre-for-long-term-resilience.sql
 sql/positions/centre-for-the-study-of-existential-risk.sql
 sql/positions/cfar.sql
 sql/positions/chai.sql
+sql/positions/charity-entrepreneurship.sql
 sql/positions/charity-science-health.sql
 sql/positions/charity-science.sql
 sql/positions/condor-camp.sql
