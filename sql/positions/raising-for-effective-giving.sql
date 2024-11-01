@@ -13,7 +13,7 @@ INSERT INTO positions (person, organization, title, start_date, start_date_preci
     ,('Luciana Manolea', 'Raising for Effective Giving', 'Ambassador', '2018-06-01', NULL, NULL, NULL, 'https://web.archive.org/web/20180612162237/https://reg-charity.org/about/team/ https://web.archive.org/web/20240910224341/https://reg-charity.org/about/team/', 'Took pledge in 2015; successful online tournament player.', NULL, 'Effective altruism') /*Reviewed on 2024-09-10*/ /*Ongoing position*/
     ,('Jeff Gross', 'Raising for Effective Giving', 'Ambassador', '2018-06-01', NULL, NULL, NULL, 'https://web.archive.org/web/20180612162237/https://reg-charity.org/about/team/ https://web.archive.org/web/20240910224341/https://reg-charity.org/about/team/', 'Poker player and Twitch streamer supporting REG.', NULL, 'Effective altruism') /*Reviewed on 2024-09-10*/ /*Ongoing position*/
 
- /* Closed positions below */
+ /* CLOSED */
 
      ,('Adriano Mannino', 'Raising for Effective Giving', 'Board member', '2014-07-01', 'month', '2016-09-01', NULL, 'https://web.archive.org/web/20140709070515/http://reg-charity.org/about https://web.archive.org/web/20160912200713/http://reg-charity.org/about', NULL, NULL, 'Effective altruism')  
     ,('Alfredo Parra', 'Raising for Effective Giving', 'Operations', '2019-10-01', NULL, '2021-04-01', 'month', 'https://web.archive.org/web/20191024213844/https://reg-charity.org/about/team/ https://web.archive.org/web/20210419020245/https://reg-charity.org/about/team/', NULL, NULL, 'Effective altruism')  
@@ -41,4 +41,4 @@ INSERT INTO positions (person, organization, title, start_date, start_date_preci
     ,('Tobias Pulver', 'Raising for Effective Giving', 'Managing Director', '2016-07-01', NULL, '2016-09-01', NULL, 'https://web.archive.org/web/20160707120936/http://reg-charity.org/about https://web.archive.org/web/20160912200713/http://reg-charity.org/about', NULL, NULL, 'Effective altruism')  
     ,('Tobias Pulver', 'Raising for Effective Giving', 'Fundraiser', '2017-02-01', NULL, '2018-06-01', 'year', 'https://web.archive.org/web/20170215080618/https://reg-charity.org/about/team/ https://web.archive.org/web/20180612162237/https://reg-charity.org/about/team/', NULL, NULL, 'Effective altruism') 
 
-    
+    */
