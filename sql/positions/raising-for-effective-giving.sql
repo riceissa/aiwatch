@@ -41,4 +41,4 @@ INSERT INTO positions (person, organization, title, start_date, start_date_preci
     ,('Tobias Pulver', 'Raising for Effective Giving', 'Managing Director', '2016-07-01', NULL, '2016-09-01', NULL, 'https://web.archive.org/web/20160707120936/http://reg-charity.org/about https://web.archive.org/web/20160912200713/http://reg-charity.org/about', NULL, NULL, 'Effective altruism')  
     ,('Tobias Pulver', 'Raising for Effective Giving', 'Fundraiser', '2017-02-01', NULL, '2018-06-01', 'year', 'https://web.archive.org/web/20170215080618/https://reg-charity.org/about/team/ https://web.archive.org/web/20180612162237/https://reg-charity.org/about/team/', NULL, NULL, 'Effective altruism') 
 
-    */
+  
