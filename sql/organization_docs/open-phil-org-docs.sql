@@ -611,5 +611,58 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI safety', /* cause_area */
         'Ajeya Cotra of Open Philanthropy updates her AI timelines, estimating transformative AI could emerge by 2040, prompting a shift in prioritizing AI risk funding over other causes like bio risk.' /* notes */
     )
+     ,(
+        'https://forum.effectivealtruism.org/posts/8M8jGsCLcTzTnYtsw/opportunities-to-improve-ea-communications', /* url */
+        'Opportunities to improve EA communications', /* title */
+        '2024-10-15', /* publication_date */
+        NULL, /* modified_date */
+        'Good Impressions', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy|Longview Philanthropy|Good Impressions', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'Effective altruism', /* cause_area */
+        'Good Impressions, a digital marketing agency supported by Longview Philanthropy and Open Philanthropy, seeks ideas and skilled professionals to enhance Effective Altruism (EA) communications, broaden impact, and drive engagement through strategic projects across various EA-aligned causes.' /* notes */
+    )
+     ,(
+        'https://forum.effectivealtruism.org/posts/KJm2Pzhad24wxkDcy/ea-organization-updates-october-2024', /* url */
+        'EA Organization Updates: October 2024', /* title */
+        '2024-10-16', /* publication_date */
+        NULL, /* modified_date */
+        'Toby Tremlett|Dane Valerie', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy|Longview Philanthropy|Good Impressions', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'Effective altruism', /* cause_area */
+        'The article highlights October 2024 updates across major EA organizations, with Open Philanthropy launching the Partnership for a Lead-Free Future alongside USAID and UNICEF, dedicating over $100M to combat lead exposure in low- and middle-income countries.' /* notes */
+    )
+     ,(
+        'https://forum.effectivealtruism.org/posts/KJm2Pzhad24wxkDcy/ea-organization-updates-october-2024', /* url */
+        'Three journeys for effective altruism', /* title */
+        '2024-10-22', /* publication_date */
+        NULL, /* modified_date */
+        'Zachary Robinson', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Open Philanthropy|CEA', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'Effective altruism', /* cause_area */
+        'Zachary Robinson''s talk at EA Global: London 2024 highlights three key journeys for effective altruism, emphasizing the importance of institutional trust, communication, and core EA principles, with a focus on organizations like Open Philanthropy that aim to scale altruistic impact by integrating expertise, governance, and broad outreach.' /* notes */
+    )
+    ,(
+        'https://www.openphilanthropy.org/research/key-writings-on-ai-development-from-open-philanthropy-staff/', /* url */
+        'Key writings on AI development from Open Philanthropy staff', /* title */
+        '2024-10-30', /* publication_date */
+        NULL, /* modified_date */
+        NULL, /* author */
+        'Open Philanthropy', /* publisher */
+        'Open Philanthropy', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article provides an organized compilation of blog posts by Open Philanthropy staff, detailing their insights into the potential risks posed by transformative AI, AI timelines, alignment challenges, and strategies for mitigating these risks.' /* notes */
+    )
+
 ;
 
