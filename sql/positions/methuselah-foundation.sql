@@ -1,7 +1,7 @@
 INSERT INTO positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) VALUES 
- ('Martin Rees', 'Methuselah Foundation', 'Co-founder', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240912234529/https://www.cser.ac.uk/team/', 'Member of CSER Advisory Board', NULL, 'Longevity') /*Last available snapshot is from 2024-09-12*/ /*ongoing position*/
-,('Jaan Tallinn', 'Methuselah Foundation', 'Co-founder', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240912234529/https://www.cser.ac.uk/team/', 'Member of CSER Advisory Board', NULL, 'Longevity') /*Last available snapshot is from 2024-09-12*/ /*ongoing position*/
-,('Huw Price', 'Methuselah Foundation', 'Co-founder', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240912234529/https://www.cser.ac.uk/team/', NULL, NULL, 'Longevity') /*Last available snapshot is from 2024-09-12*/ /*ongoing position*/
+ ('Martin Rees', 'Methuselah Foundation', 'Co-founder', '2001-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20240912234529/https://www.cser.ac.uk/team/', 'Member of CSER Advisory Board', NULL, 'Longevity') /*Last available snapshot is from 2024-09-12*/ /*ongoing position*/
+,('Jaan Tallinn', 'Methuselah Foundation', 'Co-founder', '2001-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20240912234529/https://www.cser.ac.uk/team/', 'Member of CSER Advisory Board', NULL, 'Longevity') /*Last available snapshot is from 2024-09-12*/ /*ongoing position*/
+,('Huw Price', 'Methuselah Foundation', 'Co-founder', '2001-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20240912234529/https://www.cser.ac.uk/team/', NULL, NULL, 'Longevity') /*Last available snapshot is from 2024-09-12*/ /*ongoing position*/
 ,('Matthew Connelly', 'Methuselah Foundation', 'Director', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240912234529/https://www.cser.ac.uk/team/', 'Member of CSER Advisory Board', NULL, 'Longevity') /*Last available snapshot is from 2024-09-12*/ /*ongoing position*/
 ,('Jessica Bland', 'Methuselah Foundation', 'Deputy Director', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240912234529/https://www.cser.ac.uk/team/', 'Member of CSER Advisory Board', NULL, 'Longevity') /*Last available snapshot is from 2024-09-12*/ /*ongoing position*/
 ,('Clare Arnstein', 'Methuselah Foundation', 'Centre Co-ordinator (CSER) & Deputy Institute Manager (ITH)', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240912234529/https://www.cser.ac.uk/team/', 'Secretary to CSER Advisory Board', NULL, 'Longevity') /*Last available snapshot is from 2024-09-12*/ /*ongoing position*/
@@ -84,10 +84,10 @@ INSERT INTO positions(person, organization, title, start_date, start_date_precis
 
 
 
-/*......................LinkedIn-onlypositions below.........................................*/
+/*......................LinkedIn-only positions below.........................................*/
 
 
-,('David Gobel', 'Methuselah Foundation', 'Co-Founder', '2000-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/danegobel/', NULL, NULL, 'Longevity')  /*ongoing position*/
+,('David Gobel', 'Methuselah Foundation', 'Co-Founder', '2001-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/danegobel/', NULL, NULL, 'Longevity')  /*ongoing position*/
 ,('David Gobel', 'Methuselah Foundation', 'Program Director', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/danegobel/', NULL, NULL, 'Longevity')  /*ongoing position*/
 ,('Seth Paulson', 'Methuselah Foundation', 'Fellow', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/seth-paulson-6ba80226/', 'Providing advice and services on projects related to furthering human health and lifespan.', 'Contractor', 'Longevity') /*ongoing position*/
 ,('Seth Paulson', 'Methuselah Foundation', 'Developer', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/seth-paulson-6ba80226/', NULL, 'Contractor', 'Longevity') /*ongoing position*/
@@ -172,8 +172,6 @@ INSERT INTO positions(person, organization, title, start_date, start_date_precis
     ,('Mauris De Silva', 'Methuselah Foundation', 'Advisor', '2019-08-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190801040932/https://www.mfoundation.org/who-we-are#our-team', NULL, 'Advisor', 'Longevity')
     ,('Simon Fleming', 'Methuselah Foundation', 'Medical Advisor', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/simon-fleming-58324345/', NULL, 'Advisor', 'Longevity')
     ,('Sergio Ruiz', 'Methuselah Foundation', 'Managing Director and CoFounder', '2016-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sergio-ruiz/', NULL, NULL, 'Longevity')
-    ,('Danielle Ruiz', 'Methuselah Foundation', 'Fellow of Geriatric Medical Research', '2016-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/danielle-ruiz-msn-aprn-agnp-c-6774485b/', NULL, NULL, 'Longevity')   
- 
  
 
 
