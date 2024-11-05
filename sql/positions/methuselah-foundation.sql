@@ -81,20 +81,25 @@ INSERT INTO positions(person, organization, title, start_date, start_date_precis
 ,('Bonnie Wintle', 'Methuselah Foundation', 'Former Research Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240912234529/https://www.cser.ac.uk/team/', NULL, NULL, 'Longevity') /*Last available snapshot is from 2024-09-12*/ /*ongoing position*/
 
 
+
+
+
 /*......................LinkedIn-onlypositions below.........................................*/
 
 
 ,('David Gobel', 'Methuselah Foundation', 'Co-Founder', '2000-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/danegobel/', NULL, NULL, 'Longevity')  /*ongoing position*/
 ,('David Gobel', 'Methuselah Foundation', 'Program Director', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/danegobel/', NULL, NULL, 'Longevity')  /*ongoing position*/
-,('Seth Paulson', 'Methuselah Foundation', 'Fellow', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/seth-paulson-6ba80226/', 'Providing advice and services on projects related to furthering human health and lifespan.', 'Contract', 'Longevity') /*ongoing position*/
-,('Seth Paulson', 'Methuselah Foundation', 'Developer', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/seth-paulson-6ba80226/', NULL, 'Contract', 'Longevity') /*ongoing position*/
+,('Seth Paulson', 'Methuselah Foundation', 'Fellow', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/seth-paulson-6ba80226/', 'Providing advice and services on projects related to furthering human health and lifespan.', 'Contractor', 'Longevity') /*ongoing position*/
+,('Seth Paulson', 'Methuselah Foundation', 'Developer', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/seth-paulson-6ba80226/', NULL, 'Contractor', 'Longevity') /*ongoing position*/
 ,('Mahdi Moqri', 'Methuselah Foundation', 'Scientific Advisor', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mahdi-moqri/', NULL, 'Advisor', 'Longevity') /*ongoing position*/
 ,('Florina Gobel', 'Methuselah Foundation', 'Executive Advisor', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/florinagobel/', NULL, 'Advisor', 'Longevity') /*ongoing position*/
-,('Brandon Sassouni', 'Methuselah Foundation', 'Scientific Consultant', '2024-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/brandon-sassouni-291012104/', NULL, 'Freelance', 'Longevity') /*ongoing position*/
-,('Simon Fleming', 'Methuselah Foundation', 'Medical Advisor', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/simon-fleming-58324345/', NULL, NULL, 'Longevity')
-,('Warren Koch', 'Methuselah Foundation', 'Senior Software Developer', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/warren-koch-156aa026/', NULL, 'Full-time', 'Longevity')
-
-
+,('Brandon Sassouni', 'Methuselah Foundation', 'Scientific Consultant', '2024-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/brandon-sassouni-291012104/', NULL, NULL, 'Longevity') /*ongoing position*/
+,('Simon Fleming', 'Methuselah Foundation', 'Medical Advisor', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/simon-fleming-58324345/', NULL, NULL, 'Longevity')/*ongoing position*/
+,('Warren Koch', 'Methuselah Foundation', 'Senior Software Developer', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/warren-koch-156aa026/', NULL, 'Full-time', 'Longevity')/*ongoing position*/
+,('Nicholas Fiorenza', 'Methuselah Foundation', 'Biotech Operations', '2024-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nicholascharlesfiorenza/', NULL, NULL, 'Longevity')/*ongoing position*/
+,('Scott Collins', 'Methuselah Foundation', 'Scientific and Strategy Advisor', '2013-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/scottcollinsphd/', NULL, NULL, 'Longevity')/*ongoing position*/
+,('Danielle Ruiz', 'Methuselah Foundation', 'Fellow of Geriatric Medical Research and Medical Director', '2016-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/danielle-ruiz-msn-aprn-agnp-c/', NULL, NULL, 'Longevity') /*ongoing position*/
+,('Jone Haugland', 'Methuselah Foundation', 'Investor and Advisor', '2017-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jone-haugland-77388621/', NULL, NULL, 'Longevity') /*ongoing position*/
 
 
 
@@ -167,7 +172,7 @@ INSERT INTO positions(person, organization, title, start_date, start_date_precis
     ,('Mauris De Silva', 'Methuselah Foundation', 'Advisor', '2019-08-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190801040932/https://www.mfoundation.org/who-we-are#our-team', NULL, 'Advisor', 'Longevity')
     ,('Simon Fleming', 'Methuselah Foundation', 'Medical Advisor', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/simon-fleming-58324345/', NULL, 'Advisor', 'Longevity')
     ,('Sergio Ruiz', 'Methuselah Foundation', 'Managing Director and CoFounder', '2016-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sergio-ruiz/', NULL, NULL, 'Longevity')
-    ,('Danielle Ruiz', 'Methuselah Foundation', 'Fellow of Geriatric Medical Research', '2016-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/danielle-ruiz-msn-aprn-agnp-c-6774485b/', NULL, NULL, 'Longevity')  */
+    ,('Danielle Ruiz', 'Methuselah Foundation', 'Fellow of Geriatric Medical Research', '2016-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/danielle-ruiz-msn-aprn-agnp-c-6774485b/', NULL, NULL, 'Longevity')   
  
  
 
