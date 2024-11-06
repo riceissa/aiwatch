@@ -103,6 +103,71 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI safety' /* cause_area */
         'Feedman and Holliday''s paper, under the Center for Human-Compatible AI, explores how social choice theory can guide the alignment of foundation models with collective human preferences, addressing challenges in aggregating divergent human inputs to enhance AI ethics and safety.' /* notes */
     )
+    ,(
+        'https://forum.effectivealtruism.org/posts/oEpGBqDCo2z5pbpvA/solving-alignment-isn-t-enough-for-a-flourishing-future', /* url */
+        'Solving alignment isn''t enough for a flourishing future', /* title */
+        '2024-02-02', /* publication_date */
+        NULL, /* modified_date */
+        'Mic', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'CHAI', /* affected_organizations */
+        NULL, /* affected_people */
+        'General discussion of organizational practices', /* document_scope */
+        'AI safety' /* cause_area */
+        'The article argues that ensuring a positive future with AI requires more than solving technical alignment challenges, highlighting the Center for Human-Compatible AI''s focus on advancing safety, ethics, and broader social implications.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/8CM9vZ2nnQsWJNsHx/existential-risk-from-ai-survey-results', /* url */
+        'Existential risk from AI" survey results', /* title */
+        '2021-06-01', /* publication_date */
+        NULL, /* modified_date */
+        'Rob Bensinger', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'CHAI', /* affected_organizations */
+        NULL, /* affected_people */
+        'General discussion of organizational practices', /* document_scope */
+        'AI safety' /* cause_area */
+        'The article highlights the Center for Human-Compatible AI''s role in advancing AI safety through research on human-AI collaboration, reward synthesis, and cautious agency design, emphasizing the importance of addressing existential risks while ensuring human-aligned AI development.' /* notes */
+    )
+     ,(
+        'https://forum.effectivealtruism.org/posts/TbDnMt8KtNffNk9YL/what-is-most-important-for-your-productivity', /* url */
+        'What Is Most Important For Your Productivity?', /* title */
+        '2023-06-13', /* publication_date */
+        NULL, /* modified_date */
+        'Lynettebye', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'CHAI', /* affected_organizations */
+        NULL, /* affected_people */
+        'General discussion of organizational practices', /* document_scope */
+        'AI safety' /* cause_area */
+        'The article discusses productivity factors within the effective altruism community, highlighting the Center for Human-Compatible AI''s efforts in enhancing AI safety. It focuses on developing research in human-AI collaboration, reward synthesis, and cautious agency design to mitigate existential risks and promote human-aligned AI development.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/XKwiEpWRdfWo7jy7f/2017-ai-safety-literature-review-and-charity-comparison', /* url */
+        '2017 AI Safety Literature Review and Charity Comparison', /* title */
+        '2017-12-21', /* publication_date */
+        NULL, /* modified_date */
+        'Larks', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'CHAI', /* affected_organizations */
+        NULL, /* affected_people */
+        'General discussion of organizational practices', /* document_scope */
+        'AI safety' /* cause_area */
+        'This article reviews 2017 AI safety literature, comparing charities with a focus on lessons from the Center for Human-Compatible AI and other key organizations in the field.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/WAxSTJbdXMvFScPSa/why-i-m-donating-to-miri-this-year', /* url */
+        'Why I''m donating to MIRI this year', /* title */
+        '2016-12-01', /* publication_date */
+        NULL, /* modified_date */
+        'Owen Cotton-Barratt', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'CHAI', /* affected_organizations */
+        NULL, /* affected_people */
+        'General discussion of organizational practices', /* document_scope */
+        'AI safety' /* cause_area */
+        'Owen Cotton-Barratt discusses his decision to donate to the Machine Intelligence Research Institute (MIRI) in 2024, emphasizing their critical work on AI safety and alignment, particularly in relation to the research at the Center for Human-Compatible AI. ' /* notes */
+    )
     
 ;
 
