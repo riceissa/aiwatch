@@ -1,24 +1,15 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
 
-    /*,('Aisha Aishwarya','Ought','Research Assistant', '2021-11-01', 'month',NULL,NULL,'https://www.linkedin.com/in/missaishagurung/',NULL,'position',NULL, 'Contractor','AI safety')*/
+    ('Lukas Finnveden', 'Ought', 'Director', '2024-05-27', 'month', NULL, NULL, 'https://web.archive.org/web/20240527230322/https://ought.org/team https://web.archive.org/web/20241105044915/https://ought.org/team',NULL,'position',NULL,NULL,'AI safety') /*Last Wayback snapshot is from 2024-11-05*/  /*current position*/  
+    ,('Owain Evans','Ought','Director & CEO', '2023-10-18','month',NULL,NULL,'https://web.archive.org/web/20231107163218/https://ought.org/team',NULL,'position',NULL,'board member','AI safety') /*Last Wayback snapshot is from 2024-11-05*/  /*current position*/  
+    ,('Owen Cotton-Barratt', 'Ought', 'Director', '2023-09-29', 'month', NULL, NULL, 'https://web.archive.org/web/20230929161716/https://ought.org/team  https://web.archive.org/web/20241105044915/https://ought.org/team',NULL,'position',NULL,NULL,'AI safety') /*Last Wayback snapshot is from 2024-11-05*/  /*current position*/  
 
-    ,('Andreas Stuhlmüller', 'Ought', 'Chied Executive Officer', '2017-09-01', 'month', '2023-08-01', 'month', 'https://www.linkedin.com/in/stuhlmueller/', NULL, NULL, NULL, 'board member', 'AI safety') /*Reviewed on 2023-11-02*/
-
-    ,('Ben West','Ought','Collaborator', '2018-01-01',NULL,NULL,NULL,'http://www.webcitation.org/query?url=https%3A%2F%2Fought.org%2Fteam&date=2018-10-17 https://web.archive.org/web/20181017231225/https://ought.org/team',NULL,'position',NULL,NULL,'AI safety')
-    
-    
-    
-    
-    ,('Owain Evans','Ought','Director & CEO', '2023-10-18','month',NULL,NULL,'https://web.archive.org/web/20231107163218/https://ought.org/team',NULL,'position',NULL,'board member','AI safety') /*Reviewed on 2023-10-27*/  /*current position*/  
-    
-    
-    ,('Zac Kenton','Ought','Collaborator', '2018-01-01',NULL,NULL,NULL,'http://www.webcitation.org/query?url=https%3A%2F%2Fought.org%2Fteam&date=2018-10-17 https://web.archive.org/web/20181017231225/https://ought.org/team',NULL,'position',NULL,NULL,'AI safety')
-    
 
 
 
     /*.......................................Closed positions below...............................................*/
 
+    ,('Andreas Stuhlmüller', 'Ought', 'Chied Executive Officer', '2017-09-01', 'month', '2023-08-01', 'month', 'https://www.linkedin.com/in/stuhlmueller/', NULL, NULL, NULL, 'board member', 'AI safety') /*Closed*/
     ,('Adrian Smith', 'Ought', 'Software Engineer', '2023-05-01', 'month', '2023-09-01', 'month', 'https://www.linkedin.com/in/smithdevio/details/experience/ https://ought.org/team', NULL, NULL, NULL, NULL, 'AI safety') /*Closed*/
     ,('Amanda Ngo','Ought','Business Operations Analyst', '2020-06-01', 'month','2023-04-01','month','https://web.archive.org/web/20210514190242/https://ought.org/team https://www.linkedin.com/in/amandango1/',NULL,'position',NULL, 'full-time','AI safety')/*Closed*/
     ,('Andrew Schreiber','Ought','Collaborator', '2018-10-17',NULL,'2018-10-17',NULL,'http://www.webcitation.org/query?url=https%3A%2F%2Fought.org%2Fteam&date=2018-10-17 https://web.archive.org/web/20181017231225/https://ought.org/team',NULL,'position',NULL,NULL,'AI safety')/*Closed*/
@@ -48,3 +39,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Sarah Park', 'Ought', 'Head of Operations', '2023-05-01', 'month', '2023-09-01', 'month', 'https://www.linkedin.com/in/park-sarah/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Closed*/ 
     ,('Tom McGrath','Ought','Collaborator', '2018-01-01',NULL,NULL,NULL,'http://www.webcitation.org/query?url=https%3A%2F%2Fought.org%2Fteam&date=2018-10-17 https://web.archive.org/web/20181017231225/https://ought.org/team',NULL,'position',NULL,NULL,'AI safety') /*Closed*/
     ,('Zachary Miller','Ought','Collaborator', '2018-01-01',NULL,'2021-06-24','month','http://www.webcitation.org/query?url=https%3A%2F%2Fought.org%2Fteam&date=2018-10-17 https://web.archive.org/web/20210624082256/https://ought.org/team',NULL,'position',NULL,NULL,'AI safety') /*Closed*/ 
+    ,('Ben West','Ought','Recruiter', '2018-06-01','month','2018-12-01','month','https://www.linkedin.com/in/bentwest/ https://web.archive.org/web/20181017231225/https://ought.org/team',NULL,'position',NULL,NULL,'AI safety')/*Closed*/
+  /*,('Zac Kenton','Ought','Collaborator', '2018-01-01',NULL,NULL,NULL,'http://www.webcitation.org/query?url=https%3A%2F%2Fought.org%2Fteam&date=2018-10-17 https://web.archive.org/web/20181017231225/https://ought.org/team',NULL,'position',NULL,NULL,'AI safety')*/
