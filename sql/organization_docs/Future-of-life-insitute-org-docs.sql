@@ -376,6 +376,160 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI safety', /* cause_area */
         'Hamza Chaudhry of the Future of Life Institute provides recommendations to the Bureau of Industry and Security (BIS) regarding reporting requirements for AI models and computing clusters, focusing on enhancing safety practices and national security.' /* notes */
     )
-;
-;
+      ,(
+        'https://forum.effectivealtruism.org/posts/bd7yr3eozzzhMuKCi/what-is-the-eu-ai-act-and-why-should-you-care-about-it',  /* url */
+        'What is the EU AI Act and why should you care about it?', /* title */
+        '2021-09-21', /* publication_date */
+        NULL, /* modified_date */
+        'MathiasKB', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article discusses the EU AI Act''s impact on future AI development, with insights from the Future of Life Institute on regulatory challenges and ethical priorities for AI governance.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/wpcFJ2CKmffQ5QWQY/ea-organization-updates-september-2019',  /* url */
+        'EA Organization Updates: September 2019', /* title */
+        '2019-10-10', /* publication_date */
+        NULL, /* modified_date */
+        'Aaron Gertler', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article outlines key activities by EA-affiliated organizations, including the Future of Life Institute''s new Not Cool podcast series, focusing on expert discussions around climate change issues.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/n5agKCYxzxiuX8f4X/what-questions-should-we-ask-speakers-at-the-stanford',  /* url */
+        'What Questions Should We Ask Speakers at the Stanford Existential Risks Conference?', /* title */
+        '2021-04-10', /* publication_date */
+        NULL, /* modified_date */
+        'Kuhanj', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'AMA', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article discusses potential questions for speakers at Stanford''s Existential Risks Conference, focusing on guiding discussions around managing existential risks, with insights from leaders like Jaan Tallinn, co-founder of the Future of Life Institute, on prioritizing high-impact global threats.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/n5agKCYxzxiuX8f4X/what-questions-should-we-ask-speakers-at-the-stanford',  /* url */
+        'Rationality, EA and being a movement', /* title */
+        '2019-06-02', /* publication_date */
+        NULL, /* modified_date */
+        'Chris Leong', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article explores effective altruism''s movement-building challenges, with lessons drawn from the interplay between rationality and community values. The Center for Future of Life Institute exemplifies strategic action in global risk reduction within the broader effective altruism landscape.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/Xiv8g92M4JMTFdfva/lessons-for-building-up-a-cause',  /* url */
+        'Lessons for Building Up a Cause', /* title */
+        '2018-02-10', /* publication_date */
+        NULL, /* modified_date */
+        'Evan_Gaensbauer', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'General discussion of organizational practices', /* document_scope */
+        'AI safety', /* cause_area */
+        'This article provides insights into strategies for building a cause, emphasizing lessons learned from organizations like the Future of Life Institute and other effective altruism-aligned groups focused on impactful growth and resilience.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/BXmp2A2eWiW34WAJG/ea-organization-updates-june-2020',  /* url */
+        'EA Organization Updates: June 2020', /* title */
+        '2020-07-16', /* publication_date */
+        NULL, /* modified_date */
+        'Aaron Gertler', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'In June 2020, the Future of Humanity Institute shared a guide for machine learning researchers on writing impact statements and announced updates in biosecurity and ethics research, including a call for a survey research contractor focused on AI governance.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/xwpYLzXQLwX4nBRuN/ea-updates-for-november-2019',  /* url */
+        'EA Updates for November 2019', /* title */
+        '2019-11-19', /* publication_date */
+        NULL, /* modified_date */
+        'DavidNash', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'The document provides a roundup of Effective Altruism (EA) updates for November 2019, covering grants, research, and podcasts from EA-aligned organizations, such as Open Philanthropy, 80,000 Hours, and the Future of Life Institute, which received a $100,000 grant for advancing AI safety research.' /* notes */
+    )
+     ,(
+        'https://forum.effectivealtruism.org/posts/gJGMFdGqFhs3mKo2s/supplement-to-the-brussels-effect-and-ai-how-eu-ai',  /* url */
+        'Supplement to "The Brussels Effect and AI: How EU AI regulation will impact the global AI market"', /* title */
+        '2022-08-16', /* publication_date */
+        NULL, /* modified_date */
+        'MarkusAnderljung', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'General discussion of organizational practices', /* document_scope */
+        'AI safety', /* cause_area */
+        'Markus Anderljung’s report explores how the EU’s AI Act may influence global AI governance by examining the potential for a “Brussels Effect,” where EU standards drive international AI regulation, with implications for AI safety and policy work from organizations like the Future of Life Institute.' /* notes */
+    )
+     ,(
+        'https://forum.effectivealtruism.org/posts/LFN2NtfcKaCFayLtC/fli-ai-alignment-podcast-evan-hubinger-on-inner-alignment',  /* url */
+        'FLI AI Alignment podcast: Evan Hubinger on Inner Alignment, Outer Alignment, and Proposals for Building Safe Advanced AI', /* title */
+        '2020-07-01', /* publication_date */
+        NULL, /* modified_date */
+        'Evan Hubinger', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'General discussion of organizational practices', /* document_scope */
+        'AI safety', /* cause_area */
+        'Evan Hubinger discusses key AI safety challenges and potential solutions, with a focus on inner and outer alignment, in the Future of Life Institute''s AI alignment podcast.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/dCb8tWsAmbYPSiqYT/military-artificial-intelligence-as-contributor-to-global',  /* url */
+        'Military Artificial Intelligence as Contributor to Global Catastrophic Risk', /* title */
+        '2022-06-27', /* publication_date */
+        NULL, /* modified_date */
+        'MMMaas| Di Cooke', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'General discussion of organizational practices', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article discusses the risks and regulatory needs of military AI to prevent global instability, with the Future of Life Institute advocating for international frameworks to ensure safety and alignment with global well-being' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/ivHfucqDNeFAR5mkH/newsletter-for-alignment-research-the-ml-safety-updates',  /* url */
+        'Newsletter for Alignment Research: The ML Safety Updates', /* title */
+        '2022-10-22', /* publication_date */
+        NULL, /* modified_date */
+        'Esben Kran| Thomas Steinthal| Sabrina Zaki| Apart Research', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'General discussion of organizational practices', /* document_scope */
+        'AI safety', /* cause_area */
+        'The ML Safety Updates newsletter discusses recent AI safety research, including counterarguments to AI existential risk and opportunities in the field, while promoting resources like the Center for Human-Compatible AI and the Future of Life Institute for those interested in AI safety work.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/ivHfucqDNeFAR5mkH/newsletter-for-alignment-research-the-ml-safety-updates',  /* url */
+        'CSER Special Issue: ''Futures of Research in Catastrophic and Existential Risk''', /* title */
+        '2018-10-02', /* publication_date */
+        NULL, /* modified_date */
+        'Haydn Belfield', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Life Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'General discussion of organizational practices', /* document_scope */
+        'AI safety', /* cause_area */
+        'The CSER special issue explores multidisciplinary research on catastrophic and existential risks, including contributions supported by the Future of Life Institute, focusing on governance, technology, and interventions for mitigating global threats.' /* notes */
+    )
 ;
