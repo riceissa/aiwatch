@@ -129,7 +129,98 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI safety', /* cause_area */
         'Ben Garfinkel, a researcher at the Future of Humanity Institute, discusses AI safety, governance, and long-termist arguments in a podcast, offering insights into the importance of AI risk research and critiquing classic "fast takeoff" arguments.' /* notes */
     )
-    
+    ,(
+        'forum.effectivealtruism.org/posts/EHiEZsAJfakvWwq5m/seeking-a-ceo-for-new-x-risk-funding-charity-in-the-uk', /* url */
+        'Seeking a CEO for new x-risk funding charity in the UK', /* title */
+        '2023-02-07', /* publication_date */
+        NULL, /* modified_date */
+        'Markus Anderljung', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Humanity Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Hiring-related notice', /* document_scope */
+        'AI safety', /* cause_area */
+        'Anderljung announces a CEO search for a new UK charity aimed at funding existential risk research and supporting the Future of Humanity Institute, emphasizing operational leadership and alignment with risk-reduction goals.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/9cx8TrLEooaw49cAr/i-m-cullen-o-keefe-a-policy-researcher-at-openai-ama', /* url */
+        'I''m Cullen O''Keefe, a Policy Researcher at OpenAI, AMA', /* title */
+        '2020-01-11', /* publication_date */
+        NULL, /* modified_date */
+        'Cullen', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Humanity Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'AMA', /* document_scope */
+        'AI safety', /* cause_area */
+        'Cullen O''Keefe, Policy Researcher at OpenAI and Research Affiliate at the Future of Humanity Institute, discusses his work on AGI governance, law''s intersection with AI, and effective altruism’s role in shaping equitable AI outcomes.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/9cx8TrLEooaw49cAr/i-m-cullen-o-keefe-a-policy-researcher-at-openai-ama', /* url */
+        'The 25 researchers who have published the largest number of academic articles on existential risk', /* title */
+        '2023-08-12', /* publication_date */
+        NULL, /* modified_date */
+        'FJehn', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Humanity Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'FJehn provides a ranked overview of the top 25 researchers in existential risk, highlighting key publications and affiliations, with a focus on active organizations like the Future of Humanity Institute and emerging AI-related risks.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/tdgvad64bmMxeXKws/have-you-ever-doubted-whether-you-re-good-enough-to-pursue', /* url */
+        'Have You Ever Doubted Whether You''re Good Enough To Pursue Your Career?', /* title */
+        '2022-04-11', /* publication_date */
+        NULL, /* modified_date */
+        'Lnette Bye', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Humanity Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Job experience', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article captures insights from various leaders, including those at the Future of Humanity Institute, exploring their experiences with self-doubt and career challenges, revealing diverse personal strategies for managing productivity and impact within high-stakes fields like AI governance and effective altruism.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/33AnPajNYmNrdXQbj/rethink-priorities-2020-impact-and-2021-strategy', /* url */
+        'Rethink Priorities 2020 Impact and 2021 Strategy', /* title */
+        '2020-11-05', /* publication_date */
+        NULL, /* modified_date */
+        'Marcus_A_Davis', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Humanity Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'Building effective altruism', /* cause_area */
+        'Rethink Priorities'' 2020 report highlights its expansion in research on animal welfare, longtermism, and EA movement building, aiming for increased impact through new hires, improved communication, and a $1.57M funding goal for 2021.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/CaY4AFcNrrtXybvDL/writing-about-my-job-research-fellow-fhi', /* url */
+        'Writing about my job: Research Fellow, FHI', /* title */
+        '2021-07-21', /* publication_date */
+        NULL, /* modified_date */
+        'Rgb', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Humanity Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Job experience', /* document_scope */
+        'AI safety', /* cause_area */
+        'RGB shares his journey to becoming a Research Fellow at the Future of Humanity Institute, detailing his academic background, the application process, and the challenges and rewards of working on AI consciousness and interdisciplinary research.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/CaY4AFcNrrtXybvDL/writing-about-my-job-research-fellow-fhi', /* url */
+        'Writing about my job: Research Fellow, FHI', /* title */
+        '2021-07-21', /* publication_date */
+        NULL, /* modified_date */
+        'Rgb', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Humanity Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Job experience', /* document_scope */
+        'AI safety', /* cause_area */
+        'RGB shares his journey to becoming a Research Fellow at the Future of Humanity Institute, detailing his academic background, the application process, and the challenges and rewards of working on AI consciousness and interdisciplinary research.' /* notes */
+    )
+
     ;
 
       
