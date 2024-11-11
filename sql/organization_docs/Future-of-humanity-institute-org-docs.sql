@@ -208,17 +208,69 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'RGB shares his journey to becoming a Research Fellow at the Future of Humanity Institute, detailing his academic background, the application process, and the challenges and rewards of working on AI consciousness and interdisciplinary research.' /* notes */
     )
     ,(
-        'https://forum.effectivealtruism.org/posts/CaY4AFcNrrtXybvDL/writing-about-my-job-research-fellow-fhi', /* url */
-        'Writing about my job: Research Fellow, FHI', /* title */
-        '2021-07-21', /* publication_date */
+        'https://forum.effectivealtruism.org/posts/Jj9HdQgTMctwRNQdu/ea-organization-updates-july-2020', /* url */
+        'EA Organization Updates: July 2020', /* title */
+        '2020-08-24', /* publication_date */
         NULL, /* modified_date */
-        'Rgb', /* author */
+        'Aaron Gertler ', /* author */
         'Effective Altruism Forum', /* publisher */
         'Future of Humanity Institute', /* affected_organizations */
         NULL, /* affected_people */
-        'Job experience', /* document_scope */
+        'Organization operations', /* document_scope */
         'AI safety', /* cause_area */
-        'RGB shares his journey to becoming a Research Fellow at the Future of Humanity Institute, detailing his academic background, the application process, and the challenges and rewards of working on AI consciousness and interdisciplinary research.' /* notes */
+        'Aaron Gertler''s update highlights that the Future of Humanity Institute is hiring for its Research Scholars Programme, targeting early-career researchers for a selective, two-year fellowship focused on critical questions for humanity''s future.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/XweBntieePnzQyLtK/rowing-and-steering-the-effective-altruism-movement', /* url */
+        'Rowing and Steering the Effective Altruism Movement', /* title */
+        '2022-01-09', /* publication_date */
+        NULL, /* modified_date */
+        'Jtm ', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Humanity Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article "Rowing and Steering the Effective Altruism Movement" by JTM discusses strategy and direction within the Effective Altruism movement, including the Future of Humanity Institute''s role in balancing immediate impact efforts with long-term existential risk reduction.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/59egqFgZBrfPqXWTr/ama-we-work-in-operations-at-ea-aligned-organizations-ask-us', /* url */
+        'AMA: We Work in Operations at EA-aligned organizations. Ask Us Anything.', /* title */
+        '2021-02-03', /* publication_date */
+        NULL, /* modified_date */
+        'Marisa', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Humanity Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'AMA', /* document_scope */
+        'AI safety', /* cause_area */
+        'This article shares insights from operations staff at EA-aligned organizations, including the Future of Humanity Institute, focusing on roles, skills, and career paths in operations within effective altruism.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/bfdc3MpsYEfDdvgtP/why-the-expected-numbers-of-farmed-animals-in-the-far-future', /* url */
+        'Why the expected numbers of farmed animals in the far future might be huge', /* title */
+        '2022-03-04', /* publication_date */
+        NULL, /* modified_date */
+        'Fai', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Humanity Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'Animal welfare', /* cause_area */
+        'The article explores projections on farmed animal populations, examining Future of Humanity Institute''s'' implications for moral consideration and long-term welfare strategies.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/6h3a9bvJ2uYBfWxEM/ama-markus-anderljung-pm-at-govai-fhi-1', /* url */
+        'AMA: Markus Anderljung (PM at GovAI, FHI)', /* title */
+        '2020-09-21', /* publication_date */
+        NULL, /* modified_date */
+        'Markus Anderljung', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Humanity Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'Markus Anderljung discusses GovAI''s ongoing projects at the Future of Humanity Institute, highlighting AI governance research priorities, hiring needs, and the broader impact of European AI policy.' /* notes */
     )
 
     ;
