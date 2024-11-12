@@ -272,7 +272,71 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI safety', /* cause_area */
         'Markus Anderljung discusses GovAI''s ongoing projects at the Future of Humanity Institute, highlighting AI governance research priorities, hiring needs, and the broader impact of European AI policy.' /* notes */
     )
-
-    ;
+    ,(
+        'https://forum.effectivealtruism.org/posts/whDMv4NjsMcPrLq2b/cser-and-fhi-advice-to-un-high-level-panel-on-digital', /* url */
+        'CSER and FHI advice to UN High-level Panel on Digital Cooperation', /* title */
+        '2019-03-08', /* publication_date */
+        NULL, /* modified_date */
+        'Haydn Belfield', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Humanity Institute|CSER|UN', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'The Future of Humanity Institute, alongside the Centre for the Study of Existential Risk, advises the UN on establishing AI governance mechanisms underpinned by inclusive, anticipatory, and responsive international cooperation frameworks for managing AI risks and ensuring global benefits.' /* notes */
+    )
+     ,(
+        'https://forum.effectivealtruism.org/posts/CNxteiKdRk9Hez3pv/ea-relevant-foresight-institute-workshops-in-2023-wbe-and-ai', /* url */
+        'EA relevant Foresight Institute Workshops in 2023: WBE & AI safety, Cryptography & AI safety, XHope, Space, and Atomically Precise Manufacturing', /* title */
+        '2023-01-16', /* publication_date */
+        NULL, /* modified_date */
+        'Elteerkers', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Humanity Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'Organization operations', /* document_scope */
+        'AI safety', /* cause_area */
+        'Elteerkers’ post outlines Foresight Institute''s 2023 workshops, highlighting topics such as Whole Brain Emulation (WBE), cryptography, and AI safety, with the Future of Humanity Institute’s Anders Sandberg chairing discussions on WBE technology and its long-term strategic and ethical implications.' /* notes */
+    )
+      ,(
+        'https://forum.effectivealtruism.org/posts/meTqCDCNzYgYmkF76/implications-of-quantum-computing-for-artificial', /* url */
+        'Implications of Quantum Computing for Artificial Intelligence alignment research (ABRIDGED)', /* title */
+        '2019-09-05', /* publication_date */
+        NULL, /* modified_date */
+        'Jaime Sevilla', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Humanity Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'General discussion of organizational practices', /* document_scope */
+        'AI safety', /* cause_area */
+        'Markus Anderljung discusses GovAI''s ongoing projects at the Future of Humanity Institute, highlighting AI governance research priorities, hiring needs, and the broader impact of European AI policy.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/r5ZaEPbxHnM3cc5b8/supporting-global-coordination-in-ai-development-why-and-how', /* url */
+        'Supporting global coordination in AI development: Why and how to contribute to international AI standards', /* title */
+        '2019-04-19', /* publication_date */
+        NULL, /* modified_date */
+        'Pcihon', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Humanity Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'General discussion of organizational practices', /* document_scope */
+        'AI safety', /* cause_area */
+        'Pichon discusses the Future of Humanity Institute''s white paper on international AI standards, emphasizing how globally coordinated standards can mitigate AI risks and promote safety through collaboration among nations and labs.' /* notes */
+    )
+    ,(
+        'https://forum.effectivealtruism.org/posts/n5agKCYxzxiuX8f4X/what-questions-should-we-ask-speakers-at-the-stanford', /* url */
+        'What Questions Should We Ask Speakers at the Stanford Existential Risks Conference?', /* title */
+        '2021-04-10', /* publication_date */
+        NULL, /* modified_date */
+        'Kuhanj', /* author */
+        'Effective Altruism Forum', /* publisher */
+        'Future of Humanity Institute', /* affected_organizations */
+        NULL, /* affected_people */
+        'General discussion of organizational practices', /* document_scope */
+        'AI safety', /* cause_area */
+        'The article invites community-suggested questions for speakers at the Stanford Existential Risks Conference, including existential risk experts like Ajeya Cotra and key figures from the Future of Humanity Institute, to guide discussions on mitigating existential threats.' /* notes */
+    )
+;
 
       
