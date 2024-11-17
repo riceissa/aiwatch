@@ -6,7 +6,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* modified_date */
         'Marisa', /* author */
         'Effective Altruism Forum', /* publisher */
-        'CHAI', /* affected_organizations */
+        'Center for Human-Compatible AI', /* affected_organizations */
         NULL, /* affected_people */
         'AMA', /* document_scope */
         'Effective altruism' /* cause_area */
@@ -19,7 +19,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* modified_date */
         'Rosie Campbell', /* author */
         'Effective Altruism Forum', /* publisher */
-        'CHAI', /* affected_organizations */
+        'Center for Human-Compatible AI', /* affected_organizations */
         NULL, /* affected_people */
         'General discussion of organizational practices', /* document_scope */
         'AI safety' /* cause_area */
@@ -32,7 +32,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* modified_date */
         ' Rob Bensinger', /* author */
         'Effective Altruism Forum', /* publisher */
-        'CHAI', /* affected_organizations */
+        'Center for Human-Compatible AI', /* affected_organizations */
         NULL, /* affected_people */
         'General discussion of organizational practices', /* document_scope */
         'AI safety' /* cause_area */
@@ -45,7 +45,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* modified_date */
         'TW123|Dan H', /* author */
         'Effective Altruism Forum', /* publisher */
-        'CHAI', /* affected_organizations */
+        'Center for Human-Compatible AI', /* affected_organizations */
         NULL, /* affected_people */
         'General discussion of organizational practices', /* document_scope */
         'AI safety' /* cause_area */
@@ -58,7 +58,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* modified_date */
         'Daniel Bashir', /* author */
         'The Gradient Pub', /* publisher */
-        'CHAI', /* affected_organizations */
+        'Center for Human-Compatible AI', /* affected_organizations */
         NULL, /* affected_people */
         'General discussion of organizational practices', /* document_scope */
         'AI safety' /* cause_area */
@@ -71,7 +71,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* modified_date */
         'Remmelt', /* author */
         'Effective Altruism Forum', /* publisher */
-        'CHAI', /* affected_organizations */
+        'Center for Human-Compatible AI', /* affected_organizations */
         NULL, /* affected_people */
         'General discussion of organizational practices', /* document_scope */
         'AI safety' /* cause_area */
@@ -84,7 +84,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* modified_date */
         'Kelsey Piper', /* author */
         'Vox', /* publisher */
-        'CHAI', /* affected_organizations */
+        'Center for Human-Compatible AI', /* affected_organizations */
         NULL, /* affected_people */
         'General discussion of organizational practices', /* document_scope */
         'AI safety' /* cause_area */
@@ -97,7 +97,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* modified_date */
         'Rachel Feedman', /* author */
         'Human Compatible AI/', /* publisher */
-        'CHAI', /* affected_organizations */
+        'Center for Human-Compatible AI', /* affected_organizations */
         NULL, /* affected_people */
         'General discussion of organizational practices', /* document_scope */
         'AI safety' /* cause_area */
@@ -110,7 +110,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* modified_date */
         'Mic', /* author */
         'Effective Altruism Forum', /* publisher */
-        'CHAI', /* affected_organizations */
+        'Center for Human-Compatible AI', /* affected_organizations */
         NULL, /* affected_people */
         'General discussion of organizational practices', /* document_scope */
         'AI safety' /* cause_area */
@@ -123,7 +123,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* modified_date */
         'Rob Bensinger', /* author */
         'Effective Altruism Forum', /* publisher */
-        'CHAI', /* affected_organizations */
+        'Center for Human-Compatible AI', /* affected_organizations */
         NULL, /* affected_people */
         'General discussion of organizational practices', /* document_scope */
         'AI safety' /* cause_area */
@@ -136,7 +136,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* modified_date */
         'Lynettebye', /* author */
         'Effective Altruism Forum', /* publisher */
-        'CHAI', /* affected_organizations */
+        'Center for Human-Compatible AI', /* affected_organizations */
         NULL, /* affected_people */
         'General discussion of organizational practices', /* document_scope */
         'AI safety' /* cause_area */
@@ -149,7 +149,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* modified_date */
         'Larks', /* author */
         'Effective Altruism Forum', /* publisher */
-        'CHAI', /* affected_organizations */
+        'Center for Human-Compatible AI', /* affected_organizations */
         NULL, /* affected_people */
         'General discussion of organizational practices', /* document_scope */
         'AI safety' /* cause_area */
@@ -162,7 +162,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* modified_date */
         'Owen Cotton-Barratt', /* author */
         'Effective Altruism Forum', /* publisher */
-        'CHAI', /* affected_organizations */
+        'Center for Human-Compatible AI', /* affected_organizations */
         NULL, /* affected_people */
         'General discussion of organizational practices', /* document_scope */
         'AI safety' /* cause_area */
