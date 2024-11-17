@@ -134,10 +134,10 @@ sql/organization_docs/ace-org-docs.sql
 sql/organization_docs/anthropic-org-docs.sql
 sql/organization_docs/cea-org-docs.sql
 sql/organization_docs/cfar-org-docs.sql
-sql\organization_docs\Center-for-Human-Compatible-AI-org-docs.sql
+sql/organization_docs/chai-org-docs.sql
 sql/organization_docs/effective-altruism-foundation-docs.sql
-sql/organization_docs/Future-of-humanity-institute-org-docs.sql
-sql/organization_docs/Future-of-life-org-docs.sql
+sql/organization_docs/fhi-org-docs.sql
+sql/organization_docs/fli-org-docs.sql
 sql/organization_docs/general-org-docs.sql
 sql/organization_docs/givewell-org-docs.sql
 sql/organization_docs/impossible-foods-org-docs.sql
