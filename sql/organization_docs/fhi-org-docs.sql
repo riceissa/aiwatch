@@ -79,30 +79,16 @@ insert into organization_documents(url, title, publication_date, modified_date, 
     )
     ,(
         'https://forum.effectivealtruism.org/posts/J6QCmkQmuRaP7skje/differential-technology-development-preprint-on-the-concept', /* url */
-	/* REVIEWED UP TO THIS POINT */
         'Differential technology development: preprint on the concept', /* title */
         '2022-09-12', /* publication_date */
         NULL, /* modified_date */
-        'Hamish Hobbs| jbs| Allan Dafoe', /* author */
+        'Hamish Hobbs|Jonas B. Sandbrink|Allan Dafoe|Jacob L. Swett|Anders Sandberg', /* author */
         'Effective Altruism Forum', /* publisher */
         'Future of Humanity Institute', /* affected_organizations */
         NULL, /* affected_people */
         'Organization operations', /* document_scope */
         'AI safety', /* cause_area */
-        'Hobbs, Sandbrink, Swett, Dafoe, and Sandberg at the Future of Humanity Institute present a preprint on differential technology development, advocating for prioritizing risk-reducing over risk-increasing technologies to mitigate existential threats from advanced AI and biotech.' /* notes */
-    )
-    ,(
-        'https://forum.effectivealtruism.org/posts/4BJSXH9ho4eYNT73P/how-dependent-is-the-effective-altruism-movement-on-dustin', /* url */
-        'How Dependent is the Effective Altruism Movement on Dustin Moskovitz and Cari Tuna?', /* title */
-        '2020-09-21', /* publication_date */
-        NULL, /* modified_date */
-        'Sapphire', /* author */
-        'Effective Altruism Forum', /* publisher */
-        'Future of Humanity Institute', /* affected_organizations */
-        NULL, /* affected_people */
-        'Organization operations', /* document_scope */
-        'AI safety', /* cause_area */
-        'Benjamin Todd’s analysis shows that the Effective Altruism (EA) community infrastructure relies significantly on Good Ventures, with Dustin Moskovitz and Cari Tuna contributing an estimated 50-66% of total EA funding, supporting major organizations like the Future of Humanity Institute, which received £13.3 million in 2018 from the Open Philanthropy Project.' /* notes */
+        'Hobbs, Sandbrink, Dafoe, Swett, and Sandberg at the Future of Humanity Institute present a preprint on differential technology development, advocating for prioritizing risk-reducing over risk-increasing technologies to mitigate existential threats from advanced AI and biotech.' /* notes */
     )
      ,(
         'https://forum.effectivealtruism.org/posts/bG9ZNvSmveNwryx8b/ama-owen-cotton-barratt-rsp-director', /* url */
@@ -122,7 +108,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AMA or discuss my 80K podcast episode: Ben Garfinkel, FHI researcher', /* title */
         '2020-07-13', /* publication_date */
         NULL, /* modified_date */
-        'Bgarfinkel', /* author */
+        'Ben Garfinkel', /* author */
         'Effective Altruism Forum', /* publisher */
         'Future of Humanity Institute', /* affected_organizations */
         NULL, /* affected_people */
@@ -131,9 +117,9 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Ben Garfinkel, a researcher at the Future of Humanity Institute, discusses AI safety, governance, and long-termist arguments in a podcast, offering insights into the importance of AI risk research and critiquing classic "fast takeoff" arguments.' /* notes */
     )
     ,(
-        'forum.effectivealtruism.org/posts/EHiEZsAJfakvWwq5m/seeking-a-ceo-for-new-x-risk-funding-charity-in-the-uk', /* url */
+        'https://forum.effectivealtruism.org/posts/EHiEZsAJfakvWwq5m/seeking-a-ceo-for-new-x-risk-funding-charity-in-the-uk', /* url */
         'Seeking a CEO for new x-risk funding charity in the UK', /* title */
-        '2023-02-07', /* publication_date */
+        '2020-02-07', /* publication_date */
         NULL, /* modified_date */
         'Markus Anderljung', /* author */
         'Effective Altruism Forum', /* publisher */
@@ -141,34 +127,22 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         NULL, /* affected_people */
         'Hiring-related notice', /* document_scope */
         'AI safety', /* cause_area */
-        'Anderljung announces a CEO search for a new UK charity aimed at funding existential risk research and supporting the Future of Humanity Institute, emphasizing operational leadership and alignment with risk-reduction goals.' /* notes */
+        'Anderljung announces a CEO search for a new UK charity called the Future of Humanity Foundation aimed at funding existential risk research and supporting the Future of Humanity Institute, emphasizing operational leadership and alignment with risk-reduction goals.' /* notes */
     )
     ,(
         'https://forum.effectivealtruism.org/posts/9cx8TrLEooaw49cAr/i-m-cullen-o-keefe-a-policy-researcher-at-openai-ama', /* url */
         'I''m Cullen O''Keefe, a Policy Researcher at OpenAI, AMA', /* title */
         '2020-01-11', /* publication_date */
         NULL, /* modified_date */
-        'Cullen', /* author */
+        'Cullen O''Keefe', /* author */
         'Effective Altruism Forum', /* publisher */
-        'Future of Humanity Institute', /* affected_organizations */
+        'OpenAI|Future of Humanity Institute', /* affected_organizations */
         NULL, /* affected_people */
         'AMA', /* document_scope */
         'AI safety', /* cause_area */
         'Cullen O''Keefe, Policy Researcher at OpenAI and Research Affiliate at the Future of Humanity Institute, discusses his work on AGI governance, law''s intersection with AI, and effective altruism’s role in shaping equitable AI outcomes.' /* notes */
     )
-    ,(
-        'https://forum.effectivealtruism.org/posts/9cx8TrLEooaw49cAr/i-m-cullen-o-keefe-a-policy-researcher-at-openai-ama', /* url */
-        'The 25 researchers who have published the largest number of academic articles on existential risk', /* title */
-        '2023-08-12', /* publication_date */
-        NULL, /* modified_date */
-        'FJehn', /* author */
-        'Effective Altruism Forum', /* publisher */
-        'Future of Humanity Institute', /* affected_organizations */
-        NULL, /* affected_people */
-        'Organization operations', /* document_scope */
-        'AI safety', /* cause_area */
-        'FJehn provides a ranked overview of the top 25 researchers in existential risk, highlighting key publications and affiliations, with a focus on active organizations like the Future of Humanity Institute and emerging AI-related risks.' /* notes */
-    )
+    /* REVIEWED UP TO THIS POINT */
     ,(
         'https://forum.effectivealtruism.org/posts/tdgvad64bmMxeXKws/have-you-ever-doubted-whether-you-re-good-enough-to-pursue', /* url */
         'Have You Ever Doubted Whether You''re Good Enough To Pursue Your Career?', /* title */
