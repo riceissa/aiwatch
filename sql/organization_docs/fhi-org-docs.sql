@@ -1,29 +1,29 @@
 insert into organization_documents(url, title, publication_date, modified_date, author, publisher, affected_organizations, affected_people, document_scope, cause_area, notes) values
    (
-        'https://forum.effectivealtruism.org/posts/uK27pds7J36asqJPt/future-of-humanity-institute-2005-2024-final-report', /* url */
+        'https://static1.squarespace.com/static/660e95991cf0293c2463bcc8/t/661a3fc3cecceb2b8ffce80d/1712996303164/FHI+Final+Report.pdf', /* url */
         'Future of Humanity Institute 2005-2024: Final Report', /* title */
         '2024-04-17', /* publication_date */
         NULL, /* modified_date */
-        'Pablo', /* author */
-        'Effective Altruism Forum', /* publisher */
+        'Anders Sandberg', /* author */
+        NULL, /* publisher */
         'Future of Humanity Institute', /* affected_organizations */
         NULL, /* affected_people */
         'Organization operations', /* document_scope */
         'Building effective altruism', /* cause_area */
-        'Sandberg''s final report on the Future of Humanity Institute (FHI) reflects on its successes and challenges from 2005 to 2024, highlighting FHI''s impact on long-term research fields, interdisciplinary collaboration, and operational insights for future existential risk research.' /* notes */
+        'Sandberg''s final report on the Future of Humanity Institute (FHI) reflects on its successes and challenges from 2005 to 2024, highlighting FHI''s impact on long-term research fields, interdisciplinary collaboration, and operational insights for future existential risk research. The post is shared in a linkpost https://forum.effectivealtruism.org/posts/uK27pds7J36asqJPt/future-of-humanity-institute-2005-2024-final-report on the Effective Altruism Forum that receives over 80 comments.' /* notes */
     )
      ,(
         'https://forum.effectivealtruism.org/posts/WTBqQbzqW894aZL6u/future-of-humanity-institute-is-hiring', /* url */
         'Future of Humanity Institute is hiring', /* title */
         '2015-12-08', /* publication_date */
         NULL, /* modified_date */
-        'Andrew_SB', /* author */
+        'Andrew Snyder-Beattie', /* author */
         'Effective Altruism Forum', /* publisher */
         'Future of Humanity Institute', /* affected_organizations */
         NULL, /* affected_people */
         'Hiring-related notice', /* document_scope */
         'AI safety', /* cause_area */
-        'Andrew_SB provides a brief on the Future of Humanity Institute’s 2015 hiring for research roles focused on AI safety, policy, strategy, and existential risk, highlighting the institute''s mission to tackle civilization-scale challenges.' /* notes */
+        'Andrew Snyder-Beattie provides a brief on the Future of Humanity Institute’s 2015 hiring for research roles focused on AI safety, policy, strategy, and existential risk, highlighting the institute''s mission to tackle civilization-scale challenges.' /* notes */
     )
     ,(
         'https://forum.effectivealtruism.org/posts/gLpAai6D3HertcXhQ/research-position-at-future-of-humanity-institute', /* url */
@@ -33,7 +33,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Daniel Dewey', /* author */
         'Effective Altruism Forum', /* publisher */
         'Future of Humanity Institute', /* affected_organizations */
-        NULL, /* affected_people */
+        'Nick Bostrom', /* affected_people */
         'Hiring-related notice', /* document_scope */
         'AI safety', /* cause_area */
         'Dewey announces the Future of Humanity Institute’s call for a Postdoctoral Research Fellow to conduct AI safety research with Professor Nick Bostrom, emphasizing a long-term focus on machine intelligence risks.' /* notes */
@@ -56,29 +56,30 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Job opportunity at the Future of Humanity Institute and Global Priorities Institute', /* title */
         '2018-04-18', /* publication_date */
         NULL, /* modified_date */
-        'HaydenW', /* author */
+        'Hayden Wilkinson', /* author */
         'Effective Altruism Forum', /* publisher */
-        'Future of Humanity Institute', /* affected_organizations */
-        'Sabine Hossenfelder', /* affected_people */
+        'Future of Humanity Institute|Global Priorities Institute', /* affected_organizations */
+        NULL, /* affected_people */
         'Hiring-related notice', /* document_scope */
         'Building effective altruism', /* cause_area */
-        'HaydenW highlights the Future of Humanity Institute''s need for a Senior Administrator to support its expansion in operations, covering finance, HR, and strategic management to drive long-term impact.' /* notes */
+        'Hayden Wilkinson announces that the Future of Humanity Institute and Global Priorities Institute are jointly looking for a Senior Administrator to support expansion in operations, covering finance, HR, and strategic management to drive long-term impact.' /* notes */
     )
     ,(
         'https://forum.effectivealtruism.org/posts/5vGsFzWvh8Snet6sK/the-centre-for-the-governance-of-ai-has-relaunched', /* url */
         'The Centre for the Governance of AI has Relaunched', /* title */
         '2021-10-29', /* publication_date */
         NULL, /* modified_date */
-        'GovAI', /* author */
+        NULL, /* author */
         'Effective Altruism Forum', /* publisher */
-        'Future of Humanity Institute', /* affected_organizations */
+        'Centre for the Governance of AI|Future of Humanity Institute', /* affected_organizations */
         NULL, /* affected_people */
         'Organization operations', /* document_scope */
         'AI safety', /* cause_area */
-        'GovAI relaunches as a nonprofit in Oxford alongside the Future of Humanity Institute, expanding research, fellowships, and policy advising in AI governance.' /* notes */
+        'The Centre for the Governance of AI (GovAI) relaunches as a nonprofit in Oxford alongside the Future of Humanity Institute, expanding research, fellowships, and policy advising in AI governance. Previously, GovAI had been housed under the Future of Humanity Institute.' /* notes */
     )
     ,(
-        'https://forum.effectivealtruism.org/posts/5vGsFzWvh8Snet6sK/the-centre-for-the-governance-of-ai-has-relaunched', /* url */
+        'https://forum.effectivealtruism.org/posts/J6QCmkQmuRaP7skje/differential-technology-development-preprint-on-the-concept', /* url */
+	/* REVIEWED UP TO THIS POINT */
         'Differential technology development: preprint on the concept', /* title */
         '2022-09-12', /* publication_date */
         NULL, /* modified_date */
@@ -338,5 +339,3 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'The article invites community-suggested questions for speakers at the Stanford Existential Risks Conference, including existential risk experts like Ajeya Cotra and key figures from the Future of Humanity Institute, to guide discussions on mitigating existential threats.' /* notes */
     )
 ;
-
-      
