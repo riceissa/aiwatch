@@ -78,7 +78,7 @@ sql/positions/gwwc.sql
 sql/positions/happier-lives-institute.sql
 sql/positions/high-impact-athletes.sql
 sql/positions/high-impact-medicine.sql
-sql/positions/institute-for-ethics-in-artificial-intelligence
+sql/positions/institute-for-ethics-in-artificial-intelligence.sql
 sql/positions/ipa.sql
 sql/positions/johns-hopkins-center-for-health-security.sql
 sql/positions/legal-priorities-project.sql
@@ -106,6 +106,7 @@ sql/positions/our-world-in-data.sql
 sql/positions/paisri.sql
 sql/positions/palisade-research.sql
 sql/positions/pantask.sql
+sql/positions/partnership-on-ai.sql
 sql/positions/probably-good.sql
 sql/positions/raising-for-effective-giving.sql
 sql/positions/reducetarian-foundation.sql
@@ -122,6 +123,7 @@ sql/positions/stanford-existential-risks-initiative.sql
 sql/positions/survival-and-flourishing.fund.sql
 sql/positions/survival-and-flourishing.org.sql
 sql/positions/suvita.sql
+sql/positions/the-institute-for-ethical-aI-machine-learning.sql
 sql/positions/the-humane-league.sql
 sql/positions/theiss-research.sql
 sql/positions/tlon.sql
