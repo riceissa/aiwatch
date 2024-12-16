@@ -11,6 +11,7 @@ sql/positions/ai-impacts.sql
 sql/positions/ai-safety-camp.sql
 sql/positions/albert-schweitzer-foundation.sql
 sql/positions/alignment-research-center.sql
+sql/positions/all-tech-is-human.sql
 sql/positions/alter.sql
 sql/positions/alvea.sql
 sql/positions/amf.sql
