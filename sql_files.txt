@@ -112,6 +112,7 @@ sql/positions/raising-for-effective-giving.sql
 sql/positions/reducetarian-foundation.sql
 sql/positions/redwood-research.sql
 sql/positions/responsible-ai-institute.sql
+sql/positions/responsible-ai-network-africa.sql
 sql/positions/rethink-charity.sql
 sql/positions/rethink-priorities.sql
 sql/positions/sci-foundation.sql
