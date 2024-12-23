@@ -460,3 +460,33 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
+/* ONLY LINKEDIN */ 
+
+,('Alex Zhai', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Research Assistant', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alexhzhai/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Robi Rahman', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Research Collaborator', '2022-11-01', 'month', NULL, NULL, 'https://linkedin.com/in/robirahman/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Darynne L', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Research Assistant', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/darynnel/', NULL, NULL, NULL, 'full-time', 'AI safety')
+,('Yixin Li', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Research Assistant', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/yixinliii/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Lapo Santarlasci', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Contractor', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lapo-santarlasci-7a2318176/', NULL, NULL, NULL, 'contractor', 'AI safety')
+,('Chinmaya Andukuri', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Student Researcher', '2024-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/chinmaya-andukuri-706b45136/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Stella Chen', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Research Assistant', '2022-03-01', 'month', NULL, NULL, 'https://linkedin.com/in/stella-chen-12a1a7146/', NULL, NULL, NULL, NULL, 'AI safety')
+,('David Nguyen', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Research Scientist', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/davidnguyeneconomistoecdparis/', NULL, NULL, NULL, 'full-time', 'AI safety')
+,('Julia Betts Lotufo', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Research Assistant, AI Policy', '2023-02-01', 'month', '2024-08-01', 'month', 'https://www.linkedin.com/in/juliabettslotufo/', NULL, NULL, NULL, 'part-time', 'AI safety')
+,('Julia Betts Lotufo', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Researcher, AI Policy, AI Index', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/juliabettslotufo/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Anchal Sayal', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Research Assistant', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/anchal-sayal/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Momin Siddiqui', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Research Assistant', '2024-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mominsiddiqui/', NULL, NULL, NULL, NULL, 'AI safety')
+,('José Ramón Enríquez', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Postdoctoral Researcher', '2023-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jos%C3%A9-ram%C3%B3n-enr%C3%ADquez-688b8013b/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Patrick Peixuan Ye', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Research Assistant', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/pxye/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Shreya Singhvi', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Research Coordinator', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shreya-singhvi/', NULL, NULL, NULL, 'part-time', 'AI safety')
+,('Labib Tazwar Rahman', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Research Principal Investigator', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/labibtazwar/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Kaiyu Ren', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Research Assistant', '2024-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kaiyuren/', NULL, NULL, NULL, 'full-time', 'AI safety')
+,('Ethan Hellman', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Research Assistant', '2023-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ethan-hellman-1804b0179/', NULL, NULL, NULL, 'part-time', 'AI safety')
+,('Njenga Kariuki', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Graduate Researcher', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/njengakariuki/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Prabha Kannan', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Contributing Writer', '2022-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/prabha-kannan-93b168/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Kelsea An', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Research Assistant', '2024-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kelseaan/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Rizwaan Malik', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Researcher', '2024-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rizwaanmalik/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Elizabeth Adams', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Network Affiliate', '2021-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lizadams/', NULL, NULL, NULL, 'affiliate', 'AI safety')
+,('Umar Patel', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Software Developer', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/umarpatel23/', NULL, NULL, NULL, 'full-time', 'AI safety')
+,('Mobina Riazi', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Tech Ethics and Policy Fellow', '2024-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/riazim/', NULL, NULL, NULL, 'part-time', 'AI safety')
+,('Nicole Chan', 'Stanford Institute for Human-Centered Artificial Intelligence', 'AI Application Project Lead', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nicolechan12/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Tiffany Saade', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Student Researcher (Data Privacy and AI Policy)', '2024-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tiffany-saade/', NULL, NULL, NULL, 'part-time', 'AI safety')
+,('Erdenetangad (Tuvana) S.', 'Stanford Institute for Human-Centered Artificial Intelligence', 'Student Affinity Group Co-Lead', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tuvana-soronzonbold/', NULL, NULL, NULL, 'part-time', 'AI safety')
