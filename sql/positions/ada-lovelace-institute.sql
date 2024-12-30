@@ -41,9 +41,9 @@
 
 /* ONLY LINKEDIN */ 
 
-('Patrick Toland', 'Ada Lovelace Institute', 'Community Researcher', '2024-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/patrick-toland-795a1641/', NULL, NULL, NULL, NULL, 'AI safety')
-('Richella Logan', 'Ada Lovelace Institute', 'Public Affairs Consultant', '2021-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/richella-logan-3a086a2/', NULL, NULL, NULL, NULL, 'AI safety')
-('Alison Powell', 'Ada Lovelace Institute', 'Public Affairs Consultant', '2021-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/richella-logan-3a086a2/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Patrick Toland', 'Ada Lovelace Institute', 'Community Researcher', '2024-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/patrick-toland-795a1641/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Richella Logan', 'Ada Lovelace Institute', 'Public Affairs Consultant', '2021-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/richella-logan-3a086a2/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Alison Powell', 'Ada Lovelace Institute', 'Public Affairs Consultant', '2021-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/richella-logan-3a086a2/', NULL, NULL, NULL, NULL, 'AI safety')
 
 /* CLOSED */ 
 
