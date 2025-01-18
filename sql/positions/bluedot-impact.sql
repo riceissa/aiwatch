@@ -1,0 +1,42 @@
+ insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
+
+('Dewi Erwan', 'BlueDot Impact', 'Co-Founder & CEO', '2022-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240116180318/https://bluedot.org/ https://www.linkedin.com/in/dewierwan/ https://web.archive.org/web/20250110025546/https://bluedot.org/', NULL, NULL, NULL, 'full-time', 'AI safety') /* Reviewed on 2025-01-10 / / Last available Wayback snapshot date is 2025-01-10 */
+,('Will Saunter', 'BlueDot Impact', 'Co-Founder', '2022-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240116180318/https://bluedot.org/ https://www.linkedin.com/in/will-saunter/ https://web.archive.org/web/20250110025546/https://bluedot.org/', NULL, NULL, NULL, 'full-time', 'AI safety') /* Reviewed on 2025-01-10 / / Last available Wayback snapshot date is 2025-01-10 */
+,('Adam Jones', 'BlueDot Impact', 'AI Safety', '2023-06-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240116180318/https://bluedot.org/ https://www.linkedin.com/in/domdomegg/ https://web.archive.org/web/20250110025546/https://bluedot.org/', NULL, NULL, NULL, 'full-time', 'AI safety') /* Reviewed on 2025-01-10 / / Last available Wayback snapshot date is 2025-01-10 */
+,('Li-Lian Ang', 'BlueDot Impact', 'Product', '2022-11-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240116180318/https://bluedot.org/ https://www.linkedin.com/in/anglilian/ https://web.archive.org/web/20250110025546/https://bluedot.org/', NULL, NULL, NULL, 'full-time', 'AI safety') /* Reviewed on 2025-01-10 / / Last available Wayback snapshot date is 2025-01-10 */
+,('Luke Drago', 'BlueDot Impact', 'AI Governance', '2024-02-01', 'month', '2024-02-01', 'month', 'https://web.archive.org/web/20240419062900/https://bluedot.org/ https://www.linkedin.com/in/lukedrago/ https://web.archive.org/web/20250110025546/https://bluedot.org/', NULL, NULL, NULL, 'full-time', 'AI safety')  /* Reviewed on 2025-01-10 / / Last available Wayback snapshot date is 2025-01-10 */
+,('Tarin Rickett', 'BlueDot Impact', 'Engineering', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tarinrickett/ https://web.archive.org/web/20250110025546/https://bluedot.org/', NULL, NULL, NULL, 'full-time', 'AI safety') /* Reviewed on 2025-01-10 / / Last available Wayback snapshot date is 2025-01-10 */
+,('Viorica Gheorghita', 'BlueDot Impact', 'Product', '2025-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250110025546/https://bluedot.org/', NULL, NULL, NULL, NULL, 'AI safety') /* Reviewed on 2025-01-10 / / Last available Wayback snapshot date is 2025-01-10 */
+
+/* ONLY LINKEDINS */
+,('Cyril Birks', 'BlueDot Impact', 'Student', '2024-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cyrilbirks/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Christopher Clay', 'BlueDot Impact', 'AI Safety Fundamentals', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/christopher-clay-aa825b280/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Vincent Niger', 'BlueDot Impact', 'Course Facilitator', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/vincent-niger/', NULL, NULL, NULL, 'part-time', 'AI safety')
+,('Christopher Leong', 'BlueDot Impact', 'AGI Safety Fundamentals Course Facilitator', '2024-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/casebash/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Lin Bowker-Lonnecker', 'BlueDot Impact', 'Course Facilitator', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/linbowkerlonnecker/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Jáchym Fibír', 'BlueDot Impact', 'AI Alignment Course Fellow', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jachym-fibir/', NULL, NULL, NULL, 'part-time', 'AI safety')
+,('Gargi Rathi', 'BlueDot Impact', 'AI Alignment Fellow, Fast-Track Program', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gargi-rathi/', NULL, NULL, NULL, 'part-time', 'AI safety')
+,('Sammy Mckinney', 'BlueDot Impact', 'Facilitator', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sammy-mck/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Nadia Montazeri', 'BlueDot Impact', 'Teaching Fellow', '2024-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nadia-montazeri/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Avantika Bhaduri', 'BlueDot Impact', 'Teaching Fellow', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/avantika-bhaduri-mph-0ab7b315b/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Aditya R.', 'BlueDot Impact', 'AI Research Fellow', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rajsecrets/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Lisa Dixon', 'BlueDot Impact', 'Biosecurity Fundamentals: Pandemics (Fellow)', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lisakroeffdixon/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Laurence Freeman', 'BlueDot Impact', 'AI Safety Fundamentals: Alignment Course', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/laurence-freeman-8901a868/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Cyril Obika', 'BlueDot Impact', 'Course Member', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cyril-obika-phd-llm-fcti-46909518a/', NULL, NULL, NULL, NULL, 'AI safety')
+,('David Alejandro Valdez Caballero', 'BlueDot Impact', 'Fellow Biosecurity Fundamentals Pandemics Course', '2024-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/davidvaldezcaballero/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Jordan Loewen-Colón', 'BlueDot Impact', 'AI Governance Course Facilitator', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jordanloewencolon/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Joshua Landes', 'BlueDot Impact', 'AI Governance Course Facilitator', '2024-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/josh-landes12/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Soman Y.', 'BlueDot Impact', 'AI Governance Fellow', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/somanyadav/', NULL, NULL, NULL, 'part-time', 'AI safety')
+,('Utkarsh K.', 'BlueDot Impact', 'AI Alignment Fellow', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ukhanna/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Imaan Khadir', 'BlueDot Impact', 'AI Governance Teaching Fellow', '2024-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/imaankhadir/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Julia Niggemeyer', 'BlueDot Impact', 'Biosecurity Fundamentals Course Facilitator', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/julia-niggemeyer/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Lovkush Agarwal', 'BlueDot Impact', 'Teaching Fellow', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lovkush-agarwal-%F0%9F%94%B8-481737131/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Jose Garza-Martinez', 'BlueDot Impact', 'Instructor', '2024-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jose-garza-martinez-0a817a67/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Mitchell Reynolds', 'BlueDot Impact', 'AI Teaching Fellow', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mitchellsreynolds/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Tarin Rickett', 'BlueDot Impact', 'Product and Engineering', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tarinrickett/', NULL, NULL, NULL, 'full-time', 'AI safety')
+,('Ilma Aliya Fiddien', 'BlueDot Impact', 'AI Alignment Course', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/fiddien/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Mac Jordan', 'BlueDot Impact', 'AISF Governance Course Facilitator', '2024-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mac-jordan-b74883202/', NULL, NULL, NULL, NULL, 'AI safety')
+,('Aishwarya G.', 'BlueDot Impact', 'Course Facilitator, Alignment Fast Track, Transformative AI, Alignment & Governance Programs', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/missaishagurung/', NULL, NULL, NULL, NULL, 'AI safety')
+
+/* CLOSED */ 
+,('Jamie Bernardi', 'BlueDot Impact', 'AI Safety', '2022-08-01', 'month', '2024-02-01', 'month', 'https://web.archive.org/web/20240116180318/https://bluedot.org/ https://www.linkedin.com/in/jamie-bernardi/ https://web.archive.org/web/20240329151745/https://bluedot.org/', NULL, NULL, NULL, 'full-time', 'AI safety')  
