@@ -130,6 +130,7 @@ sql/positions/sentience-politics.sql
 sql/positions/simon-institute.sql
 sql/positions/stanford-existential-risks-initiative.sql
 sql/positions/stanford-institute-for-human-centered-artificial-intelligence.sql
+sql/positions/stanford-robotics-center.sql
 sql/positions/survival-and-flourishing.fund.sql
 sql/positions/survival-and-flourishing.org.sql
 sql/positions/suvita.sql
