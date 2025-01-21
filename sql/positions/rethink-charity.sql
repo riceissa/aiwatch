@@ -23,7 +23,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Richenda Herzig', 'Rethink Charity', 'Project Manager', '2017-03-01', 'month', '2018-07-01', 'month', 'https://www.linkedin.com/in/richenda-herzig-837398123', NULL, NULL, 'effective altruism')/*closed*/
     ,('Richenda Herzig', 'Rethink Charity', 'Product Manager', '2018-06-01', 'month', '2019-11-01', 'month', 'https://www.linkedin.com/in/richenda-herzig-837398123', NULL, NULL, 'effective altruism')/*closed*/
     ,('Catherine Low', 'Rethink Charity', 'Resource Coordinator', '2019-04-01', 'month', '2020-02-01', 'month', 'https://www.linkedin.com/in/catherine-low-076a0a70', NULL, NULL, 'effective altruism')/*closed*/
-    ,('David Vatousios', 'Rethink Charity', 'Communications Officer', '2017-09-01', 'month', '2018-02-01', 'month', 'https://web.archive.org/web/20190428234209/https://rtcharity.org/team/ https://www.linkedin.com/in/david-vatousios-aa796b160/?originalSubdomain=ca', NULL, NULL, 'effective altruism')/*closed*/
+    ,('David Vatousios', 'Rethink Charity', 'Communications Officer', '2017-09-01', 'month', '2018-02-01', 'month', 'https://web.archive.org/web/20190428234209/https://rtcharity.org/team/ https://www.linkedin.com/in/david-vatousios-aa796b160', NULL, NULL, 'effective altruism')/*closed*/
     ,('Marcus A. Davis', 'Rethink Charity', 'Senior Researcher', '2018-01-01', 'month', '2020-02-01', 'month', 'https://web.archive.org/web/20190428234209/https://rtcharity.org/team/ https://www.linkedin.com/in/marcusadavis1/', NULL, NULL, 'effective altruism')/*closed*/
     ,('Michal Trzesimiech', 'Rethink Charity', 'Head Of Technology', '2018-08-01', 'month', '2020-01-01', 'month', 'https://www.linkedin.com/in/trzesimiech', NULL, 'part-time', 'effective altruism')/*closed*/
     ,('Marcin Kowrygo', 'Rethink Charity', 'Strategy Officer', '2018-08-01', 'month', '2019-01-01', 'year', 'https://web.archive.org/web/20190428234209/https://rtcharity.org/team/ https://www.linkedin.com/in/kowrygo', NULL, NULL, 'effective altruism')/*closed*/
@@ -44,8 +44,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Megan Jamer', 'Rethink Charity', 'Co Executive Director', '2023-09-01', 'month', '2024-06-01', 'month', 'https://www.linkedin.com/in/meganjamer/', NULL, 'full-time', 'effective altruism') /*closed*/
     ,('Ilva Ravinska', 'Rethink Charity', 'Project Manager', '2021-01-01', 'month', '2022-06-01', 'month', 'https://www.linkedin.com/in/ilva-ravinska/', NULL, 'full-time', 'effective altruism') /*closed*/
     ,('Tee Barnett', 'Rethink Charity', 'Co-founder and COO at Students for High-Impact Charity', '2016-03-01', 'month', '2017-02-01', 'month', 'https://www.linkedin.com/in/teebarnett', NULL, NULL, 'effective altruism')/*closed*/
-    ,('Tee Barnett', 'Rethink Charity', 'Executive Director of Development', '2017-02-01', 'month', '2018-10-01', 'month', 'https://www.linkedin.com/in/teebarnett/?originalSubdomain=cz', NULL, NULL, 'effective altruism')/*closed*/
-    ,('Tee Barnett', 'Rethink Charity', 'Co-founder and Senior Director of Growth & Strategy', '2018-10-01', 'month', '2020-12-01', 'month', 'https://www.linkedin.com/in/teebarnett/?originalSubdomain=cz', NULL, NULL, 'effective altruism') /*closed*/
+    ,('Tee Barnett', 'Rethink Charity', 'Executive Director of Development', '2017-02-01', 'month', '2018-10-01', 'month', 'https://www.linkedin.com/in/teebarnett', NULL, NULL, 'effective altruism')/*closed*/
+    ,('Tee Barnett', 'Rethink Charity', 'Co-founder and Senior Director of Growth & Strategy', '2018-10-01', 'month', '2020-12-01', 'month', 'https://www.linkedin.com/in/teebarnett', NULL, NULL, 'effective altruism') /*closed*/
     ,('SoonKhen OwYong', 'Rethink Charity', 'Operations Engineer', '2022-05-01', 'month', '2022-11-01', 'month', 'https://www.linkedin.com/in/owyongsk/', NULL, 'Full-time', 'effective altruism') /*closed*/ 
 
 
