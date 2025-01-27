@@ -129,7 +129,7 @@ sql/positions/sci-foundation.sql
 sql/positions/sens.sql
 sql/positions/sentience-institute.sql
 sql/positions/sentience-politics.sql
-sql/positions/simon-institute.sql
+sql/positions/simon-institute-for-longterm-governance.sql
 sql/positions/stanford-existential-risks-initiative.sql
 sql/positions/stanford-institute-for-human-centered-artificial-intelligence.sql
 sql/positions/stanford-robotics-center.sql
