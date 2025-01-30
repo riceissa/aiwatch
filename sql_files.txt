@@ -15,6 +15,7 @@ sql/positions/alignment-research-center.sql
 sql/positions/all-tech-is-human.sql
 sql/positions/alter.sql
 sql/positions/alvea.sql
+sql/positions/ambitious-impact.sql
 sql/positions/amf.sql
 sql/positions/animal-advocacy-africa.sql
 sql/positions/animal-advocacy-careers.sql
