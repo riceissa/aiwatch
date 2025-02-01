@@ -36,6 +36,26 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Sarah Negris-Mamani', 'Rethink Priorities', 'Finance Coordinator', '2024-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sarahnegris/ https://web.archive.org/web/20250127201956/https://rethinkpriorities.org/about-us/#team', NULL, 'full-time', 'Cause prioritization')  /*Last reviewed Wayback snapshot is from 2025-01-27*/ /*Ongoing position*/
     ,('Veronica Passarelli', 'Rethink Priorities', 'Organizational Psychology Researcher', '2022-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20221104101048/https://rethinkpriorities.org/team https://www.linkedin.com/in/veronica-passarelli/ https://web.archive.org/web/20250127201956/https://rethinkpriorities.org/about-us/#team', NULL, 'full-time', 'Cause prioritization')  /*Last reviewed Wayback snapshot is from 2025-01-27*/ /*Ongoing position*/
     ,('Ashley Zebro', 'Rethink Priorities', 'Lead Project Coordinator', '2024-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ashley-z-47612b74/ https://web.archive.org/web/20250127201956/https://rethinkpriorities.org/about-us/#team', NULL, 'full-time', 'Cause prioritization')  /*Last reviewed Wayback snapshot is from 2025-01-27*/ /*Ongoing position*/
+    ,('Janique Behman', 'Rethink Priorities', 'Senior Development Manager', '2020-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/janique-behman-87666b105/ https://web.archive.org/web/20250127201956/https://rethinkpriorities.org/about-us/#team', NULL, 'Part-time', 'Cause prioritization')  /*Last reviewed Wayback snapshot is from 2025-01-27*/ /*Ongoing position*/
+    ,('Whitney Childs', 'Rethink Priorities', 'Senior Development Officer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team https://web.archive.org/web/20250127201956/https://rethinkpriorities.org/about-us/#team', NULL, NULL, 'Cause prioritization')  /*Last reviewed Wayback snapshot is from 2025-01-27*/ /*Ongoing position*/
+    ,('Rachel Norman', 'Rethink Priorities', 'Senior Communications Coordinator', '2022-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rachel-norman-3641627a/ https://web.archive.org/web/20250127201956/https://rethinkpriorities.org/about-us/#team', NULL, NULL, 'Cause prioritization')  /*Last reviewed Wayback snapshot is from 2025-01-27*/ /*Ongoing position*/
+    ,('Hannah Tookey', 'Rethink Priorities', 'Development Officer', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hannaheugenietookey/ https://web.archive.org/web/20250127201956/https://rethinkpriorities.org/about-us/#team', NULL, 'full-time', 'Cause prioritization')  /*Last reviewed Wayback snapshot is from 2025-01-27*/ /*Ongoing position*/
+    ,('Sarina Wong', 'Rethink Priorities', 'Senior Communications Strategy Manager', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sarina-w-wong/ https://web.archive.org/web/20250127201956/https://rethinkpriorities.org/about-us/#team', NULL, 'full-time', 'Cause prioritization')  /*Last reviewed Wayback snapshot is from 2025-01-27*/ /*Ongoing position*/
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
 
 
 
@@ -54,11 +74,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Elisa Autric', 'Rethink Priorities', 'Research Assistant (Animal Welfare)', '2022-09-01', 'month', '2024-10-03', 'month', 'https://web.archive.org/web/20221104101048/https://rethinkpriorities.org/team https://www.linkedin.com/in/elisa-autric-4ab256198 https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, NULL, 'Cause prioritization')  /*closed*/ 
     ,('Hayley Clatterbuck', 'Rethink Priorities', 'Researcher', '2023-07-01', 'month', '2024-10-03', 'year', 'https://www.linkedin.com/in/hayley-clatterbuck-85045b23a/ https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, NULL, 'Cause prioritization') /*closed*/ 
     ,('Arvo Muñoz Morán', 'Rethink Priorities', 'Researcher', '2023-07-01', 'month', '2024-10-03', 'year', 'https://www.linkedin.com/in/arvomm/ https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, NULL, 'Cause prioritization') /*closed*/ 
-    ,('Sarina Wong', 'Rethink Priorities', 'Senior Communications Strategy Manager', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sarina-w-wong/ https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, 'full-time', 'Cause prioritization')
-    ,('Janique Behman', 'Rethink Priorities', 'Senior Development Manager', '2020-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/janique-behman-87666b105/ https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, 'part-time', 'Cause prioritization')
-    ,('Whitney Childs', 'Rethink Priorities', 'Senior Development Officer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, NULL, 'Cause prioritization')
-    ,('Rachel Norman', 'Rethink Priorities', 'Senior Communications Coordinator', '2022-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rachel-norman-3641627a/ https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, NULL, 'Cause prioritization')
-    ,('Hannah Tookey', 'Rethink Priorities', 'Development Officer', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hannaheugenietookey/ https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, 'full-time', 'Cause prioritization')
     ,('Henri Thunberg', 'Rethink Priorities', 'Development Officer', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/henrithunberg/ https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, 'full-time', 'Cause prioritization')
     ,('Matthew Fargo', 'Rethink Priorities', 'Senior Special Projects Manager', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/matthewdfargo/ https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, NULL, 'Cause prioritization')
     ,('Lara La Barbera', 'Rethink Priorities', 'Special Projects Coordinator', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/laralab1612/ https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, NULL, 'Cause prioritization')
