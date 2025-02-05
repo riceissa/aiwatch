@@ -41,22 +41,18 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Rachel Norman', 'Rethink Priorities', 'Senior Communications Coordinator', '2022-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rachel-norman-3641627a/ https://web.archive.org/web/20250127201956/https://rethinkpriorities.org/about-us/#team', NULL, NULL, 'Cause prioritization')  /*Last reviewed Wayback snapshot is from 2025-01-27*/ /*Ongoing position*/
     ,('Hannah Tookey', 'Rethink Priorities', 'Development Officer', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hannaheugenietookey/ https://web.archive.org/web/20250127201956/https://rethinkpriorities.org/about-us/#team', NULL, 'full-time', 'Cause prioritization')  /*Last reviewed Wayback snapshot is from 2025-01-27*/ /*Ongoing position*/
     ,('Sarina Wong', 'Rethink Priorities', 'Senior Communications Strategy Manager', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sarina-w-wong/ https://web.archive.org/web/20250127201956/https://rethinkpriorities.org/about-us/#team', NULL, 'full-time', 'Cause prioritization')  /*Last reviewed Wayback snapshot is from 2025-01-27*/ /*Ongoing position*/
+    ,('Urszula Zarosa', 'Rethink Priorities', 'Communication Specialist', '2024-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/urszulazarosa/ https://web.archive.org/web/20250127201956/https://rethinkpriorities.org/about-us/#team', NULL, 'full-time', 'Cause prioritization')  /*Last reviewed Wayback snapshot is from 2025-01-27*/ /*Ongoing position*/
+    ,('Kirsty Henderson', 'Rethink Priorities', 'Board Member', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kirsty-henderson/ https://web.archive.org/web/20250127201956/https://rethinkpriorities.org/about-us/#team', NULL, 'board-member', 'Cause prioritization')  /*Last reviewed Wayback snapshot is from 2025-01-27*/ /*Ongoing position*/
+    ,('Abi Olvera', 'Rethink Priorities', 'Board Member', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20250127201956/https://rethinkpriorities.org/about-us/#team', NULL, 'board-member', 'Cause prioritization')  /*Last reviewed Wayback snapshot is from 2025-01-27*/ /*Ongoing position*/
+    ,('Tim Shavers', 'Rethink Priorities', 'Board Secretary', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tim-shavers-266a1411/ https://web.archive.org/web/20250127201956/https://rethinkpriorities.org/about-us/#team', NULL, 'Board Member', 'Cause prioritization') /*Last reviewed Wayback snapshot is from 2025-01-27*/ /*Ongoing position*/
+    ,('Konstantin Sietzy', 'Rethink Priorities', 'Board Member', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/konstantinsietzy/ https://web.archive.org/web/20250127201956/https://rethinkpriorities.org/about-us/#team', NULL, 'Board Member', 'Cause prioritization') /*Last reviewed Wayback snapshot is from 2025-01-27*/ /*Ongoing position*/
+    ,('Asheem Singh', 'Rethink Priorities', 'Treasurer (Executive)', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ash-singh-frsa-7490285/ https://web.archive.org/web/20250127201956/https://rethinkpriorities.org/about-us/#team', NULL, 'Board Member', 'Cause prioritization') /*Last reviewed Wayback snapshot is from 2025-01-27*/ /*Ongoing position*/
+    ,('Daniel Stein', 'Rethink Priorities', 'Board Member', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20250127201956/https://rethinkpriorities.org/about-us/#team', NULL, 'Board Member', 'Cause prioritization') /*Last reviewed Wayback snapshot is from 2025-01-27*/ /*Ongoing position*/
+    ,('Nikolai Vetr', 'Rethink Priorities', 'Board Member', '2023-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nikolai-vetr/ https://web.archive.org/web/20250127201956/https://rethinkpriorities.org/about-us/#team', NULL, 'Board Member', 'Cause prioritization') /*Last reviewed Wayback snapshot is from 2025-01-27*/ /*Ongoing position*/
 
 
 
-
-
-
-    
-
-
-
-
-
-
-
-
-
+ 
 
 
 
@@ -79,14 +75,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Lara La Barbera', 'Rethink Priorities', 'Special Projects Coordinator', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/laralab1612/ https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, NULL, 'Cause prioritization')
     ,('Kevin Neilon', 'Rethink Priorities', 'Senior Special Projects Coordinator', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kevin-neilon-8a0a5a24/ https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, NULL, 'Cause prioritization')
     ,('Cristina Schmidt Ibáñez', 'Rethink Priorities', 'Senior Special Projects Coordinator', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cristina-schmidtibanez/ https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, NULL, 'Cause prioritization')
-    ,('Marcus Davis', 'Rethink Priorities', 'Board Member', '2020-11-01', 'year', NULL, NULL, 'https://web.archive.org/web/20201126010023/www.rethinkpriorities.org/our-team https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, 'Board Member', 'Cause prioritization')  /*Reviewed on 2024-10-03*/ /*Ongoing position*/ 
-    ,('Kirsty Henderson', 'Rethink Priorities', 'Board Member', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kirsty-henderson/ https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, 'Board Member', 'Cause prioritization')
-    ,('Abi Olvera', 'Rethink Priorities', 'Board Member', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, 'Board Member', 'Cause prioritization')
-    ,('Tim Shavers', 'Rethink Priorities', 'Board Member', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, 'Board Member', 'Cause prioritization')
-    ,('Daniel Stein', 'Rethink Priorities', 'Board Member', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, 'Board Member', 'Cause prioritization')
-    ,('Asheem Singh', 'Rethink Priorities', 'Board Member', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ash-singh-frsa-7490285/ https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, 'Board Member', 'Cause prioritization')
-    ,('Konstantin Sietzy', 'Rethink Priorities', 'Board Member', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/konstantinsietzy/ https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, 'Board Member', 'Cause prioritization')
-    ,('Nikolai Vetr', 'Rethink Priorities', 'Board Member', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, 'Board Member', 'Cause prioritization') 
+    ,('Marcus Davis', 'Rethink Priorities', 'Board Member', '2020-11-01', 'year', NULL, NULL, 'https://web.archive.org/web/20201126010023/www.rethinkpriorities.org/our-team https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, 'Board Member', 'Cause prioritization')  /*Reviewed on 2024-10-03*/ /*Ongoing position*/  
    ,('Jacob Peacock', 'Rethink Priorities', 'Senior Research Manager (Animal Welfare)', '2021-10-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220527085333/https://rethinkpriorities.org/team https://www.linkedin.com/in/peacockjacob/', NULL, 'full-time', 'Cause prioritization')
    ,('Marcus Davis', 'Rethink Priorities', 'Co-Executive Director', '2018-01-01', 'month', '2024-04-01', 'month', 'http://web.archive.org/web/20200220222539/https://www.rethinkpriorities.org/our-team https://www.linkedin.com/in/marcusadavis1/ https://web.archive.org/web/20240710183508/https://rethinkpriorities.org/team', NULL, 'full-time', 'Cause prioritization')   /*closed*/ 
    ,('Peter Wildeford', 'Rethink Priorities', 'Co-Executive Director', '2018-01-01', 'month', '2024-07-01', 'month', 'http://web.archive.org/web/20200220222539/https://www.rethinkpriorities.org/our-team https://www.linkedin.com/in/peterhurford8/ https://web.archive.org/web/20240710183508/https://rethinkpriorities.org/team', NULL, 'part-time', 'Cause prioritization')  /*closed*/  
