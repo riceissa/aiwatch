@@ -60,7 +60,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Cristina Schmidt Ibáñez', 'Rethink Priorities', 'Senior Special Projects Coordinator', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cristina-schmidtibanez/ https://web.archive.org/web/20241003094955/https://rethinkpriorities.org/team', NULL, NULL, 'Cause prioritization') /*Ongoing position*/
    ,('David Moss', 'Rethink Priorities', 'Principal Research Manager', '2018-01-01', 'month', NULL, NULL, 'http://web.archive.org/web/20200220222539/https://www.rethinkpriorities.org/our-team https://www.linkedin.com/in/david-moss-789a9616', NULL, 'full-time', 'Cause prioritization') /*Ongoing position*/
    ,('Janique Behman', 'Rethink Priorities', 'Senior Development Manager', '2020-11-01', 'month', NULL, NULL, 'http://web.archive.org/web/20201126010023/https://www.rethinkpriorities.org/our-team https://www.linkedin.com/in/janique-behman-87666b105/m', NULL, 'part-time', 'Cause prioritization') /*Ongoing position*/
-
+   ,('Shaan Shaikh', 'Rethink Priorities', 'Copyeditor', '2024-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shaan-shaikh/', NULL, 'part-time', 'Cause prioritization') /*Ongoing position*/
 /*...................................closed positions below..................................................*/
 
 
@@ -164,7 +164,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
  
 
-    ,('Shaan Shaikh', 'Rethink Priorities', 'Copyeditor', '2024-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shaan-shaikh/', NULL, 'part-time', 'Cause prioritization')
+
     ,('Urja Thakrar', 'Rethink Priorities', 'Intern (Animal Welfare)', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/urjathakrar/', NULL, 'intern', 'Cause prioritization')
     ,('Romina Giel', 'Rethink Priorities', 'Equity Committee Member', '2021-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/romina-giel-aa7347a4/', NULL, NULL, 'Cause prioritization')
     ,('Romina Giel', 'Rethink Priorities', 'Operations Associate', '2021-08-01', 'month', '2021-12-01', 'month', 'https://www.linkedin.com/in/romina-giel-aa7347a4/', NULL, NULL, 'Cause prioritization')/*closed*/ 
