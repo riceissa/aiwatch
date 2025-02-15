@@ -25,6 +25,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Lennart Heim', 'Epoch ', 'Strategy Specialist', '2023-02-04', 'month', NULL, NULL, 'https://web.archive.org/web/20230204064434/https://epochai.org/team https://web.archive.org/web/20250211000012/https://epoch.ai/about', NULL, NULL, 'AI safety')/*Last reviewed Wayback snapshot is from 2025-02-11*/ /*current position*/
 
 
+   ,('Virginia Blanton', 'Epoch', 'Leadership Advisor', '2023-11-28', 'month', NULL, NULL, 'https://web.archive.org/web/20231128000203/https://epochai.org/team https://web.archive.org/web/20250211000012/https://epoch.ai/about', NULL, 'Advisor', 'AI safety')/*Last reviewed Wayback snapshot is from 2025-02-11*/ /*current position*/
+   ,('Tom Davidson', 'Epoch ', 'Research Advisor', '2022-06-28', 'month', '2023-09-30', 'month', 'https://web.archive.org/web/20220628195022/https://epochai.org/team https://web.archive.org/web/20250211000012/https://epoch.ai/about', NULL, 'Advisor', 'AI safety')/*Last reviewed Wayback snapshot is from 2025-02-11*/ /*current position*/
+   ,('Neil Thompson', 'Epoch ', 'Research Advisor', '2022-06-28', 'month', NULL, NULL, 'https://web.archive.org/web/20220628195022/https://epochai.org/team https://web.archive.org/web/20250211000012/https://epoch.ai/about', NULL, 'Advisor', 'AI safety')/*Last reviewed Wayback snapshot is from 2025-02-11*/ /*current position*/
+
+
  /*............................................closed positions below........................................*/
 
 
@@ -40,5 +45,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Maria da Lama', 'Epoch', 'Operations Coordinator', '2022-12-01', 'month', '2023-11-01', 'month', 'https://www.linkedin.com/in/merilalama/', NULL, NULL, 'AI safety')/*closed*/
     ,('Marius Hobbhahn', 'Epoch', 'Research Fellow', '2022-06-28', 'month', '2023-12-11', 'month', 'https://web.archive.org/web/20220628195022/https://epochai.org/team https://web.archive.org/web/20231211235451/https://epochai.org/team', NULL, NULL, 'AI safety')/*closed*/
     ,('Neil Thompson', 'Epoch ', 'Research Advisor', '2022-06-28', 'month', '2023-09-30', 'month', 'https://web.archive.org/web/20220628195022/https://epochai.org/team https://web.archive.org/web/20230930040549/https://epochai.org/team', NULL, 'Advisor', 'AI safety')/*closed*/
-    ,('Tom Davidson', 'Epoch ', 'Research Advisor', '2022-06-28', 'month', '2023-09-30', 'month', 'https://web.archive.org/web/20220628195022/https://epochai.org/team https://web.archive.org/web/20230930040549/https://epochai.org/team', NULL, 'Advisor', 'AI safety')/*closed*/
  
