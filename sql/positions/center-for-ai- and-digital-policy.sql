@@ -186,7 +186,7 @@
 ,('Tina Lassiter', 'Center for AI and Digital Policy', 'Fellow', '2024-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tina-lassiter-6b8a6660/', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Danait Girma', 'Center for AI and Digital Policy', 'Research Group Member', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/danait-girma-76a0b518a/', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Marcela Campos Jabôr', 'Center for AI and Digital Policy', 'Research Group Member', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/marcelajabor/', NULL, NULL, NULL, NULL, 'AI safety')
-,('Achieng Mary Oduor', 'Center for AI and Digital Policy', 'Research Fellow', '20230-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/achieng-mary-oduor-738852189/', NULL, NULL, NULL, 'full-time', 'AI safety')
+,('Achieng Mary Oduor', 'Center for AI and Digital Policy', 'Research Fellow', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/achieng-mary-oduor-738852189/', NULL, NULL, NULL, 'full-time', 'AI safety')
 ,('Neesha Patel', 'Center for AI and Digital Policy', 'Associate Policy Researcher', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/neesha-patel-7493a9226/', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Logan O"Shaughnessy', 'Center for AI and Digital Policy', 'Research Group Member', '2024-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/loganoshaughnessy/', NULL, NULL, NULL, 'part-time', 'AI safety')
 ,('Sophie N. Nyombi', 'Center for AI and Digital Policy', 'Law Fellow', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sophie-n-nyombi-7b7018231/', NULL, NULL, NULL, 'full-time', 'AI safety')
@@ -297,6 +297,7 @@
 ,('Ayca Ariyoruk', 'Center for AI and Digital Policy', 'Advanced Policy Clinic, Team Lead', '2023-01-01', 'month', '2023-09-01', 'month', 'https://www.linkedin.com/in/aycaariyoruk/', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Ayca Ariyoruk', 'Center for AI and Digital Policy', 'Clinic Research Group', '2022-09-01', 'month', '2022-12-01', 'month', 'https://www.linkedin.com/in/aycaariyoruk/', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Amir Mikail', 'Center for AI and Digital Policy', 'AI and Digital Policy Researcher and Analyst', '2022-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/amir-mikail/', NULL, NULL, NULL, NULL, 'AI safety')
+
 ,('Monique Munarini', 'Center for AI and Digital Policy', 'Policy Analyst', '2023-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/moniquemunarini/', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Monique Munarini', 'Center for AI and Digital Policy', 'Team Leader', '2023-04-02', 'month', '2023-11-01', 'month', 'https://www.linkedin.com/in/moniquemunarini/', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Monique Munarini', 'Center for AI and Digital Policy', 'Research Group Member', '2023-01-01', 'month', '2023-04-01', 'month', 'https://www.linkedin.com/in/moniquemunarini/', NULL, NULL, NULL, NULL, 'AI safety')
@@ -307,6 +308,7 @@
 ,('Inès B.', 'Center for AI and Digital Policy', 'Research group member', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/in%C3%A8s-b-2716b9131/', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Ojus Tyagi', 'Center for AI and Digital Policy', 'Team Leader', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ojus-tyagi-a32b36118/', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Ojus Tyagi', 'Center for AI and Digital Policy', 'Research Group Member', '2024-09-01', 'month', '2024-12-01', 'month', 'https://www.linkedin.com/in/ojus-tyagi-a32b36118/', NULL, NULL, NULL, NULL, 'AI safety')
+
 ,('Ley (Ashley) Muller', 'Center for AI and Digital Policy', 'Research Group Member', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ley-ashley-muller-20b04131/', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Ren Bin Lee Dixon', 'Center for AI and Digital Policy', 'Research Fellow', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/renbinleedixon/', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Ren Bin Lee Dixon', 'Center for AI and Digital Policy', 'Team Leader', '2023-09-02', 'month', '2023-12-01', 'month', 'https://www.linkedin.com/in/renbinleedixon/', NULL, NULL, NULL, NULL, 'AI safety')
@@ -316,7 +318,8 @@
 ,('Noah Levy', 'Center for AI and Digital Policy', 'Research Group Member', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/noah-nl-levy/', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Nada Alwadi', 'Center for AI and Digital Policy', 'Artificial Intelligence Policy / Team Leader', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nada-alwadi/', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Nada Alwadi', 'Center for AI and Digital Policy', 'Artificial Intelligence Policy / Research Group Member', '2024-09-01', 'month', '2024-12-01', 'month', 'https://www.linkedin.com/in/nada-alwadi/', NULL, NULL, NULL, NULL, 'AI safety')
-,('Wellington Galassi', 'Center for AI and Digital Policy', 'Researcher', '2022-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/wellington-galassi/', NULL, NULL, NULL, 'part-timr', 'AI safety')
+,('Wellington Galassi', 'Center for AI and Digital Policy', 'Researcher', '2022-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/wellington-galassi/', NULL, NULL, NULL, 'part-time', 'AI safety')
+
 ,('Idil I. Kaner', 'Center for AI and Digital Policy', 'Team Leader', '2024-09-02', 'month', NULL, NULL, 'https://www.linkedin.com/in/idilkaner/', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Idil I. Kaner', 'Center for AI and Digital Policy', 'Research Group Member', '2024-01-01', 'year', '2024-09-01', 'month', 'https://www.linkedin.com/in/idilkaner/', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Ananya Mukherjee', 'Center for AI and Digital Policy', 'Policy Researh Group', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ananya-mukherjee-3a58a9143/', NULL, NULL, NULL, NULL, 'AI safety')
