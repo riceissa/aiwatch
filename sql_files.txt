@@ -81,6 +81,7 @@ sql/positions/globaia.sql
 sql/positions/global-priorities-institute-oxford-university.sql
 sql/positions/global-shield.sql
 sql/positions/good-forever.sql
+sql/positions/good-structures.sql
 sql/positions/goodai.sql
 sql/positions/google-deep-mind.sql
 sql/positions/gwwc.sql
