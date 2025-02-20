@@ -89,6 +89,7 @@ sql/positions/gwwc.sql
 sql/positions/happier-lives-institute.sql
 sql/positions/high-impact-athletes.sql
 sql/positions/high-impact-medicine.sql
+sql/positions/human-progress.sql
 sql/positions/institute-for-ai-policy-and-strategy.sql
 sql/positions/institute-for-ethics-in-artificial-intelligence.sql
 sql/positions/ipa.sql
