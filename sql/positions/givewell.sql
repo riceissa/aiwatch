@@ -47,7 +47,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
  
 
-  | 
+  
 
 
 
