@@ -34,16 +34,22 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Steven Profaizer', 'GiveWell', 'Head of Communications', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/steven-profaizer/ https://web.archive.org/web/20250216210747/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Last consulted wayback snapshot is from 2025-02-16*/ /*current position*/
     ,('Tracy Williams','GiveWell', 'Senior Marketing Analyst', '2020-09-27', 'month',NULL,NULL, 'https://web.archive.org/web/20200927051749/https://www.givewell.org/about/people https://web.archive.org/web/20250216210747/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Last consulted wayback snapshot is from 2025-02-16*/ /*current position*/
     ,('Annie Barnett', 'GiveWell', 'Research Analyst', '2024-07-29', 'month', NULL, NULL, 'https://web.archive.org/web/20240729225900/https://www.givewell.org/about/people https://web.archive.org/web/20250216210747/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Last consulted wayback snapshot is from 2025-02-16*/ /*current position*/
+    ,('Beatrix Swanson', 'GiveWell', 'Research Analyst', '2024-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/beatrix-swanson/ https://web.archive.org/web/20250216210747/https://www.givewell.org/about/people', NULL, 'Full-time','Global health and poverty') /*Last consulted wayback snapshot is from 2025-02-16*/ /*current position*/
+    ,('Brendan Phillips', 'GiveWell', 'Research Analyst', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/brendan-phillips%F0%9F%94%B8-684144123/ https://web.archive.org/web/20250216210747/https://www.givewell.org/about/people', NULL, 'Full-time','Global health and poverty') /*Last consulted wayback snapshot is from 2025-02-16*/ /*current position*/
+    ,('Gurmukh Singh', 'GiveWell', 'Research Analyst', '2024-07-29', 'month', NULL, NULL, 'https://web.archive.org/web/20240729225900/https://www.givewell.org/about/people https://web.archive.org/web/20250216210747/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Last consulted wayback snapshot is from 2025-02-16*/ /*current position*/
+    ,('Jack Shangraw', 'GiveWell', 'Research Analyst', '2023-06-26', 'month', '2024-09-30', 'month', 'https://web.archive.org/web/20240930230255/https://www.givewell.org/about/people https://web.archive.org/web/20250216210747/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Last consulted wayback snapshot is from 2025-02-16*/ /*current position*/
+    ,('Kameron Smith','GiveWell', 'Commons Coordinator', '2024-03-05', 'month', NULL, NULL, 'https://www.linkedin.com/in/ksmithwrites/ https://web.archive.org/web/20250216210747/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Last consulted wayback snapshot is from 2025-02-16*/ /*current position*/
+    ,('Kartik Sharma', 'GiveWell', 'Research Analyst', '2024-08-26', 'month', NULL, NULL, 'https://web.archive.org/web/20240826230255/https://www.givewell.org/about/people https://web.archive.org/web/20250216210747/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Last consulted wayback snapshot is from 2025-02-16*/ /*current position*/
 
 
-    
  
 
- 
-
-
 
  
+
+  | 
+
+
 
 
 
@@ -55,10 +61,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Ahmed Alkhatib','GiveWell', 'Donations Specialist', '2020-03-03', 'month',NULL,NULL, 'https://web.archive.org/web/20200303031951/http://www.givewell.org/about/people https://www.linkedin.com/in/aalkhatib/ https://web.archive.org/web/20200303031951/http://www.givewell.org/about/people https://web.archive.org/web/20240814034710/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Reviewed on 2024-08-14*/ /*current position*/
     ,('Debbie Kim', 'GiveWell', 'Donor Relations Associate', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/debbiehaeinkim/ https://web.archive.org/web/20240814034710/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Reviewed on 2024-08-14*/ /*current position*/
     ,('Uri Bram', 'GiveWell', 'Head of Communications', '2024-05-27', 'month', NULL, NULL, 'https://web.archive.org/web/20240527225704/https://www.givewell.org/about/people https://web.archive.org/web/20240814034710/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Reviewed on 2024-08-14*/ /*current position*/
-    ,('Gurmukh Singh', 'GiveWell', 'Research Analyst', '2024-07-29', 'month', NULL, NULL, 'https://web.archive.org/web/20240729225900/https://www.givewell.org/about/people https://web.archive.org/web/20240814034710/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Reviewed on 2024-08-14*/ /*current position*/
-    ,('Jack Shangraw', 'GiveWell', 'Content Editor', '2023-06-26', 'month', NULL, NULL, 'https://web.archive.org/web/20230626225317/https://www.givewell.org/about/people https://web.archive.org/web/20240814034710/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Reviewed on 2024-08-14*/ /*current position*/
+    ,('Jack Shangraw', 'GiveWell', 'Content Editor', '2023-06-26', 'month', '2024-08-26', 'month', 'https://web.archive.org/web/20230626225317/https://www.givewell.org/about/people https://web.archive.org/web/20240826230255/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*closed*/
     ,('Jordan Hebert', 'GiveWell', 'Content Editor', '2023-09-25', 'month', NULL, NULL, 'https://web.archive.org/web/20230925230143/https://www.givewell.org/about/people https://web.archive.org/web/20240814034710/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Reviewed on 2024-08-14*/ /*current position*/
-    ,('Kameron Smith','GiveWell', 'Commons Coordinator', '2024-03-05', 'month', NULL, NULL, 'https://www.linkedin.com/in/ksmithwrites/ https://web.archive.org/web/20240305011356/https://www.givewell.org/about/people https://web.archive.org/web/20240814034710/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Reviewed on 2024-08-14*/ /*current position*/
     ,('Nicole Zok','GiveWell', ' Commons Lead', '2024-02-12', 'month',NULL, NULL, 'https://web.archive.org/web/20240212173534/https://www.givewell.org/about/people https://web.archive.org/web/20240814034710/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Reviewed on 2024-08-14*/ /*current position*/
     ,('Adam Salisbury', 'GiveWell', 'Senior Research Associate', '2022-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adamsalisbury15/ https://web.archive.org/web/20240814034710/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Reviewed on 2024-08-14*/ /*current position*/
     ,('Alex Cohen','GiveWell', 'Principal Researcher', '2024-04-29', 'month',NULL, NULL, 'https://web.archive.org/web/20201116175256/http://www.givewell.org/about/people https://www.linkedin.com/in/alexwcohen/ https://web.archive.org/web/20240814034710/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Reviewed on 2024-08-14*/ /*current position*/
