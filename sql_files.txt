@@ -51,6 +51,7 @@ sql/positions/continualai.sql
 sql/positions/cooperativeai.sql
 sql/positions/cornell-effective-altruism.sql
 sql/positions/cset.sql
+sql/positions/doneer-effectief.sql
 sql/positions/ea-engineers.sql
 sql/positions/ea-foundation.sql
 sql/positions/ea-retreats.sql
