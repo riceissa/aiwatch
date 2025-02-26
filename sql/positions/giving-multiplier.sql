@@ -1,0 +1,22 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+
+,('Lucius Caviola', 'Giving Multiplier', 'Co-founder', '2020-11-01', 'year', NULL, NULL, 'https://web.archive.org/web/20201117060130/https://givingmultiplier.org/about-us https://web.archive.org/web/20250219085147/https://givingmultiplier.org/about-us', NULL, NULL, 'Effective altruism')  /* Reviewed on 2025-02-19 / / Last available Wayback snapshot date is 2025-02-19 */
+,('Joshua Greene', 'Giving Multiplier', 'Co-founder', '2020-11-01', 'year', NULL, NULL, 'https://web.archive.org/web/20201117060130/https://givingmultiplier.org/about-us https://web.archive.org/web/20250219085147/https://givingmultiplier.org/about-us', NULL, NULL, 'Effective altruism')  /* Reviewed on 2025-02-19 / / Last available Wayback snapshot date is 2025-02-19 */
+,('Matthew Coleman', 'Giving Multiplier', 'Executive Director', '2024-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240811185254/https://givingmultiplier.org/about-us https://www.linkedin.com/in/matthewbcoleman/ https://web.archive.org/web/20250219085147/https://givingmultiplier.org/about-us', NULL, NULL, 'Effective altruism')  /* Reviewed on 2025-02-19 / / Last available Wayback snapshot date is 2025-02-19 */
+,('Fabio Kuhn', 'Giving Multiplier', 'Web Developer', '2020-04-01', 'month', NULL, NULL, 'https://web.archive.org/web/20201117060130/https://givingmultiplier.org/about-us https://www.linkedin.com/in/fabio-kuhn%F0%9F%94%B8-647173a2/ https://web.archive.org/web/20250219085147/https://givingmultiplier.org/about-us', NULL, 'part-time', 'Effective altruism')   /* Reviewed on 2025-02-19 / / Last available Wayback snapshot date is 2025-02-19 */
+,('Laurie Santos', 'Giving Multiplier', 'Advisor', '2024-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20241222200638/https://givingmultiplier.org/about-us https://web.archive.org/web/20250219085147/https://givingmultiplier.org/about-us', NULL, 'advisor', 'Effective altruism')   /* Reviewed on 2025-02-19 / / Last available Wayback snapshot date is 2025-02-19 */
+,('José González', 'Giving Multiplier', 'Advisor', '2024-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20241222200638/https://givingmultiplier.org/about-us https://web.archive.org/web/20250219085147/https://givingmultiplier.org/about-us', NULL, 'advisor', 'Effective altruism')  /* Reviewed on 2025-02-19 / / Last available Wayback snapshot date is 2025-02-19 */
+,('Peter Singer', 'Giving Multiplier', 'Advisor', '2024-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20241222200638/https://givingmultiplier.org/about-us https://web.archive.org/web/20250219085147/https://givingmultiplier.org/about-us', NULL, 'advisor', 'Effective altruism')  /* Reviewed on 2025-02-19 / / Last available Wayback snapshot date is 2025-02-19 */
+,('Paul Bloom', 'Giving Multiplier', 'Advisor', '2024-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20241222200638/https://givingmultiplier.org/about-us https://web.archive.org/web/20250219085147/https://givingmultiplier.org/about-us', NULL, 'advisor', 'Effective altruism')  /* Reviewed on 2025-02-19 / / Last available Wayback snapshot date is 2025-02-19 */
+,('Maria Konnikova', 'Giving Multiplier', 'Advisor', '2024-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20241222200638/https://givingmultiplier.org/about-us https://web.archive.org/web/20250219085147/https://givingmultiplier.org/about-us', NULL, 'advisor', 'Effective altruism')  /* Reviewed on 2025-02-19 / / Last available Wayback snapshot date is 2025-02-19 */
+,('Liv Boeree', 'Giving Multiplier', 'Advisor', '2024-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20241222200638/https://givingmultiplier.org/about-us https://web.archive.org/web/20250219085147/https://givingmultiplier.org/about-us', NULL, 'advisor', 'Effective altruism')  /* Reviewed on 2025-02-19 / / Last available Wayback snapshot date is 2025-02-19 */
+
+ /* ONLY LINKEDIN */
+
+,('Elisa See', 'Giving Multiplier', 'IQSS Undergraduate Research Scholars Program', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/elisa-see-413528255/', NULL, 'part-time', 'Effective altruism') 
+
+ /* CLOSED */
+
+,('Matthew Coleman', 'Giving Multiplier', 'Project Manager', '2023-09-01', 'month', '2024-06-01', 'month', 'https://web.archive.org/web/20240424055006/https://givingmultiplier.org/about-us https://www.linkedin.com/in/matthewbcoleman/', NULL, NULL, 'Effective altruism') 
+
+
