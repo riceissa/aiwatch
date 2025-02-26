@@ -125,10 +125,11 @@ while ($row = $result->fetch_assoc()) { ?>
 </table>
 
 <?php
-$query = "select * from positions where person = ? order by coalesce(start_date, end_date) asc";
+$query = "select * from positions where person = ?";
 if ($subdomain === "aiwatch") {
   $query .= " and cause_area = 'AI safety'";
 }
+$query .= " order by coalesce(start_date, end_date) asc";
 if ($stmt = $mysqli->prepare($query)) {
   $stmt->bind_param("s", $person);
   $stmt->execute();
