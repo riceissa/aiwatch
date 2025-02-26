@@ -150,6 +150,7 @@ sql/positions/the-humane-league.sql
 sql/positions/theiss-research.sql
 sql/positions/tlon.sql
 sql/positions/training-for-good.sql
+sql/positions/tyve.sql
 sql/positions/umaniq.sql
 sql/positions/university-of-chicago-existential-risk-laboratory.sql
 sql/positions/utility-farm.sql
