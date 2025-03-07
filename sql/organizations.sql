@@ -86,6 +86,12 @@ insert into organizations(organization, other_names, hosting_organization, websi
     ,('EthicsNet','OpenEth',NULL,'https://www.ethicsnet.org/','https://www.ethicsnet.org/about',NULL,'United Kingdom','2016-06-01','month','https://gist.github.com/riceissa/468de4fe4a0834c1f31c20c945f21dd0','https://gist.github.com/riceissa/468de4fe4a0834c1f31c20c945f21dd0',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
     ,('FAR.AI', 'Frontier alignment Research', NULL, 'https://far.ai/', 'https://far.ai/about/team/', 'hello@far.ai', 'United States', '2022-10-01', 'month', 'https://far.ai/about/transparency/', NULL, NULL, '2024-10-03', NULL, NULL, NULL, NULL, NULL, NULL, '@farairesearch', NULL, '@FARAIResearch')
     ,('Flowers Laboratory',NULL,'INRIA, ENSTA ParisTech','https://flowers.inria.fr/',NULL,NULL,'France',NULL,NULL,NULL,'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741',NULL,'2024-09-02',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
+    /*,('Food Ethics Council', NULL, NULL, 'https://www.foodethicscouncil.org/', 'https://www.foodethicscouncil.org/who-we-are/', contact_email, 'United Kingdom', launch_date, launch_date_precision, launch_date_url, urls, notes, last_major_data_update_date, 'FoodEthicsCouncil', instagram_username, medium_username, pinterest_username, timelines_wiki_page, tumblr_subdomain, '@FoodEthicsNews', wikipedia_page, youtube_username)*/
+
+    
+
+
+
     ,('Forecasting Research Institute', NULL, NULL, 'https://forecastingresearch.org/', 'https://forecastingresearch.org/team', NULL, 'United States', '2022-12-13', 'month', 'https://forum.effectivealtruism.org/posts/kEd5qWwg8pZjWAeFS/announcing-the-forecasting-research-institute-we-re-hirin', NULL, NULL, '2023-01-22', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)
     ,('Forethought Foundation for Global Priorities Research',NULL,'Centre for Effective Altruism','https://www.forethought.org/','https://www.forethought.org/about-us', 'contact@forethought.org','United Kingdom','2018-12-04','month','https://forum.effectivealtruism.org/posts/vxwcxwiDKCnyHJhbz/announcing-the-new-forethought-foundation-for-global',NULL,NULL,'2024-08-23',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
     ,('Fund for Alignment Research', 'FAR AI', NULL, 'https://far.ai/', 'https://far.ai/', 'hello@far.ai', 'United States', '2024-07-28', 'month', 'https://forum.effectivealtruism.org/posts/gNHjEmLeKM47FDdqM/introducing-the-fund-for-alignment-research-we-re-hiring-1', NULL, NULL, '2024-07-28', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)
