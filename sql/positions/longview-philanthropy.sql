@@ -6,14 +6,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Katie Hearsum', 'Longview Philanthropy', 'Head Of Operations', '2024-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/katie-hearsum-011027a7/ https://web.archive.org/web/20250316140227/https://www.longview.org/about/', NULL, NULL, 'Cause prioritization') /*Last consulted Wayback snapshot is from 2025-03-16*/ /*current position*/
     ,('Carl Robichaud', 'Longview Philanthropy', 'Program Officer', '2022-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/carl-robichaud-1854641/ https://web.archive.org/web/20250316140227/https://www.longview.org/about/', NULL, NULL, 'Cause prioritization') /*Last consulted Wayback snapshot is from 2025-03-16*/ /*current position*/
     ,('Matthew Gentzel', 'Longview Philanthropy', 'Program Officer', '2022-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/matthew-gentzel/ https://web.archive.org/web/20250316140227/https://www.longview.org/about/', NULL, NULL, 'Cause prioritization') /*Last consulted Wayback snapshot is from 2025-03-16*/ /*current position*/
-    ,('Page Hedley', 'Longview Philanthropy', 'AI Progamme Director', '2024-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/page-hedley-71318613/', NULL, 'Full-time', 'Cause prioritization') /*Last consulted Wayback snapshot is from 2025-03-16*/ /*current position*/
+    ,('Page Hedley', 'Longview Philanthropy', 'AI Progamme Director', '2024-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/page-hedley-71318613/ https://web.archive.org/web/20250316140227/https://www.longview.org/about/', NULL, 'Full-time', 'Cause prioritization') /*Last consulted Wayback snapshot is from 2025-03-16*/ /*current position*/
     ,('Aidan O''Gara', 'Longview Philanthropy', 'AI Program Officer', '2024-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/abogara/ https://web.archive.org/web/20250316140227/https://www.longview.org/about/', NULL, 'Full-time', 'Cause prioritization') /*Last consulted Wayback snapshot is from 2025-03-16*/ /*current position*/
-
-
- 
-
- 
-
+    ,('Zach Freitas-Groff', 'Longview Philanthropy', 'Senior Programme Associate', '2024-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/zachgroff/ https://web.archive.org/web/20250316140227/https://www.longview.org/about/', NULL, 'Full-time', 'Cause prioritization') /*Last consulted Wayback snapshot is from 2025-03-16*/ /*current position*/
+    ,('Suryansh Mehta', 'Longview Philanthropy', 'Content Director', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/suryansh-mehta/ https://web.archive.org/web/20250316140227/https://www.longview.org/about/', NULL, 'Full-time', 'Cause prioritization') /*Last consulted Wayback snapshot is from 2025-03-16*/ /*current position*/
+    ,('Andrew Player', 'Longview Philanthropy', 'Head of Grants Management & Compliance', '2022-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/andrew-player/ https://web.archive.org/web/20250316140227/https://www.longview.org/about/', NULL, NULL, 'Cause prioritization') /*Last consulted Wayback snapshot is from 2025-03-16*/ /*current position*/
+    ,('Trevor Shorb', 'Longview Philanthropy', 'Director, Business Operations', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/trevor-shorb/ https://web.archive.org/web/20250316140227/https://www.longview.org/about/', NULL, 'Full-time', 'Cause prioritization') /*Last consulted Wayback snapshot is from 2025-03-16*/ /*current position*/
 
 
 
@@ -21,7 +19,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
-    ,('Andrew Player', 'Longview Philanthropy', 'Head of Grants Management & Compliance', '2022-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/andrew-player/ https://web.archive.org/web/20230815165008/https://www.longview.org/about/', NULL, NULL, 'Cause prioritization') /*Reviewed on 2023-08-15*/ /*current position*/
     ,('Andrew Snyder-Beattie', 'Longview Philanthropy', 'Advisor', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116210641/https://www.longview.org/people https://web.archive.org/web/20230815165008/https://www.longview.org/about/', NULL, 'Advisor', 'Cause prioritization') /*Reviewed on 2023-08-16*/ /*current position*/
     ,('Carl Robichaud', 'Longview Philanthropy', 'Advisor', '2021-07-01', 'month', '2022-10-01', 'month', 'https://web.archive.org/web/20210116210641/https://www.longview.org/people https://www.linkedin.com/in/carl-robichaud-1854641/ https://web.archive.org/web/20230815165008/https://www.longview.org/about/', NULL, 'Advisor', 'Cause prioritization')
     ,('Cate Hall', 'Longview Philanthropy', 'Advisor', '2023-03-30', NULL, NULL, NULL, 'https://web.archive.org/web/20230330070546/https://www.longview.org/about/ https://web.archive.org/web/20230330070546/https://www.longview.org/about/', NULL, 'advisor', 'Cause prioritization') /*Reviewed on 2023-08-16*/ /*current position*/
