@@ -55,24 +55,14 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Veronica Jade Kinoshita', 'Center for Security and Emerging Technology', 'Deputy Director of Data Science and Research', '2023-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/veronica-kinoshita/ https://web.archive.org/web/20250319193333/https://cset.georgetown.edu/team/', NULL, 'Full-time', 'AI safety') /*Last reviewed Wayback snapshot is from 2025-03-19*/ /*current position*/
     ,('Sam Bresnick ', 'Center for Security and Emerging Technology', 'Research Fellow', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sam-bresnick-65455913a/ https://web.archive.org/web/20250319193333/https://cset.georgetown.edu/team/', NULL, 'Full-time', 'AI safety') /*Last reviewed Wayback snapshot is from 2025-03-19*/ /*current position*/
     ,('Shelton Fitch', 'Center for Security and Emerging Technology', 'Managing Editor', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shelton-e-fitch-55744b90/ https://web.archive.org/web/20250319193333/https://cset.georgetown.edu/team/', NULL, 'Full-time', 'AI safety') /*Last reviewed Wayback snapshot is from 2025-03-19*/ /*current position*/
+    ,('Sonali Subbu Rathinam', 'Center for Security and Emerging Technology', 'Data Research Analyst', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sonali-subbu-rathinam-74b878229/ https://web.archive.org/web/20250319193333/https://cset.georgetown.edu/team/', NULL, 'Full-time', 'AI safety') /*Last reviewed Wayback snapshot is from 2025-03-19*/ /*current position*/
+    ,('Steph Batalis', 'Center for Security and Emerging Technology', 'Research Fellow', '2022-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/steph-batalis/ https://web.archive.org/web/20250319193333/https://cset.georgetown.edu/team/', NULL, 'Full-time', 'AI safety') /*Last reviewed Wayback snapshot is from 2025-03-19*/ /*current position*/
+    ,('Vikram Venkatram', 'Center for Security and Emerging Technology', 'Research Analyst', '2022-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/vikram-venkatram/ https://web.archive.org/web/20250319193333/https://cset.georgetown.edu/team/', NULL, 'Full-time', 'AI safety') /*Last reviewed Wayback snapshot is from 2025-03-19*/ /*current position*/
+    ,('William Hannas', 'Center for Security and Emerging Technology', 'Lead Analyst', '2019-03-08', NULL, NULL, NULL, 'https://web.archive.org/web/20190308173108/http://cset.georgetown.edu/about-us/ https://web.archive.org/web/20250319193333/https://cset.georgetown.edu/team/', NULL, NULL, 'AI safety') /*Last reviewed Wayback snapshot is from 2025-03-19*/ /*current position*/
+    ,('Zachary Arnold', 'Center for Security and Emerging Technology', 'Project Lead, Emerging Technology Observatory', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/zachary-arnold-61b07a27/ https://web.archive.org/web/20250319193333/https://cset.georgetown.edu/team/', NULL, NULL, 'AI safety') /*Last reviewed Wayback snapshot is from 2025-03-19*/ /*current position*/
 
 
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 
 
@@ -283,7 +273,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Shelton Fitch', 'Center for Security and Emerging Technology', 'Senior External Affairs Specialist', '2022-06-01', 'month', '2023-08-01', 'month', 'https://www.linkedin.com/in/shelton-e-fitch-55744b90/ https://web.archive.org/web/20230905200533/https://cset.georgetown.edu/team/', NULL, 'Full-time', 'AI safety') /*closed*/
     ,('Shuvo Bardhan', 'Center for Security and Emerging Technology', 'Research Assistant', '2021-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shuvo-bardhan-ab268216/', NULL, 'part-time', 'AI safety')
     ,('Simon Godfrey Rodriguez', 'Center for Security and Emerging Technology', 'Data Research Assistant', '2020-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/simon-godfrey-rodriguez-0a7427139/', NULL, NULL, 'AI safety') 
-    ,('Steph Batalis', 'Center for Security and Emerging Technology', 'Research Fellow', '2022-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/steph-batalis/ https://web.archive.org/web/20230905200533/https://cset.georgetown.edu/team/', 'Biotechnology research fellow', 'Full-time', 'AI safety') /*Reviewed on 2023-09-05*/ /*current position*/
     ,('Stephanie O"Sullivan', 'Center for Security and Emerging Technology', 'Alumna', '2022-03-15', 'month', '2022-05-31', 'month', 'https://web.archive.org/web/20220315063309/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety') /*closed*/
     ,('Stephanie O"Sullivan', 'Center for Security and Emerging Technology', 'Distinguished Fellow', '2019-08-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190817114018/http://cset.georgetown.edu/about-us/ https://web.archive.org/web/20220531181118/https://cset.georgetown.edu/team/', NULL, NULL, 'AI safety') /*closed*/
     ,('Sue Gordon', 'Center for Security and Emerging Technology', 'Alumna', '2022-03-15', 'month', '2022-05-31', 'month', 'https://web.archive.org/web/20220315063309/https://cset.georgetown.edu/team/ https://web.archive.org/web/20220531181118/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety') /*closed*/
@@ -302,15 +291,13 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Tim Hwang', 'Center for Security and Emerging Technology', 'Research Fellow', '2019-01-01', 'year', '2022-01-01', 'year', 'https://web.archive.org/web/20200217000031/http://cset.georgetown.edu/about-us/ https://www.linkedin.com/in/timhwang/', NULL, NULL, 'AI safety')/*closed*/
     ,('Tina Huang', 'Center for Security and Emerging Technology', 'Alumna', '2022-03-15', 'month', '2022-05-31', 'month', 'https://web.archive.org/web/20220315063309/https://cset.georgetown.edu/team/ https://web.archive.org/web/20220531181118/https://cset.georgetown.edu/team/', NULL, 'Intern', 'AI safety') /*closed*/
     ,('Tina Huang', 'Center for Security and Emerging Technology', 'Research Analyst', '2019-05-01', 'month', '2021-04-01', 'month', 'https://web.archive.org/web/20190525174847/https://cset.georgetown.edu/about-us/ https://www.linkedin.com/in/tina-huang-1067b86a/', NULL, NULL, 'AI safety')/*closed*/
-    ,('Vikram Venkatram', 'Center for Security and Emerging Technology', 'Research Analyst', '2022-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20230905200533/https://cset.georgetown.edu/team/ https://www.linkedin.com/in/vikram-venkatram/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-09-05*/ /*current position*/
     ,('Walter Haydock', 'Center for Security and Emerging Technology', 'Research Fellow (non-resident)', '2022-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20220315063309/https://cset.georgetown.edu/team/', NULL, 'part-time', 'AI safety')
     ,('Wenchuan Dong', 'Center for Security and Emerging Technology', 'Research Assistant', '2019-09-01', 'month', '2020-04-01', 'month', 'https://www.linkedin.com/in/wenchuan-dong-b8b606192/', NULL, NULL, 'AI safety') /*closed*/
     ,('Will Hunt', 'Center for Security and Emerging Technology', 'Research Analyst', '2020-08-01', 'month', '2022-09-01', 'month', 'https://web.archive.org/web/20190630060238/http://cset.georgetown.edu/about-us/ https://www.linkedin.com/in/willvhunt/', NULL, NULL, 'AI safety') /*closed*/
-    ,('William Hannas', 'Center for Security and Emerging Technology', 'Lead Analyst', '2019-03-08', NULL, NULL, NULL, 'https://web.archive.org/web/20190308173108/http://cset.georgetown.edu/about-us/ https://web.archive.org/web/20230905200533/https://cset.georgetown.edu/team/', NULL, NULL, 'AI safety') /*Reviewed on 2023-09-05*/ /*current position*/ 
     ,('Wyatt Hoffman', 'Center for Security and Emerging Technology', 'Research Fellow', '2020-04-01', 'month', '2023-07-01', 'month', 'https://web.archive.org/web/20200408224252/https://cset.georgetown.edu/about-us/ https://www.linkedin.com/in/wyatt-hoffman-49aa4a53/', NULL, NULL, 'AI safety') /*closed*/
     ,('Yiming Y.', 'Center for Security and Emerging Technology', 'CSET Foretell Ambassador, Artificial Intelligence & Geopolitics', '2020-01-01', 'year', '2020-07-01', 'month', 'https://www.linkedin.com/in/yiming-y-3b5616133/', NULL, 'full-time', 'AI safety')/*closed*/
     ,('Zachary Arnold', 'Center for Security and Emerging Technology', 'Research Fellow', '2019-03-01', 'month', '2022-02-01', 'month', 'https://web.archive.org/web/20190525174847/https://cset.georgetown.edu/about-us/ https://www.linkedin.com/in/zachary-arnold-61b07a27/', NULL, NULL, 'AI safety') /*closed*/
-    ,('Zachary Arnold', 'Center for Security and Emerging Technology', 'Analytic Lead', '2022-03-15', 'month', NULL, NULL, 'https://web.archive.org/web/20220315063309/https://cset.georgetown.edu/team/ https://web.archive.org/web/20230905200533/https://cset.georgetown.edu/team/ https://www.linkedin.com/in/zachary-arnold-61b07a27/', 'Analytic Lead, emerging technology observatory', NULL, 'AI safety') /*Reviewed on 2023-09-05*/ /*current position*/     
+    ,('Zachary Arnold', 'Center for Security and Emerging Technology', 'Analytic Lead', '2022-03-15', 'month', '2025-01-01', 'month', 'https://web.archive.org/web/20220315063309/https://cset.georgetown.edu/team/ https://web.archive.org/web/20230905200533/https://cset.georgetown.edu/team/ https://www.linkedin.com/in/zachary-arnold-61b07a27/', 'Analytic Lead, emerging technology observatory', NULL, 'AI safety') /*closed*/
     ,('Zuleirys Santana-Rodriguez', 'Center for Security and Emerging Technology', 'CSET Foretell Ambassador', '2020-05-01', 'month', '2021-03-01', 'month', 'https://www.linkedin.com/in/zuleiryssantanarodriguez/', NULL, 'intern', 'AI safety') /*closed*/
     ,('Danny Hague', 'Center for Security and Emerging Technology', 'External Affairs Specialist', '2019-08-01', 'month', '2022-07-01', 'month', 'https://www.linkedin.com/in/danny-hague/ https://web.archive.org/web/20250319193333/https://cset.georgetown.edu/team/', NULL, 'Full-time', 'AI safety') /*closed*/
     ,('Kevin Wolf', 'Center for Security and Emerging Technology', 'Senior Fellow', '2022-02-01', 'month', '2025-01-01', 'month', 'https://www.linkedin.com/in/kevin-wolf-7911625/ https://web.archive.org/web/20250319193333/https://cset.georgetown.edu/team/', NULL, 'Part-time', 'AI safety') /*closed*/
