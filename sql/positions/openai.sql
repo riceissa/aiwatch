@@ -26,34 +26,37 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Bowen Baker','OpenAI','Research Scientist','2017-12-01','month',NULL,NULL,'https://bowenbaker.github.io/ https://www.linkedin.com/in/bowen-baker-59b48a65/',NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on LinkedIn on 2025-03-24*/ /*current position*/
     ,('Brad Lightcap','OpenAI','Chief Operating Officer','2022-05-01','month',NULL,NULL,'https://www.linkedin.com/in/bradlightcap/',NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on LinkedIn on 2025-03-24*/ /*current position*/
     ,('Bram Adams','OpenAI','Developer Ambassador','2020-10-01','month', NULL, NULL,'https://www.linkedin.com/in/brammadams/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on LinkedIn on 2025-03-24*/ /*current position*/
+    ,('Brydon Eastman', 'OpenAI', 'Member of Technical Staff', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/brydon-eastman-396719a4/', NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on LinkedIn on 2025-03-24*/ /*current position*/
+    ,('Carroll Wainwright','OpenAI','Member Of Technical Staff','2021-09-01','month', '2024-05-01', 'month','https://www.linkedin.com/in/carroll-wainwright-7690229a/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on LinkedIn on 2025-03-24*/ /*current position*/
+    ,('Chaitra A.','OpenAI','Member of IT Staff','2021-12-01','month', NULL, NULL,'https://www.linkedin.com/in/chaitra-a-1115748/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on LinkedIn on 2025-03-24*/ /*current position*/
+    ,('Che Chang','OpenAI','General Counsel','2021-01-01', 'year', NULL, NULL,'https://www.linkedin.com/in/chechang/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on LinkedIn on 2025-03-24*/ /*current position*/
+    ,('Christine McLeavey Payne','OpenAI','Multimodal Team Manager & Member Of Technical Staff','2020-04-01','month', NULL, NULL,'https://www.linkedin.com/in/mcleavey/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on LinkedIn on 2025-03-24*/ /*current position*/
+    ,('Christopher Berner','OpenAI','Distinguished Engineer','2023-12-01','month',NULL, NULL,'https://blog.openai.com/team-update-january/ https://www.linkedin.com/in/christopherbernerberkeley/',NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on LinkedIn on 2025-03-24*/ /*current position*/
+    ,('Christopher Hesse','OpenAI','Member of Technical Staff','2017-04-01','month',NULL,NULL,'http://archive.today/2018.03.01-230654/https://openai.com/the-international/ https://www.linkedin.com/in/christopher-hesse-861a249/',NULL,NULL,NULL,'Full-time','AI safety') /*Reviewed on LinkedIn on 2025-03-24*/ /*current position*/
+    ,('CJ Minott', 'OpenAI', 'Senior Events Producer, Production Team Lead', '2024-06-01', 'month', NULL,NULL, 'https://www.linkedin.com/in/cjminott/', NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on LinkedIn on 2025-03-24*/ /*current position*/
+    ,('Clemens Winter','OpenAI','Member of Technical Staff','2018-11-01','month',NULL,NULL,'https://www.linkedin.com/in/clemens-winter-569887a9/ https://web.archive.org/web/20190626014809/https://github.com/cswinter',NULL,'AGI organization',NULL,'full-time','AI safety') /*Reviewed on LinkedIn on 2025-03-24*/ /*current position*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
 
- 
-
- 
 
 
 
-
-
-
-
-
-
-
-
-
-    ,('Brydon Eastman', 'OpenAI', 'Member of Technical Staff', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/brydon-eastman-396719a4/', NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on 2023-10-11*/ /*current position*/
-    ,('Carroll Wainwright','OpenAI','Member Of Technical Staff','2021-09-01','month', NULL, NULL,'https://www.linkedin.com/in/carroll-wainwright-7690229a/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-09-21*/ /*current position*/
-    ,('Chaitra A.','OpenAI','Member of IT Staff','2021-12-01','month', NULL, NULL,'https://www.linkedin.com/in/chaitra-a-1115748/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-09-21*/ /*current position*/
-    ,('Che Chang','OpenAI','General Counsel','2021-01-01', 'year', NULL, NULL,'https://www.linkedin.com/in/chechang/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on 2023-09-21*/ /*current position*/
-    ,('Chester Cho','OpenAI','Member of Design Staff','2022-02-01','month', NULL, NULL,'https://www.linkedin.com/in/hyun901126/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-09-21*/ /*current position*/
-    ,('Christine McLeavey Payne','OpenAI','Multimodal Team Manager & Member Of Technical Staff','2020-04-01','month', NULL, NULL,'https://www.linkedin.com/in/mcleavey/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-09-25*/ /*current position*/
-    ,('Christopher Berner','OpenAI','Head of Compute','2017-03-01','year',NULL,NULL,'https://blog.openai.com/team-update-january/ https://www.linkedin.com/in/christopherbernerberkeley/',NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on 2023-09-25*/ /*current position*/
-    ,('Christopher Hesse','OpenAI','Member of Technical Staff','2017-04-01','month',NULL,NULL,'http://archive.today/2018.03.01-230654/https://openai.com/the-international/',NULL,NULL,NULL,'Full-time','AI safety') /*Reviewed on 2023-09-25*/ /*current position*/
-    ,('CJ Minott', 'OpenAI', 'Event Manager', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cjminott/ https://www.signalhire.com/profiles/cj-minott%27s-email/62789293', NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-10-10*/ /*current position*/ 
-    ,('Clemens Winter','OpenAI','Member of Technical Staff','2018-11-01','month',NULL,NULL,'https://www.linkedin.com/in/clemens-winter-569887a9/ https://web.archive.org/web/20190626014809/https://github.com/cswinter',NULL,'AGI organization',NULL,'full-time','AI safety') /*Reviewed on 2023-09-25*/
     ,('Cory Decareaux', 'OpenAI', 'Employee Communications and Events', '2022-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cory-decareaux-8a578415a/', NULL,'AGI organization',NULL,'full-time','AI safety') /*Reviewed on 2023-10-23*/ /*current position*/ 
     ,('Daniel Kappler', 'OpenAI', 'Member of Technical Staff', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/daniel-kappler-a20b337b/', NULL, 'AGI organization', NULL, 'full-time','AI safety') /*Reviewed on 2023-10-18*/ /*current position*/
     /*,('Daniel Levy','OpenAI','Member Of Technical Staff','2022-03-01','month', NULL, NULL,'https://www.linkedin.com/in/daniel-levy-87032a221/',NULL, 'AGI organization',NULL, 'full-time','AI safety')*/
@@ -518,3 +521,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Bob McGrew','OpenAI','Chief Research Officer','2018-08-01','month','2024-11-01','month','https://www.linkedin.com/in/bobmcgrew/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/  
     ,('Bob McGrew','OpenAI','Member Of Technical Staff (Engineer/Researcher)','2017-01-01','month','2018-08-01','month','https://www.linkedin.com/in/bobmcgrew/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/  
     ,('Brooke Chan','OpenAI','Member of Technical Staff','2017-06-01','month','2024-04-01','month','https://blog.openai.com/openai-five/ https://www.linkedin.com/in/brookechan/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/  
+    ,('Chester Cho','OpenAI','Member of Design Staff','2022-02-01','month', '2024-04-01', 'month','https://www.linkedin.com/in/hyun901126/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*closed*/    
+    ,('Christopher Berner','OpenAI','Head of Compute','2017-03-01','year','2023-12-01','month','https://blog.openai.com/team-update-january/ https://www.linkedin.com/in/christopherbernerberkeley/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/    
+    ,('CJ Minott', 'OpenAI', 'Event Manager', '2023-07-01', 'month', '2024-07-01', 'month', 'https://www.linkedin.com/in/cjminott/ https://www.signalhire.com/profiles/cj-minott%27s-email/62789293', NULL, 'AGI organization',NULL, 'full-time','AI safety') /*closed*/    
