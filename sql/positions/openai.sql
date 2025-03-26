@@ -42,7 +42,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('David Medina', 'OpenAI', 'Member of Technical Staff', '2022-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dmed256/', NULL, 'AGI organization', NULL, NULL,'AI safety') /*Reviewed on LinkedIn on 2025-03-24*/ /*current position*/
     ,('David Farhi','OpenAI','Researcher','2018-01-01','month',NULL,NULL,'https://blog.openai.com/openai-five/ https://www.linkedin.com/in/david-farhi-13824175/',NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on LinkedIn on 2025-03-24*/ /*current position*/
     ,('David Hengky', 'OpenAI', 'Strategic Finance Associate', '2022-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/david-hengky-579545110/', NULL,'AGI organization',NULL, 'Full-time', 'AI safety') /*Reviewed on LinkedIn on 2025-03-24*/ /*current position*/
-
+    ,('David Carr', 'OpenAI', 'Member of Technical Staff', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dcarr622/',NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on LinkedIn on 2025-03-24*/ /*current position*/
 
 
 
@@ -62,8 +62,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
-    ,('David Carr', 'OpenAI', 'Member of Technical Staff', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dcarr622/',NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on 2023-10-23*/ /*current position*/
-    ,('Davit Khachatryan','OpenAI','UI Designer','2021-10-01','month', NULL, NULL,'https://www.linkedin.com/in/davit-khachatryan-5995601b7/',NULL, 'AGI organization',NULL, 'contractor','AI safety') /*Reviewed on 2023-09-26*/ /*current position*/
+
+
     ,('Denny Jin','OpenAI','Strategic Finance Lead','2020-08-01', 'month', NULL, NULL,'https://www.linkedin.com/in/dennyjin/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on 2023-09-26*/ /*current position*/
     ,('Diane Yoon','OpenAI','VP of People','2021-01-01','month',NULL,NULL,'https://www.linkedin.com/in/diane-yoon-a0a8911b/',NULL,'AGI organization',NULL,'full-time','AI safety') /*Reviewed on 2023-09-26*/ /*current position*/
     ,('Elena Chatziathanasiadou','OpenAI','Programs','2018-03-01','month',NULL,NULL,'https://www.linkedin.com/in/eleni-chatzia/',NULL,'AGI organization',NULL,'full-time','AI safety') /*Reviewed on 2023-09-26*/ /*current position*/
@@ -522,3 +522,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('CJ Minott', 'OpenAI', 'Event Manager', '2023-07-01', 'month', '2024-07-01', 'month', 'https://www.linkedin.com/in/cjminott/ https://www.signalhire.com/profiles/cj-minott%27s-email/62789293', NULL, 'AGI organization',NULL, 'full-time','AI safety') /*closed*/    
     ,('Cory Decareaux', 'OpenAI', 'Employee Communications and Events', '2022-05-01', 'month', '2024-01-01', 'month', 'https://www.linkedin.com/in/cory-decareaux-8a578415a/', NULL,'AGI organization',NULL,'full-time','AI safety') /*closed*/     
     ,('Dave Willner','OpenAI','Policy Advisor','2023-07-01','month', '2024-09-01', 'month','https://www.linkedin.com/in/davewillner/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*closed*/        
+    ,('Davit Khachatryan','OpenAI','UI Designer','2022-01-01','month', '2022-04-01', 'month','https://www.linkedin.com/in/davit-khachatryan-5995601b7/',NULL, 'AGI organization',NULL, 'contractor','AI safety') /*closed*/    
