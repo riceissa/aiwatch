@@ -1,11 +1,11 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
-     ('Adam D’Angelo','OpenAI','Board','2018-04-24','month',NULL,NULL,'https://twitter.com/adamdangelo/status/988859015315701760?lang=en https://web.archive.org/web/20230919191719/https://www.semafor.com/article/04/19/2023/quora-ceo-adam-dangelo-on-poe-becoming-the-web-browser-for-ai',NULL,NULL,NULL,'board member','AI safety') /*Reviewed on 2023-09-19*/ /*current position*/
-    ,('Adam Goldberg','OpenAI','Member of the GTM Team, ChatGPT Enterprise ','2023-08-01','month', NULL, NULL,'https://www.linkedin.com/in/adam-goldberg-b8569b6/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-09-19*/  /*current position*/
-    ,('Adam Nace','OpenAI','Head of Legal Operations','2022-02-01', 'month', NULL, NULL,'https://www.linkedin.com/in/adam-nace-62a17770/ https://web.archive.org/web/20230919194222/https://news.bloomberglaw.com/business-and-practice/chatgpt-creator-openai-bolsters-legal-ranks-as-issues-grow',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-09-19*/  /*current position*/
-    ,('Adam Perelman', 'OpenAI', 'Engineering', '2022-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adamperelman/', NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-10-20*/  /*current position*/
-    ,('Adam Rhodes','OpenAI','AI Specialist','2022-01-01', 'month', NULL, NULL,'https://www.linkedin.com/in/adambrillrhodes/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-09-20*/  /*current position*/
+     ('Adam D’Angelo','OpenAI','Board','2018-04-24','month',NULL,NULL,'https://twitter.com/adamdangelo/status/988859015315701760?lang=en https://web.archive.org/web/20230919191719/https://www.semafor.com/article/04/19/2023/quora-ceo-adam-dangelo-on-poe-becoming-the-web-browser-for-ai',NULL,NULL,NULL,'board member','AI safety')  /*current position*/
+    ,('Adam Goldberg','OpenAI','Member of the GTM Team, ChatGPT Enterprise ','2023-08-01','month', NULL, NULL,'https://www.linkedin.com/in/adam-goldberg-b8569b6/',NULL, 'AGI organization',NULL, 'full-time','AI safety')  /*current position*/
+    ,('Adam Nace','OpenAI','Head of Legal Operations','2022-02-01', 'month', NULL, NULL,'https://www.linkedin.com/in/adam-nace-62a17770/ https://web.archive.org/web/20230919194222/https://news.bloomberglaw.com/business-and-practice/chatgpt-creator-openai-bolsters-legal-ranks-as-issues-grow',NULL, 'AGI organization',NULL, 'full-time','AI safety')   /*current position*/
+    ,('Adam Perelman', 'OpenAI', 'Engineering', '2022-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adamperelman/', NULL, 'AGI organization',NULL, 'full-time','AI safety')    /*current position*/
+    ,('Adam Rhodes','OpenAI','AI Specialist','2022-01-01', 'month', NULL, NULL,'https://www.linkedin.com/in/adambrillrhodes/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /  /*current position*/
     ,('Adam Smets','OpenAI','Neuropsychologist','2018-01-01','year', NULL, NULL,'https://www.linkedin.com/in/adamsmets/',NULL, 'AGI organization',NULL, NULL,'AI safety')
-    ,('Akila Welihinda', 'OpenAI', 'Supercomputing', '2022-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/awelm/', NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-10-23*/  /*current position*/
+    ,('Akila Welihinda', 'OpenAI', 'Supercomputing', '2022-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/awelm/', NULL, 'AGI organization',NULL, 'full-time','AI safety') /*current position*/
     ,('Alec Radford','OpenAI','Team ++','2016-03-31','year',NULL,NULL,'https://web.archive.org/web/20160507185243/https://openai.com/blog/team-plus-plus/ https://web.archive.org/web/20230928012129/https://openai.com/blog/team-plus-plus',NULL,'AGI organization',NULL,'full-time','AI safety') /*Reviewed on 2023-09-27*/ /*current position*/  
     ,('Alex Nichol','OpenAI','Member of Technical Staff','2020-05-01','month',NULL,NULL,'https://www.linkedin.com/in/alex-nichol-0032486b/',NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on LinkedIn on 2025-03-24*/ /*current position*/
     ,('Alex Paino','OpenAI','Member of Technical Staff, Robotics Team','2019-03-01','month',NULL,NULL,'https://www.linkedin.com/in/atpaino/',NULL,'AGI organization',NULL,'full-time','AI safety') /*Reviewed on LinkedIn on 2025-03-24*/ /*current position*/
@@ -57,11 +57,18 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Fotios Chantzis','OpenAI','Security Engineering','2020-09-01','month', NULL, NULL,'https://www.linkedin.com/in/fotios-fotis-chantzis-1509583a/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on LinkedIn on 2025-03-24*/ /*current position*/
     ,('Francis Z.', 'OpenAI', 'Member of Technical Staff', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/zhangfrancis/', NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on LinkedIn on 2025-03-24*/ /*current position*/
     ,('Giambattista Parascandolo','OpenAI','Research Scientist','2021-01-01','year', NULL, NULL,'https://www.linkedin.com/in/giambattista-parascandolo-216787a4/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on LinkedIn on 2025-03-24*/ /*current position*/
+    ,('Girish Sastry','OpenAI','Researcher (Policy)','2019-08-01','month', '2024-08-01', 'month','https://www.linkedin.com/in/girish-sastry-2a39348/',NULL, 'AGI organization',NULL, NULL,'AI safety')  /*current position*/ 
+    ,('Greg Brockman','OpenAI','Co-Founder and CTO','2015-12-01','month',NULL,NULL,'https://gregbrockman.com/ https://www.technologyreview.com/lists/innovators-under-35/2017/visionary/greg-brockman/ https://blog.gregbrockman.com/define-cto-openai https://www.linkedin.com/in/thegdb/',NULL,'AGI organization',NULL,'board member','AI safety')  /*current position*/ 
+    ,('Gretchen M. Krueger','OpenAI','Policy Research','2019-09-01','month', '2024-05-01', 'month','https://www.linkedin.com/in/gretchen-m-krueger-254a0351/',NULL, 'AGI organization',NULL, 'full-time','AI safety')   /*current position*/ 
+    ,('Hannah Wong','OpenAI','Chief Communications Officer','2024-08-01', 'month', NULL,NULL,'https://www.linkedin.com/in/hannah-wong-66b78612/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*current position*/
+    ,('Henrique Ponde de Oliveira Pinto','OpenAI','Member Of Technical Staff','2018-04-01','month',NULL,NULL,'https://www.linkedin.com/in/henrique-ponde-de-oliveira-pinto-0a2474161/ https://blog.openai.com/openai-five/',NULL,'AGI organization',NULL,'Full-time','AI safety') /*current position*/ 
 
 
 
 
 
+
+ 
 
 
 
@@ -75,17 +82,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
-
-
-
-
  
-    ,('Girish Sastry','OpenAI','Researcher (Policy)','2019-09-01','month', NULL, NULL,'https://www.linkedin.com/in/girish-sastry-2a39348/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on 2023-09-29*/ /*current position*/ 
-    ,('Greg Brockman','OpenAI','Co-Founder and CTO','2015-12-01','month',NULL,NULL,'https://gregbrockman.com/ https://www.technologyreview.com/lists/innovators-under-35/2017/visionary/greg-brockman/ https://blog.gregbrockman.com/define-cto-openai https://www.linkedin.com/in/thegdb/',NULL,'AGI organization',NULL,'board member','AI safety') /*Reviewed on 2023-09-29*/ /*current position*/ 
-    ,('Gretchen M. Krueger','OpenAI','Policy Research','2019-09-01','month', NULL, NULL,'https://www.linkedin.com/in/gretchen-m-krueger-254a0351/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-09-29*/ /*current position*/ 
-    ,('Hannah Wong','OpenAI','VP, Communications','2023-06-01','month', NULL, NULL,'https://www.linkedin.com/in/hannah-wong-66b78612/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-09-29*/ /*current position*/ 
-    ,('Henrique Ponde de Oliveira Pinto','OpenAI','Member Of Technical Staff','2018-04-01','month',NULL,NULL,'https://www.linkedin.com/in/henrique-ponde-de-oliveira-pinto-0a2474161/ https://blog.openai.com/openai-five/',NULL,'AGI organization',NULL,'Full-time','AI safety') /*Reviewed on 2023-09-29*/ /*current position*/ 
-    ,('Hisham Elhaddad', 'OpenAI', 'Investor', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hishamelhaddad/', NULL, 'AGI organization',NULL,NULL,'AI safety') /*Reviewed on 2023-10-20*/ /*current position*/ 
     ,('Hossem Ben Ayed', 'OpenAI', 'Web Developer', '2022-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hossem-ben-ayed-b0902b200/', NULL, 'AGI organization',NULL,'contractor','AI safety') /*Reviewed on 2023-10-23*/ /*current position*/ 
     ,('Ife Riamah','OpenAI','ChatGPT AI Instructor/Labeller ','2019-06-01', 'month', NULL, NULL,'https://www.linkedin.com/in/ife-riamah-bb3bb4104/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on 2023-09-29*/ /*current position*/ 
     ,('Ilan Bigio', 'OpenAI', 'Applied AI Engineer', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ilan-bigio/', NULL,'AGI organization',NULL,'full-time','AI safety') /*Reviewed on 2023-10-23*/ /*current position*/ 
@@ -525,3 +522,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Elie Georges','OpenAI','Public Relations Specialist','2021-08-01', 'month', '2023-02-01', 'month','https://www.linkedin.com/in/eliegeorges/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*closed*/    
     ,('Eric Price','OpenAI','Visiting scientist','2016-05-01','month','2016-07-01','month','https://www.cs.utexas.edu/~ecprice/misc/cv.pdf https://blog.openai.com/team-plus-plus/ https://web.archive.org/web/20171024174215/https://blog.openai.com/team-plus-plus/ https://web.archive.org/web/20230928012129/https://openai.com/blog/team-plus-plus',NULL,'AGI organization',NULL,'intern','AI safety') /*closed*/    
     ,('Gillian Hadfield','OpenAI','Senior Policy Advisor','2018-08-01','month','2023-01-01','year','https://en.wikipedia.org/wiki/Gillian_Hadfield https://futureoflife.org/wp-content/uploads/2019/01/BAGI-bios.pdf https://www.linkedin.com/in/gillian-hadfield-1773987/ https://www.law.utoronto.ca/faculty-staff/full-time-faculty/gillian-hadfield',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/  
+    ,('Hannah Wong','OpenAI','VP, Communications','2023-06-01','month', '2024-08-01', 'month','https://www.linkedin.com/in/hannah-wong-66b78612/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*closed*/     
