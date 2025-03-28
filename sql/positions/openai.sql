@@ -62,6 +62,20 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Gretchen M. Krueger','OpenAI','Policy Research','2019-09-01','month', '2024-05-01', 'month','https://www.linkedin.com/in/gretchen-m-krueger-254a0351/',NULL, 'AGI organization',NULL, 'full-time','AI safety')   /*current position*/ 
     ,('Hannah Wong','OpenAI','Chief Communications Officer','2024-08-01', 'month', NULL,NULL,'https://www.linkedin.com/in/hannah-wong-66b78612/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*current position*/
     ,('Henrique Ponde de Oliveira Pinto','OpenAI','Member Of Technical Staff','2018-04-01','month',NULL,NULL,'https://www.linkedin.com/in/henrique-ponde-de-oliveira-pinto-0a2474161/ https://blog.openai.com/openai-five/',NULL,'AGI organization',NULL,'Full-time','AI safety') /*current position*/ 
+    ,('Hossem Ben Ayed', 'OpenAI', 'Web Developer', '2022-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hossem-ben-ayed-b0902b200/', NULL, 'AGI organization',NULL,'contractor','AI safety')  /*current position*/ 
+    ,('Ife Riamah','OpenAI','ChatGPT AI Instructor/Labeller ','2019-06-01', 'month', NULL, NULL,'https://www.linkedin.com/in/ife-riamah-bb3bb4104/',NULL, 'AGI organization',NULL, NULL,'AI safety')  /*current position*/ 
+    ,('Ilan Bigio', 'OpenAI', 'Applied AI Engineer', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ilan-bigio/', NULL,'AGI organization',NULL,'full-time','AI safety')   /*current position*/ 
+    ,('Ilge Akkaya','OpenAI','Member of Technical Staff, Robotics Team','2019-03-01','month',NULL,NULL,'https://www.linkedin.com/in/ilge-akkaya-311b4631/',NULL,'AGI organization',NULL,'full-time','AI safety')   /*current position*/ 
+    ,('Ilya Sutskever','OpenAI','Co-Founder and Chief Scientist','2018-11-01','month',NULL,NULL,'https://www.linkedin.com/in/ilya-sutskever-45978618/',NULL,NULL,NULL,'board member','AI safety') /*current position*/ 
+    ,('Ingmar Kanitscheider','OpenAI','Research Scientist','2018-08-01','month',NULL,NULL,'https://www.linkedin.com/in/ingmar-kanitscheider-148620127/',NULL,'AGI organization',NULL,NULL,'AI safety') /*current position*/ 
+    ,('Jacob Jackson','OpenAI','Research Scientist','2019-11-01','month','2022-03-01','month','https://www.linkedin.com/in/jacobbfjackson/ https://arxiv.org/abs/1902.02336',NULL,'AGI organization',NULL,'intern','AI safety')  /*current position*/  
+    ,('Jakub Pachocki','OpenAI','Chief Scientist','2024-05-01','month',NULL,NULL,'https://www.linkedin.com/in/jakub-pachocki/details/experience/',NULL,'AGI organization',NULL,'Full-time','AI safety') /*current position*/ 
+
+
+
+
+
+
 
 
 
@@ -70,30 +84,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
  
 
-
-
-
-
-
-
-
- 
-
-
-
-
- 
-    ,('Hossem Ben Ayed', 'OpenAI', 'Web Developer', '2022-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hossem-ben-ayed-b0902b200/', NULL, 'AGI organization',NULL,'contractor','AI safety') /*Reviewed on 2023-10-23*/ /*current position*/ 
-    ,('Ife Riamah','OpenAI','ChatGPT AI Instructor/Labeller ','2019-06-01', 'month', NULL, NULL,'https://www.linkedin.com/in/ife-riamah-bb3bb4104/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on 2023-09-29*/ /*current position*/ 
-    ,('Ilan Bigio', 'OpenAI', 'Applied AI Engineer', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ilan-bigio/', NULL,'AGI organization',NULL,'full-time','AI safety') /*Reviewed on 2023-10-23*/ /*current position*/ 
-    ,('Ilge Akkaya','OpenAI','Member of Technical Staff, Robotics Team','2019-03-01','month',NULL,NULL,'https://www.linkedin.com/in/ilge-akkaya-311b4631/',NULL,'AGI organization',NULL,'full-time','AI safety') /*Reviewed on 2023-09-29*/ /*current position*/ 
-    ,('Ilya Sutskever','OpenAI','Co-Founder and Chief Scientist','2018-11-01','month',NULL,NULL,'https://www.linkedin.com/in/ilya-sutskever-45978618/',NULL,NULL,NULL,'board member','AI safety') /*Reviewed on 2023-09-29*/ /*current position*/ 
-    ,('Ingmar Kanitscheider','OpenAI','Research Scientist','2018-08-01','month',NULL,NULL,'https://www.linkedin.com/in/ingmar-kanitscheider-148620127/',NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on 2023-09-29*/ /*current position*/ 
-    ,('Jacob Jackson','OpenAI','Research Scientist','2019-11-01','month',NULL,NULL,'https://www.linkedin.com/in/jacobbfjackson/ https://arxiv.org/abs/1902.02336',NULL,'AGI organization',NULL,'intern','AI safety') /*Reviewed on 2023-09-29*/ /*current position*/ 
-    ,('Jacquelyn Lau', 'OpenAI', 'Head of Applied Artificial Intelligence Research', '2019-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jacquelyn-lau-391a0b106/', NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on 2023-10-01*/  /*current position*/ 
-    /*,('Jade Leung','OpenAI','Governance and Policy Advisor','2021-02-01','month', NULL, NULL,'https://www.linkedin.com/in/jade-leung-2620bb9a/',NULL, 'AGI organization',NULL, NULL,'AI safety')*/
-    ,('Jakub Pachocki','OpenAI','Research Lead (Science of Deep Learning)','2017-03-01','month',NULL,NULL,'https://www.linkedin.com/in/jakub-pachocki/details/experience/',NULL,'AGI organization',NULL,'Full-time','AI safety') /*Reviewed on 2023-09-29*/ /*current position*/ 
-    ,('Jakub Pachocki','OpenAI','Principal of Research','2021-11-01','month',NULL,NULL,'https://www.linkedin.com/in/jakub-pachocki/details/experience/',NULL,'AGI organization',NULL,'Full-time','AI safety') /*Reviewed on 2023-09-29*/ /*current position*/ 
     ,('Jan Hendrik Kirchner', 'OpenAI', 'Research Engineer', '2022-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jan-hendrik-kirchner-17077393/', NULL, 'AGI organization',NULL,NULL,'AI safety') /*Reviewed on 2023-10-20*/ /*current position*/ 
     ,('Janine Korovesis','OpenAI','VP Finance','2022-02-01','month', NULL, NULL,'https://www.linkedin.com/in/janinekorovesis/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-09-30*/ /*current position*/ 
     ,('Jason Kwon','OpenAI','Chief Strategy Officer','2023-07-01','month', NULL, NULL,'https://www.linkedin.com/in/jason-kwon-212454/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-09-30*/ /*current position*/ 
@@ -523,3 +513,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Eric Price','OpenAI','Visiting scientist','2016-05-01','month','2016-07-01','month','https://www.cs.utexas.edu/~ecprice/misc/cv.pdf https://blog.openai.com/team-plus-plus/ https://web.archive.org/web/20171024174215/https://blog.openai.com/team-plus-plus/ https://web.archive.org/web/20230928012129/https://openai.com/blog/team-plus-plus',NULL,'AGI organization',NULL,'intern','AI safety') /*closed*/    
     ,('Gillian Hadfield','OpenAI','Senior Policy Advisor','2018-08-01','month','2023-01-01','year','https://en.wikipedia.org/wiki/Gillian_Hadfield https://futureoflife.org/wp-content/uploads/2019/01/BAGI-bios.pdf https://www.linkedin.com/in/gillian-hadfield-1773987/ https://www.law.utoronto.ca/faculty-staff/full-time-faculty/gillian-hadfield',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/  
     ,('Hannah Wong','OpenAI','VP, Communications','2023-06-01','month', '2024-08-01', 'month','https://www.linkedin.com/in/hannah-wong-66b78612/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*closed*/     
+    ,('Jakub Pachocki','OpenAI','Research Lead (Science of Deep Learning)','2021-03-01','month','2022-07-01','month','https://www.linkedin.com/in/jakub-pachocki/details/experience/',NULL,'AGI organization',NULL,'Full-time','AI safety') /*closed*/ 
+    ,('Jakub Pachocki','OpenAI','Research Lead (Dota Team)','2017-02-01','month','2019-03-01','month','https://www.linkedin.com/in/jakub-pachocki/details/experience/',NULL,'AGI organization',NULL,'Full-time','AI safety') /*closed*/ 
+    ,('Jakub Pachocki','OpenAI','Principal of Research','2021-11-01','month','2023-10-01','month','https://www.linkedin.com/in/jakub-pachocki/details/experience/',NULL,'AGI organization',NULL,'Full-time','AI safety') /*closed*/ 
+    ,('Jakub Pachocki','OpenAI','Research Lead (Reasoning Team)','2021-03-01','month','2022-07-01','month','https://www.linkedin.com/in/jakub-pachocki/details/experience/',NULL,'AGI organization',NULL,'Full-time','AI safety') /*closed*/ 
+    ,('Jakub Pachocki','OpenAI','Principal of Research','2021-11-01','month','2023-10-01','month','https://www.linkedin.com/in/jakub-pachocki/details/experience/',NULL,'AGI organization',NULL,'Full-time','AI safety') /*closed*/  
+
+ 
+ 
