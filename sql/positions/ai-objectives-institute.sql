@@ -38,6 +38,8 @@
 
 /* ONLY LINKEDIN */
 
+
+
 ,('Nick Fitz', 'AI Objectives Institute', 'Advisor', '2022-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/nick-fitz-nf123/', NULL, NULL, NULL, 'advisor', 'AI safety')
 ,('Ethan Reeder', 'AI Objectives Institute', 'Product Strategy', '2024-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ethan-reeder/', NULL, NULL, NULL, 'part-time', 'AI safety')
 ,('Julia M. Jerome', 'AI Objectives Institute', 'Head of Operations', '2024-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/juliamjerome/', NULL, NULL, NULL, 'full-time', 'AI safety')
@@ -45,7 +47,7 @@
 /* CLOSED */
 
 ,('Colleen McKenzie', 'AI Objectives Institute', 'Director of Strategy', '2023-02-01', 'month', '2024-04-01', 'month', 'https://web.archive.org/web/20240213023950/https://ai.objectives.institute/team https://www.linkedin.com/in/colleenmck/', NULL, NULL, NULL, 'full-time', 'AI safety')
-,('Zoey Tseng', 'AI Objectives Institute', 'Project Manager', '2023-11-01', 'month', '2024-06-01', 'month', 'https://web.archive.org/web/20240512203741/https://ai.objectives.institute/team https://www.linkedin.com/in/zoeytseng0621/ https://web.archive.org/web/20240602184519/https://ai.objectives.institute/team', NULL, NULL, NULL, 'collaborator', 'AI safety')  
+,('Zoey Tseng', 'AI Objectives Institute', 'Project Manager', '2023-11-01', 'month', '2024-06-01', 'month', 'https://web.archive.org/web/20240512203741/https://ai.objectives.institute/team https://www.linkedin.com/in/zoeytseng0621/ https://web.archive.org/web/20240602184519/https://ai.objectives.institute/team', NULL, NULL, NULL, NULL, 'AI safety')  
 ,('Stacey Svetlichnaya', 'AI Objectives Institute', 'AI Ecosystem Engineer', '2024-04-01', 'month', '2024-11-01', 'month', 'https://web.archive.org/web/20210624010427/https://ai.objectives.institute/people https://www.linkedin.com/in/stacey-svetlichnaya-3761552a/ https://web.archive.org/web/20241003203401/https://ai.objectives.institute/team', NULL, NULL, NULL, 'part-time', 'AI safety')
 ,('Peter Eckersley', 'AI Objectives Institute', 'Co-founder', '2021-06-01', 'year', '2023-02-01', NULL, 'https://web.archive.org/web/20210624010427/https://ai.objectives.institute/people https://web.archive.org/web/20230227213901/https://ai.objectives.institute/people', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Rosie Campbell', 'AI Objectives Institute', 'Advisor', '2021-06-01', 'year', '2023-02-01', NULL, 'https://web.archive.org/web/20210624010427/https://ai.objectives.institute/people https://web.archive.org/web/20230227213901/https://ai.objectives.institute/people', NULL, NULL, NULL, 'advisor', 'AI safety')
@@ -64,4 +66,3 @@
 ,('Gaia Dempsey', 'AI Objectives Institute', 'Advisor', '2024-02-01', NULL, '2024-06-01', 'month', 'https://web.archive.org/web/20240213023950/https://ai.objectives.institute/team https://web.archive.org/web/20240602184519/https://ai.objectives.institute/team', NULL, NULL, NULL, 'advisor', 'AI safety')
 ,('Tantum Collins', 'AI Objectives Institute', 'Collaborator', '2024-02-01', NULL, '2024-06-01', 'month', 'https://web.archive.org/web/20240213023950/https://ai.objectives.institute/team https://web.archive.org/web/20240602184519/https://ai.objectives.institute/team', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Jessica Taylor', 'AI Objectives Institute', 'Collaborator', '2024-02-01', NULL, '2024-06-01', 'month', 'https://web.archive.org/web/20240213023950/https://ai.objectives.institute/team https://web.archive.org/web/20240602184519/https://ai.objectives.institute/team', NULL, NULL, NULL, NULL, 'AI safety')
-
