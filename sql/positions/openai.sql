@@ -1,6 +1,4 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
-   
-
     ('Adam D’Angelo','OpenAI','Board','2018-04-24','month',NULL,NULL,'https://twitter.com/adamdangelo/status/988859015315701760?lang=en https://web.archive.org/web/20230919191719/https://www.semafor.com/article/04/19/2023/quora-ceo-adam-dangelo-on-poe-becoming-the-web-browser-for-ai',NULL,NULL,NULL,'board member','AI safety')  /*current position*/
     ,('Adam Goldberg','OpenAI','Member of the GTM Team, ChatGPT Enterprise ','2023-08-01','month', NULL, NULL,'https://www.linkedin.com/in/adam-goldberg-b8569b6/',NULL, 'AGI organization',NULL, 'full-time','AI safety')  /*current position*/
     ,('Adam Nace','OpenAI','Head of Legal Operations','2022-02-01', 'month', NULL, NULL,'https://www.linkedin.com/in/adam-nace-62a17770/ https://web.archive.org/web/20230919194222/https://news.bloomberglaw.com/business-and-practice/chatgpt-creator-openai-bolsters-legal-ranks-as-issues-grow',NULL, 'AGI organization',NULL, 'full-time','AI safety')   /*current position*/
@@ -88,20 +86,15 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jonathan Raiman','OpenAI','Research Scientist','2017-10-01','month',NULL,NULL,'https://blog.openai.com/discovering-types-for-entity-disambiguation/ https://www.linkedin.com/in/jonathan-raiman-36694123/',NULL,'AGI organization',NULL,NULL,'AI safety')  /*current position*/ 
     ,('Jonathan Ward','OpenAI','Member of Design Staff','2017-10-01', 'month', NULL, NULL,'https://www.linkedin.com/in/jonathan-ward-898ba8343/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on 2023-10-01*/ /*current position*/
     ,('Joost Huizinga','OpenAI','Research Scientist','2020-07-01','month', NULL, NULL,'https://www.linkedin.com/in/joost-huizinga-95a65463/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*current position*/
-    ,('Joshua Achiam','OpenAI','Head of Mission Alignment','2024-09-01','month',NULL, NULL,'month','https://www.linkedin.com/in/joshua-achiam-13887199/ http://archive.today/2019.06.24-025009/https://twitter.com/jachiam0?lang=en',NULL,'position',NULL,'Full-time','AI safety') /*current position*/  
-    ,('Julia Galef','OpenAI','Advisor','2018-02-20','day',NULL,NULL,'https://web.archive.org/web/20230314163033/https://openai.com/blog/openai-supporters/',NULL,NULL,NULL,NULL,'AI safety')  /*current position*/  
+    ,('Joshua Achiam','OpenAI','Head of Mission Alignment','2024-09-01','month',NULL,'month','https://www.linkedin.com/in/joshua-achiam-13887199/ http://archive.today/2019.06.24-025009/https://twitter.com/jachiam0?lang=en',NULL,'AGI organization',NULL,'Full-time','AI safety') /*current position*/  
+    ,('Julia Galef','OpenAI','Advisor','2018-02-20','day',NULL,NULL,'https://web.archive.org/web/20230314163033/https://openai.com/blog/openai-supporters/',NULL,'AGI organization',NULL,NULL,'AI safety')  /*current position*/  
     ,('Justin Wang','OpenAI','Member of Design Staff','2019-04-01','month', NULL, NULL,'https://www.linkedin.com/in/justinjaywang/',NULL,'AGI organization',NULL,'full-time','AI safety') /*current position*/  
     ,('Juston Forte','OpenAI','Lead Solutions Architect, Strategics','2021-12-01', 'month', NULL, NULL,'https://www.linkedin.com/in/justonforte/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*current position*/ 
     ,('Karl Cobbe','OpenAI','Research Scientist','2018-12-01','month',NULL,NULL,'https://www.linkedin.com/in/kcobbe/',NULL,'AGI organization',NULL,'intern','AI safety') /*current position*/ 
     ,('Katie Mayer', 'OpenAI', 'Applied AI', '2019-01-01', 'year', '2024-01-01', 'year', 'https://theorg.com/org/openai/org-chart/katie-mayer https://www.signalhire.com/companies/openai/employees?page=11', NULL,'AGI organization',NULL,'Full-time','AI safety') /*current position*/ 
     ,('Kleanthes K.', 'OpenAI', 'Member of Technical Staff', '2023-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kleanthes/', NULL, 'AGI organization',NULL, 'full-time','AI safety') /*current position*/
     ,('Lama Ahmad','OpenAI','Policy Research','2021-10-01','month', NULL, NULL,'https://www.linkedin.com/in/lamaahmad/',NULL, 'AGI organization',NULL, NULL,'AI safety')  /*current position*/
-  
-
-
-
-
-
+    ,('Laura W.', 'OpenAI', 'Strategic Initiatives / Executive Recruiting', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/laura-w-8292683a/', NULL, 'AGI organization',NULL, 'full-time','AI safety')  /*current position*/      
 
 
 
@@ -112,11 +105,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
  
+ 
 
 
 
 
-    ,('Laura W.', 'OpenAI', 'Executive Recruiting', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/laura-w-8292683a/', NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-10-23*/ /*current position*/
+
     ,('Leopold Aschenbrenner', 'OpenAI', 'Superalignment', '2023-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/leopold-aschenbrenner/', NULL, 'AGI organization', subject, NULL, NULL) /*Reviewed on 2023-10-18*/ /*current position*/
     ,('Lilian Weng','OpenAI','Head of Safety Systems','2023-06-01','month', NULL, NULL,'https://www.linkedin.com/in/lilianweng/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-10-02*/ /*current position*/
     ,('Lisa Dethridge','OpenAI','Associate Researcher','2021-06-01','month', NULL, NULL,'https://www.linkedin.com/in/dr-lisa-dethridge-5b97054/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on 2023-10-03*/ /*current position*/ 
