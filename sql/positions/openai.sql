@@ -111,6 +111,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Matthias Plappert','OpenAI','Member of Technical Staff','2017-04-01','month','2021-12-01','month','http://matthiasplappert.com/cv.pdf https://blog.openai.com/better-exploration-with-parameter-noise/ https://www.linkedin.com/in/matthiasplappert/',NULL,'AGI organization',NULL,NULL,'AI safety') /*current position*/
     ,('Michelle Pokrass', 'OpenAI', 'Member of Technical Staff', '2022-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mpokrass/', NULL,'AGI organization',NULL,'full-time','AI safety')  /*current position*/
     ,('Mira Murati','OpenAI','Chief Technology Officer','2022-05-01','month', NULL, NULL,'https://www.linkedin.com/in/mira-murati-4b39a066/',NULL, 'AGI organization',NULL, NULL,'AI safety')  /*current position*/
+    ,('Mo Bavarian','OpenAI','Member Of Technical Staff','2023-08-01','month', NULL, NULL,'https://www.linkedin.com/in/mbavar/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*current position*/
+    ,('Natalie Summers','OpenAI','Chief of Staff — Sora','2024-02-01','month', NULL, NULL,'https://www.linkedin.com/in/nataliediblasio/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*closed*/
+
+
 
 
  
@@ -128,16 +132,17 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
  
-
-
  
 
 
 
 
 
-    ,('Mo Bavarian','OpenAI','Member Of Technical Staff','2023-08-01','month', NULL, NULL,'https://www.linkedin.com/in/mbavar/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-10-04*/ /*current position*/
-    ,('Natalie Summers','OpenAI','Communications','2021-03-01','month', NULL, NULL,'https://www.linkedin.com/in/nataliediblasio/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-10-04*/ /*current position*/
+
+    ,('Natalie Summers','OpenAI','Communications','2021-03-01','month', '2024-02-01', 'month','https://www.linkedin.com/in/nataliediblasio/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*closed*/
+
+
+
     ,('Nicolas Norberto Corizzo', 'OpenAI', 'OpenAI Chat Personal-Trainer', '2021-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/corizzo/', NULL, 'AGI organization', NULL, 'Contractor', 'AI safety') /*Reviewed on 2023-10-18*/ /*current position*/
    /* ,('Nicolas Papernot','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/adversarial-example-research/',NULL,NULL,NULL,NULL,'AI safety')*/
     ,('Nikolas Tezak','OpenAI','Member of Technical Staff','2019-09-01','month', NULL, NULL,'https://www.linkedin.com/in/nikolas-tezak/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on 2023-10-04*/ /*current position*/
