@@ -1,0 +1,5 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+
+,('Andy Shovel', 'A bit weird', 'Founder', '2024-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/andy-shovel-92533414/ https://web.archive.org/web/20250401015551/https://www.abitweird.org/why-we-exist', NULL, 'part-time', 'Animal welfare') /* Reviewed on 2025-03-31 / / Last available Wayback snapshot date is 2025-03-31 */  
+,('Connie Di Gennaro', 'A bit weird', 'Advisor', '2025-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20250401015551/https://www.abitweird.org/why-we-exist', NULL, 'advisor', 'Animal welfare') /* Reviewed on 2025-03-31 / / Last available Wayback snapshot date is 2025-03-31 */  
+,('Jack Rutherford', 'A bit weird', 'Advisor', '2025-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20250401015551/https://www.abitweird.org/why-we-exist', NULL, 'advisor', 'Animal welfare') /* Reviewed on 2025-03-31 / / Last available Wayback snapshot date is 2025-03-31 */  

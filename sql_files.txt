@@ -4,6 +4,7 @@ sql/products.sql
 sql/product_creators.sql
 sql/positions/80000-hours.sql
 sql/positions/abdul-latif-jameel-poverty-action-lab.sql
+sql/positions/a-bit-weird.sql
 sql/positions/ace.sql
 sql/positions/ada-lovelace-institute.sql
 sql/positions/ai-challenge.sql
