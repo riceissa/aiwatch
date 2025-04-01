@@ -125,6 +125,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Peter Hoeschele', 'OpenAI', 'Strategic Finance & Operations', '2019-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/peter-hoeschele/', NULL,'AGI organization',NULL,NULL,'AI safety')  /*current position*/ 
     ,('Peter Welinder','OpenAI','VP of Product: New Product Explorations','2023-08-01','month', NULL,NULL,'https://blog.openai.com/team-update-january/ https://www.linkedin.com/in/welinder/',NULL,'AGI organization',NULL,NULL,'AI safety') /*current position*/ 
     ,('Peter Zhokhov','OpenAI','Member of Technical Staff','2018-04-01','month',NULL,NULL,'https://rocketreach.co/peter-zhokhov-email_57335960 https://www.linkedin.com/in/peter-zhokhov-b68525b3/',NULL,'AGI organization',NULL,'full-time','AI safety') /*current position*/ 
+    ,('Philippe Tillet','OpenAI','Member Of Technical Staff','2020-10-01','month', NULL, NULL,'https://www.linkedin.com/in/philippe-tillet-809b5536/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*current position*/ 
+
+
 
 
 
@@ -141,9 +144,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
  
 
-    ,('Philippe Tillet','OpenAI','Member Of Technical Staff','2020-10-01','month', NULL, NULL,'https://www.linkedin.com/in/philippe-tillet-809b5536/',NULL, 'AGI organization',NULL, 'full-time','AI safety')
-    ,('Phillip Isola','OpenAI','Visiting Research Scientist','2017-09-01','month','2018-07-01','month','https://www.linkedin.com/in/phillip-isola-a9955b20/ https://web.archive.org/web/20180507194405/https://people.eecs.berkeley.edu/~isola/',NULL,'AGI organization',NULL,NULL,'AI safety')
-    ,('Phuong Vu','OpenAI','Recruiter','2020-10-01','month', NULL, NULL,'https://www.linkedin.com/in/phuongvu/',NULL, 'AGI organization',NULL, 'full-time','AI safety')
+
+
+
     ,('Pieter Abbeel','OpenAI','Research Scientist','2016-06-01','month','2017-07-09','day','https://web.archive.org/web/20230921022452/https://www.theinformation.com/articles/openai-is-making-headlines-its-also-seeding-talent-across-silicon-valley https://www.linkedin.com/in/pieterabbeel/details/experience/',NULL,'AGI organization',NULL,'full-time','AI safety') /*Reviewed on 2023-09-20*/  
     ,('Pieter Abbeel','OpenAI','Research Scientist','2016-06-01','month','2017-09-01','month','https://www.linkedin.com/in/pieterabbeel/details/experience/',NULL,NULL,NULL,'Full-time','AI safety') /*Reviewed on 2023-09-20*/  /*current position*/
     ,('Prafulla Dhariwal','OpenAI','Intern','2016-05-01','month','2016-08-01','month','https://www.linkedin.com/in/prafulladhariwal/ https://blog.openai.com/team-update/ https://web.archive.org/web/20171024175425/https://blog.openai.com/team-update/',NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on 2023-10-05*/ 
@@ -519,3 +522,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Peter Welinder','OpenAI','VP of Product: Applied','2020-11-01','month', '2023-08-01', 'month','https://blog.openai.com/team-update-january/ https://www.linkedin.com/in/welinder/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/ 
     ,('Peter Welinder','OpenAI','Research Lead: Robotics','2016-12-01','month', '2020-01-01', 'month','https://blog.openai.com/team-update-january/ https://www.linkedin.com/in/welinder/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/ 
     ,('Peter Welinder','OpenAI','Head of Applied','2020-01-01', 'month', '2020-01-11', 'month','https://www.linkedin.com/in/welinder/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*closed*/      
+    ,('Phillip Isola','OpenAI','Member of Technical Staff','2017-09-01','month','2018-07-01','month','https://www.linkedin.com/in/phillip-isola-a9955b20/ https://web.archive.org/web/20180507194405/https://people.eecs.berkeley.edu/~isola/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/   
+    ,('Phuong Vu','OpenAI','Recruiter','2020-10-01','month', '2023-09-01', 'month','https://www.linkedin.com/in/phuongvu/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*closed*/    
