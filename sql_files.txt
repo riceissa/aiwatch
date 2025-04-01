@@ -154,6 +154,7 @@ sql/positions/talos-network.sql
 sql/positions/the-institute-for-ethical-aI-machine-learning.sql
 sql/positions/the-humane-league.sql
 sql/positions/theiss-research.sql
+sql/positions/the-mission-motor.sql
 sql/positions/thinking-machines.sql
 sql/positions/tlon.sql
 sql/positions/training-for-good.sql
