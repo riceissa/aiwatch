@@ -123,11 +123,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Peter Chen','OpenAI','Intern','2016-05-07','month','2017-08-01','month','https://blog.openai.com/team-plus-plus/ https://web.archive.org/web/20160507185243/https://openai.com/blog/team-plus-plus/ https://web.archive.org/web/20230928012129/https://openai.com/blog/team-plus-plus',NULL,'AGI organization',NULL,'intern','AI safety')  /*current position*/
     ,('Peter Hoeschele', 'OpenAI', 'VP Strategy and Operations - Infra', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/peter-hoeschele/', NULL,'AGI organization',NULL,NULL,'AI safety')  /*current position*/   
     ,('Peter Hoeschele', 'OpenAI', 'Strategic Finance & Operations', '2019-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/peter-hoeschele/', NULL,'AGI organization',NULL,NULL,'AI safety')  /*current position*/ 
-
-
-
-
-    
+    ,('Peter Welinder','OpenAI','VP of Product: New Product Explorations','2023-08-01','month', NULL,NULL,'https://blog.openai.com/team-update-january/ https://www.linkedin.com/in/welinder/',NULL,'AGI organization',NULL,NULL,'AI safety') /*current position*/ 
+    ,('Peter Zhokhov','OpenAI','Member of Technical Staff','2018-04-01','month',NULL,NULL,'https://rocketreach.co/peter-zhokhov-email_57335960 https://www.linkedin.com/in/peter-zhokhov-b68525b3/',NULL,'AGI organization',NULL,'full-time','AI safety') /*current position*/ 
 
 
 
@@ -140,9 +137,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
  
 
-  
-    ,('Peter Welinder','OpenAI','VP of Product','2020-01-01', 'year', NULL, NULL,'https://www.linkedin.com/in/welinder/',NULL, 'AGI organization',NULL, NULL,'AI safety')/*Reviewed on 2023-10-04*//*current position*/   
-    ,('Peter Zhokhov','OpenAI','Member of Technical Staff','2018-04-01','month',NULL,NULL,'https://rocketreach.co/peter-zhokhov-email_57335960 https://www.linkedin.com/in/peter-zhokhov-b68525b3/',NULL,'AGI organization',NULL,'full-time','AI safety')
+
+
+ 
+
     ,('Philippe Tillet','OpenAI','Member Of Technical Staff','2020-10-01','month', NULL, NULL,'https://www.linkedin.com/in/philippe-tillet-809b5536/',NULL, 'AGI organization',NULL, 'full-time','AI safety')
     ,('Phillip Isola','OpenAI','Visiting Research Scientist','2017-09-01','month','2018-07-01','month','https://www.linkedin.com/in/phillip-isola-a9955b20/ https://web.archive.org/web/20180507194405/https://people.eecs.berkeley.edu/~isola/',NULL,'AGI organization',NULL,NULL,'AI safety')
     ,('Phuong Vu','OpenAI','Recruiter','2020-10-01','month', NULL, NULL,'https://www.linkedin.com/in/phuongvu/',NULL, 'AGI organization',NULL, 'full-time','AI safety')
@@ -243,7 +241,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Yasuyoshi Sakamoto', 'OpenAI', 'Member of IT Staff', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/yasuyoshi-sakamoto/', NULL, 'AGI organization',NULL, 'full-time','AI safety')  /*Reviewed on 2023-10-23*/ /*current position*/
     ,('Yuri Burda','OpenAI',NULL,'2016-03-31','year',NULL,NULL,'https://blog.openai.com/team-plus-plus/ https://web.archive.org/web/20171024174215/https://blog.openai.com/team-plus-plus/ https://web.archive.org/web/20230928012129/https://openai.com/blog/team-plus-plus',NULL,'AGI organization',NULL,'full-time','AI safety') /*Reviewed on 2023-09-27*/ /*current position*/
     ,('Zack Kass','OpenAI','Head of GTM','2021-01-01', 'year', NULL, NULL,'https://www.linkedin.com/in/zackkass/',NULL, 'AGI organization',NULL, NULL,'AI safety')
-    ,('Zarina Stanik','OpenAI','Enterprise Marketing','2021-12-01','month', NULL, NULL,'https://www.linkedin.com/in/zarina-stanik-41818b24/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-10-10*/         
+       
     ,('Zico Kolter', 'OpenAI', 'Board of Directors', '2024-08-01', 'month', NULL, NULL, 'https://openai.com/index/zico-kolter-joins-openais-board-of-directors/', NULL,'AGI organization',NULL,'board member','AI safety') /*Reviewed on 2024-09-20*/ /*current position*/
     ,('Lucy Qin', 'OpenAI', 'AI Platform Product Manager', '2018-01-01', 'month', NULL, NULL, 'https://www.signalhire.com/profiles/jason-weatherford%27s-email/90131317', NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on 2023-10-11*/ /*current position*/ 
         
@@ -387,8 +385,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jack Clark','OpenAI','Policy Director','2018-10-01','month','2020-12-01','month','https://www.linkedin.com/in/jack-clark-5a320317/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/ 
     ,('Jacob Hilton','OpenAI','OpenAI Fellow','2018-10-01','month','2019-04-01','month','https://openai.com/blog/openai-fellows-fall-2018/','Reinforcement learning team','AGI organization',NULL,NULL,'AI safety')/*closed*/ 
     ,('Jacob Jackson','OpenAI','Intern','2018-09-01','month','2018-12-01','month','https://www.linkedin.com/in/jacobbfjackson/ https://arxiv.org/abs/1902.02336',NULL,'AGI organization',NULL,'intern','AI safety') /*closed*/    
-    ,('Peter Welinder','OpenAI','Research lead','2017-01-01','month', '2020-01-01', 'year','https://blog.openai.com/team-update-january/ https://www.linkedin.com/in/welinder/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/ 
-    ,('Peter Welinder','OpenAI','Product, Engineering & Research Lead','2020-01-01', 'year', '2020-01-01', 'year','https://www.linkedin.com/in/welinder/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*closed*/  
     ,('Jan Leike', 'OpenAI', 'Executive', '2021-01-01', 'year', '2024-05-16', 'day', 'https://web.archive.org/web/20240519023447/https://time.com/collection/time100-ai/6310616/jan-leike/ https://www.ndtv.com/world-news/jan-leike-openai-executive-jan-leike-resigns-cites-safety-concerns-sam-altman-responds-5719798', 'head of alignment, superalignment lead, and executive', NULL, NULL, NULL, 'AI safety') /*closed*/ 
     ,('Janet Brown','OpenAI','OpenAI Scholar','2019-02-01','month','2019-05-01','month','https://openai.com/blog/openai-scholars-class-of-19/ https://openai.com/blog/openai-scholars-spring-2019-final-projects/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
     ,('Janine Korovesis','OpenAI','Controller','2018-11-01','month', '2022-02-01', 'month','https://www.linkedin.com/in/janinekorovesis/',NULL,'AGI organization',NULL,'full-time','AI safety') /*closed*/
@@ -520,3 +516,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Miles Brundage','OpenAI','Head of Policy Research','2021-01-01','month', '2024-08-01', 'month','https://www.linkedin.com/in/miles-brundage-49b62a4/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*closed*/  
     ,('Miles Brundage','OpenAI','Senior Advisor for AGI Readiness','2024-08-01','month', '2024-10-01', 'month','https://www.linkedin.com/in/miles-brundage-49b62a4/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*closed*/   
     ,('Natalie Summers','OpenAI','Communications','2021-03-01','month', '2024-02-01', 'month','https://www.linkedin.com/in/nataliediblasio/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*closed*/    
+    ,('Peter Welinder','OpenAI','VP of Product: Applied','2020-11-01','month', '2023-08-01', 'month','https://blog.openai.com/team-update-january/ https://www.linkedin.com/in/welinder/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/ 
+    ,('Peter Welinder','OpenAI','Research Lead: Robotics','2016-12-01','month', '2020-01-01', 'month','https://blog.openai.com/team-update-january/ https://www.linkedin.com/in/welinder/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/ 
+    ,('Peter Welinder','OpenAI','Head of Applied','2020-01-01', 'month', '2020-01-11', 'month','https://www.linkedin.com/in/welinder/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*closed*/      
