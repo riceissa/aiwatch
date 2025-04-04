@@ -134,54 +134,33 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Rajeev Nayak','OpenAI','Software Engineer','2021-10-01','month', NULL, NULL,'https://www.linkedin.com/in/rajeevnayak/',NULL, 'AGI organization',NULL, NULL,'AI safety')  /*current position*/
     ,('Raul Puri','OpenAI','Member of Technical Staff','2020-07-01', 'month', NULL, NULL,'https://www.linkedin.com/in/raul-puri-3a0b43a0/',NULL, 'AGI organization',NULL, NULL,'AI safety')  /*current position*/
     ,('Red A.','OpenAI','Talent Partner','2020-06-01','month', NULL, NULL,'https://www.linkedin.com/in/rojoavila/',NULL, 'AGI organization',NULL, 'full-time','AI safety')  /*current position*/
-
-         
-
-
- 
-
-
-
- 
-
-
-
-
-
-
-
-    /*,('Przemysław Dębiak','OpenAI',NULL,NULL,NULL,NULL,NULL,'http://archive.today/2018.03.01-230654/https://openai.com/the-international/',NULL,NULL,NULL,NULL,'AI safety')*/
-
- 
- 
-
- 
-
-
-
-
-
-
-    ,('Rein Houthooft','OpenAI','Research Scientist','2017-07-01','month','2018-05-01','month','https://www.linkedin.com/in/reinhouthooft/ https://blog.openai.com/team-update-january/',NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on 2023-09-27*/
-    ,('Remco Zwetsloot','OpenAI','Policy Analyst','2018-01-01','year','2018-12-31','year','https://www.linkedin.com/in/remco-zwetsloot-90994142/',NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on 2023-10-06*/
-    ,('Rewon Child','OpenAI','Research','2018-03-01','month','2020-12-01','month','https://www.linkedin.com/in/rewonchild/',NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on 2023-10-06*/
-    ,('Richard Chen','OpenAI','Research Scientist','2017-01-01','month','2018-04-01','month','https://blog.openai.com/learning-to-model-other-minds/ https://blog.openai.com/better-exploration-with-parameter-noise/ https://www.linkedin.com/in/richard-chen-6b11b720/',NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on 2023-10-06*/
-    ,('Richard Dunn', 'OpenAI', 'Machine Learning Engineer', '2019-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/richard-dunn-229a6b162/', NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on 2023-10-11*/ /*current position*/
-    ,('Richard Ngo','OpenAI','Research Scientist','2021-09-01','month', NULL, NULL,'https://www.linkedin.com/in/richard-ngo-9056b473/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on 2023-10-06*/ /*current position*/
-    ,('Rob Mallery','OpenAI','Member of Talent Staff','2021-11-01', 'month', '2023-03-01', 'month','https://www.linkedin.com/in/mallery/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-10-06*/
-    /*,('Robert B. Brodsky','OpenAI','Compiler Developer','2020-06-01','month', NULL, NULL,'https://www.linkedin.com/in/robert-b-brodsky-69b70325/',NULL, 'AGI organization',NULL, 'contractor','AI safety')*/
-    ,('Rocky Duan','OpenAI','Research Scientist Intern','2016-02-01','month','2016-08-01','month','https://blog.openai.com/team-plus-plus/ https://web.archive.org/web/20171024174215/https://blog.openai.com/team-plus-plus/ https://www.linkedin.com/in/rocky-duan-1a82662a/',NULL,'AGI organization',NULL,'intern','AI safety')
-    ,('Rocky Duan','OpenAI','Research Scientist','2016-08-01','month','2017-08-01','month','https://blog.openai.com/team-update-january/ https://www.linkedin.com/in/rocky-duan-1a82662a/',NULL,'AGI organization',NULL,'full-time','AI safety')
-    ,('Roger Xu Jiang','OpenAI','Member Of Technical Staff','2019-10-01', 'month', '2023-06-01', 'month','https://www.linkedin.com/in/roger-jiang-7b34682a/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on 2023-10-09*/
-    ,('Rosie Campbell','OpenAI','Technical Program Manager','2021-06-01','month', NULL, NULL,'https://www.linkedin.com/in/rosiecampbell/',NULL, 'AGI organization',NULL, 'full-time','AI safety')  /*Reviewed on 2023-10-09*/
-    ,('Ryan Carey','OpenAI','Research Engineering Intern','2018-02-01','month','2018-03-01','month','https://www.linkedin.com/in/careyryan/',NULL,'AGI organization',NULL,'intern','AI safety') /*Reviewed on 2023-10-09*/
-    ,('Ryan Lowe','OpenAI','Research Intern','2017-02-01','month','2018-08-01','month','https://blog.openai.com/learning-to-cooperate-compete-and-communicate/ https://blog.openai.com/learning-to-communicate/ https://www.linkedin.com/in/ryan-lowe-ab67a267/',NULL,NULL,NULL,'intern','AI safety')
-    ,('Ryan Lowe','OpenAI','Member Of Technical Staff','2019-11-01','month',NULL,NULL,'https://www.linkedin.com/in/ryan-lowe-ab67a267/',NULL,NULL,NULL,'intern','AI safety') /*Reviewed on 2023-10-09*/
-    ,('Ryan Peterson','OpenAI','Partner','2022-01-01','month', NULL, NULL,'https://www.linkedin.com/in/ryanpeterson41/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on 2023-10-09*/ /*current position*/
-    ,('Ryan Peterson','OpenAI','Executive Recruiting Lead','2023-01-01','month', NULL, NULL,'https://www.linkedin.com/in/ryanpeterson41/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on 2023-10-09*/ /*current position*/
-    ,('Sadhika Malladi','OpenAI','Research Scientist','2018-05-01','month','2018-10-01','month','https://www.linkedin.com/in/sadhikamalladi/',NULL,'AGI organization',NULL,NULL,'AI safety') /*Reviewed on 2023-10-09*/
-    ,('Sam Altman', 'OpenAI', 'Co-Founder', '2015-12-11', 'month', NULL, NULL, 'https://en.wikipedia.org/wiki/OpenAI', NULL, NULL, NULL, 'board member', 'AI safety') /*Reviewed on 2023-10-09*/
+    ,('Ryan Lowe','OpenAI','Member Of Technical Staff','2019-11-01','month',NULL,NULL,'https://www.linkedin.com/in/ryan-lowe-ab67a267/',NULL,NULL,NULL,'intern','AI safety') /*current position*/
+    ,('Ryan Peterson','OpenAI','Strategic Initiatives','2024-01-01','month', NULL, NULL,'https://www.linkedin.com/in/ryanpeterson41/',NULL, 'AGI organization',NULL, NULL,'AI safety')  /*current position*/
+    ,('Sam Altman', 'OpenAI', 'Co-Founder', '2015-12-11', 'month', NULL, NULL, 'https://en.wikipedia.org/wiki/OpenAI', NULL, NULL, NULL, 'board member', 'AI safety') /*current position*/  
     ,('Sam Altman', 'OpenAI', 'Chief Executive Officer', '2023-11-29', 'month', NULL, NULL, 'https://openai.com/index/sam-altman-returns-as-ceo-openai-has-a-new-initial-board/ https://en.wikipedia.org/wiki/OpenAI', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-09-20*/ /*current position*/
+ 
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
     ,('Sam McCandlish','OpenAI','OpenAI Fellow','2018-05-01','month','2020-12-01','month','https://openai.com/blog/openai-summer-fellows-2018/ https://www.linkedin.com/in/sam-mccandlish',NULL,'AGI organization',NULL,'intern','AI safety') /*Reviewed on 2023-10-09*/
     /*,('Sandy Huang','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/adversarial-example-research/',NULL,NULL,NULL,NULL,'AI safety')*/
     ,('Sarah Shoker','OpenAI','Research Scientist','2021-09-01','month', NULL, NULL,'https://www.linkedin.com/in/sarahshoker/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-10-09*/
@@ -528,3 +507,21 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Rafał Józefowicz','OpenAI','Researcher','2016-06-01','month','2018-06-01','month','https://blog.openai.com/team-update/ https://web.archive.org/web/20171024175425/https://blog.openai.com/team-update/ https://www.linkedin.com/in/rafaljozefowicz/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/    
     ,('Reid Hoffman','OpenAI','Board','2015-12-11','month','2023-03-01','month','https://web.archive.org/web/20190625230941/https://openai.com/about/ https://www.reuters.com/technology/openais-long-time-backer-reid-hoffman-leaves-board-2023-03-03/ https://www.cnbc.com/2023/03/03/reid-hoffman-steps-down-from-openai-board-to-avoid-potential-conflicts.html',NULL,NULL,NULL,'board member','AI safety')  /*closed*/    
     ,('Rein Houthooft','OpenAI','Research Scientist','2017-03-01','month','2018-04-01','month','https://blog.openai.com/team-plus-plus/ https://web.archive.org/web/20171024174215/https://blog.openai.com/team-plus-plus/ https://www.linkedin.com/in/reinhouthooft/',NULL,'AGI organization',NULL,'intern','AI safety') /*closed*/        
+    ,('Rein Houthooft','OpenAI','Research Scientist','2017-07-01','month','2018-05-01','month','https://www.linkedin.com/in/reinhouthooft/ https://blog.openai.com/team-update-january/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
+    ,('Remco Zwetsloot','OpenAI','Policy Analyst','2018-01-01','year','2018-12-31','year','https://www.linkedin.com/in/remco-zwetsloot-90994142/',NULL,'AGI organization',NULL,NULL,'AI safety')/*closed*/
+    ,('Rewon Child','OpenAI','Research','2018-03-01','month','2020-12-01','month','https://www.linkedin.com/in/rewonchild/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/    
+    ,('Richard Chen','OpenAI','Research Scientist','2017-01-01','month','2018-04-01','month','https://blog.openai.com/learning-to-model-other-minds/ https://blog.openai.com/better-exploration-with-parameter-noise/ https://www.linkedin.com/in/richard-chen-6b11b720/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/  
+    ,('Rob Mallery','OpenAI','Member of Talent Staff','2021-11-01', 'month', '2023-03-01', 'month','https://www.linkedin.com/in/mallery/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*closed*/   
+    ,('Rocky Duan','OpenAI','Research Scientist Intern','2016-02-01','month','2016-08-01','month','https://blog.openai.com/team-plus-plus/ https://web.archive.org/web/20171024174215/https://blog.openai.com/team-plus-plus/ https://www.linkedin.com/in/rocky-duan-1a82662a/',NULL,'AGI organization',NULL,'intern','AI safety')/*closed*/  
+    ,('Rocky Duan','OpenAI','Research Scientist','2016-08-01','month','2017-08-01','month','https://blog.openai.com/team-update-january/ https://www.linkedin.com/in/rocky-duan-1a82662a/',NULL,'AGI organization',NULL,'full-time','AI safety')/*closed*/  
+    ,('Roger Xu Jiang','OpenAI','Member Of Technical Staff','2019-10-01', 'month', '2023-06-01', 'month','https://www.linkedin.com/in/roger-jiang-7b34682a/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*closed*/   
+    ,('Richard Ngo','OpenAI','Research Scientist','2021-09-01','month', '2024-11-01', 'month','https://www.linkedin.com/in/richard-ngo-9056b473/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*closed*/   
+    ,('Rosie Campbell','OpenAI','Policy Frontiers Team Lead','2024-04-01', 'month', '2024-11-01', 'month','https://www.linkedin.com/in/rosiecampbell/',NULL, 'AGI organization',NULL, 'full-time','AI safety')  /*closed*/
+    ,('Rosie Campbell','OpenAI','Policy Research','2023-04-01','month', '2024-04-01', 'month','https://www.linkedin.com/in/rosiecampbell/',NULL, 'AGI organization',NULL, 'full-time','AI safety')  /*closed*/
+    ,('Rosie Campbell','OpenAI','Trust & Safety','2021-06-01','month', '2023-04-01', 'month','https://www.linkedin.com/in/rosiecampbell/',NULL, 'AGI organization',NULL, 'full-time','AI safety')  /*closed*/    
+    ,('Sadhika Malladi','OpenAI','Research Scientist','2018-05-01','month','2018-10-01','month','https://www.linkedin.com/in/sadhikamalladi/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/
+    ,('Ryan Carey','OpenAI','Research Engineering Intern','2018-02-01','month','2018-03-01','month','https://www.linkedin.com/in/careyryan/',NULL,'AGI organization',NULL,'intern','AI safety') /*closed*/
+    ,('Ryan Lowe','OpenAI','Research Intern','2017-02-01','month','2018-08-01','month','https://blog.openai.com/learning-to-cooperate-compete-and-communicate/ https://blog.openai.com/learning-to-communicate/ https://www.linkedin.com/in/ryan-lowe-ab67a267/',NULL,NULL,NULL,'intern','AI safety') /*closed*/    
+    ,('Ryan Peterson','OpenAI','Talent Partner','2022-01-01','month', '2023-01-01', 'month','https://www.linkedin.com/in/ryanpeterson41/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*closed*/
+    ,('Ryan Peterson','OpenAI','Executive Recruiting Lead','2023-01-01','month', '2024-11-01', 'month','https://www.linkedin.com/in/ryanpeterson41/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*closed*/    
+    ,('Sam Altman', 'OpenAI', 'Chief Executive Officer', '2019-03-09', 'month', '2023-11-17', 'day', 'https://openai.com/index/  https://en.wikipedia.org/wiki/OpenAI', 'Altman was ousted and reinstated few days later', NULL, NULL, NULL, 'AI safety') /*closed*/      
