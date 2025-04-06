@@ -142,6 +142,22 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Stefanie Biaggi','OpenAI','Recruiting Operations Program Manager','2025-02-01', 'month', NULL, NULL,'https://www.linkedin.com/in/stefanie-biaggi/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*current position*/
     ,('Stewart Hall', 'OpenAI', 'Member of Technical Staff', '2023-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/stewart-hall-69023620/', NULL, 'AGI organization',NULL, 'full-time','AI safety') /*current position*/
     ,('Szymon Sidor','OpenAI','Technical Fellow','2024-08-01','month',NULL, NULL,'https://www.linkedin.com/in/szymon-sidor-98164044/',NULL,'AGI organization',NULL,'Full-time','AI safety') /*current position*/
+    ,('Tabarak Khan','OpenAI','Alliances | Strategic Partnerships','2021-03-01','month', NULL, NULL,'https://www.linkedin.com/in/tabarak/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*current position*/
+    ,('Tao Xu','OpenAI','Member Of Technical Staff','2019-09-01', 'month', NULL, NULL,'https://www.linkedin.com/in/taoxu/',NULL, 'AGI organization',NULL, NULL,'AI safety')  /*current position*/ 
+    ,('Helen Toner','OpenAI','Board Member','2021-12-01', 'month', '2023-11-22', NULL,'https://en.wikipedia.org/wiki/Helen_Toner#OpenAI https://en.wikipedia.org/wiki/Helen_Toner#OpenAI',NULL, 'AGI organization',NULL, 'board member','AI safety')  /*closed*/ 
+    ,('Tatiana Zolotova','OpenAI','Immigration and Global Mobility Lead','2024-01-01','month', NULL, NULL,'https://www.linkedin.com/in/tatiana-zolotova/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*current position*/ 
+    ,('Tarun Gogineni', 'OpenAI', 'Member of Technical Staff', '2022-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tarun-gogineni-488551b4/', NULL, 'AGI organization', NULL, 'Full-time', 'AI safety')  /*current position*/ 
+    ,('Theresa Lopez','OpenAI','Executive Assistant to CEO','2020-09-01','month', NULL, NULL,'https://www.linkedin.com/in/theresamlopez/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*current position*/ 
+    ,('Thomas Dimson', 'OpenAI', 'Member of Technical Staff', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/thomasdimson/', NULL, 'AGI organization', NULL, 'full-time', 'AI safety') /*current position*/ 
+    ,('Tianhao Zheng', 'OpenAI', 'Member of Technical Staff', '2022-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/thzheng512/', NULL, 'AGI organization', NULL, 'full-time', 'AI safety')  /*current position*/ 
+
+
+
+
+
+
+
+
 
 
  
@@ -156,18 +172,13 @@ insert into positions(person, organization, title, start_date, start_date_precis
  
 
 
- 
- 
+  
 
-    ,('Tabarak Khan','OpenAI','Alliances | Strategic Partnerships','2021-03-01','month', NULL, NULL,'https://www.linkedin.com/in/tabarak/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on 2023-10-10*/ /*current position*/ 
-    /*,('Tamim Asfour','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/better-exploration-with-parameter-noise/',NULL,NULL,NULL,NULL,'AI safety')*/
-    ,('Tao Xu','OpenAI','Member Of Technical Staff','2019-09-01', 'month', NULL, NULL,'https://www.linkedin.com/in/taoxu/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on 2023-10-10*/ /*current position*/ 
-    ,('Tasha McCauley','OpenAI','Member Board Of Directors','2018-01-01','year',NULL,NULL,'https://www.linkedin.com/in/tasha-mccauley-25475a54/ https://web.archive.org/web/20190625230941/https://openai.com/about/',NULL,NULL,NULL,'board member','AI safety') /*Reviewed on 2023-10-10*/ /*current position*/ 
-    ,('Tatiana Zolotova','OpenAI','Member of HR Staff','2022-01-01','month', NULL, NULL,'https://www.linkedin.com/in/tatiana-zolotova/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*Reviewed on 2023-10-10*/ /*current position*/ 
-    ,('Tarun Gogineni', 'OpenAI', 'Member of Technical Staff', '2020-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tarun-gogineni-488551b4/', NULL, 'AGI organization', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-10-10*/ /*current position*/ 
-    ,('Theresa Lopez','OpenAI','Executive Assistant to CEO','2020-09-01','month', NULL, NULL,'https://www.linkedin.com/in/theresamlopez/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-10-10*/ /*current position*/ 
-    ,('Thomas Dimson', 'OpenAI', 'Member of Technical Staff', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/thomasdimson/', NULL, 'AGI organization', NULL, 'full-time', 'AI safety') /*Reviewed on 2023-10-18*/ /*current position*/ 
-    ,('Tianhao Zheng', 'OpenAI', 'Member of Technical Staff', '2022-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/thzheng512/', NULL, 'AGI organization', NULL, 'full-time', 'AI safety') /*Reviewed on 2023-10-23*/ /*current position*/ 
+
+
+
+
+
     ,('Tiffany C.', 'OpenAI', 'Member of Technical Staff', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tiffanycitra/', NULL, 'AGI organization', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-10-18*/ /*current position*/ 
     ,('Tina Miranda', 'OpenAI', 'Administrative Assistant', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tina-miranda-2b4377222/', NULL, 'AGI organization', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-10-18*/ /*current position*/ 
     ,('Todor Markov','OpenAI','Member of Technical Staff, Safety Systems team','2023-05-01', 'month', NULL, NULL,'https://www.linkedin.com/in/todor-markov-4aa38a67/',NULL, 'AGI organization',NULL, 'full-time','AI safety') /*Reviewed on 2023-10-10*/
@@ -516,3 +527,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Steven Bills','OpenAI','Member Of Technical Staff','2022-03-01','month', '2024-07-01', 'month','https://www.linkedin.com/in/steven-bills/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*closed*/  
     ,('Suchir Balaji','OpenAI','Member Of Technical Staff','2020-11-01','month', '2024-08-01', 'month','https://www.linkedin.com/in/suchirbalaji/',NULL, 'AGI organization',NULL, 'full-time','AI safety')/*closed*/  
     ,('Szymon Sidor','OpenAI','Member Of Technical Staff','2019-03-01','month','2024-08-01','month','https://www.linkedin.com/in/szymon-sidor-98164044/',NULL,'AGI organization',NULL,NULL,'AI safety') /*closed*/     
+    ,('Tasha McCauley','OpenAI','Member Board Of Directors','2018-01-01','year','2023-11-22','year','https://www.linkedin.com/in/tasha-mccauley-25475a54/ https://web.archive.org/web/20190625230941/https://openai.com/about/ https://www.businessinsider.com/openai-criticized-for-lack-of-diversity-on-board-2023-11',NULL,NULL,NULL,'board member','AI safety') /*closed*/     
+    ,('Tatiana Zolotova','OpenAI','Member of HR Staff','2022-01-01','month', '2024-01-01', 'month','https://www.linkedin.com/in/tatiana-zolotova/',NULL, 'AGI organization',NULL, NULL,'AI safety') /*closed*/     
