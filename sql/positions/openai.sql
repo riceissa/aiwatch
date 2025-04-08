@@ -167,11 +167,19 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Zico Kolter', 'OpenAI', 'Board of Directors', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/zico-kolter-560382a4/ https://openai.com/index/zico-kolter-joins-openais-board-of-directors/', NULL,'AGI organization',NULL,'board member','AI safety')   /*current position*/
     ,('Lucy Qin', 'OpenAI', 'AI Platform Product Manager', '2018-01-01', 'month', NULL, NULL, 'https://www.signalhire.com/profiles/jason-weatherford%27s-email/90131317', NULL,'AGI organization',NULL,NULL,'AI safety')  /*current position*/ 
     ,('Naomi Bashkansky', 'OpenAI', 'Member of Technical Staff (Resident)', '2018-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/naomibas/', NULL,'AGI organization',NULL,'Full-time','AI safety')  /*current position*/ 
+    ,('Meghan Dorn', 'OpenAI', 'Congressional Affairs', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/meghanvdorn/', NULL,'AGI organization',NULL,NULL,'AI safety')  /*current position*/ 
+    ,('Mike B.', 'OpenAI', 'Member of Intelligence and Investigations Staff', '2024-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/michaelsbruno/', NULL,'AGI organization',NULL,NULL,'AI safety')  /*current position*/ 
+    ,('Jacy Reese Anthis', 'OpenAI', 'Red Team', '2023-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/jacyanthis/details/experience/', NULL,'AGI organization',NULL,NULL,'AI safety')  /*current position*/     
+    ,('Michael Chen', 'OpenAI', 'Member of Data Science Staff', '2024-06-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/mchychen/', NULL,'AGI organization',NULL,'Full-time','AI safety')  /*current position*/      
+    ,('Noam Brown', 'OpenAI', 'Member of Data Science Staff', '2023-06-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/noam-brown-8b785b62/', NULL,'AGI organization',NULL,'Full-time','AI safety')  /*current position*/   
 
 
-    
+
+
  
 
+ 
+  
 
     /*,('Vikash Kumar','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/robots-that-learn/',NULL,NULL,NULL,NULL,'AI safety')*/
     /*,('Xi Chen','OpenAI',NULL,NULL,NULL,NULL,NULL,'https://blog.openai.com/better-exploration-with-parameter-noise/',NULL,NULL,NULL,NULL,'AI safety')*/
