@@ -1,6 +1,6 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
 
-     ,('Janet Pauketat', 'Sentience Institute', 'Research Fellow', '2021-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/janet-pauketat/ https://web.archive.org/web/20250410031129/https://www.sentienceinstitute.org/team', NULL, 'full-time', 'effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-10*/ /*current position*/
+      ('Janet Pauketat', 'Sentience Institute', 'Research Fellow', '2021-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/janet-pauketat/ https://web.archive.org/web/20250410031129/https://www.sentienceinstitute.org/team', NULL, 'full-time', 'effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-10*/ /*current position*/
 /*Spencer Case   Research Fellow*/
 
     ,('Ali Ladak', 'Sentience Institute', 'Researcher', '2020-09-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200930035610/https://www.sentienceinstitute.org/team https://web.archive.org/web/20250410031129/https://www.sentienceinstitute.org/team', NULL, NULL, 'effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-10*/ /*current position*/
