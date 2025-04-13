@@ -1,6 +1,12 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
 
  
+ 
+
+    ('Sjir Hoeijmakers', 'Giving What We Can', 'CEO', '2024-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sjirhoeijmakers/ https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Full-time', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/
+
+
+
 
      ('Alex Savard', 'Giving What We Can', 'Design Director', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/', NULL, NULL, 'Effective altruism')
     ,('Andrew Leeke', 'Giving What We Can', 'Volunteer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/', NULL, 'volunteer', 'Effective altruism')
@@ -34,3 +40,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Toby Ord', 'Giving What We Can', 'Founder', '2009-01-01', 'year', NULL, NULL, 'https://www.givingwhatwecan.org/about-us/team/', NULL, NULL, 'Effective altruism')
     ,('Tomás Magalhães', 'Giving What We Can', 'Chapter Director', '2016-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tomasmagalhaes/', NULL, NULL, 'Effective altruism')
     ,('William MacAskill', 'Giving What We Can', 'Co-Founder', '2009-11-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/ https://www.linkedin.com/in/wdmacaskill/', NULL, NULL, 'Effective altruism')
+
+
+
+/*.....................................................closed positions below........................................................*/
+    ,('Sjir Hoeijmakers', 'Giving What We Can', 'Director of Research', '2022-08-01', 'month', '2024-9-01', 'month', 'https://www.linkedin.com/in/sjirhoeijmakers/', NULL, NULL, 'Effective altruism') /*closed*/
+    ,('Sjir Hoeijmakers', 'Giving What We Can', 'Interim CEO', '2024-09-01', 'month', '2024-11-01', 'month', 'https://www.linkedin.com/in/sjirhoeijmakers/', NULL, 'Full-time', 'Effective altruism') /*closed*/
