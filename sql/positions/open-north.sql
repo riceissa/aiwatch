@@ -1,6 +1,4 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
-
-
 ('Merlin Chatwin', 'Open North', 'Executive Director', '2021-12-02', 'month', NULL, NULL, 'https://web.archive.org/web/20210926074512/https://opennorth.ca/team?nav=true https://www.linkedin.com/in/merlin-chatwin-aa348219/ https://web.archive.org/web/20250401134555/https://opennorth.ca/about/', NULL, 'full-time', 'Forecasting') /* Reviewed on 2025-04-01 / / Last available Wayback snapshot date is 2025-04-01 */  
 ,('Christian Medina', 'Open North', 'Manager, Global Programs', '2022-02-01', 'month', NULL, NULL, 'https://web.archive.org/web/20221102062733/https://opennorth.ca/our-team/ https://www.linkedin.com/in/christian-medina-64266519/ https://web.archive.org/web/20250401134555/https://opennorth.ca/about/', NULL, NULL, 'Forecasting') /* Reviewed on 2025-04-01 / / Last available Wayback snapshot date is 2025-04-01 */  
 ,('John Griffin', 'Open North', 'Program Manager', '2022-10-01', 'month', NULL, NULL, 'https://web.archive.org/web/20221102062733/https://opennorth.ca/our-team/ https://www.linkedin.com/in/john-griffin-on/ https://web.archive.org/web/20250401134555/https://opennorth.ca/about/', NULL, 'full-time', 'Forecasting') /* Reviewed on 2025-04-01 / / Last available Wayback snapshot date is 2025-04-01 */  
@@ -29,13 +27,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Gordon Chan', 'Open North', 'Board Member', '2024-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240808105117/https://opennorth.ca/about/ https://www.linkedin.com/in/gordon-chan-aa521a1b/ https://web.archive.org/web/20250401134555/https://opennorth.ca/about/', NULL, 'board member', 'Forecasting') /* Reviewed on 2025-03-31 / / Last available Wayback snapshot date is 2025-03-31 */  
 ,('Misha Benjamin', 'Open North', 'Board Member', '2024-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240808105117/https://opennorth.ca/about/ https://web.archive.org/web/20250401134555/https://opennorth.ca/about/', NULL, 'board member', 'Forecasting') /* Reviewed on 2025-03-31 / / Last available Wayback snapshot date is 2025-03-31 */  
 ,('Wes Iqbal', 'Open North', 'Board Member', '2024-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240808105117/https://opennorth.ca/about/ https://www.linkedin.com/in/theweswing/ https://web.archive.org/web/20250401134555/https://opennorth.ca/about/', NULL, 'board member', 'Forecasting') /* Reviewed on 2025-03-31 / / Last available Wayback snapshot date is 2025-03-31 */  
-
 /* ONLY LINKEDIN */ 
-
 ,('Lucas Mesquita', 'Open North', 'Senior Analyst', '2022-01-02', 'month', NULL, NULL, 'https://web.archive.org/web/20210123053242/https://opennorth.ca/team?nav=true https://www.linkedin.com/in/lucas-mesquita-1852a3138/', NULL, 'full-time', 'Forecasting') 
-
 /* CLOSED */  
-
 ,('Merlin Chatwin', 'Open North', 'Director of Research and Impact', '2021-03-01', 'month', '2021-12-01', 'month', 'https://www.linkedin.com/in/merlin-chatwin-aa348219/', NULL, 'full-time', 'Forecasting')
 ,('Christian Medina', 'Open North', 'Program Manager - National Democratic Institute Ukraine', '2018-10-01', 'month', '2019-09-01', 'month', 'https://web.archive.org/web/20190726182714/https://www.opennorth.ca/about/ https://www.linkedin.com/in/christian-medina-64266519/ https://web.archive.org/web/20191118135755/https://www.opennorth.ca/about/#team', NULL, NULL, 'Forecasting')  
 ,('Christian Medina', 'Open North', 'Fulfillment Associate - Citizen Budget', '2017-05-01', 'month', '2018-09-01', 'month', 'https://web.archive.org/web/20170822104728/http://www.opennorth.ca/team https://www.linkedin.com/in/christian-medina-64266519/ https://web.archive.org/web/20190114164319/http://www.opennorth.ca/about', NULL, NULL, 'Forecasting')
@@ -47,9 +41,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Thomas Linder', 'Open North', 'Coordinator, Research and Delivery', '2022-04-01', 'month', '2024-04-01', 'month', 'https://web.archive.org/web/20221102062733/https://opennorth.ca/our-team/ https://www.linkedin.com/in/thomasalinder/ https://web.archive.org/web/20240405074202/https://opennorth.ca/about/', NULL, NULL, 'Forecasting')
 ,('James McKinney', 'Open North', 'Executive Director', '2011-05-01', 'month', '2015-09-01', 'month', 'https://web.archive.org/web/20111203230726/http://opennorth.ca/team/ https://www.linkedin.com/in/mckinneyjames/ https://web.archive.org/web/20150829081148/http://www.opennorth.ca/', NULL, NULL, 'Forecasting')
 ,('James McKinney', 'Open North', 'Senior Technical Adviser', '2015-09-01', 'month', '2020-09-01', 'month', 'https://web.archive.org/web/20150926085536/http://www.opennorth.ca/ https://www.linkedin.com/in/mckinneyjames/ https://web.archive.org/web/20191118135755/https://www.opennorth.ca/about/#team', NULL, 'advisor', 'Forecasting')
+
+
 ,('Jonathan Brun', 'Open North', 'Board Member', '2011-12-01', 'year', '2019-11-01', NULL, 'https://web.archive.org/web/20111203230726/http://opennorth.ca/team/ https://web.archive.org/web/20191118135755/https://www.opennorth.ca/about/#team', NULL, 'board member', 'Forecasting') 
 ,('Bernard Rudny', 'Open North', 'Co-Founder and Board Member', '2011-05-01', 'month', '2015-08-01', 'month', 'https://web.archive.org/web/20111203230726/http://opennorth.ca/team/ https://www.linkedin.com/in/bernardrudny https://web.archive.org/web/20151020070721/http://www.opennorth.ca/', NULL, 'board member', 'Forecasting')
-,('David Eaves', 'Open North', 'Board Member', '2012-02-01', 'month', '2017-01-01', 'month', 'https://web.archive.org/web/20120228160530/http://opennorth.ca/team/ https://web.archive.org/web/20170129183137/http://www.opennorth.ca/', NULL, 'board-member', 'Forecasting')
+,('David Eaves', 'Open North', 'Board Member', '2012-02-01', 'month', '2017-01-01', 'month', 'https://web.archive.org/web/20120228160530/http://opennorth.ca/team/ https://web.archive.org/web/20170129183137/http://www.opennorth.ca/', NULL, 'board member', 'Forecasting')
 ,('Stéphane Guidoin', 'Open North', 'Director of Products and Services', '2012-04-01', 'month', '2015-06-01', 'month', 'https://web.archive.org/web/20120228160530/http://opennorth.ca/team/ https://www.linkedin.com/in/stephaneguidoin/ https://web.archive.org/web/20150511213822/http://opennorth.ca/team', NULL, NULL, 'Forecasting')
 ,('Alexandre Cayla-Irigoyen', 'Open North', 'Communications Manager', '2012-01-01', 'month', '2012-07-01', 'month', 'https://web.archive.org/web/20120228160530/http://opennorth.ca/team/ https://www.linkedin.com/in/alexandrecayla', NULL, NULL, 'Forecasting')
 ,('Kent Mewhort', 'Open North', 'Board Member', '2012-08-01', 'year', '2015-10-01', 'month', 'https://web.archive.org/web/20120228160530/http://opennorth.ca/team/ https://web.archive.org/web/20151020070721/http://www.opennorth.ca/', NULL, 'board member', 'Forecasting') 
@@ -58,6 +54,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Emily Harris', 'Open North', 'Director', '2013-06-01', 'month', '2016-12-01', 'month', 'https://web.archive.org/web/20130727234727/http://opennorth.ca/team/ https://www.linkedin.com/in/emilyisabelharris/details/volunteering-experiences/ https://web.archive.org/web/20170129183137/http://www.opennorth.ca/', NULL, 'board member', 'Forecasting') 
 ,('Joel Ornoy', 'Open North', 'Business Manager', '2013-07-01', 'month', '2019-01-01', 'month', 'https://web.archive.org/web/20130830201322/http://opennorth.ca/team/ https://www.linkedin.com/in/joelornoy https://web.archive.org/web/20190114164319/http://www.opennorth.ca/about', NULL, 'full-time', 'Forecasting')  
 ,('Marichelle Leclair', 'Open North', 'Communications Coordinator', '2013-08-01', 'month', '2016-04-01', 'month', 'https://web.archive.org/web/20130830201322/http://opennorth.ca/team/ https://web.archive.org/web/20160406122257/http://www.opennorth.ca/', NULL, NULL, 'Forecasting')  
+
+
 ,('Laurence Harvey Leclerc', 'Open North', 'Presales Support & Client Relations', '2015-03-01', 'month', '2015-11-01', 'month', 'https://web.archive.org/web/20150829081148/http://www.opennorth.ca/ https://www.linkedin.com/in/laurenceharveyleclerc/ https://web.archive.org/web/20151020070721/http://www.opennorth.ca/', NULL, NULL, 'Forecasting')  
 ,('Laurence Harvey Leclerc', 'Open North', 'Product Development Manager', '2015-11-02', 'month', '2017-01-01', 'month', 'https://web.archive.org/web/20151120062907/http://www.opennorth.ca/ https://www.linkedin.com/in/laurenceharveyleclerc/ https://web.archive.org/web/20161129182933/http://www.opennorth.ca/', NULL, NULL, 'Forecasting')  
 ,('Henri-François Gautrin', 'Open North', 'Board Member', '2015-11-01', 'month', '2019-11-01', NULL, 'https://web.archive.org/web/20151120062907/http://www.opennorth.ca/ https://web.archive.org/web/20191118135755/https://www.opennorth.ca/about/#team', NULL, 'board member', 'Forecasting')  
@@ -88,6 +86,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Jackie Stamp Smeaton', 'Open North', 'Office Manager', '2018-03-01', 'month', '2018-12-01', 'month', 'https://web.archive.org/web/20180317010820/http://www.opennorth.ca/about https://www.linkedin.com/in/jacqueline-stamp-smeaton-988838123/ https://web.archive.org/web/20181110185628/http://www.opennorth.ca/about', NULL, NULL, 'Forecasting')  
 ,('Robin Basalaev-Binder', 'Open North', 'Applied Research Analyst', '2018-03-01', 'month', '2018-06-01', 'month', 'https://web.archive.org/web/20180317010820/http://www.opennorth.ca/about https://web.archive.org/web/20180627195016/http://www.opennorth.ca/about', NULL, NULL, 'Forecasting')  
 ,('Jaime MacLean', 'Open North', 'Developer', '2018-08-01', 'month', '2020-11-01', 'year', 'https://web.archive.org/web/20180802121530/http://www.opennorth.ca/about https://web.archive.org/web/20201130162907/https://www.opennorth.ca/about/#team', NULL, NULL, 'Forecasting')  
+
+
+
+
+
 ,('Hannah Ker', 'Open North', 'Open Data Analyst', '2018-08-01', 'month', '2019-07-01', 'month', 'https://web.archive.org/web/20180907010929/http://www.opennorth.ca/about https://www.linkedin.com/in/hannah-ker-991007115/ https://web.archive.org/web/20190726182714/https://www.opennorth.ca/about/', NULL, NULL, 'Forecasting')  
 ,('Miranda Sculthorp', 'Open North', 'Urban Research Analyst', '2018-09-01', 'month', '2021-04-01', 'year', 'https://web.archive.org/web/20180907010929/http://www.opennorth.ca/about https://web.archive.org/web/20210413203608/https://opennorth.ca/team?nav=true', NULL, NULL, 'Forecasting')  
 ,('Saad Sabb', 'Open North', 'Fulfillment Specialist', '2018-01-01', 'month', '2019-01-01', 'month', 'https://web.archive.org/web/20180907010929/http://www.opennorth.ca/about https://www.linkedin.com/in/saadsab/ https://web.archive.org/web/20190114164319/http://www.opennorth.ca/about', NULL, 'full-time', 'Forecasting')  
@@ -95,7 +98,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Aaron Erlich', 'Open North', 'Advisor', '2019-01-01', 'month', '2019-01-14', 'year', 'https://web.archive.org/web/20190114164319/http://www.opennorth.ca/about', NULL, 'advisor', 'Forecasting')
 ,('Steven Coutts', 'Open North', 'Geographic Research Analyst', '2019-07-01', 'month', '2022-01-01', 'month', 'https://web.archive.org/web/20190726182714/https://www.opennorth.ca/about/ https://www.linkedin.com/in/steve-coutts/', NULL, NULL, 'Forecasting')
 ,('Steven Coutts', 'Open North', 'Senior Analyst', '2022-01-02', 'month', '2022-10-01', 'month', 'https://www.linkedin.com/in/steve-coutts/', NULL, NULL, 'Forecasting')
-,('Steven Coutts', 'Open North', 'Project Coordinator', '2022-10-02', 'month', '2022-10-01', 'month', 'https://www.linkedin.com/in/steve-coutts/', NULL, 'full-time', 'Forecasting')
+
+
 ,('Megan Wylie', 'Open North', 'Research Analyst', '2019-07-01', 'month', '2022-06-01', 'month', 'https://web.archive.org/web/20190726182714/https://www.opennorth.ca/about/ https://www.linkedin.com/in/megan-wylie-490a6863/ https://web.archive.org/web/20210620045212/https://opennorth.ca/team?nav=true', NULL, NULL, 'Forecasting')  
 ,('Megan Wylie', 'Open North', 'Program Manager', '2021-07-01', 'month', '2022-06-01', 'month', 'https://web.archive.org/web/20210926074512/https://opennorth.ca/team?nav=true https://www.linkedin.com/in/megan-wylie-490a6863/ https://web.archive.org/web/20220127211924/https://opennorth.ca/team?nav=true', NULL, NULL, 'Forecasting')  
 ,('Mélina Planchenault', 'Open North', 'Programme Director', '2019-03-01', 'month', '2019-12-01', 'month', 'https://web.archive.org/web/20190726182714/https://www.opennorth.ca/about/ https://www.linkedin.com/in/m%C3%A9lina-planchenault-05096313/ https://web.archive.org/web/20191118135755/https://www.opennorth.ca/about/#team', NULL, NULL, 'Forecasting')  
@@ -103,6 +107,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Michaël Houle', 'Open North', 'Senior Programme Officer', '2019-05-01', 'month', '2020-07-01', 'month', 'https://web.archive.org/web/20190726182714/https://www.opennorth.ca/about/ https://www.linkedin.com/in/micha%C3%ABl-houle-b3984253/ https://web.archive.org/web/20201001032325/https://www.opennorth.ca/about/#team', NULL, NULL, 'Forecasting')  
 ,('Corey Pembleton', 'Open North', 'Programme Officer', '2019-06-01', 'month', '2020-09-01', 'month', 'https://web.archive.org/web/20190726182714/https://www.opennorth.ca/about/ https://www.linkedin.com/in/coreypembleton/ https://web.archive.org/web/20201130162907/https://www.opennorth.ca/about/#team', NULL, 'full-time', 'Forecasting')  
 ,('Nabeel Ahmed', 'Open North', 'Programme Officer', '2019-02-01', 'month', '2020-08-01', 'month', 'https://web.archive.org/web/20190726182714/https://www.opennorth.ca/about/ https://www.linkedin.com/in/nsahmed/', NULL, NULL, 'Forecasting')
+
+
+
+
 ,('Nabeel Ahmed', 'Open North', 'Senior Program Officer', '2020-08-02', 'month', '2021-06-01', 'month', 'https://www.linkedin.com/in/nsahmed/ https://web.archive.org/web/20210620045212/https://opennorth.ca/team?nav=true', NULL, NULL, 'Forecasting')
 ,('Nancy Lazo', 'Open North', 'Administrative Technician', '2019-07-01', 'month', '2021-06-01', 'year', 'https://web.archive.org/web/20190726182714/https://www.opennorth.ca/about/ https://web.archive.org/web/20210620045212/https://opennorth.ca/team?nav=true', NULL, NULL, 'Forecasting')  
 ,('Suzanne Labrie', 'Open North', 'Senior Program Consultant', '2019-08-01', 'month', '2019-11-01', NULL, 'https://web.archive.org/web/20190813212616/https://www.opennorth.ca/about/ https://web.archive.org/web/20191118135755/https://www.opennorth.ca/about/#team', NULL, NULL, 'Forecasting')  
@@ -132,7 +140,3 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Isabelle Rancourt', 'Open North', 'Senior Analyst', '2022-11-01', 'month', '2023-11-01', 'month', 'https://web.archive.org/web/20230603003523/https://opennorth.ca/our-team/ https://www.linkedin.com/in/isabelle-rancourt-2807301a4/ https://web.archive.org/web/20230803191653/https://opennorth.ca/our-team/', NULL, 'full-time', 'Forecasting')
 ,('Aimee Whitcroft', 'Open North', 'Senior Coordinator', '2023-04-01', 'month', '2023-12-01', 'month', 'https://web.archive.org/web/20230603003523/https://opennorth.ca/our-team/ https://www.linkedin.com/in/awhitcroft https://web.archive.org/web/20230803191653/https://opennorth.ca/our-team/', NULL, NULL, 'Forecasting')  
 ,('Judith François-Langevin', 'Open North', 'Senior Analyst', '2023-11-01', 'month', '2024-11-01', 'month', 'https://web.archive.org/web/20231226212502/https://opennorth.ca/about/ https://www.linkedin.com/in/judith-francois-langevin-a2788628/ https://web.archive.org/web/20241001151556/https://opennorth.ca/about/', NULL, NULL, 'Forecasting')  
-
-
-
-
