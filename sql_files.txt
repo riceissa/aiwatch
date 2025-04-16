@@ -77,6 +77,7 @@ sql/positions/flowers-laboratory.sql
 sql/positions/forecasting-research-institute.sql
 sql/positions/forethought.sql
 sql/positions/foundational-research-institute.sql
+sql/positions/frente-animal.sql
 sql/positions/ftx-future-fund.sql
 sql/positions/fund-for-alignment-research.sql
 sql/positions/future-of-humanity-institute.sql
