@@ -11,11 +11,30 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Lucas Moore', 'Giving What We Can', 'Partnerships Manager', '2025-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lucas-moore%F0%9F%94%B8-a21544146/ https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, NULL, 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/ 
     ,('Alana Horowitz Friedman', 'Giving What We Can', 'Research Communicator', '2025-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lucas-moore%F0%9F%94%B8-a21544146/ https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, NULL, 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/ 
     ,('Alana Horowitz Friedman', 'Giving What We Can', 'Content Coordination/Research Contractor', '2022-08-01', 'month', '2022-09-01', 'month', 'https://www.linkedin.com/in/lucas-moore%F0%9F%94%B8-a21544146/ https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, NULL, 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/     
-    ,('Aidan Whitfield', 'Giving What We Can', 'Researcher', '2024-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lucas-moore%F0%9F%94%B8-a21544146/ https://www.linkedin.com/in/aidan-whitfield-957033231/?originalSubdomain=au', NULL, 'Full-time', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/ 
-    ,('James Rayton', 'Giving What We Can', 'Head of Community & Partnerships', '2024-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jamesrayton/ https://www.linkedin.com/in/aidan-whitfield-957033231/?originalSubdomain=au', NULL, 'Full-time', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/  
+    ,('Aidan Whitfield', 'Giving What We Can', 'Researcher', '2024-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lucas-moore%F0%9F%94%B8-a21544146/ https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Full-time', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/ 
+    ,('James Rayton', 'Giving What We Can', 'Head of Community & Partnerships', '2024-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jamesrayton/ https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Full-time', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/  
+    ,('Patrick Allen', 'Giving What We Can', 'Finance Associate', '2025-03-31', 'month', NULL, NULL, 'https://web.archive.org/web/20250331230705/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Full-time', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/  
+/*..................................................Trustees and board of directors below.....................................*/ 
+     ,('Zuber Nosimohomed', 'Giving What We Can', 'Board member', '2024-12-31', NULL, NULL, NULL, 'https://web.archive.org/web/20241231002748/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/  
+     ,('Seth Holoweiko', 'Giving What We Can', 'Board member', '2024-12-31', NULL, NULL, NULL, 'https://web.archive.org/web/20241231002748/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/  
+     ,('Habiba Banu', 'Giving What We Can', 'Board member', '2024-12-31', NULL, NULL, NULL, 'https://web.archive.org/web/20241231002748/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/ 
+     ,('Matti Wilks', 'Giving What We Can', 'Board member', '2024-12-31', NULL, NULL, NULL, 'https://web.archive.org/web/20241231002748/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/ 
+     ,('Kale Ridsdale', 'Giving What We Can', 'Board member', '2024-12-31', NULL, NULL, NULL, 'https://web.archive.org/web/20241231002748/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/ 
+     ,('David Kozak', 'Giving What We Can', 'Board member', '2024-12-31', NULL, NULL, NULL, 'https://web.archive.org/web/20241231002748/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/ 
+
+
+
+
+
+
+
+
 
  
- 
+
+
+
+
 
  
 
@@ -62,3 +81,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Sam Deere', 'Giving What We Can', 'President and Technical Director', '2016-01-01', 'month', '2016-07-01', 'month', 'https://www.linkedin.com/in/samdeere', NULL, NULL, 'Effective altruism')   /*closed*/  
     ,('Lucas Moore', 'Giving What We Can', 'Effective Giving Global Coordinator and Incubator', '2023-05-01', 'month', '2025-02-01', 'month', 'https://www.linkedin.com/in/lucas-moore%F0%9F%94%B8-a21544146/ https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, NULL, 'Effective altruism')  /*closed*/   
     ,('Alana Horowitz Friedman', 'Giving What We Can', 'Contributing Writer', '2022-03-01', 'month', '2022-09-01', 'month', 'https://www.linkedin.com/in/lucas-moore%F0%9F%94%B8-a21544146/', NULL, NULL, 'Effective altruism') /*closed*/     
+     ,('Chris Goward', 'Giving What We Can', 'Board member', '2024-12-31', NULL, '2025-02-25', 'month', 'https://web.archive.org/web/20241231002748/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250225010213/https://www.givingwhatwecan.org/about-us/team', NULL, 'Board member', 'Effective altruism') /*closed*/     
