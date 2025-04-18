@@ -26,39 +26,29 @@ insert into positions(person, organization, title, start_date, start_date_precis
      ,('Peter Cockhill', 'Giving What We Can', 'Board member', '2024-12-31', NULL, NULL, NULL, 'https://web.archive.org/web/20241231002748/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/ 
      ,('Ben Cogan', 'Giving What We Can', 'Board member', '2024-12-31', NULL, NULL, NULL, 'https://web.archive.org/web/20241231002748/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/ 
      ,('Jeff Kaufman', 'Giving What We Can', 'Board member', '2024-12-31', NULL, NULL, NULL, 'https://web.archive.org/web/20241231002748/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/ 
-
-
-
-
-
-
-
-
-
-
-
-
-
+     ,('Nick Fitz', 'Giving What We Can', 'Board member', '2024-12-31', NULL, NULL, NULL, 'https://web.archive.org/web/20241231002748/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/ 
+     ,('Andrew Sutton', 'Giving What We Can', 'Board member', '2024-12-31', NULL, NULL, NULL, 'https://web.archive.org/web/20241231002748/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/ 
+/*...............................................................Founders..................................................................*/
+    ,('Toby Ord', 'Giving What We Can', 'Founder', '2009-01-01', 'year', NULL, NULL, 'https://www.givingwhatwecan.org/about-us/team/', NULL, NULL, 'Effective altruism')
+    ,('William MacAskill', 'Giving What We Can', 'Co-Founder', '2009-11-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/ https://www.linkedin.com/in/wdmacaskill/', NULL, NULL, 'Effective altruism')
+/*........................................LinkedIn positions below..........................................................................*/
+    ,('Jade Amos', 'Giving What We Can', 'Donor/member', '2022-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jade-amos/', NULL, 'volunteer', 'Effective altruism')
 
  
 
 
-
-
-
  
 
-     ,('Alex Savard', 'Giving What We Can', 'Design Director', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/', NULL, NULL, 'Effective altruism')
     ,('Andrew Leeke', 'Giving What We Can', 'Volunteer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/', NULL, 'volunteer', 'Effective altruism')
     ,('Ben Chugg', 'Giving What We Can', 'Volunteer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/', NULL, 'volunteer', 'Effective altruism')
     ,('Dominika Krupocin', 'Giving What We Can', 'Volunteer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/', NULL, 'volunteer', 'Effective altruism')
     ,('Faiz Surani', 'Giving What We Can', 'Volunteer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/', NULL, 'volunteer', 'Effective altruism')
     ,('Floris Wolswijk', 'Giving What We Can', 'Volunteer', NULL, NULL, NULL, NULL, 'https://www.givingwhatwecan.org/about-us/team/', NULL, 'volunteer', 'Effective altruism')
     ,('Geetanjali Basarkod', 'Giving What We Can', 'Volunteer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/', NULL, 'volunteer', 'Effective altruism')
-    ,('Grace Adams', 'Giving What We Can', 'Head of Marketing', '2021-11-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/ https://www.linkedin.com/in/gracevadams/', NULL, 'full-time', 'Effective altruism')
+
     ,('Greg Gianopoulos', 'Giving What We Can', 'Volunteer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/', NULL, 'volunteer', 'Effective altruism')
     ,('Heather Heckman', 'Giving What We Can', 'Volunteer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/', NULL, 'volunteer', 'Effective altruism')
-    ,('Jade Amos', 'Giving What We Can', 'Donor', '2022-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jade-amos/', NULL, 'contractor', 'Effective altruism')
+
     ,('Jasper Hartong', 'Giving What We Can', 'Technical Product Manager', '2021-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/ https://www.linkedin.com/in/jasperhartong/', NULL, 'contractor', 'Effective altruism')
     ,('Jo Duyvestyn', 'Giving What We Can', 'Volunteer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/', NULL, 'volunteer', 'Effective altruism')
     ,('John Patrick Addison', 'Giving What We Can', 'Developer', NULL, NULL, NULL, NULL, 'https://www.givingwhatwecan.org/about-us/team/', NULL, NULL, 'Effective altruism')
@@ -74,9 +64,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Pablo Melchor', 'Giving What We Can', 'Pledger', '2018-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/pmelchor/', NULL, NULL, 'Effective altruism')
     ,('Surbhi Bharadwaj', 'Giving What We Can', 'Volunteer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/', NULL, 'volunteer', 'Effective altruism')
 
-    ,('Toby Ord', 'Giving What We Can', 'Founder', '2009-01-01', 'year', NULL, NULL, 'https://www.givingwhatwecan.org/about-us/team/', NULL, NULL, 'Effective altruism')
+
     ,('Tomás Magalhães', 'Giving What We Can', 'Chapter Director', '2016-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tomasmagalhaes/', NULL, NULL, 'Effective altruism')
-    ,('William MacAskill', 'Giving What We Can', 'Co-Founder', '2009-11-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/ https://www.linkedin.com/in/wdmacaskill/', NULL, NULL, 'Effective altruism')
+
 
 
 
@@ -92,3 +82,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Lucas Moore', 'Giving What We Can', 'Effective Giving Global Coordinator and Incubator', '2023-05-01', 'month', '2025-02-01', 'month', 'https://www.linkedin.com/in/lucas-moore%F0%9F%94%B8-a21544146/ https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, NULL, 'Effective altruism')  /*closed*/   
     ,('Alana Horowitz Friedman', 'Giving What We Can', 'Contributing Writer', '2022-03-01', 'month', '2022-09-01', 'month', 'https://www.linkedin.com/in/lucas-moore%F0%9F%94%B8-a21544146/', NULL, NULL, 'Effective altruism') /*closed*/     
      ,('Chris Goward', 'Giving What We Can', 'Board member', '2024-12-31', NULL, '2025-02-25', 'month', 'https://web.archive.org/web/20241231002748/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250225010213/https://www.givingwhatwecan.org/about-us/team', NULL, 'Board member', 'Effective altruism') /*closed*/     
+     ,('Alex Savard', 'Giving What We Can', 'Design Director', NULL, NULL, '2025-02-25', 'month', 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/ https://web.archive.org/web/20250225010213/https://www.givingwhatwecan.org/about-us/team', NULL, NULL, 'Effective altruism') /*closed*/     
