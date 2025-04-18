@@ -21,6 +21,16 @@ insert into positions(person, organization, title, start_date, start_date_precis
      ,('Matti Wilks', 'Giving What We Can', 'Board member', '2024-12-31', NULL, NULL, NULL, 'https://web.archive.org/web/20241231002748/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/ 
      ,('Kale Ridsdale', 'Giving What We Can', 'Board member', '2024-12-31', NULL, NULL, NULL, 'https://web.archive.org/web/20241231002748/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/ 
      ,('David Kozak', 'Giving What We Can', 'Board member', '2024-12-31', NULL, NULL, NULL, 'https://web.archive.org/web/20241231002748/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/ 
+     ,('Jonathan Courtney', 'Giving What We Can', 'Board member', '2024-12-31', NULL, NULL, NULL, 'https://web.archive.org/web/20241231002748/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/ 
+     ,('Daniel Frank', 'Giving What We Can', 'Board member', '2024-12-31', NULL, NULL, NULL, 'https://web.archive.org/web/20241231002748/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/ 
+     ,('Peter Cockhill', 'Giving What We Can', 'Board member', '2024-12-31', NULL, NULL, NULL, 'https://web.archive.org/web/20241231002748/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/ 
+     ,('Ben Cogan', 'Giving What We Can', 'Board member', '2024-12-31', NULL, NULL, NULL, 'https://web.archive.org/web/20241231002748/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/ 
+     ,('Jeff Kaufman', 'Giving What We Can', 'Board member', '2024-12-31', NULL, NULL, NULL, 'https://web.archive.org/web/20241231002748/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/ 
+
+
+
+
+
 
 
 
