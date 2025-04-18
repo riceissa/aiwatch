@@ -51,15 +51,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
+ 
 
-    ,('Greg Gianopoulos', 'Giving What We Can', 'Volunteer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/', NULL, 'volunteer', 'Effective altruism')
-    ,('Heather Heckman', 'Giving What We Can', 'Volunteer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/', NULL, 'volunteer', 'Effective altruism')
-    ,('Jo Duyvestyn', 'Giving What We Can', 'Volunteer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/', NULL, 'volunteer', 'Effective altruism')
-    ,('John Patrick Addison', 'Giving What We Can', 'Developer', NULL, NULL, NULL, NULL, 'https://www.givingwhatwecan.org/about-us/team/', NULL, NULL, 'Effective altruism')
-    ,('Julia Wise', 'Giving What We Can', 'Advisor', NULL, NULL, NULL, NULL, 'https://www.givingwhatwecan.org/about-us/team/', NULL, 'advisor', 'Effective altruism')
-    ,('Julian Hazell', 'Giving What We Can', 'Content & Research Associate', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/', NULL, NULL, 'Effective altruism')
-    ,('Katy Moore', 'Giving What We Can', 'Copy Editor', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/', NULL, NULL, 'Effective altruism')
-    ,('MF Mika', 'Giving What We Can', 'Volunteer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/', NULL, 'volunteer', 'Effective altruism') 
+
+
+
     ,('Michael Townsend', 'Giving What We Can', 'Researcher', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/', NULL, NULL, 'Effective altruism')
     ,('Surbhi Bharadwaj', 'Giving What We Can', 'Volunteer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/', NULL, 'volunteer', 'Effective altruism')
 
@@ -93,3 +89,14 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Luke Freeman', 'Giving What We Can', 'Executive Director', '2020-07-01', 'month', '2024-10-01', 'month', 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/ https://www.linkedin.com/in/lukekevinfreeman/details/experience/', NULL, 'full-time', 'Effective altruism')    /*closed*/    
     ,('Floris Wolswijk', 'Giving What We Can', 'Volunteer', NULL, NULL, '2023-01-28', 'month', 'https://web.archive.org/web/20230128123419/https://www.givingwhatwecan.org/about-us/team', NULL, 'volunteer', 'Effective altruism')  /*closed*/     
     ,('Geetanjali Basarkod', 'Giving What We Can', 'Volunteer', NULL, NULL, '2024-03-07', 'month', 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/ https://web.archive.org/web/20240307063344/https://www.givingwhatwecan.org/about-us/team', NULL, 'volunteer', 'Effective altruism') /*closed*/    
+    ,('Greg Gianopoulos', 'Giving What We Can', 'Volunteer', NULL, NULL, '2023-11-28', 'month', 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/ https://web.archive.org/web/20231128001304/https://www.givingwhatwecan.org/about-us/team', NULL, 'volunteer', 'Effective altruism')    /*closed*/  
+    ,('Heather Heckman', 'Giving What We Can', 'Volunteer', NULL, NULL, '2023-11-28', 'month', 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/ https://web.archive.org/web/20231128001304/https://www.givingwhatwecan.org/about-us/team', NULL, 'volunteer', 'Effective altruism')  /*closed*/     
+    ,('Jo Duyvestyn', 'Giving What We Can', 'Volunteer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20220313075451/https://www.givingwhatwecan.org/about-us/team/ https://web.archive.org/web/20231128001304/https://www.givingwhatwecan.org/about-us/team', NULL, 'volunteer', 'Effective altruism')    /*closed*/     
+    ,('Julia Wise', 'Giving What We Can', 'Advisor', '2017-08-14', 'year', '2021-02-27', 'month', 'https://web.archive.org/web/20170814180738/https://www.givingwhatwecan.org/about-us/team/ https://web.archive.org/web/20210227184356/https://www.givingwhatwecan.org/about-us/team/', NULL, 'advisor', 'Effective altruism')  /*closed*/     
+    ,('Julian Hazell', 'Giving What We Can', 'Volunteer', '2020-10-30', 'month', '2021-09-27', 'year', 'https://web.archive.org/web/20201030093351/https://www.givingwhatwecan.org/about-us/team/ https://web.archive.org/web/20210927035223/https://www.givingwhatwecan.org/about-us/team/', NULL, NULL, 'Effective altruism') /*closed*/
+    ,('Julian Hazell', 'Giving What We Can', 'Content & Research Associate', '2022-01-26', 'year', '2022-10-12', 'month', 'https://web.archive.org/web/20220126140838/https://www.givingwhatwecan.org/about-us/team/ https://web.archive.org/web/20221012034724/https://www.givingwhatwecan.org/about-us/team', NULL, NULL, 'Effective altruism') /*closed*/       
+     ,('Katy Moore', 'Giving What We Can', 'Copy Editor', '2022-05-28', 'month', '2023-10-30', 'month', 'https://web.archive.org/web/20220528102541/https://www.givingwhatwecan.org/about-us/team/ https://web.archive.org/web/20231030225727/https://www.givingwhatwecan.org/about-us/team', NULL, NULL, 'Effective altruism') /*closed*/ 
+
+    ,('Andreas Mogensen', 'Giving What We Can', 'Senior Advisor', '2016-01-25', 'multi-year', '2016-12-25', 'year', 'https://web.archive.org/web/20160125213134/https://www.givingwhatwecan.org/about-us/team/', NULL, 'Advisor', 'Effective altruism')    /*closed*/ 
+    ,('MF Mika', 'Giving What We Can', 'Volunteer', '2022-01-26', 'month', '2023-01-28', 'month', 'https://web.archive.org/web/20220126140838/https://www.givingwhatwecan.org/about-us/team/ https://web.archive.org/web/20230128123419/https://www.givingwhatwecan.org/about-us/team', NULL, 'volunteer', 'Effective altruism')      /*closed*/ 
+
