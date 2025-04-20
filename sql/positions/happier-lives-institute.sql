@@ -1,8 +1,12 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
    
+     ('Michael Plant', 'Happier Lives Institute', 'Founder and Director', '2019-06-01', 'month', NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/ https://www.linkedin.com/in/michael-plant-8445116a/', NULL, NULL, 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/
+
+
+
  
 
-     ('​Amanda Mai', 'Happier Lives Institute', 'Contributor', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')
+    ,('​Amanda Mai', 'Happier Lives Institute', 'Contributor', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')
     ,('Andrew Fisher', 'Happier Lives Institute', 'Contributor', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')
     ,('Barry Grimes​', 'Happier Lives Institute', 'Communications Manager', '2018-11-01', 'month', NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html https://www.linkedin.com/in/barry-grimes-24523054/?originalSubdomain=uk', NULL, 'Volunteer', 'Effective altruism')
     ,('Brendan Eappen', 'Happier Lives Institute', 'Researcher', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html', NULL, NULL, 'Effective altruism')  
@@ -28,7 +32,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Lucia Coulter', 'Happier Lives Institute', 'Researcher', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.htmL', NULL, NULL, 'Effective altruism')
     ,('Lucia Coulter', 'Happier Lives Institute', 'Volunteer Researcher', '2018-11-01', 'month', '2020-05-01', 'month', 'https://web.archive.org/web/20200812172755/https://www.happierlivesinstitute.org/our-team.html https://www.linkedin.com/in/lucia-coulter-657877162/?originalSubdomain=mw', NULL, 'Volunteer', 'Effective altruism')
     ,('​Marcin Kowrygo', 'Happier Lives Institute', 'Contributor', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html', NULL, NULL, 'Effective altruism')
-    ,('Michael Plant', 'Happier Lives Institute', 'Founder and Director', '2019-06-01', 'month', NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html https://www.linkedin.com/in/michael-plant-8445116a/?originalSubdomain=uk', NULL, NULL, 'Effective altruism')
     ,('Nikita Patel​', 'Happier Lives Institute', 'Website Manager', '2018-11-01', 'month', '2020-01-01', NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html https://www.linkedin.com/in/nikitapatel14/?originalSubdomain=uk', NULL, 'Volunteer', 'Effective altruism')
     ,('Paul Davies', 'Happier Lives Institute', 'Contributor', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html https://www.linkedin.com/in/paulojdavies/?originalSubdomain=uk', NULL, NULL, 'Effective altruism')
     ,('Peter Brietbart', 'Happier Lives Institute', 'Advisor', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html', NULL, 'Advisor', 'Effective altruism')
