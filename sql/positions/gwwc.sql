@@ -92,3 +92,22 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jo Duyvestyn', 'Giving What We Can', 'Events team', '2020-10-30', 'year', '2016-03-07', 'month', 'https://web.archive.org/web/20201030093351/https://www.givingwhatwecan.org/about-us/team/ https://web.archive.org/web/20240307063344/https://www.givingwhatwecan.org/about-us/team', NULL, 'volunteer', 'Effective altruism')    /*closed*/       
     ,('Hauke Hillebrandt', 'Giving What We Can', 'Director of Research', '2016-01-25', 'multi-year', '2016-06-03', 'month', 'https://web.archive.org/web/20160125213134/https://www.givingwhatwecan.org/about-us/team/ https://web.archive.org/web/20160603101051/https://www.givingwhatwecan.org/about-us/team/', NULL, 'volunteer', 'Effective altruism')    /*closed*/  
     ,('Jacob Hilton', 'Giving What We Can', 'Webmaster', '2016-01-25', 'multi-year', '2018-10-31', 'year', 'https://web.archive.org/web/20160125213134/https://www.givingwhatwecan.org/about-us/team/ https://web.archive.org/web/20181031084831/https://www.givingwhatwecan.org/about-us/team/', NULL, 'volunteer', 'Effective altruism')    /*closed*/  
+    ,('Carolina Flores', 'Giving What We Can', 'Blog Editor', '2016-01-25', 'multi-year', '2016-06-03', 'year', 'https://web.archive.org/web/20160125213134/https://www.givingwhatwecan.org/about-us/team/ https://web.archive.org/web/20160603101051/https://www.givingwhatwecan.org/about-us/team/ ', NULL, 'volunteer', 'Effective altruism')    /*closed*/  
+
+    
+
+
+ 
+
+
+
+
+
+    ,('Sam Deere', 'Giving What We Can', 'Director of Communications', '2016-01-25', 'multi-year', '2016-01-25', 'year', 'https://web.archive.org/web/20160125213134/https://www.givingwhatwecan.org/about-us/team/', NULL, 'volunteer', 'Effective altruism')    /*closed*/  
+    ,('Sam Deere', 'Giving What We Can', 'President and Technical Director', '2016-03-10', 'year', '2016-06-03', 'year', 'https://web.archive.org/web/20160310022114/https://www.givingwhatwecan.org/about-us/team/ https://web.archive.org/web/20160603101051/https://www.givingwhatwecan.org/about-us/team/', NULL, 'volunteer', 'Effective altruism')    /*closed*/  
+    ,('Sam Deere', 'Giving What We Can', 'Technical Director', '2017-08-14', 'year', '2021-06-22', 'year', 'https://web.archive.org/web/20170814180738/https://www.givingwhatwecan.org/about-us/team/ https://web.archive.org/web/20210622103502/https://www.givingwhatwecan.org/about-us/team/', NULL, 'volunteer', 'Effective altruism')    /*closed*/  
+
+
+
+
+
