@@ -30,33 +30,13 @@ insert into positions(person, organization, title, start_date, start_date_precis
      ,('Andrew Sutton', 'Giving What We Can', 'Board member', '2024-12-31', NULL, NULL, NULL, 'https://web.archive.org/web/20241231002748/https://www.givingwhatwecan.org/about-us/team https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-12*/ /*current position*/ 
 /*...............................................................Founders..................................................................*/
     ,('Toby Ord', 'Giving What We Can', 'Founder', '2009-01-01', 'year', NULL, NULL, 'https://www.givingwhatwecan.org/about-us/team/', NULL, NULL, 'Effective altruism')
-    ,('William MacAskill', 'Giving What We Can', 'Co-Founder, Vice-President', '2018-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/pmelchor/', NULL, NULL, 'Effective altruism') /*current position*/ 
+    ,('William MacAskill', 'Giving What We Can', 'Co-Founder, Vice-President', '2016-01-25', 'multi-year', '2016-06-03', 'year', 'https://web.archive.org/web/20160125213134/https://www.givingwhatwecan.org/about-us/team/ https://web.archive.org/web/20160603101051/https://www.givingwhatwecan.org/about-us/team/', NULL, NULL, 'Effective altruism') /*current position*/ 
 /*........................................LinkedIn-only positions below..........................................................................*/
     ,('Jade Amos', 'Giving What We Can', 'Donor/member', '2022-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jade-amos/', NULL, 'volunteer', 'Effective altruism') /*current position*/ 
     ,('Pablo Melchor', 'Giving What We Can', 'Ambassador', '2021-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/pmelchor/', NULL, NULL, 'Effective altruism') /*current position*/ 
     ,('Pablo Melchor', 'Giving What We Can', 'Pledger', '2018-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/pmelchor/', NULL, NULL, 'Effective altruism') /*current position*/ 
- 
-
-
- 
-
-
-
- 
-
-
-
-
-
-
- 
-
-
-
-
-
 /*.....................................................closed positions below........................................................*/
-    ,('Sjir Hoeijmakers', 'Giving What We Can', 'Director of Research', '2022-08-01', 'month', '2024-9-01', 'month', 'https://www.linkedin.com/in/sjirhoeijmakers/', NULL, NULL, 'Effective altruism') /*closed*/
+    ,('Sjir Hoeijmakers', 'Giving What We Can', 'Director of Research', '2022-08-01', 'month', '2024-09-01', 'month', 'https://www.linkedin.com/in/sjirhoeijmakers/', NULL, NULL, 'Effective altruism') /*closed*/
     ,('Sjir Hoeijmakers', 'Giving What We Can', 'Interim CEO', '2024-09-01', 'month', '2024-11-01', 'month', 'https://www.linkedin.com/in/sjirhoeijmakers/', NULL, 'Full-time', 'Effective altruism') /*closed*/
     ,('Sarah Baka', 'Giving What We Can', 'Full-Stack Software Engineer', '2022-05-01', 'month', '2023-04-01', 'month', 'https://www.linkedin.com/in/sarahbaka/  https://web.archive.org/web/20250412234512/https://www.givingwhatwecan.org/about-us/team', NULL, 'Full-time', 'Effective altruism') /*closed*/    
     ,('Zou Xinyi', 'Giving What We Can', 'Executive Assistant to The CEO', '2024-06-01', 'month', '2024-10-01', 'month', 'https://www.linkedin.com/in/zou-xinyi-%F0%9F%94%B8-79b943153/', NULL, NULL, 'Effective altruism')    /*closed*/  
@@ -99,7 +79,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Carolina Flores', 'Giving What We Can', 'Blog Editor', '2016-01-25', 'multi-year', '2016-06-03', 'month', 'https://web.archive.org/web/20160125213134/https://www.givingwhatwecan.org/about-us/team/ https://web.archive.org/web/20160603101051/https://www.givingwhatwecan.org/about-us/team/', NULL, 'volunteer', 'Effective altruism')    /*closed*/  
     ,('Michelle Hutchinson', 'Giving What We Can', 'Executive Director', '2016-01-25', 'multi-year', '2016-06-03', 'month', 'https://web.archive.org/web/20160125213134/https://www.givingwhatwecan.org/about-us/team/ https://web.archive.org/web/20160603101051/https://www.givingwhatwecan.org/about-us/team/', NULL, NULL, 'Effective altruism')    /*closed*/  
     ,('Alison Woodman', 'Giving What We Can', 'Director of Community', '2016-01-25', 'multi-year', '2016-06-03', 'month', 'https://web.archive.org/web/20160125213134/https://www.givingwhatwecan.org/about-us/team/ https://web.archive.org/web/20160603101051/https://www.givingwhatwecan.org/about-us/team/', NULL, NULL, 'Effective altruism')    /*closed*/  
-    ,('Jonathan Courtney', 'Giving What We Can', 'Assistant Executive Director, Director of Outreach', '2016-01-25', 'multi-year', '2016-06-03', 'month', 'https://web.archive.org/web/20160125213134/https://www.givingwhatwecan.org/about-us/team/ https://web.archive.org/web/20160603101051/https://www.givingwhatwecan.org/about-us/team/', NULL, NULL, 'Effective altruism')    /*closed*/  
+    ,('Jonathan Courtney', 'Giving What We Can', 'Assistant Executive Director, Director of Outreach', '2016-01-25', 'multi-year', '2016-06-03', 'month', 'https://web.archive.org/web/20160125213134/https://www.givingwhatwecan.org/about-us/team/ https://web.archive.org/web/20160603101051/https://www.givingwhatwecan.org/about-us/team/', NULL, NULL, 'Effective altruism')    /*closed*/      
+
 
  
 
