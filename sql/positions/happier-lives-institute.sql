@@ -1,10 +1,18 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
    
      ('Michael Plant', 'Happier Lives Institute', 'Founder and Director', '2019-06-01', 'month', NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/ https://www.linkedin.com/in/michael-plant-8445116a/', NULL, NULL, 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/
+     ,('Alexandra Shearn', 'Happier Lives Institute', 'Chief Operating Officer', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alexandra-shearn-09636a80/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, 'full-time', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/
+     ,('Julie Dickin', 'Happier Lives Institute', 'Marketing Consultant (Senior Marketing & Fundraising Manager)', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alexandra-shearn-09636a80/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, NULL, 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/
+     ,('Úna Harty', 'Happier Lives Institute', 'Marketing Consultant (Senior Marketing & Fundraising Manager)', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/una-harty/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, NULL, 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/
+     ,('Joel McGuire', 'Happier Lives Institute', 'Lead Researcher', '2019-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joel-p-t-mcguire/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, 'Full-time', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/ 
+ 
 
 
 
  
+
+
+
 
     ,('​Amanda Mai', 'Happier Lives Institute', 'Contributor', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')
     ,('Andrew Fisher', 'Happier Lives Institute', 'Contributor', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')
@@ -47,3 +55,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Teis Rasmussen', 'Happier Lives Institute', 'Careers Researcher', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')
     ,('Ulf Johansson', 'Happier Lives Institute', 'Researcher', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html', NULL, NULL, 'Effective altruism')
     ,('Vanessa See', 'Happier Lives Institute', 'Contributor', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html', NULL, NULL, 'Effective altruism')
+
+
+/*..................................................................Closed positions below.......................................................................*/
+     ,('Alexandra Shearn', 'Happier Lives Institute', 'Operations Manager', '2024-04-01', 'month', '2024-08-01', 'month', 'https://www.linkedin.com/in/alexandra-shearn-09636a80/', NULL, NULL, 'Effective altruism') /*closed*/
