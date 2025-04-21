@@ -5,11 +5,27 @@ insert into positions(person, organization, title, start_date, start_date_precis
      ,('Julie Dickin', 'Happier Lives Institute', 'Marketing Consultant (Senior Marketing & Fundraising Manager)', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alexandra-shearn-09636a80/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, NULL, 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/
      ,('Úna Harty', 'Happier Lives Institute', 'Marketing Consultant (Senior Marketing & Fundraising Manager)', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/una-harty/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, NULL, 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/
      ,('Joel McGuire', 'Happier Lives Institute', 'Lead Researcher', '2019-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joel-p-t-mcguire/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, 'Full-time', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/ 
+     ,('Samuel Dupret', 'Happier Lives Institute', 'Research Manager', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/samuel-dupret/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, 'Full-time', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/ 
+     ,('Ben Stewart', 'Happier Lives Institute', 'Research Analyst', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ben-stewart-828617198/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, 'Full-time', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/ 
+/*...................................................................Trustees below.........................................................................*/
+     ,('Caspar Kaiser', 'Happier Lives Institute', 'Chair', '2023-09-30', 'month', NULL, NULL, 'https://web.archive.org/web/20230930024741/https://www.happierlivesinstitute.org/about/meet-the-team/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/ 
+     ,('Frances Kissling', 'Happier Lives Institute', 'Board Member', '2024-12-31', 'month', NULL, NULL, 'https://web.archive.org/web/20241231003428/https://www.happierlivesinstitute.org/about/meet-the-team/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/ 
+     ,('Richard Layard', 'Happier Lives Institute', 'Board Member', '2024-12-31', 'month', NULL, NULL, 'https://web.archive.org/web/20241231003428/https://www.happierlivesinstitute.org/about/meet-the-team/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/ 
+     ,('Luchuo Englebert Bain', 'Happier Lives Institute', 'Board Member', '2024-12-31', 'month', NULL, NULL, 'https://web.archive.org/web/20241231003428/https://www.happierlivesinstitute.org/about/meet-the-team/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/ 
+     ,('Andrew Fisher', 'Happier Lives Institute', 'Board Member', '2024-12-31', 'month', NULL, NULL, 'https://web.archive.org/web/20241231003428/https://www.happierlivesinstitute.org/about/meet-the-team/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, 'Board member', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/ 
+
+
+
+  
+ 
  
 
 
 
+
  
+
+
 
 
 
@@ -59,3 +75,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 /*..................................................................Closed positions below.......................................................................*/
      ,('Alexandra Shearn', 'Happier Lives Institute', 'Operations Manager', '2024-04-01', 'month', '2024-08-01', 'month', 'https://www.linkedin.com/in/alexandra-shearn-09636a80/', NULL, NULL, 'Effective altruism') /*closed*/
+     ,('Samuel Dupret', 'Happier Lives Institute', 'Research Analyst', '2021-10-01', 'month', '2025-02-01', 'month', 'https://www.linkedin.com/in/samuel-dupret/', NULL, NULL, 'Effective altruism') /*closed*/      
+     ,('Caspar Kaiser', 'Happier Lives Institute', 'Trustee', '2022-05-26', 'multi-year', '2023-08-28', 'month', 'https://web.archive.org/web/20220526201004/https://www.happierlivesinstitute.org/about/meet-the-team/ https://web.archive.org/web/20230828230543/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, 'Board member', 'Effective altruism') /*closed*/      
