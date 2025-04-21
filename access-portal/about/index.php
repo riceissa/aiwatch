@@ -175,10 +175,10 @@ have been adding all the ones I could think of.</p>
 </ol>
 
 <p>If both of these conditions are true and you would like your information to
-be removed from the site, email Issa at riceissa@gmail.com.</p>
+be removed from the site, email Vipul Naik at vipulnaik1@gmail.com.</p>
 
 <p>This policy is not formal or binding or exhaustive or fixed in any way, and
-Issa may choose to not honor your request. The policy may change at any time
+Vipul and/or Issa may choose to not honor your request. The policy may change at any time
 with no notice.</p>
 
 <h2>Feedback</h2>
