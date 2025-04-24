@@ -4,7 +4,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
      ,('Alexandra Shearn', 'Happier Lives Institute', 'Chief Operating Officer', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alexandra-shearn-09636a80/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, 'full-time', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/
      ,('Julie Dickin', 'Happier Lives Institute', 'Marketing Consultant (Senior Marketing & Fundraising Manager)', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alexandra-shearn-09636a80/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, NULL, 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/
      ,('Úna Harty', 'Happier Lives Institute', 'Marketing Consultant (Senior Marketing & Fundraising Manager)', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/una-harty/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, NULL, 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/
-     ,('Joel McGuire', 'Happier Lives Institute', 'Lead Researcher', '2019-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joel-p-t-mcguire/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, 'Full-time', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/ 
+     ,('Joel McGuire', 'Happier Lives Institute', 'Lead Researcher', '2019-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joel-p-t-mcguire/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/ https://www.linkedin.com/in/joel-p-t-mcguire/', NULL, 'Full-time', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/ 
      ,('Samuel Dupret', 'Happier Lives Institute', 'Research Manager', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/samuel-dupret/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, 'Full-time', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/ 
      ,('Ben Stewart', 'Happier Lives Institute', 'Research Analyst', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ben-stewart-828617198/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, 'Full-time', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/ 
 /*...................................................................Trustees below.........................................................................*/
@@ -33,6 +33,18 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
     ,('​Amanda Mai', 'Happier Lives Institute', 'Contributor', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')
     ,('Andrew Fisher', 'Happier Lives Institute', 'Contributor', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')
     ,('Barry Grimes​', 'Happier Lives Institute', 'Communications Manager', '2021-08-01', 'month', '2023-02-01', 'month', 'https://www.linkedin.com/in/barry-grimes-24523054/', NULL, 'Volunteer', 'Effective altruism') /*closed*/
@@ -43,8 +55,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
     ,('Brendan Eappen', 'Happier Lives Institute', 'Researcher', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html', NULL, NULL, 'Effective altruism')  
-
-    ,('Clare Donaldson', 'Happier Lives Institute', 'Chief Operating Officer', '2019-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html https://www.linkedin.com/in/clare-donaldson-224257133/?originalSubdomain=uk', NULL, NULL, 'Effective altruism')
     ,('​Derek Foster​', 'Happier Lives Institute', 'Contributor', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')
     ,('Derek Foster', 'Happier Lives Institute', 'Research Volunteer', '2020-08-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200812172755/https://www.happierlivesinstitute.org/our-team.html', NULL, 'Volunteer', 'Effective altruism')
     ,('Derek Foster', 'Happier Lives Institute', 'Researcher', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html', NULL, NULL, 'Effective altruism')
@@ -54,26 +64,23 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Florian Kuhlmeier', 'Happier Lives Institute', 'Researcher', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html', NULL, NULL, 'Effective altruism')
     ,('​Jasper Synowski', 'Happier Lives Institute', 'Researcher', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html', NULL, NULL, 'Effective altruism')
     ,('Jide Alaga', 'Happier Lives Institute', 'Researcher', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html', NULL, NULL, 'Effective altruism')
-    ,('Joel McGuire', 'Happier Lives Institute', 'Research Analyst', '2019-12-01', 'month', NULL, NULL, 'https://web.archive.org/web/20200812172755/https://www.happierlivesinstitute.org/our-team.html https://www.linkedin.com/in/joel-p-t-mcguire/', NULL, 'full-time', 'Effective altruism')
-    ,('Joey Savoie', 'Happier Lives Institute', 'Advisor', '2019-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joey-savoie-b5937356/', NULL, 'Advisor', 'Effective altruism')
     ,('Julian Jamison', 'Happier Lives Institute', 'Advisor', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html', NULL, 'Advisor', 'Effective altruism')
     ,('Justus Arndt', 'Happier Lives Institute', 'General Project Manager', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')
     ,('Karolina Sarek', 'Happier Lives Institute', 'Advisor', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200812172755/https://www.happierlivesinstitute.org/our-team.html', NULL, 'Advisor', 'Effective altruism')
     ,('Lucia Coulter', 'Happier Lives Institute', 'Researcher', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.htmL', NULL, NULL, 'Effective altruism')
     ,('​Marcin Kowrygo', 'Happier Lives Institute', 'Contributor', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html', NULL, NULL, 'Effective altruism')
-
-    ,('Paul Davies', 'Happier Lives Institute', 'Contributor', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html https://www.linkedin.com/in/paulojdavies/?originalSubdomain=uk', NULL, NULL, 'Effective altruism')
+    ,('Paul Davies', 'Happier Lives Institute', 'Contributor', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html https://www.linkedin.com/in/paulojdavies', NULL, NULL, 'Effective altruism')
     ,('Peter Brietbart', 'Happier Lives Institute', 'Advisor', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html', NULL, 'Advisor', 'Effective altruism')
     ,('Peter Singer', 'Happier Lives Institute', 'Advisor', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html', NULL, 'Advisor', 'Effective altruism')
     ,('Robin van Dalen', 'Happier Lives Institute', 'Contributor', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')
     ,('Sid Sharma', 'Happier Lives Institute', 'Volunteer', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200812172755/https://www.happierlivesinstitute.org/our-team.html', NULL, 'Volunteer', 'Effective altruism')
     ,('Sonia Vallentin', 'Happier Lives Institute', 'Researcher Volunteer', '2019-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20200812172755/https://www.happierlivesinstitute.org/our-team.html', NULL, 'Volunteer', 'Effective altruism')
-    ,('Sonia Vallentin', 'Happier Lives Institute', 'Researcher', '2019-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html https://www.linkedin.com/in/sonia-vallentin/?originalSubdomain=uk', NULL, NULL, 'Effective altruism')
+    ,('Sonia Vallentin', 'Happier Lives Institute', 'Researcher', '2019-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html https://www.linkedin.com/in/sonia-vallentin/', NULL, NULL, 'Effective altruism')
     ,('Stephan Tegtmeier', 'Happier Lives Institute', 'Personal Happiness Interventions Researcher', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')
     ,('Tatjana Visak', 'Happier Lives Institute', 'Contributor', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')
     ,('Teis Rasmussen', 'Happier Lives Institute', 'Careers Researcher', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')
     ,('Ulf Johansson', 'Happier Lives Institute', 'Researcher', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html', NULL, NULL, 'Effective altruism')
-    ,('Vanessa See', 'Happier Lives Institute', 'Contributor', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html', NULL, NULL, 'Effective altruism')
+
 
 
 /*..................................................................Closed positions below.......................................................................*/
@@ -95,7 +102,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Florian Onur Kuhlmeier', 'Happier Lives Institute', 'Research Volunteer', '2018-11-01', 'month', '2021-03-01', 'month', 'https://www.linkedin.com/in/floriankuhlmeier/', NULL, NULL, 'Effective altruism')  /*closed*/
     ,('Carmen Csilla Medina', 'Happier Lives Institute', 'Research Volunteer', '2020-07-01', 'month', '2021-08-01', 'month', 'https://www.linkedin.com/in/carmen-csilla-medina/details/experience/', NULL, NULL, 'Effective altruism')  /*closed*/
     ,('Caitlin Walker', 'Happier Lives Institute', 'Intern', '2020-02-01', 'month', '2020-12-01', 'month', 'https://web.archive.org/web/20200812172755/https://www.happierlivesinstitute.org/our-team.html https://www.linkedin.com/in/caitlin-walker-a0a812171/', NULL, 'Intern', 'Effective altruism') /*closed*/
-
-
-
+    ,('Vanessa See', 'Happier Lives Institute', 'Contributor', '2020-01-01', 'year', '2020-08-12', 'year', 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html https://web.archive.org/web/20200812172755/https://www.happierlivesinstitute.org/our-team.html', NULL, NULL, 'Effective altruism') /*closed*/
+    ,('Joey Savoie', 'Happier Lives Institute', 'Advisor', '2019-06-01', 'month', '2021-12-01', 'month', 'https://www.linkedin.com/in/joey-savoie-b5937356/', NULL, 'Advisor', 'Effective altruism') /*closed*/
+    ,('Clare Donaldson', 'Happier Lives Institute', 'Chief Operating Officer', '2019-09-01', 'month', '2021-09-01', 'month', 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html https://www.linkedin.com/in/clare-donaldson-224257133/', NULL, NULL, 'Effective altruism') /*closed*/
  
