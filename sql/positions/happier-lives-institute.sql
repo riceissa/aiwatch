@@ -91,9 +91,13 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jide Alaga', 'Happier Lives Institute', 'Research contributor', '2020-01-01', 'multi-year', '2020-01-01', 'multi-year', 'https://www.happierlivesinstitute.org/research/2020-annual-review/', NULL, 'Volunteer', 'Effective altruism')  /*closed*/  
     ,('Lucia Coulter', 'Happier Lives Institute', 'Volunteer Researcher', '2018-11-01', 'month', '2020-05-01', 'month', ' https://www.linkedin.com/in/lucia-coulter-657877162/details/experience/', NULL, 'Volunteer', 'Effective altruism')  /*closed*/   
     ,('Derek Foster', 'Happier Lives Institute', 'Research contributor', '2020-01-01', 'multi-year', '2020-01-01', 'multi-year', 'https://www.happierlivesinstitute.org/research/2020-annual-review/', NULL, 'Volunteer', 'Effective altruism')  /*closed*/
+    ,('Miles "Milo" King', 'Happier Lives Institute', 'Volunteer Research Assistant', '2020-03-01', 'month', '2020-07-01', 'month', 'https://www.linkedin.com/in/miles-milo-king-26a98b83/ https://www.happierlivesinstitute.org/research/2020-annual-review/', NULL, 'Part-time', 'Effective altruism')  /*closed*/
 
 
 
 
 
+
+
+ 
  
