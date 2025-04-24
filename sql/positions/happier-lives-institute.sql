@@ -23,10 +23,13 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Sara McLennan', 'Happier Lives Institute', 'Advisor', '2024-07-29', 'month', NULL, NULL, 'https://web.archive.org/web/20240729230055/https://www.happierlivesinstitute.org/about/meet-the-team/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, 'Advisor', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/ 
     ,('Mark Fabian', 'Happier Lives Institute', 'Advisor', '2024-10-07', 'month', NULL, NULL, 'https://web.archive.org/web/20241007230420/https://www.happierlivesinstitute.org/about/meet-the-team/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, 'Advisor', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/  
     ,('Crick Lund', 'Happier Lives Institute', 'Advisor', '2024-07-29', 'month', NULL, NULL, 'https://web.archive.org/web/20240729230055/https://www.happierlivesinstitute.org/about/meet-the-team/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, 'Advisor', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/
-
+    ,('Frances Chen', 'Happier Lives Institute', 'Advisor', '2024-07-29', 'month', NULL, NULL, 'https://web.archive.org/web/20240729230055/https://www.happierlivesinstitute.org/about/meet-the-team/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, 'Advisor', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/
 
 
  
+
+
+
 
 
 
@@ -83,3 +86,14 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('​Jasper Synowski', 'Happier Lives Institute', 'Research Volunteer', '2018-11-01', 'month', '2020-11-01', 'month', 'https://web.archive.org/web/20200812172755/https://www.happierlivesinstitute.org/our-team.html https://www.linkedin.com/in/jasper-synowski-648232135/?originalSubdomain=de', NULL, 'Volunteer', 'Effective altruism')  /*closed*/      
     ,('Lucia Coulter', 'Happier Lives Institute', 'Volunteer Researcher', '2018-11-01', 'month', '2020-05-01', 'month', 'https://web.archive.org/web/20200812172755/https://www.happierlivesinstitute.org/our-team.html https://www.linkedin.com/in/lucia-coulter-657877162/?originalSubdomain=mw', NULL, 'Volunteer', 'Effective altruism')  /*closed*/      
     ,('Justus Baumann​', 'Happier Lives Institute', 'Research and Community Manager', '2019-04-01', 'month', '2020-02-01', 'month', 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html https://www.linkedin.com/in/justus-baumann-103044157/?originalSubdomain=de', NULL, NULL, 'Effective altruism')  /*closed*/      
+    ,('Lara Watson​', 'Happier Lives Institute', 'Communications Manager', '2023-08-01', 'month', '2024-09-01', 'month', 'https://www.linkedin.com/in/lara-watson-de-stadler/', NULL, 'Full-time', 'Effective altruism')  /*closed*/  
+    ,('Kaleem Ahmid', 'Happier Lives Institute', 'Researcher', '2020-07-01', 'month', '2021-05-01', 'month', 'https://web.archive.org/web/20240729230055/https://www.happierlivesinstitute.org/about/meet-the-team/ https://www.linkedin.com/in/kaleemahmid/details/experience/', NULL, 'Full-time', 'Effective altruism')  /*closed*/  
+    ,('Jide Alaga', 'Happier Lives Institute', 'Research contributor', '2020-01-01', 'multi-year', '2020-01-01', 'multi-year', 'https://www.happierlivesinstitute.org/research/2020-annual-review/', NULL, 'Volunteer', 'Effective altruism')  /*closed*/  
+    ,('Lucia Coulter', 'Happier Lives Institute', 'Volunteer Researcher', '2018-11-01', 'month', '2020-05-01', 'month', ' https://www.linkedin.com/in/lucia-coulter-657877162/details/experience/', NULL, 'Volunteer', 'Effective altruism')  /*closed*/   
+    ,('Derek Foster', 'Happier Lives Institute', 'Research contributor', '2020-01-01', 'multi-year', '2020-01-01', 'multi-year', 'https://www.happierlivesinstitute.org/research/2020-annual-review/', NULL, 'Volunteer', 'Effective altruism')  /*closed*/
+
+
+
+
+
+ 
