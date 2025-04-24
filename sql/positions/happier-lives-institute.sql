@@ -43,7 +43,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
     ,('Brendan Eappen', 'Happier Lives Institute', 'Researcher', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html', NULL, NULL, 'Effective altruism')  
-    ,('Caitlin Walker', 'Happier Lives Institute', 'Volunteer', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200812172755/https://www.happierlivesinstitute.org/our-team.html', NULL, 'Volunteer', 'Effective altruism')
+
     ,('Clare Donaldson', 'Happier Lives Institute', 'Chief Operating Officer', '2019-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html https://www.linkedin.com/in/clare-donaldson-224257133/?originalSubdomain=uk', NULL, NULL, 'Effective altruism')
     ,('​Derek Foster​', 'Happier Lives Institute', 'Contributor', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')
     ,('Derek Foster', 'Happier Lives Institute', 'Research Volunteer', '2020-08-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200812172755/https://www.happierlivesinstitute.org/our-team.html', NULL, 'Volunteer', 'Effective altruism')
@@ -92,12 +92,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Lucia Coulter', 'Happier Lives Institute', 'Volunteer Researcher', '2018-11-01', 'month', '2020-05-01', 'month', ' https://www.linkedin.com/in/lucia-coulter-657877162/details/experience/', NULL, 'Volunteer', 'Effective altruism')  /*closed*/   
     ,('Derek Foster', 'Happier Lives Institute', 'Research contributor', '2020-01-01', 'multi-year', '2020-01-01', 'multi-year', 'https://www.happierlivesinstitute.org/research/2020-annual-review/', NULL, 'Volunteer', 'Effective altruism')  /*closed*/
     ,('Miles "Milo" King', 'Happier Lives Institute', 'Volunteer Research Assistant', '2020-03-01', 'month', '2020-07-01', 'month', 'https://www.linkedin.com/in/miles-milo-king-26a98b83/ https://www.happierlivesinstitute.org/research/2020-annual-review/', NULL, 'Part-time', 'Effective altruism')  /*closed*/
+    ,('Florian Onur Kuhlmeier', 'Happier Lives Institute', 'Research Volunteer', '2018-11-01', 'month', '2021-03-01', 'month', 'https://www.linkedin.com/in/floriankuhlmeier/', NULL, NULL, 'Effective altruism')  /*closed*/
+    ,('Carmen Csilla Medina', 'Happier Lives Institute', 'Research Volunteer', '2020-07-01', 'month', '2021-08-01', 'month', 'https://www.linkedin.com/in/carmen-csilla-medina/details/experience/', NULL, NULL, 'Effective altruism')  /*closed*/
+    ,('Caitlin Walker', 'Happier Lives Institute', 'Intern', '2020-02-01', 'month', '2020-12-01', 'month', 'https://web.archive.org/web/20200812172755/https://www.happierlivesinstitute.org/our-team.html https://www.linkedin.com/in/caitlin-walker-a0a812171/', NULL, 'Intern', 'Effective altruism') /*closed*/
 
 
 
-
-
-
-
- 
  
