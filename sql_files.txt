@@ -158,6 +158,7 @@ sql/positions/survival-and-flourishing.org.sql
 sql/positions/suvita.sql
 sql/positions/talos-network.sql
 sql/positions/the-institute-for-ethical-aI-machine-learning.sql
+sql/positions/the-navigation-fund.sql
 sql/positions/the-humane-league.sql
 sql/positions/theiss-research.sql
 sql/positions/the-mission-motor.sql
