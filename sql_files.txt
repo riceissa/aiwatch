@@ -53,6 +53,7 @@ sql/positions/charity-science-health.sql
 sql/positions/charity-science.sql
 sql/positions/condor-camp.sql
 sql/positions/conjecture.sql
+sql/positions/consultants-for-impact.sql
 sql/positions/continualai.sql
 sql/positions/cooperativeai.sql
 sql/positions/cornell-effective-altruism.sql
