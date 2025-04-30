@@ -1,5 +1,18 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
 
+
+
+     ('Siobhan Ballan', 'Sentience Politics', 'Fundraising Associate', '2022-07-01', 'month', '2025-04-01', 'month', 'linkedin.com/in/siobhan-ballan/ https://web.archive.org/web/20250430162829/https://sentience.ch/en/team/', NULL, NULL, 'Animal welfare') /*Last Wayback snapshot is from 2025-04-30*/   /*current position*/  
+     ,('Bettina Huber', 'Sentience Politics', 'Head of Communications and Fundraising', '2023-11-01', 'month',  NULL, NULL, 'linkedin.com/in/siobhan-ballan/ https://web.archive.org/web/20250430162829/https://sentience.ch/en/team/', NULL, NULL, 'Animal welfare') /*Last Wayback snapshot is from 2025-04-30*/   /*current position*/  
+
+
+
+
+
+ 
+ 
+
+
  
      ('Adrian Rørheim', 'Sentience Politics', 'Research Associate', '2016-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20160406124428/http://sentience-politics.org/about/team/', NULL, NULL, 'Animal welfare')
     ,('Adriano Mannino', 'Sentience Politics', 'Co-Founder', '2014-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20150412234256/http://sentience-politics.org/about-2/ https://www.linkedin.com/in/adriano-mannino-5004a0a5/', NULL, NULL, 'Animal welfare')
@@ -53,3 +66,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Tobias Pulver', 'Sentience Politics', 'Board member', '2017-06-02', 'month', NULL,NULL, 'https://web.archive.org/web/20210104022808/https://ea-foundation.org/blog/update-on-the-future-of-sentience-politics/', NULL, 'board member', 'Animal welfare')
     ,('Urban Müller', 'Sentience Politics', 'Board Member', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210103200335/https://sentience-politics.org/de/about/team/', NULL, 'board member', 'Animal welfare')
     ,('Valentin Salzgeber', 'Sentience Politics', 'Board Member', '2019-07-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190713153608/https://sentience-politics.org/de/about/team/', NULL, 'board member', 'Animal welfare')
+
+
+/*................................................Closed positions below................................................................*/
+     ,('Siobhan Ballan', 'Sentience Politics', 'Fundraiser (Animal Advocacy Careers placement)', '2022-07-01', 'month', '2023-01-01', 'month', 'linkedin.com/in/siobhan-ballan/', NULL, NULL, 'Animal welfare') /*closed*/
+    ,('Bettina Huber', 'Sentience Politics', 'Board member', '2023-04-01', 'month', '2023-11-01', 'month', 'linkedin.com/in/siobhan-ballan/', NULL, NULL, 'Animal welfare') /*closed*/       
