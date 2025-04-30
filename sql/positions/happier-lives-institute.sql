@@ -26,50 +26,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Frances Chen', 'Happier Lives Institute', 'Advisor', '2024-07-29', 'month', NULL, NULL, 'https://web.archive.org/web/20240729230055/https://www.happierlivesinstitute.org/about/meet-the-team/ https://web.archive.org/web/20250401104300/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, 'Advisor', 'Effective altruism') /*Last reviewed Wayback snapshot is from 2025-04-20*/ /*current position*/
 
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
-
-
-
-
-
-
- 
-
-
-    ,('Lucia Coulter', 'Happier Lives Institute', 'Researcher', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.htmL', NULL, NULL, 'Effective altruism')
-    ,('Paul Davies', 'Happier Lives Institute', 'Contributor', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html https://www.linkedin.com/in/paulojdavies', NULL, NULL, 'Effective altruism')
-    ,('Peter Brietbart', 'Happier Lives Institute', 'Advisor', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html', NULL, 'Advisor', 'Effective altruism')
-    ,('Peter Singer', 'Happier Lives Institute', 'Advisor', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200130033445/https://www.happierlivesinstitute.org/our-team.html', NULL, 'Advisor', 'Effective altruism')
-    ,('Robin van Dalen', 'Happier Lives Institute', 'Contributor', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')
-    ,('Sid Sharma', 'Happier Lives Institute', 'Volunteer', '2020-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200812172755/https://www.happierlivesinstitute.org/our-team.html', NULL, 'Volunteer', 'Effective altruism')
-    ,('Stephan Tegtmeier', 'Happier Lives Institute', 'Personal Happiness Interventions Researcher', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')
-    ,('Tatjana Visak', 'Happier Lives Institute', 'Contributor', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')
-    ,('Teis Rasmussen', 'Happier Lives Institute', 'Careers Researcher', '2021-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')
-
-
-
-
 /*..................................................................Closed positions below.......................................................................*/
      ,('Alexandra Shearn', 'Happier Lives Institute', 'Operations Manager', '2024-04-01', 'month', '2024-08-01', 'month', 'https://www.linkedin.com/in/alexandra-shearn-09636a80/', NULL, NULL, 'Effective altruism') /*closed*/
      ,('Samuel Dupret', 'Happier Lives Institute', 'Research Analyst', '2021-10-01', 'month', '2025-02-01', 'month', 'https://www.linkedin.com/in/samuel-dupret/', NULL, NULL, 'Effective altruism') /*closed*/      
@@ -106,4 +62,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('​Amanda Mai', 'Happier Lives Institute', 'Contributor', '2020-09-19', 'multi-year', '2021-03-01', 'year', 'https://web.archive.org/web/20200919014855/https://www.happierlivesinstitute.org/test.html https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')     /*closed*/
     ,('Justus Arndt', 'Happier Lives Institute', 'General Project Manager', '2020-09-19', 'multi-year', '2021-03-01', 'year', 'https://web.archive.org/web/20200919014855/https://www.happierlivesinstitute.org/test.html https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')     /*closed*/    
     ,('Karolina Sarek', 'Happier Lives Institute', 'Advisor', '2020-01-01', 'multi-year', '2025-01-28', 'month', 'https://web.archive.org/web/20200812172755/https://www.happierlivesinstitute.org/our-team.html https://web.archive.org/web/20250128005052/https://www.happierlivesinstitute.org/about/meet-the-team/', NULL, 'Advisor', 'Effective altruism') /*closed*/   
- 
+    ,('Paul Davies', 'Happier Lives Institute', 'Contributor', '2020-09-19', 'multi-year', '2021-03-01', 'year', 'https://web.archive.org/web/20200919014855/https://www.happierlivesinstitute.org/test.html https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')     /*closed*/
+    ,('Peter Brietbart', 'Happier Lives Institute', 'Chair', '2019-06-01', 'month', '2023-09-01', 'month', 'https://www.happierlivesinstitute.org/', NULL, 'Board member', 'Effective altruism')   /*closed*/  
+    ,('Peter Brietbart', 'Happier Lives Institute', 'Managing Director', '2023-09-01', 'month', '2024-09-01', 'month', 'https://www.happierlivesinstitute.org/', NULL, 'Full-time', 'Effective altruism')   /*closed*/ 
+    ,('Robin van Dalen', 'Happier Lives Institute', 'Contributor', '2020-09-19', 'multi-year', '2021-03-01', 'year', 'https://web.archive.org/web/20200919014855/https://www.happierlivesinstitute.org/test.html https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')     /*closed*/
+    ,('Tatjana Visak', 'Happier Lives Institute', 'Contributor', '2020-09-19', 'multi-year', '2021-03-01', 'year', 'https://web.archive.org/web/20200919014855/https://www.happierlivesinstitute.org/test.html https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')     /*closed*/
+    ,('Stephan Tegtmeier', 'Happier Lives Institute', 'Personal Happiness Interventions Researcher', '2020-09-19', 'multi-year', '2021-03-01', 'year', 'https://web.archive.org/web/20200919014855/https://www.happierlivesinstitute.org/test.html https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')     /*closed*/
+    ,('Teis Rasmussen', 'Happier Lives Institute', 'Careers Researcher', '2020-09-19', 'multi-year', '2021-03-01', 'year', 'https://web.archive.org/web/20200919014855/https://www.happierlivesinstitute.org/test.html https://web.archive.org/web/20210301214828/https://www.happierlivesinstitute.org/test.html', NULL, NULL, 'Effective altruism')     /*closed*/

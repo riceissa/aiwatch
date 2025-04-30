@@ -25,11 +25,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 /* ONLY LINKEDIN */  
  
- ('Edmo Gamelin', 'Consultants for Impact', 'Director of Research & Operations', '2023-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/edmo-gamelin-he-him-%F0%9F%94%B7%EF%B8%8F-583a1261/', NULL, 'full-time', 'Effective altruism') 
-('Sarah Pomeranz', 'Consultants for Impact', 'Chief Executive Officer', '2022-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sarah-pomeranz/', NULL, 'full-time', 'Effective altruism') 
+,('Edmo Gamelin', 'Consultants for Impact', 'Director of Research & Operations', '2023-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/edmo-gamelin-he-him-%F0%9F%94%B7%EF%B8%8F-583a1261/', NULL, 'full-time', 'Effective altruism') 
+,('Sarah Pomeranz', 'Consultants for Impact', 'Chief Executive Officer', '2022-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sarah-pomeranz/', NULL, 'full-time', 'Effective altruism') 
 
 /* CLOSED */  
 
-('Emily Dardaman', 'Consultants for Impact', 'Content Lead and Career Advisor', '2024-06-01', 'month', '2025-01-01', 'month', 'https://web.archive.org/web/20240624204321/https://www.consultantsforimpact.org/network-directory https://www.linkedin.com/in/emily-dardaman/ https://web.archive.org/web/20250417144144/https://www.consultantsforimpact.org/network-directory', NULL, 'advisor', 'Effective altruism') 
+,('Emily Dardaman', 'Consultants for Impact', 'Content Lead and Career Advisor', '2024-06-01', 'month', '2025-01-01', 'month', 'https://web.archive.org/web/20240624204321/https://www.consultantsforimpact.org/network-directory https://www.linkedin.com/in/emily-dardaman/ https://web.archive.org/web/20250417144144/https://www.consultantsforimpact.org/network-directory', NULL, 'advisor', 'Effective altruism') 
 
 
