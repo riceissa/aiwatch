@@ -12,7 +12,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Helen Schilling', 'Sentience Politics', 'Social Media', '2022-12-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250403200528/https://sentience.ch/en/team/helen-schilling/ https://web.archive.org/web/20250430162829/https://sentience.ch/en/team/', NULL, 'Volunteer', 'Animal welfare') /*Last Wayback snapshot is from 2025-04-30*/   /*current position*/  
     ,('Katerina Stoykova', 'Sentience Politics', 'Advisory Board Member', '2021-01-01', 'month', NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/ https://web.archive.org/web/20250430162829/https://sentience.ch/en/team/', NULL, 'Advisor', 'Animal welfare') /*Last Wayback snapshot is from 2025-04-30*/   /*current position*/  
     ,('Melina Tan', 'Sentience Politics', 'Volunteer Fundraising Associate', '2020-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250430162829/https://sentience.ch/en/team/ https://www.linkedin.com/in/melina-tan-743b04/', NULL, 'volunteer', 'Animal welfare') /*Last Wayback snapshot is from 2025-04-30*/   /*current position*/  
- 
+    ,('Markus Wild', 'Sentience Politics', 'Advisor', '2022-01-01', 'multi-year', NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/ https://web.archive.org/web/20250430162829/https://sentience.ch/en/team/', NULL, 'Advisor', 'Animal welfare')  /*Last Wayback snapshot is from 2025-04-30*/   /*current position*/  
+    ,('Jeannine Kiser', 'Sentience Politics', 'Member of the Board of Directors', '2023-06-26', 'multi-year', NULL,NULL, 'https://web.archive.org/web/20230626225857/https://sentience.ch/en/team/ https://web.archive.org/web/20250430162829/https://sentience.ch/en/team/', NULL, 'Board member', 'Animal welfare') /*Last Wayback snapshot is from 2025-04-30*/   /*current position*/  
+    ,('Catherine Hermans', 'Sentience Politics', 'Co-President', '2023-06-26', 'multi-year', NULL,NULL, 'https://web.archive.org/web/20230626225857/https://sentience.ch/en/team/ https://web.archive.org/web/20250430162829/https://sentience.ch/en/team/', NULL, 'Board member', 'Animal welfare') /*Last Wayback snapshot is from 2025-04-30*/   /*current position*/ 
+    ,('Priska Baur', 'Sentience Politics', 'Advisor', '2022-01-01', 'multi-year', NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/ https://web.archive.org/web/20250430162829/https://sentience.ch/en/team/', NULL, 'Advisor', 'Animal welfare') /*Last Wayback snapshot is from 2025-04-30*/   /*current position*/ 
+
+
  
 
  
@@ -45,11 +50,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Lea Born', 'Sentience Politics', 'Board Member', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, 'Board Member', 'Animal welfare')
     ,('Lucius Caviola', 'Sentience Politics', 'Research Associate', '2016-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20160406124428/http://sentience-politics.org/about/team/', NULL, NULL, 'Animal welfare')
     ,('Luisa Baumgartner', 'Sentience Politics', 'Campaign team', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, NULL, 'Animal welfare')
-    ,('Markus Wild', 'Sentience Politics', 'Advisor', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, 'Advisor', 'Animal welfare')
     ,('Meret Schneider', 'Sentience Politics', 'Co-director', '2017-06-02', 'month', NULL, NULL, 'https://web.archive.org/web/20210104022808/https://ea-foundation.org/blog/update-on-the-future-of-sentience-politics/', NULL, NULL, 'Animal welfare')
     ,('Meret Schneider', 'Sentience Politics', 'Project Manager', '2015-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20151018063925/http://sentience-politics.org/about-2/', NULL, NULL, 'Animal welfare')
     ,('Mirjam Arn', 'Sentience Politics', 'Volunteer', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210103200335/https://sentience-politics.org/de/about/team/', NULL, 'volunteer', 'Animal welfare')
-    ,('Naoki Peter', 'Sentience Politics', 'Board member', '2018-02-01', 'month', NULL, NULL, 'https://web.archive.org/web/20190713153608/https://sentience-politics.org/de/about/team/ https://www.linkedin.com/in/naokipeter/?originalSubdomain=ch', NULL, 'board member', 'Animal welfare') 
     ,('Naoki Peter', 'Sentience Politics', 'co-presidency', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, NULL, 'Animal welfare')
     ,('Natalie Cargill', 'Sentience Politics', 'Manager', '2016-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20160320014056/http://sentience-politics.org/about/team/', NULL, NULL, 'Animal welfare')
     ,('Noëmi Erig', 'Sentience Politics', 'Board member', '2019-07-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190713153608/https://sentience-politics.org/de/about/team/', NULL, 'board member', 'Animal welfare') 
@@ -64,7 +67,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
  
  
 
-    ,('Priska Baur', 'Sentience Politics', 'Advisor', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, 'Advisor', 'Animal welfare')
+
     ,('Raffael Fasel', 'Sentience Politics', 'Advisor', '2016-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20160406124428/http://sentience-politics.org/about/team/', NULL, 'Advisor', 'Animal welfare')
     ,('Rahel Alt', 'Sentience Politics', 'Volunteer', '2020-05-01', 'month', NULL, NULL, 'https://web.archive.org/web/20210103200335/https://sentience-politics.org/de/about/team/ https://www.linkedin.com/in/rahel-alt-7a97751b9/?originalSubdomain=ch', NULL, 'volunteer', 'Animal welfare')
     ,('Reto Walther', 'Sentience Politics', 'Board Member', '2019-07-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190713153608/https://sentience-politics.org/de/about/team/ https://www.linkedin.com/in/retowalther/?originalSubdomain=ch', NULL, 'board member', 'Animal welfare')
