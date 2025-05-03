@@ -130,6 +130,7 @@ sql/positions/odiseia.sql
 sql/positions/one-for-the-world.sql
 sql/positions/open-philanthropy.sql
 sql/positions/openai.sql
+sql/positions/open-cages.sql
 sql/positions/open-north.sql
 sql/positions/ought.sql
 sql/positions/our-world-in-data.sql
