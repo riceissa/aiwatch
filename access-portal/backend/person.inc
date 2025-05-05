@@ -97,12 +97,12 @@ while ($row = $result->fetch_assoc()) { ?>
 
 <?php } ?>
 
-  <?php if ($dlw = dlw_links_list($mysqli, $person, $subdomain)) { ?>
+  <?php // if ($dlw = dlw_links_list($mysqli, $person, $subdomain)) { ?>
     <tr>
       <td>Donations List Website (data still preliminary)</td>
-      <td><?= implode(", ", $dlw) ?></td>
+      <td><?php // echo implode(", ", $dlw) ?></td>
     </tr>
-  <?php } ?>
+  <?php // } ?>
 
   <?php
   if ($stmt = $mysqli->prepare("select * from agendas where associated_people REGEXP ?")) {
