@@ -75,6 +75,7 @@ sql/positions/european-summer-program-on-rationality.sql
 sql/positions/far_ai.sql
 sql/positions/farmed-animal-funders.sql
 sql/positions/farmkind.sql
+sql/positions/fauna-films.sql
 sql/positions/fishwelfareinitiative.org.sql
 sql/positions/flowers-laboratory.sql
 sql/positions/forecasting-research-institute.sql
