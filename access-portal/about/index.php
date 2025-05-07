@@ -157,6 +157,30 @@ have been adding all the ones I could think of.</p>
 
 <p>
 
+<h2>Removal requests</h2>
+
+<p>The current loose policy is to honor removal requests in cases where
+<em>both</em> of these conditions are true:</p>
+
+<ol>
+    <li>There is a reasonable justification for the information to not be
+    publicly accessible (e.g. someone is transitioning to a career in the
+    mental health space and it is important for future clients to not be able
+    to look up their personal info).</li>
+    <li>The information is not otherwise publicly accessible: for instance,
+    it’s not easily found on the organization’s website, the person’s LinkedIn,
+    or coverage in media and community posts, <em>or</em> it is in the process
+    of being removed from all the places where it is easily publicly
+    accessible.</li>
+</ol>
+
+<p>If both of these conditions are true and you would like your information to
+be removed from the site, email Vipul Naik at vipulnaik1@gmail.com.</p>
+
+<p>This policy is not formal or binding or exhaustive or fixed in any way, and
+Vipul and/or Issa may choose to not honor your request. The policy may change at any time
+with no notice.</p>
+
 <h2>Feedback</h2>
 
 <p>If you have feedback for the site, email Issa at riceissa@gmail.com. You can also <a href="https://github.com/riceissa/aiwatch/issues">add an issue</a> on the GitHub repository.
