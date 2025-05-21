@@ -21,6 +21,7 @@ sql/positions/ambitious-impact.sql
 sql/positions/amf.sql
 sql/positions/animal-advocacy-africa.sql
 sql/positions/animal-advocacy-careers.sql
+sql/positions/animal-defense-partnership.sql
 sql/positions/anthropic.sql
 sql/positions/antikythera.sql
 sql/positions/arb-research.sql
@@ -30,6 +31,7 @@ sql/positions/ayuda-efectiva.sql
 sql/positions/balsa-research.sql
 sql/positions/beri.sql
 sql/positions/biotein.sql
+sql/positions/blue-horizon.sql
 sql/positions/bluedot-impact.sql
 sql/positions/cea.sql
 sql/positions/cealar.sql
@@ -74,6 +76,7 @@ sql/positions/european-summer-program-on-rationality.sql
 sql/positions/far_ai.sql
 sql/positions/farmed-animal-funders.sql
 sql/positions/farmkind.sql
+sql/positions/fauna-films.sql
 sql/positions/fishwelfareinitiative.org.sql
 sql/positions/flowers-laboratory.sql
 sql/positions/forecasting-research-institute.sql
@@ -130,6 +133,7 @@ sql/positions/odiseia.sql
 sql/positions/one-for-the-world.sql
 sql/positions/open-philanthropy.sql
 sql/positions/openai.sql
+sql/positions/open-cages.sql
 sql/positions/open-north.sql
 sql/positions/ought.sql
 sql/positions/our-world-in-data.sql
@@ -150,6 +154,7 @@ sql/positions/sci-foundation.sql
 sql/positions/sens.sql
 sql/positions/sentience-institute.sql
 sql/positions/sentience-politics.sql
+sql/positions/sharpen-strategy.sql
 sql/positions/simon-institute-for-longterm-governance.sql
 sql/positions/stanford-existential-risks-initiative.sql
 sql/positions/stanford-institute-for-human-centered-artificial-intelligence.sql
