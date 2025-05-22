@@ -25,7 +25,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
-    ,('Reto Walther', 'Sentience Politics', 'Board Member', '2019-07-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190713153608/https://sentience-politics.org/de/about/team/ https://www.linkedin.com/in/retowalther/', NULL, 'board member', 'Animal welfare')
+
     ,('Tobias Baumann', 'Sentience Politics', 'Advisor', '2016-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190226000557/https://sentience-politics.org/de/about/team/ https://web.archive.org/web/20190713153608/https://sentience-politics.org/de/about/team/', NULL, 'Advisor', 'Animal welfare')
     ,('Valentin Salzgeber', 'Sentience Politics', 'Board Member', '2019-07-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190713153608/https://sentience-politics.org/de/about/team/', NULL, 'board member', 'Animal welfare')
 
@@ -93,3 +93,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Silvano Lieger', 'Sentience Politics', 'Co-Managing Director', '2019-07-01', 'month', '2021-09-30', 'multi-year', 'https://web.archive.org/web/20210103200335/https://sentience-politics.org/de/about/team/ https://www.linkedin.com/in/lieger/ https://web.archive.org/web/20210920112735/https://sentience-politics.org/de/about/team/', NULL, 'full-time', 'Animal welfare')    /*closed*/   
     ,('Daniel Rüthemann', 'Sentience Politics', 'Graphic and design', '2019-07-01', 'multi-year', '2025-04-01', 'month', 'https://web.archive.org/web/20190713153608/https://sentience-politics.org/de/about/team/ https://web.archive.org/web/20250401074039/https://sentience.ch/de/prof-dr-markus-wild/', NULL, NULL, 'Animal welfare') /*closed*/    
     ,('Noëmi Erig', 'Sentience Politics', 'Board member', '2019-02-26', 'multi-year', '2019-07-01', 'multi-year', 'https://web.archive.org/web/20190226000557/https://sentience-politics.org/de/about/team/ https://web.archive.org/web/20190713153608/https://sentience-politics.org/de/about/team/', NULL, 'board member', 'Animal welfare')   /*closed*/       
+    ,('Reto Walther', 'Sentience Politics', 'Board Member', '2019-02-26', 'month', '2023-04-15', 'multi-year', 'https://web.archive.org/web/20190226000557/https://sentience-politics.org/de/about/team/ https://web.archive.org/web/20230415081113/https://sentience.ch/de/team/', NULL, 'board member', 'Animal welfare') /*closed*/  
