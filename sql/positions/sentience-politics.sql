@@ -17,25 +17,15 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Catherine Hermans', 'Sentience Politics', 'Co-President', '2023-06-26', 'multi-year', NULL,NULL, 'https://web.archive.org/web/20230626225857/https://sentience.ch/en/team/ https://web.archive.org/web/20250430162829/https://sentience.ch/en/team/', NULL, 'Board member', 'Animal welfare') /*Last Wayback snapshot is from 2025-04-30*/   /*current position*/ 
     ,('Priska Baur', 'Sentience Politics', 'Advisor', '2022-01-01', 'multi-year', NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/ https://web.archive.org/web/20250430162829/https://sentience.ch/en/team/', NULL, 'Advisor', 'Animal welfare') /*Last Wayback snapshot is from 2025-04-30*/   /*current position*/ 
     ,('Adriano Mannino', 'Sentience Politics', 'Co-Founder', '2014-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20150412234256/http://sentience-politics.org/about-2/ https://www.linkedin.com/in/adriano-mannino-5004a0a5/', NULL, NULL, 'Animal welfare') /*current position*/ 
-
- 
-
- 
-
-
 /*..............................Current positions in the German site.................................................*/
     ,('Naoki Peter', 'Sentience Politics', 'co-presidency', '2022-01-01', 'multi-year', NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/ https://web.archive.org/web/20250401074039/https://sentience.ch/de/prof-dr-markus-wild/', NULL, NULL, 'Animal welfare') /*Last consulted Wayback snapshot is from 2025-04-01*/ /*current position*/ 
     ,('Daniel Rüthemann', 'Sentience Politics', 'Graphic and design', '2019-07-01', 'multi-year', NULL,NULL, 'https://web.archive.org/web/20190713153608/https://sentience-politics.org/de/about/team/ https://web.archive.org/web/20250401074039/https://sentience.ch/de/prof-dr-markus-wild/', NULL, NULL, 'Animal welfare') /*Last consulted Wayback snapshot is from 2025-04-01*/ /*current position*/  
-
+/*.............................................Only LinkedIn positions below................................................................*/
+     ,('Zoé Newton', 'Sentience Politics', 'Associée de recherche', '2023-11-01', 'month',  NULL, NULL, 'https://www.linkedin.com/in/newton-zoe5/', NULL, NULL, 'Animal welfare')  /*current position*/  
+     ,('Sarah Moser', 'Sentience Politics', 'Board Member', '2023-05-01', 'month', NULL,NULL, 'https://www.linkedin.com/in/sarah-moser-06231560/', NULL, 'Board Member', 'Animal welfare')  /*current position*/
 
 
  
-
-
-/*.................................................................Only LinedIn positions below ..............................................................................*/
-
-
-    ,('Sarah Moser', 'Sentience Politics', 'Board Member', '2023-05-01', 'month', NULL,NULL, 'https://www.linkedin.com/in/sarah-moser-06231560/', NULL, 'Board Member', 'Animal welfare')  /*current position*/
 
 
  
@@ -43,29 +33,37 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
+ 
 
-    ,('Charlotte Born', 'Sentience Politics', 'Intern', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, 'Intern', 'Animal welfare')
-    ,('Jonas Vollmer', 'Sentience Politics', 'Board member', '2017-06-02', 'month', NULL, NULL, 'https://web.archive.org/web/20210104022808/https://ea-foundation.org/blog/update-on-the-future-of-sentience-politics/', NULL, 'board member', 'Animal welfare')
 
+
+
+
+
+
+
+
+    ,('Lea Born', 'Sentience Politics', 'Board Member', '2022-01-01', 'multi-year', NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, 'Board Member', 'Animal welfare')
+    ,('Luisa Baumgartner', 'Sentience Politics', 'Campaign team', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, NULL, 'Animal welfare')
     ,('Julia Huguenin', 'Sentience Politics', 'Campaign team', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, NULL, 'Animal welfare')
     ,('Kelly Witwicki', 'Sentience Politics', 'Head of Communication', '2017-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20170405175742/https://sentience-politics.org/about/team/', NULL, NULL, 'Animal welfare')
-    ,('Lea Born', 'Sentience Politics', 'Board Member', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, 'Board Member', 'Animal welfare')
-    ,('Luisa Baumgartner', 'Sentience Politics', 'Campaign team', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, NULL, 'Animal welfare')
+
     ,('Meret Schneider', 'Sentience Politics', 'Co-director', '2017-06-02', 'month', NULL, NULL, 'https://web.archive.org/web/20210104022808/https://ea-foundation.org/blog/update-on-the-future-of-sentience-politics/', NULL, NULL, 'Animal welfare')
     ,('Meret Schneider', 'Sentience Politics', 'Project Manager', '2015-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20151018063925/http://sentience-politics.org/about-2/', NULL, NULL, 'Animal welfare')
     ,('Mirjam Arn', 'Sentience Politics', 'Volunteer', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210103200335/https://sentience-politics.org/de/about/team/', NULL, 'volunteer', 'Animal welfare')
-    ,('Natalie Cargill', 'Sentience Politics', 'Manager', '2016-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20160320014056/http://sentience-politics.org/about/team/', NULL, NULL, 'Animal welfare')
+
     ,('Ozy Brennan', 'Sentience Politics', 'Scientific employee', '2017-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20170415100505/https://sentience-politics.org/de/about/team/', NULL, NULL, 'Animal welfare')
-    ,('Persis Eskander', 'Sentience Politics', 'Research Associate', '2017-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20170415100505/https://sentience-politics.org/de/about/team/', NULL, NULL, 'Animal welfare')
-    ,('Tobias Pulver', 'Sentience Politics', 'Board member', '2017-06-02', 'month', NULL,NULL, 'https://web.archive.org/web/20210104022808/https://ea-foundation.org/blog/update-on-the-future-of-sentience-politics/', NULL, 'board member', 'Animal welfare')
 
 
 
 
-/*.............................................Only LinkedIn positions below................................................................*/
-     ,('Zoé Newton', 'Sentience Politics', 'Associée de recherche', '2023-11-01', 'month',  NULL, NULL, 'https://www.linkedin.com/in/newton-zoe5/', NULL, NULL, 'Animal welfare')  /*current position*/  
+
+
+
 
 /*................................................Closed positions below................................................................*/
+    ,('Philipp Ryf', 'Sentience Politics', 'Co President', '2016-09-01', 'month', '2022-11-01','month', 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/ https://www.linkedin.com/in/philipp-ryf-24095563/', NULL, 'part-time', 'Animal welfare') /*closed*/
+    ,('Philipp Ryf', 'Sentience Politics', 'Project Manager', '2014-09-01', 'month', '2016-08-01', 'month', 'https://web.archive.org/web/20150412234256/http://sentience-politics.org/about-2/ https://www.linkedin.com/in/philipp-ryf-24095563/', NULL, NULL, 'Animal welfare') /*closed*/     
      ,('Siobhan Ballan', 'Sentience Politics', 'Fundraiser (Animal Advocacy Careers placement)', '2022-07-01', 'month', '2023-01-01', 'month', 'linkedin.com/in/siobhan-ballan/', NULL, NULL, 'Animal welfare') /*closed*/
     ,('Bettina Huber', 'Sentience Politics', 'Board member', '2023-04-01', 'month', '2023-11-01', 'month', 'linkedin.com/in/siobhan-ballan/', NULL, NULL, 'Animal welfare') /*closed*/       
     ,('Zoé Newton', 'Sentience Politics', 'Research Volunteer', '2023-05-01', 'month',  '2023-12-01', 'month', 'https://www.linkedin.com/in/newton-zoe5/', NULL, NULL, 'Animal welfare') /*closed*/      
@@ -73,13 +71,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Johanna Kuhn', 'Sentience Politics', 'Management', '2020-07-01', 'month', '2021-11-01', 'month', 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/ https://www.linkedin.com/in/johanna-kuhn/', NULL, NULL, 'Animal welfare')     /*closed*/ 
     ,('Sophie Kwass', 'Sentience Politics', 'Co-director', '2017-07-01', 'month', '2018-10-01', 'month', 'https://www.linkedin.com/in/ann-sophie-kwass-20409b126/ https://web.archive.org/web/20210104022808/https://ea-foundation.org/blog/update-on-the-future-of-sentience-politics/', NULL, NULL, 'Animal welfare')    /*closed*/ 
     ,('Salome Bechtler', 'Sentience Politics', 'Board member', '2018-03-01', 'month', '2019-05-01', 'month', 'https://web.archive.org/web/20190713153608/https://sentience-politics.org/de/about/team/ linkedin.com/in/salome-bechtler-9219b411b?originalSubdomain=ch', NULL, 'board member', 'Animal welfare')     /*closed*/ 
-    ,('Philipp Ryf', 'Sentience Politics', 'Co President', '2016-09-01', 'month', '2022-11-01','month', 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/ https://www.linkedin.com/in/philipp-ryf-24095563/', NULL, 'part-time', 'Animal welfare') /*closed*/
-    ,('Philipp Ryf', 'Sentience Politics', 'Project Manager', '2014-09-01', 'month', '2016-02-01', 'month', 'https://web.archive.org/web/20150412234256/http://sentience-politics.org/about-2/ https://www.linkedin.com/in/philipp-ryf-24095563/', NULL, NULL, 'Animal welfare') /*closed*/    
     ,('Johannes Leutenegger', 'Sentience Politics', 'Co-management', '2018-12-01', 'month', '2019-11-01', 'month', 'https://web.archive.org/web/20190713153608/https://sentience-politics.org/de/about/team/ https://www.linkedin.com/in/johannes-leutenegger-730a38185/', NULL, 'full-time', 'Animal welfare')    /*closed*/ 
     ,('Stefan Torges', 'Sentience Politics', 'Manager', '2015-12-01', 'month', '2016-12-01', 'month', 'https://web.archive.org/web/20160320014056/http://sentience-politics.org/about/team/ https://www.linkedin.com/in/stefan-torges-9b8b537a/', 'Based in Berlin, Germany', 'full-time', 'Animal welfare')     /*closed*/ 
      ,('Adrian Rørheim', 'Sentience Politics', 'Research Associate', '2016-04-01', 'multi-year', '2016-06-23', 'year', 'https://web.archive.org/web/20160406124428/http://sentience-politics.org/about/team/ https://web.archive.org/web/20160623211232/http://sentience-politics.org/about/team/', NULL, NULL, 'Animal welfare')    /*closed*/ 
     ,('Lucius Caviola', 'Sentience Politics', 'Research Associate', '2016-04-01', 'multi-year', '2016-06-23', 'year', 'https://web.archive.org/web/20160406124428/http://sentience-politics.org/about/team/ https://web.archive.org/web/20160623211232/http://sentience-politics.org/about/team/', NULL, NULL, 'Animal welfare')    /*closed*/ 
-    ,('Philipp Ryf', 'Sentience Politics', 'Project Manager', '2014-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20150412234256/http://sentience-politics.org/about-2/', NULL, NULL, 'Animal welfare')  /*closed*/ 
     ,('Raffael Fasel', 'Sentience Politics', 'Legal Director', '2016-04-01', 'multi-year', '2016-06-23', 'year', 'https://web.archive.org/web/20160406124428/http://sentience-politics.org/about/team/ https://web.archive.org/web/20160623211232/http://sentience-politics.org/about/team/', NULL, NULL, 'Animal welfare')    /*closed*/ 
     ,('Raffael Fasel', 'Sentience Politics', 'Legal consultant', '2017-04-05', 'year', '2017-04-05', 'multi-year', 'https://web.archive.org/web/20170405175742/http://sentience-politics.org/about/team/ https://web.archive.org/web/20231212000723/https://sentience.ch/en/team/', NULL, NULL, 'Animal welfare')/*closed*/
     ,('Angelina Dobler', 'Sentience Politics', 'Board Member', '2020-02-01', 'month', '2023-09-01', 'month', 'https://web.archive.org/web/20210103200335/https://sentience-politics.org/de/about/team/ https://www.linkedin.com/in/angelina-dobler-93b19b178/', NULL, 'board member', 'Animal welfare')  /*closed*/  
@@ -99,3 +94,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Anne Wissemann', 'Sentience Politics', 'Operations', '2017-04-01', 'multi-year', '2017-04-01', 'multi-year', 'https://web.archive.org/web/20170415100505/https://sentience-politics.org/de/about/team/ https://web.archive.org/web/20190226000557/https://sentience-politics.org/de/about/team/', NULL, NULL, 'Animal welfare')  /*closed*/   
     ,('Camila Rauchwerger', 'Sentience Politics', 'Manager', '2016-03-01', 'multi-year', '2017-04-01', 'multi-year', 'https://web.archive.org/web/20160320014056/http://sentience-politics.org/about/team/ https://web.archive.org/web/20190226000557/https://sentience-politics.org/de/about/team/', NULL, NULL, 'Animal welfare')  /*closed*/  
     ,('Charles Saint-Marc', 'Sentience Politics', 'Production Advisor', '2021-03-01', 'month', '2022-02-01','month', 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/ https://www.linkedin.com/in/charles-saint-marc/details/experience/', NULL, NULL, 'Animal welfare') /*closed*/    
+    ,('Persis Eskander', 'Sentience Politics', 'Research Associate', '2017-04-01', 'multi-year', '2019-02-26', 'multi-year', 'https://web.archive.org/web/20170415100505/https://sentience-politics.org/de/about/team/ https://web.archive.org/web/20190226000557/https://sentience-politics.org/de/about/team/', NULL, NULL, 'Animal welfare')    /*closed*/  
+    ,('Natalie Cargill', 'Sentience Politics', 'Manager', '2016-03-01', 'multi-year', '2017-04-15', 'multi-year', 'https://web.archive.org/web/20160320014056/http://sentience-politics.org/about/team/ https://web.archive.org/web/20170415100505/https://sentience-politics.org/de/about/team/', NULL, NULL, 'Animal welfare')  /*closed*/     
+    ,('Charlotte Born', 'Sentience Politics', 'Intern', '2021-09-01', 'multi-year', '2023-04-15','multi-year', 'https://web.archive.org/web/20210920112735/https://sentience-politics.org/de/about/team/ https://web.archive.org/web/20230415081113/https://sentience.ch/de/team/', NULL, 'Intern', 'Animal welfare')   /*closed*/     
+    ,('Jonas Vollmer', 'Sentience Politics', 'Board member', '2017-06-02', 'month', '2025-04-01', 'multi-year', 'https://web.archive.org/web/20210104022808/https://ea-foundation.org/blog/update-on-the-future-of-sentience-politics/', NULL, 'board member', 'Animal welfare') /*closed*/
+    ,('Tobias Pulver', 'Sentience Politics', 'Board member', '2017-06-02', 'month', '2025-04-01','multi-year', 'https://web.archive.org/web/20210104022808/https://ea-foundation.org/blog/update-on-the-future-of-sentience-politics/', NULL, 'board member', 'Animal welfare')   /*closed*/    
