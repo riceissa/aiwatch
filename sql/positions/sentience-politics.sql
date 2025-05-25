@@ -43,9 +43,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
-    ,('Lea Born', 'Sentience Politics', 'Board Member', '2022-01-01', 'multi-year', NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, 'Board Member', 'Animal welfare')
-    ,('Luisa Baumgartner', 'Sentience Politics', 'Campaign team', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, NULL, 'Animal welfare')
-    ,('Julia Huguenin', 'Sentience Politics', 'Campaign team', '2022-01-01', NULL, NULL,NULL, 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/', NULL, NULL, 'Animal welfare')
+
+
+
     ,('Kelly Witwicki', 'Sentience Politics', 'Head of Communication', '2017-04-01', NULL, NULL, NULL, 'https://web.archive.org/web/20170405175742/https://sentience-politics.org/about/team/', NULL, NULL, 'Animal welfare')
 
     ,('Meret Schneider', 'Sentience Politics', 'Co-director', '2017-06-02', 'month', NULL, NULL, 'https://web.archive.org/web/20210104022808/https://ea-foundation.org/blog/update-on-the-future-of-sentience-politics/', NULL, NULL, 'Animal welfare')
@@ -99,3 +99,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Charlotte Born', 'Sentience Politics', 'Intern', '2021-09-01', 'multi-year', '2023-04-15','multi-year', 'https://web.archive.org/web/20210920112735/https://sentience-politics.org/de/about/team/ https://web.archive.org/web/20230415081113/https://sentience.ch/de/team/', NULL, 'Intern', 'Animal welfare')   /*closed*/     
     ,('Jonas Vollmer', 'Sentience Politics', 'Board member', '2017-06-02', 'month', '2025-04-01', 'multi-year', 'https://web.archive.org/web/20210104022808/https://ea-foundation.org/blog/update-on-the-future-of-sentience-politics/', NULL, 'board member', 'Animal welfare') /*closed*/
     ,('Tobias Pulver', 'Sentience Politics', 'Board member', '2017-06-02', 'month', '2025-04-01','multi-year', 'https://web.archive.org/web/20210104022808/https://ea-foundation.org/blog/update-on-the-future-of-sentience-politics/', NULL, 'board member', 'Animal welfare')   /*closed*/    
+    ,('Lea Born', 'Sentience Politics', 'Board Member', '2022-01-01', 'multi-year', '2023-11-28','multi-year', 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/ https://web.archive.org/web/20231128140307/https://sentience.ch/de/team/', NULL, 'Board Member', 'Animal welfare')     /*closed*/    
+    ,('Luisa Baumgartner', 'Sentience Politics', 'Campaign team', '2022-01-01', 'multi-year', '2022-06-23','year', 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/ https://web.archive.org/web/20220623135709/https://sentience.ch/de/team/', NULL, NULL, 'Animal welfare')     /*closed*/  
+    ,('Julia Huguenin', 'Sentience Politics', 'Campaign team', '2022-01-01', 'multi-year', '2022-06-23','year', 'https://web.archive.org/web/20220122075509/https://sentience.ch/de/team/ https://web.archive.org/web/20220623135709/https://sentience.ch/de/team/', NULL, NULL, 'Animal welfare')   /*closed*/    
