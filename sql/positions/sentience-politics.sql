@@ -30,31 +30,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
  
  
-
-
-
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ,('Meret Schneider', 'Sentience Politics', 'Co-director', '2017-06-02', 'month', NULL, NULL, 'https://web.archive.org/web/20210104022808/https://ea-foundation.org/blog/update-on-the-future-of-sentience-politics/', NULL, NULL, 'Animal welfare')
-
-
-
-
-
-
 
 
 
@@ -106,3 +82,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Meret Schneider', 'Sentience Politics', 'Project Manager', '2015-10-01', 'multi-year', '2016-02-13', 'multi-year', 'https://web.archive.org/web/20151018063925/http://sentience-politics.org/about-2/ https://web.archive.org/web/20160213165122/http://sentience-politics.org/about-2/', NULL, NULL, 'Animal welfare')   /*closed*/    
     ,('Mirjam Arn', 'Sentience Politics', 'Volunteer', '2021-01-01', 'multi-year', '2023-04-15', 'multi-year', 'https://web.archive.org/web/20210103200335/https://sentience-politics.org/de/about/team/', NULL, 'volunteer', 'Animal welfare')     /*closed*/    
     ,('Ozy Brennan', 'Sentience Politics', 'Scientific employee', '2017-04-01', 'multi-year', '2017-04-15', 'multi-year', 'https://web.archive.org/web/20170415100505/https://sentience-politics.org/de/about/team/', NULL, NULL, 'Animal welfare')    /*closed*/ 
+    ,('Meret Schneider', 'Sentience Politics', 'Co-director', '2017-06-02', 'month', '2017-06-02', 'multi-year', 'https://web.archive.org/web/20210104022808/https://ea-foundation.org/blog/update-on-the-future-of-sentience-politics/', NULL, NULL, 'Animal welfare')    /*closed*/ 
