@@ -18,8 +18,8 @@
     ,('Ansh Radhakrishnan', 'Anthropic', 'Member of Technical Staff', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ansh-radhakrishnan-291753184/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
     ,('Anton Paquin', 'Anthropic', 'Member of Technical Staff', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/anton-paquin-5141bba6/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
     ,('Ashley Zlatinov', 'Anthropic', 'Public Policy Lead, Product', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/azlatinov/', NULL, NULL, 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
-
-
+    ,('Autumn Russell', 'Anthropic', 'Infrastructure Engineer', '2022-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adrusi/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Avital Balwit', 'Anthropic', ' Chief of Staff to Dario Amodei', '2024-04-08', 'month', NULL, NULL, 'https://web.archive.org/web/20240408221031/https://www.avitalbalwit.com/ https://web.archive.org/web/20250417142201/https://www.avitalbalwit.com/', NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-04-17*/  /*current position*/ 
 
 
 
@@ -42,8 +42,8 @@
 
 
 
-    ,('Autumn Russell', 'Anthropic', 'Infrastructure Engineer', '2022-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adrusi/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-26*/ /*current position*/
-    ,('Avital Balwit', 'Anthropic', 'Communications Lead', '2023-03-09', 'day', NULL, NULL, 'https://twitter.com/avitalbalwit/status/1633876670066348033?fbclid=IwAR37FgLJJaoINuIBkgJhH-vtlBAcJmksAP3B5h9rdCBjAr9-V7u_KlmmOOw', NULL, NULL, 'AI safety') /*Reviewed as of 2023-06-21*/
+
+
     ,('Ben Kuhn', 'Anthropic', 'Member of Technical Staff', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/benskuhn/', NULL, 'full-time', 'AI safety') /*Reviewed on 2023-11-17*/ /*current position*/
     ,('Benjamin Mann','Anthropic','Technical Staff', '2021-02-01', 'month', NULL, NULL,'https://www.linkedin.com/in/benjamin-mann/ https://transformer-circuits.pub/2021/framework/index.html', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-23*/ /*current position*/
     ,('Benoit Steiner', 'Anthropic', 'Technical Staff', '2023-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/benoitsteiner/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-29*/
