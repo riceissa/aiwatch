@@ -9,6 +9,15 @@
     ,('Alex Silverstein', 'Anthropic', 'Member of Technical Staff', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alex-silverstein-30ab3629/', NULL, NULL, 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
     ,('Alex Tamkin', 'Anthropic', 'Research Scientist', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alextamkin/', NULL, NULL, 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
     ,('Alfred Mountfield', 'Anthropic', 'Member of Technical Staff', '2023-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alfred-mountfield/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Amanda Askell','Anthropic','Technical Staff', '2021-03-01', 'month', NULL, NULL,'https://www.linkedin.com/in/amanda-askell/ https://transformer-circuits.pub/2021/framework/index.html', NULL, 'full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Amanda (Lipson) Kelley', 'Anthropic', 'Human resources business partner', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/amanda-lipson/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Amir Kashanchi', 'Anthropic', 'Enterprise Sales', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/amirkashanchi/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Andy Jones','Anthropic', 'Member Of Technical Staff', '2021-10-01', 'month', NULL, NULL,'https://www.linkedin.com/in/andyjonescs/ https://voxcom.cmail19.com/t/ViewEmail/d/5E61BDB945C3771F2540EF23F30FEDED/7655520C49A52981BA4AF9908B8D85ED?fbclid=IwAR35DO8qfgx0ysXanssoc5gGkRqBUG89Uzcfbf6mDRsUkEDVH2SHeGfZvaA', NULL, NULL, 'AI safety')  /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Angie Lal', 'Anthropic', 'Member of Technical Staff', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/angielal/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Anna Chen','Anthropic','Technical Staff', '2021-07-01', 'month', '2024-02-01', 'month','https://www.linkedin.com/in/annaitchen/ https://transformer-circuits.pub/2021/framework/index.html', NULL,'full-time', 'AI safety') /*closed*/
+    ,('Ansh Radhakrishnan', 'Anthropic', 'Member of Technical Staff', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ansh-radhakrishnan-291753184/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Anton Paquin', 'Anthropic', 'Member of Technical Staff', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/anton-paquin-5141bba6/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Ashley Zlatinov', 'Anthropic', 'Public Policy Lead, Product', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/azlatinov/', NULL, NULL, 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
 
 
 
@@ -20,6 +29,10 @@
 
 
 
+  
+
+
+ 
 
 
 
@@ -29,23 +42,6 @@
 
 
 
-
-
-
-
-
-
-
-
-    ,('Amanda Askell','Anthropic','Technical Staff', '2021-03-01', 'month', NULL, NULL,'https://www.linkedin.com/in/amanda-askell/ https://transformer-circuits.pub/2021/framework/index.html', NULL, 'full-time', 'AI safety') /*Reviewed on 2023-11-17*/ /*current position*/
-    ,('Amanda (Lipson) Kelley', 'Anthropic', 'Human resources business partner', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/amanda-lipson/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-25*/
-    ,('Amir Kashanchi', 'Anthropic', 'Enterprise Sales', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/amirkashanchi/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-25*/
-    ,('Andy Jones','Anthropic', 'Member Of Technical Staff', '2021-10-01', 'month', NULL, NULL,'https://www.linkedin.com/in/andyjonescs/ https://voxcom.cmail19.com/t/ViewEmail/d/5E61BDB945C3771F2540EF23F30FEDED/7655520C49A52981BA4AF9908B8D85ED?fbclid=IwAR35DO8qfgx0ysXanssoc5gGkRqBUG89Uzcfbf6mDRsUkEDVH2SHeGfZvaA', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-17*/ /*current position*/
-    ,('Angie Lal', 'Anthropic', 'Member of Technical Staff', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/angielal/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-24*/ /*current position*/
-    ,('Anna Chen','Anthropic','Technical Staff', '2021-07-01', 'month', NULL, NULL,'https://www.linkedin.com/in/annaitchen/ https://transformer-circuits.pub/2021/framework/index.html', NULL,'full-time', 'AI safety') /*Reviewed on 2023-11-17*/ /*current position*/
-    ,('Ansh Radhakrishnan', 'Anthropic', 'Member of Technical Staff', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ansh-radhakrishnan-291753184/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-25*/ /*current position*/
-    ,('Anton Paquin', 'Anthropic', 'Member of Technical Staff', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/anton-paquin-5141bba6/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-29*/
-    ,('Ashley Zlatinov', 'Anthropic', 'Public Policy Lead, Product', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/azlatinov/', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-18*/ /*current position*/
     ,('Autumn Russell', 'Anthropic', 'Infrastructure Engineer', '2022-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adrusi/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-26*/ /*current position*/
     ,('Avital Balwit', 'Anthropic', 'Communications Lead', '2023-03-09', 'day', NULL, NULL, 'https://twitter.com/avitalbalwit/status/1633876670066348033?fbclid=IwAR37FgLJJaoINuIBkgJhH-vtlBAcJmksAP3B5h9rdCBjAr9-V7u_KlmmOOw', NULL, NULL, 'AI safety') /*Reviewed as of 2023-06-21*/
     ,('Ben Kuhn', 'Anthropic', 'Member of Technical Staff', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/benskuhn/', NULL, 'full-time', 'AI safety') /*Reviewed on 2023-11-17*/ /*current position*/
