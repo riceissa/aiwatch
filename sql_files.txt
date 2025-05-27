@@ -19,7 +19,6 @@ sql/positions/alter.sql
 sql/positions/alvea.sql
 sql/positions/ambitious-impact.sql
 sql/positions/amf.sql
-sql/positions/anima-denmark.sql
 sql/positions/animal-advocacy-africa.sql
 sql/positions/animal-advocacy-careers.sql
 sql/positions/animal-defense-partnership.sql
@@ -34,6 +33,7 @@ sql/positions/beri.sql
 sql/positions/biotein.sql
 sql/positions/blue-horizon.sql
 sql/positions/bluedot-impact.sql
+sql/positions/capital-v.sql
 sql/positions/cea.sql
 sql/positions/cealar.sql
 sql/positions/center-for-ai- and-digital-policy.sql

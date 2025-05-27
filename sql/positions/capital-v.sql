@@ -1,0 +1,7 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+
+ /* Reviewed on 2025-05-11 / / Last available Wayback snapshot date is 2025-05-11 */
+
+ ('Michiel van Deursen', 'Capital V', 'Head of Telemarketing', '2015-10-01', 'month', NULL, NULL, 'https://web.archive.org/web/20201204200927/https://capitalv.vc/ https://www.linkedin.com/in/michielvandeursen/ https://web.archive.org/web/20250322222130/https://capitalv.org/about/', NULL, 'part-time', 'Animal welfare') /* Reviewed on 2025-05-26 / / Last available Wayback snapshot date is 2025-05-26 */
+,('Holly Barber', 'Capital V', 'Board Member', '2023-05-01', NULL, NULL, NULL, 'https://web.archive.org/web/20230531103032/https://capitalv.org/about/ https://web.archive.org/web/20250322222130/https://capitalv.org/about/', NULL, 'board member', 'Animal welfare') /* Reviewed on 2025-05-26 / / Last available Wayback snapshot date is 2025-05-26 */
+,('Michael Stanneveld', 'Capital V', 'Board Member', '2023-05-01', NULL, NULL, NULL, 'https://web.archive.org/web/20230531103032/https://capitalv.org/about/ https://web.archive.org/web/20250322222130/https://capitalv.org/about/', NULL, 'board member', 'Animal welfare') /* Reviewed on 2025-05-26 / / Last available Wayback snapshot date is 2025-05-26 */
