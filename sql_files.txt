@@ -19,6 +19,7 @@ sql/positions/alter.sql
 sql/positions/alvea.sql
 sql/positions/ambitious-impact.sql
 sql/positions/amf.sql
+sql/positions/anima-denmark.sql
 sql/positions/animal-advocacy-africa.sql
 sql/positions/animal-advocacy-careers.sql
 sql/positions/animal-defense-partnership.sql
