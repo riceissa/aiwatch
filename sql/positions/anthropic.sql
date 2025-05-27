@@ -20,16 +20,18 @@
     ,('Ashley Zlatinov', 'Anthropic', 'Public Policy Lead, Product', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/azlatinov/', NULL, NULL, 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
     ,('Autumn Russell', 'Anthropic', 'Infrastructure Engineer', '2022-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adrusi/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
     ,('Avital Balwit', 'Anthropic', ' Chief of Staff to Dario Amodei', '2024-04-08', 'month', NULL, NULL, 'https://web.archive.org/web/20240408221031/https://www.avitalbalwit.com/ https://web.archive.org/web/20250417142201/https://www.avitalbalwit.com/', NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-04-17*/  /*current position*/ 
-
-
-
-
-
-
-
+    ,('Ben Kuhn', 'Anthropic', 'Member of Technical Staff', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/benskuhn/', NULL, 'full-time', 'AI safety') /*Last consulted Wayback snapshot is from 2025-04-17*/  /*current position*/ 
+    ,('Benjamin Mann','Anthropic','Technical Staff', '2021-02-01', 'month', NULL, NULL,'https://www.linkedin.com/in/benjamin-mann/ https://transformer-circuits.pub/2021/framework/index.html', NULL, NULL, 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Benoit Steiner', 'Anthropic', 'Technical Staff', '2023-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/benoitsteiner/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Brayden McLean', 'Anthropic', 'Technical Product Manager', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/braydenmclean/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Brendan Collins', 'Anthropic', 'mts', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/brendanmcollins/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Brett Andrus', 'Anthropic', 'Sales', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/andrusbrett/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
 
 
   
+
+
+ 
 
 
  
@@ -39,17 +41,6 @@
 
 
 
-
-
-
-
-
-    ,('Ben Kuhn', 'Anthropic', 'Member of Technical Staff', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/benskuhn/', NULL, 'full-time', 'AI safety') /*Reviewed on 2023-11-17*/ /*current position*/
-    ,('Benjamin Mann','Anthropic','Technical Staff', '2021-02-01', 'month', NULL, NULL,'https://www.linkedin.com/in/benjamin-mann/ https://transformer-circuits.pub/2021/framework/index.html', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-23*/ /*current position*/
-    ,('Benoit Steiner', 'Anthropic', 'Technical Staff', '2023-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/benoitsteiner/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-29*/
-    ,('Brayden McLean', 'Anthropic', 'Technical Product Manager', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/braydenmclean/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-17*/ /*current position*/
-    ,('Brendan Collins', 'Anthropic', 'mts', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/brendanmcollins/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-28*/ /*current position*/
-    ,('Brett Andrus', 'Anthropic', 'Sales', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/andrusbrett/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-17*/ /*current position*/
     ,('Brian Delahunty', 'Anthropic', 'Head of Engineering', '2023-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/briandela/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-25*/
     ,('Brian Israel', 'Anthropic', 'General Counsel', '2022-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/brian-israel-36b37118/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-29*/ /*current position*/
     ,('Bryan Seethor', 'Anthropic', 'Product & Business', '2022-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/bryan-seethor-874120118/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-25*/
