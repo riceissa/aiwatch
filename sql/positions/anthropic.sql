@@ -35,6 +35,15 @@
     ,('Cassandra Evraets', 'Anthropic', 'Recruiting Operations Program Manager', '2023-09-01', 'month', '2024-12-01', 'month', 'https://www.linkedin.com/in/cassandra-evraets/', NULL, NULL, 'AI safety') /*closed*/
     ,('Catherine Olsson','Anthropic', 'Member Of Technical Staff', '2021-03-01', 'month', NULL, NULL,'https://www.linkedin.com/in/catherineolsson/ https://transformer-circuits.pub/2021/framework/index.html', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
     ,('Chinsin Sim', 'Anthropic', 'Recruiter', '2023-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/chinsinsim/', NULL, NULL, 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Chris O''Connell', 'Anthropic', 'Strategic Accounts', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/christopherroconnell/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Chris Olah','Anthropic', 'Member Of Technical Staff', '2021-01-01', 'multi-year', NULL, NULL,'https://transformer-circuits.pub/2021/framework/index.html https://www.linkedin.com/in/christopher-olah-b574414a/', NULL, NULL, 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Christopher Chalek', 'Anthropic', 'Talent', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/christopher-chalek-a3a03a30/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Connor Holloway', 'Anthropic', 'Strategic Accounts', '2023-10-01', 'month', '2025-03-01', 'month', 'https://www.linkedin.com/in/connorholloway/', NULL, 'Full-time', 'AI safety') /*closed*/
+    ,('Connor Holloway', 'Anthropic', 'Manager, Startup Sales', '2025-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/connorholloway/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Coyote Codornices Marin', 'Anthropic', 'Member of Technical Staff', '2023-11-01', 'month', '2024-02-01', 'month', 'https://www.linkedin.com/in/coyotecodes/', NULL, 'Full-time', 'AI safety') /*closed*/
+    ,('Da Yan', 'Anthropic', 'Member Of Technical Staff', '2022-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/da-yan-1b8211216/', NULL, 'Full-time', 'AI safety') /*closed*/
+
+       
 
 
 
@@ -47,12 +56,7 @@
 
 
 
-    ,('Chris Olah','Anthropic', NULL, NULL, 'month', NULL, NULL,'https://transformer-circuits.pub/2021/framework/index.html', NULL, NULL, 'AI safety')
-    ,('Chris O''Connell', 'Anthropic', 'Strategic Partnerships', '2023-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/christopherroconnell/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-28*/ /*current position*/
-    ,('Christopher Chalek', 'Anthropic', 'Talent', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/christopher-chalek-a3a03a30/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-23*/ 
-    ,('Connor Holloway', 'Anthropic', 'Strategic Accounts', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/connorholloway/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-25*/
-    ,('Coyote Codornices Marin', 'Anthropic', 'Member of Technical Staff', '2023-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/coyotecodes/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-29*/
-    ,('Da Yan', 'Anthropic', 'Member Of Technical Staff', '2022-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/da-yan-1b8211216/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-18*/ /*current position*/
+
     ,('Dan Dascalescu', 'Anthropic', 'Software Engineer', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dandv/', NULL, 'contractor', 'AI safety') /*Reviewed on 2023-11-17*/ /*current position*/
     ,('Dana Malman Warren', 'Anthropic', 'Enterprise Advisor', '2023-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/danamwarren/', NULL, 'Part-time', 'AI safety') /*Reviewed on 2023-11-26*/ /*current position*/
     ,('Daniel Rosenthal', 'Anthropic', 'Head of Strategic Partnerships', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/daniel-rosenthal-2186091/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-26*/ /*current position*/
