@@ -42,14 +42,12 @@
     ,('Connor Holloway', 'Anthropic', 'Manager, Startup Sales', '2025-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/connorholloway/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
     ,('Coyote Codornices Marin', 'Anthropic', 'Member of Technical Staff', '2023-11-01', 'month', '2024-02-01', 'month', 'https://www.linkedin.com/in/coyotecodes/', NULL, 'Full-time', 'AI safety') /*closed*/
     ,('Da Yan', 'Anthropic', 'Member Of Technical Staff', '2022-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/da-yan-1b8211216/', NULL, 'Full-time', 'AI safety') /*closed*/
-
-       
-
-
-
-
-
-
+    ,('Dan Dascalescu', 'Anthropic', 'Software Engineer', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dandv/', NULL, 'contractor', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Dana Malman Warren', 'Anthropic', 'Enterprise Advisor', '2023-09-01', 'month', '2024-07-01', 'month', 'https://www.linkedin.com/in/danamwarren/', NULL, 'Part-time', 'AI safety')/*closed*/
+    ,('Daniel Rosenthal', 'Anthropic', 'Head of Strategic Partnerships', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/daniel-rosenthal-2186091/', NULL, 'Full-time', 'AI safety')  /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Daniela Amodei','Anthropic','President and co-founder', '2020-12-01', 'month', NULL, NULL,'https://www.linkedin.com/in/daniela-amodei-790bb22a/', NULL, NULL, 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Danny Hernandez','Anthropic', 'Research Scientist', '2021-02-01', 'month', NULL, NULL,'https://transformer-circuits.pub/2021/framework/index.html https://www.linkedin.com/in/danny-hernandez-2b748823/', NULL, 'Full-time', 'AI safety')  /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Dario Amodei','Anthropic','CEO and Co-Founder', '2021-02-01', 'month', NULL, NULL,'https://www.linkedin.com/in/dario-amodei-3934934/ https://voxcom.cmail19.com/t/ViewEmail/d/5E61BDB945C3771F2540EF23F30FEDED/7655520C49A52981BA4AF9908B8D85ED?fbclid=IwAR35DO8qfgx0ysXanssoc5gGkRqBUG89Uzcfbf6mDRsUkEDVH2SHeGfZvaA https://transformer-circuits.pub/2021/framework/index.html', NULL, 'full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
 
 
 
@@ -57,12 +55,15 @@
 
 
 
-    ,('Dan Dascalescu', 'Anthropic', 'Software Engineer', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dandv/', NULL, 'contractor', 'AI safety') /*Reviewed on 2023-11-17*/ /*current position*/
-    ,('Dana Malman Warren', 'Anthropic', 'Enterprise Advisor', '2023-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/danamwarren/', NULL, 'Part-time', 'AI safety') /*Reviewed on 2023-11-26*/ /*current position*/
-    ,('Daniel Rosenthal', 'Anthropic', 'Head of Strategic Partnerships', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/daniel-rosenthal-2186091/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-26*/ /*current position*/
-    ,('Daniela Amodei','Anthropic','President', '2020-12-01', 'month', NULL, NULL,'https://www.linkedin.com/in/daniela-amodei-790bb22a/', NULL, NULL, 'AI safety')
-    ,('Danny Hernandez','Anthropic', 'Research Scientist', '2021-02-01', 'month', NULL, NULL,'https://transformer-circuits.pub/2021/framework/index.html https://www.linkedin.com/in/danny-hernandez-2b748823/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-29*/ /*current position*/
-    ,('Dario Amodei','Anthropic','CEO and Co-Founder', '2021-02-01', 'month', NULL, NULL,'https://www.linkedin.com/in/dario-amodei-3934934/ https://voxcom.cmail19.com/t/ViewEmail/d/5E61BDB945C3771F2540EF23F30FEDED/7655520C49A52981BA4AF9908B8D85ED?fbclid=IwAR35DO8qfgx0ysXanssoc5gGkRqBUG89Uzcfbf6mDRsUkEDVH2SHeGfZvaA https://transformer-circuits.pub/2021/framework/index.html', NULL, 'full-time', 'AI safety') /*Reviewed on 2023-11-17*/ /*current position*/
+
+
+
+
+
+
+
+
+
     ,('David Hwang', 'Anthropic', 'Member of Technical Staff', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/david-hwang/', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-26*/ /*current position*/
     ,('Dawn Drain','Anthropic', 'Member of the Technical Staff', '2021-07-01', 'month', NULL, NULL,'https://transformer-circuits.pub/2021/framework/index.html https://www.linkedin.com/in/dawn-drain-414601a8/', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-26*/ /*current position*/
     ,('Deep Ganguli', 'Anthropic', 'Member Of Technical Staff', '2022-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dganguli/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-24*/ /*current position*/
