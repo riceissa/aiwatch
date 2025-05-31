@@ -71,11 +71,11 @@
     ,('Gautham Raj', 'Anthropic', 'Investor', '2023-06-01', 'month', '2025-01-01', 'month', 'https://www.linkedin.com/in/gautham-raj-34a98321b/', NULL, 'Contractor', 'AI safety') /*closed*/
     ,('Graham Jackson', 'Anthropic', 'Product / GTMProduct / GTM', '2023-10-01', 'month', '2024-12-01', 'month', 'https://www.linkedin.com/in/grahammjackson/', NULL, NULL, 'AI safety')  /*closed*/
     ,('Guro Khundadze', 'Anthropic', 'Full Stack EngineerFull Stack Engineer', '2022-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/guro-khundadze-6075968/', NULL, 'Full-time', 'AI safety')/*Reviewed on 2025-05-26*/  /*current position*/  
-
-
-
-    
-
+    ,('Gyula Lakatos', 'Anthropic', 'Data Engineer', '2023-01-01', 'month', '2024-12-01', 'month', 'https://www.linkedin.com/in/gyula-lakatos/', NULL, 'Full-time', 'AI safety') /*closed*/
+    ,('Hongbin Chen', 'Anthropic', 'Resident', '2022-10-01', 'month', '2023-01-01', 'month', 'https://www.linkedin.com/in/hongbin-chen-03467797/', NULL, 'intern', 'AI safety') /*closed*/
+    ,('Hongbin Chen', 'Anthropic', 'Member of Technical Staff', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hongbin-chen-03467797/', NULL, NULL, 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/ 
+    ,('Hunar Batra', 'Anthropic', 'Research Consultant', '2023-09-01', 'month', '2024-03-01', 'month', 'https://www.linkedin.com/in/hunarbatra/', NULL, NULL, 'AI safety') /*closed*/
+    ,('Isaac Dunn', 'Anthropic', 'External Research Contractor', '2023-09-01', 'month', '2024-01-01', 'month', 'https://www.linkedin.com/in/isaac--dunn/', NULL, 'contractor', 'AI safety') /*closed*/
 
 
 
@@ -94,11 +94,11 @@
 
 
 
-    ,('Gyula Lakatos', 'Anthropic', 'Data Engineer', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gyula-lakatos/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-24*//*current position*/
-    ,('Hongbin Chen', 'Anthropic', 'Resident', '2022-10-01', 'month', '2023-01-01', 'month', 'https://www.linkedin.com/in/hongbin-chen-03467797/', NULL, 'intern', 'AI safety') /*Reviewed on 2023-11-17*/
-    ,('Hongbin Chen', 'Anthropic', 'Member of Technical Staff', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hongbin-chen-03467797/', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-17*/ /*current position*/
-    ,('Hunar Batra', 'Anthropic', 'Research Consultant', '2023-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hunarbatra/', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-23*/ /*current position*/
-    ,('Isaac Dunn', 'Anthropic', 'External Research Contractor', '2023-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/isaac--dunn/', NULL, 'contractor', 'AI safety') /*Reviewed on 2023-11-24*/ /*current position*/
+
+
+
+
+
     ,('Isabel Larrow', 'Anthropic', 'Product Support', '2023-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/isabellarrow/', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-25*/ /*current position*/
     ,('Jack Clark','Anthropic','Co-Founder', '2021-01-01', 'month', NULL, NULL,'https://www.linkedin.com/in/jack-clark-5a320317/ https://transformer-circuits.pub/2021/framework/index.html', NULL,'full-time', 'AI safety')
     ,('Jackson Kernion','Anthropic','Technical Staff', '2021-11-01', 'month', NULL, NULL,'https://www.linkedin.com/in/jacksonkernion/ https://transformer-circuits.pub/2021/framework/index.html', NULL,'full-time', 'AI safety')  /*Reviewed on 2023-11-26*/ /*current position*/
