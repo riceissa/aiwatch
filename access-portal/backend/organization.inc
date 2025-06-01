@@ -145,12 +145,12 @@ while ($row = $result->fetch_assoc()) { ?>
       <td><?= implode(array_map("link_organization", $hosted_orgs)) ?></td>
     </tr>
   <?php } ?>
-  <?php if ($dlw = dlw_links_list($mysqli, $organization, $subdomain)) { ?>
+  <?php // if ($dlw = dlw_links_list($mysqli, $organization, $subdomain)) { ?>
     <tr>
       <td>Donations List Website (data still preliminary)</td>
-      <td><?= implode(", ", $dlw) ?></td>
+      <td><?php // echo implode(", ", $dlw) ?></td>
     </tr>
-  <?php } ?>
+  <?php // } ?>
 
   <?php
   if ($stmt = $mysqli->prepare("select * from agendas where associated_organizations REGEXP ?")) {
