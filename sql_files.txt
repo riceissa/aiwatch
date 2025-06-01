@@ -16,6 +16,7 @@ sql/positions/ai-risk-mitigation-fund.sql
 sql/positions/ai-safety-camp.sql
 sql/positions/ai-standards-lab.sql
 sql/positions/albert-schweitzer-foundation.sql
+sql/positions/alignment-of-complex-systems-research-group.sql
 sql/positions/alignment-research-center.sql
 sql/positions/all-tech-is-human.sql
 sql/positions/alter.sql
