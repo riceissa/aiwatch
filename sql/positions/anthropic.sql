@@ -135,34 +135,28 @@
     ,('Nicholas Joseph','Anthropic','Technical Staff', '2021-01-01', 'month', NULL, NULL,'https://www.linkedin.com/in/njoseph2/ https://transformer-circuits.pub/2021/framework/index.html', NULL, NULL, 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
     ,('Nicholas Schiefer', 'Anthropic', 'Resident Member of Technical Staff', '2022-05-01', 'month', '2022-08-01', 'month', 'https://www.linkedin.com/in/nicholasschiefer/', NULL, 'Intern', 'AI safety') /*closed*/
     ,('Nicholas Schiefer', 'Anthropic', 'Member of Technical Staff', '2022-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nicholasschiefer/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
-    ,('Nicholas Marwell', 'Anthropic', 'Member of Technical Staff', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nicholas-marwell-001203169/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
-
-
-
-
-
-
- 
+    ,('Nicholas Marwell', 'Anthropic', 'Member of Technical Staff', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nicholas-marwell-001203169/', NULL, 'Full-time', 'AI safety')  /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Nicholas Turner', 'Anthropic', 'Member of Technical Staff', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nicholas-l-turner/', NULL, 'Full-time', 'AI safety')  /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Nikhil Bhargava', 'Anthropic', 'Member of Technical Staff', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nikhil-bhargava/', NULL, NULL, 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
 
 
 
 
  
 
+
+
+
  
 
  
 
+ 
 
 
 
-
-
-
-    ,('Nicholas Turner', 'Anthropic', 'Member of Technical Staff', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nicholas-l-turner/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-29*/ /*current position*/   
-    ,('Nicola Lau', 'Anthropic', 'Program Manager, Business Operations', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nicola-lau-31706214/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-26*/ /*current position*/
-    ,('Nikhil Bhargava', 'Anthropic', 'Member of Technical Staff', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nikhil-bhargava/', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-26*/ /*current position*/
-    ,('Nina Rimsky', 'Anthropic', 'Member of Technical Staff', '2023-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nina-rimsky/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-25*/ /*current position*/
+ 
+ 
     ,('Noemí Mercado', 'Anthropic', 'People Operations', '2022-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/noemiemercado/', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-25*/ /*current position*/
     ,('Nova DasSarma','Anthropic', NULL, NULL, 'month', NULL, NULL,'https://transformer-circuits.pub/2021/framework/index.html', NULL, NULL, 'AI safety')
     ,('Oliver Rausch', 'Anthropic', 'Member of Technical Staff', '2022-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/orausch/', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-25*/ /*current position*/
