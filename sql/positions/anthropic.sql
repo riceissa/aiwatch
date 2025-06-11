@@ -151,24 +151,21 @@
     ,('Rebecca Raible', 'Anthropic', 'Recruiting Coordination Manager', '2024-06-01', 'month', '2025-06-01', 'month', 'https://www.linkedin.com/in/rebeccaraible/', NULL, 'full-time', 'AI safety')
   /*closed*/
     ,('Rebecca Raible', 'Anthropic', 'Recruiting Operations and Coordination Manager', '2023-10-01', 'month', '2024-06-01', 'month', 'https://www.linkedin.com/in/rebeccaraible/', 'San Francisco Bay Area', 'full-time', 'AI safety')  /*closed*/
-    ,('Rebecca Raible', 'Anthropic', 'Recruiter', '2022-01-01', 'month', '2023-10-01', 'month', 'https://www.linkedin.com/in/rebeccaraible/', 'San Francisco Bay Area', 'full-time', 'AI safety')  /*closed*/
+    ,('Rebecca Raible', 'Anthropic', 'Recruiter', '2022-01-01', 'month', '2023-10-01', 'month', 'https://www.linkedin.com/in/rebeccaraible/', NULL, 'full-time', 'AI safety')  /*closed*/
+    ,('Rob Greenlee', 'Anthropic', 'GTM Partnerships', '2025-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/greenlee/', NULL, 'full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Rob Greenlee', 'Anthropic', 'GTM Enterprise Sales Leader', '2024-07-01', 'month', '2025-04-01', 'month', 'https://www.linkedin.com/in/greenlee/', NULL, 'full-time', 'AI safety') /*closed*/
+    ,('Rob Greenlee', 'Anthropic', 'GTM Partnerships', '2023-11-01', 'month', '2024-07-01', 'month', 'https://www.linkedin.com/in/greenlee/', NULL, 'full-time', 'AI safety') /*closed*/
 
 
 
  
 
-
-
  
  
-  
 
 
-    ,('Rebecca Raible', 'Anthropic', 'Recruiter', '2022-01-01', 'month', '2023-10-01', 'month', 'https://www.linkedin.com/in/rebeccaraible/', NULL, 'full-time', 'AI safety') /*Reviewed on 2023-11-17*/  
-    ,('Rebecca Raible', 'Anthropic', 'Recruiting Operations and Coordination Manager', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rebeccaraible/', NULL, 'full-time', 'AI safety') /*Reviewed on 2023-11-17*/ /*current position*/
-    ,('Rishi Gupta', 'Anthropic', 'Member of Technical Staff', '2023-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rishivg/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-26*/ /*current position*/
-    ,('Robert Baden', 'Anthropic', 'Analyst', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/robert-baden-08b510277/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-28*/ /*current position*/
-    ,('Rob Greenlee', 'Anthropic', 'Strategic Partnerships', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/greenlee/', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-24*/ /*current position*/
+
+
     ,('Ruhua Jiang', 'Anthropic', 'Member of Technical Staff', '2023-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ruhua-jiang-79802454/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-28*/
  
     ,('Ryan Soklaski', 'Anthropic', 'Member of Technical Staff', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ryan-soklaski-60a9a4a6/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-24*/
