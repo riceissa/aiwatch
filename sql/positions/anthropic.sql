@@ -164,24 +164,23 @@
     ,('Samantha Wong', 'Anthropic', 'Recruiting Coordinator', '2023-05-01', 'month', '2024-06-01', 'month', 'https://www.linkedin.com/in/samantha-wong-b51b4b123/', NULL, 'Full-time', 'AI safety') /*closed*/
     ,('Sandy Banerjee', 'Anthropic', 'Head of B2B & Dev Marketing', '2025-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sandy-banerjee-4aa1b816/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
     ,('Sandy Banerjee', 'Anthropic', 'Head of Growth & Product Marketing', '2023-02-01', 'month', '2025-05-01', 'month', 'https://www.linkedin.com/in/sandy-banerjee-4aa1b816/', NULL, 'Full-time', 'AI safety') /*closed*/
+    ,('Saurav Kadavath', 'Anthropic', 'Member Of Technical Staff', '2022-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kadavath/', NULL, 'Full-time', 'AI safety')  /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Scott Johnston', 'Anthropic', 'Member Of Technical Staff', '2022-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/scott-johnston-b1997b122/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Scott Johnston', 'Anthropic', 'Resident', '2021-11-01', 'month', '2022-02-01', 'month', 'https://www.linkedin.com/in/scott-johnston-b1997b122/', NULL, 'Full-time', 'AI safety') /*closed*/
+    ,('Shauna Kravec', 'Anthropic', 'Member Of Technical Staff', '2022-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shauna-kravec-0a88a6217/', NULL, NULL, 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Shawn Owen', 'Anthropic', 'Director of Physical Security', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shawn-owen-55266b116/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Stephen Jung', 'Anthropic', 'Member of Technical Staff', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/stephen-jung-38533964/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Tanya Singh', 'Anthropic', 'Member of Technical Staff', '2024-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tanya-singh-t/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Tanya Singh', 'Anthropic', 'UK Operations Lead', '2023-05-01', 'month', '2024-05-01', 'month', 'https://www.linkedin.com/in/tanya-singh-t/', NULL, 'Full-time', 'AI safety') /*closed*/
+
+ 
+
 
 
  
 
  
- 
-
-
-
- 
-
- 
-    ,('Saurav Kadavath', 'Anthropic', 'Member Of Technical Staff', '2022-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kadavath/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-20*/ /*current position*/
-    ,('Scott Johnston', 'Anthropic', 'Member Of Technical Staff', '2022-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/scott-johnston-b1997b122/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-29*/  /*current position*/
-    ,('Shauna Kravec', 'Anthropic', 'Member Of Technical Staff', '2022-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shauna-kravec-0a88a6217/', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-29*/ /*current position*/
-    ,('Shawn Owen', 'Anthropic', 'Director of Physical Security', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shawn-owen-55266b116/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-26*/ /*current position*/
-    ,('Stephen Jung', 'Anthropic', 'Member of Technical Staff', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/stephen-jung-38533964/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-25*/ /*current position*/
-    ,('Tanya Singh', 'Anthropic', 'Operations ', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tanya-singh-t/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-17*/ /*current position*/
+  
     ,('Thomas Liao', 'Anthropic', 'Member of Technical Staff', '2022-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/thomasliao/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-24*/ /*current position*/
     ,('Thompson Paine', 'Anthropic', 'Product', '2023-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/thompson-paine/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-18*/ /*current position*/
     ,('Timothy Telleen-Lawton','Anthropic','Head Of Procurement', '2021-08-01', 'month', NULL, NULL,'https://www.linkedin.com/in/timothytl/', NULL, 'full-time', 'AI safety')
