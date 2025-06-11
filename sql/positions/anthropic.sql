@@ -155,7 +155,15 @@
     ,('Rob Greenlee', 'Anthropic', 'GTM Partnerships', '2025-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/greenlee/', NULL, 'full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
     ,('Rob Greenlee', 'Anthropic', 'GTM Enterprise Sales Leader', '2024-07-01', 'month', '2025-04-01', 'month', 'https://www.linkedin.com/in/greenlee/', NULL, 'full-time', 'AI safety') /*closed*/
     ,('Rob Greenlee', 'Anthropic', 'GTM Partnerships', '2023-11-01', 'month', '2024-07-01', 'month', 'https://www.linkedin.com/in/greenlee/', NULL, 'full-time', 'AI safety') /*closed*/
-
+    ,('Ryan Soklaski', 'Anthropic', 'Member of Technical Staff', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ryan-soklaski-60a9a4a6/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Sally Aldous', 'Anthropic', 'Head of Corporate Communications', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sally-aldous-46699719/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Sam Bowman', 'Anthropic', 'Member of Technical Staff', '2022-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sr-bowman/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Sasha de Marigny', 'Anthropic', 'Head of Communications', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sashademarigny/', NULL, NULL, 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Sam McCandlish','Anthropic', 'Co-Founder', '2021-01-01', 'year', NULL, NULL,'https://www.linkedin.com/in/sam-mccandlish/ https://voxcom.cmail19.com/t/ViewEmail/d/5E61BDB945C3771F2540EF23F30FEDED/7655520C49A52981BA4AF9908B8D85ED?fbclid=IwAR35DO8qfgx0ysXanssoc5gGkRqBUG89Uzcfbf6mDRsUkEDVH2SHeGfZvaA', NULL, NULL, 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Samantha Wong', 'Anthropic', 'Recruiter - GTM', '2024-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/samantha-wong-b51b4b123/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Samantha Wong', 'Anthropic', 'Recruiting Coordinator', '2023-05-01', 'month', '2024-06-01', 'month', 'https://www.linkedin.com/in/samantha-wong-b51b4b123/', NULL, 'Full-time', 'AI safety') /*closed*/
+    ,('Sandy Banerjee', 'Anthropic', 'Head of B2B & Dev Marketing', '2025-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sandy-banerjee-4aa1b816/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Sandy Banerjee', 'Anthropic', 'Head of Growth & Product Marketing', '2023-02-01', 'month', '2025-05-01', 'month', 'https://www.linkedin.com/in/sandy-banerjee-4aa1b816/', NULL, 'Full-time', 'AI safety') /*closed*/
 
 
  
@@ -165,16 +173,9 @@
 
 
 
-
-    ,('Ruhua Jiang', 'Anthropic', 'Member of Technical Staff', '2023-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ruhua-jiang-79802454/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-28*/
  
-    ,('Ryan Soklaski', 'Anthropic', 'Member of Technical Staff', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ryan-soklaski-60a9a4a6/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-24*/
-    ,('Sally Aldous', 'Anthropic', 'Head of Corporate Communications', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sally-aldous-46699719/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-25*/   /*current position*/
-    ,('Sam Bowman', 'Anthropic', 'Member of Technical Staff', '2022-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sr-bowman/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-29*/ /*current position*/
-    ,('Sasha de Marigny', 'Anthropic', 'Head of Communications', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sashademarigny/', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-24*//*current position*/
-    ,('Sam McCandlish','Anthropic', 'Co-Founder', '2021-01-01', 'year', NULL, NULL,'https://www.linkedin.com/in/sam-mccandlish/ https://voxcom.cmail19.com/t/ViewEmail/d/5E61BDB945C3771F2540EF23F30FEDED/7655520C49A52981BA4AF9908B8D85ED?fbclid=IwAR35DO8qfgx0ysXanssoc5gGkRqBUG89Uzcfbf6mDRsUkEDVH2SHeGfZvaA', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-23*/ /*current position*/
-    ,('Samantha Wong', 'Anthropic', 'Recruiting Coordinator', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/samantha-wong-b51b4b123/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-25*/ /*current position*/
-    ,('Sandy Banerjee', 'Anthropic', 'GTM', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sandy-banerjee-4aa1b816/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-25*/ /*current position*/
+
+ 
     ,('Saurav Kadavath', 'Anthropic', 'Member Of Technical Staff', '2022-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kadavath/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-20*/ /*current position*/
     ,('Scott Johnston', 'Anthropic', 'Member Of Technical Staff', '2022-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/scott-johnston-b1997b122/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-29*/  /*current position*/
     ,('Shauna Kravec', 'Anthropic', 'Member Of Technical Staff', '2022-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shauna-kravec-0a88a6217/', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-29*/ /*current position*/
