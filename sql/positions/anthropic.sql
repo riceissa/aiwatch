@@ -172,32 +172,25 @@
     ,('Stephen Jung', 'Anthropic', 'Member of Technical Staff', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/stephen-jung-38533964/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
     ,('Tanya Singh', 'Anthropic', 'Member of Technical Staff', '2024-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tanya-singh-t/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
     ,('Tanya Singh', 'Anthropic', 'UK Operations Lead', '2023-05-01', 'month', '2024-05-01', 'month', 'https://www.linkedin.com/in/tanya-singh-t/', NULL, 'Full-time', 'AI safety') /*closed*/
+    ,('Thomas Liao', 'Anthropic', 'Member of Technical Staff', '2022-01-01', 'year', '2023-01-01', 'year', 'https://www.linkedin.com/in/thomasliao/', NULL, 'Full-time', 'AI safety') /*closed*/
+    ,('Thompson Paine', 'Anthropic', 'Product', '2023-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/thompson-paine/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Timothy Telleen-Lawton', 'Anthropic', 'Head Of Procurement', '2021-08-01', 'month', '2023-09-01', 'month', 'https://www.linkedin.com/in/timothytl/', 'San Francisco, California, United States', 'full-time', 'AI safety')  /*closed*/
+    ,('Timothy Telleen-Lawton', 'Anthropic', 'Operations Generalist', '2021-07-01', 'month', '2022-02-01', 'month', 'https://www.linkedin.com/in/timothytl/', 'San Francisco, California, United States', 'full-time', 'AI safety')  /*closed*/
+    ,('Tom Brown','Anthropic','Co-Founder', '2021-01-01', 'month', NULL, NULL,'https://www.linkedin.com/in/nottombrown/ https://transformer-circuits.pub/2021/framework/index.html', NULL, NULL, 'AI safety')  /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Tom Conerly','Anthropic', 'Interpretability', '2021-11-01', 'month', NULL, NULL,'https://transformer-circuits.pub/2021/framework/index.html https://www.linkedin.com/in/tom-conerly-a56a095/', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-24*/ /*current position*/
+    ,('Tom Henighan','Anthropic', 'Member of the Technical Staff', '2021-01-01', 'month', NULL, NULL,'https://www.linkedin.com/in/tom-henighan-757498123/ https://transformer-circuits.pub/2021/framework/index.html', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-24*/ /*current position*/
+    ,('Tomasz Korbak', 'Anthropic', 'Member of Technical Staff', '2023-09-01', 'month', '2024-04-01', 'month', 'https://www.linkedin.com/in/tomaszkorbak/', NULL, NULL, 'AI safety') /*closed*/
+    ,('Vinay Rao', 'Anthropic', 'Advisor', '2025-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/vinayrao/', 'United States', 'Part-time', 'AI safety')  /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Vinay Rao', 'Anthropic', 'Head of Safeguards', '2023-09-01', 'month', '2025-04-01', 'month', 'https://www.linkedin.com/in/vinayrao/', 'United States', 'Full-time', 'AI safety')  /*closed*/
+    ,('Vlad G.', 'Anthropic', 'Finance', '2023-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/fin-dir/', NULL, NULL, 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Vu Bui', 'Anthropic', 'Head of Strategic Finance & Investor Relations', '2023-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/vuhbui/', NULL, 'Full-time', 'AI safety')  /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Yifan Wu', 'Anthropic', 'Member of Technical Staff', '2024-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/yifanwu1/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Yuntao Bai','Anthropic','Technical Staff', '2021-07-01', 'month', NULL, NULL,'https://www.linkedin.com/in/yuntao-bai-3039bb138/ https://transformer-circuits.pub/2021/framework/index.html', NULL, 'full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Zack Witten', 'Anthropic', 'Prompt Engineer and Librarian', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/zack-witten-45002a1a5/', NULL, NULL, 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Zubair Jandali', 'Anthropic', 'Enterprise Sales', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/zjandali/', NULL, 'Full-time', 'AI safety')  /*Reviewed on 2025-05-26*/  /*current position*/
+    ,('Zac Hatfield-Dodds','Anthropic', 'Member of the technical staff','2021-01-01', 'multi-year', NULL, NULL,'https://transformer-circuits.pub/2021/framework/index.html https://shows.acast.com/the-foresight-institute-podcast/episodes/zac-hatfield-dodds-anthropics-responsible-scaling-policy', NULL, NULL, 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
 
- 
 
-
-
- 
-
- 
-  
-    ,('Thomas Liao', 'Anthropic', 'Member of Technical Staff', '2022-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/thomasliao/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-24*/ /*current position*/
-    ,('Thompson Paine', 'Anthropic', 'Product', '2023-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/thompson-paine/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-18*/ /*current position*/
-    ,('Timothy Telleen-Lawton','Anthropic','Head Of Procurement', '2021-08-01', 'month', NULL, NULL,'https://www.linkedin.com/in/timothytl/', NULL, 'full-time', 'AI safety')
-    ,('Timothy Telleen-Lawton','Anthropic','Operations Generalist', '2021-07-01', 'month', NULL, NULL,'https://www.linkedin.com/in/timothytl/', NULL, 'full-time', 'AI safety')
-    ,('Tom Brown','Anthropic','Co-Founder', '2021-01-01', 'month', NULL, NULL,'https://www.linkedin.com/in/nottombrown/ https://transformer-circuits.pub/2021/framework/index.html', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-25*/ /*current position*/
-    ,('Tom Conerly','Anthropic', NULL, '2021-11-01', 'month', NULL, NULL,'https://transformer-circuits.pub/2021/framework/index.html https://www.linkedin.com/in/tom-conerly-a56a095/', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-24*/ /*current position*/
-    ,('Tom Henighan','Anthropic', NULL, NULL, 'month', NULL, NULL,'https://www.linkedin.com/in/tom-henighan-757498123/ https://transformer-circuits.pub/2021/framework/index.html', NULL, NULL, 'AI safety')
-    ,('Tomasz Korbak', 'Anthropic', 'Member of Technical Staff', '2023-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tomaszkorbak/', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-18*/ /*current position*/
- 
-    ,('Vinay Rao', 'Anthropic', 'Head of Trust and Safety', '2023-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/vinayrao/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-18*/ /*current position*/
-    ,('Vlad G.', 'Anthropic', 'Finance', '2023-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/fin-dir/', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-20*/ /*current position*/
-    ,('Vu Bui', 'Anthropic', 'Head of Strategic Finance & Investor Relations', '2023-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/vuhbui/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-24*/ /*current position*/
-    ,('Yifan Wu', 'Anthropic', 'Member of Technical Staff', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/yifanwu1/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-29*/ /*current position*/
-    ,('Yuntao Bai','Anthropic','Technical Staff', '2021-07-01', 'month', NULL, NULL,'https://www.linkedin.com/in/yuntao-bai-3039bb138/ https://transformer-circuits.pub/2021/framework/index.html', NULL, 'full-time', 'AI safety') /*Reviewed on 2023-11-29*/ /*current position*/
-    ,('Zac Hatfield-Dodds','Anthropic', NULL, NULL, 'month', NULL, NULL,'https://transformer-circuits.pub/2021/framework/index.html', NULL, NULL, 'AI safety')
-    ,('Zack Witten', 'Anthropic', 'Prompt Engineer and Librarian', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/zack-witten-45002a1a5/', NULL, NULL, 'AI safety') /*Reviewed on 2023-11-20*/ /*current position*/
-    ,('Zubair Jandali', 'Anthropic', 'Enterprise Sales', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/zjandali/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-11-24*/ /*current position*/
 
 
     
