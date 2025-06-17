@@ -188,9 +188,13 @@ sql/positions/wild-animal-initiative.sql
 sql/organization_documents.sql
 sql/organization_docs/80000-hours-doc.sql
 sql/organization_docs/ace-org-docs.sql
+sql/organization_docs/anthropic-org-docs.sql
 sql/organization_docs/cea-org-docs.sql
 sql/organization_docs/cfar-org-docs.sql
+sql/organization_docs/chai-org-docs.sql
 sql/organization_docs/effective-altruism-foundation-docs.sql
+sql/organization_docs/fhi-org-docs.sql
+sql/organization_docs/fli-org-docs.sql
 sql/organization_docs/general-org-docs.sql
 sql/organization_docs/givewell-org-docs.sql
 sql/organization_docs/impossible-foods-org-docs.sql
@@ -200,6 +204,7 @@ sql/organization_docs/miri-org-docs.sql
 sql/organization_docs/open-phil-org-docs.sql
 sql/organization_docs/openai-org-docs.sql
 sql/organization_docs/sentience-institute-org-docs.sql
+
 
 
 
