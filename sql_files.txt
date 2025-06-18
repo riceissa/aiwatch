@@ -12,6 +12,7 @@ sql/positions/ai-for-good-foundation.sql
 sql/positions/ai-futures-project.sql
 sql/positions/ai-impacts.sql
 sql/positions/ai-objectives-institute.sql
+sql/positions/ai-partners.sql
 sql/positions/ai-risk-mitigation-fund.sql
 sql/positions/ai-safety-camp.sql
 sql/positions/ai-standards-lab.sql
