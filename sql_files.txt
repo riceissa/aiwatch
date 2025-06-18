@@ -30,6 +30,7 @@ sql/positions/animal-advocacy-careers.sql
 sql/positions/animal-defense-partnership.sql
 sql/positions/anthropic.sql
 sql/positions/antikythera.sql
+sql/positions/apart-research.sql
 sql/positions/arb-research.sql
 sql/positions/astera.sql
 sql/positions/atomic-ai.sql
