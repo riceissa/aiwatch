@@ -133,6 +133,7 @@ sql/positions/metaculus.sql
 sql/positions/methuselah-foundation.sql
 sql/positions/millennium-alliance-for-humanity-and-the-biosphere.sql
 sql/positions/miri.sql
+sql/positions/ml4good.sql
 sql/positions/model-evaluation-and-threat-research.sql
 sql/positions/new-incentives.sql
 sql/positions/non-trivial.sql
