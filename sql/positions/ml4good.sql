@@ -2,7 +2,7 @@
 
 
 
-,('Charbel-Raphael Segerie', 'ML4Good', 'Advisor', '2025-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20250517185942/https://www.ml4good.org/about https://web.archive.org/web/20250618221313/https://www.ml4good.org/about', NULL, NULL, NULL, 'advisor', 'AI safety') /* Reviewed on 2025-06-18 / / Last available Wayback snapshot date is 2025-06-18 */    
+ ('Charbel-Raphael Segerie', 'ML4Good', 'Advisor', '2025-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20250517185942/https://www.ml4good.org/about https://web.archive.org/web/20250618221313/https://www.ml4good.org/about', NULL, NULL, NULL, 'advisor', 'AI safety') /* Reviewed on 2025-06-18 / / Last available Wayback snapshot date is 2025-06-18 */    
 ,('Nia Gardner', 'ML4Good', 'Executive Director', '2025-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20250517185942/https://www.ml4good.org/about https://web.archive.org/web/20250618221313/https://www.ml4good.org/about', NULL, NULL, NULL, NULL, 'AI safety') /* Reviewed on 2025-06-18 / / Last available Wayback snapshot date is 2025-06-18 */    
 ,('Carolina Oliveira', 'ML4Good', 'Director of Projects', '2025-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250517185942/https://www.ml4good.org/about https://www.linkedin.com/in/carolinaollive/ https://web.archive.org/web/20250618221313/https://www.ml4good.org/about', NULL, NULL, NULL, NULL, 'AI safety')   /* Reviewed on 2025-06-18 / / Last available Wayback snapshot date is 2025-06-18 */  
 
