@@ -6,6 +6,26 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Cari Tuna','Open Philanthropy','Chair','2025-02-28','month',NULL, NULL,'https://web.archive.org/web/20250228154530/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
     ,('Emily Oehlsen', 'Open Philanthropy', 'President', '2025-02-28', NULL, NULL, 'month', 'https://web.archive.org/web/20250228154530/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
     ,('Otis Reid', 'Open Philanthropy', 'Managing Director', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/otisreid/details/experience/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', 'Remote', 'full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
+    ,('Derek Hopf','Open Philanthropy','Managing Director of Operations','2025-02-01','month',NULL,NULL,'https://www.linkedin.com/in/derek-hopf-90b249b/','San Francisco Bay Area','full-time','Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Latest revision*/
+    ,('Naina Bajekal', 'Open Philanthropy', 'Director of Communications', '2024-12-21', 'month', NULL, NULL, 'https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
+    ,('Liz Givens', 'Open Philanthropy', 'Director of Partnerships', '2024-12-21', 'month', NULL, NULL, 'https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
+/*........................................Partnerships.............................................*/
+    ,('Olivia Larsen', 'Open Philanthropy', 'Strategy Fellow', '2024-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/oliviaroselarsen/ https://web.archive.org/web/20241224001339/https://www.openphilanthropy.org/about/team/olivia-larsen/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
+    ,('Jason Schukraft', 'Open Philanthropy', 'Program Officer, AI Governance and Policy', '2022-04-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240831171419/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/jason-schukraft/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
+    ,('Chris Smith', 'Open Philanthropy', 'Program Officer', '2024-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/chrissmith6/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
+/*........................................Communications & Government Relations.............................................*/
+    ,('Michael Brownlie','Open Philanthropy','Director of Government Relations','2025-03-01','month',NULL,NULL,'https://www.linkedin.com/in/michael-brownlie-94a81225/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/','Washington, District of Columbia, United States','full-time','Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
+    ,('Karthik Ganapathy','Open Philanthropy','Senior Communications Officer','2025-03-31','month',NULL,NULL,'https://web.archive.org/web/20250331231717/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -15,7 +35,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
     ,('Sam Anschell', 'Open Philanthropy', 'Program Associate', '2024-02-26', 'month', NULL, NULL, 'https://web.archive.org/web/20240226140444/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Nisha Austin', 'Open Philanthropy', 'Business Operations Manager', '2023-03-18', 'month', NULL, NULL, 'https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
-    ,('Naina Bajekal', 'Open Philanthropy', 'Director of Communications', '2024-12-21', 'month', NULL, NULL, 'https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
+
     ,('Chris Bakerlee', 'Open Philanthropy', 'Senior Program Associate', '2021-11-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220509154433/https://www.openphilanthropy.org/about/team https://www.linkedin.com/in/chrisbakerlee/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Melanie Basnak', 'Open Philanthropy', 'Senior Program Associate', '2024-12-21', 'month', NULL, NULL, 'https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Asya Bergal', 'Open Philanthropy', 'Program Associate', '2021-05-09', 'month', '2022-07-07', 'month', 'https://www.linkedin.com/in/asya-bergal-36304466/ https://web.archive.org/web/20210509110720/https://www.openphilanthropy.org/about/team https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
@@ -48,7 +68,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Meiko Flynn-Do', 'Open Philanthropy', 'People Operations Coordinator', '2022-03-01', 'month', NULL, NULL, 'https://web.archive.org/web/20230327071516/https://www.openphilanthropy.org/about/team/meiko-flynn-do/ https://www.linkedin.com/in/meiko-flynn-do/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Nick Gabrieli', 'Open Philanthropy', 'Program Associate', '2024-12-21', 'month', NULL, NULL, 'https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Aaron Gertler', 'Open Philanthropy', 'Communications Officer', '2022-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20230330054615/https://www.openphilanthropy.org/about/team/aaron-gertler/  https://www.linkedin.com/in/aarongertler/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
-    ,('Liz Givens', 'Open Philanthropy', 'Director of Partnerships', '2024-12-21', 'month', NULL, NULL, 'https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Glen Gordon', 'Open Philanthropy', 'Grants Associate', '2022-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/glen-gordon-940327158/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Martin Gould', 'Open Philanthropy', 'Senior Program Associate', '2022-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20230323214110/https://www.openphilanthropy.org/about/team/martin-gould/ https://www.linkedin.com/in/martinvgould https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Travis Grabow', 'Open Philanthropy', 'IT Associate', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/travisgrabow/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
@@ -60,6 +79,23 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Peter Hickman', 'Open Philanthropy', 'Research Fellow', '2024-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/peter-hickman-3012177a/ https://web.archive.org/web/20241217212629/https://www.openphilanthropy.org/about/team/peter-hickman/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Tom Hird', 'Open Philanthropy', 'Senior Program Associate', '2024-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tomhird/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Derek Hopf','Open Philanthropy','Director of Grants Management','2020-07-01','month', NULL, NULL,'https://web.archive.org/web/20231128002250/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/derek-hopf-90b249b/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
+    ,('Derek Hopf','Open Philanthropy','Grants Associate and Content Specialist','2017-07-01','month','2018-02-01','month','https://web.archive.org/web/20230325021728/https://www.openphilanthropy.org/about/team/derek-hopf/ https://web.archive.org/web/20170805183153/http://www.openphilanthropy.org:80/about/team https://web.archive.org/web/20180226190244/http://www.openphilanthropy.org:80/about/team https://www.linkedin.com/in/derek-hopf-90b249b/',NULL,'full-time','Effective altruism') /*closed*/
+    ,('Derek Hopf','Open Philanthropy','Grants Manager','2018-02-01','month', '2020-07-01', 'month','https://web.archive.org/web/20180226190244/http://www.openphilanthropy.org:80/about/team https://www.linkedin.com/in/derek-hopf-90b249b/',NULL,NULL,'Effective altruism') /*closed*/
+    ,('Derek Hopf','Open Philanthropy','Director of Grants Management','2020-07-01','month','2024-10-01','month','https://www.linkedin.com/in/derek-hopf-90b249b/','San Francisco Bay Area','full-time','Effective altruism') /*closed*/
+    ,('Derek Hopf','Open Philanthropy','Interim Managing Director, Operations','2024-10-01','month','2025-02-01','month','https://www.linkedin.com/in/derek-hopf-90b249b/','San Francisco Bay Area','full-time','Effective altruism') /*closed*/
+
+
+
+ 
+
+
+
+
+
+
+
+
+
     ,('Amanda Hungerford', 'Open Philanthropy', 'Farm Animal Program Officer', '2021-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20231128002250/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/amanda-hungerford-6a9a4b82/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Sai Jahann', 'Open Philanthropy', 'In-House Counsel', '2022-05-01', 'month', NULL, NULL, 'https://web.archive.org/web/20231128002250/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/sai-jahann-9a022a28/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Rochelle Jordan', 'Open Philanthropy', 'Business Operations Associate', '2024-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20231128002250/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/sai-jahann-9a022a28/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
@@ -75,7 +111,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Molly Kovite', 'Open Philanthropy', 'Manager, Legal Operations', '2021-01-01', 'month', NULL,NULL, 'https://web.archive.org/web/20240417234704/https://www.openphilanthropy.org/about/team/molly-kovite/  https://www.linkedin.com/in/molly-kovite-248336144/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Myron Krueger', 'Open Philanthropy', 'Grants Associate', '2024-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240417234645/https://www.openphilanthropy.org/about/team/myron-krueger/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Abhi Kumar', 'Open Philanthropy', 'Program Associate', '2022-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/abhikumar17/ https://www.openphilanthropy.org/about/team/abhi-kumar/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
-    ,('Olivia Larsen', 'Open Philanthropy', 'Strategy Fellow', '2024-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/oliviaroselarsen/ https://web.archive.org/web/20241224001339/https://www.openphilanthropy.org/about/team/olivia-larsen/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
+
     ,('Rafael Latham-Proença', 'Open Philanthropy', 'Research Fellow', '2022-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240404062432/https://www.openphilanthropy.org/about/team/rafa-proenca/ https://web.archive.org/web/20231128002250/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/rafael-latham-proen%C3%A7a-1a841584/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Michelle Lavery', 'Open Philanthropy', 'Program Associate', '2022-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240404062420/https://www.openphilanthropy.org/about/team/michelle-lavery/ https://www.linkedin.com/in/j-michelle-lavery https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Alex Lawsen', 'Open Philanthropy', 'Senior Program Associate', '2023-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240515150425/https://www.openphilanthropy.org/about/team/alex-lawsen/  https://www.linkedin.com/in/alex-lawsen/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
@@ -116,7 +152,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Eli Rose', 'Open Philanthropy', 'Program Officer, Global Catastrophic Risks Capacity Building', '2024-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/eli-rose/  https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('George Rosenfeld', 'Open Philanthropy', 'Chief of Staff, Global Catastrophic Risks', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/george-rosenfeld-gar/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Tom Rowlands', 'Open Philanthropy', 'Recruiter', '2023-10-01', 'month', NULL, NULL, 'https://web.archive.org/web/20231205001721/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/tom-rowlands1/https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
-    ,('Jason Schukraft', 'Open Philanthropy', 'Program Officer, AI Governance and Policy', '2022-04-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240831171419/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Jake Schwarber', 'Open Philanthropy', 'Finance Manager', '2024-01-16', 'month', NULL, NULL, 'https://web.archive.org/web/20240116231050/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Samuel Scott', 'Open Philanthropy', 'Associate In-House Counsel', '2022-02-01', 'month', NULL, NULL, 'https://web.archive.org/web/20231101150348/https://www.openphilanthropy.org/about/team/sam-scott/ https://www.linkedin.com/in/samuelpscott/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Gilad Seckler', 'Open Philanthropy', 'Legal Team Coordinator', '2024-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gilad-seckler-17943aa8/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
@@ -125,7 +160,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Harshdeep Singh', 'Open Philanthropy', 'Program Associate', '2021-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/harshdeep-singh-93369b62/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Neha Singh', 'Open Philanthropy', 'Operations Associate', '2024-04-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240913182203/https://www.openphilanthropy.org/about/team/neha-singh/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Joseph Skonie', 'Open Philanthropy', 'Finance Operations Coordinator', '2024-07-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240917202206/https://www.openphilanthropy.org/about/team/joseph-skonie/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
-    ,('Chris Smith', 'Open Philanthropy', 'Program Officer', '2024-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/chrissmith6/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Kiana Snekcim-Shields', 'Open Philanthropy', 'Business Immigration Coordinator', '2023-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20231205001721/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/ksnekcim/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('James Snowden', 'Open Philanthropy', 'Senior Program Officer', '2024-02-26', 'month', NULL, NULL, 'https://web.archive.org/web/20240226140444/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/james-snowden-1434a352/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Andrew Snyder-Beattie', 'Open Philanthropy', 'Program Director', '2024-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/andrew-snyder-beattie-80739865/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
@@ -153,45 +187,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Qurat Zainab','Open Philanthropy','Program Associate, Global Catastrophic Risks Capacity Building','2024-08-31','month',NULL, NULL,'https://web.archive.org/web/20240831171419/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Philip Zealley', 'Open Philanthropy', 'Recruiter', '2022-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/philipzealley https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
    ,('Dustin Moskovitz', 'Open Philanthropy', 'Co-Founder & Chairman', '2014-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dmoskov/', NULL, NULL, 'Effective altruism') /*Taken from LinkedIn*/ /*Latest revision*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     ,('Adeline Sinclair', 'Open Philanthropy', 'Operations Associate', '2021-09-16', 'month', '2023-04-21','month', 'https://web.archive.org/web/20210916111910/https://www.openphilanthropy.org/about/team https://web.archive.org/web/20230421190223/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*closed*/
     ,('Adin Richards', 'Open Philanthropy', 'Contract Researcher', '2022-11-01', 'month', '2023-05-01', 'month', 'https://web.archive.org/web/20231101173958/https://www.openphilanthropy.org/about/team/adin-richards/ https://www.linkedin.com/in/adin-richards-2b49a7220/', NULL, 'contractor', 'Effective altruism') /*closed*/
@@ -232,8 +227,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Daniel Martin Alarcon','Open Philanthropy','Scientific Advisor','2016-07-09','month','2017-05-19','month','https://web.archive.org/web/20160709141810/http://www.openphilanthropy.org:80/about/team https://web.archive.org/web/20170519154502/http://www.openphilanthropy.org:80/about/team',NULL,'full-time','Effective altruism') /*closed*/  
     ,('Dario Amodei','Open Philanthropy','Technical advisor',NULL,NULL,NULL,NULL,'https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support',NULL,'advisor','AI safety')
     ,('David Manheim','Open Philanthropy','Independent Researcher','2017-11-01','month','2021-08-01','month','https://www.linkedin.com/in/davidmanheim/ https://www.openphilanthropy.org/focus/global-catastrophic-risks/biosecurity/david-manheim-research-existential-risk',NULL,'contractor','Effective altruism') /*closed*/ 
-    ,('Derek Hopf','Open Philanthropy','Grants Associate and Content Specialist','2017-07-01','month','2018-02-01','month','https://web.archive.org/web/20230325021728/https://www.openphilanthropy.org/about/team/derek-hopf/ https://web.archive.org/web/20170805183153/http://www.openphilanthropy.org:80/about/team https://web.archive.org/web/20180226190244/http://www.openphilanthropy.org:80/about/team https://www.linkedin.com/in/derek-hopf-90b249b/',NULL,'full-time','Effective altruism') /*closed*/
-    ,('Derek Hopf','Open Philanthropy','Grants Manager','2018-02-01','month', '2020-07-01', 'month','https://web.archive.org/web/20180226190244/http://www.openphilanthropy.org:80/about/team https://www.linkedin.com/in/derek-hopf-90b249b/',NULL,NULL,'Effective altruism') /*closed*/
     ,('Dev Basumallik','Open Philanthropy','Grants Associate','2017-07-05','month','2018-08-05',NULL,'https://web.archive.org/web/20170705163813/http://www.openphilanthropy.org:80/about/team https://web.archive.org/web/20180805213521/https://www.openphilanthropy.org/about/team',NULL,'full-time','Effective altruism')  /*closed*/
     ,('Dev Basumallik','Open Philanthropy','Finance Associate','2020-01-20',NULL,'2020-05-24','year','https://web.archive.org/web/20200120181109/https://www.openphilanthropy.org/about/team https://web.archive.org/web/20200524164320/https://www.openphilanthropy.org/about/team',NULL,'full-time','Effective altruism')  /*closed*/
     ,('Dylan Corliss', 'Open Philanthropy', 'Recruiting Coordinator', '2022-01-01', 'month', '2022-12-01', 'month', 'https://web.archive.org/web/20231128033648/https://www.openphilanthropy.org/about/team/dylan-corliss/ https://www.linkedin.com/in/dylan-corliss/', NULL, 'full-time', 'Effective altruism') /*closed*/  
@@ -310,20 +303,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Nicole Ross','Open Philanthropy','Operations Associate','2016-01-11','month','2017-03-18','month','https://web.archive.org/web/20160111014138/http://www.openphilanthropy.org:80/about/team https://web.archive.org/web/20170318215922/http://www.openphilanthropy.org:80/about/team',NULL,'full-time','Effective altruism') /*closed*/
     ,('Nicole Ross','Open Philanthropy','Research Analyst','2017-03-18','month','2019-03-11','month','https://web.archive.org/web/20170318215922/http://www.openphilanthropy.org:80/about/team https://web.archive.org/web/20190311003104/http://www.openphilanthropy.org/about/team',NULL,'full-time','Effective altruism')/*closed*/
     ,('Nora Ait Boucherbil', 'Open Philanthropy', 'Business operations coordinator', '2024-02-26', 'month', '2024-09-30', 'month', 'https://web.archive.org/web/20240226140444/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20240930231527/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*closed*/
-
-
-
-('Otis Reid', 'Open Philanthropy', 'Research Fellow', '2021-01-01', 'month', '2022-06-01', 'month', 'https://www.linkedin.com/in/otisreid/details/experience/', 'Chicago, Illinois, United States', 'full-time', 'Effective altruism') /*closed*/
-,('Otis Reid', 'Open Philanthropy', 'Senior Program Officer', '2022-06-01', 'month', '2023-10-01', 'month', 'https://www.linkedin.com/in/otisreid/details/experience/', 'Chicago, Illinois, United States', 'full-time', 'Effective altruism') /*closed*/
-,('Otis Reid', 'Open Philanthropy', 'Advisor', '2023-10-01', 'month', '2024-12-01', 'month', 'https://www.linkedin.com/in/otisreid/details/experience/', 'Remote', 'part-time', 'Effective altruism') /*closed*/
-,('Otis Reid', 'Open Philanthropy', 'Program Director', '2024-12-01', 'month', '2025-01-01', 'month', 'https://www.linkedin.com/in/otisreid/details/experience/', 'Remote', 'full-time', 'Effective altruism') /*closed*/
-
-
-
-
-
-
-
+    ,('Otis Reid', 'Open Philanthropy', 'Research Fellow', '2021-01-01', 'month', '2022-06-01', 'month', 'https://www.linkedin.com/in/otisreid/details/experience/', 'Chicago, Illinois, United States', 'full-time', 'Effective altruism') /*closed*/
+    ,('Otis Reid', 'Open Philanthropy', 'Senior Program Officer', '2022-06-01', 'month', '2023-10-01', 'month', 'https://www.linkedin.com/in/otisreid/details/experience/', 'Chicago, Illinois, United States', 'full-time', 'Effective altruism') /*closed*/
+    ,('Otis Reid', 'Open Philanthropy', 'Advisor', '2023-10-01', 'month', '2024-12-01', 'month', 'https://www.linkedin.com/in/otisreid/details/experience/', 'Remote', 'part-time', 'Effective altruism') /*closed*/
+    ,('Otis Reid', 'Open Philanthropy', 'Program Director', '2024-12-01', 'month', '2025-01-01', 'month', 'https://www.linkedin.com/in/otisreid/details/experience/', 'Remote', 'full-time', 'Effective altruism') /*closed*/
     ,('Paige Henchen', 'Open Philanthropy', 'Recruiter', '2021-02-01', 'month', '2022-01-01', 'month', 'https://www.linkedin.com/in/paigehenchen/', NULL, NULL, 'Effective altruism') /*closed*/   
     ,('Paige Henchen', 'Open Philanthropy', 'People Operations Manager', '2021-02-01', 'month', '2022-05-01', 'month', 'https://web.archive.org/web/20220509154433/https://www.openphilanthropy.org/about/team https://www.linkedin.com/in/paigehenchen/', NULL, NULL, 'Effective altruism') /*closed*/    
     ,('Paige Henchen', 'Open Philanthropy', 'Director Of Operations', '2022-05-01', 'month', '2023-10-01', 'month', 'https://www.linkedin.com/in/paigehenchen/', NULL, NULL, 'Effective altruism') /*closed*/  
