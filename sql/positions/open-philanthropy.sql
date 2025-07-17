@@ -94,10 +94,22 @@ insert into positions(person, organization, title, start_date, start_date_precis
 /*.............................................................Potential Risks from Advanced AI.............................................................*/
     ,('Ajeya Cotra','Open Philanthropy','Senior Advisor','2025-01-28','month',NULL,NULL,'https://web.archive.org/web/20250128012326/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL,NULL,'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Latest revision*/
     ,('Luke Muehlhauser','Open Philanthropy','Program Director','2025-01-01','month',NULL,NULL,'https://www.linkedin.com/in/luke-muehlhauser-15a09b26/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL,NULL,'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Latest revision*/
+    ,('Peter Favaloro','Open Philanthropy','Senior Program Officer','2024-12-01','month',NULL,NULL,'https://www.linkedin.com/in/peterfavaloro/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL,NULL,'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Latest revision*/
+    ,('Melanie Harris','Open Philanthropy','Senior Policy Advisor','2025-04-29','month',NULL,NULL,'https://web.archive.org/web/20250429113251/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/','Remote','full-time','Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Latest revision*/
 
 
 
 
+
+
+
+
+
+
+
+
+    ,('Peter Favaloro','Open Philanthropy','Research Fellow','2019-10-01','month','2023-06-01','month','https://www.linkedin.com/in/peterfavaloro/','San Francisco Bay Area','full-time','Effective altruism') /*closed*/
+    ,('Peter Favaloro','Open Philanthropy','Senior Research Fellow','2023-07-01','month','2024-11-01','month','https://www.linkedin.com/in/peterfavaloro/','San Francisco Bay Area','full-time','Effective altruism') /*closed*/
     ,('Luke Muehlhauser','Open Philanthropy','Research Analyst','2015-06-01','month','2018-02-01','month','https://web.archive.org/web/20160111014138/http://www.openphilanthropy.org:80/about/team https://web.archive.org/web/20180226190244/http://www.openphilanthropy.org:80/about/team https://www.linkedin.com/in/luke-muehlhauser-15a09b26/',NULL, NULL,'Effective altruism') /*closed*/
     ,('Luke Muehlhauser','Open Philanthropy','Senior Research Analyst','2018-03-01','month', '2020-12-01', 'month','https://web.archive.org/web/20180226190244/http://www.openphilanthropy.org:80/about/team https://www.linkedin.com/in/luke-muehlhauser-15a09b26/',NULL, NULL,'Effective altruism') /*closed*/  
     ,('Luke Muehlhauser', 'Open Philanthropy', 'Program officer', '2021-01-01', 'month', '2022-07-01', 'month', 'https://web.archive.org/web/20220509154433/https://www.openphilanthropy.org/about/team https://www.linkedin.com/in/luke-muehlhauser-15a09b26/', NULL, 'full-time', 'Effective altruism') /*closed*/  
@@ -122,7 +134,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Madeline Ephgrave', 'Open Philanthropy', 'Grants Associate', '2024-03-01', 'month', NULL, NULL, 'https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/madeline-ephgrave-396234181/', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Benjamin Esche', 'Open Philanthropy', 'Program Operations Lead, Global Catastrophic Risks Capacity Building', '2024-07-01', 'month', '2024-12-21', 'month', 'https://www.linkedin.com/in/benjamin-esche-49b45529/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism') /*closed*/
     ,('Benjamin Esche','Open Philanthropy','Senior Program Associate, Global Catastrophic Risks Capacity Building','2025-01-28','month','2025-02-28','month','https://web.archive.org/web/20250128012326/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250228154530/https://www.openphilanthropy.org/team/',NULL,'full-time','Effective altruism') /*closed*/
-    ,('Peter Favaloro', 'Open Philanthropy', 'Research Fellow', '2019-10-01', 'month', NULL, NULL, 'https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/peterfavaloro/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Lukas Finnveden', 'Open Philanthropy', 'Research Analyst', '2022-09-01', 'month', NULL, NULL, 'https://www.openphilanthropy.org/about/team/lukas-finnveden/ https://www.linkedin.com/in/lukas-finnveden-787a07145 https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Meiko Flynn-Do', 'Open Philanthropy', 'People Operations Coordinator', '2022-03-01', 'month', NULL, NULL, 'https://web.archive.org/web/20230327071516/https://www.openphilanthropy.org/about/team/meiko-flynn-do/ https://www.linkedin.com/in/meiko-flynn-do/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
     ,('Nick Gabrieli', 'Open Philanthropy', 'Program Associate', '2024-12-21', 'month', NULL, NULL, 'https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2024-12-21*/ /*Latest revision*/
