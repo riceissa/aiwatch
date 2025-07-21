@@ -153,6 +153,7 @@ sql/positions/paisri.sql
 sql/positions/palisade-research.sql
 sql/positions/pantask.sql
 sql/positions/partnership-on-ai.sql
+sql/positions/pauseai.sql
 sql/positions/probably-good.sql
 sql/positions/quantified-uncertainty-research-institute.sql
 sql/positions/raising-for-effective-giving.sql
