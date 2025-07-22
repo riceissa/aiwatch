@@ -176,6 +176,7 @@ sql/positions/survival-and-flourishing.fund.sql
 sql/positions/survival-and-flourishing.org.sql
 sql/positions/suvita.sql
 sql/positions/talos-network.sql
+sql/positions/the-council-on-strategic-risks.sql 
 sql/positions/the-institute-for-ethical-aI-machine-learning.sql
 sql/positions/the-navigation-fund.sql
 sql/positions/the-humane-league.sql
