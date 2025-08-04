@@ -115,6 +115,7 @@ sql/positions/goodai.sql
 sql/positions/google-deep-mind.sql
 sql/positions/gwwc.sql
 sql/positions/happier-lives-institute.sql
+sql/positions/harvard-ai-safety-team.sql
 sql/positions/high-impact-athletes.sql
 sql/positions/high-impact-medicine.sql
 sql/positions/holtman-systems-research.sql
