@@ -5,7 +5,6 @@ sql/product_creators.sql
 sql/positions/80000-hours.sql
 sql/positions/abdul-latif-jameel-poverty-action-lab.sql
 sql/positions/a-bit-weird.sql
-sql/positions/cellular-agriculture-australia.sql
 sql/positions/accelerator-for-systemic-risk-assessment.sql
 sql/positions/ace.sql
 sql/positions/ada-lovelace-institute.sql
@@ -45,6 +44,7 @@ sql/positions/bluedot-impact.sql
 sql/positions/capital-v.sql
 sql/positions/cea.sql
 sql/positions/cealar.sql
+sql/positions/cellular-agriculture-australia.sql
 sql/positions/center-for-ai- and-digital-policy.sql
 sql/positions/center-for-ai-policy.sql
 sql/positions/center-for-ai-safety.sql
@@ -122,6 +122,7 @@ sql/positions/human-progress.sql
 sql/positions/institute-for-ai-policy-and-strategy.sql
 sql/positions/institute-for-ethics-in-artificial-intelligence.sql
 sql/positions/institute-for-law-ai.sql
+sql/positions/international-longevity-alliance.sql
 sql/positions/ipa.sql
 sql/positions/johns-hopkins-center-for-health-security.sql
 sql/positions/legal-priorities-project.sql
