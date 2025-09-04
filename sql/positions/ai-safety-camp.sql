@@ -1,13 +1,8 @@
  insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
-  
- /* Reviewed on 2025-08-18 / / Last available Wayback snapshot date is 2025-08-18 */  
-
  ('Remmelt Ellen', 'AI Safety Camp', 'Organizer', '2020-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/remmelt-ellen-19b88045/ https://web.archive.org/web/20250818230307/https://www.aisafety.camp/organizers/', NULL, NULL, NULL, NULL, 'AI safety')  /* Reviewed on 2025-08-18 / / Last available Wayback snapshot date is 2025-08-18 */  
 ,('Robert Kralisch', 'AI Safety Camp', 'Organizer', '2024-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240918191415/https://www.aisafety.camp/organizers/ https://www.linkedin.com/in/robert-kralisch-bb431b153/ https://web.archive.org/web/20250818230307/https://www.aisafety.camp/organizers/', NULL, NULL, NULL, NULL, 'AI safety')   /* Reviewed on 2025-08-18 / / Last available Wayback snapshot date is 2025-08-18 */  
 ,('Linda Linsefors', 'AI Safety Camp', 'Research Coordinator', '2022-11-01', 'month', NULL, NULL, 'https://web.archive.org/web/20230205225259/https://www.aisafety.camp/organizers/ https://www.linkedin.com/in/dr-linda-linsefors-a2158ba2/', NULL, NULL, NULL, NULL, 'AI safety')    /* Reviewed on 2025-08-18 / / Last available Wayback snapshot date is 2025-08-18 */  
-
  /* ONLY LINKEDIN */  
-
 ,('Claire Short', 'AI Safety Camp', 'Research Lead', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/claireshort4/', NULL, NULL, NULL, NULL, 'AI safety')  
 ,('Anna-Katharina Dick', 'AI Safety Camp', 'Associate Researcher', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/anna-katharina-dick-99b676181/', NULL, NULL, NULL, NULL, 'AI safety')  
 ,('Gerard Boxó Corominas', 'AI Safety Camp', 'Researcher', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gerard-boxo-183598275/', NULL, NULL, NULL, NULL, 'AI safety')  
@@ -23,19 +18,20 @@
 ,('Kaushik Sanjay Prabhakar', 'AI Safety Camp', 'Researcher', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/pranshul-b-00051b213/', NULL, NULL, NULL, 'part-time', 'AI safety')
 ,('Sundar Sripada', 'AI Safety Camp', 'Research Engineer', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sundarsripada26/', NULL, NULL, NULL, 'part-time', 'AI safety')
 ,('Raymond Koopmanschap', 'AI Safety Camp', 'Compute Governance Researcher', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/raymond-koopmanschap/', NULL, NULL, NULL, 'part-time', 'AI safety')
+/*CERRADA*/ 
 
-
-
-CERRADA 
 ,('Remmelt Ellen', 'AI Safety Camp', 'Co-initiator', '2017-11-01', 'month', '2018-04-01', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/ https://www.linkedin.com/in/remmelt-ellen-19b88045/', NULL, NULL, NULL, NULL, 'AI safety') 
-,('Tom McGrath', 'AI Safety Camp', 'Volunteer', '2018-04-01', 'month', '2018-04-31', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
-,('Nandi Schoots', 'AI Safety Camp', 'Volunteer', '2018-04-01', 'month', '2018-04-31', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
-,('David Kristoffersson', 'AI Safety Camp', 'Volunteer', '2018-04-01', 'month', '2018-04-31', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
-,('Linda Linsefors', 'AI Safety Camp', 'Volunteer', '2018-04-01', 'month', '2018-04-31', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
-,('Maia Pasek', 'AI Safety Camp', 'Volunteer', '2018-04-01', 'month', '2018-04-31', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
-,('Markus Salmela', 'AI Safety Camp', 'Volunteer', '2018-04-01', 'month', '2018-04-31', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
-,('Karol Kubicki', 'AI Safety Camp', 'Volunteer', '2018-04-01', 'month', '2018-04-31', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
-,('Anne Wissemann', 'AI Safety Camp', 'Volunteer', '2018-04-01', 'month', '2018-04-31', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
+,('Tom McGrath', 'AI Safety Camp', 'Volunteer', '2018-04-01', 'month', '2018-04-30', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
+,('Nandi Schoots', 'AI Safety Camp', 'Volunteer', '2018-04-01', 'month', '2018-04-30', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
+
+,('David Kristoffersson', 'AI Safety Camp', 'Volunteer', '2018-04-01', 'month', '2018-04-30', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
+,('Linda Linsefors', 'AI Safety Camp', 'Volunteer', '2018-04-01', 'month', '2018-04-30', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
+,('Maia Pasek', 'AI Safety Camp', 'Volunteer', '2018-04-01', 'month', '2018-04-30', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
+,('Markus Salmela', 'AI Safety Camp', 'Volunteer', '2018-04-01', 'month', '2018-04-30', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
+
+
+,('Karol Kubicki', 'AI Safety Camp', 'Volunteer', '2018-04-01', 'month', '2018-04-30', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
+,('Anne Wissemann', 'AI Safety Camp', 'Volunteer', '2018-04-01', 'month', '2018-04-30', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
 ,('Johannes Heidecke', 'AI Safety Camp', 'Volunteer', '2018-10-01', 'month', '2018-10-31', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
 ,('Jan Kulveit', 'AI Safety Camp', 'Volunteer', '2018-10-01', 'month', '2018-10-31', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
 ,('Anne Wissemann', 'AI Safety Camp', 'Volunteer', '2018-10-01', 'month', '2018-10-31', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
@@ -73,4 +69,3 @@ CERRADA
 ,('Sai Joseph', 'AI Safety Camp', 'Volunteer', '2022-01-01', 'month', '2022-06-01', 'month', 'https://web.archive.org/web/20211022153141/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
 ,('Adam Shimi', 'AI Safety Camp', 'Volunteer', '2022-01-01', 'month', '2022-06-01', 'month', 'https://web.archive.org/web/20211022153141/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
 ,('Kristi Uustalu', 'AI Safety Camp', 'Operations Coordinator', '2021-10-01', 'month', '2023-10-01', 'month', 'https://web.archive.org/web/20211022153141/https://aisafety.camp/about-us/ https://www.linkedin.com/in/kristi-uustalu-586800233/ https://web.archive.org/web/20230609113533/https://www.aisafety.camp/organizers/', NULL, NULL, NULL, 'full-time', 'AI safety')
-
