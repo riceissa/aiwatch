@@ -108,6 +108,7 @@ sql/positions/give-directly.sql
 sql/positions/givewell.sql
 sql/positions/giving-multiplier.sql
 sql/positions/globaia.sql
+sql/positions/global-volcano-risk-alliance.sql
 sql/positions/global-priorities-institute-oxford-university.sql
 sql/positions/global-shield.sql
 sql/positions/good-forever.sql
