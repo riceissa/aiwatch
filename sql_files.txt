@@ -147,6 +147,7 @@ sql/positions/new-incentives.sql
 sql/positions/non-trivial.sql
 sql/positions/nonlinear-fund.sql
 sql/positions/nucleic-acid-observatory.sql
+sql/positions/observatorio-de-riesgos-catastróficos-globales.sql
 sql/positions/odiseia.sql
 sql/positions/one-for-the-world.sql
 sql/positions/open-philanthropy.sql
