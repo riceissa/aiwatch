@@ -41,7 +41,7 @@ sql/positions/beri.sql
 sql/positions/biotein.sql
 sql/positions/blue-horizon.sql
 sql/positions/bluedot-impact.sql
-sql/positions/cambridge-boston-alignment-initiative
+sql/positions/cambridge-boston-alignment-initiative.sql
 sql/positions/capital-v.sql
 sql/positions/cea.sql
 sql/positions/cealar.sql
