@@ -57,6 +57,7 @@ sql/positions/center-on-long-term-risk.sql
 sql/positions/centre-for-exploratory-altruism-research.sql
 sql/positions/centre-for-long-term-resilience.sql
 sql/positions/centre-for-the-governance-of-ai.sql
+sql/positions/centre-pour-la-securite-de-lia.sql
 sql/positions/centre-for-the-study-of-existential-risk.sql
 sql/positions/cesia.sql
 sql/positions/cfactual.sql
