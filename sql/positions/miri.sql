@@ -2,11 +2,21 @@ insert into positions(person, organization, title, start_date, start_date_precis
 /*There are many years without a single Wayback snapshot for this org*/
 
 
-    ('Malo Bourgon','Machine Intelligence Research Institute','Chief Executive Officer','2023-06-01','month',NULL,NULL,'https://www.linkedin.com/in/malob/details/experience/ https://web.archive.org/web/20250207171906/https://intelligence.org/team/',NULL,'position',NULL,NULL,'AI safety') /*Last reviewed Wayback snapshot is from 2025-02-07*/ /*current position*/ 
-    ,('Nate Soares','Machine Intelligence Research Institute','President','2023-10-23','month',NULL,NULL,'https://web.archive.org/web/20231023230407/http://intelligence.org/team/ https://web.archive.org/web/20250207171906/https://intelligence.org/team/',NULL,'position',NULL,'Board member','AI safety') /*Last reviewed Wayback snapshot is from 2025-02-07*/ /*current position*/ 
-    ,('Eliezer Yudkowsky','Machine Intelligence Research Institute','Co-founder','2000-07-27','day','2006-12-01','month','https://web.archive.org/web/20001210004500/https://singinst.org/about.html https://web.archive.org/web/20250207171906/https://intelligence.org/team/',NULL,NULL,NULL,'Board member','AI safety') /*Last reviewed Wayback snapshot is from 2025-02-07*/ /*current position*/ 
-    ,('Alex Vermeer','Machine Intelligence Research Institute','Chief Operating Officer','2023-10-23','month',NULL,NULL,'https://www.linkedin.com/in/alex-vermeer-66429514/ https://web.archive.org/web/20231023230407/http://intelligence.org/team/ https://web.archive.org/web/20250207171906/https://intelligence.org/team/',NULL,'position',NULL,NULL,'AI safety') /*Last reviewed Wayback snapshot is from 2025-02-07*/ /*current position*/ 
-    ,('Jimmy Rintjema','Machine Intelligence Research Institute','Chief Financial Officer','2023-10-23','month',NULL,NULL,'https://web.archive.org/web/20231023230407/http://intelligence.org/team/ https://web.archive.org/web/20250207171906/https://intelligence.org/team/',NULL,'position',NULL,NULL,'AI safety') /*Last reviewed Wayback snapshot is from 2025-02-07*/ /*current position*/ 
+    ('Malo Bourgon','Machine Intelligence Research Institute','Chief Executive Officer','2023-06-01','month',NULL,NULL,'https://www.linkedin.com/in/malob/details/experience/ https://web.archive.org/web/20250908232055/https://intelligence.org/team/',NULL,'position',NULL,NULL,'AI safety') /*Last reviewed Wayback snapshot is from 2025-09-08*/  
+    ,('Nate Soares','Machine Intelligence Research Institute','President','2023-10-23','month',NULL,NULL,'https://web.archive.org/web/20231023230407/http://intelligence.org/team/ https://web.archive.org/web/20250908232055/https://intelligence.org/team/',NULL,'position',NULL,NULL,'AI safety') /*Last reviewed Wayback snapshot is from 2025-09-08*/  
+    ,('Eliezer Yudkowsky','Machine Intelligence Research Institute','Co-founder','2000-07-27','day',NULL,NULL,'https://web.archive.org/web/20001210004500/https://singinst.org/about.html https://web.archive.org/web/20250908232055/https://intelligence.org/team/',NULL,NULL,NULL,'Board member','AI safety') /*Last reviewed Wayback snapshot is from 2025-09-08*/  
+    ,('Alex Vermeer','Machine Intelligence Research Institute','Chief Operating Officer','2023-10-23','month',NULL,NULL,'https://www.linkedin.com/in/alex-vermeer-66429514/ https://web.archive.org/web/20231023230407/http://intelligence.org/team/ https://web.archive.org/web/20250908232055/https://intelligence.org/team/',NULL,'position',NULL,'Board member','AI safety') /*Last reviewed Wayback snapshot is from 2025-09-08*/  
+    ,('Jimmy Rintjema','Machine Intelligence Research Institute','Chief Financial Officer','2023-10-23','month',NULL,NULL,'https://web.archive.org/web/20231023230407/http://intelligence.org/team/ https://web.archive.org/web/20250908232055/https://intelligence.org/team/',NULL,'position',NULL,'Board member','AI safety') /*Last reviewed Wayback snapshot is from 2025-09-08*/  
+
+
+
+
+
+
+
+
+
+
     ,('Lisa Thiergart', 'Machine Intelligence Research Institute', 'Research Manager', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lisathiergart/ https://web.archive.org/web/20231023230407/http://intelligence.org/team/ https://web.archive.org/web/20250207171906/https://intelligence.org/team/',NULL,'position',NULL,NULL,'AI safety') /*Last reviewed Wayback snapshot is from 2025-02-07*/ /*current position*/ 
     ,('Gretta Duleba', 'Machine Intelligence Research Institute', 'Communications Manager', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gretta-duleba-3602392/ https://intelligence.org/2023/10/10/announcing-miris-new-ceo-and-leadership-team/ https://web.archive.org/web/20250207171906/https://intelligence.org/team/',NULL,'position',NULL,NULL,'AI safety') /*Last reviewed Wayback snapshot is from 2025-02-07*/ /*current position*/ 
     ,('Benya Fallenstein','Machine Intelligence Research Institute','Research Fellow','2014-06-01','month',NULL,NULL,'https://web.archive.org/web/20140625131621/http://intelligence.org:80/team/ https://futureoflife.org/first-ai-grant-recipients/ https://web.archive.org/web/20250207171906/https://intelligence.org/team/',NULL,'position',NULL,NULL,'AI safety') /*Last reviewed Wayback snapshot is from 2025-02-07*/ /*current position*/
