@@ -21,11 +21,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Joris Pijpers', 'Centre for Effective Altruism', 'Chief of Staff (Community Growth)', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joris-pijpers/details/experience/', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */ 
     ,('Kennan McClung', 'Centre for Effective Altruism', 'Strategy Lead - Pilot Universities', '2025-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kennan-mcclung-64615769/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */ 
     ,('Naomi Nederlof', 'Centre for Effective Altruism', 'Community Building Grants Manager', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/naomi-nederlof https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */ 
-
-
-    
-
-
+    ,('Sam Robinson', 'Centre for Effective Altruism', 'University Groups Team Senior Associate', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sam-robinson-964748190/details/experience/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */ 
+    ,('Sarah Bluhm', 'Centre for Effective Altruism', 'Pilot University Coordinator', '2025-06-30', 'month', NULL, NULL, 'https://web.archive.org/web/20250630225845/https://www.centreforeffectivealtruism.org/team https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */ 
 
 
 
@@ -36,6 +33,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
+
+
+
+    ,('Sam Robinson', 'Centre for Effective Altruism', 'University Groups Team Coordinator', '2024-03-01', 'month', '2025-07-01', 'month', 'https://www.linkedin.com/in/sam-robinson-964748190/details/experience/', NULL, 'Part-time', 'Effective altruism') /*closed*/
+    ,('Sam Robinson', 'Centre for Effective Altruism', 'University Groups Team Contractor', '2023-08-01', 'month', '2024-03-01', 'month', 'https://www.linkedin.com/in/sam-robinson-964748190/details/experience/', NULL, 'Part-time', 'Effective altruism') /*closed*/
+    ,('Sam Robinson', 'Centre for Effective Altruism', 'University Groups Team Intern', '2023-06-01', 'month', '2023-08-01', 'month', 'https://www.linkedin.com/in/sam-robinson-964748190/details/experience/', NULL, 'Internship', 'Effective altruism') /*closed*/
     ,('Jessica McCurdy', 'Centre for Effective Altruism', 'Head of Groups', '2023-10-01', 'month', '2025-02-25', 'month', 'https://www.linkedin.com/in/jessica-mccurdy/details/experience/ https://web.archive.org/web/20250225000513/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*closed*/
     ,('Dion Tan', 'Centre for Effective Altruism', 'Project Lead', '2024-06-01', 'month', '2024-12-31', 'month', 'https://www.linkedin.com/in/diontsh/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', 'Project lead for EAGxSingapore and EAGxVirtual conferences.', 'Full-time', 'Effective altruism') /*closed*/
     ,('Ollie Rodriguez', 'Centre for Effective Altruism', 'Chief of Staff (Events team)', '2024-03-01', 'month', '2025-07-01', 'month', 'https://www.linkedin.com/in/ollie-base-970922135 https://web.archive.org/web/20250110014100/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*closed*/
