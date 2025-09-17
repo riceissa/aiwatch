@@ -35,24 +35,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
  
 
 
-
-
-
-
-
- 
-
-
-
-
-
-
-
     ,('Jessica McCurdy', 'Centre for Effective Altruism', 'Head of Groups', '2023-10-01', 'month', '2025-02-25', 'month', 'https://www.linkedin.com/in/jessica-mccurdy/details/experience/ https://web.archive.org/web/20250225000513/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*closed*/
     ,('Dion Tan', 'Centre for Effective Altruism', 'Project Lead', '2024-06-01', 'month', '2024-12-31', 'month', 'https://www.linkedin.com/in/diontsh/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', 'Project lead for EAGxSingapore and EAGxVirtual conferences.', 'Full-time', 'Effective altruism') /*closed*/
     ,('Shelby McIntyre', 'Centre for Effective Altruism', 'Project Manager', '2024-12-30', 'month', NULL, NULL, 'https://web.archive.org/web/20241230235437/https://www.centreforeffectivealtruism.org/team https://web.archive.org/web/20250110014100/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-01-10 */  /*current position*/
     ,('Sophie Thomson', 'Centre for Effective Altruism', 'Partner Events Program Lead', '2022-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sophie-thomson/ https://web.archive.org/web/20250110014100/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-01-10 */  /*current position*/
-    ,('Alex Dial', 'Centre for Effective Altruism', 'Groups Support Associate', '2024-07-29', 'month', '2025-03-31', 'month', 'https://web.archive.org/web/20240729225257/https://www.centreforeffectivealtruism.org/team https://web.archive.org/web/20250331225451/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*closed*/
+    ,('Alex Dial', 'Centre for Effective Altruism', 'Groups Support Associate', '2024-07-29', 'month', '2025-03-31', 'month',  'https://web.archive.org/web/20240729225257/https://www.centreforeffectivealtruism.org/team https://web.archive.org/web/20250331225451/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*closed*/
     ,('Alex Rahl-Kaplan', 'Centre for Effective Altruism', 'CBG Associate', '2025-01-10', 'month', NULL, NULL, 'https://web.archive.org/web/20250110014100/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-01-10 */  /*current position*/
     ,('Hillary Grills', 'Centre for Effective Altruism', 'Project Manager, People Operations', '2023-05-01', 'month', NULL, NULL, 'https://web.archive.org/web/20231219021022/https://www.centreforeffectivealtruism.org/team https://www.linkedin.com/in/hillary-grills https://web.archive.org/web/20250110014100/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-01-10 */  /*current position*/
     ,('Rika Gabriel', 'Centre for Effective Altruism', 'People Operations Senior Associate', '2024-11-12', 'month', NULL, NULL, 'https://web.archive.org/web/20241112000052/https://www.centreforeffectivealtruism.org/team https://web.archive.org/web/20250110014100/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-01-10 */  /*current position*/
@@ -71,8 +58,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Emma Richter', 'Centre for Effective Altruism', 'Communications Associate', '2023-06-11', 'month', NULL, NULL, 'https://web.archive.org/web/20230611011326/https://www.centreforeffectivealtruism.org/team https://web.archive.org/web/20250110014100/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-01-10 */  /*current position*/
     ,('William MacAskill','Centre for Effective Altruism','Trustee',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20140326025550/https://www.centreforeffectivealtruism.org/team/',NULL,'board member','Effective altruism')
     ,('Helena Dias', 'Centre for Effective Altruism', 'Business Operations Manager', '2025-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/helena-dias/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */
-    ,('Jana Wilke', 'Centre for Effective Altruism', 'HR Systems & International Employment Manager', '2022-11-01', 'month', NULL, NULL, 'https://www.centreforeffectivealtruism.org/team', 'Manages HR systems and international employment processes, ensuring compliance and smooth operations across jurisdictions.', NULL, 'Full‑time', 'Effective altruism') /*Based on CEA team page*/
     ,('Jana Wilke', 'Centre for Effective Altruism', 'HR Manager', '2025-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jana-wilke%F0%9F%94%B8-826a3b141/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */
+    ,('Jonathan Michel', 'Centre for Effective Altruism', 'Project Manager', '2024-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/m-jonathan-michel/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */
+    ,('Kerry Ridsdale', 'Centre for Effective Altruism', 'Recruitment Manager', '2025-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kridsdale/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */
 
 
 
@@ -83,14 +71,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
-
-
-
-
-
-
-
-
+/*.................................................................................closed.................................................................................*/
     ,('Aaron Gertler', 'Centre for Effective Altruism', 'Content Specialist', '2018-10-01', 'month', '2021-12-01', 'month', 'https://web.archive.org/web/20181108005358/https://www.centreforeffectivealtruism.org/team/ https://www.linkedin.com/in/aarongertler/ https://web.archive.org/web/20211101112513/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*closed*/
     ,('Agnes Stenlund', 'Centre for Effective Altruism', 'Product Designer', '2023-01-01', 'month', '2024-01-19', 'month', 'https://www.linkedin.com/in/agnesstenlund https://web.archive.org/web/20240119131500/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism')   /*closed*/
     ,('Ales Flidr','Centre for Effective Altruism','Intern','2015-05-01','month','2015-07-01','month','https://www.linkedin.com/in/ales-flidr-96764638/',NULL,'intern','Effective altruism') /*closed*/ 
