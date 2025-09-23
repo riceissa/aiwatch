@@ -80,6 +80,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Catherine Hollander','GiveWell', 'Senior Program Associate', '2021-12-02'/*I arbitrarily chose December 2 to fix duplication display*/, 'month',NULL,NULL, 'https://web.archive.org/web/20220307113826/https://www.givewell.org/about/people https://www.linkedin.com/in/catherine-h-4b636421/ https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last consulted Wayback snapshot is from 2025-09-15 */
     ,('Jack Clift', 'GiveWell', 'Program Officer', '2025-07-28', 'month', NULL, NULL, 'https://web.archive.org/web/20250728230900/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last consulted Wayback snapshot is from 2025-09-15 */
     ,('Jordan Hebert', 'GiveWell', 'Research Analyst', '2024-09-30', 'month', NULL, NULL, 'https://web.archive.org/web/20240930230255/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last consulted Wayback snapshot is from 2025-09-15 */
+   ,('Stephan Guyenet','GiveWell', 'Senior Researcher', '2020-11-16', 'month',NULL,NULL, 'https://web.archive.org/web/20201116175256/https://www.givewell.org/about/people https://www.linkedin.com/in/guyenet/ https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last consulted Wayback snapshot is from 2025-09-15 */
+   ,('Zachary McLeod', 'GiveWell', 'Research Analyst', '2023-07-17', 'month', NULL,NULL, 'https://www.linkedin.com/in/zachary-mcleod-34398040/ https://web.archive.org/web/20230717225926/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last consulted Wayback snapshot is from 2025-09-15 */
+    /*...........................................................................Research leadership..................................................................................*/
+
 
 
 
@@ -112,16 +116,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Debbie Kim', 'GiveWell', 'Development Operations Associate', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/debbiehaeinkim/ https://web.archive.org/web/20250216210747/https://www.givewell.org/about/people', NULL, 'Full-time','Global health and poverty') /*Last consulted wayback snapshot is from 2025-02-16*/ /*current position*/
     ,('Jeremy Rehwaldt','GiveWell', 'Communications Specialist', '2024-05-27', 'month','2025-04-28', 'month', 'https://web.archive.org/web/20240527225704/https://www.givewell.org/about/people https://web.archive.org/web/20250428230801/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*closed*/  
     ,('Jordan Hebert', 'GiveWell', 'Content Editor', '2023-08-14', 'month', '2024-08-26', 'month', 'https://web.archive.org/web/20230814225540/https://www.givewell.org/about/people https://web.archive.org/web/20240826230255/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*closed*/ 
-
-
-
-
-
-
-
-
-   ,('Stephan Guyenet','GiveWell', 'Senior Researcher', '2020-11-16', 'month',NULL,NULL, 'https://web.archive.org/web/20201116175256/https://www.givewell.org/about/people https://www.linkedin.com/in/guyenet/ https://web.archive.org/web/20250216210747/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Last consulted wayback snapshot is from 2025-02-16*/ /*current position*/
-   ,('Zachary McLeod', 'GiveWell', 'Research Analyst', '2023-07-17', 'month', NULL,NULL, 'https://www.linkedin.com/in/zachary-mcleod-34398040/ https://web.archive.org/web/20230717225926/https://www.givewell.org/about/people https://web.archive.org/web/20250216210747/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Last consulted wayback snapshot is from 2025-02-16*/ /*current position*/
    ,('Hannah Bell','GiveWell', 'Senior Program Associate', '2024-04-29', 'month',NULL, NULL, 'https://web.archive.org/web/20240429233328/https://www.givewell.org/about/people https://web.archive.org/web/20250216210747/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Last consulted wayback snapshot is from 2025-02-16*/ /*current position*/
    ,('Julie Faller','GiveWell', 'Senior Program Officer', '2023-09-25', 'month',NULL, NULL, 'https://web.archive.org/web/20230925230143/https://www.givewell.org/about/people https://web.archive.org/web/20250216210747/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Last consulted wayback snapshot is from 2025-02-16*/ /*current position*/
    ,('Teryn Mattox','GiveWell', 'Director of Research', '2021-11-02', 'month', '2023-05-11', 'month', 'https://www.linkedin.com/in/teryn-mattox-189b2153/ https://web.archive.org/web/20231016225739/https://www.givewell.org/about/people https://web.archive.org/web/20250216210747/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Last consulted wayback snapshot is from 2025-02-16*/ /*current position*/
