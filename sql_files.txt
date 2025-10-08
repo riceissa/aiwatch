@@ -145,6 +145,7 @@ sql/positions/millennium-alliance-for-humanity-and-the-biosphere.sql
 sql/positions/miri.sql
 sql/positions/ml4good.sql
 sql/positions/model-evaluation-and-threat-research.sql
+sql/positions/nato-climate-change-and-security-centre-of-excellence.sql
 sql/positions/new-incentives.sql
 sql/positions/non-trivial.sql
 sql/positions/nonlinear-fund.sql
