@@ -30,28 +30,14 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Peter Singer','Animal Charity Evaluators','Advisor', '2016-04-01', 'month',NULL,NULL,'https://web.archive.org/web/20160412184143/http://www.animalcharityevaluators.org:80/about/meet-our-team/ https://web.archive.org/web/20251008230530/https://animalcharityevaluators.org/about/our-team/', NULL, 'Advisor', 'Animal welfare') /*Last consulted Wayback snapshot is from 2025-10-08 */ 
 /*..........................................................Only LinkedIn positions below.................................................*/
     ,('Allison Smith', 'Animal Charity Evaluators', 'Board Chair', '2020-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/allison-smith-03b4431a7/ https://web.archive.org/web/20251008230530/https://animalcharityevaluators.org/about/our-team/', NULL, NULL, 'Animal welfare') /*Last consulted Wayback snapshot is from 2025-10-08 */  /*Current position*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
+/*.................................................................Closed positions below...............................................................................*/
     ,('Andrea Gunn', 'Animal Charity Evaluators', 'Board member', '2023-06-26', 'month', '2025-04-01', 'year', 'https://web.archive.org/web/20230626224713/https://animalcharityevaluators.org/about/contributors/meet-our-team/ https://web.archive.org/web/20251008230530/https://animalcharityevaluators.org/about/our-team/', NULL, 'Board member', 'Animal welfare') /* closed*/   
     ,('Alanna Devine', 'Animal Charity Evaluators', 'Board Secretary', '2023-04-04', 'month', '2025-04-01', 'year', 'https://web.archive.org/web/20230404024153/https://animalcharityevaluators.org/about/contributors/meet-our-team/ https://web.archive.org/web/20251008230530/https://animalcharityevaluators.org/about/our-team/', NULL, 'Board member', 'Animal welfare') /* closed*/  
     ,('Alexa Zmich','Animal Charity Evaluators','Communications Intern','2014-01-31',NULL,'2014-06-01','month','https://web.archive.org/web/20140131024830/http://www.animalcharityevaluators.org:80/about/meet-our-team/ https://web.archive.org/web/20140605030705/http://www.animalcharityevaluators.org:80/about/meet-our-team/',NULL,'intern','Animal welfare') /*closed*/
     ,('Alexandra Johnson','Animal Charity Evaluators','Research Intern','2017-03-01','month','2018-01-01','month','https://web.archive.org/web/20170721095114/https://animalcharityevaluators.org/about/contributors/meet-our-team/ https://web.archive.org/web/20180125215139/https://animalcharityevaluators.org/about/contributors/meet-our-team/',NULL,'intern','Animal welfare') /*closed*/
     ,('Alexis Carlier','Animal Charity Evaluators','Research Intern','2015-10-01','month','2016-04-01','month','https://web.archive.org/web/20151007235656/http://www.animalcharityevaluators.org:80/about/meet-our-team/ https://web.archive.org/web/20160412184143/http://www.animalcharityevaluators.org:80/about/meet-our-team/',NULL,'intern','Animal welfare') /*closed*/
-    ,('Allison Smith', 'Animal Charity Evaluators', 'Board Treasurer', '2019-03-01', 'month', '2020-08-01', 'month', 'https://www.linkedin.com/in/allison-smith-03b4431a7/', NULL, NULL, 'Animal welfare') /*Past position*/
-    ,('Allison Smith', 'Animal Charity Evaluators', 'Board Member', '2019-02-01', 'month', '2019-03-01', 'month', 'https://www.linkedin.com/in/allison-smith-03b4431a7/', NULL, NULL, 'Animal welfare') /*Past position*/
+    ,('Allison Smith', 'Animal Charity Evaluators', 'Board Treasurer', '2019-03-01', 'month', '2020-08-01', 'month', 'https://www.linkedin.com/in/allison-smith-03b4431a7/', NULL, NULL, 'Animal welfare') /*closed*/
+    ,('Allison Smith', 'Animal Charity Evaluators', 'Board Member', '2019-02-01', 'month', '2019-03-01', 'month', 'https://www.linkedin.com/in/allison-smith-03b4431a7/', NULL, NULL, 'Animal welfare') /*closed*/
     ,('Amanda Cesario','Animal Charity Evaluators','Operations Manager','2015-07-01','month','2016-04-01','month','https://web.archive.org/web/20150818230724/http://www.animalcharityevaluators.org:80/about/meet-our-team/ https://web.archive.org/web/20160412184143/http://www.animalcharityevaluators.org:80/about/meet-our-team/',NULL,'full-time','Animal welfare') /*closed*/
     ,('Amanda Hope','Animal Charity Evaluators','Operations Manager','2013-07-01','month','2015-08-01','month','https://web.archive.org/web/20140131024830/http://www.animalcharityevaluators.org:80/about/meet-our-team/ https://web.archive.org/web/20150818230724/http://www.animalcharityevaluators.org:80/about/meet-our-team/',NULL,'full-time','Animal welfare')  /*closed*/
     ,('Amanda Lueke','Animal Charity Evaluators','Research Intern','2014-06-01','month','2014-08-01','month','https://web.archive.org/web/20140605030705/http://www.animalcharityevaluators.org:80/about/meet-our-team/ https://web.archive.org/web/20140827214218/http://www.animalcharityevaluators.org:80/about/meet-our-team/',NULL,'intern','Animal welfare') /*closed*/
@@ -76,7 +62,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Elisabeth Renshaw','Animal Charity Evaluators','Communications Intern','2019-10-01', 'month', '2020-01-01', 'month', 'https://www.linkedin.com/in/elisabethrenshaw/',NULL, 'Intern','Animal welfare') /*closed*/
     ,('Elisabeth Renshaw','Animal Charity Evaluators','Social Media Associate','2020-01-01', 'month', '2020-07-01', 'month', 'https://web.archive.org/web/20200514113412/https://animalcharityevaluators.org/about/contributors/meet-our-team/ https://www.linkedin.com/in/elisabethrenshaw/',NULL, NULL,'Animal welfare') /*closed*/
     ,('Elizabeth Álvarez','Animal Charity Evaluators','Philanthropy Officer', '2020-09-01', 'month', '2023-04-04', 'month', 'https://web.archive.org/web/20211027155809/https://animalcharityevaluators.org/about/contributors/meet-our-team/ https://web.archive.org/web/20230626224713/https://animalcharityevaluators.org/about/contributors/meet-our-team/', NULL, NULL,'Animal welfare') /*closed*/ 
-    ,('Elizabeth Álvarez','Animal Charity Evaluators','Development Officer', '2023-05-31', 'month', NULL, NULL, 'https://web.archive.org/web/20230531115923/https://animalcharityevaluators.org/about/contributors/meet-our-team/ https://web.archive.org/web/20240701002837/https://animalcharityevaluators.org/about/contributors/meet-our-team/', NULL, NULL, 'Animal welfare') /* Reviewed on 2024-06-30 */ /*current position*/     
+    ,('Elizabeth Álvarez','Animal Charity Evaluators','Development Officer', '2023-05-31', 'month', '2025-04-01', 'year', 'https://web.archive.org/web/20230531115923/https://animalcharityevaluators.org/about/contributors/meet-our-team/ https://web.archive.org/web/20251008230530/https://animalcharityevaluators.org/about/our-team/', NULL, NULL, 'Animal welfare') /* closed*/    
     ,('Ellen Pelos','Animal Charity Evaluators','Research Fellow', '2021-02-01', 'month', '2021-12-01', 'month', 'https://web.archive.org/web/20211027155809/https://animalcharityevaluators.org/about/contributors/meet-our-team/ https://www.linkedin.com/in/ellenpelos/ https://web.archive.org/web/20211203231918/https://animalcharityevaluators.org/about/contributors/meet-our-team/#board-members', NULL, NULL,'Animal welfare') /*closed*/
     ,('Ellen Pelos','Animal Charity Evaluators','Researcher', '2022-01-01', 'month', '2023-05-01', 'month', 'https://web.archive.org/web/20220408123547/https://animalcharityevaluators.org/about/contributors/meet-our-team/#board-members https://www.linkedin.com/in/ellenpelos/', NULL, 'Full-time','Animal welfare') /* closed*/   
     ,('Ellen Pelos','Animal Charity Evaluators','Researcher', '2023-06-01', 'month', '2024-01-01', 'month', 'https://www.linkedin.com/in/ellenpelos/', NULL, 'Part-time','Animal welfare') /* closed*/ 
@@ -188,16 +174,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Toni Adleberg','Animal Charity Evaluators','Senior Researcher, Charity Evaluation Manager','2018-02-01','month', '2018-07-01', 'month','https://web.archive.org/web/20180619165220/https://animalcharityevaluators.org/about/contributors/meet-our-team/ https://www.linkedin.com/in/toni-adl/ https://web.archive.org/web/20180619165220/https://animalcharityevaluators.org/about/contributors/meet-our-team/',NULL,'full-time','Animal welfare') /*closed*/
     ,('Tonja Wright','Animal Charity Evaluators','Operations Intern','2014-11-01','month','2015-03-01','month','https://web.archive.org/web/20141112140049/http://www.animalcharityevaluators.org:80/about/meet-our-team/ https://web.archive.org/web/20150311160317/http://www.animalcharityevaluators.org:80/about/meet-our-team/',NULL,'intern','Animal welfare') /*closed*/
     ,('Venky Kannan','Animal Charity Evaluators','Volunteer',NULL,NULL,'2014-11-01','month','https://web.archive.org/web/20140131024830/http://www.animalcharityevaluators.org:80/about/meet-our-team/ https://web.archive.org/web/20141112140049/http://www.animalcharityevaluators.org:80/about/meet-our-team/',NULL,'volunteer','Animal welfare') /*closed*/
-    ,('Verónica Diaz Carrai', 'Animal Charity Evaluators', 'Board Chair', '2022-02-01', 'month', NULL, NULL, 'https://web.archive.org/web/20230626224713/https://animalcharityevaluators.org/about/contributors/meet-our-team/ https://www.linkedin.com/in/veronicatppf/ https://web.archive.org/web/20231211234907/https://animalcharityevaluators.org/about/contributors/meet-our-team/#board-members', NULL, 'Board member', 'Animal welfare') /* Reviewed on 2024-06-30 */ /*current position*/  
-    ,('Vivian Luo', 'Animal Charity Evaluators', 'Communications Fellow', '2024-06-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240701002837/https://animalcharityevaluators.org/about/contributors/meet-our-team/', NULL, NULL, 'Animal welfare') /* Reviewed on 2024-06-30 */ /*current position*/  
+    ,('Verónica Diaz Carrai', 'Animal Charity Evaluators', 'Board Chair', '2022-02-01', 'month', '2024-12-01', 'month', 'https://web.archive.org/web/20230626224713/https://animalcharityevaluators.org/about/contributors/meet-our-team/ https://www.linkedin.com/in/veronicadiazcarrai/', NULL, 'Board member', 'Animal welfare') /*closed*/
+    ,('Vivian Luo', 'Animal Charity Evaluators', 'Communications Intern', '2024-06-01', 'month', '2024-08-01', 'month', 'https://web.archive.org/web/20240701002837/https://animalcharityevaluators.org/about/contributors/meet-our-team/ https://www.linkedin.com/in/vivian-luo-a5235b217/', NULL, 'Intern', 'Animal welfare') /*closed*/ 
     ,('Zach Freitas-Groff', 'Animal Charity Evaluators', 'Oversight Committee Member, Animal Advocacy Research Fund', '2016-09-01', 'month', '2020-03-01', 'month', 'https://www.linkedin.com/in/zachgroff/details/experience/', NULL, NULL, 'Animal welfare') /*closed*/
     ,('Zach Freitas-Groff', 'Animal Charity Evaluators', 'Oversight Committee Chair', '2018-09-01', 'month', '2020-03-01', 'month', 'https://www.linkedin.com/in/zachgroff/details/experience/', NULL, NULL, 'Animal welfare') /*closed*/ 
-
-
-
-
-/*.................................................................Closed positions below...............................................................................*/
-
     ,('Alina Salmen', 'Animal Charity Evaluators', 'Researcher', '2022-09-01', 'month', '2025-04-01', 'month', 'https://www.linkedin.com/in/alina-salmen-phd-690573a7/  https://web.archive.org/web/20240701002837/https://animalcharityevaluators.org/about/contributors/meet-our-team/', NULL, 'full-time', 'Animal welfare') /*closed*/  
    ,('Max Taylor', 'Animal Charity Evaluators', 'Researcher', '2022-10-01', 'month', '2024-07-01', 'year', 'https://web.archive.org/web/20240701002837/https://animalcharityevaluators.org/about/contributors/meet-our-team/', NULL, NULL, 'Animal welfare') /*closed*/  
 
