@@ -160,6 +160,7 @@ sql/positions/open-cages.sql
 sql/positions/open-north.sql
 sql/positions/ought.sql
 sql/positions/our-world-in-data.sql
+sql/positions/oxford-martin-ai-governance-initiative.sql
 sql/positions/paisri.sql
 sql/positions/palisade-research.sql
 sql/positions/pantask.sql

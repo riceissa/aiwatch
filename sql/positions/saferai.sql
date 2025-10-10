@@ -1,10 +1,7 @@
  insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
-  
-  
  /* Reviewed on 2025-10-08 / / Last available Wayback snapshot date is 2025-10-08 */  
-
  ('Siméon Campos', 'SaferAI', 'Founder, Executive Director', '2022-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240116100918/https://www.safer-ai.org/team https://www.linkedin.com/in/sim%C3%A9on-campos-8555251a8/ https://web.archive.org/web/20251008235311/https://www.safer-ai.org/team', NULL, NULL, NULL, NULL, 'AI safety')  /* Reviewed on 2025-10-08 / / Last available Wayback snapshot date is 2025-10-08 */  
-,('Henry Papadatos', 'SaferAI', 'Managing Director', '2024-09-02', 'month', NULL, NULL, 'https://www.linkedin.com/in/henry-papadatos/ https://web.archive.org/web/20251008235311/https://www.safer-ai.org/team', NULL, NULL, NULL, NULL, 'AI safety'),
+,('Henry Papadatos', 'SaferAI', 'Managing Director', '2024-09-02', 'month', NULL, NULL, 'https://www.linkedin.com/in/henry-papadatos/ https://web.archive.org/web/20251008235311/https://www.safer-ai.org/team', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Chloé Touzet', 'SaferAI', 'Policy Lead', '2024-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20241014014102/https://www.safer-ai.org/team https://www.linkedin.com/in/chloetouzet/ https://web.archive.org/web/20251008235311/https://www.safer-ai.org/team', NULL, NULL, NULL, NULL, 'AI safety') /* Reviewed on 2025-10-08 / / Last available Wayback snapshot date is 2025-10-08 */  
 ,('Malcolm Murray', 'SaferAI', 'Research Lead', '2024-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20241014014102/https://www.safer-ai.org/team https://www.linkedin.com/in/malcolmmurray/ https://web.archive.org/web/20251008235311/https://www.safer-ai.org/team', NULL, NULL, NULL, 'full-time', 'AI safety')  /* Reviewed on 2025-10-08 / / Last available Wayback snapshot date is 2025-10-08 */  
 ,('James Gealy', 'SaferAI', 'Standardization Lead', '2023-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240116100918/https://www.safer-ai.org/team https://www.linkedin.com/in/james-gealy/ https://web.archive.org/web/20251008235311/https://www.safer-ai.org/team', NULL, NULL, NULL, NULL, 'AI safety') /* Reviewed on 2025-10-08 / / Last available Wayback snapshot date is 2025-10-08 */  
@@ -18,6 +15,7 @@
 ,('Gabor Szorad', 'SaferAI', 'Product Advisor', '2024-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20240116100918/https://www.safer-ai.org/team https://web.archive.org/web/20251008235311/https://www.safer-ai.org/team', NULL, NULL, NULL, NULL, 'AI safety')  /* Reviewed on 2025-10-08 / / Last available Wayback snapshot date is 2025-10-08 */  
 ,('Duncan Cass-Beggs', 'SaferAI', 'Senior Advisor', '2025-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250125090344/https://www.safer-ai.org/team https://web.archive.org/web/20251008235311/https://www.safer-ai.org/team', NULL, NULL, NULL, NULL, 'AI safety') /* Reviewed on 2025-10-08 / / Last available Wayback snapshot date is 2025-10-08 */  
 
+
 /* Only Linkedin */  
 
 ,('Max Schaffelder', 'SaferAI', 'AI Standards Associate', '2025-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mschaffelder/', NULL, NULL, NULL, 'full-time', 'AI safety')
@@ -29,9 +27,9 @@
 ,('Myriame Honnay', 'SaferAI', 'Externalized COO', '2024-01-01', NULL, '2024-08-01', 'month', 'https://web.archive.org/web/20240116100918/https://www.safer-ai.org/team https://web.archive.org/web/20240806071356/https://www.safer-ai.org/team', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Francesca Sheeka', 'SaferAI', 'Consensus-Building', '2023-10-01', 'month', '2024-05-01', 'month', 'https://web.archive.org/web/20240116100918/https://www.safer-ai.org/team https://www.linkedin.com/in/fsheeka/ https://web.archive.org/web/20240529143501/https://www.safer-ai.org/team', NULL, NULL, NULL, NULL, 'AI safety') 
 ,('William Gunn', 'SaferAI', 'Strategic Communication', '2024-01-01', NULL, '2024-02-01', 'month', 'https://web.archive.org/web/20240116100918/https://www.safer-ai.org/team https://web.archive.org/web/20240227223742/https://www.safer-ai.org/team', NULL, NULL, NULL, NULL, 'AI safety') 
+
+
 ,('Manuel Bimich', 'SaferAI', 'Strategic Advisor', '2023-04-01', 'month', '2024-02-01', 'month', 'https://web.archive.org/web/20240116100918/https://www.safer-ai.org/team https://www.linkedin.com/in/manuel-bimich/ https://web.archive.org/web/20240227223742/https://www.safer-ai.org/team', NULL, NULL, NULL, 'advisor', 'AI safety')
 ,('Quentin Feuillade', 'SaferAI', 'Contractor', '2024-01-01', NULL, '2024-02-01', 'month', 'https://web.archive.org/web/20240116100918/https://www.safer-ai.org/team https://web.archive.org/web/20240313151858/https://www.safer-ai.org/team', NULL, NULL, NULL, 'contractor', 'AI safety') 
-,('Lauren Fried', 'SaferAI', 'Operation', '2024-10-01', 'month', '2024-09-01', 'month', 'https://web.archive.org/web/20241014014102/https://www.safer-ai.org/team https://web.archive.org/web/20250905151220/https://www.safer-ai.org/team', NULL, NULL, NULL, NULL, 'AI safety')
+,('Lauren Fried', 'SaferAI', 'Operation', '2024-09-01', 'month', '2024-10-01', 'month', 'https://web.archive.org/web/20241014014102/https://www.safer-ai.org/team https://web.archive.org/web/20250905151220/https://www.safer-ai.org/team', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Daniel Kossack', 'SaferAI', 'Operation', '2024-06-01', 'month', '2025-04-01', 'month', 'https://web.archive.org/web/20241014014102/https://www.safer-ai.org/team https://www.linkedin.com/in/daniel-kossack-0573731b0/ https://web.archive.org/web/20250517054104/https://www.safer-ai.org/team', NULL, NULL, NULL, NULL, 'AI safety') 
-
-
