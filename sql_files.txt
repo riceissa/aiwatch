@@ -174,6 +174,7 @@ sql/positions/responsible-ai-institute.sql
 sql/positions/responsible-ai-network-africa.sql
 sql/positions/rethink-charity.sql
 sql/positions/rethink-priorities.sql
+sql/positions/saferai.sql
 sql/positions/sci-foundation.sql
 sql/positions/sens.sql
 sql/positions/sentience-institute.sql
