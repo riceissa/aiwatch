@@ -1,5 +1,8 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
-     ('Adrià Garriga-Alonso','Center on Long-Term Risk','Research fellow','2021-07-11','year','2021-11-17','year','https://web.archive.org/web/20210711221621/https://longtermrisk.org/team/ https://web.archive.org/web/20211117042450/https://longtermrisk.org/team/',NULL,NULL, 'Cause prioritization') /*closed*/ 
+     ('Tristan Cook', 'Center on Long-Term Risk', 'Managing Director', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tristan--cook/ https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Full-time', 'Cause prioritization') /*Last consulted Wayback snapshot is from 2025-10-12*/
+   
+   
+    ,('Adrià Garriga-Alonso','Center on Long-Term Risk','Research fellow','2021-07-11','year','2021-11-17','year','https://web.archive.org/web/20210711221621/https://longtermrisk.org/team/ https://web.archive.org/web/20211117042450/https://longtermrisk.org/team/',NULL,NULL, 'Cause prioritization') /*closed*/ 
     ,('Adrian Hutter', 'Center on Long-Term Risk', 'Advisor', '2020-05-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200513045048/https://longtermrisk.org/team/https://web.archive.org/web/20221013220337/https://web.archive.org/web/20240723194422/https://longtermrisk.org/team/',NULL,'Advisor', 'Cause prioritization') /*Reviewed on 2024-07-23*/ /*Current position*/
     ,('Alexander Lyzhov','Center on Long-Term Risk','Summer Research fellow', '2020-06-01', 'month', '2020-10-01', 'month','https://longtermrisk.org/summer-research-fellowship/ https://web.archive.org/web/20220109035734/https://longtermrisk.org/team/ https://www.linkedin.com/in/alexlyzhov/?originalSubdomain=ru',NULL, 'full-time', 'Cause prioritization') /*closed */ 
     ,('Alfredo Parra', 'Center on Long-Term Risk', 'Director of Operations', '2020-01-01', 'month', '2020-09-01', 'month', 'https://web.archive.org/web/20200513045048/https://longtermrisk.org/team/ https://www.linkedin.com/in/alfredoparrah/?originalSubdomain=de https://web.archive.org/web/20200919013544/https://longtermrisk.org/team/', 'Based in London, United Kingdom', 'full-time', 'Cause prioritization')  /*closed*/ 
@@ -78,19 +81,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Sylvester Kollin', 'Center on Long-Term Risk', 'Researcher', '2024-07-23', 'month', NULL, NULL, 'https://web.archive.org/web/20240723194422/https://longtermrisk.org/team/', NULL, NULL, 'Cause prioritization') /*Reviewed on 2024-07-23*/ /*Current position*/
     ,('Thomas Moispointner', 'Center on Long-Term Risk', 'Operations', '2018-10-01', 'month', '2020-09-01', 'month', 'https://web.archive.org/web/20200513045048/https://longtermrisk.org/team/ https://www.linkedin.com/in/thomas-moispointner/?originalSubdomain=de https://web.archive.org/web/20200919013544/https://longtermrisk.org/team/', NULL, 'part-time', 'Cause prioritization') /*closed*/ 
     ,('Tom Shlomi','Center on Long-Term Risk','Research fellow', '2021-06-01', 'month', '2021-10-01', 'month','https://web.archive.org/web/20220109035734/https://longtermrisk.org/team/ https://www.linkedin.com/in/tom-shlomi/',NULL, 'contractor', 'Cause prioritization') /*closed*/ 
-    ,('Tristan Cook','Center on Long-Term Risk','Summer Research Fellow', '2021-06-01', 'month', '2021-10-01', 'month','https://web.archive.org/web/20210731154011/https://longtermrisk.org/team/ https://web.archive.org/web/20211117042450/https://longtermrisk.org/team/ https://www.linkedin.com/in/tristan--cook/',NULL,NULL, 'Cause prioritization') /*closed*/ 
-    ,('Tristan Cook','Center on Long-Term Risk','Grant Recipient', '2021-11-01', 'month', '2022-03-01', 'month',' https://www.linkedin.com/in/tristan--cook/',NULL,NULL, 'Cause prioritization') /*closed*/  
-    ,('Tristan Cook','Center on Long-Term Risk','Research Analyst', '2023-03-01', 'month', NULL,NULL,'https://web.archive.org/web/20230322114505/https://longtermrisk.org/team/ https://www.linkedin.com/in/tristan--cook/ https://web.archive.org/web/20240723194422/https://longtermrisk.org/team/', NULL, NULL, 'Cause prioritization') /*Reviewed on 2024-07-23*/ /*Current position*/
     ,('Ulla Wessels', 'Center on Long-Term Risk', 'Advisor', '2020-05-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200513045048/https://longtermrisk.org/team/https://web.archive.org/web/20221013220337/https://longtermrisk.org/team/ https://web.archive.org/web/20240723194422/https://longtermrisk.org/team/',NULL,'Advisor', 'Cause prioritization') /*Reviewed on 2024-07-23*/ /*Current position*/
     ,('Winston Oswald-Drummond', 'Center on Long-Term Risk', 'Community Manager', '2023-12-01', 'month', NULL, NULL, ' https://web.archive.org/web/20240229135729/https://longtermrisk.org/team/ https://web.archive.org/web/20240723194422/https://longtermrisk.org/team/ https://www.linkedin.com/in/winston-oswald-drummond-467374213/', NULL, NULL, 'Cause prioritization') /*Reviewed on 2024-07-23*/ /*Current position*/
     ,('Yuri Manca','Center on Long-Term Risk','Office Cook', '2022-04-01','month',NULL,NULL,'https://web.archive.org/web/20220428132814/https://longtermrisk.org/team/ https://web.archive.org/web/20221013220337/https://longtermrisk.org/team/',NULL, 'Contractor', 'Cause prioritization') /*closed*/ 
-    ;
-
  
 
-/* Missing: Alan Chan, David Udell, James Faville, Nathaniel Sauerberg, Nisan Stiennon, Sylvester Kollin, Alex Lyzhov, Ali Merali,*/
-
-
-
-
- 
+    ,('Tristan Cook', 'Center on Long-Term Risk', 'Senior Community & Engagement Manager', '2024-09-01', 'month', '2025-02-01', 'month', 'https://www.linkedin.com/in/tristan--cook/', NULL, 'Full-time', 'Cause prioritization') /*closed*/ 
+    ,('Tristan Cook', 'Center on Long-Term Risk', 'Research Analyst', '2022-03-01', 'month', '2024-09-01', 'month', 'https://www.linkedin.com/in/tristan--cook/', NULL, 'Full-time', 'Cause prioritization') /*closed*/ 
+    ,('Tristan Cook', 'Center on Long-Term Risk', 'Grant Recipient', '2021-11-01', 'month', '2022-03-01', 'month', 'https://www.linkedin.com/in/tristan--cook/', NULL, NULL, 'Cause prioritization') /*closed*/ 
+    ,('Tristan Cook', 'Center on Long-Term Risk', 'Summer Research Fellow', '2021-06-01', 'month', '2021-10-01', 'month', 'https://www.linkedin.com/in/tristan--cook/', NULL, NULL, 'Cause prioritization') /*closed*/ 
