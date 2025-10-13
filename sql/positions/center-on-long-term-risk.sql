@@ -29,6 +29,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Lucius Caviola', 'Center on Long-Term Risk', 'Advisor', '2020-05-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200513045048/https://longtermrisk.org/team/https://web.archive.org/web/20221013220337/https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/',NULL,'Advisor', 'Longtermism') /*Last consulted Wayback snapshot is from 2025-10-12 */
     ,('Melinda Lohmann', 'Center on Long-Term Risk', 'Advisor', '2020-08-01', NULL, NULL, NULL, 'https://web.archive.org/web/20200815154923/https://longtermrisk.org/team/ https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/',NULL,'Advisor', 'Longtermism') /*Last consulted Wayback snapshot is from 2025-10-12 */
 /*.........................................................................Closed positions.......................................................................................*/
+
 /*.........................................................................Previous Summer Research Fellows.......................................................................................*/
 /*.........................................................................2024.......................................................................................*/
     ,('Alexander Kastner', 'Center on Long-Term Risk', 'Summer Research Fellow', '2024-06-01', 'month', '2024-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
@@ -41,59 +42,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ('Niels Warncke', 'Center on Long-Term Risk', 'Summer Research Fellow', '2024-06-01', 'month', '2024-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
     ('Neil Crawford', 'Center on Long-Term Risk', 'Summer Research Fellow', '2024-06-01', 'month', '2024-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
     ('Vanessa Sarre', 'Center on Long-Term Risk', 'Summer Research Fellow', '2024-06-01', 'month', '2024-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-
-/*.........................................................................2023.......................................................................................*/
-    ('Akash Wasil', 'Center on Long-Term Risk', 'Summer Research Fellow', '2023-06-01', 'month', '2023-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Alana Xiang', 'Center on Long-Term Risk', 'Summer Research Fellow', '2023-06-01', 'month', '2023-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Alexa Pan', 'Center on Long-Term Risk', 'Summer Research Fellow', '2023-06-01', 'month', '2023-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Arunim Agarwal', 'Center on Long-Term Risk', 'Summer Research Fellow', '2023-06-01', 'month', '2023-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Chinmay Deshpande', 'Center on Long-Term Risk', 'Summer Research Fellow', '2023-06-01', 'month', '2023-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Hannah Erlebach', 'Center on Long-Term Risk', 'Summer Research Fellow', '2023-06-01', 'month', '2023-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Jojo Lee', 'Center on Long-Term Risk', 'Summer Research Fellow', '2023-06-01', 'month', '2023-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('John Mori', 'Center on Long-Term Risk', 'Summer Research Fellow', '2023-06-01', 'month', '2023-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Martín Soto Quintanilla', 'Center on Long-Term Risk', 'Summer Research Fellow', '2023-06-01', 'month', '2023-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Yudhister Kumar', 'Center on Long-Term Risk', 'Summer Research Fellow', '2023-06-01', 'month', '2023-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-
-/*.........................................................................2022.......................................................................................*/
-    ('Alan Chan', 'Center on Long-Term Risk', 'Summer Research Fellow', '2022-06-01', 'month', '2022-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('David Udell', 'Center on Long-Term Risk', 'Summer Research Fellow', '2022-06-01', 'month', '2022-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Hjalmar Wijk', 'Center on Long-Term Risk', 'Summer Research Fellow', '2022-06-01', 'month', '2022-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('James Faville', 'Center on Long-Term Risk', 'Summer Research Fellow', '2022-06-01', 'month', '2022-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Mia Taylor', 'Center on Long-Term Risk', 'Summer Research Fellow', '2022-06-01', 'month', '2022-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Nathaniel Sauerberg', 'Center on Long-Term Risk', 'Summer Research Fellow', '2022-06-01', 'month', '2022-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Nisan Stiennon', 'Center on Long-Term Risk', 'Summer Research Fellow', '2022-06-01', 'month', '2022-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Quratul Zainab', 'Center on Long-Term Risk', 'Summer Research Fellow', '2022-06-01', 'month', '2022-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Sylvester Kollin', 'Center on Long-Term Risk', 'Summer Research Fellow', '2022-06-01', 'month', '2022-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-
-/*.........................................................................2021.......................................................................................*/
-    ('Adrià Garriga-Alonso', 'Center on Long-Term Risk', 'Summer Research Fellow', '2021-06-01', 'month', '2021-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Gustavs Zilgalvis', 'Center on Long-Term Risk', 'Summer Research Fellow', '2021-06-01', 'month', '2021-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Francis Priestland', 'Center on Long-Term Risk', 'Summer Research Fellow', '2021-06-01', 'month', '2021-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Tom Shlomi', 'Center on Long-Term Risk', 'Summer Research Fellow', '2021-06-01', 'month', '2021-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Euan McLean', 'Center on Long-Term Risk', 'Summer Research Fellow', '2021-06-01', 'month', '2021-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Rory Svarc', 'Center on Long-Term Risk', 'Summer Research Fellow', '2021-06-01', 'month', '2021-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Tristan Cook', 'Center on Long-Term Risk', 'Summer Research Fellow', '2021-06-01', 'month', '2021-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Julia Karbing', 'Center on Long-Term Risk', 'Summer Research Fellow', '2021-06-01', 'month', '2021-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Sara Haxhia', 'Center on Long-Term Risk', 'Summer Research Fellow', '2021-06-01', 'month', '2021-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Nicolas Macé', 'Center on Long-Term Risk', 'Summer Research Fellow', '2021-06-01', 'month', '2021-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Megan Kinniment-Williams', 'Center on Long-Term Risk', 'Summer Research Fellow', '2021-06-01', 'month', '2021-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Lewis Hammond', 'Center on Long-Term Risk', 'Summer Research Fellow', '2021-06-01', 'month', '2021-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Jack Koch', 'Center on Long-Term Risk', 'Summer Research Fellow', '2021-06-01', 'month', '2021-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Francis Rhys Ward', 'Center on Long-Term Risk', 'Summer Research Fellow', '2021-06-01', 'month', '2021-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-
-/*.........................................................................2020.......................................................................................*/
-    ('Alex Lyzhov', 'Center on Long-Term Risk', 'Summer Research Fellow', '2020-06-01', 'month', '2020-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Ali Merali', 'Center on Long-Term Risk', 'Summer Research Fellow', '2020-06-01', 'month', '2020-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Anthony DiGiovanni', 'Center on Long-Term Risk', 'Summer Research Fellow', '2020-06-01', 'month', '2020-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Emery Cooper', 'Center on Long-Term Risk', 'Summer Research Fellow', '2020-06-01', 'month', '2020-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Eric Chen', 'Center on Long-Term Risk', 'Summer Research Fellow', '2020-06-01', 'month', '2020-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Hadrien Pouget', 'Center on Long-Term Risk', 'Summer Research Fellow', '2020-06-01', 'month', '2020-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Jia Yuan Loke', 'Center on Long-Term Risk', 'Summer Research Fellow', '2020-06-01', 'month', '2020-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Julian Stastny', 'Center on Long-Term Risk', 'Summer Research Fellow', '2020-06-01', 'month', '2020-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Michael Aird', 'Center on Long-Term Risk', 'Summer Research Fellow', '2020-06-01', 'month', '2020-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-    ('Mojmír Stehlík', 'Center on Long-Term Risk', 'Summer Research Fellow', '2020-06-01', 'month', '2020-08-31', 'month', 'https://web.archive.org/web/20251012204733/https://longtermrisk.org/team/', NULL, 'Fellowship', 'Longtermism'),
-
-
 
 
 
