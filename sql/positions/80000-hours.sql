@@ -28,6 +28,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Molly Webb', '80,000 Hours', 'People Operations Associate', '2024-08-07', 'month', NULL, NULL, 'https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20250526224506/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Last consulted Wayback snapshot is from 2025-10-17*/
     ,('Nik Mastroddi', '80,000 Hours', 'Marketer', '2023-02-26', 'month',  NULL, NULL, 'https://web.archive.org/web/20230226040411/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20250526224506/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Last consulted Wayback snapshot is from 2025-10-17*/
     ,('Robert Wiblin', '80,000 Hours', 'Founder and Host of the 80,000 Hours Podcast', '2025-06-30', 'month', NULL, NULL, 'https://web.archive.org/web/20250630224506/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20251017180430/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Last consulted Wayback snapshot is from 2025-10-17*/
+    ,('Sam Haskell', '80,000 Hours', 'Systems Analyst', '2025-02-24', 'month', NULL, NULL, 'https://web.archive.org/web/20250224234505/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20251017180430/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Last consulted Wayback snapshot is from 2025-10-17*/
+    ,('Sashika Coxhead', '80,000 Hours', 'Head of People Operations', '2024-08-26', 'month', NULL, NULL, 'https://web.archive.org/web/20240826224526/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20251017180430/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Last consulted Wayback snapshot is from 2025-10-17*/
+    ,('Sudhanshu Kasewa', '80,000 Hours', 'Advisor', '2022-08-27', 'month', NULL, NULL, 'https://web.archive.org/web/20220827153843/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20251017180430/https://80000hours.org/about/meet-the-team/', NULL, 'Advisor', 'effective altruism') /*Last consulted Wayback snapshot is from 2025-10-17*/
+    ,('Valerie Richmond', '80,000 Hours', 'Principal Web Engineer', '2025-04-28', 'month', NULL, NULL, 'https://web.archive.org/web/20250428224505/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20251017180430/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Last consulted Wayback snapshot is from 2025-10-17*/
 
 
 
@@ -35,11 +39,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
-
-
-
-
-
+ 
 
 
 
@@ -56,9 +56,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Kush Kansagra', '80,000 Hours', 'Product Lead', '2023-05-19', 'month', '2023-08-05', 'month', 'https://web.archive.org/web/20230519083416/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
     ,('Matt Reardon', '80,000 Hours', 'Growth and Product Development Manager', '2023-05-19', 'month', NULL, NULL, 'https://web.archive.org/web/20230519083416/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
     ,('Roman Duda', '80,000 Hours', 'Software Engineer', '2021-06-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
-    ,('Sashika Coxhead', '80,000 Hours', 'Head of Recruiting', '2022-08-27', 'month', NULL, NULL, 'https://web.archive.org/web/20220827153843/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
-    ,('Sudhanshu Kasewa', '80,000 Hours', 'Advisor', '2022-08-27', 'month', NULL, NULL, 'https://web.archive.org/web/20220827153843/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, 'Advisor', 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
-    ,('Valerie Richmond', '80,000 Hours', 'Software Engineer', '2022-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/vrichmon/ https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, 'Full-time', 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
     ,('Zachary Richardson', '80,000 Hours', 'System Analyst', '2024-01-01', 'month', NULL,NULL, 'https://www.linkedin.com/in/zachary-richardson-7536751b8/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, 'Full-time', 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
     ,('Ziya Huang', '80,000 Hours', 'People Operations Specialist', '2024-08-07', 'month', NULL, NULL, 'https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
     ,('Benjamin Todd', '80,000 Hours', 'President and Co-founder', '2022-05-02', 'month', NULL, NULL, 'https://web.archive.org/web/20230805183300/https://80000hours.org/about/meet-the-team/ https://www.linkedin.com/in/benjamin-j-todd/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
@@ -205,9 +202,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jørgen Ljønes', '80,000 Hours', 'Head of Business Operations', '2024-08-07', 'month', '2024-12-31', 'month', 'https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20241231030135/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*closed*/
     ,('Jørgen Ljønes', '80,000 Hours', 'Head of Business Operations (finance and admin)', '2025-01-31', 'month', '2025-05-26', 'month', 'https://web.archive.org/web/20250131025027/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20250526224506/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*closed*/
     ,('Lauren Kuhns', '80,000 Hours', 'Content Associate', '2023-07-31', 'month', '2025-06-30', 'month', 'https://web.archive.org/web/20230731224504/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20250630224506/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*closed*/
-    ,('Robert Wiblin', '80,000 Hours', 'Head of Research', '2015-07-01', 'month', '2024-26-08', 'month', 'https://www.linkedin.com/in/robertwiblin  https://web.archive.org/web/20240826224526/https://80000hours.org/about/meet-the-team/', NULL, 'Full-time', 'effective altruism') /*closed*/
+    ,('Robert Wiblin', '80,000 Hours', 'Head of Research', '2015-07-01', 'month', '2024-08-26', 'month', 'https://www.linkedin.com/in/robertwiblin  https://web.archive.org/web/20240826224526/https://80000hours.org/about/meet-the-team/', NULL, 'Full-time', 'effective altruism') /*closed*/
     ,('Robert Wiblin', '80,000 Hours', 'Director of Podcasting', '2024-09-30', 'month', '2025-05-26', 'month', 'https://web.archive.org/web/20240930224505/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20250526224506/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*closed*/
-
+    ,('Sam Haskell', '80,000 Hours', 'Business Operations Specialist', '2024-11-25', 'month', '2025-01-31', 'month', 'https://web.archive.org/web/20241125234518/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20250131025027/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*closed*/
+    ,('Sashika Coxhead', '80,000 Hours', 'Head of Recruiting', '2022-08-27', 'month', '2024-08-07', 'month', 'https://web.archive.org/web/20220827153843/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*closed*/
+    ,('Valerie Richmond', '80,000 Hours', 'Software Engineer', '2022-01-01', 'month', '2025-02-24', 'month', 'https://www.linkedin.com/in/vrichmon/ https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20250224234505/https://80000hours.org/about/meet-the-team/', NULL, 'Full-time', 'effective altruism') /*closed*/
+    ,('Valerie Richmond', '80,000 Hours', 'Web Tech Specialist', '2025-03-01', 'month', '2025-03-31', 'month', 'https://web.archive.org/web/20250331224505/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')  /*closed*/
 
 
 
