@@ -67,10 +67,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
-    ,('Abigail Hoskin', '80,000 Hours', 'Advisor', '2023-01-27', 'year', NULL, NULL, 'https://web.archive.org/web/20230127131327/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, 'Advisor', 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
-    ,('Alex Holness-Tofts', '80,000 Hours', 'Headhunting Lead', '2024-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alex-holness-tofts-69838a18b https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
-    ,('Cody Fenwick', '80,000 Hours', 'Research Analyst', '2022-09-26', 'month', NULL, NULL, 'https://web.archive.org/web/20220926050009/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
-    ,('Keiran Harris', '80,000 Hours', 'Podcast producer', '2017-09-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/keiran-harris-b799541a6/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
+
+
+
+
     ,('Kush Kansagra', '80,000 Hours', 'Product Lead', '2023-05-19', 'month', '2023-08-05', 'month', 'https://web.archive.org/web/20230519083416/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
     ,('Matt Reardon', '80,000 Hours', 'Growth and Product Development Manager', '2023-05-19', 'month', NULL, NULL, 'https://web.archive.org/web/20230519083416/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
     ,('Roman Duda', '80,000 Hours', 'Software Engineer', '2021-06-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
@@ -218,16 +218,21 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Valerie Richmond', '80,000 Hours', 'Software Engineer', '2022-01-01', 'month', '2025-02-24', 'month', 'https://www.linkedin.com/in/vrichmon/ https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20250224234505/https://80000hours.org/about/meet-the-team/', NULL, 'Full-time', 'effective altruism') /*closed*/
     ,('Valerie Richmond', '80,000 Hours', 'Web Tech Specialist', '2025-03-01', 'month', '2025-03-31', 'month', 'https://web.archive.org/web/20250331224505/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')  /*closed*/
     ,('Zachary Richardson', '80,000 Hours', 'System Analyst', '2024-01-01', 'month', '2025-04-28','month', 'https://www.linkedin.com/in/zachary-richardson-7536751b8/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, 'Full-time', 'effective altruism') /*closed*/
-    ,('Alex Lawsen', '80,000 Hours', 'Advisor', '2023-08-19', 'month', '2025-05-26', 'month', 'https://web.archive.org/web/20230805183300/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20250526224506/https://80000hours.org/about/meet-the-team/', NULL, 'Advisor', 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
+    ,('Alex Lawsen', '80,000 Hours', 'Advisor', '2023-08-19', 'month', '2025-05-26', 'month', 'https://web.archive.org/web/20230805183300/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20250526224506/https://80000hours.org/about/meet-the-team/', NULL, 'Advisor', 'effective altruism') /*closed*/
+    ,('Abigail Hoskin', '80,000 Hours', 'Advisor', '2023-01-27', 'year', '2024-08-26', 'month', 'https://web.archive.org/web/20230127131327/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240826224526/https://80000hours.org/about/meet-the-team/', NULL, 'Advisor', 'effective altruism')  /*closed*/
+    ,('Alex Holness-Tofts', '80,000 Hours', 'Headhunting Lead', '2024-02-01', 'month', '2025-05-26', 'month', 'https://www.linkedin.com/in/alex-holness-tofts-69838a18b https://web.archive.org/web/20250526224506/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*closed*/
+    ,('Cody Fenwick', '80,000 Hours', 'Research Analyst', '2022-09-26', 'month', '2025-06-30', 'month', 'https://web.archive.org/web/20220926050009/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20250630224506/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*closed*/
+    ,('Keiran Harris', '80,000 Hours', 'Podcast producer', '2017-09-01', 'month', '2025-01-01', 'month', 'https://www.linkedin.com/in/keiran-harris-b799541a6/ https://web.archive.org/web/20241125234518/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')  /*closed*/
+
 
 /*
 positions to add as of August 2022
-Alex Lawsen
-Habiba Islam
+ 
+ 
 Maria Bækkelie
-Andrew Leeke
-Toby Ord
-Brian Tse
+ 
+ 
+ 
 */
 
 
