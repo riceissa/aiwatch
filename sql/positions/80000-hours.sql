@@ -53,36 +53,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
         /*.........................................................................LinkedIn positions.........................................................................*/
     ,('Benjamin Todd', '80,000 Hours', 'President and Co-founder', '2022-05-02', 'month', NULL, NULL, 'https://web.archive.org/web/20230805183300/https://80000hours.org/about/meet-the-team/ https://www.linkedin.com/in/benjamin-j-todd/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism')  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ,('Johnstuart Winchell', '80,000 Hours', 'Trustee', '2024-04-29', 'month', NULL, NULL, 'https://web.archive.org/web/20240429224505/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, 'Board member', 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
-    ,('Ana Weldon', '80,000 Hours', 'Trustee', '2024-02-25', 'month', NULL, NULL, 'https://web.archive.org/web/20240225010217/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, 'Board member', 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
-    ,('Zach Robinson', '80,000 Hours', 'Trustee', '2023-05-19', 'month', NULL,NULL, 'https://web.archive.org/web/20230519083416/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/ ', NULL, 'Board member', 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
-
+ 
 
     /*.................................................................................Closed positions below.....................................................................*/
     ,('Abbie Taylor', '80,000 Hours', 'Head of the Oxford Chapter', '2012-06-01', 'month' , '2013-09-01', 'month', 'https://www.linkedin.com/in/abbietaylor/?originalSubdomain=uk', NULL, NULL, 'effective altruism') /*closed*/
@@ -230,8 +201,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Patrick Gruban', '80,000 Hours', 'Trustee', '2024-04-29', 'month', '2025-03-31', 'month', 'https://web.archive.org/web/20240429224505/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20250331224505/https://80000hours.org/about/meet-the-team/', NULL, 'Board member', 'effective altruism') /*closed*/
     ,('Lincoln Quirk', '80,000 Hours', 'Trustee', '2023-10-23', 'month', '2025-03-31', 'month', 'https://web.archive.org/web/20231023224505/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20250331224505/https://80000hours.org/about/meet-the-team/#founders', NULL, 'Board member', 'effective altruism') /*closed*/
     ,('Eli Rose', '80,000 Hours', 'Trustee', '2023-05-19', 'month', '2025-03-31', 'month', 'https://web.archive.org/web/20230805183300/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20250331224505/https://80000hours.org/about/meet-the-team/#founders', NULL, 'Board member', 'effective altruism') /*closed*/
-
-
+    ,('Johnstuart Winchell', '80,000 Hours', 'Trustee', '2024-04-29', 'month', NULL, NULL, 'https://web.archive.org/web/20240429224505/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20250331224505/https://80000hours.org/about/meet-the-team/#founders', NULL, 'Board member', 'effective altruism') /*closed*/
+    ,('Zach Robinson', '80,000 Hours', 'Trustee', '2023-05-19', 'month', NULL,NULL, 'https://web.archive.org/web/20230519083416/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20250331224505/https://80000hours.org/about/meet-the-team/#founders', NULL, 'Board member', 'effective altruism') /*closed*/
 
 
 /*
