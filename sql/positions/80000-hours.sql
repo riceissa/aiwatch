@@ -76,9 +76,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
-    ,('Patrick Gruban', '80,000 Hours', 'Trustee', '2024-04-29', 'month', NULL, NULL, 'https://web.archive.org/web/20240429224505/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, 'Board member', 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
-    ,('Lincoln Quirk', '80,000 Hours', 'Trustee', '2023-10-23', 'month', NULL, NULL, 'https://web.archive.org/web/20231023224505/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, 'Board member', 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
-    ,('Eli Rose', '80,000 Hours', 'Trustee', '2023-05-19', 'month', NULL, NULL, 'https://web.archive.org/web/20230805183300/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, 'Board member', 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
+
+
+
     ,('Johnstuart Winchell', '80,000 Hours', 'Trustee', '2024-04-29', 'month', NULL, NULL, 'https://web.archive.org/web/20240429224505/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, 'Board member', 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
     ,('Ana Weldon', '80,000 Hours', 'Trustee', '2024-02-25', 'month', NULL, NULL, 'https://web.archive.org/web/20240225010217/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/', NULL, 'Board member', 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
     ,('Zach Robinson', '80,000 Hours', 'Trustee', '2023-05-19', 'month', NULL,NULL, 'https://web.archive.org/web/20230519083416/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20240807002449/https://80000hours.org/about/meet-the-team/ ', NULL, 'Board member', 'effective altruism') /*Reviewed on 2024-08-07*/  /*current position*/
@@ -227,6 +227,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Matt Reardon', '80,000 Hours', 'Growth and Product Development Manager', '2023-05-19', 'month', '2024-10-07', 'month', 'https://web.archive.org/web/20230519083416/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20241007224505/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*closed*/
     ,('Roman Duda', '80,000 Hours', 'Software Engineer', '2021-06-01', 'month', '2025-03-31', 'month', 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20250331224505/https://80000hours.org/about/meet-the-team/', NULL, NULL, 'effective altruism') /*closed*/
     ,('Ben Cordell', '80,000 Hours', 'Audio Engineer', '2019-10-01', 'month', '2025-10-01', 'month', 'https://web.archive.org/web/20220222155513/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20250728224505/https://80000hours.org/about/meet-the-team/ https://www.linkedin.com/in/ben-cordell-499140179/', NULL, 'Contractor', 'effective altruism') /*closed*/
+    ,('Patrick Gruban', '80,000 Hours', 'Trustee', '2024-04-29', 'month', '2025-03-31', 'month', 'https://web.archive.org/web/20240429224505/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20250331224505/https://80000hours.org/about/meet-the-team/', NULL, 'Board member', 'effective altruism') /*closed*/
+    ,('Lincoln Quirk', '80,000 Hours', 'Trustee', '2023-10-23', 'month', '2025-03-31', 'month', 'https://web.archive.org/web/20231023224505/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20250331224505/https://80000hours.org/about/meet-the-team/#founders', NULL, 'Board member', 'effective altruism') /*closed*/
+    ,('Eli Rose', '80,000 Hours', 'Trustee', '2023-05-19', 'month', '2025-03-31', 'month', 'https://web.archive.org/web/20230805183300/https://80000hours.org/about/meet-the-team/ https://web.archive.org/web/20250331224505/https://80000hours.org/about/meet-the-team/#founders', NULL, 'Board member', 'effective altruism') /*closed*/
+
+
 
 
 /*
