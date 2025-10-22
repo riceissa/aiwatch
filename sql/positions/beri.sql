@@ -21,6 +21,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
  /*............................................................................Board of Directors............................................................................*/
     ,('Jess Reidel', 'Berkeley Existential Risk Initiative', 'Treasurer', '2024-11-06', 'month', NULL, NULL, 'https://web.archive.org/web/20241106160247/https://www.existence.org/team/ https://web.archive.org/web/20251022021957/https://www.existence.org/team/', NULL, 'position', NULL, 'Board Member', 'AI safety') /*Last consulted Wayback snapshot is from 2025-10-22*/
     ,('Sawyer Bernath', 'Berkeley Existential Risk Initiative', 'Secretary and Director', '2025-02-14', 'month', NULL, NULL, 'https://web.archive.org/web/20250214121429/https://www.existence.org/team/ https://web.archive.org/web/20250214121429/https://www.existence.org/team/', NULL, 'position', NULL, 'Board Member', 'AI safety') /*Last consulted Wayback snapshot is from 2025-02-14*/
+         /*..................................................................LinkedIn positions below................................................................................*/
+    ,('Kenzi Amodei','Berkeley Existential Risk Initiative','Deputy Director','2017-05-01','month',NULL,NULL,'https://www.linkedin.com/in/kenzi-amodei-28b30111/',NULL,NULL,NULL,NULL,'AI safety')  /* Reviewed on 2024-08-11 */ /*I didn't find her on wayback*/ 
 
 
 
@@ -34,11 +36,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
-
-
-      
-    ,('Andrew Critch','Berkeley Existential Risk Initiative','President & Founder','2020-09-01','month',NULL,NULL,'https://web.archive.org/web/20200918113646/https://existence.org/team/ https://web.archive.org/web/20240811040843/https://existence.org/team/',NULL,'position',NULL,'part-time','AI safety') /* Reviewed on 2024-08-11*/ /*current position */   
-    ,('Andrew Critch','Berkeley Existential Risk Initiative','Board chair','2017-02-01','month',NULL,NULL,'https://web.archive.org/web/20170317050259/http://existence.org/ https://web.archive.org/web/20240811040843/https://existence.org/team/',NULL,'position',NULL,'part-time','AI safety') /* Reviewed on 2024-08-11*/ /*current position */   
+ 
     ,('Jess Riedel','Berkeley Existential Risk Initiative','Treasurer & Director','2021-07-02','month', NULL, NULL, 'https://web.archive.org/web/20210728210523/https://existence.org/team/ https://web.archive.org/web/20240811040843/https://existence.org/team/',NULL,'position',NULL,'Board member','AI safety') /* Reviewed on 2024-08-11*/ /*current position */   
     ,('Jaan Tallinn','Berkeley Existential Risk Initiative','Board advisor','2017-10-03','month',NULL,NULL,'https://web.archive.org/web/20171003182346/http://existence.org:80/team/ https://web.archive.org/web/20240811040843/https://existence.org/team/',NULL,'position',NULL,'Advisor','AI safety') /* Reviewed on 2024-08-11*/ /*current position */   
     ,('Jacob Tsimerman','Berkeley Existential Risk Initiative','Board advisor','2017-04-14','month',NULL,NULL,'https://web.archive.org/web/20170414212643/http://existence.org:80/team/ https://web.archive.org/web/20240811040843/https://existence.org/team/',NULL,'position',NULL,'Advisor','AI safety') /* Reviewed on 2024-08-11*/ /*current position */ 
@@ -48,9 +46,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Sofia Davis-Fogel','Berkeley Existential Risk Initiative','Board advisor','2022-01-01','year', NULL, NULL, 'https://web.archive.org/web/20220901095053/https://existence.org/team/ https://web.archive.org/web/20240811040843/https://existence.org/team/',NULL,'position',NULL,'Advisor','AI safety') /* Reviewed on 2024-08-11*/ /*current position */   
     ,('Stuart Russell','Berkeley Existential Risk Initiative','Board advisor','2020-01-01',NULL,NULL,NULL, 'https://web.archive.org/web/20170319071426/https://existence.org/team/ https://web.archive.org/web/20240811040843/https://existence.org/team/',NULL,'position',NULL,'Advisor','AI safety') /* Reviewed on 2024-08-11*/ /*current position */  
     ,('Matt Fallshaw','Berkeley Existential Risk Initiative','Board advisor','2018-06-01','month', NULL, NULL, 'https://web.archive.org/web/20190220154820/https://existence.org/team/ https://www.linkedin.com/in/matthewfallshaw/details/experience/ 20230811192158 https://web.archive.org/web/20240811040843/https://existence.org/team/',NULL,'position',NULL,'Advisor','AI safety') /* Reviewed on 2024-08-11*/ /*current position */ 
-         /*..................................................................LinkedIn positions below................................................................................*/
-    ,('Kenzi Amodei','Berkeley Existential Risk Initiative','Deputy Director','2017-05-01','month',NULL,NULL,'https://www.linkedin.com/in/kenzi-amodei-28b30111/',NULL,NULL,NULL,NULL,'AI safety')  /* Reviewed on 2024-08-11 */ /*I didn't find her on wayback*/ 
      /*..................................................................Closed positions................................................................................*/
+    ,('Andrew Critch','Berkeley Existential Risk Initiative','Board chair','2017-02-01','month','2025-04-01','year','https://web.archive.org/web/20170317050259/http://existence.org/ https://web.archive.org/web/20250401022322/https://www.existence.org/team/',NULL,'position',NULL,'part-time','AI safety') /*closed*/        
     ,('Kenzi Amodei','Berkeley Existential Risk Initiative','Interim Deputy Director','2017-07-01','month','2018-03-08','month','http://existence.org/team/ http://existence.org/08-2017-semi-annual-report.pdf https://web.archive.org/web/20180308063244/http://existence.org/team/',NULL,'position',NULL,NULL,'AI safety') /*closed*/
     ,('Rebecca Raible','Berkeley Existential Risk Initiative','Writer and Operations Manager','2017-08-01','month', '2018-03-01','month','http://existence.org/team/ http://existence.org/08-2017-semi-annual-report.pdf https://web.archive.org/web/20180326135347/https://existence.org/team/',NULL,'position',NULL,'part-time','AI safety') /*closed*/
     ,('Rebecca Raible','Berkeley Existential Risk Initiative','Program Manager: Grants and Awards', '2018-07-01','month','2019-02-01','month', 'https://web.archive.org/web/20180726233902/https://existence.org/team/ https://web.archive.org/web/20190220154820/https://existence.org/team/',NULL,'position',NULL,'part-time','AI safety') /*closed*/
