@@ -18,7 +18,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Karuna Nandkumar', 'Berkeley Existential Risk Initiative', 'Head of Policy Programmes', '2025-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250808120133/https://www.existence.org/team/ https://web.archive.org/web/20251022021957/https://www.existence.org/team/', NULL, 'position', NULL, 'full-time', 'AI safety') /*Last consulted Wayback snapshot is from 2025-10-22*/
     ,('Elisabeth Siegel', 'Berkeley Existential Risk Initiative', 'Head of Events & Dialogues', '2025-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250808120133/https://www.existence.org/team/ https://web.archive.org/web/20251022021957/https://www.existence.org/team/', NULL, 'position', NULL, 'full-time', 'AI safety') /*Last consulted Wayback snapshot is from 2025-10-22*/
     ,('Gary Menezes', 'Berkeley Existential Risk Initiative', 'Web Developer', '2024-08-11', 'month', NULL, NULL, 'https://web.archive.org/web/20240811040843/https://www.existence.org/team/ https://web.archive.org/web/20251022021957/https://www.existence.org/team/', NULL, 'position', NULL, 'full-time', 'AI safety') /*Last consulted Wayback snapshot is from 2025-10-22*/
-
+ /*............................................................................Board of Directors............................................................................*/
+    ,('Jess Reidel', 'Berkeley Existential Risk Initiative', 'Treasurer', '2024-11-06', 'month', NULL, NULL, 'https://web.archive.org/web/20241106160247/https://www.existence.org/team/ https://web.archive.org/web/20251022021957/https://www.existence.org/team/', NULL, 'position', NULL, 'Board Member', 'AI safety') /*Last consulted Wayback snapshot is from 2025-10-22*/
+    ,('Sawyer Bernath', 'Berkeley Existential Risk Initiative', 'Secretary and Director', '2025-02-14', 'month', NULL, NULL, 'https://web.archive.org/web/20250214121429/https://www.existence.org/team/ https://web.archive.org/web/20250214121429/https://www.existence.org/team/', NULL, 'position', NULL, 'Board Member', 'AI safety') /*Last consulted Wayback snapshot is from 2025-02-14*/
 
 
 
