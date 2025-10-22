@@ -9,6 +9,14 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('James Paul Gonzales','Berkeley Existential Risk Initiative','Executive Assistant','2021-08-01','month',NULL,NULL, 'https://web.archive.org/web/20210925071536/https://existence.org/team/ https://www.linkedin.com/in/jpgonzales107/ https://web.archive.org/web/20251022021957/https://www.existence.org/team/', NULL, 'position', NULL, 'full-time', 'AI safety') /*Last consulted Wayback snapshot is from 2025-10-22*/
     ,('Sarah Otis', 'Berkeley Existential Risk Initiative', 'Operations Assistant', '2025-08-08', 'month', NULL, NULL, 'https://web.archive.org/web/20250808120133/https://www.existence.org/team/ https://web.archive.org/web/20251022021957/https://www.existence.org/team/', NULL, 'position', NULL, 'full-time', 'AI safety') /*Last consulted Wayback snapshot is from 2025-10-22*/
     ,('Michael Jemison', 'Berkeley Existential Risk Initiative', 'Intern', '2025-08-08', 'month', NULL, NULL, 'https://web.archive.org/web/20250808120133/https://www.existence.org/team/ https://web.archive.org/web/20251022021957/https://www.existence.org/team/', NULL, 'intern', NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-10-22*/
+    ,('Nada Madkour', 'Berkeley Existential Risk Initiative', 'Researcher', '2024-06-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240601011105/https://www.existence.org/team/ https://web.archive.org/web/20251022021957/https://www.existence.org/team/', NULL, 'position', NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-10-22*/
+    ,('Deepika Raman', 'Berkeley Existential Risk Initiative', 'AI Standards Development Researcher', '2025-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250808120133/https://www.existence.org/team/ https://web.archive.org/web/20251022021957/https://www.existence.org/team/', NULL, 'position', NULL, 'AI safety')  /*Last consulted Wayback snapshot is from 2025-10-22*/
+    ,('Krystal Jackson', 'Berkeley Existential Risk Initiative', 'AI Standards Development Researcher', '2025-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250808120133/https://www.existence.org/team/ https://web.archive.org/web/20251022021957/https://www.existence.org/team/', NULL, 'position', NULL, 'AI safety')  /*Last consulted Wayback snapshot is from 2025-10-22*/
+    ,('Joseph Castellano', 'Berkeley Existential Risk Initiative', 'Executive Research Assistant', '2024-06-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240601011105/https://www.existence.org/team/ https://web.archive.org/web/20251022021957/https://www.existence.org/team/', NULL, 'position', NULL, 'AI safety')  /*Last consulted Wayback snapshot is from 2025-10-22*/
+
+
+
+
 
 
 
