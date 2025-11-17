@@ -1,10 +1,39 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
-('Mark Xu', 'Alignment Research Center', 'Research staff member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/mark-xu', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
-,('Jacob Hilton', 'Alignment Research Center', 'Research staff member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/jacob-hilton', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
-,('Eric Neyman', 'Alignment Research Center', 'Research staff member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/eric-neyman', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
+
+
+Team
+Full-time researchers
+Jacob Hilton
+Eric Neyman
+Victor Lecomte
+George Robinson
+Wilson Wu
+
+Research collaborators
+Mike Winer
+Andrea Lincoln
+Scott Aaronson
+Mark Xu
+
+Operations
+Harshita Khera
+Kyle Scott
+Kris Chari
+
+Governance
+ARC was founded in 2021 by Paul Christiano. ARC’s board members are Jacob Hilton, Buck Shlegeris, and Ben Hoskin. ARC’s officers are Jacob Hilton (President), and Kyle Scott (Treasurer & Secretary).
+
+ ('Jacob Hilton', 'Alignment Research Center', 'Research staff member', '2024-05-26', 'multi-year', NULL, NULL, 'https://web.archive.org/web/20240526233535/https://www.alignment.org/team/ https://web.archive.org/web/20251117204147/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*Last reviewed Wayback snapshot is from 2025-11-17*/ 
+ ,('Eric Neyman', 'Alignment Research Center', 'Research staff member', '2024-05-26', 'multi-year', NULL, NULL, 'https://web.archive.org/web/20240526233535/https://www.alignment.org/team/ https://web.archive.org/web/20251117204147/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*Last reviewed Wayback snapshot is from 2025-11-17*/ 
+ ,('Victor Lecomte', 'Alignment Research Center', 'Research staff member', '2024-10-09', 'year', NULL, NULL, 'https://web.archive.org/web/20241009201515/https://www.alignment.org/team/ https://web.archive.org/web/20251117204147/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*Last reviewed Wayback snapshot is from 2025-11-17*/ 
+ ,('George Robinson', 'Alignment Research Center', 'Research staff member', '2024-10-09', 'year', NULL, NULL, 'https://web.archive.org/web/20241009201515/https://www.alignment.org/team/ https://web.archive.org/web/20251117204147/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*Last reviewed Wayback snapshot is from 2025-11-17*/ 
+
+
+
+
+
+,('Mark Xu', 'Alignment Research Center', 'Research staff member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/mark-xu', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
 ,('Dávid Matolcsi', 'Alignment Research Center', 'Research staff member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/david-matolcsi', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
-,('Victor Lecomte', 'Alignment Research Center', 'Research staff member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/victor-lecomte', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
-,('George Robinson', 'Alignment Research Center', 'Research staff member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/george-robinson', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
 ,('Kyle Scott', 'Alignment Research Center', 'Operations staff member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/kyle-scott', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
 ,('Kris Chari', 'Alignment Research Center', 'Operations staff member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/kris-chari', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
 ,('Rebecca Baron', 'Alignment Research Center', 'Operations staff member', '2023-09-12', 'month', NULL, NULL, 'https://web.archive.org/web/20230912013151/https://evals.alignment.org/team/ https://www.alignment.org/team/rebecca-baron', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
