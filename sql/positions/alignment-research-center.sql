@@ -1,27 +1,6 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
 
-
-/*Team
-Full-time researchers
-Jacob Hilton
-Eric Neyman
-Victor Lecomte
-George Robinson
-Wilson Wu
-
-Research collaborators
-Mike Winer
-Andrea Lincoln
-Scott Aaronson
-Mark Xu
-
-Operations
-Harshita Khera
-Kyle Scott
-Kris Chari
-
-Governance
-ARC was founded in 2021 by Paul Christiano. ARC’s board members are Jacob Hilton, Buck Shlegeris, and Ben Hoskin. ARC’s officers are Jacob Hilton (President), and Kyle Scott (Treasurer & Secretary).*/
+ 
 /*..........................................................Full-time researchers...............................................................*/
  ('Jacob Hilton', 'Alignment Research Center', 'Research staff member', '2024-05-26', 'multi-year', NULL, NULL, 'https://web.archive.org/web/20240526233535/https://www.alignment.org/team/ https://web.archive.org/web/20251117204147/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*Last reviewed Wayback snapshot is from 2025-11-17*/ 
  ,('Eric Neyman', 'Alignment Research Center', 'Research staff member', '2024-05-26', 'multi-year', NULL, NULL, 'https://web.archive.org/web/20240526233535/https://www.alignment.org/team/ https://web.archive.org/web/20251117204147/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*Last reviewed Wayback snapshot is from 2025-11-17*/ 
@@ -35,20 +14,12 @@ ARC was founded in 2021 by Paul Christiano. ARC’s board members are Jacob Hilt
  ,('Mark Xu', 'Alignment Research Center', 'Research collaborator', '2025-08-06', 'month', NULL, NULL, 'https://web.archive.org/web/20250806172818/https://www.alignment.org/team/ https://web.archive.org/web/20251117204147/https://www.alignment.org/team/', NULL, NULL, 'AI safety') /*Last reviewed Wayback snapshot is from 2025-11-17*/ 
 /*..........................................................Operations...............................................................*/
  ,('Harshita Khera', 'Alignment Research Center', 'Operations', '2025-08-06', 'month', NULL, NULL, 'https://web.archive.org/web/20250806172818/https://www.alignment.org/team/ https://web.archive.org/web/20251117204147/https://www.alignment.org/team/', NULL, NULL, 'AI safety') /*Last reviewed Wayback snapshot is from 2025-11-17*/
- ,('Kyle Scott', 'Alignment Research Center', 'Operations', '2024-05-26', 'multi-year', NULL, NULL, 'https://web.archive.org/web/20240526233535/https://www.alignment.org/team/ https://web.archive.org/web/20251117204147/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*Last reviewed Wayback snapshot is from 2025-11-17*/ 
- ,('Kris Chari', 'Alignment Research Center', 'Operations', '2024-05-26', 'multi-year', NULL, NULL, 'https://web.archive.org/web/20240526233535/https://www.alignment.org/team/ https://web.archive.org/web/20251117204147/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*Last reviewed Wayback snapshot is from 2025-11-17*/ 
-
-
- 
-
-
-
-
-,('Mark Xu', 'Alignment Research Center', 'Research staff member', '2024-05-26', 'multi-year', '2024-12-17', 'month', 'https://www.alignment.org/team/mark-xu https://web.archive.org/web/20240526233535/https://www.alignment.org/team/ https://web.archive.org/web/20241217213141/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*closed*/
-,('Mark Xu', 'Alignment Research Center', 'Research staff member (on sabbatical)', '2025-02-15', 'month', '2025-07-12', 'month', 'https://web.archive.org/web/20250215030815/https://www.alignment.org/team/ https://web.archive.org/web/20250712184817/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*closed*/
-,('Dávid Matolcsi', 'Alignment Research Center', 'Research staff member', '2024-05-26', 'multi-year', '2025-01-30', 'month', 'https://web.archive.org/web/20250130113552/https://www.alignment.org/team/ https://web.archive.org/web/20240526233535/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*closed*/
-,('Rebecca Baron', 'Alignment Research Center', 'Operations staff member', '2023-09-12', 'month', '2025-07-12', 'month', 'https://web.archive.org/web/20230912013151/https://evals.alignment.org/team/ https://web.archive.org/web/20250712184817/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*closed*/
-,('Paul Christiano', 'Alignment Research Center', 'Founder', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/paul-christiano', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
+ ,('Kyle Scott', 'Alignment Research Center', 'Operations', '2024-05-26', 'multi-year', NULL, NULL, 'https://web.archive.org/web/20240526233535/https://www.alignment.org/team/ https://web.archive.org/web/20251117204147/https://www.alignment.org/team/', NULL, NULL, 'AI safety') /*Last reviewed Wayback snapshot is from 2025-11-17*/ 
+ ,('Kris Chari', 'Alignment Research Center', 'Operations', '2024-05-26', 'multi-year', NULL, NULL, 'https://web.archive.org/web/20240526233535/https://www.alignment.org/team/ https://web.archive.org/web/20251117204147/https://www.alignment.org/team/', NULL, NULL, 'AI safety') /*Last reviewed Wayback snapshot is from 2025-11-17*/ 
+/*..........................................................Governance...............................................................*/
+,('Kyle Scott', 'Alignment Research Center', 'Treasurer & Secretary', '2025-02-15', 'month', NULL, NULL, 'https://web.archive.org/web/20250215030815/https://www.alignment.org/team/ https://web.archive.org/web/20251117204147/https://www.alignment.org/team/', NULL, NULL, 'AI safety')/*Last reviewed Wayback snapshot is from 2025-11-17*/ 
+/*..........................................................Other...............................................................*/
+,('Paul Christiano', 'Alignment Research Center', 'Founder', '2021-01-01', 'year', NULL, NULL, 'https://www.alignment.org/team/paul-christiano', NULL, 'Full-time', 'AI safety')  
 ,('Jacob Hilton', 'Alignment Research Center', 'President', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/jacob-hilton', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
 ,('Kyle Scott', 'Alignment Research Center', 'Treasurer', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/kyle-scott', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
 ,('Kyle Scott', 'Alignment Research Center', 'Secretary', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/kyle-scott', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
@@ -56,7 +27,7 @@ ARC was founded in 2021 by Paul Christiano. ARC’s board members are Jacob Hilt
 ,('Ben Hoskin', 'Alignment Research Center', 'Board Member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/ben-hoskin', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
 
 /*....................................................Only LinkedIn ongoing postiions below..............................................*/
-,('Josh Jacobson', 'Alignment Research Center', 'Interim Operations Lead (Evals), Formerly Interim Operations Lead (Theory)', '2022-09-01', 'month', '2023-08-01', 'month', 'https://www.linkedin.com/in/joshmjacobson/', NULL, 'contractor', 'AI safety')  /*Closed*/
+
 ,('Lawrence Chan', 'Alignment Research Center', 'Member of Technical Staff', '2022-11-01', NULL, NULL, NULL, 'https://www.linkedin.com/in/lawrencechan2/ https://web.archive.org/web/20230301170836/https://evals.alignment.org/team/ https://web.archive.org/web/20230912013151/https://evals.alignment.org/team/', NULL, 'Full-time', 'AI safety')   /*Reviewed on 2024-10-09*/ /*current position*/
 ,('Megan Kinniment', 'Alignment Research Center', 'Member of Technical Staff', '2023-03-01', 'month', NULL, NULL, 'https://web.archive.org/web/20230301170836/https://evals.alignment.org/team/ https://www.linkedin.com/in/megan-kinniment-513355177/', NULL, 'full-time', 'AI safety')   /*Reviewed on 2024-10-09*/ /*current position*/
 ,('Luke Miles', 'Alignment Research Center', 'Member of Technical Staff', '2023-03-01', NULL, NULL, NULL, 'https://web.archive.org/web/20230301170836/https://evals.alignment.org/team/ https://web.archive.org/web/20230912013151/https://evals.alignment.org/team/', NULL, NULL, 'AI safety')  /*Reviewed on 2023-09-12*/ /*current position*/ 
@@ -68,6 +39,12 @@ ARC was founded in 2021 by Paul Christiano. ARC’s board members are Jacob Hilt
 ,('Aryan Bhatt', 'Alignment Research Center', 'SERI MATS Research Scholar', '2022-11-01', 'month', '2023-02-01', 'month', 'https://www.linkedin.com/in/aryanbhatt17/', NULL, 'Full-time', 'AI safety')  /*Closed*/ 
 ,('Aryan Bhatt', 'Alignment Research Center', 'Visiting Researcher', '2023-08-01', 'month', '2023-11-01', 'month', 'https://www.linkedin.com/in/aryanbhatt17/', NULL, 'Full-time', 'AI safety')  /*Closed*/ 
 ,('Quentin Feuillade-Montixi', 'Alignment Research Center', 'Model Evaluator', '2023-03-01', 'month', '2023-08-01', 'month', 'https://www.linkedin.com/in/quentin101010/', 'Remote work with the ARC eval team. Skilled in prompt engineering', 'Contractor', 'AI safety')  /*closed*/
+,('Josh Jacobson', 'Alignment Research Center', 'Interim Operations Lead (Evals), Formerly Interim Operations Lead (Theory)', '2022-09-01', 'month', '2023-08-01', 'month', 'https://www.linkedin.com/in/joshmjacobson/', NULL, 'contractor', 'AI safety')  /*Closed*/
+,('Mark Xu', 'Alignment Research Center', 'Research staff member', '2024-05-26', 'multi-year', '2024-12-17', 'month', 'https://www.alignment.org/team/mark-xu https://web.archive.org/web/20240526233535/https://www.alignment.org/team/ https://web.archive.org/web/20241217213141/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*closed*/
+,('Mark Xu', 'Alignment Research Center', 'Research staff member (on sabbatical)', '2025-02-15', 'month', '2025-07-12', 'month', 'https://web.archive.org/web/20250215030815/https://www.alignment.org/team/ https://web.archive.org/web/20250712184817/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*closed*/
+,('Dávid Matolcsi', 'Alignment Research Center', 'Research staff member', '2024-05-26', 'multi-year', '2025-01-30', 'month', 'https://web.archive.org/web/20250130113552/https://www.alignment.org/team/ https://web.archive.org/web/20240526233535/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*closed*/
+,('Rebecca Baron', 'Alignment Research Center', 'Operations staff member', '2023-09-12', 'month', '2025-07-12', 'month', 'https://web.archive.org/web/20230912013151/https://evals.alignment.org/team/ https://web.archive.org/web/20250712184817/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*closed*/
+,('Kyle Scott', 'Alignment Research Center', 'Secretary', '2024-10-09', 'multi-year', '2025-01-30', 'month', 'https://web.archive.org/web/20241009201515/https://www.alignment.org/team/ https://web.archive.org/web/20250130113552/https://www.alignment.org/team/', NULL, NULL, 'AI safety') /*closed*/ 
 
 /*...........Positions at Model Evaluation and Threat Research (METR), a spinoff of Alignment Research Center, are found below................................
 
