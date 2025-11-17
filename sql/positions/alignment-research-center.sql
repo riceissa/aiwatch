@@ -1,7 +1,7 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
 
 
-Team
+/*Team
 Full-time researchers
 Jacob Hilton
 Eric Neyman
@@ -21,18 +21,31 @@ Kyle Scott
 Kris Chari
 
 Governance
-ARC was founded in 2021 by Paul Christiano. ARC’s board members are Jacob Hilton, Buck Shlegeris, and Ben Hoskin. ARC’s officers are Jacob Hilton (President), and Kyle Scott (Treasurer & Secretary).
-
+ARC was founded in 2021 by Paul Christiano. ARC’s board members are Jacob Hilton, Buck Shlegeris, and Ben Hoskin. ARC’s officers are Jacob Hilton (President), and Kyle Scott (Treasurer & Secretary).*/
+/*..........................................................Full-time researchers...............................................................*/
  ('Jacob Hilton', 'Alignment Research Center', 'Research staff member', '2024-05-26', 'multi-year', NULL, NULL, 'https://web.archive.org/web/20240526233535/https://www.alignment.org/team/ https://web.archive.org/web/20251117204147/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*Last reviewed Wayback snapshot is from 2025-11-17*/ 
  ,('Eric Neyman', 'Alignment Research Center', 'Research staff member', '2024-05-26', 'multi-year', NULL, NULL, 'https://web.archive.org/web/20240526233535/https://www.alignment.org/team/ https://web.archive.org/web/20251117204147/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*Last reviewed Wayback snapshot is from 2025-11-17*/ 
  ,('Victor Lecomte', 'Alignment Research Center', 'Research staff member', '2024-10-09', 'year', NULL, NULL, 'https://web.archive.org/web/20241009201515/https://www.alignment.org/team/ https://web.archive.org/web/20251117204147/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*Last reviewed Wayback snapshot is from 2025-11-17*/ 
  ,('George Robinson', 'Alignment Research Center', 'Research staff member', '2024-10-09', 'year', NULL, NULL, 'https://web.archive.org/web/20241009201515/https://www.alignment.org/team/ https://web.archive.org/web/20251117204147/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*Last reviewed Wayback snapshot is from 2025-11-17*/ 
+ ,('Wilson Wu', 'Alignment Research Center', 'Research staff member', '2025-11-17', 'month', NULL, NULL, 'https://web.archive.org/web/20251117204147/https://www.alignment.org/team/ https://web.archive.org/web/20251117204147/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*Last reviewed Wayback snapshot is from 2025-11-17*/ 
+/*..........................................................Research collaborators...............................................................*/
+
+ ,('Mike Winer', 'Alignment Research Center', 'Research collaborator', '2025-11-17', 'month', NULL, NULL, 'https://web.archive.org/web/20251117204147/https://www.alignment.org/team/ https://web.archive.org/web/20251117204147/https://www.alignment.org/team/', NULL, NULL, 'AI safety') /*Last reviewed Wayback snapshot is from 2025-11-17*/ 
+ ,('Andrea Lincoln', 'Alignment Research Center', 'Research collaborator', '2025-08-06', 'month', NULL, NULL, 'https://web.archive.org/web/20250806172818/https://www.alignment.org/team/ https://web.archive.org/web/20251117204147/https://www.alignment.org/team/', NULL, NULL, 'AI safety') /*Last reviewed Wayback snapshot is from 2025-11-17*/ 
+ ,('Scott Aaronson', 'Alignment Research Center', 'Research collaborator', '2025-08-06', 'month', NULL, NULL, 'https://web.archive.org/web/20250806172818/https://www.alignment.org/team/ https://web.archive.org/web/20251117204147/https://www.alignment.org/team/', NULL, NULL, 'AI safety') /*Last reviewed Wayback snapshot is from 2025-11-17*/ 
+ ,('Mark Xu', 'Alignment Research Center', 'Research collaborator', '2025-08-06', 'month', NULL, NULL, 'https://web.archive.org/web/20250806172818/https://www.alignment.org/team/ https://web.archive.org/web/20251117204147/https://www.alignment.org/team/', NULL, NULL, 'AI safety') /*Last reviewed Wayback snapshot is from 2025-11-17*/ 
+
+
+ 
 
 
 
 
+,('Mark Xu', 'Alignment Research Center', 'Research staff member', '2024-05-26', 'multi-year', '2024-12-17', 'month', 'https://www.alignment.org/team/mark-xu https://web.archive.org/web/20240526233535/https://www.alignment.org/team/ https://web.archive.org/web/20241217213141/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*closed*/
+,('Mark Xu', 'Alignment Research Center', 'Research staff member (on sabbatical)', '2025-02-15', 'month', '2025-07-12', 'month', 'https://web.archive.org/web/20250215030815/https://www.alignment.org/team/ https://web.archive.org/web/20250712184817/https://www.alignment.org/team/', NULL, 'Full-time', 'AI safety') /*closed*/
 
-,('Mark Xu', 'Alignment Research Center', 'Research staff member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/mark-xu', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
+
+
 ,('Dávid Matolcsi', 'Alignment Research Center', 'Research staff member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/david-matolcsi', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
 ,('Kyle Scott', 'Alignment Research Center', 'Operations staff member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/kyle-scott', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
 ,('Kris Chari', 'Alignment Research Center', 'Operations staff member', NULL, NULL, NULL, NULL, 'https://www.alignment.org/team/kris-chari', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-10-09*/ /*current position*/
