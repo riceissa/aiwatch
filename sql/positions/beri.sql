@@ -24,7 +24,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
          /*..................................................................LinkedIn positions below................................................................................*/
-    ,('Kenzi Amodei','Berkeley Existential Risk Initiative','Deputy Director','2017-05-01','month',NULL,NULL,'https://www.linkedin.com/in/kenzi-amodei-28b30111/',NULL,NULL,NULL,NULL,'AI safety')  /* Reviewed on 2024-08-11 */ /*I didn't find her on wayback*/ 
+    ,('Kenzi Amodei','Berkeley Existential Risk Initiative','Deputy Director','2017-05-01','month',NULL,NULL,'https://www.linkedin.com/in/kenzi-amodei-28b30111/',NULL,NULL,NULL,NULL,'AI safety')   
 
      /*..................................................................Closed positions................................................................................*/
     ,('Andrew Critch','Berkeley Existential Risk Initiative','Board chair','2017-02-01','month','2025-04-01','year','https://web.archive.org/web/20170317050259/http://existence.org/ https://web.archive.org/web/20250401022322/https://www.existence.org/team/',NULL,'position',NULL,'part-time','AI safety') /*closed*/        
