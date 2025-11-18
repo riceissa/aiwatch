@@ -1,8 +1,8 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
 
-    ('Lukas Finnveden', 'Ought', 'Director', '2024-05-27', 'month', NULL, NULL, 'https://web.archive.org/web/20240527230322/https://ought.org/team https://web.archive.org/web/20241105044915/https://ought.org/team',NULL,'position',NULL,NULL,'AI safety') /*Last Wayback snapshot is from 2024-11-05*/  /*current position*/  
-    ,('Owain Evans','Ought','Director & CEO', '2023-10-18','month',NULL,NULL,'https://web.archive.org/web/20231107163218/https://ought.org/team',NULL,'position',NULL,'board member','AI safety') /*Last Wayback snapshot is from 2024-11-05*/  /*current position*/  
-    ,('Owen Cotton-Barratt', 'Ought', 'Director', '2023-09-29', 'month', NULL, NULL, 'https://web.archive.org/web/20230929161716/https://ought.org/team  https://web.archive.org/web/20241105044915/https://ought.org/team',NULL,'position',NULL,NULL,'AI safety') /*Last Wayback snapshot is from 2024-11-05*/  /*current position*/  
+     ('Owain Evans','Ought','Director & CEO', '2023-10-18','month',NULL,NULL,'https://web.archive.org/web/20231107163218/https://ought.org/team https://web.archive.org/web/20251111003453/https://ought.org/team',NULL,'position',NULL,'board member','AI safety') /*Last consulted Wayback snapshot is from 2025-11-11*/    
+    ,('Lukas Finnveden', 'Ought', 'Director', '2024-05-27', 'month', NULL, NULL, 'https://web.archive.org/web/20240527230322/https://ought.org/team https://web.archive.org/web/20251111003453/https://ought.org/team',NULL,'position',NULL,NULL,'AI safety') /*Last consulted Wayback snapshot is from 2025-11-11*/ 
+    ,('Owen Cotton-Barratt', 'Ought', 'Director', '2023-09-29', 'month', NULL, NULL, 'https://web.archive.org/web/20230929161716/https://ought.org/team  https://web.archive.org/web/20251111003453/https://ought.org/team',NULL,'position',NULL,NULL,'AI safety') /*Last consulted Wayback snapshot is from 2025-11-11*/  
 
 
 
