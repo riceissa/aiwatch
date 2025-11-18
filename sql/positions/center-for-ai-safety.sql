@@ -1,11 +1,21 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+/*................................................................Leadership..................................................................*/
+ ('Dan Hendrycks', 'Center for AI Safety', 'Executive and Research Director', '2022-08-13', 'year', NULL, NULL, 'https://web.archive.org/web/20220813150758/https://safe.ai/about https://web.archive.org/web/20251118223803/https://safe.ai/about https://www.linkedin.com/in/dan-hendrycks-04062395/', NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-18*/  
+
+
+
+
+
+
+
+
+
  ('Aidan O''Gara', 'Center for AI Safety', 'Research Engineer', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/abogara/', NULL, 'Intern', 'AI safety') /*Reviewed on 2023-12-22*/ /*current position*/
 ,('Alex Pan', 'Center for AI Safety', 'Research Intern', '2022-07-01', 'month', '2022-08-01', 'month', 'https://www.linkedin.com/in/alexander-pan-0567a2102/', NULL, 'Intern', 'AI safety')/*Closed*/ 
 ,('Anders Edson', 'Center for AI Safety', 'Project Manager', '2022-07-01', 'month', '2023-08-01', 'month', 'https://www.linkedin.com/in/anders-edson-66565b236/ https://web.archive.org/web/20220813150758/https://safe.ai/about', NULL, 'Full-time', 'AI safety') /*Closed*/
 ,('Andy Zou', 'Center for AI Safety', 'Project Manager & Research Collaborator', '2022-08-13', 'year', NULL, NULL, 'https://web.archive.org/web/20220813150758/https://safe.ai/about', NULL, NULL, 'AI safety') 
 ,('Ayham Al-Saffar', 'Center for AI Safety', 'AI Safety Research Course Facilitator', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ayhamalsaffar/', NULL, 'Part-time', 'AI safety') /*Reviewed on 2023-12-22*/ /*current position*/
 ,('Ayush Panda', 'Center for AI Safety', 'Teaching Assistant', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ayushpanda1029/', NULL, 'Part-time', 'AI safety') /*Reviewed on 2023-12-22*/ /*current position*/
-,('Dan Hendrycks', 'Center for AI Safety', 'Executive and Research Director', '2022-08-13', 'year', NULL, NULL, 'https://web.archive.org/web/20220813150758/https://safe.ai/about https://www.linkedin.com/in/dan-hendrycks-04062395/', NULL, NULL, 'AI safety') /*Reviewed on 2023-12-22*/ /*current position*/
 ,('David Bau', 'Center for AI Safety', 'Collaborator', '2023-03-26', NULL, '2023-12-31', NULL, 'https://web.archive.org/web/20230326125055/https://www.safe.ai/compute-cluster https://web.archive.org/web/20231231041232/https://www.safe.ai/compute-cluster', NULL, NULL, 'AI safety') /*Reviewed on 2023-12-30*/ /*current position*/
 ,('David Lambert', 'Center for AI Safety', 'Research and Writing Consultant', '2022-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/davidlklambert/', NULL, 'Contractor', 'AI safety') /*Reviewed on 2023-12-22*/ /*current position*/
 ,('Isabelle Barrass', 'Center for AI Safety', 'Project Manager', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/isabelle-barrass-44a36210a/', NULL, NULL, 'AI safety') /*Reviewed on 2023-12-22*/ /*current position*/
