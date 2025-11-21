@@ -8,7 +8,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Long Phan', 'Center for AI Safety', 'Research Engineer', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/long-phan-3110/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-11-18*/
 ,('Mantas Mazeika', 'Center for AI Safety', 'Research Scientist', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mmazeika/', NULL, 'Full-time', 'AI safety')/*Reviewed on 2025-11-18*/
 ,('Rune Kvist', 'Center for AI Safety', 'Board Member', '2022-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/runekvist/', NULL, 'Board Member', 'AI safety')  /*Reviewed on 2025-11-18*/
-
+,('Steven Basart', 'Center for AI Safety', 'Manager of Research and Development', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/xksteven/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-11-18*/
 
 
 
@@ -17,23 +17,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 ,('Matthias Hein', 'Center for AI Safety', 'Research Collaborator', '2023-03-26', NULL, NULL, NULL, 'https://web.archive.org/web/20230326125055/https://www.safe.ai/compute-cluster', NULL, NULL, 'AI safety')  /*Reviewed on 2023-12-30*/ /*current position*/ 
 ,('Michael Chen', 'Center for AI Safety', 'Research Collaborator', '2022-08-13', 'year', NULL, NULL, 'https://web.archive.org/web/20220813150758/https://safe.ai/about https://arxiv.org/abs/2308.14752', NULL, NULL, 'AI safety') /*Reviewed on 2023-12-30*/ /*current position*/
- 
-
-
-
-
-
-
-
-
 ,('Scott Emmons', 'Center for AI Safety', 'Research Collaborator', '2022-08-13', 'year', NULL, NULL, 'https://web.archive.org/web/20220813150758/https://safe.ai/about https://arxiv.org/abs/2304.03279', NULL, NULL, 'AI safety') /*Reviewed on 2023-12-30*/ /*current position*/
 ,('Sidney Hough', 'Center for AI Safety', 'Project Manager', '2022-08-13', 'year', NULL, NULL, 'https://web.archive.org/web/20220813150758/https://safe.ai/about', NULL, NULL, 'AI safety')
-,('Steven Basart', 'Center for AI Safety', 'Manager of Research and Development', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/xksteven/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-12-22*/ /*current position*/
- 
-,('Xuwang Yin', 'Center for AI Safety', 'Research Engineer', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/xuwangyin/', NULL, 'intern', 'AI safety') /*Reviewed on 2023-12-22*/ /*current position*/
-,('Zifan Wang', 'Center for AI Safety', 'Research Engineer', '2023-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/zifanw/', NULL, NULL, 'AI safety') /*Reviewed on 2023-12-22*/ /*current position*/
 ,('Andy Zou', 'Center for AI Safety', 'Project Manager & Research Collaborator', '2022-08-13', 'year', NULL, NULL, 'https://web.archive.org/web/20220813150758/https://safe.ai/about', NULL, NULL, 'AI safety') 
-
 ,('Jun Shern Chan', 'Center for AI Safety', 'Research Engineer', '2023-03-15', 'year', NULL, NULL, 'https://junshern.github.io/data/chanjunshern_cv.pdf', NULL, NULL, 'AI safety')  /*Reviewed on 2023-12-30*/ /*current position*/
 
 
@@ -66,3 +52,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Nathaniel Li', 'Center for AI Safety', 'Research Engineer', '2023-05-01', 'month', '2025-01-31', 'month', 'https://www.linkedin.com/in/nli0/', 'Research co-lead on Humanity''s Last Exam and WMDP; contributed to biosecurity evaluations for virology protocol troubleshooting.', 'Full-time', 'AI safety')/*Closed*/ 
 ,('Nathaniel Li', 'Center for AI Safety', 'Undergraduate Researcher', '2022-08-01', 'month', '2023-05-01', 'month', 'https://www.linkedin.com/in/nli0/', NULL, NULL, 'AI safety')/*Closed*/ 
 ,('Rebecca Rothwell', 'Center for AI Safety', 'Lead Editor', '2023-06-01', 'month', '2024-04-01', 'month', 'https://www.linkedin.com/in/rebeccarothwell/', NULL, NULL, 'AI safety') /*closed*/ 
+,('Zifan Wang', 'Center for AI Safety', 'Research Engineer', '2023-04-01', 'month', '2023-11-01', 'month', 'https://www.linkedin.com/in/zifanw/', NULL, NULL, 'AI safety') /*closed*/ 
+,('Xuwang Yin', 'Center for AI Safety', 'Research Engineer', '2023-01-01', 'month', '2025-04-01', 'month', 'https://www.linkedin.com/in/xuwangyin/', NULL, 'intern', 'AI safety') /*closed*/ 
