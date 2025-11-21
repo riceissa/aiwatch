@@ -3,22 +3,22 @@ insert into positions(person, organization, title, start_date, start_date_precis
  ('Dan Hendrycks', 'Center for AI Safety', 'Executive and Research Director', '2022-08-13', 'year', NULL, NULL, 'https://web.archive.org/web/20220813150758/https://safe.ai/about https://web.archive.org/web/20251118223803/https://safe.ai/about https://www.linkedin.com/in/dan-hendrycks-04062395/', NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-18*/  
 ,('Oliver Zhang', 'Center for AI Safety', 'Managing Director', '2024-11-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251118223803/https://safe.ai/about https://www.linkedin.com/in/oliver-z-30a16812a/', NULL, 'Full-time', 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-18*/
 ,('Josue Estrada', 'Center for AI Safety', 'Chief Operating Officer', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/josue-estrada-46a130/ https://web.archive.org/web/20251118223803/https://safe.ai/about', NULL, 'Full-time', 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-18*/
-
 /*.............................................................linkedIn positions below.........................................................*/
+,('Corin Katzke', 'Center for AI Safety', 'Lead Writer', '2024-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/corin-katzke-29710b176/', 'Lead writer for the AI Safety Newsletter. Remote.', 'Part-time', 'AI safety') /*Reviewed on 2025-11-18*/
+,('Long Phan', 'Center for AI Safety', 'Research Engineer', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/long-phan-3110/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-11-18*/
+,('Mantas Mazeika', 'Center for AI Safety', 'Research Scientist', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mmazeika/', NULL, 'Full-time', 'AI safety')/*Reviewed on 2025-11-18*/
 
 
 
-
-,('Corin Katzke', 'Center for AI Safety', 'Lead Writer', '2024-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/corin-katzke-29710b176/', 'Lead writer for the AI Safety Newsletter. Remote.', 'Part-time', 'AI safety')
-
-,('Corin Katzke', 'Center for AI Safety', 'Writer', '2022-12-01', 'month', '2024-04-30', 'month', 'https://www.linkedin.com/in/corin-katzke-29710b176/', 'Contributing writer for the AI Safety Newsletter; contributed to *An Introduction to AI Safety, Ethics, and Society*. Remote. Contract role.', 'Contract', 'AI safety')
-
-
-,('Long Phan', 'Center for AI Safety', 'Research Engineer', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/long-phan-3110/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2023-12-22*/ /*current position*/
-,('Mantas Mazeika', 'Center for AI Safety', 'Research Collaborator', '2022-08-13', 'year', NULL, NULL, 'https://web.archive.org/web/20220813150758/https://safe.ai/about https://arxiv.org/abs/2310.01405', NULL, NULL, 'AI safety') /*Reviewed on 2023-12-30*/ /*current position*/
 ,('Matthias Hein', 'Center for AI Safety', 'Research Collaborator', '2023-03-26', NULL, NULL, NULL, 'https://web.archive.org/web/20230326125055/https://www.safe.ai/compute-cluster', NULL, NULL, 'AI safety')  /*Reviewed on 2023-12-30*/ /*current position*/ 
 ,('Michael Chen', 'Center for AI Safety', 'Research Collaborator', '2022-08-13', 'year', NULL, NULL, 'https://web.archive.org/web/20220813150758/https://safe.ai/about https://arxiv.org/abs/2308.14752', NULL, NULL, 'AI safety') /*Reviewed on 2023-12-30*/ /*current position*/
-,('Nathaniel Li', 'Center for AI Safety', 'Undergraduate Researcher', '2022-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nli0/', NULL, NULL, 'AI safety') /*Reviewed on 2023-12-22*/ /*current position*/
+ 
+
+
+
+
+
+
 ,('Rebecca Rothwell', 'Center for AI Safety', 'Lead Editor', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rebeccarothwell/', NULL, NULL, 'AI safety') /*Reviewed on 2023-12-22*/ /*current position*/ 
 ,('Rune Kvist', 'Center for AI Safety', 'Board Member', '2022-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/runekvist/', NULL, 'Board Member', 'AI safety')  /*Reviewed on 2023-12-30*/ /*current position*/ 
 ,('Scott Emmons', 'Center for AI Safety', 'Research Collaborator', '2022-08-13', 'year', NULL, NULL, 'https://web.archive.org/web/20220813150758/https://safe.ai/about https://arxiv.org/abs/2304.03279', NULL, NULL, 'AI safety') /*Reviewed on 2023-12-30*/ /*current position*/
@@ -55,3 +55,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Steven Basart', 'Center for AI Safety', 'Research Engineer', '2022-05-01', 'month', '2023-03-01', 'month', 'https://www.linkedin.com/in/xksteven/ https://web.archive.org/web/20220813150758/https://safe.ai/about', NULL, 'Full-time', 'AI safety')/*Closed*/ 
 ,('Thomas Woodside', 'Center for AI Safety', 'Project Manager & Research Collaborator', '2022-08-01', 'month', '2023-08-01', 'month', 'https://web.archive.org/web/20220813150758/https://safe.ai/about https://www.linkedin.com/in/thomas-woodside-20131a145/', 'He would continue work part time while in school. Working on a research project involving Trojan detection in large language models.', 'Part-time', 'AI safety') /*closed*/
 ,('Kevin Liu', 'Center for AI Safety', 'Project Manager', '2022-03-01', 'month', '2022-07-01', 'month', 'https://web.archive.org/web/20220813150758/https://safe.ai/about https://www.linkedin.com/in/the-kevin-liu/', NULL, NULL, 'AI safety')/*Closed*/ 
+,('Corin Katzke', 'Center for AI Safety', 'Writer', '2022-12-01', 'month', '2024-04-30', 'month', 'https://www.linkedin.com/in/corin-katzke-29710b176/', 'Contributing writer for the AI Safety Newsletter; contributed to *An Introduction to AI Safety, Ethics, and Society*. Remote. Contract role.', 'Contractor', 'AI safety')/*Closed*/ 
+,('Nathaniel Li', 'Center for AI Safety', 'Research Engineer', '2023-05-01', 'month', '2025-01-31', 'month', 'https://www.linkedin.com/in/nli0/', 'Research co-lead on Humanity''s Last Exam and WMDP; contributed to biosecurity evaluations for virology protocol troubleshooting.', 'Full-time', 'AI safety')/*Closed*/ 
+,('Nathaniel Li', 'Center for AI Safety', 'Undergraduate Researcher', '2022-08-01', 'month', '2023-05-01', 'month', 'https://www.linkedin.com/in/nli0/', NULL, NULL, 'AI safety')/*Closed*/ 
