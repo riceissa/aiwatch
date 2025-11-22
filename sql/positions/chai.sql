@@ -8,17 +8,17 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Joseph Halpern', 'Center for Human-Compatible AI', 'Faculty', '2016-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20161028172855/http://www.cs.cornell.edu/home/halpern https://web.archive.org/web/20161016222259/http://humancompatible.ai/people/ https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL ,NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
     ,('Michael Wellman', 'Center for Human-Compatible AI', 'Faculty', '2016-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20161016222259/http://humancompatible.ai/people/ https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL ,NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
     ,('Satinder Singh Baveja', 'Center for Human-Compatible AI', 'Faculty', '2016-10-01', NULL, NULL, NULL, 'https://web.archive.org/web/20161017162001/http://web.eecs.umich.edu/~baveja/ https://web.archive.org/web/20161016222259/http://humancompatible.ai/people/ https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL ,NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
-
-
-    
-
+    ,('Serina Chang', 'Center for Human-Compatible AI', 'Faculty', '2025-03-19', NULL, NULL, NULL, 'https://web.archive.org/web/20250319190342/https://humancompatible.ai/people https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL ,NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
 
 
 
 
 
 
-     ('Adam Gleave', 'Center for Human-Compatible AI', 'PhD Student in Artificial Intelligence', '2017-08-01', 'month', '2022-12-01', 'month', 'https://web.archive.org/web/20190119214638/https://humancompatible.ai/people https://www.linkedin.com/in/adamgleave/', NULL, NULL, NULL, 'Graduate Student', 'AI safety') /*closed*/
+
+
+
+     ,('Adam Gleave', 'Center for Human-Compatible AI', 'PhD Student in Artificial Intelligence', '2017-08-01', 'month', '2022-12-01', 'month', 'https://web.archive.org/web/20190119214638/https://humancompatible.ai/people https://www.linkedin.com/in/adamgleave/', NULL, NULL, NULL, 'Graduate Student', 'AI safety') /*closed*/
     ,('Alex Gunning', 'Center for Human-Compatible AI', 'Graduate Student', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116200816/https://humancompatible.ai/people/', NULL, NULL, NULL, 'Graduate Student', 'AI safety')
     ,('Alexander Turner', 'Center for Human-Compatible AI', 'Postdoctoral Researcher', '2022-07-01', 'month', '2023-08-01', 'month', 'https://www.linkedin.com/in/alex-turner-ai/', NULL, NULL, NULL, 'Intern', 'AI safety') /*closed*/
     ,('Alexandra Souly', 'Center for Human-Compatible AI', 'Intern', '2023-09-29', 'month', NULL, NULL, 'https://web.archive.org/web/20230929140411/https://humancompatible.ai/people/ https://web.archive.org/web/20240105022517/https://humancompatible.ai/people/', NULL, NULL, NULL, 'Intern', 'AI safety') /*Reviewed as of 2024-01-29*/ /*current position*/
