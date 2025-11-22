@@ -19,9 +19,16 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Andrew Critch', 'Center for Human-Compatible AI', 'Research Scientist', '2017-05-01', NULL, NULL, NULL, 'https://web.archive.org/web/20170508084228/http://humancompatible.ai/people https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/ 
     ,('Ian Baker', 'Center for Human-Compatible AI', 'Research Engineer with Jonathan Stray', '2025-08-12', 'month', NULL, NULL, 'https://web.archive.org/web/20250812052621/https://humancompatible.ai/people https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
     ,('Jonathan Stray', 'Center for Human-Compatible AI', 'Senior Scientist', '2021-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jonathanstray/ https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
+    ,('Julia Morris', 'Center for Human-Compatible AI', 'Research Associate', '2025-03-19', 'month', NULL, NULL, 'https://web.archive.org/web/20250319190342/https://humancompatible.ai/people https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
+    ,('Justin Svegliato', 'Center for Human-Compatible AI', 'Research Scientist', '2023-11-27', 'month',  NULL, NULL, 'https://web.archive.org/web/20231127092331/https://humancompatible.ai/people/ https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
+    ,('Livia Morris', 'Center for Human-Compatible AI', 'Research Associate', '2025-03-19', 'month', NULL, NULL, 'https://web.archive.org/web/20250319190342/https://humancompatible.ai/people https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
 
- 
- 
+
+
+
+
+
+
 
 
 
@@ -89,7 +96,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Juliana Schroeder', 'Center for Human-Compatible AI', 'Faculty affiliate', '2018-02-19', 'year', NULL, NULL, 'https://web.archive.org/web/20180219204129/http://humancompatible.ai/people https://web.archive.org/web/20240105022517/https://humancompatible.ai/people/', NULL, NULL, NULL, 'Affiliate', 'AI safety') /*Reviewed as of 2024-01-05*/ /*current position*/
     ,('Justin Svegliato', 'Center for Human-Compatible AI', 'Postdoctoral Fellow', '2021-09-30', 'month', '2021-09-30', 'month', 'https://web.archive.org/web/20210930201307/https://humancompatible.ai/people/ https://web.archive.org/web/20240105022517/https://humancompatible.ai/people/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
     ,('Justin Svegliato', 'Center for Human-Compatible AI', 'Research Fellow', '2021-10-24', 'month', '2023-09-29', 'month', 'https://web.archive.org/web/20211024032403/https://humancompatible.ai/people/ https://web.archive.org/web/20230929140411/https://humancompatible.ai/people/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
-    ,('Justin Svegliato', 'Center for Human-Compatible AI', 'Research Fellow', '2023-11-27', 'month',  NULL, NULL, 'https://web.archive.org/web/20231127092331/https://humancompatible.ai/people/ https://web.archive.org/web/20240105022517/https://humancompatible.ai/people/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed as of 2024-01-05*/ /*current position*/
     ,('Karthika Mohan', 'Center for Human-Compatible AI', 'Postdoctoral Scholar', '2017-01-01', 'year', '2021-01-01', 'year', 'https://web.archive.org/web/20240105022517/https://humancompatible.ai/people/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
     ,('Ken Goldberg', 'Center for Human-Compatible AI', 'Affiliate', '2018-02-01', 'year', NULL, NULL, 'https://web.archive.org/web/20180219204129/http://humancompatible.ai/people https://web.archive.org/web/20240105022517/https://humancompatible.ai/people/#ken-goldberg', NULL, NULL, NULL, 'Affiliate', 'AI safety') /*Reviewed as of 2024-01-05*/ /*current position*/
     ,('Khanh Nguyen', 'Center for Human-Compatible AI', 'Research Fellow', '2023-09-29', 'month', NULL, NULL, 'https://web.archive.org/web/20230929140411/https://humancompatible.ai/people/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed as of 2024-01-05*/ /*current position*/
