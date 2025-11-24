@@ -58,11 +58,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Scott Emmons', 'Center for Human-Compatible AI', 'Graduate Student', '2022-01-22', 'month', NULL, NULL, 'https://web.archive.org/web/20220122210626/https://humancompatible.ai/people/ https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', 'Research Scientist at Google DeepMind', NULL, NULL, 'Affiliate', 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
     ,('Siddharth Srivastava', 'Center for Human-Compatible AI', 'Affiliate', '2017-10-01', 'year', NULL, NULL, 'https://web.archive.org/web/20171017122725/http://humancompatible.ai/about#staff https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', 'Assistant Professor of Computer Science at Arizona State University', NULL, NULL, 'Affiliate', 'AI safety')  /*Last consulted Wayback snapshot is from 2025-11-22*/
     ,('Tom Lenaerts', 'Center for Human-Compatible AI', 'Research Affiliate', '2021-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tom-lenaerts-5606061/ https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', 'Professor at the Université Libre de Bruxelles', NULL, NULL, 'Affiliate', 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
-
-
-
-
-
+    ,('Vincent Corruble', 'Center for Human-Compatible AI', 'Research Affiliate', '2019-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20191227172711/https://humancompatible.ai/people https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', 'Associate Professor at Sorbonne Université', NULL, NULL, 'Affiliate', 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
+    ,('Wesley Holliday', 'Center for Human-Compatible AI', 'Affiliate', '2021-06-19', 'month', NULL, NULL, 'https://web.archive.org/web/20210619094319/https://humancompatible.ai/people/ https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', 'Professor of Philosophy at UC Berkeley', NULL, NULL, 'Affiliate', 'AI safety')  /*Last consulted Wayback snapshot is from 2025-11-22*/
+/*..............................................................................Graduate Students........................................................................*/
 
 
 
@@ -149,8 +147,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Sören Mindermann', 'Center for Human-Compatible AI', 'Former Intern', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116200816/https://humancompatible.ai/people/', NULL, NULL, NULL, 'Intern', 'AI safety')
     ,('Stephen Casper', 'Center for Human-Compatible AI', 'Former Intern', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116200816/https://humancompatible.ai/people/', NULL, NULL, NULL, 'Intern', 'AI safety')
     ,('Tu (Alina) Trinh', 'Center for Human-Compatible AI', 'Graduate Student', '2023-09-29', 'month', NULL, NULL, 'https://web.archive.org/web/20230929140411/https://humancompatible.ai/people/', NULL, NULL, NULL, 'graduate student', 'AI safety') /*Reviewed as of 2024-01-25*/ /*current position*/
-    ,('Vincent Corruble', 'Center for Human-Compatible AI', 'Research Affiliate', '2019-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20191227172711/https://humancompatible.ai/people', NULL, NULL, NULL, 'Affiliate', 'AI safety') /*Reviewed as of 2024-01-05*/ /*current position*/
-    ,('Wesley Holliday', 'Center for Human-Compatible AI', 'Affiliate', '2021-06-19', 'month', NULL, NULL, 'https://web.archive.org/web/20210619094319/https://humancompatible.ai/people/ https://web.archive.org/web/20240105022517/https://humancompatible.ai/people/#ken-goldberg', NULL, NULL, NULL, 'Affiliate', 'AI safety') /*Reviewed as of 2024-01-05*/ /*current position*/
     ,('Yuxi Liu', 'Center for Human-Compatible AI', 'Graduate Student', '2022-01-22', 'month', NULL, NULL, 'https://web.archive.org/web/20220122210626/https://humancompatible.ai/people/ https://web.archive.org/web/20240105022517/https://humancompatible.ai/people/', NULL, NULL, NULL, 'Graduate Student', 'AI safety') /*Reviewed as of 2024-01-25*/ /*current position*/
 
 
