@@ -72,6 +72,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jessy Lin', 'Center for Human-Compatible AI', 'PhD Student', '2020-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251122155103/https://humancompatible.ai/people#rachel-freedman', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
     ,('Jiahai Feng', 'Center for Human-Compatible AI', 'PhD Student', '2023-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251122155103/https://humancompatible.ai/people#rachel-freedman', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
     ,('Johannes Treutlein', 'Center for Human-Compatible AI', 'PhD Student', '2022-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251122155103/https://humancompatible.ai/people#rachel-freedman', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
+    ,('Mark Bedaywi', 'Center for Human-Compatible AI', 'PhD Student', '2024-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251122155103/https://humancompatible.ai/people#rachel-freedman', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
 
 
 
