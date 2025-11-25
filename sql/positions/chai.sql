@@ -61,6 +61,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Vincent Corruble', 'Center for Human-Compatible AI', 'Research Affiliate', '2019-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20191227172711/https://humancompatible.ai/people https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', 'Associate Professor at Sorbonne Université', NULL, NULL, 'Affiliate', 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
     ,('Wesley Holliday', 'Center for Human-Compatible AI', 'Affiliate', '2021-06-19', 'month', NULL, NULL, 'https://web.archive.org/web/20210619094319/https://humancompatible.ai/people/ https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', 'Professor of Philosophy at UC Berkeley', NULL, NULL, 'Affiliate', 'AI safety')  /*Last consulted Wayback snapshot is from 2025-11-22*/
 /*..............................................................................Graduate Students........................................................................*/
+    ,('Aly Lidayan', 'Center for Human-Compatible AI', 'PhD Student', '2020-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
 
 
 
