@@ -62,7 +62,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Wesley Holliday', 'Center for Human-Compatible AI', 'Affiliate', '2021-06-19', 'month', NULL, NULL, 'https://web.archive.org/web/20210619094319/https://humancompatible.ai/people/ https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', 'Professor of Philosophy at UC Berkeley', NULL, NULL, 'Affiliate', 'AI safety')  /*Last consulted Wayback snapshot is from 2025-11-22*/
 /*..............................................................................Graduate Students........................................................................*/
     ,('Aly Lidayan', 'Center for Human-Compatible AI', 'PhD Student', '2020-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
-
+    ,('Anand Siththaranjan', 'Center for Human-Compatible AI', 'PhD Student', '2021-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
+    ,('Arnaud Fickinger', 'Center for Human-Compatible AI', 'PhD Student', '2019-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
+    ,('Bhaskar Mishra', 'Center for Human-Compatible AI', 'PhD Student', '2023-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
 
 
 
@@ -84,14 +86,13 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
     ,('Alexandra Souly', 'Center for Human-Compatible AI', 'Intern', '2023-09-29', 'month', NULL, NULL, 'https://web.archive.org/web/20230929140411/https://humancompatible.ai/people/ https://web.archive.org/web/20240105022517/https://humancompatible.ai/people/', NULL, NULL, NULL, 'Intern', 'AI safety') /*Reviewed as of 2024-01-29*/ /*current position*/
+ 
 
-    ,('Anand Siththaranjan', 'Center for Human-Compatible AI', 'Graduate Student', '2022-04-19', 'month', NULL, NULL, 'https://web.archive.org/web/20220419105402/https://humancompatible.ai/people/ https://web.archive.org/web/20240105022517/https://humancompatible.ai/people/#alison-gopnik', NULL, NULL, NULL, 'Affiliate', 'AI safety') /*Reviewed as of 2024-01-05*/ /*current position*/
-    ,('Arnaud Fickinger', 'Center for Human-Compatible AI', 'Graduate Student', '2021-06-19', 'year', NULL, NULL, 'https://web.archive.org/web/20210619094319/https://humancompatible.ai/people/ https://web.archive.org/web/20240105022517/https://humancompatible.ai/people/#alison-gopnik', NULL, NULL, NULL, 'Affiliate', 'AI safety') /*Reviewed as of 2024-01-05*/ /*current position*/
     ,('Alyssa Li Dayan', 'Center for Human-Compatible AI', 'Graduate Student', '2021-01-18', 'month', NULL, NULL, 'https://web.archive.org/web/20210118201306/https://humancompatible.ai/people/ https://web.archive.org/web/20240105022517/https://humancompatible.ai/people/#ken-goldberg', NULL, NULL, NULL, 'Graduate Student', 'AI safety') /*Reviewed as of 2024-01-05*/ /*current position*/
-    ,('Bhaskar Mishra', 'Center for Human-Compatible AI', 'Graduate Student', '2023-09-29', 'month', NULL, NULL, 'https://web.archive.org/web/20230929140411/https://humancompatible.ai/people/ https://humancompatible.ai/people', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed as of 2024-01-05*/ /*current position*/
+ 
     ,('Beth Barnes', 'Center for Human-Compatible AI', 'Summer Researcher', '2017-06-10', 'month', '2017-10-01', 'month', 'https://web.archive.org/web/20180120234323/http://humancompatible.ai/jobs https://www.linkedin.com/in/elizabethmbarnes/', NULL, 'position', 'technical research', 'intern', 'AI safety')
     ,('Beth Barnes', 'Center for Human-Compatible AI', 'Former Intern', '2021-02-10', NULL, NULL, NULL, 'https://web.archive.org/web/20210116200816/https://humancompatible.ai/people/', NULL, NULL, NULL, 'intern', 'AI safety')   
-    ,('Bhaskar Mishra', 'Center for Human-Compatible AI', 'Graduate Student', '2023-09-29', 'month', NULL, NULL, 'https://web.archive.org/web/20230929140411/https://humancompatible.ai/people/ https://humancompatible.ai/people', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed as of 2024-01-05*/ /*current position*/
+ 
     ,('Brandon Perry', 'Center for Human-Compatible AI', 'Administration Officer', '2019-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20190119214638/https://humancompatible.ai/people', NULL, NULL, NULL, NULL, 'AI safety')
     ,('Charlotte Roman', 'Center for Human-Compatible AI', 'Former Intern', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116200816/https://humancompatible.ai/people/', NULL, NULL, NULL, 'Intern', 'AI safety')
     ,('Christopher Cundy', 'Center for Human-Compatible AI', 'Former Intern', '2020-12-03', 'month', NULL, NULL, 'https://web.archive.org/web/20201203170355/https://humancompatible.ai/people/', NULL, NULL, NULL, 'Intern', 'AI safety')
