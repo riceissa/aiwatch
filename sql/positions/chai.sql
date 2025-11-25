@@ -65,6 +65,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Anand Siththaranjan', 'Center for Human-Compatible AI', 'PhD Student', '2021-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
     ,('Arnaud Fickinger', 'Center for Human-Compatible AI', 'PhD Student', '2019-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
     ,('Bhaskar Mishra', 'Center for Human-Compatible AI', 'PhD Student', '2023-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
+    ,('Cassidy Laidlaw', 'Center for Human-Compatible AI', 'PhD Student', '2020-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL, NULL, 'Graduate Student', 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
 
 
 
@@ -187,4 +188,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Lawrence Chan', 'Center for Human-Compatible AI', 'Spotlighted Student', '2020-07-31', 'month', '2020-12-03', 'month', 'https://web.archive.org/web/20200731080638/https://humancompatible.ai/people/ https://web.archive.org/web/20201203170355/https://humancompatible.ai/people/', NULL, NULL, NULL, 'Graduate Student', 'AI safety') /*closed*/     
     ,('Michael Dennis', 'Center for Human-Compatible AI', 'PhD Student, Artificial Intelligence and Computational Geometry', '2016-01-01', 'year', '2023-01-01', 'year', 'https://web.archive.org/web/20240105022517/https://humancompatible.ai/people/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/    
     ,('Alex Gunning', 'Center for Human-Compatible AI', 'Graduate Student', '2020-09-01', 'month', '2021-01-01', 'multi-year', 'https://humancompatible.ai/news/2020/09/01/six-new-phd-students-join-chai/ https://web.archive.org/web/20210116200816/https://humancompatible.ai/people/', NULL, NULL, NULL, 'Graduate Student', 'AI safety')   /*closed*/   
-    ,('Cassidy Laidlaw', 'Center for Human-Compatible AI', 'Graduate Student', '2020-09-01', 'month', '2020-09-01', 'multi-year', 'https://humancompatible.ai/news/2020/09/01/six-new-phd-students-join-chai/', NULL, NULL, NULL, 'Graduate Student', 'AI safety')  /*closed*/   
+ 
