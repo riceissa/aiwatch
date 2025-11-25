@@ -66,6 +66,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Arnaud Fickinger', 'Center for Human-Compatible AI', 'PhD Student', '2019-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
     ,('Bhaskar Mishra', 'Center for Human-Compatible AI', 'PhD Student', '2023-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
     ,('Cassidy Laidlaw', 'Center for Human-Compatible AI', 'PhD Student', '2020-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL, NULL, 'Graduate Student', 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
+    ,('Erik Jenner', 'Center for Human-Compatible AI', 'PhD Student', '2022-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
+    ,('Hanlin Zhu', 'Center for Human-Compatible AI', 'PhD Student', '2021-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
+    ,('Jakub Grudzien Kuba', 'Center for Human-Compatible AI', 'PhD Student', '2022-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251122155103/https://humancompatible.ai/people', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
+    ,('Jessy Lin', 'Center for Human-Compatible AI', 'PhD Student', '2020-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251122155103/https://humancompatible.ai/people#rachel-freedman', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-11-22*/
 
 
 
