@@ -138,6 +138,7 @@ sql/positions/leverhulme-centre-for-the-future-of-intelligence.sql
 sql/positions/lifespan-extension-advocacy-foundation.sql
 sql/positions/lightcone-infrastructure.sql
 sql/positions/longview-philanthropy.sql
+sql/positions/mats-research.sql
 sql/positions/median-group.sql
 sql/positions/mercy-for-animals.sql
 sql/positions/metaculus.sql
