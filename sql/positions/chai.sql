@@ -82,7 +82,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Yuxi Liu', 'Center for Human-Compatible AI', 'PhD Student', '2020-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251001081542/https://humancompatible.ai/people', NULL, NULL, NULL, NULL, 'AI safety')  /*Last consulted Wayback snapshot is from 2025-10-01*/
 /*..............................................................................Affiliated Graduate Students........................................................................*/
     ,('Jacy Reese Anthris', 'Center for Human-Compatible AI', 'Affiliated Graduate Student', '2025-03-19', 'month', NULL, NULL, 'https://web.archive.org/web/20250319190342/https://humancompatible.ai/people https://web.archive.org/web/20251001081542/https://humancompatible.ai/people#affiliated-graduate-students', NULL, NULL, NULL, 'graduate student', 'AI safety') /*Last consulted Wayback snapshot is from 2025-10-01*/
-    ,('Pulkit Verma', 'Center for Human-Compatible AI', 'Affiliated graduate student', '2020-12-03', 'month', NULL, NULL, 'https://web.archive.org/web/20201203170355/https://humancompatible.ai/people/ https://web.archive.org/web/20251001081542/https://humancompatible.ai/people#affiliated-graduate-students', NULL, NULL, NULL, 'graduate student', 'AI safety') /*Last consulted Wayback snapshot is from 2025-10-01*/
+    ,('Pulkit Verma', 'Center for Human-Compatible AI', 'Affiliated graduate student', '2020-12-03', 'month', NULL, NULL, 'https://web.archive.org/web/20201203170355/https://humancompatible.ai/people/ https://web.archive.org/web/20251001081542/https://humancompatible.ai/people#affiliated-graduate-students', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-10-01*/
 /*..............................................................................Interns........................................................................*/
     ,('Dillon Sandhu', 'Center for Human-Compatible AI', 'Intern', '2024-06-20', 'month', NULL, NULL, 'https://web.archive.org/web/20240620155450/https://humancompatible.ai/people https://web.archive.org/web/20251001081542/https://humancompatible.ai/people', NULL, NULL, NULL, 'Intern', 'AI safety') /*Last consulted Wayback snapshot is from 2025-10-01*/
     ,('Ala’a Tamam', 'Center for Human-Compatible AI', 'Policy Intern', '2025-08-12', 'month', NULL, NULL, 'https://web.archive.org/web/20250812052621/https://humancompatible.ai/people https://web.archive.org/web/20251001081542/https://humancompatible.ai/people', NULL, NULL, NULL, 'Intern', 'AI safety') /*Last consulted Wayback snapshot is from 2025-10-01*/
@@ -96,16 +96,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Mohamad H. Danesh', 'Center for Human-Compatible AI', 'Intern', '2024-04-23', 'month', NULL, NULL, 'https://web.archive.org/web/20240423211253/https://humancompatible.ai/people https://web.archive.org/web/20251001081542/https://humancompatible.ai/people', NULL, NULL, NULL, 'Intern', 'AI safety') /*Last consulted Wayback snapshot is from 2025-10-01*/
     ,('Ram Rachum', 'Center for Human-Compatible AI', 'Research Intern', '2025-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ram-rachum-349b7a17/details/experience/ https://web.archive.org/web/20251001081542/https://humancompatible.ai/people', NULL, NULL, NULL, 'Intern', 'AI safety') /*Last consulted Wayback snapshot is from 2025-10-01*/
     ,('Zeno Marquis', 'Center for Human-Compatible AI', 'Intern', '2024-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/zeno-marquis-9699b7219/ https://web.archive.org/web/20251001081542/https://humancompatible.ai/people', NULL, NULL, NULL, 'Intern', 'AI safety') /*Last consulted Wayback snapshot is from 2025-10-01*/
-
-
-
-
-
 /*.....................................................LinkedIn positions below...........................................................*/
- 
-    ,('Rohin Shah', 'Center for Human-Compatible AI', 'Graduate Student Researcher', '2017-09-01', 'month', '2020-12-01', 'month', 'https://www.linkedin.com/in/rohin-shah-76405832/', NULL, NULL, NULL, 'Researcher', 'AI safety')
-
-
+    ,('Rohin Shah', 'Center for Human-Compatible AI', 'Graduate Student Researcher', '2017-09-01', 'month', '2020-12-01', 'month', 'https://www.linkedin.com/in/rohin-shah-76405832/', NULL, NULL, NULL, NULL, 'AI safety')
 
 
 
