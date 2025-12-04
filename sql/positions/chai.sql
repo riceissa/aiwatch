@@ -96,6 +96,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Mohamad H. Danesh', 'Center for Human-Compatible AI', 'Intern', '2024-04-23', 'month', NULL, NULL, 'https://web.archive.org/web/20240423211253/https://humancompatible.ai/people https://web.archive.org/web/20251001081542/https://humancompatible.ai/people', NULL, NULL, NULL, 'Intern', 'AI safety') /*Last consulted Wayback snapshot is from 2025-10-01*/
     ,('Ram Rachum', 'Center for Human-Compatible AI', 'Research Intern', '2025-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ram-rachum-349b7a17/details/experience/ https://web.archive.org/web/20251001081542/https://humancompatible.ai/people', NULL, NULL, NULL, 'Intern', 'AI safety') /*Last consulted Wayback snapshot is from 2025-10-01*/
     ,('Zeno Marquis', 'Center for Human-Compatible AI', 'Intern', '2024-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/zeno-marquis-9699b7219/ https://web.archive.org/web/20251001081542/https://humancompatible.ai/people', NULL, NULL, NULL, 'Intern', 'AI safety') /*Last consulted Wayback snapshot is from 2025-10-01*/
+    ,('Yuxi Liu', 'Center for Human-Compatible AI', 'PhD Student', '2020-09-01', 'month', NULL, 'Present', 'https://web.archive.org/web/20251001081542/https://humancompatible.ai/people/#affiliated-graduate-students', NULL, NULL, NULL, 'PhD Student', 'AI safety') /*Reviewed as of 2025-10-01*/ /*current position*/
 /*.....................................................LinkedIn positions below...........................................................*/
 
 
@@ -136,10 +137,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Noor Brody', 'Center for Human-Compatible AI', 'Operations Assistant', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116200816/https://humancompatible.ai/people/', NULL, NULL, NULL, NULL, 'AI safety')
     ,('Pedro Freire', 'Center for Human-Compatible AI', 'Former Intern', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116200816/https://humancompatible.ai/people/', NULL, NULL, NULL, 'Intern', 'AI safety')
     ,('Rachel Freedman', 'Center for Human-Compatible AI', 'Graduate Student', '2021-01-18', 'month', NULL, NULL, 'https://web.archive.org/web/20210118201306/https://humancompatible.ai/people/ https://web.archive.org/web/20240105022517/https://humancompatible.ai/people/#olivia-watkins', NULL, NULL, NULL, 'Graduate Student', 'AI safety') /*Reviewed as of 2024-01-05*/ /*current position*/
- 
     ,('Ruairidh McLennan Battleday', 'Center for Human-Compatible AI', 'Visiting Scholar', '2021-09-30', 'month', NULL, NULL, 'https://web.archive.org/web/20210930201307/https://humancompatible.ai/people/ https://web.archive.org/web/20240105022517/https://humancompatible.ai/people/', NULL, NULL, NULL, NULL,'AI safety') /*Reviewed as of 2024-01-05*/ /*current position*/
-
-    ,('Sam Toyer', 'Center for Human-Compatible AI', 'Graduate Student', '2021-01-18', 'month', NULL, NULL, 'https://web.archive.org/web/20210118201306/https://humancompatible.ai/people/ https://web.archive.org/web/20240105022517/https://humancompatible.ai/people/', NULL, NULL, NULL, 'Graduate Student', 'AI safety') /*Reviewed as of 2024-01-27*/ /*current position*/
     ,('Sana Pandey', 'Center for Human-Compatible AI', 'Intern', '2023-09-29', 'month', NULL, NULL, 'https://web.archive.org/web/20230929140411/https://humancompatible.ai/people/ https://web.archive.org/web/20240105022517/https://humancompatible.ai/people/', NULL, NULL, NULL, 'intern', 'AI safety') /*Reviewed as of 2024-01-29*/ /*current position*/
     ,('Sergei Volodin', 'Center for Human-Compatible AI', 'Former Intern', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116200816/https://humancompatible.ai/people/', NULL, NULL, NULL, 'Intern', 'AI safety')
     ,('Shlomi Hod', 'Center for Human-Compatible AI', 'Former Intern', '2019-12-01', NULL, NULL, NULL, 'https://web.archive.org/web/20191227172711/https://humancompatible.ai/people', NULL, NULL, NULL, 'Intern', 'AI safety')
@@ -147,7 +145,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Smitha Milli', 'Center for Human-Compatible AI', 'Alumna', '2022-08-17', 'month', NULL, NULL, 'https://web.archive.org/web/20220817225745/https://humancompatible.ai/people/ https://web.archive.org/web/20240105022517/https://humancompatible.ai/people/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed as of 2024-01-05*/ /*current position*/ 
     ,('Sören Mindermann', 'Center for Human-Compatible AI', 'Former Intern', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116200816/https://humancompatible.ai/people/', NULL, NULL, NULL, 'Intern', 'AI safety')
     ,('Stephen Casper', 'Center for Human-Compatible AI', 'Former Intern', '2021-01-01', NULL, NULL, NULL, 'https://web.archive.org/web/20210116200816/https://humancompatible.ai/people/', NULL, NULL, NULL, 'Intern', 'AI safety')
-    ,('Yuxi Liu', 'Center for Human-Compatible AI', 'Graduate Student', '2022-01-22', 'month', NULL, NULL, 'https://web.archive.org/web/20220122210626/https://humancompatible.ai/people/ https://web.archive.org/web/20240105022517/https://humancompatible.ai/people/', NULL, NULL, NULL, 'Graduate Student', 'AI safety') /*Reviewed as of 2024-01-25*/ /*current position*/
+
+ 
 
 
 
