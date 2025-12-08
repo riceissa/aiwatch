@@ -111,19 +111,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
  
-
-
-
-
-
-
-
-
-
  
-
-
-
 /*................................................Former positions below..............................................*/
     ,('Vael Gates', 'Center for Human-Compatible AI', 'PhD Student, Computational Cognitive Science', '2016-01-01', 'year', '2021-01-01', 'year', 'https://web.archive.org/web/20210116200816/https://humancompatible.ai/people/', NULL, NULL, NULL, 'Graduate Student', 'AI safety') /*former position*/ 
     ,('Vincent Corruble', 'Center for Human-Compatible AI', 'Visiting Scholar', '2019-05-01', 'month', '2019-08-01', 'month', 'https://web.archive.org/web/20191227172711/https://humancompatible.ai/people https://www.linkedin.com/in/vincent-corruble-3903461/', NULL, NULL, NULL, NULL, 'AI safety') /*former position*/
