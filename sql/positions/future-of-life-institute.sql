@@ -15,6 +15,16 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Hamza Chaudhry','Future of Life Institute','AI and National Security Lead','2023-07-01','month',NULL,NULL,'https://www.linkedin.com/in/hamzatariqchaudhry/ https://web.archive.org/web/20251208155026/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,'Full-time','AI safety') /*Last consulted Wayback snapshot is from 2025-12-08*/
     ,('Imane Bello','Future of Life Institute','Multilateral Engagement Lead','2025-04-26','month',NULL,NULL,'https://web.archive.org/web/20250426045443/https://futureoflife.org/about-us/our-people/ https://web.archive.org/web/20251208155026/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,NULL,'AI safety') /*Last consulted Wayback snapshot is from 2025-12-08*/
     ,('James Petrie','Future of Life Institute','Compute Security and Governance Lead','2025-12-08','month',NULL,NULL,'https://web.archive.org/web/20251208155026/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,NULL,'AI safety')  /*Last consulted Wayback snapshot is from 2025-12-08*/
+    ,('Jason Van Beek','Future of Life Institute','Chief Government Affairs Officer','2025-02-14','month',NULL,NULL,'https://web.archive.org/web/20250214195745/https://futureoflife.org/about-us/our-people/ https://web.archive.org/web/20251208155026/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,NULL,'AI safety')  /*Last consulted Wayback snapshot is from 2025-12-08*/
+    ,('José Jaime Villalobos','Future of Life Institute','Multilateral Governance Lead','2025-01-24','month',NULL,NULL,'https://web.archive.org/web/20250124131243/https://futureoflife.org/about-us/our-people/ https://web.archive.org/web/20251208155026/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,NULL,'AI safety')  /*Last consulted Wayback snapshot is from 2025-12-08*/
+
+
+
+
+
+
+
+
 
 
    
