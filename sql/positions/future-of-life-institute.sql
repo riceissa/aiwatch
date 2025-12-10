@@ -39,17 +39,33 @@ Podcast Host & Director
 Future of Life Institute
    */
     ,('Maggie Munro', 'Future of Life Institute', 'Communications Strategist', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/maggiemunro/ https://web.archive.org/web/20251012101801/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,'Full-time','AI safety')  /*Last consulted Wayback snapshot is from 2025-10-12*/
+    ,('Taylor Jones','Future of Life Institute','Website Manager','2021-09-01','month',NULL,NULL,'https://www.linkedin.com/in/tjonesdesigner/ https://web.archive.org/web/20251012101801/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,'Full-time','AI safety')  /*Last consulted Wayback snapshot is from 2025-10-12*/
+/*......................................................................................Operations & Grants..........................................................................*/
+    ,('Ben Eisenpress', 'Future of Life Institute', 'Director of Operations', '2023-03-01', 'month', NULL, NULL, 'https://theorg.com/org/future-of-life-institute/org-chart/ben-eisenpress https://www.linkedin.com/in/beneisenpress/  https://web.archive.org/web/20251012101801/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,'Full-time','AI safety')  /*Last consulted Wayback snapshot is from 2025-10-12*/
+    ,('Andrea Berman','Future of Life Institute','Grants Manager','2021-07-01','month',NULL,NULL,'https://www.linkedin.com/in/andreackb/  https://web.archive.org/web/20251012101801/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,NULL,'AI safety')  /*Last consulted Wayback snapshot is from 2025-10-12*/
+    ,('Lotte Gleeson','Future of Life Institute','Operations Associate','2025-01-24','month',NULL,NULL,'https://web.archive.org/web/20250124131243/https://futureoflife.org/about-us/our-people/ https://web.archive.org/web/20251012101801/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,NULL,'AI safety')/*Last consulted Wayback snapshot is from 2025-10-12*/
+/*......................................................................................External advisors..........................................................................*/
+    ,('Alan Alda','Future of Life Institute','Advisor','2014-01-01','multi-year',NULL,NULL,'https://web.archive.org/web/20251012101801/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,'Advisor','AI safety')/*Last consulted Wayback snapshot is from 2025-10-12*/
+    ,('Alan Guth','Future of Life Institute','Advisor','2014-01-01','multi-year',NULL,NULL,'https://web.archive.org/web/20251012101801/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,'Advisor','AI safety')/*Last consulted Wayback snapshot is from 2025-10-12*/
+    ,('Christof Koch','Future of Life Institute','Advisor','2014-01-01','multi-year',NULL,NULL,'https://web.archive.org/web/20251012101801/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,'Advisor','AI safety')/*Last consulted Wayback snapshot is from 2025-10-12*/
+    ,('Elayne Whyte Gómez','Future of Life Institute','Advisor','2025-01-24','month',NULL,NULL,'https://web.archive.org/web/20250124131243/https://futureoflife.org/about-us/our-people/ https://web.archive.org/web/20251012101801/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,'Advisor','AI safety')/*Last consulted Wayback snapshot is from 2025-10-12*/
 
 
 
 
-    ,('Alan Alda','Future of Life Institute','Advisor',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20240302052639/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,NULL,'AI safety') /*Reviewed as of 2024-03-02*/ /*current position*/
-    ,('Alan Guth','Future of Life Institute','Advisor',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20240302052639/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,NULL,'AI safety') /*Reviewed as of 2024-03-02*/ /*current position*/
-    ,('Andrea Berman','Future of Life Institute','Grants Manager','2021-07-01','month',NULL,NULL,'https://www.linkedin.com/in/andreackb/ https://web.archive.org/web/20240302052639/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,NULL,'AI safety') /*Reviewed as of 2024-03-02*/ /*current position*/
-    ,('Ben Eisenpress', 'Future of Life Institute', 'Director of Operations', '2023-03-01', 'month', NULL, NULL, 'https://theorg.com/org/future-of-life-institute/org-chart/ben-eisenpress https://www.linkedin.com/in/beneisenpress/ https://web.archive.org/web/20240302052639/https://futureoflife.org/about-us/our-people/', NULL, NULL, NULL, 'Full-time', 'AI safety')/*Reviewed as of 2024-03-02*/ /*current position*/
+
+
+
+
+
+
+
+
+
+
     ,('Blake Pierson','Future of Life Institute','Director of Communications, Outreach and Operations',NULL,NULL,NULL,NULL,'https://futureoflife.org/team/',NULL,NULL,NULL,NULL,'AI safety') 
     ,('Carlos Ignacio Gutierrez', 'Future of Life Institute', 'Artificial Intelligence Policy Researcher / UN Representative', '2021-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/carlosig/ https://web.archive.org/web/20240302052639/https://futureoflife.org/about-us/our-people/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed as of 2024-03-02*/ /*current position*/
-    ,('Christof Koch','Future of Life Institute','Advisor',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20240302052639/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,NULL,'AI safety') /*Reviewed as of 2024-03-02*/ /*current position*/ 
+
     ,('David E. Nicholson', 'Future of Life Institute', 'Director, Future of Life Award', '2020-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/denich/ https://web.archive.org/web/20240302052639/https://futureoflife.org/about-us/our-people/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed as of 2024-03-02*/ /*current position*/
     ,('Elon Musk','Future of Life Institute','Advisor',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20240302052639/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,NULL,'AI safety') /*Reviewed as of 2024-03-02*/ /*current position*/   
     ,('Erik Brynjolfsson','Future of Life Institute','Advisor',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20240302052639/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,NULL,'AI safety') /*Reviewed as of 2024-03-02*/ /*current position*/ 
@@ -69,7 +85,7 @@ Future of Life Institute
     ,('Saul Perlmutter','Future of Life Institute','Advisor',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20240302052639/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,NULL,'AI safety') /*Reviewed as of 2024-03-02*/ /*current position*/ 
     ,('Stephen Hawking','Future of Life Institute','Advisor',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20240302052639/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,NULL,'AI safety') /*Reviewed as of 2024-03-02*/ /*current position*/ 
     ,('Stuart Russell','Future of Life Institute','Advisor',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20240302052639/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,NULL,'AI safety') /*Reviewed as of 2024-03-02*/ /*current position*/ 
-    ,('Taylor Jones','Future of Life Institute','Website Manager','2021-09-01','month',NULL,NULL,'https://www.linkedin.com/in/tjonesdesigner/?originalSubdomain=uk',NULL,NULL,NULL,NULL,'AI safety') /*Reviewed as of 2024-03-02*/ /*current position*/ 
+
 
 
  
