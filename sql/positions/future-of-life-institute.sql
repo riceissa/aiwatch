@@ -29,14 +29,16 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Anna Yelizarova','Future of Life Institute','Special Projects Lead','2020-06-01','month',NULL,NULL,'https://www.linkedin.com/in/annayelizarova/ https://web.archive.org/web/20251208155026/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,NULL,'AI safety')  /*Last consulted Wayback snapshot is from 2025-12-08*/
     ,('Isabella Hampton','Future of Life Institute','Associate, Futures Program','2025-01-24','month',NULL,NULL,'https://web.archive.org/web/20250124131243/https://futureoflife.org/about-us/our-people/ https://web.archive.org/web/20251208155026/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,'Full-time','AI safety') /*Last consulted Wayback snapshot is from 2025-12-08*/
     ,('William Jones','Future of Life Institute','Futures Program Associate','2024-02-01','month',NULL,NULL,'http://linkedin.com/in/william-jones-483853223/ https://web.archive.org/web/20251208155026/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,'Full-time','AI safety') /*Last consulted Wayback snapshot is from 2025-12-08*/
+/*......................................................................................Communications..........................................................................*/
+    ,('Ben Cumming','Future of Life Institute','Director of Communications','2023-07-01','month',NULL,NULL,'http://linkedin.com/in/benjamincumming/ https://web.archive.org/web/20251012101801/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,'Full-time','AI safety')  /*Last consulted Wayback snapshot is from 2025-10-12*/
+    ,('Chase Hardin','Future of Life Institute','US Communications Manager','2024-11-01','month',NULL,NULL,'https://www.linkedin.com/in/chase-hardin/ https://web.archive.org/web/20251012101801/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,'Full-time','AI safety')  /*Last consulted Wayback snapshot is from 2025-10-12*/
 
-
-
-
-
-
-   
- 
+/*
+Gus Docker
+Podcast Host & Director
+Future of Life Institute
+   */
+    ,('Maggie Munro', 'Future of Life Institute', 'Communications Strategist', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/maggiemunro/ https://web.archive.org/web/20251012101801/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,'Full-time','AI safety')  /*Last consulted Wayback snapshot is from 2025-10-12*/
 
 
 
@@ -58,7 +60,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Hamza Tariq Chaudhry', 'Future of Life Institute', 'US Policy Specialist', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hamza-tariq-chaudhry/ https://web.archive.org/web/20240302052639/https://futureoflife.org/about-us/our-people/', NULL, NULL, NULL, 'Full-time', 'AI safety')  /*Reviewed as of 2024-03-02*/ /*current position*/
     ,('Janos Kramar','Future of Life Institute','Volunteer',NULL,NULL,'2024-03-02',NULL,'https://futureoflife.org/person/janos-kramar/',NULL,NULL,NULL,NULL,'AI safety') /*Reviewed as of 2024-03-02*/ /*current position*/
     ,('Landon Klein', 'Future of Life Institute', 'Director of U.S. Policy', '2023-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240302052639/https://futureoflife.org/about-us/our-people/ https://www.linkedin.com/in/landonmklein/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed as of 2024-03-02*/ /*current position*/
-    ,('Maggie Munro', 'Future of Life Institute', 'Communications Strategist', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/maggiemunro/ https://web.archive.org/web/20240302052639/https://futureoflife.org/about-us/our-people/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed as of 2024-03-02*/ /*current position*/  
     ,('Martin Rees','Future of Life Institute','Advisor',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20240302052639/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,NULL,'AI safety') /*Reviewed as of 2024-03-02*/ /*current position*/ 
     ,('Maxim Kesin','Future of Life Institute','Volunteer','2015-02-01','month',NULL,NULL,'https://www.linkedin.com/in/maxkhesin/',NULL,NULL,NULL,NULL,'AI safety') /*Reviewed as of 2024-03-02*/ /*current position*/
     ,('Melody Guan','Future of Life Institute','Volunteer','2015-05-01','month',NULL,NULL,'https://www.linkedin.com/in/melodyguan/ https://futureoflife.org/team/',NULL,NULL,NULL,'volunteer','AI safety') /*Reviewed as of 2024-03-02*/ /*current position*/
