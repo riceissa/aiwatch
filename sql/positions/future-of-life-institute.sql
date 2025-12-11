@@ -32,12 +32,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 /*......................................................................................Communications..........................................................................*/
     ,('Ben Cumming','Future of Life Institute','Director of Communications','2023-07-01','month',NULL,NULL,'http://linkedin.com/in/benjamincumming/ https://web.archive.org/web/20251012101801/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,'Full-time','AI safety')  /*Last consulted Wayback snapshot is from 2025-10-12*/
     ,('Chase Hardin','Future of Life Institute','US Communications Manager','2024-11-01','month',NULL,NULL,'https://www.linkedin.com/in/chase-hardin/ https://web.archive.org/web/20251012101801/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,'Full-time','AI safety')  /*Last consulted Wayback snapshot is from 2025-10-12*/
-
-/*
-Gus Docker
-Podcast Host & Director
-Future of Life Institute
-   */
+    ,('Gus Docker','Future of Life Institute','Podcast Host & Director','2022-10-13','multi-year',NULL,NULL,'https://web.archive.org/web/20221013205644/https://futureoflife.org/about-us/our-people/ https://web.archive.org/web/20251012101801/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,NULL,'AI safety')/*Last consulted Wayback snapshot is from 2025-10-12*/
     ,('Maggie Munro', 'Future of Life Institute', 'Communications Strategist', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/maggiemunro/ https://web.archive.org/web/20251012101801/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,'Full-time','AI safety')  /*Last consulted Wayback snapshot is from 2025-10-12*/
     ,('Taylor Jones','Future of Life Institute','Website Manager','2021-09-01','month',NULL,NULL,'https://www.linkedin.com/in/tjonesdesigner/ https://web.archive.org/web/20251012101801/https://futureoflife.org/about-us/our-people/',NULL,NULL,NULL,'Full-time','AI safety')  /*Last consulted Wayback snapshot is from 2025-10-12*/
 /*......................................................................................Operations & Grants..........................................................................*/
