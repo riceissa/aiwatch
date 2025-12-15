@@ -4,7 +4,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ('Karolina Sarek', 'Effective Altruism Funds', 'Fund Manager (Animal Welfare)', '2019-06-01', 'month', NULL, NULL, 'https://app.effectivealtruism.org/funds/animal-welfare#fund-managers https://web.archive.org/web/20251211035504/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-12-11*/ 
     ,('Neil Dullaghan', 'Effective Altruism Funds', 'Fund Manager (Animal Welfare)', '2023-03-17', 'month', NULL, NULL, 'https://web.archive.org/web/20230317094710/https://funds.effectivealtruism.org/team https://web.archive.org/web/20251211035504/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-12-11*/ 
     ,('Zoë Sigle', 'Effective Altruism Funds', 'Fund Manager (Animal Welfare)', '2023-10-22', 'month', NULL, NULL, 'https://web.archive.org/web/20231022144430/https://funds.effectivealtruism.org/team https://web.archive.org/web/20251211035504/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-12-11*/ 
+    ,('Urszula Zarosa', 'Effective Altruism Funds', 'Animal Welfare Fund Manager', '2024-11-26', 'month', NULL, NULL, 'https://web.archive.org/web/20241126000032/https://funds.effectivealtruism.org/team https://web.archive.org/web/20251006231926/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, NULL, 'Effective altruism') /*Reviewed on 2025-10-06*/ /*current position*/
+    ,('Renata Scarellis', 'Effective Altruism Funds', 'Animal Welfare Fund Manager', '2025-07-28', 'month', NULL, NULL, 'https://web.archive.org/web/20250728230207/https://funds.effectivealtruism.org/team https://web.archive.org/web/20251006231926/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, NULL, 'Effective altruism') /*Reviewed on 2025-10-06*/ /*current position*/
 
+
+
+ 
 
 
 
