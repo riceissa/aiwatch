@@ -16,6 +16,14 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Caleb Parikh', 'Effective Altruism Funds', 'Project Lead', '2022-02-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220303141511/https://funds.effectivealtruism.org/team  https://www.linkedin.com/in/caleb-parikh https://web.archive.org/web/20251006231926/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, NULL, 'Effective altruism') /*Reviewed on 2025-10-06*/ /*current position*/ 
     ,('Lawrence Chan', 'Effective Altruism Funds', 'Guest Fund Manager (Long-Term Future)', '2023-11-09', 'month', NULL, NULL, 'https://web.archive.org/web/20231109090740/https://funds.effectivealtruism.org/team https://web.archive.org/web/20251006231926/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, NULL, 'Effective altruism') /*Reviewed on 2025-10-06*/ /*current position*/ 
     ,('Thomas Larsen', 'Effective Altruism Funds', 'Guest Fund Manager (Long-Term Future)', '2023-04-25', 'month', NULL, NULL, 'https://web.archive.org/web/20230425212722/https://funds.effectivealtruism.org/team https://web.archive.org/web/20251006231926/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, NULL, 'Effective altruism') /*Reviewed on 2025-10-06*/ /*current position*/ 
+    ,('Daniel Eth', 'Effective Altruism Funds', 'Fund Manager', '2025-04-28', 'month', NULL, NULL, 'https://web.archive.org/web/20250428230018/https://funds.effectivealtruism.org/team https://web.archive.org/web/20251006231926/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, NULL, 'Effective altruism') /*Reviewed on 2025-10-06*/ /*current position*/
+     ,('Eli Lifland', 'Effective Altruism Funds', 'Guest Fund Manager', '2024-06-25', 'month', NULL, NULL, 'https://web.archive.org/web/20240625182435/https://funds.effectivealtruism.org/team https://web.archive.org/web/20251006231926/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, NULL, 'Effective altruism') /*Reviewed on 2025-10-06*/ /*current position*/
+/*.......................................................................Fund advisors..........................................................................*/
+    ,('Lewis Bollard', 'Effective Altruism Funds', 'Fund advisor', '2023-03-17', 'month', NULL, NULL, 'https://web.archive.org/web/20230317094710/https://funds.effectivealtruism.org/team https://web.archive.org/web/20251006231926/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, 'Advisor', 'Effective altruism') /*Reviewed on 2025-10-06*/ /*current position*/
+
+
+
+
 
 
 
@@ -36,7 +44,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jonas Vollmer', 'Effective Altruism Funds', 'Executive Director', '2020-12-01', 'month', '2022-04-01', 'month', 'https://www.centreforeffectivealtruism.org/blog/giving-what-we-can-and-ea-funds-now-operate-independently-of-cea/ https://www.linkedin.com/in/jonasvollmer', NULL, NULL, NULL, 'full-time', 'Effective altruism') /*closed*/
     ,('Kieran Greig', 'Effective Altruism Funds', 'Fund Manager (Animal Welfare)', '2021-12-15', NULL, NULL, NULL, 'https://web.archive.org/web/20211215021055/https://funds.effectivealtruism.org/team https://web.archive.org/web/20240309160329/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, NULL, 'Effective altruism') /*Reviewed on 2024-03-09*/ /*current position*/ 
     ,('Lauro Langosco', 'Effective Altruism Funds', 'Guest Fund Manager (Long-Term Future)', '2023-11-09', 'month', NULL, NULL, 'https://web.archive.org/web/20231109090740/https://funds.effectivealtruism.org/team https://web.archive.org/web/20240309160329/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, NULL, 'Effective altruism') /*Reviewed on 2024-03-09*/ /*current position*/
-    ,('Lewis Bollard', 'Effective Altruism Funds', 'Fund Manager', '2022-03-03', 'month', NULL, NULL, 'https://web.archive.org/web/20220303141511/https://funds.effectivealtruism.org/team https://web.archive.org/web/20240309160329/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, NULL, 'Effective altruism')/*Reviewed on 2024-03-09*/ /*current position*/ 
     ,('Luke Ding', 'Effective Altruism Funds', 'Advisor', '2021-12-15', NULL, NULL, NULL, 'https://web.archive.org/web/20211215021055/https://funds.effectivealtruism.org/team https://web.archive.org/web/20240309160329/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, 'Advisor', 'Effective altruism')/*Reviewed on 2024-03-09*/ /*current position*/ 
     ,('Marcus A. Davis', 'Effective Altruism Funds', 'Fund Manager (Animal Welfare)', '2021-12-15', 'month', NULL, NULL, 'https://web.archive.org/web/20211215021055/https://funds.effectivealtruism.org/team https://web.archive.org/web/20240309160329/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, NULL, 'Effective altruism')/*Reviewed on 2024-03-09*/ /*current position*/
     ,('Matthew Fallshaw', 'Effective Altruism Funds', 'Guest Manager', '2018-08-01', 'month', '2019-05-01', 'month', 'https://www.linkedin.com/in/matthewfallshaw/', NULL, NULL, NULL, NULL, 'Effective altruism') /*closed*/
@@ -59,7 +66,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
  /*.................................................................closed positions below.....................................................................*/
 
- 
+     ,('Lewis Bollard', 'Effective Altruism Funds', 'Fund Manager', '2022-03-03', 'month', '2022-03-03', 'month', 'https://web.archive.org/web/20220303141511/https://funds.effectivealtruism.org/team https://web.archive.org/web/20240309160329/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, NULL, 'Effective altruism')/*closed*/ 
 
 
 
