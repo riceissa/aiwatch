@@ -31,44 +31,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
 /*.......................................................................EA Funds team..........................................................................*/
     ,('Fabio Kuhn', 'Effective Altruism Funds', 'Software Engineer', '2022-05-28', 'month', NULL, NULL, 'https://web.archive.org/web/20220528052537/https://funds.effectivealtruism.org/team https://web.archive.org/web/20251006231926/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, 'Advisor', 'Effective altruism') /*Reviewed on 2025-10-06*/ /*current position*/
     ,('Asya Bergal', 'Effective Altruism Funds', 'Fund Advisor', '2023-12-14', 'month', NULL,NULL, 'https://web.archive.org/web/20231214180538/https://funds.effectivealtruism.org/team https://web.archive.org/web/20251006231926/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, 'Advisor', 'Effective altruism') /*Reviewed on 2025-10-06*/ /*current position*/
-
-
-
-
-
-
-
-
-    ,('Kieran Greig', 'Effective Altruism Funds', 'Fund Manager (Animal Welfare)', '2021-12-15', NULL, NULL, NULL, 'https://web.archive.org/web/20211215021055/https://funds.effectivealtruism.org/team https://web.archive.org/web/20240309160329/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, NULL, 'Effective altruism') /*Reviewed on 2024-03-09*/ /*current position*/ 
-    ,('Peter Wildeford', 'Effective Altruism Funds', 'Fund Manager', '2022-01-26', 'month', NULL, NULL, 'https://web.archive.org/web/20220126091738/https://funds.effectivealtruism.org/team https://web.archive.org/web/20240309160329/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, NULL, 'Effective altruism') /*Reviewed on 2024-03-09*/ /*current position*/  
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    ,('Kieran Greig', 'Effective Altruism Funds', 'Fund Advisor', '2025-09-29', 'month', NULL, NULL, 'https://web.archive.org/web/20250929231304/https://funds.effectivealtruism.org/team https://web.archive.org/web/20251006231926/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, 'Advisor', 'Effective altruism') /*Reviewed on 2025-10-06*/ /*current position*/
+    ,('Peter Wildeford', 'Effective Altruism Funds', 'Fund Manager', '2024-12-31', 'month', NULL, NULL, 'https://web.archive.org/web/20241231000118/http https://web.archive.org/web/20251006231926/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, 'Advisor', 'Effective altruism') /*Reviewed on 2025-10-06*/ /*current position*/
  /*.................................................................closed positions below.....................................................................*/
-
      ,('Lewis Bollard', 'Effective Altruism Funds', 'Fund Manager', '2022-03-03', 'month', '2022-03-03', 'month', 'https://web.archive.org/web/20220303141511/https://funds.effectivealtruism.org/team https://web.archive.org/web/20240309160329/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, NULL, 'Effective altruism')/*closed*/ 
     ,('Alex Foster', 'Effective Altruism Funds', 'Fund Manager', '2018-01-01', 'year', '2021-01-01', 'year', 'https://www.linkedin.com/in/alexanderfoster/', NULL, NULL, NULL, NULL, 'Effective altruism') /*closed*/
     ,('Nick Beckstead', 'Effective Altruism Funds', 'Advisor', '2021-12-15', 'month', '2022-10-05', 'month', 'https://web.archive.org/web/20211215021055/https://funds.effectivealtruism.org/team https://web.archive.org/web/20221005225318/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, 'Advisor', 'Effective altruism') /*closed*/
@@ -92,8 +57,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Rob Gledhill', 'Effective Altruism Funds', 'Fund Advisor', '2022-12-04', 'month', '2024-05-30', 'month', 'https://web.archive.org/web/20221204131503/https://funds.effectivealtruism.org/team https://web.archive.org/web/20240530103050/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, 'Advisor', 'Effective altruism') /*closed*/
     ,('Tom Barnes', 'Effective Altruism Funds', 'Assistant Fund Manager (Effective Altruism Infrastructure)', '2023-04-25', 'month', '2024-11-26', 'month', 'https://web.archive.org/web/20230425212722/https://funds.effectivealtruism.org/team https://web.archive.org/web/20241126000032/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, NULL, 'Effective altruism') /*Reviewed on 2024-03-09*/ /*current position*/
     ,('Asya Bergal', 'Effective Altruism Funds', 'Fund Manager', '2021-12-15', NULL, '2023-11-09', 'month', 'https://web.archive.org/web/20211215021055/https://funds.effectivealtruism.org/team https://web.archive.org/web/20231109090740/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, NULL, 'Effective altruism') /*closed*/
-
-
+    ,('Kieran Greig', 'Effective Altruism Funds', 'Fund Manager (Animal Welfare)', '2021-12-15', NULL, '2025-06-30', 'month', 'https://web.archive.org/web/20211215021055/https://funds.effectivealtruism.org/team https://web.archive.org/web/20250630230525/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, NULL, 'Effective altruism') /*close*/ 
+    ,('Peter Wildeford', 'Effective Altruism Funds', 'Fund Manager', '2022-01-26', 'month', '2023-12-14', 'month', 'https://web.archive.org/web/20220126091738/https://funds.effectivealtruism.org/team https://web.archive.org/web/20231214180538/https://funds.effectivealtruism.org/team', NULL, NULL, NULL, NULL, 'Effective altruism') /*closed*/  
 
 
 
