@@ -13,7 +13,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
-
+/*..................................................................Closed positions below................................................................*/
 
     ,('Alex Angelini', 'GoodAI', 'Producer', '2021-09-01', 'month', '2022-10-01', 'month', 'https://www.linkedin.com/in/alex-gamedev/', NULL, 'position', 'general', NULL, 'AI safety') /*closed*/
     ,('Alex Angelini', 'GoodAI', 'Senior Producer', '2022-10-01', 'month', '2024-01-01', 'month', 'https://www.linkedin.com/in/alex-gamedev/', NULL, 'position', 'general', NULL, 'AI safety')/*closed*/
@@ -35,6 +35,19 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Martin Poliak', 'GoodAI', 'AI Consultant and Researcher', '2015-09-01', 'month', '2015-09-01', 'month', 'https://www.linkedin.com/in/martin-poliak-423530185/', NULL, 'position', 'general', NULL, 'AI safety') /*closed*/
     ,('Martin Poliak', 'GoodAI', 'AI Researcher', '2015-09-01', 'month', '2019-09-01', 'month', 'https://www.linkedin.com/in/martin-poliak-423530185/', NULL, 'position', 'general', 'Full-time', 'AI safety') /*closed*/
     ,('Martin Poliak', 'GoodAI', 'Research Manager', '2019-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/martin-poliak-423530185/ https://web.archive.org/web/20240322031452/https://www.goodai.com/about/', NULL, 'position', 'general', NULL, 'AI safety') /*Reviewed on 2024-03-22*/ /*current position*/
+
+
+    ,('Martin Poliak', 'GoodAI', 'AI Researcher', '2015-09-01', 'month', '2025-04-01', 'month', 'https://www.linkedin.com/in/martin-poliak-423530185/', NULL, 'position', 'general', 'Full-time', 'AI safety') 
+/*Reviewed on 2025-12-18*/ /*closed*/
+    ,('Martin Poliak', 'GoodAI', 'Research Manager', '2019-09-01', 'month', '2025-04-01', 'month', 'https://www.linkedin.com/in/martin-poliak-423530185/', NULL, 'position', 'general', 'Full-time', 'AI safety') 
+/*Reviewed on 2025-12-18*/ /*closed*/
+    ,('Martin Poliak', 'GoodAI', 'Project Lead', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/martin-poliak-423530185/ https://www.aipeoplegame.com', 'Leads the AI People project through Alpha release; oversees multidisciplinary teams including Unity developers, ML/LLM engineers, cloud infrastructure, and QA; applies adapted Agile methodology under creative direction.', 'position', 'general', 'Full-time', 'AI safety') 
+/*Reviewed on 2025-12-18*/ /*current position*/
+
+
+
+
+
     ,('Michal Dvořák', 'GoodAI', 'AI/ML Engineer', '2019-03-01', 'month', '2021-04-01', 'month', 'https://www.linkedin.com/in/michal-dvo%C5%99%C3%A1k-33093b25/', NULL, 'position', 'general', NULL, 'AI safety')	 /*closed*/
     ,('Nicholas Guttenberg', 'GoodAI', 'Senior Research Scientist', '2020-12-01', 'month', '2022-02-01', 'month', 'https://archive.vn/Og7Sg#selection-545.0-545.19 https://www.linkedin.com/in/nicholas-guttenberg-92265046/', NULL, 'position', 'general', 'Contractor', 'AI safety') /*closed*/
 
