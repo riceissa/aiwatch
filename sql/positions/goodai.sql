@@ -5,10 +5,13 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Petr Hlubuček', 'GoodAI', 'Senior AI Researcher', '2017-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20220327090940/https://www.goodai.com/about/ https://www.linkedin.com/in/petr-hlubu%C4%8Dek-740393306/?originalSubdomain=cz https://web.archive.org/web/20251217195747/https://www.goodai.com/about/', NULL, 'position', 'general', NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-12-17*/
 /*..................................................................Only LinkedIn positions below................................................................*/
 
-
+    ,('Karolína H.', 'GoodAI', 'HR/Recruitment', '2022-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/karol%C3%ADna-h-12039560/', NULL, 'position', 'general', 'Intern', 'AI safety')  
     ,('Martin Poliak', 'GoodAI', 'Project Lead', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/martin-poliak-423530185/ https://www.aipeoplegame.com', 'Leads the AI People project through Alpha release; oversees multidisciplinary teams including Unity developers, ML/LLM engineers, cloud infrastructure, and QA; applies adapted Agile methodology under creative direction.', 'position', 'general', 'Full-time', 'AI safety')  
     ,('David Castillo', 'GoodAI', 'Deep Learning Engineer', '2021-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/davidcastillobolado/', NULL, NULL, NULL, 'Full-time', 'AI safety')  
-
+    ,('Jan Feyereisl', 'GoodAI', 'Senior Research Scientist', '2016-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/feyereisl/', 'Conducts long-term AGI-oriented research at GoodAI, focusing on human-like perception, learning, interaction, and behavior generation; contributes to foundational research bridging academic rigor and applied innovation.', 'position', 'general', 'Full-time', 'AI safety') 
+    ,('Jan Feyereisl', 'GoodAI', 'Research Manager', '2019-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/feyereisl/', 'Co-directs research initiatives and manages research portfolio in collaboration with CEO/CTO; shapes strategic research direction; coordinates cross-functional research teams; ensures alignment between research objectives and executive vision. Includes roles as Program Manager for GoodAI Grants and Technical Workshop Organizer for ICLR and Badger Seminar Series.', 'position', 'general', 'Full-time', 'AI safety') 
+    ,('Jan Feyereisl', 'GoodAI', 'AI Lead', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/feyereisl/', 'Leads AI development for the AI People Game; directs cross-functional teams of AI researchers and engineers; designs and deploys advanced LLM-based architectures including planning and reasoning engines, goal-oriented systems, real-time reactive APIs, and local model optimization; provides strategic technical leadership for the AI Director product; pioneers organization-wide adoption of agentic development workflows.', 'position', 'general', 'Full-time', 'AI safety')
+ 
 
 
 
@@ -18,7 +21,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
     ,('Ege Atici', 'GoodAI', 'Senior Unity Developer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240322031452/https://www.goodai.com/about/', NULL, NULL, subject, NULL, 'AI safety') /*Reviewed on 2024-03-22*/ /*current position*/ 
-
+    ,('Joseph Davidson', 'GoodAI', 'Senior Research Scientist', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240322031452/https://www.goodai.com/about/', NULL, 'position', 'general', NULL, 'AI safety') /*Reviewed on 2024-03-22*/ /*current position*/
 
 
 
@@ -37,49 +40,15 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Dominik Čech', 'GoodAI', 'Game Designer', '2021-06-01', 'month', '2023-06-01', 'month', 'https://web.archive.org/web/20220327090940/https://www.goodai.com/about/ https://www.linkedin.com/in/dominik-%C4%8Dech-583224187/', NULL, 'position', 'general', NULL, 'AI safety') /*closed*/
     ,('Filip Hauptfleisch', 'GoodAI', 'Unity Developer', '2020-07-01', 'month', '2021-10-01', 'month', 'https://www.linkedin.com/in/filip-hauptfleisch/', NULL, 'position', 'general', NULL, 'AI safety') /*closed*/
     ,('Isabeau Premont-Schwarz', 'GoodAI', 'Research Scientist', '2020-08-01', 'month', '2023-08-01', 'month', 'https://web.archive.org/web/20220327090940/https://www.goodai.com/about/ https://archive.vn/Og7Sg https://www.linkedin.com/in/isabeau-pr%C3%A9mont-schwarz/', NULL, 'position', 'general', NULL, 'AI safety') /*closed*/
-    ,('Jan Feyereisl', 'GoodAI', 'Senior Research Scientist', '2016-02-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220327090940/https://www.goodai.com/about/ https://archive.vn/Og7Sg https://www.linkedin.com/in/feyereisl https://web.archive.org/web/20240322031452/https://www.goodai.com/about/', 'Also a Challenge Ambassador of the General AI Challenge and the Executive Director of the AI Roadmap Institute, two initiatives by GoodAI.', 'position', 'general', NULL, 'AI safety') /*Reviewed on 2024-03-22*/ /*current position*/ 
-
-
-    ,('Jan Feyereisl', 'GoodAI', 'Senior Research Scientist', '2016-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/feyereisl/', 'Conducts long-term AGI-oriented research at GoodAI, focusing on human-like perception, learning, interaction, and behavior generation; contributes to foundational research bridging academic rigor and applied innovation.', 'position', 'general', 'Full-time', 'AI safety')
-/*Reviewed on 2025-12-18*/ /*current position*/
-
-,('Jan Feyereisl', 'GoodAI', 'Research Manager', '2019-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/feyereisl/', 'Co-directs research initiatives and manages research portfolio in collaboration with CEO/CTO; shapes strategic research direction; coordinates cross-functional research teams; ensures alignment between research objectives and executive vision. Includes roles as Program Manager for GoodAI Grants and Technical Workshop Organizer for ICLR and Badger Seminar Series.', 'position', 'general', 'Full-time', 'AI safety')
-/*Reviewed on 2025-12-18*/ /*current position*/
-
-,('Jan Feyereisl', 'GoodAI', 'AI Lead', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/feyereisl/', 'Leads AI development for the AI People Game; directs cross-functional teams of AI researchers and engineers; designs and deploys advanced LLM-based architectures including planning and reasoning engines, goal-oriented systems, real-time reactive APIs, and local model optimization; provides strategic technical leadership for the AI Director product; pioneers organization-wide adoption of agentic development workflows.', 'position', 'general', 'Full-time', 'AI safety')
-/*Reviewed on 2025-12-18*/ /*current position*/
-
-,('Jan Feyereisl', 'GoodAI', 'R&D Lead (Applied AI)', '2016-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/feyereisl/', 'Led applied AI research and development initiatives, including Skoda automotive AI projects; coordinated technical delivery and managed external stakeholder relationships within GoodAI Applied.', 'position', 'general', 'Full-time', 'AI safety')
-/*Reviewed on 2025-12-18*/ /*current position*/
-
-
-
-
-
-
     ,('Jan Štafa', 'GoodAI', 'Software Engineer', '2019-09-01', 'month', '2023-05-01', 'month', 'https://web.archive.org/web/20220327090940/https://www.goodai.com/about/ https://www.linkedin.com/in/jan-%C5%A1tafa-4b9719162/', NULL, 'position', 'general', NULL, 'AI safety')/*closed*/
-
     ,('Jose Solorzano', 'GoodAI', 'Deep Learning Engineer', '2021-10-01', 'month', '2024-02-01', 'month', 'https://www.linkedin.com/in/jose-solorzano-7913381/', NULL, 'position', 'general', 'contractor', 'AI safety') /*closed*/
-    ,('Joseph Davidson', 'GoodAI', 'Senior Research Scientist', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240322031452/https://www.goodai.com/about/', NULL, 'position', 'general', NULL, 'AI safety') /*Reviewed on 2024-03-22*/ /*current position*/
-    ,('Karolína H.', 'GoodAI', 'Internal Recruiter', '2022-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/karol%C3%ADna-h-12039560/', NULL, 'position', 'general', 'Intern', 'AI safety') /*Reviewed on 2024-03-22*/ /*current position*/
+
     ,('Lucia Šicková', 'GoodAI', 'Advisor', '2020-12-04', 'year', NULL, NULL, 'https://web.archive.org/web/20201204051213/https://www.goodai.com/about/ https://web.archive.org/web/20240322031452/https://www.goodai.com/about/', NULL, 'position', 'general', 'advisor', 'AI safety') /*Reviewed on 2024-03-22*/ /*current position*/
     ,('Lucie Krestova', 'GoodAI', 'HR Manager', '2017-03-01', 'month', NULL, NULL, 'https://web.archive.org/web/20201204051213/https://www.goodai.com/about/ https://www.linkedin.com/in/lucie-krestova-4694738 https://web.archive.org/web/20240322031452/https://www.goodai.com/about/', NULL, 'position', 'general', NULL, 'AI safety') /*Reviewed on 2024-03-22*/ /*current position*/
     ,('Marek Havrda', 'GoodAI', 'AI Policy and Social Impact Director', '2016-12-01', 'month', '2022-01-01', 'month', 'www.linkedin.com/in/marekhavrda', 'Also a Challenge Ambassador of the General AI Challenge and a Contributer to the AI Roadmap Institute, two initatives by GoodAI.', 'position', 'general', NULL, 'AI safety') /*closed*/
-    ,('Martin Poliak', 'GoodAI', 'AI Consultant and Researcher', '2015-09-01', 'month', '2015-09-01', 'month', 'https://www.linkedin.com/in/martin-poliak-423530185/', NULL, 'position', 'general', NULL, 'AI safety') /*closed*/
-    ,('Martin Poliak', 'GoodAI', 'AI Researcher', '2015-09-01', 'month', '2019-09-01', 'month', 'https://www.linkedin.com/in/martin-poliak-423530185/', NULL, 'position', 'general', 'Full-time', 'AI safety') /*closed*/
-    ,('Martin Poliak', 'GoodAI', 'Research Manager', '2019-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/martin-poliak-423530185/ https://web.archive.org/web/20240322031452/https://www.goodai.com/about/', NULL, 'position', 'general', NULL, 'AI safety') /*Reviewed on 2024-03-22*/ /*current position*/
-
-
-    ,('Martin Poliak', 'GoodAI', 'AI Researcher', '2015-09-01', 'month', '2025-04-01', 'month', 'https://www.linkedin.com/in/martin-poliak-423530185/', NULL, 'position', 'general', 'Full-time', 'AI safety') 
-/*Reviewed on 2025-12-18*/ /*closed*/
-    ,('Martin Poliak', 'GoodAI', 'Research Manager', '2019-09-01', 'month', '2025-04-01', 'month', 'https://www.linkedin.com/in/martin-poliak-423530185/', NULL, 'position', 'general', 'Full-time', 'AI safety') 
-/*Reviewed on 2025-12-18*/ /*closed*/
-
-
-
-
-
-
+    ,('Martin Poliak', 'GoodAI', 'AI Researcher', '2015-09-01', 'month', '2025-04-01', 'month', 'https://www.linkedin.com/in/martin-poliak-423530185/', NULL, 'position', 'general', 'Full-time', 'AI safety') /*closed*/
+    ,('Martin Poliak', 'GoodAI', 'Research Manager', '2019-09-01', 'month', '2025-04-01', 'month','https://www.linkedin.com/in/martin-poliak-423530185/',NULL, 'position', 'general', 'Full-time', 'AI safety')
+ /*closed*/
     ,('Michal Dvořák', 'GoodAI', 'AI/ML Engineer', '2019-03-01', 'month', '2021-04-01', 'month', 'https://www.linkedin.com/in/michal-dvo%C5%99%C3%A1k-33093b25/', NULL, 'position', 'general', NULL, 'AI safety')	 /*closed*/
     ,('Nicholas Guttenberg', 'GoodAI', 'Senior Research Scientist', '2020-12-01', 'month', '2022-02-01', 'month', 'https://archive.vn/Og7Sg#selection-545.0-545.19 https://www.linkedin.com/in/nicholas-guttenberg-92265046/', NULL, 'position', 'general', 'Contractor', 'AI safety') /*closed*/
 
