@@ -13,26 +13,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jan Feyereisl', 'GoodAI', 'AI Lead', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/feyereisl/', 'Leads AI development for the AI People Game; directs cross-functional teams of AI researchers and engineers; designs and deploys advanced LLM-based architectures including planning and reasoning engines, goal-oriented systems, real-time reactive APIs, and local model optimization; provides strategic technical leadership for the AI Director product; pioneers organization-wide adoption of agentic development workflows.', 'position', 'general', 'Full-time', 'AI safety')
     ,('Šárka Krejčová', 'GoodAI', 'HR Manager', '2025-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sarkakrejcova/', NULL, 'position', 'general', 'Full-time', 'AI safety')  
     ,('Stephanie Wendler', 'GoodAI', 'Research Administrator', '2021-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20220327090940/https://www.goodai.com/about/ https://www.linkedin.com/in/stephanie-wendler-00261249/', NULL, 'position', 'general', 'contractor', 'AI safety')  
-
-
-
-
-
-
-
-
-
-    ,('Ege Atici', 'GoodAI', 'Senior Unity Developer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240322031452/https://www.goodai.com/about/', NULL, NULL, subject, NULL, 'AI safety') /*Reviewed on 2024-03-22*/ /*current position*/ 
-    ,('Joseph Davidson', 'GoodAI', 'Senior Research Scientist', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240322031452/https://www.goodai.com/about/', NULL, 'position', 'general', NULL, 'AI safety') /*Reviewed on 2024-03-22*/ /*current position*/
-    ,('Šimon Šicko', 'GoodAI', 'Advisor', '2020-12-04', 'year', NULL, NULL, 'https://web.archive.org/web/20201204051213/https://www.goodai.com/about/ https://web.archive.org/web/20240322031452/https://www.goodai.com/about/', NULL, 'position', 'general', 'advisor', 'AI safety')  /*Reviewed on 2024-03-22*/ /*current position*/ 
-    ,('Lucia Šicková', 'GoodAI', 'Advisor', '2020-12-04', 'year', NULL, NULL, 'https://web.archive.org/web/20201204051213/https://www.goodai.com/about/ https://web.archive.org/web/20240322031452/https://www.goodai.com/about/', NULL, 'position', 'general', 'advisor', 'AI safety') /*Reviewed on 2024-03-22*/ /*current position*/
-    ,('Shantesh Patil', 'GoodAI', 'Senior Game Designer', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20240322031452/https://www.goodai.com/about/', NULL, 'position', 'general', NULL, 'AI safety') /*Reviewed on 2024-03-22*/ /*current position*/ 
-
-
-
-
-
-
+    ,('Joseph Davidson', 'GoodAI', 'Senior Research Scientist', '2025-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joseph-davidson-819971361/', NULL, 'position', 'general', NULL, 'AI safety') 
 
 /*..................................................................Closed positions below................................................................*/
 
@@ -58,3 +39,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Steffen Eichler', 'GoodAI', 'Unity Developer', '2020-10-01', 'month', '2021-07-01', 'month', 'https://archive.vn/Og7Sg https://www.linkedin.com/in/steffen-eichler-065919199/', NULL, 'position', 'general', 'Full-time', 'AI safety')/*closed*/
     ,('Viktorie Knezkova', 'GoodAI', 'Tech Recruiter', '2020-10-01', 'month', '2021-03-01', NULL, 'https://www.linkedin.com/in/knezkova/', NULL, 'position', 'general', 'Part-time', 'AI safety') /*closed*/
     ,('Will Millership', 'GoodAI', 'PR Manager', '2017-08-01', 'month', '2021-09-18', 'month', 'https://archive.vn/Og7Sg https://www.linkedin.com/in/will-millership-98393b58 https://web.archive.org/web/20210918075415/https://www.goodai.com/about/', NULL, 'position', 'general', NULL, 'AI safety') /*closed*/
+    ,('Ege Atici', 'GoodAI', 'Senior Unity Developer', '2023-07-01', 'month', '2025-07-01', 'month', 'https://web.archive.org/web/20240322031452/https://www.goodai.com/about/ https://www.linkedin.com/in/egeege/?originalSubdomain=tr', NULL, NULL, subject, NULL, 'AI safety') /*closed*/   
+    ,('Šimon Šicko', 'GoodAI', 'Advisor', '2020-12-04', 'year', '2025-09-11', 'year', 'https://web.archive.org/web/20201204051213/https://www.goodai.com/about/ https://web.archive.org/web/20250911204334/https://www.goodai.com/about/', NULL, 'position', 'general', 'advisor', 'AI safety') /*closed*/     
+    ,('Shantesh Patil', 'GoodAI', 'Senior Game Designer', '2024-03-22', NULL, '2025-04-07', 'year', 'https://web.archive.org/web/20240322031452/https://www.goodai.com/about/ https://web.archive.org/web/20250407084255/https://www.goodai.com/about/', NULL, 'position', 'general', NULL, 'AI safety') /*closed*/      
+    ,('Lucia Šicková', 'GoodAI', 'Advisor', '2020-12-04', 'year', '2025-09-11', 'year', 'https://web.archive.org/web/20201204051213/https://www.goodai.com/about/ https://web.archive.org/web/20250911204334/https://www.goodai.com/about/', NULL, 'position', 'general', 'advisor', 'AI safety')  /*closed*/    
