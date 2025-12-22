@@ -24,7 +24,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
     ,('Diane Coyle','Google DeepMind','DeepMind Ethics & Society Fellow',NULL,NULL,NULL,NULL,'https://deepmind.com/applied/deepmind-ethics-society/fellows/',NULL,NULL,NULL,NULL,'AI safety')
  
-    ,('Durk Kingma', 'Google DeepMind', 'Research Scientist, Google Brain / DeepMind', '2018-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/durk-kingma-58b3564/', NULL, NULL, NULL, NULL,'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/
+
     ,('Edward W. Felten','Google DeepMind','DeepMind Ethics & Society Fellow',NULL,NULL,NULL,NULL,'https://deepmind.com/applied/deepmind-ethics-society/fellows/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Gagan Bansal', 'Google DeepMind', 'Senior Staff Software Engineer', '2017-07-01', 'month', NULL, NULL, 'https://www.signalhire.com/profiles/gagan-bansal%27s-email/1767153', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/
     ,('Gargi Balasubramaniam', 'Google DeepMind', 'Research Engineer', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/bgargi/', NULL, NULL, NULL, NULL,  'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/
@@ -142,3 +142,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('David Stutz', 'Google DeepMind', 'Senior Research Scientist', '2023-11-01', 'month', '2025-10-01', 'month', 'https://www.linkedin.com/in/davidstutz92/', 'London, England, United Kingdom', NULL, NULL, 'Full-time', 'AI safety')  /*closed*/
     ,('David Stutz', 'Google DeepMind', 'Research Scientist', '2022-04-01', 'month', '2023-10-01', 'month', 'https://www.linkedin.com/in/davidstutz92/', 'London, England, United Kingdom', NULL, NULL, 'Full-time', 'AI safety')  /*closed*/
     ,('Dmitry Nikulin', 'Google DeepMind', 'Research Engineer', '2022-10-01', 'month', '2024-10-01', 'month', 'https://www.linkedin.com/in/dniku/', 'London, England, United Kingdom', NULL, NULL, 'Full-time', 'AI safety') /*closed*/
+    ,('Durk Kingma', 'Google DeepMind', 'Research Scientist, Google Brain / DeepMind', '2018-07-01', 'month', '2024-10-01', 'month', 'https://www.linkedin.com/in/durk-kingma-58b3564/', NULL, NULL, NULL, NULL,'AI safety')/*closed*/
