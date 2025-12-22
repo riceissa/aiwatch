@@ -15,6 +15,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
+    ,('Blanca Huergo', 'Google DeepMind', 'Senior Research Engineer (L5)', '2025-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/blanca-huergo/', 'London, England, United Kingdom', NULL, NULL, 'Full-time', NULL) /*Reviewed on 2025-12-22*/
 
 
 
@@ -22,8 +23,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
-    ,('Behnam Neyshabur', 'Google DeepMind', 'Senior Staff Research Scientist & Team Lead', '2019-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/bneyshabur/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/
-    ,('Blanca Huergo', 'Google DeepMind', 'Research Engineer', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/blanca-huergo/', NULL, NULL, NULL, 'Full-time', 'AI safety')/*Reviewed on 2024-03-27*/ /*current position*/
+ 
     ,('Christiana Figueres','Google DeepMind','DeepMind Ethics & Society Fellow',NULL,NULL,NULL,NULL,'https://deepmind.com/applied/deepmind-ethics-society/fellows/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Daniel Sohn', 'Google DeepMind', 'Staff Research Software Engineer', '2022-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jysohn23/', NULL, NULL, NULL, 'Full-time', 'AI safety')/*Reviewed on 2024-03-27*/ /*current position*/
     ,('Daniel J. Mankowitz', 'Google DeepMind', 'Research Scientist', '2018-04-01', 'month', '2020-08-01', 'month', 'https://www.linkedin.com/in/daniel-j-mankowitz-96a25a46/', NULL, NULL, NULL, 'Full-time', 'AI safety') 
@@ -125,7 +125,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Anushka Nijhawan', 'Google DeepMind', 'Data Team', '2023-05-01', 'month', '2023-08-01', 'month', 'https://www.linkedin.com/in/anushka-nijhawan-8380361b1/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
     ,('Arthur Douillard', 'Google DeepMind', 'Research Scientist', '2022-08-01', 'month', '2023-10-01', 'month', 'https://www.linkedin.com/in/arthurdouillard/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*closed*/ 
     ,('Arthur Douillard', 'Google DeepMind', 'Senior Research Scientist', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/arthurdouillard/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*closed*/
-    ,('Blanca Huergo', 'Google DeepMind', 'Research Engineer Intern', '2022-06-01', 'month', '2022-09-01', 'month', 'https://www.linkedin.com/in/blanca-huergo/', 'NULL', NULL, NULL, 'intern', 'AI safety') /*closed*/
+    ,('Blanca Huergo', 'Google DeepMind', 'Research Engineer (L4)', '2024-05-01', 'month', '2025-11-01', 'month', 'https://www.linkedin.com/in/blanca-huergo/', 'London, England, United Kingdom', NULL, NULL, 'Full-time', NULL) //*closed*/
+    ,('Blanca Huergo', 'Google DeepMind', 'Research Engineer (L3)', '2023-07-01', 'month', '2024-05-01', 'month', 'https://www.linkedin.com/in/blanca-huergo/', 'London, England, United Kingdom', NULL, NULL, 'Full-time', NULL) /*closed*/
+    ,('Blanca Huergo', 'Google DeepMind', 'Research Engineer Intern', '2022-06-01', 'month', '2022-09-01', 'month', 'https://www.linkedin.com/in/blanca-huergo/', NULL, NULL, NULL, 'Internship', NULL) /*closed*/
     ,('Zachary Gleicher', 'Google DeepMind', 'Product Manager', '2017-07-01', 'month', '2023-01-01', 'month', 'https://www.signalhire.com/profiles/zachary-gleicher%27s-email/3237', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
     ,('Pratik Joshi', 'Google DeepMind', 'Research Engineer Intern', '2022-05-01', 'month', '2022-08-01', 'month', 'https://www.linkedin.com/in/pratik-joshi-645305150/', NULL, NULL, NULL, 'Intern',  'AI safety') /*closed*/
     ,('Koray Kavukcuoglu', 'Google DeepMind', 'Research Scientist', '2012-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/koray-kavukcuoglu-0439a720/details/experience/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
@@ -143,3 +145,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Ira Ktena', 'Google DeepMind', 'Research Engineer', '2020-07-01', 'month', '2022-01-01', 'month', 'https://www.linkedin.com/in/ira-ktena-phd-12b04b58/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
     ,('Ira Ktena', 'Google DeepMind', 'Senior Research Engineer', '2022-02-01', 'month', '2023-04-01', 'month', 'https://www.linkedin.com/in/ira-ktena-phd-12b04b58/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/    
     ,('Yuzhu Dong', 'Google DeepMind', 'Software Engineer Intern', '2021-03-01', 'month', '2021-06-01', 'month', 'https://www.linkedin.com/in/yuzhudong/', NULL, NULL, NULL, 'Intern', 'AI safety') /*closed*/    
+    ,('Behnam Neyshabur', 'Google DeepMind', 'Senior Staff Research Scientist & Team Lead', '2019-06-01', 'month', '2024-12-01', 'month', 'https://www.linkedin.com/in/bneyshabur/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*closed*/   
