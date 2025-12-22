@@ -10,6 +10,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Blanca Huergo', 'Google DeepMind', 'Senior Research Engineer (L5)', '2025-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/blanca-huergo/', 'London, England, United Kingdom', NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-12-22*/
     ,('David Stutz', 'Google DeepMind', 'Staff Research Scientist', '2025-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/davidstutz92/', 'London Area, United Kingdom', NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-12-22*/
     ,('Demis Hassabis','Google DeepMind','Co-Founder and CEO','2010-09-23','day',NULL,NULL,'https://deepmind.com/about/ https://en.wikipedia.org/wiki/DeepMind https://www.linkedin.com/in/demishassabis/',NULL,NULL,NULL,NULL,'AI safety') /*Reviewed on 2025-12-22*/
+    ,('Dmitry Nikulin', 'Google DeepMind', 'Senior Research Engineer', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dniku/', 'London Area, United Kingdom', NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-12-22*/
+
 
 
 
@@ -21,7 +23,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
  
 
     ,('Diane Coyle','Google DeepMind','DeepMind Ethics & Society Fellow',NULL,NULL,NULL,NULL,'https://deepmind.com/applied/deepmind-ethics-society/fellows/',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Dmitry Nikulin', 'Google DeepMind', 'Google DeepMind', '2022-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dniku/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/ 
+ 
     ,('Durk Kingma', 'Google DeepMind', 'Research Scientist, Google Brain / DeepMind', '2018-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/durk-kingma-58b3564/', NULL, NULL, NULL, NULL,'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/
     ,('Edward W. Felten','Google DeepMind','DeepMind Ethics & Society Fellow',NULL,NULL,NULL,NULL,'https://deepmind.com/applied/deepmind-ethics-society/fellows/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Gagan Bansal', 'Google DeepMind', 'Senior Staff Software Engineer', '2017-07-01', 'month', NULL, NULL, 'https://www.signalhire.com/profiles/gagan-bansal%27s-email/1767153', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/
@@ -139,3 +141,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Daniel J. Mankowitz', 'Google DeepMind', 'Staff Research Scientist', '2022-03-01', 'month', '2024-05-01', 'month', 'https://www.linkedin.com/in/daniel-j-mankowitz-96a25a46/', NULL, NULL, NULL, 'Full-time', 'AI safety')  /*closed*/   
     ,('David Stutz', 'Google DeepMind', 'Senior Research Scientist', '2023-11-01', 'month', '2025-10-01', 'month', 'https://www.linkedin.com/in/davidstutz92/', 'London, England, United Kingdom', NULL, NULL, 'Full-time', 'AI safety')  /*closed*/
     ,('David Stutz', 'Google DeepMind', 'Research Scientist', '2022-04-01', 'month', '2023-10-01', 'month', 'https://www.linkedin.com/in/davidstutz92/', 'London, England, United Kingdom', NULL, NULL, 'Full-time', 'AI safety')  /*closed*/
+    ,('Dmitry Nikulin', 'Google DeepMind', 'Research Engineer', '2022-10-01', 'month', '2024-10-01', 'month', 'https://www.linkedin.com/in/dniku/', 'London, England, United Kingdom', NULL, NULL, 'Full-time', 'AI safety') /*closed*/
