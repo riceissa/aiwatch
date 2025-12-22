@@ -9,13 +9,17 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Been Kim', 'Google DeepMind', 'Senior Staff Research scientist', '2023-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/been-kim-73012915/', NULL, NULL, NULL, 'Full-time','AI safety') /*Reviewed on 2025-12-19*/ 
     ,('Blanca Huergo', 'Google DeepMind', 'Senior Research Engineer (L5)', '2025-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/blanca-huergo/', 'London, England, United Kingdom', NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-12-22*/
     ,('David Stutz', 'Google DeepMind', 'Staff Research Scientist', '2025-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/davidstutz92/', 'London Area, United Kingdom', NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-12-22*/
+    ,('Demis Hassabis','Google DeepMind','Co-Founder and CEO','2010-09-23','day',NULL,NULL,'https://deepmind.com/about/ https://en.wikipedia.org/wiki/DeepMind https://www.linkedin.com/in/demishassabis/',NULL,NULL,NULL,NULL,'AI safety') /*Reviewed on 2025-12-22*/
+
+
+
 
  
 
 
 
  
-    ,('Demis Hassabis','Google DeepMind','Co-Founder and CEO','2010-09-23','day',NULL,NULL,'https://deepmind.com/about/ https://en.wikipedia.org/wiki/DeepMind https://www.linkedin.com/in/demishassabis/',NULL,NULL,NULL,NULL,'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/
+
     ,('Diane Coyle','Google DeepMind','DeepMind Ethics & Society Fellow',NULL,NULL,NULL,NULL,'https://deepmind.com/applied/deepmind-ethics-society/fellows/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Dmitry Nikulin', 'Google DeepMind', 'Google DeepMind', '2022-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dniku/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/ 
     ,('Durk Kingma', 'Google DeepMind', 'Research Scientist, Google Brain / DeepMind', '2018-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/durk-kingma-58b3564/', NULL, NULL, NULL, NULL,'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/
