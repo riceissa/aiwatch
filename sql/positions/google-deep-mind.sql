@@ -11,7 +11,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('David Stutz', 'Google DeepMind', 'Staff Research Scientist', '2025-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/davidstutz92/', 'London Area, United Kingdom', NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-12-22*/
     ,('Demis Hassabis','Google DeepMind','Co-Founder and CEO','2010-09-23','day',NULL,NULL,'https://deepmind.com/about/ https://en.wikipedia.org/wiki/DeepMind https://www.linkedin.com/in/demishassabis/',NULL,NULL,NULL,NULL,'AI safety') /*Reviewed on 2025-12-22*/
     ,('Dmitry Nikulin', 'Google DeepMind', 'Senior Research Engineer', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dniku/', 'London Area, United Kingdom', NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-12-22*/
-
+    ,('Gargi Balasubramaniam', 'Google DeepMind', 'Research Engineer', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/bgargi/', NULL, NULL, NULL, NULL,  'AI safety') /*Reviewed on 2025-12-22*/
+    ,('Grace Lam', 'Google DeepMind', 'Research Engineer', '2022-09-01', 'month', '2024-05-01', 'month', 'https://www.linkedin.com/in/grace-lam/', NULL, NULL, NULL, 'Full-time',  'AI safety')  /*Reviewed on 2025-12-24*/
+    ,('Hamze M.', 'Google DeepMind', 'Google DeepMind Scholar', '2021-08-01', 'month', '2023-07-01', 'month', 'https://www.linkedin.com/in/hamze-m/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-12-24*/
+    ,('Hanie Sedghi', 'Google DeepMind', 'Staff Research Scientist', '2017-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hanie-sedghi-71bb2582/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-12-24*/
 
 
 
@@ -27,11 +30,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
     ,('Edward W. Felten','Google DeepMind','DeepMind Ethics & Society Fellow',NULL,NULL,NULL,NULL,'https://deepmind.com/applied/deepmind-ethics-society/fellows/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Gagan Bansal', 'Google DeepMind', 'Senior Staff Software Engineer', '2017-07-01', 'month', NULL, NULL, 'https://www.signalhire.com/profiles/gagan-bansal%27s-email/1767153', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/
-    ,('Gargi Balasubramaniam', 'Google DeepMind', 'Research Engineer', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/bgargi/', NULL, NULL, NULL, NULL,  'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/
     ,('Gheorghe Comanici', 'Google DeepMind', 'Research Scientist', '2018-02-01', 'month', NULL, NULL, 'https://www.signalhire.com/profiles/gheorghe-comanici%27s-email/476131', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/
-    ,('Grace Lam', 'Google DeepMind', 'Research Engineer', '2022-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/grace-lam/', NULL, NULL, NULL, 'Full-time',  'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/
-    ,('Hamze M.', 'Google DeepMind', 'Google DeepMind Scholar', '2021-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hamze-m/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/
-    ,('Hanie Sedghi', 'Google DeepMind', 'Staff Research Scientist', '2017-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/hanie-sedghi-71bb2582/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/
     ,('Ian Goodfellow', 'Google DeepMind', 'Research Scientist', '2022-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ian-goodfellow-b7187213/ https://www.signalhire.com/profiles/ian-goodfellow%27s-email/1797934', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/
     ,('Ira Ktena', 'Google DeepMind', 'Staff Research Scientist', '2023-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ira-ktena-phd-12b04b58/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/
     ,('Isabel Leal', 'Google DeepMind', 'Senior Software Engineer', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/isabel-leal/', NULL, NULL,NULL,NULL,'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/
