@@ -52,6 +52,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Yasaman Bahri', 'Google DeepMind', 'Research Scientist', '2018-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/yasamanbahri/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-12-28*/
     ,('Yayi Zou', 'Google DeepMind', 'Senior Research Engineer', '2021-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/yayi-zou-66853310b/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-12-28*/
     ,('Yonghui Wu', 'Google DeepMind', 'VP of Research, Google Fellow', '2023-09-01', 'month', '2025-02-01', 'month', 'https://www.linkedin.com/in/yonghui-wu-65bb7521/', NULL, NULL, subject, 'Full-time',  'AI safety')  /*Reviewed on 2025-12-28*/
+    ,('Zachary Gleicher', 'Google DeepMind', 'Group Product Manager', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/zachary-gleicher-88163360/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-12-28*/
+
 
 
 
@@ -82,11 +84,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
- 
 
 
-    ,('Yousuf Khan', 'Google DeepMind', 'Research Scientist', '2022-06-01', 'month', NULL, NULL, 'https://www.signalhire.com/profiles/yousuf-khan%27s-email/406338', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/ 
-    ,('Zachary Gleicher', 'Google DeepMind', 'Co-lead, Applied Product Manager', '2022-12-01', 'month', NULL,NULL, 'https://www.signalhire.com/profiles/zachary-gleicher%27s-email/3237', NULL, NULL, NULL, NULL, 'AI safety')  /*Reviewed on 2024-03-27*/ /*current position*/
+
+
+
     /*..........................................................................Closed positions below..........................................................................*/
     ,('Will Grathwohl', 'Google DeepMind', 'Research Scientist', '2021-10-01', 'month', '2023-10-01', 'month', 'https://www.linkedin.com/in/will-grathwohl-b44a383b/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
     ,('Nidhi Vyas', 'Google DeepMind', 'Product Manager (AI/ML)', '2022-12-01', 'month', '2023-10-01', 'month', 'https://www.linkedin.com/in/nidhivyas/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/ 
@@ -99,7 +101,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Anushka Nijhawan', 'Google DeepMind', 'Data Team', '2023-05-01', 'month', '2023-08-01', 'month', 'https://www.linkedin.com/in/anushka-nijhawan-8380361b1/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
     ,('Arthur Douillard', 'Google DeepMind', 'Research Scientist', '2022-08-01', 'month', '2023-10-01', 'month', 'https://www.linkedin.com/in/arthurdouillard/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*closed*/ 
     ,('Arthur Douillard', 'Google DeepMind', 'Senior Research Scientist', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/arthurdouillard/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*closed*/
-    ,('Zachary Gleicher', 'Google DeepMind', 'Product Manager', '2017-07-01', 'month', '2023-01-01', 'month', 'https://www.signalhire.com/profiles/zachary-gleicher%27s-email/3237', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
+    ,('Zachary Gleicher', 'Google DeepMind', 'Product Manager', '2017-07-01', 'month', '2023-01-01', 'month', 'https://www.signalhire.com/profiles/zachary-gleicher%27s-email/3237 https://www.linkedin.com/in/zachary-gleicher-88163360/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
+    ,('Zachary Gleicher', 'Google DeepMind', 'Co-lead, Applied Product Management', '2022-12-01', 'month', '2024-06-01', 'month', 'https://www.linkedin.com/in/zachary-gleicher-88163360/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*closed*/
     ,('Pratik Joshi', 'Google DeepMind', 'Research Engineer Intern', '2022-05-01', 'month', '2022-08-01', 'month', 'https://www.linkedin.com/in/pratik-joshi-645305150/', NULL, NULL, NULL, 'Intern',  'AI safety') /*closed*/
     ,('Koray Kavukcuoglu', 'Google DeepMind', 'Research Scientist', '2012-11-01', 'month', '2018-03-01', 'month', 'https://www.linkedin.com/in/korayk/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*closed*/
     ,('Koray Kavukcuoglu', 'Google DeepMind', 'Director of Research', '2018-03-01', 'month', '2019-03-01', 'month', 'https://www.linkedin.com/in/korayk/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*closed*/
@@ -154,3 +157,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Will Grathwohl', 'Google DeepMind', 'Research Scientist', '2021-10-01', 'month', '2023-10-01', 'month', 'https://www.linkedin.com/in/will-grathwohl-b44a383b/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*closed*/ 
     ,('Wilfried L. Bounsi', 'Google DeepMind', 'Research Engineer', '2022-11-01', 'month', '2025-10-01', 'month', 'https://www.linkedin.com/in/wilcoln/', NULL, NULL, NULL, 'Full-time', 'AI safety')/*closed*/   
     ,('Yuzhu Dong', 'Google DeepMind', 'Research Engineer', '2021-08-01', 'month', '2024-08-01', 'month', 'https://www.linkedin.com/in/yuzhudong/', NULL, NULL, subject, 'Full-time', 'AI safety') /*closed*/  
+    ,('Yousuf Khan', 'Google DeepMind', 'Research Scientist', '2022-06-01', 'month', '2022-09-01', 'month', 'https://www.signalhire.com/profiles/yousuf-khan%27s-email/406338 https://www.linkedin.com/in/yousuf-a-khan-ba7782103/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/    
