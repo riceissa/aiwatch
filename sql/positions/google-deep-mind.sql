@@ -53,34 +53,36 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Yayi Zou', 'Google DeepMind', 'Senior Research Engineer', '2021-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/yayi-zou-66853310b/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-12-28*/
     ,('Yonghui Wu', 'Google DeepMind', 'VP of Research, Google Fellow', '2023-09-01', 'month', '2025-02-01', 'month', 'https://www.linkedin.com/in/yonghui-wu-65bb7521/', NULL, NULL, subject, 'Full-time',  'AI safety')  /*Reviewed on 2025-12-28*/
     ,('Zachary Gleicher', 'Google DeepMind', 'Group Product Manager', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/zachary-gleicher-88163360/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-12-28*/
+    ,('Gagan Bansal', 'Google DeepMind', 'Research Engineering Manager | Senior Staff Research Engineer, Gemini Data and Evals', '2017-07-01', 'month', NULL, NULL, 'https://www.signalhire.com/profiles/gagan-bansal%27s-email/1767153 https://www.linkedin.com/in/gaganbansal/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2025-12-28*/
+    ,('Gheorghe Comanici', 'Google DeepMind', 'Research Scientist', '2018-02-01', 'month', NULL, NULL, 'https://www.signalhire.com/profiles/gheorghe-comanici%27s-email/476131 https://www.linkedin.com/in/gheorghe-comanici-b26819103/', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2025-12-28*/
+    ,('Jennifer She', 'Google DeepMind', 'Senior Research Engineer', '2024-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jennifer-she-6a395292/', NULL, NULL, NULL, 'Full-time', 'AI safety')
+    //*Reviewed on 2025-12-28*/
+    ,('Victoria Krakovna', 'Google DeepMind', 'Senior Research Scientist', '2020-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/vkrakovna/', NULL, NULL, NULL, 'Full-time', 'AI safety')  /*Reviewed on 2025-12-29*/
+    ,('Laurel Wagstaff', 'Google DeepMind', 'Program Manager', '2017-07-01', 'month', NULL, NULL, 'https://www.signalhire.com/profiles/laurel-wagstaff%27s-email/1787820 https://www.linkedin.com/in/laurel-wagstaff-49b3992a/', NULL, NULL, NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-12-28*/
+    ,('Mustafa Suleyman','Google DeepMind','Co-Founder and Head of Applied AI','2010-09-23','day',NULL,NULL,'https://deepmind.com/about/ https://en.wikipedia.org/wiki/DeepMind',NULL,NULL,NULL,NULL,'AI safety')/*Reviewed on 2025-12-28*/
+    ,('Nick Bostrom','Google DeepMind','DeepMind Ethics & Society Fellow','2017-10-04','month',NULL,NULL,'https://www.theguardian.com/technology/2017/oct/04/google-deepmind-ai-artificial-intelligence-ethics-group-problems https://deepmind.com/applied/deepmind-ethics-society/fellows/',NULL,NULL,NULL,'Advisor','AI safety')
+    ,('Paige Bailey', 'Google DeepMind', 'AI Developer Relations Lead', '2024-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dynamicwebpaige/', NULL, NULL, NULL, 'Full-time', 'AI safety')/*Reviewed on 2025-12-28*/
+
+
+
+
+ 
 
 
 
 
 
-
-
-
-
-
-    ,('Diane Coyle','Google DeepMind','DeepMind Ethics & Society Fellow',NULL,NULL,NULL,NULL,'https://deepmind.com/applied/deepmind-ethics-society/fellows/',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Edward W. Felten','Google DeepMind','DeepMind Ethics & Society Fellow',NULL,NULL,NULL,NULL,'https://deepmind.com/applied/deepmind-ethics-society/fellows/',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Gagan Bansal', 'Google DeepMind', 'Senior Staff Software Engineer', '2017-07-01', 'month', NULL, NULL, 'https://www.signalhire.com/profiles/gagan-bansal%27s-email/1767153', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/
-    ,('Gheorghe Comanici', 'Google DeepMind', 'Research Scientist', '2018-02-01', 'month', NULL, NULL, 'https://www.signalhire.com/profiles/gheorghe-comanici%27s-email/476131', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/
-    ,('James Manyika','Google DeepMind','DeepMind Ethics & Society Fellow',NULL,NULL,NULL,NULL,'https://deepmind.com/applied/deepmind-ethics-society/fellows/',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Jan Leike','Google DeepMind',NULL,NULL,NULL,NULL,NULL,'https://arxiv.org/pdf/1706.03741.pdf https://arxiv.org/pdf/1711.09883.pdf',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Jeffrey D. Sachs','Google DeepMind','DeepMind Ethics & Society Fellow',NULL,NULL,NULL,NULL,'https://deepmind.com/applied/deepmind-ethics-society/fellows/',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Jennifer She', 'Google DeepMind', 'Research Engineer', '2020-07-01', 'month', NULL, NULL, 'https://www.signalhire.com/profiles/jennifer-she%27s-email/459237', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/
-    ,('Laurel Wagstaff', 'Google DeepMind', 'Program Manager', '2017-07-01', 'month', NULL, NULL, 'https://www.signalhire.com/profiles/laurel-wagstaff%27s-email/1787820', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/
-    ,('Mustafa Suleyman','Google DeepMind','Co-Founder and Head of Applied AI','2010-09-23','day',NULL,NULL,'https://deepmind.com/about/ https://en.wikipedia.org/wiki/DeepMind',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Nick Bostrom','Google DeepMind','DeepMind Ethics & Society Fellow',NULL,NULL,NULL,NULL,'https://deepmind.com/applied/deepmind-ethics-society/fellows/',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Paige Bailey', 'Google DeepMind', 'Lead Product Manager', '2022-06-01', 'month', NULL, NULL, 'https://www.signalhire.com/profiles/paige-bailey%27s-email/1780469', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed on 2024-03-27*/ /*current position*/
+ 
     ,('Qiaochu Yuan','University of California, Berkeley','Graduate student',NULL,NULL,NULL,NULL,'https://intelligence.org/workshops/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Sean Legassick','Google DeepMind','Head of DeepMind Ethics & Society','2017-10-04','day',NULL,NULL,'https://www.wired.co.uk/article/deepmind-ethics-and-society-artificial-intelligence https://www.theverge.com/2017/10/4/16417978/deepmind-ai-ethics-society-research-group',NULL,NULL,NULL,NULL,'AI safety')
     ,('Shane Legg','Google DeepMind','Co-Founder and Chief Scientist','2010-09-23','day',NULL,NULL,'https://deepmind.com/about/ https://en.wikipedia.org/wiki/DeepMind https://arxiv.org/pdf/1706.03741.pdf https://arxiv.org/pdf/1711.09883.pdf https://arxiv.org/pdf/1705.08417.pdf',NULL,NULL,NULL,NULL,'AI safety')
     ,('Verity Harding','Google DeepMind','Head of DeepMind Ethics & Society','2017-10-04','day',NULL,NULL,'https://www.wired.co.uk/article/deepmind-ethics-and-society-artificial-intelligence https://www.theverge.com/2017/10/4/16417978/deepmind-ai-ethics-society-research-group',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Victoria Krakovna','Google DeepMind','Research Scientist',NULL,NULL,NULL,NULL,'http://www.aiandsociety.org/en/vikakrakovna/ https://arxiv.org/pdf/1711.09883.pdf https://arxiv.org/pdf/1705.08417.pdf',NULL,NULL,NULL,NULL,'AI safety')
  
+
+
+
+
+
 
 
 
@@ -158,3 +160,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Wilfried L. Bounsi', 'Google DeepMind', 'Research Engineer', '2022-11-01', 'month', '2025-10-01', 'month', 'https://www.linkedin.com/in/wilcoln/', NULL, NULL, NULL, 'Full-time', 'AI safety')/*closed*/   
     ,('Yuzhu Dong', 'Google DeepMind', 'Research Engineer', '2021-08-01', 'month', '2024-08-01', 'month', 'https://www.linkedin.com/in/yuzhudong/', NULL, NULL, subject, 'Full-time', 'AI safety') /*closed*/  
     ,('Yousuf Khan', 'Google DeepMind', 'Research Scientist', '2022-06-01', 'month', '2022-09-01', 'month', 'https://www.signalhire.com/profiles/yousuf-khan%27s-email/406338 https://www.linkedin.com/in/yousuf-a-khan-ba7782103/', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/    
+    ,('Jennifer She', 'Google DeepMind', 'Research Engineer', '2020-07-01', 'month', '2024-04-01', 'month', 'https://www.linkedin.com/in/jennifer-she-6a395292/', NULL, NULL, NULL, 'Full-time', 'AI safety')
+  /*closed*/  
+    ,('Victoria Krakovna', 'Google DeepMind', 'Research Scientist', '2016-11-01', 'month', '2020-10-01', 'month', 'http://www.aiandsociety.org/en/vikakrakovna/ https://arxiv.org/pdf/1711.09883.pdf https://arxiv.org/pdf/1705.08417.pdf https://www.linkedin.com/in/vkrakovna/', NULL, NULL, NULL, 'Full-time', 'AI safety')/*closed*/
+    ,('Paige Bailey', 'Google DeepMind', 'Lead Product Manager (Generative Models)', '2022-06-01', 'month', '2024-05-01', 'month', 'https://www.signalhire.com/profiles/paige-bailey%27s-email/1780469 https://www.linkedin.com/in/dynamicwebpaige/', NULL, NULL, NULL, 'Full-time', 'AI safety')/*closed*/
