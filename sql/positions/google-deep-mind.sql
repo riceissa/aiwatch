@@ -66,6 +66,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     /*Reviewed on 2025-12-24*/
     ,('Metin Toksoz', 'Google DeepMind', 'Emerging Evaluations Manager, GDM Responsibility', '2024-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/metinte/', NULL, NULL, NULL, 'Full-time', 'AI safety')
     /*Reviewed on 2025-12-24*/
+    ,('Sebastian Farquhar', 'Google DeepMind', 'Staff Research Scientist', '2022-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sebastianfarquhar/', NULL, NULL, NULL, 'Full-time', 'AI safety')
+    /*Reviewed on 2025-12-24*/
 
 
  
