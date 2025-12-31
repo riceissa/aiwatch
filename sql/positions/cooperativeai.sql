@@ -2,14 +2,15 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
     ,('Cecilia Elena Tilli', 'Cooperative AI Foundation', 'Associate Director (Research & Grants)', '2025-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cecilia-elena-tilli-8a6890a4/ https://web.archive.org/web/20251230204218/https://www.cooperativeai.com/foundation', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-12-30*/
+    ,('Usman Anwar', 'Cooperative AI Foundation', 'Research Analyst', '2025-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/uzman-anwar/ https://web.archive.org/web/20251230204218/https://www.cooperativeai.com/foundation', NULL, NULL, NULL, 'Part-time', 'AI safety')    /*Last consulted Wayback snapshot is from 2025-12-30*/
 
     
     
 
 
 
-    
-     ('Akbir Khan', 'Cooperative AI Foundation', 'Research Analyst', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/akbir/ https://web.archive.org/web/20240422231207/https://www.cooperativeai.com/foundation', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-04-22*/ /*current position*/
+
+    ,('Akbir Khan', 'Cooperative AI Foundation', 'Research Analyst', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/akbir/ https://web.archive.org/web/20240422231207/https://www.cooperativeai.com/foundation', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-04-22*/ /*current position*/
     ,('Allan Dafoe', 'Cooperative AI Foundation', 'Trustee', '2021-05-05', 'year', NULL, NULL, 'https://web.archive.org/web/20210505150134/https://www.cooperativeai.com/foundation https://web.archive.org/web/20240422231207/https://www.cooperativeai.com/foundation', NULL, 'board member', 'AI safety') /*Reviewed on 2024-04-22*/ /*current position*/
     ,('Amrit Sidhu-Brar', 'Cooperative AI Foundation', 'Operations Manager', NULL, NULL, '2022-05-09', 'month', 'https://web.archive.org/web/20220509104016/https://www.cooperativeai.com/foundation', NULL, NULL, 'AI safety') /*closed*/
     ,('Amrit Sidhu-Brar', 'Cooperative AI Foundation', 'Operations Associate', '2022-06-16', 'month', '2022-11-15', 'year', 'https://web.archive.org/web/20220616134020/https://www.cooperativeai.com/foundation https://web.archive.org/web/20221115031446/https://www.cooperativeai.com/foundation', NULL, NULL, 'AI safety') /*closed*/
