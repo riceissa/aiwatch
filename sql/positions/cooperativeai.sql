@@ -1,8 +1,8 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
 
 
-    ,('Cecilia Elena Tilli', 'Cooperative AI Foundation', 'Associate Director (Research & Grants)', '2025-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cecilia-elena-tilli-8a6890a4/ https://web.archive.org/web/20251230204218/https://www.cooperativeai.com/foundation', NULL, NULL, NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-12-30*/
-    ,('Usman Anwar', 'Cooperative AI Foundation', 'Research Analyst', '2025-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/uzman-anwar/ https://web.archive.org/web/20251230204218/https://www.cooperativeai.com/foundation', NULL, NULL, NULL, 'Part-time', 'AI safety')    /*Last consulted Wayback snapshot is from 2025-12-30*/
+     ('Cecilia Elena Tilli', 'Cooperative AI Foundation', 'Associate Director (Research & Grants)', '2025-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cecilia-elena-tilli-8a6890a4/ https://web.archive.org/web/20251230204218/https://www.cooperativeai.com/foundation', NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-12-30*/
+    ,('Usman Anwar', 'Cooperative AI Foundation', 'Research Analyst', '2025-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/uzman-anwar/ https://web.archive.org/web/20251230204218/https://www.cooperativeai.com/foundation', NULL, 'Part-time', 'AI safety')    /*Last consulted Wayback snapshot is from 2025-12-30*/
 
     
     
@@ -29,4 +29,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Vincent Conitzer', 'Cooperative AI Foundation', 'Advisor', '2022-04-17', 'month', NULL, NULL, 'https://web.archive.org/web/20220417085005/https://www.cooperativeai.com/foundation https://web.archive.org/web/20240422231207/https://www.cooperativeai.com/foundation', 'Professor at Carnegie Mellon University and Professor at University of Oxford', 'advisor', 'AI safety') /*Reviewed on 2024-04-22*/ /*current position*/
 
 /*...............................................................................Closed positions below...................................................................................*/
-    ,('Cecilia Elena Tilli', 'Cooperative AI Foundation', 'Program Manager', '2023-05-01', 'month', '2025-03-01', 'month', 'https://web.archive.org/web/20240422231207/https://www.cooperativeai.com/foundation https://www.linkedin.com/in/cecilia-elena-tilli-8a6890a4/', NULL, NULL, NULL, NULL, 'AI safety')  /*closed*/
+    ,('Cecilia Elena Tilli', 'Cooperative AI Foundation', 'Program Manager', '2023-05-01', 'month', '2025-03-01', 'month', 'https://web.archive.org/web/20240422231207/https://www.cooperativeai.com/foundation https://www.linkedin.com/in/cecilia-elena-tilli-8a6890a4/', NULL, NULL, 'AI safety')  /*closed*/
