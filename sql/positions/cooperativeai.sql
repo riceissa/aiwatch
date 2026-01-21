@@ -3,9 +3,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
      ('Cecilia Elena Tilli', 'Cooperative AI Foundation', 'Associate Director (Research & Grants)', '2025-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cecilia-elena-tilli-8a6890a4/ https://web.archive.org/web/20251230204218/https://www.cooperativeai.com/foundation', NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-12-30*/
     ,('Usman Anwar', 'Cooperative AI Foundation', 'Research Analyst', '2025-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/uzman-anwar/ https://web.archive.org/web/20251230204218/https://www.cooperativeai.com/foundation', NULL, 'Part-time', 'AI safety')    /*Last consulted Wayback snapshot is from 2025-12-30*/
+    ,('Lewis Hammond', 'Cooperative AI Foundation', 'Research Director', '2023-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lrhammond/ https://web.archive.org/web/20240422231207/https://www.cooperativeai.com/foundation', NULL, NULL, 'AI safety')  /*Last consulted Wayback snapshot is from 2025-12-30*/
+    ,('Joss Oliver', 'Cooperative AI Foundation', 'Research Analyst', '2025-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joss-oliver-3a49a42b1/ https://web.archive.org/web/20251230204218/https://www.cooperativeai.com/foundation', NULL, 'Full-time', 'AI safety')   /*Last consulted Wayback snapshot is from 2025-12-30*/
 
     
-    
+
+ 
 
 
 
@@ -21,7 +24,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Gillian Hadfield', 'Cooperative AI Foundation', 'Trustee', '2021-05-05', 'year', NULL, NULL, 'https://web.archive.org/web/20210505150134/https://www.cooperativeai.com/foundation https://web.archive.org/web/20220610165957/https://www.cooperativeai.com/foundation', NULL, 'board member', 'AI safety') /*Reviewed on 2024-04-22*/ /*current position*/
     ,('Jesse Clifton', 'Cooperative AI Foundation', 'Research Analyst', '2021-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jesse-clifton-45652758/ https://web.archive.org/web/20240422231207/https://www.cooperativeai.com/foundation', NULL, 'Part-time', 'AI safety') /*Reviewed on 2024-04-22*/ /*current position*/
     ,('Lewis Hammond', 'Cooperative AI Foundation', 'Acting Executive Director', '2022-01-01', 'month', '2023-11-01', 'month', 'https://www.linkedin.com/in/lrhammond/ https://web.archive.org/web/20220417085005/https://www.cooperativeai.com/foundation', NULL, 'part-time', 'AI safety') /*closed*/
-    ,('Lewis Hammond', 'Cooperative AI Foundation', 'Research Director', '2023-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lrhammond/ https://web.archive.org/web/20240422231207/https://www.cooperativeai.com/foundation', NULL, NULL, 'AI safety') /*Reviewed on 2024-04-22*/ /*current position*/
+
     ,('Michelle Virgo', 'Cooperative AI Foundation', 'People and Operations Manager', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/michellevirgo/ https://web.archive.org/web/20240422231207/https://www.cooperativeai.com/foundation', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-04-22*/ /*current position*/
     ,('Natasha Jaques', 'Cooperative AI Foundation', 'Advisor', '2024-04-22', 'year', NULL, NULL, 'https://web.archive.org/web/20240422231207/https://www.cooperativeai.com/foundation', NULL, 'advisor',  'AI safety') /*Reviewed on 2024-04-22*/ /*current position*/
     ,('Rebecca Eddington', 'Cooperative AI Foundation', 'Program Administrator', '2024-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rebecca-eddington-0a6705190/ https://web.archive.org/web/20240422231207/https://www.cooperativeai.com/foundation', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-04-22*/ /*current position*/
