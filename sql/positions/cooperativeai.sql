@@ -7,8 +7,15 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Joss Oliver', 'Cooperative AI Foundation', 'Research Analyst', '2025-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joss-oliver-3a49a42b1/ https://web.archive.org/web/20251230204218/https://www.cooperativeai.com/foundation', NULL, 'Full-time', 'AI safety')   /*Last consulted Wayback snapshot is from 2025-12-30*/
     ,('David Norman', 'Cooperative AI Foundation', 'Managing Director', '2023-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/davidnorman8/ https://web.archive.org/web/20251230204218/https://www.cooperativeai.com/foundation', NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-12-30*/
     ,('Michelle Virgo', 'Cooperative AI Foundation', 'People and Operations Manager', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/michellevirgo/ https://web.archive.org/web/20251230204218/https://www.cooperativeai.com/foundation', NULL, 'Full-time', 'AI safety')   /*Last consulted Wayback snapshot is from 2025-12-30*/
+    ,('Natalia Fernandez Ashman', 'Cooperative AI Foundation', 'Communications Officer', '2025-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nataliafernandezashman/ https://web.archive.org/web/20251230204218/https://www.cooperativeai.com/foundation', NULL, 'Full-time', 'AI safety') /*Last consulted Wayback snapshot is from 2025-12-30*/
+    ,('Marta Bieńkiewicz', 'Cooperative AI Foundation', 'Policy and Partnerships Manager', '2024-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/marta-bienkiewicz/ https://web.archive.org/web/20251230204218/https://www.cooperativeai.com/foundation', NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-12-30*/
+    ,('Chandler Smith', 'Cooperative AI Foundation', 'Research Engineer', '2024-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/chandlerdsmith/ https://web.archive.org/web/20251230204218/https://www.cooperativeai.com/foundation', NULL, 'Full-time', 'AI safety') /*Last consulted Wayback snapshot is from 2025-12-30*/
+    ,('Goda Mockute', 'Cooperative AI Foundation', 'Programme Manager', '2026-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mockutegoda/ https://web.archive.org/web/20251230204218/https://www.cooperativeai.com/foundation', NULL, NULL, 'AI safety') /*Last consulted Wayback snapshot is from 2025-12-30*/
 
- 
+
+
+
+
 
 
 
@@ -29,3 +36,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 /*...............................................................................Closed positions below...................................................................................*/
     ,('Cecilia Elena Tilli', 'Cooperative AI Foundation', 'Program Manager', '2023-05-01', 'month', '2025-03-01', 'month', 'https://web.archive.org/web/20240422231207/https://www.cooperativeai.com/foundation https://www.linkedin.com/in/cecilia-elena-tilli-8a6890a4/', NULL, NULL, 'AI safety')  /*closed*/
+    ,('Goda Mockute', 'Cooperative AI Foundation', 'Community Manager', '2025-03-01', 'month', '2025-12-01', 'month', 'https://www.linkedin.com/in/mockutegoda/ https://web.archive.org/web/20251230204218/https://www.cooperativeai.com/foundation', NULL, NULL, 'AI safety') /*closed*/    
