@@ -1,9 +1,18 @@
 # Automated add from scripts/open_phil_proc.py
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
 /*.....................Leadership.......................*/
-      ('Alexander Berger', 'Coefficient Giving', 'CEO', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alexander-berger-58906098/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
-    ,('Cari Tuna','Coefficient Giving','Chair','2025-02-28','month',NULL, NULL,'https://web.archive.org/web/20250228154530/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
-    ,('Emily Oehlsen', 'Coefficient Giving', 'President', '2025-02-28', NULL, NULL, 'month', 'https://web.archive.org/web/20250228154530/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
+      ('Alexander Berger', 'Coefficient Giving', 'CEO', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alexander-berger-58906098/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-01-23*/  
+    ,('Cari Tuna','Coefficient Giving','Chair','2025-02-28','month',NULL, NULL,'https://web.archive.org/web/20250228154530/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-01-23*/  
+    ,('Emily Oehlsen', 'Coefficient Giving', 'President', '2025-02-28', NULL, NULL, 'month', 'https://web.archive.org/web/20250228154530/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-01-23*/  
+
+
+
+
+
+
+
+
+
     ,('Otis Reid', 'Coefficient Giving', 'Managing Director', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/otisreid/details/experience/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', 'Remote', 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
     ,('Derek Hopf','Coefficient Giving','Managing Director of Operations','2025-02-01','month',NULL,NULL,'https://www.linkedin.com/in/derek-hopf-90b249b/','San Francisco Bay Area','Full-time','Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ 
     ,('Naina Bajekal', 'Coefficient Giving', 'Director of Communications', '2024-12-21', 'month', NULL, NULL, 'https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
