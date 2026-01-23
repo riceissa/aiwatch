@@ -19,23 +19,15 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Thore Graepel', 'Cooperative AI Foundation', 'Trustee', '2025-10-01', 'month', NULL, NULL, 'https://www.cooperativeai.com/post/thore-graepel-joins-board-of-trustees https://web.archive.org/web/20251230204218/https://www.cooperativeai.com/foundation', NULL, 'board member', 'AI safety') /*Last consulted Wayback snapshot is from 2025-12-30*/
     ,('Jesse Clifton', 'Cooperative AI Foundation', 'Research Analyst', '2021-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jesse-clifton-45652758/', NULL, 'Part-time', 'AI safety') 
     ,('Audrey Tang', 'Cooperative AI Foundation', 'Trustee (Board of Trustees)', '2025-05-01', 'month', NULL, NULL, 'https://www.cooperativeai.com/post/audrey-tang-taiwans-cyber-ambassador-1st-digital-minister-joins-caif-board-of-trustees https://web.archive.org/web/20251230204218/https://www.cooperativeai.com/foundation', NULL, 'board member', 'AI safety') /*Last consulted Wayback snapshot is from 2025-12-30*/
-
+/*..........................................................................Advisors.........................................................................*/
  
 
 
 
 
 
-    ,('Akbir Khan', 'Cooperative AI Foundation', 'Research Analyst', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/akbir/ https://web.archive.org/web/20240422231207/https://www.cooperativeai.com/foundation', NULL, 'Full-time', 'AI safety') /*Reviewed on 2024-04-22*/ /*current position*/
-    ,('Amrit Sidhu-Brar', 'Cooperative AI Foundation', 'Operations Manager', NULL, NULL, '2022-05-09', 'month', 'https://web.archive.org/web/20220509104016/https://www.cooperativeai.com/foundation', NULL, NULL, 'AI safety') /*closed*/
-    ,('Amrit Sidhu-Brar', 'Cooperative AI Foundation', 'Operations Associate', '2022-06-16', 'month', '2022-11-15', 'year', 'https://web.archive.org/web/20220616134020/https://www.cooperativeai.com/foundation https://web.archive.org/web/20221115031446/https://www.cooperativeai.com/foundation', NULL, NULL, 'AI safety') /*closed*/
+
     ,('Dario Amodei', 'Cooperative AI Foundation', 'Trustee', '2021-05-05', 'year', NULL, NULL, 'https://web.archive.org/web/20210505150134/https://www.cooperativeai.com/foundation https://web.archive.org/web/20220610165957/https://www.cooperativeai.com/foundation', NULL, 'board member', 'AI safety') /*Reviewed on 2024-04-22*/ /*current position*/
-
-
-
-
-
-    ,('Lewis Hammond', 'Cooperative AI Foundation', 'Acting Executive Director', '2022-01-01', 'month', '2023-11-01', 'month', 'https://www.linkedin.com/in/lrhammond/ https://web.archive.org/web/20220417085005/https://www.cooperativeai.com/foundation', NULL, 'part-time', 'AI safety') /*closed*/
     ,('Natasha Jaques', 'Cooperative AI Foundation', 'Advisor', '2024-04-22', 'year', NULL, NULL, 'https://web.archive.org/web/20240422231207/https://www.cooperativeai.com/foundation', NULL, 'advisor',  'AI safety') /*Reviewed on 2024-04-22*/ /*current position*/
     ,('Ruairi Donnelly', 'Cooperative AI Foundation', 'Trustee', '2021-05-05', 'year', NULL, NULL, 'https://web.archive.org/web/20210505150134/https://www.cooperativeai.com/foundation https://web.archive.org/web/20240422231207/https://www.cooperativeai.com/foundation', NULL, 'board member', 'AI safety') /*Reviewed on 2024-04-22*/ /*current position*/ 
     ,('Vincent Conitzer', 'Cooperative AI Foundation', 'Advisor', '2022-04-17', 'month', NULL, NULL, 'https://web.archive.org/web/20220417085005/https://www.cooperativeai.com/foundation https://web.archive.org/web/20240422231207/https://www.cooperativeai.com/foundation', 'Professor at Carnegie Mellon University and Professor at University of Oxford', 'advisor', 'AI safety') /*Reviewed on 2024-04-22*/ /*current position*/
@@ -44,3 +36,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Cecilia Elena Tilli', 'Cooperative AI Foundation', 'Program Manager', '2023-05-01', 'month', '2025-03-01', 'month', 'https://web.archive.org/web/20240422231207/https://www.cooperativeai.com/foundation https://www.linkedin.com/in/cecilia-elena-tilli-8a6890a4/', NULL, NULL, 'AI safety')  /*closed*/
     ,('Goda Mockute', 'Cooperative AI Foundation', 'Community Manager', '2025-03-01', 'month', '2025-12-01', 'month', 'https://www.linkedin.com/in/mockutegoda/ https://web.archive.org/web/20251230204218/https://www.cooperativeai.com/foundation', NULL, NULL, 'AI safety') /*closed*/    
     ,('Rebecca Eddington', 'Cooperative AI Foundation', 'Program Administrator', '2024-02-01', 'month', '2024-09-01', 'month', 'https://www.linkedin.com/in/rebecca-eddington-0a6705190/ https://web.archive.org/web/20251230204218/https://www.cooperativeai.com/foundation', 'Remote', 'Full-time', 'AI safety') /*closed*/    
+    ,('Lewis Hammond', 'Cooperative AI Foundation', 'Acting Executive Director', '2022-01-01', 'month', '2023-11-01', 'month', 'https://www.linkedin.com/in/lrhammond/ https://web.archive.org/web/20220417085005/https://www.cooperativeai.com/foundation', NULL, 'part-time', 'AI safety') /*closed*/    
+    ,('Amrit Sidhu-Brar', 'Cooperative AI Foundation', 'Operations Associate', '2022-06-16', 'month', '2022-11-15', 'year', 'https://web.archive.org/web/20220616134020/https://www.cooperativeai.com/foundation https://web.archive.org/web/20221115031446/https://www.cooperativeai.com/foundation', NULL, NULL, 'AI safety') /*closed*/    
+    ,('Amrit Sidhu-Brar', 'Cooperative AI Foundation', 'Operations Manager', NULL, NULL, '2022-05-09', 'month', 'https://web.archive.org/web/20220509104016/https://www.cooperativeai.com/foundation', NULL, NULL, 'AI safety') /*closed*/    
+    ,('Akbir Khan', 'Cooperative AI Foundation', 'Research Analyst', '2023-01-01', 'month', '2024-07-01', 'month', 'https://www.linkedin.com/in/akbir/ https://web.archive.org/web/20240422231207/https://www.cooperativeai.com/foundation', NULL, 'Full-time', 'AI safety') /*closed*/     
