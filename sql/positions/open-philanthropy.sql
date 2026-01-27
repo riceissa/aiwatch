@@ -13,6 +13,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Olivia Larsen', 'Coefficient Giving', 'Strategy Fellow', '2024-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/oliviaroselarsen/ https://web.archive.org/web/20241224001339/https://www.openphilanthropy.org/about/team/olivia-larsen/  https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism') /*Listed on team page as of 2026-01-23*/
     ,('Graham Gottlieb', 'Coefficient Giving', 'Senior Advisor, Partnerships', '2025-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251206132936/https://coefficientgiving.org/team/graham-gottlieb/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Listed on team page as of 2026-01-23*/
     ,('Chris Smith', 'Coefficient Giving', 'Program Officer', '2024-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/chrissmith6/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-01-23*/ 
+    ,('Aaron Roesch', 'Coefficient Giving', 'Strategy Fellow', '2025-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/aroesch/ https://www.linkedin.com/in/aroesch/', NULL, NULL, 'Effective altruism') /*Listed on team page as of 2026-01-23*/
+    ,('Ishita Batra', 'Coefficient Giving', 'Strategy Fellow, Partnerships team', '2025-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ishitabatra/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Listed on team page as of 2026-01-23*/
+    ,('Olivia Larsen', 'Coefficient Giving', 'Strategy Fellow, focused on partnerships', '2024-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/oliviaroselarsen/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism') /*Listed on team page as of 2026-01-23*/
+
+
+
 
 
 
@@ -20,7 +26,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
   /*........................................Partnerships.............................................*/
-    ,('Jason Schukraft', 'Coefficient Giving', 'Program Officer, AI Governance and Policy', '2022-04-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240831171419/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/jason-schukraft/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
+    ,('Jason Schukraft', 'Coefficient Giving', 'Senior Program Officer', '2022-04-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240831171419/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/jason-schukraft/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
 /*........................................Communications & Government Relations.............................................*/
     ,('Michael Brownlie','Coefficient Giving','Director of Government Relations','2025-03-01','month',NULL,NULL,'https://www.linkedin.com/in/michael-brownlie-94a81225/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/','Washington, District of Columbia, United States','Full-time','Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
     ,('Karthik Ganapathy','Coefficient Giving','Senior Communications Officer','2025-03-31','month',NULL,NULL,'https://web.archive.org/web/20250331231717/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
