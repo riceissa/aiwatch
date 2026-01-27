@@ -1,6 +1,6 @@
 # Automated add from scripts/open_phil_proc.py
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
-/*.....................Leadership.......................*/
+/*.....................................................................................................Leadership...................................................................................................*/
       ('Alexander Berger', 'Coefficient Giving', 'CEO', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alexander-berger-58906098/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-01-23*/  
     ,('Cari Tuna','Coefficient Giving','Chair','2025-02-28','month',NULL, NULL,'https://web.archive.org/web/20250228154530/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-01-23*/  
     ,('Emily Oehlsen', 'Coefficient Giving', 'President', '2025-02-28', NULL, NULL, 'month', 'https://web.archive.org/web/20250228154530/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-01-23*/  
@@ -8,7 +8,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Derek Hopf','Coefficient Giving','Managing Director of Operations','2025-02-01','month',NULL,NULL,'https://www.linkedin.com/in/derek-hopf-90b249b/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-01-23*/ 
     ,('Naina Bajekal', 'Coefficient Giving', 'Director of Communications', '2024-12-21', 'month', NULL, NULL, 'https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-01-23*/ 
     ,('Liz Givens', 'Coefficient Giving', 'Director of Partnerships', '2024-12-21', 'month', NULL, NULL, 'https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-01-23*/ 
-  /*........................................Partnerships.............................................*/
+  /*................................................................................Partnerships.....................................................................................*/
     ,('Liz Givens', 'Coefficient Giving', 'Director of Partnerships', '2024-12-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251231095959/https://coefficientgiving.org/team/liz-givens/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-01-23*/ 
     ,('Olivia Larsen', 'Coefficient Giving', 'Strategy Fellow', '2024-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/oliviaroselarsen/ https://web.archive.org/web/20241224001339/https://www.openphilanthropy.org/about/team/olivia-larsen/  https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism') /*Listed on team page as of 2026-01-23*/
     ,('Graham Gottlieb', 'Coefficient Giving', 'Senior Advisor, Partnerships', '2025-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20251206132936/https://coefficientgiving.org/team/graham-gottlieb/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Listed on team page as of 2026-01-23*/
@@ -20,24 +20,30 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('David Teter', 'Coefficient Giving', 'Partnerships Manager, GCR Partnerships', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dteter22/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Listed on team page as of 2026-01-23*/
     ,('Kayla Demarest', 'Coefficient Giving', 'Partnerships Associate, Office of the CEO', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kayla-demarest/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2025‑06‑30*/  
     ,('Kirsten Mullin', 'Coefficient Giving', 'Partnerships Associate, Global Health & Wellbeing', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kirsten-mullin-523973115/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism') /*Listed on team page as of 2026-01-23*/
-/*........................................Communications.............................................*/
+/*................................................................................Communications.....................................................................................*/
     ,('Michael Brownlie','Coefficient Giving','Director of Government Relations','2025-03-01','month',NULL,NULL,'https://www.linkedin.com/in/michael-brownlie-94a81225/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism') /*Listed on team page as of 2026-01-23*/
     ,('Karthik Ganapathy','Coefficient Giving','Senior Communications Officer','2025-03-31','month',NULL,NULL,'https://web.archive.org/web/20250331231717/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Listed on team page as of 2026-01-23*/
     ,('Sharon Yang', 'Coefficient Giving', 'Senior Communications Officer', '2025-03-31', 'month', NULL, NULL, 'https://web.archive.org/web/20250331231717/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
     ,('Britney Budiman', 'Coefficient Giving', 'Editor', '2025-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/britneybudiman/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism') /*Listed on team page as of 2026-01-23*/
     ,('Jeremy Klemin', 'Coefficient Giving', 'Editor', '2025-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jeremy-klemin-666b64b0/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism') /*Listed on team page as of 2026-01-23*/
     ,('Hannah Yang', 'Coefficient Giving', 'Communications Associate', '2024-10-02', 'month', NULL, NULL, 'https://web.archive.org/web/20250128012326/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Listed on team page as of 2026-01-23*/
-/*.....................Global Health & Wellbeing.......................*/
+/*..............................................................................................Global Health & Wellbeing...............................................................*/
     ,('Otis Reid', 'Coefficient Giving', 'Executive Director, Global Health and Wellbeing', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/otisreid/details/experience/', NULL, 'Full-time', 'Effective altruism')
     ,('Rebca van de Ven', 'Coefficient Giving', 'Chief of Staff, Global Health & Wellbeing', '2025-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rebca-van-de-ven/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Listed on team page as of 2026-01-23*/
     ,('Sam Donald', 'Coefficient Giving', 'Senior Program Officer', '2024-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/samdonald https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism') /*Listed on team page as of 2026-01-23*/
+ /*...................................................................................Abundance & Growth...............................................................................*/
+    ,('Matthew Clancy', 'Coefficient Giving', 'Program Director', '2025-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/matthew-clancy-a21383155/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism') /*Listed on team page as of 2026-01-23*/
+    ,('Alex Armlovich', 'Coefficient Giving', 'Housing Program Officer', '2025-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alex-armlovich-4b0a9b29/  https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism') /*Listed on team page as of 2026-01-23*/
+    ,('Jordan Dworkin', 'Coefficient Giving', 'Senior Program Associate, Innovation Policy', '2024-10-01', 'month', '2025-06-01', 'month', 'https://www.linkedin.com/in/jordan-dworkin-076444b8/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Role ended June 2025; listed on team page as of 2026-01-23*/
 
- 
- 
 
 
 
 
+
+
+
+    
 
 
 
@@ -66,9 +72,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Santosh Harish', 'Coefficient Giving', 'Program Officer', '2022-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20231128002250/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/santosh-harish-6858b116/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
     ,('Tom Hird', 'Coefficient Giving', 'Senior Program Associate', '2024-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tomhird/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
     ,('James Hu','Coefficient Giving','Program Associate','2025-04-01','month',NULL,NULL,'https://www.linkedin.com/in/y-james-hu/  https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/','Based in London','Full-time','Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
-/*........................................Abundance & Growth.............................................*/
-    ,('Matt Clancy', 'Coefficient Giving', 'Senior Program Officer', '2025-06-30', 'month', NULL,NULL, 'https://www.linkedin.com/in/matthew-clancy-a21383155/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
-    ,('Jordan Dworkin', 'Coefficient Giving', 'Program Associate', '2024-11-28', 'month', NULL, NULL, 'https://web.archive.org/web/20241128193902/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/ 
+ 
+
+
+
+
+
 /*........................................Economic Growth in Low- and Middle-Income Countries.............................................*/
     ,('Justin Sandefur', 'Coefficient Giving', 'Senior Program Officer', '2025-06-30', 'month', NULL,NULL, 'https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
 /*........................................Global Health R&D.............................................*/
@@ -405,7 +414,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Samuel Scott', 'Coefficient Giving', 'Associate In-House Counsel', '2022-02-01', 'month', '2024-12-21', 'month', 'https://web.archive.org/web/20231101150348/https://www.openphilanthropy.org/about/team/sam-scott/ https://www.linkedin.com/in/samuelpscott/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  /*close*/
     ,('Gilad Seckler', 'Coefficient Giving', 'Legal Team Coordinator', '2024-01-01', 'month', '2024-12-21', 'month', 'https://www.linkedin.com/in/gilad-seckler-17943aa8/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  /*closed*/
     ,('Jeremy Klemin', 'Coefficient Giving', 'Content Editor', '2024-01-01', 'month', '2025-08-01', 'month', 'https://www.linkedin.com/in/jeremy-klemin-666b64b0/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL, NULL, 'Effective altruism') /*closed*/ 
-   
+    ,('Jordan Dworkin', 'Coefficient Giving', 'Program Associate', '2024-10-01', 'month', '2025-06-01', 'month', 'https://www.linkedin.com/in/jordan-dworkin-076444b8/ https://web.archive.org/web/20241128193902/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/ 
 
 
      
