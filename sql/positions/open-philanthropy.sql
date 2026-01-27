@@ -22,6 +22,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Kirsten Mullin', 'Coefficient Giving', 'Partnerships Associate, Global Health & Wellbeing', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kirsten-mullin-523973115/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism') /*Listed on team page as of 2026-01-23*/
 /*........................................Communications.............................................*/
     ,('Michael Brownlie','Coefficient Giving','Director of Government Relations','2025-03-01','month',NULL,NULL,'https://www.linkedin.com/in/michael-brownlie-94a81225/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism') /*Listed on team page as of 2026-01-23*/
+    ,('Karthik Ganapathy','Coefficient Giving','Senior Communications Officer','2025-03-31','month',NULL,NULL,'https://web.archive.org/web/20250331231717/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Listed on team page as of 2026-01-23*/
+    ,('Sharon Yang', 'Coefficient Giving', 'Senior Communications Officer', '2025-03-31', 'month', NULL, NULL, 'https://web.archive.org/web/20250331231717/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
+    ,('Britney Budiman', 'Coefficient Giving', 'Editor', '2025-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/britneybudiman/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism') /*Listed on team page as of 2026-01-23*/
+    ,('Jeremy Klemin', 'Coefficient Giving', 'Editor', '2025-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jeremy-klemin-666b64b0/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism') /*Listed on team page as of 2026-01-23*/
+
 
 
 
@@ -29,10 +34,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 /*........................................Communications & Government Relations.............................................*/
 
-    ,('Karthik Ganapathy','Coefficient Giving','Senior Communications Officer','2025-03-31','month',NULL,NULL,'https://web.archive.org/web/20250331231717/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
-    ,('Sharon Yang', 'Coefficient Giving', 'Senior Communications Officer', '2025-03-31', 'month', NULL, NULL, 'https://web.archive.org/web/20250331231717/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
+
+
     ,('Aaron Gertler', 'Coefficient Giving', 'Communications Officer', '2022-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20230330054615/https://www.openphilanthropy.org/about/team/aaron-gertler/  https://www.linkedin.com/in/aarongertler/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
-    ,('Jeremy Klemin', 'Coefficient Giving', 'Content Editor', '2024-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jeremy-klemin-666b64b0/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
     ,('Hannah Yang', 'Coefficient Giving', 'Communications Associate', '2024-10-02', 'month', NULL, NULL, 'https://web.archive.org/web/20250128012326/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
 /*.....................Global Health & Wellbeing.......................*/
     ,('Deena Mousa', 'Coefficient Giving', 'Chief of Staff', '2024-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20241127043806/https://www.openphilanthropy.org/about/team/deena-mousa/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
@@ -393,7 +397,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Luca Righetti', 'Coefficient Giving', 'Research Fellow', '2021-12-01', 'month', '2025-03-01', 'month', 'https://www.linkedin.com/in/lucafrighetti/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*closed*/
     ,('Samuel Scott', 'Coefficient Giving', 'Associate In-House Counsel', '2022-02-01', 'month', '2024-12-21', 'month', 'https://web.archive.org/web/20231101150348/https://www.openphilanthropy.org/about/team/sam-scott/ https://www.linkedin.com/in/samuelpscott/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  /*close*/
     ,('Gilad Seckler', 'Coefficient Giving', 'Legal Team Coordinator', '2024-01-01', 'month', '2024-12-21', 'month', 'https://www.linkedin.com/in/gilad-seckler-17943aa8/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  /*closed*/
-    
+    ,('Jeremy Klemin', 'Coefficient Giving', 'Content Editor', '2024-01-01', 'month', '2025-08-01', 'month', 'https://www.linkedin.com/in/jeremy-klemin-666b64b0/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL, NULL, 'Effective altruism') /*closed*/ 
    
 
 
