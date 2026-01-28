@@ -41,8 +41,28 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Saloni Dattani', 'Coefficient Giving', 'Advisor (Volunteer)', '2025-11-19', 'year', NULL, NULL, 'https://web.archive.org/web/20251119074903/https://coefficientgiving.org/about-us/team/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Volunteer', 'Effective altruism')  /*Listed on team page as of 2026-01-23*/
 /*..............................................................................................Air Quality...............................................................................*/
     ,('Santosh Harish', 'Coefficient Giving', 'Program Officer', '2022-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20231128002250/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/santosh-harish-6858b116/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Listed on team page as of 2026-01-23*/
+/*..............................................................................................Effective Giving & Careers...............................................................................*/
+    ,('Melanie Basnak', 'Coefficient Giving', 'Senior Program Officer', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/melaniebasnak/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism') /*Listed on team page as of 2026-01-23*/
+/*..............................................................................................Farm Animal Welfare...............................................................................*/
+    ,('Lewis Bollard', 'Coefficient Giving', 'Managing Director, Farm Animal Welfare', '2025-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lewisbollard/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Listed on team page as of 2026-01-23*/
+
 
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -67,15 +87,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Philipp Kastrau', 'Coefficient Giving', 'Research Fellow', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/philippkastrau/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
     ,('Rafael Latham-Proença', 'Coefficient Giving', 'Research Fellow', '2022-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
     ,('Jamie Simonson', 'Coefficient Giving', 'Program Operations Coordinator', '2023-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20231205001721/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/jamiesimonson/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
-    ,('Melanie Basnak', 'Coefficient Giving', 'Senior Program Associate', '2024-05-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250703134142/https://www.openphilanthropy.org/about/team/melanie-basnak/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
+    ,('Melanie Basnak', 'Coefficient Giving', 'Senior Program Associate', '2024-05-01', 'month', '2025-07-01', 'month', 'https://web.archive.org/web/20250703134142/https://www.openphilanthropy.org/about/team/melanie-basnak/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
     ,('Tom Hird', 'Coefficient Giving', 'Senior Program Associate', '2024-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tomhird/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
     ,('James Hu','Coefficient Giving','Program Associate','2025-04-01','month',NULL,NULL,'https://www.linkedin.com/in/y-james-hu/  https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/','Based in London','Full-time','Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
- 
-
-
-
-
-
 /*........................................Economic Growth in Low- and Middle-Income Countries.............................................*/
     ,('Justin Sandefur', 'Coefficient Giving', 'Senior Program Officer', '2025-06-30', 'month', NULL,NULL, 'https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
 /*........................................Global Health R&D.............................................*/
@@ -87,7 +101,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Chris Somerville','Coefficient Giving','Program Officer','2016-07-01','month', NULL, NULL,'https://www.linkedin.com/in/chris-somerville-91a63810/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
     ,('Heather Youngs','Coefficient Giving','Senior Science Program Officer','2016-08-01','month',NULL,NULL,'https://www.linkedin.com/in/heatheryoungs/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
 /*.............................................................Farm Animal Welfare.............................................................*/
-    ,('Lewis Bollard','Coefficient Giving','Farm Animal Welfare Program Director','2022-10-01','month',NULL, NULL,'https://www.linkedin.com/in/lewisbollard/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
     ,('Amanda Hungerford', 'Coefficient Giving', 'Program Officer', '2021-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20231128002250/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/amanda-hungerford-6a9a4b82/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
     ,('Martin Gould', 'Coefficient Giving', 'Farm Animal Welfare Senior Program Associate', '2022-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20230323214110/https://www.openphilanthropy.org/about/team/martin-gould/ https://www.linkedin.com/in/martinvgould https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
     ,('Abhi Kumar', 'Coefficient Giving', 'Program Associate', '2022-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/abhikumar17/ https://www.openphilanthropy.org/about/team/abhi-kumar/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
@@ -411,7 +424,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Samuel Scott', 'Coefficient Giving', 'Associate In-House Counsel', '2022-02-01', 'month', '2024-12-21', 'month', 'https://web.archive.org/web/20231101150348/https://www.openphilanthropy.org/about/team/sam-scott/ https://www.linkedin.com/in/samuelpscott/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  /*close*/
     ,('Gilad Seckler', 'Coefficient Giving', 'Legal Team Coordinator', '2024-01-01', 'month', '2024-12-21', 'month', 'https://www.linkedin.com/in/gilad-seckler-17943aa8/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  /*closed*/
     ,('Jeremy Klemin', 'Coefficient Giving', 'Content Editor', '2024-01-01', 'month', '2025-08-01', 'month', 'https://www.linkedin.com/in/jeremy-klemin-666b64b0/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL, NULL, 'Effective altruism') /*closed*/ 
-    ,('Jordan Dworkin', 'Coefficient Giving', 'Program Associate', '2024-10-01', 'month', '2025-06-01', 'month', 'https://www.linkedin.com/in/jordan-dworkin-076444b8/ https://web.archive.org/web/20241128193902/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/ 
-
+    ,('Jordan Dworkin', 'Coefficient Giving', 'Program Associate', '2024-10-01', 'month', '2025-06-01', 'month', 'https://www.linkedin.com/in/jordan-dworkin-076444b8/ https://web.archive.org/web/20241128193902/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*closed*/ 
+    ,('Lewis Bollard','Coefficient Giving','Farm Animal Welfare Program Director','2022-10-01','month','2025-11-01', 'month','https://www.linkedin.com/in/lewisbollard/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*closed*/ 
 
      
