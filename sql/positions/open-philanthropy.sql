@@ -63,8 +63,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Y. James Hu', 'Coefficient Giving', 'Senior Program Associate', '2025-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/y-james-hu/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism') /*Listed on team page as of 2026-01-23*/
 /*..............................................................................................Science and Global Health R&D...............................................................................*/
     ,('Jacob Trefethen', 'Coefficient Giving', 'Managing Director', '2018-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jacob-trefethen-82105350/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Listed on team page as of 2026-01-23*/
+    ,('Chris Somerville','Coefficient Giving','Program Officer','2016-07-01','month', NULL, NULL,'https://www.linkedin.com/in/chris-somerville-91a63810/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism') /*Listed on team page as of 2026-01-23*/
 
 
+    
 
 
 
@@ -100,7 +102,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Raymond Kennedy', 'Coefficient Giving', 'Program Officer', '2023-02-01', 'month', NULL, NULL, 'https://web.archive.org/web/20231128002250/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/raymond-kennedy-93203837  https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
     ,('Rafael Dib', 'Coefficient Giving', 'Program Associate', '2024-09-30', 'month', NULL, NULL, 'https://web.archive.org/web/20240930231527/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
 /*.............................................................Scientific Research.............................................................*/
-    ,('Chris Somerville','Coefficient Giving','Program Officer','2016-07-01','month', NULL, NULL,'https://www.linkedin.com/in/chris-somerville-91a63810/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
     ,('Heather Youngs','Coefficient Giving','Senior Science Program Officer','2016-08-01','month',NULL,NULL,'https://www.linkedin.com/in/heatheryoungs/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
     ,('Michelle Lavery', 'Coefficient Giving', 'Program Associate', '2022-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240404062420/https://www.openphilanthropy.org/about/team/michelle-lavery/ https://www.linkedin.com/in/j-michelle-lavery https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
 /*.............................................................Global Catastrophic Risks.............................................................*/
