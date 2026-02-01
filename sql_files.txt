@@ -129,6 +129,7 @@ sql/positions/institute-for-ai-policy-and-strategy.sql
 sql/positions/institute-for-ethics-in-artificial-intelligence.sql
 sql/positions/institute-for-law-ai.sql
 sql/positions/international-longevity-alliance.sql
+sql/positions/international-military-council-on-climate-and-security.sql
 sql/positions/ipa.sql
 sql/positions/johns-hopkins-center-for-health-security.sql
 sql/positions/legal-priorities-project.sql
@@ -191,6 +192,7 @@ sql/positions/survival-and-flourishing.fund.sql
 sql/positions/survival-and-flourishing.org.sql
 sql/positions/suvita.sql
 sql/positions/talos-network.sql
+sql/positions/the-center-for-climate-and-security.sql
 sql/positions/the-council-on-strategic-risks.sql 
 sql/positions/the-future-society.sql 
 sql/positions/the-institute-for-ethical-aI-machine-learning.sql
