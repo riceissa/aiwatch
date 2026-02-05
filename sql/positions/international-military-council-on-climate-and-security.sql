@@ -94,7 +94,29 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
-,('Alice Baillat', 'International Military Council on Climate and Security', 'Senior Member', '2019-09-01', 'year', '2020-04-01', NULL 'https://web.archive.org/web/20190919105100/https://imccs.org/leadership/', NULL, NULL, 'Existential risk prevention') /*closed*/
+,('Alice Baillat', 'International Military Council on Climate and Security', 'Senior Member', '2019-09-01', 'year', '2020-04-01', NULL, 'https://web.archive.org/web/20190919105100/https://imccs.org/leadership/', NULL, NULL, 'Existential risk prevention') /*closed*/
 ,('Steve Brock', 'International Military Council on Climate and Security', 'Chief of Staff', '2019-09-01', 'year', '2020-12-01', 'month', 'https://web.archive.org/web/20190919105100/https://imccs.org/leadership/', NULL, NULL, 'Existential risk prevention') /*closed*/
+
+
+
 ,('Shiloh Fetzek', 'International Military Council on Climate and Security', 'Research Coordinator', '2019-09-01', 'year', '2020-12-01', 'month', 'https://web.archive.org/web/20190919105100/https://imccs.org/leadership/', NULL, NULL, 'Existential risk prevention') /*closed*/
-,('Kate Guy', 'International Military Council on Climate and Security', 'Senior Research Fellow', '2020-04-01', 'year', '2020-12-01', 'month', 'https://web.archive.org/web/20200421195129/https://imccs.org/leadership/', NULL, NULL, 'Existential risk prevention') /*closed*/
+,('Kate Guy', 'International Military Council on Climate and Security', 'Senior Research Fellow', '2020-04-01', 'year', '2020-12-01', 'month', 'https://web.archive.org/web/20200421195129/https://imccs.org/leadership', NULL, NULL, 'Existential risk prevention') /*closed*/
+
+
+
+
+
+
+
+
+
+,('Anja Kaspersen', 'International Military Council on Climate and Security', 'Board Member', '2020-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20201223162253/https://imccs.org/council/ https://web.archive.org/web/20260131215544/https://imccs.org/council/', NULL, 'board member', 'Existential risk prevention') /* Reviewed on 2026-01-27 / / Last available Wayback snapshot date is 2026-01-27 */
+,('Sarah Kiparski', 'International Military Council on Climate and Security', 'Board Member', '2020-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20201223162253/https://imccs.org/council/ https://web.archive.org/web/20260131215544/https://imccs.org/council/', NULL, 'board member', 'Existential risk prevention') /* Reviewed on 2026-01-27 / / Last available Wayback snapshot date is 2026-01-27 */
+,('Martin Krummenacher', 'International Military Council on Climate and Security', 'Board Member', '2020-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20201223162253/https://imccs.org/council/ https://web.archive.org/web/20260131215544/https://imccs.org/council/', NULL, 'board member', 'Existential risk prevention') /* Reviewed on 2026-01-27 / / Last available Wayback snapshot date is 2026-01-27 */
+,('Shira Efron', 'International Military Council on Climate and Security', 'Board Member', '2020-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20201223162253/https://imccs.org/council/ https://web.archive.org/web/20260131215544/https://imccs.org/council/', NULL, 'board member', 'Existential risk prevention')  /* Reviewed on 2026-01-27 / / Last available Wayback snapshot date is 2026-01-27 */
+,('Alistair D. B. Cook', 'International Military Council on Climate and Security', 'Board Member', '2020-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20201223162253/https://imccs.org/council/ https://web.archive.org/web/20260131215544/https://imccs.org/council/', NULL, 'board member', 'Existential risk prevention')   /* Reviewed on 2026-01-27 / / Last available Wayback snapshot date is 2026-01-27 */
+,('Colette Defoe', 'International Military Council on Climate and Security', 'Board Member', '2020-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20201223162253/https://imccs.org/council/ https://web.archive.org/web/20260131215544/https://imccs.org/council/', NULL, 'board member', 'Existential risk prevention')   /* Reviewed on 2026-01-27 / / Last available Wayback snapshot date is 2026-01-27 */
+,('Urs Gerber', 'International Military Council on Climate and Security', 'Board Member', '2020-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20201223162253/https://imccs.org/council/ https://web.archive.org/web/20260131215544/https://imccs.org/council/', NULL, 'board member', 'Existential risk prevention') /* Reviewed on 2026-01-27 / / Last available Wayback snapshot date is 2026-01-27 */
+,('Roger Ullman', 'International Military Council on Climate and Security', 'Board Member', '2021-03-01', 'month', NULL, NULL, 'https://web.archive.org/web/20211129200241/https://imccs.org/council/ https://www.linkedin.com/in/rogerullman/ https://web.archive.org/web/20260131215544/https://imccs.org/council/', NULL, 'board member', 'Existential risk prevention') /* Reviewed on 2026-01-27 / / Last available Wayback snapshot date is 2026-01-27 */
+,('Graham Stacey', 'International Military Council on Climate and Security', 'Board Member', '2021-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20211129200241/https://imccs.org/council/ https://www.linkedin.com/in/gestacey/ https://web.archive.org/web/20260131215544/https://imccs.org/council/', NULL, 'board member', 'Existential risk prevention') /* Reviewed on 2026-01-27 / / Last available Wayback snapshot date is 2026-01-27 */
+,('Robert Glasser', 'International Military Council on Climate and Security', 'Board Member', '2021-11-01', 'year', NULL, NULL, 'https://web.archive.org/web/20211129200241/https://imccs.org/council/ https://web.archive.org/web/20260131215544/https://imccs.org/council/', NULL, 'board member', 'Existential risk prevention') /* Reviewed on 2026-01-27 / / Last available Wayback snapshot date is 2026-01-27 */
