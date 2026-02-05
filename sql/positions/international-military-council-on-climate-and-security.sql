@@ -84,4 +84,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
-
+/* ONLY LINKEDIN */
+,('Marieke Jacobs', 'International Military Council on Climate and Security', 'Member', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mariekejacobs96/', NULL, NULL, 'Existential risk prevention')
+/* CLOSED */
+,('Francesco Femia', 'International Military Council on Climate and Security', 'Co-Founder and Director', '2019-02-01', 'month', '2020-12-01', 'month', 'https://www.linkedin.com/in/francescofemia/', NULL, NULL, 'Existential risk prevention') /*closed*/
+,('Bastien Alex', 'International Military Council on Climate and Security', 'Senior Member', '2019-09-01', 'year', '2020-12-01', 'month', 'https://web.archive.org/web/20190919105100/https://imccs.org/leadership/ https://web.archive.org/web/20201201174041/https://imccs.org/leadership/', NULL, NULL, 'Existential risk prevention')  /*closed*/
+,('Alice Baillat', 'International Military Council on Climate and Security', 'Senior Member', '2019-09-01', 'year', '2020-04-01', NULL 'https://web.archive.org/web/20190919105100/https://imccs.org/leadership/', NULL, NULL, 'Existential risk prevention') /*closed*/
+,('Steve Brock', 'International Military Council on Climate and Security', 'Chief of Staff', '2019-09-01', 'year', '2020-12-01', 'month', 'https://web.archive.org/web/20190919105100/https://imccs.org/leadership/', NULL, NULL, 'Existential risk prevention') /*closed*/
+,('Shiloh Fetzek', 'International Military Council on Climate and Security', 'Research Coordinator', '2019-09-01', 'year', '2020-12-01', 'month', 'https://web.archive.org/web/20190919105100/https://imccs.org/leadership/', NULL, NULL, 'Existential risk prevention') /*closed*/
+,('Kate Guy', 'International Military Council on Climate and Security', 'Senior Research Fellow', '2020-04-01', 'year', '2020-12-01', 'month', 'https://web.archive.org/web/20200421195129/https://imccs.org/leadership/', NULL, NULL, 'Existential risk prevention') /*closed*/
