@@ -106,6 +106,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Max Nadeau', 'Coefficient Giving', 'Associate Program Officer, Technical AI Safety', '2025-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/max-nadeau/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism') /*Listed on team page as of 2026-01-23*/
 
 
+    ('Trevor Levin', 'Coefficient Giving', 'Associate Program Officer, AI Governance and Policy', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/trevor-levin/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism') /*Listed on team page as of 2026-01-23*/
+    ,('Will Henshall', 'Coefficient Giving', 'Associate Program Officer', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/will-henshall-699b9412b/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism') /*Listed on team page as of 2026-01-23*/
+
+
+
+
 
 
 
