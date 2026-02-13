@@ -151,12 +151,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Christopher Webster', 'Coefficient Giving', 'Information Security Associate', '2025-02-28', 'month', NULL,NULL, 'https://web.archive.org/web/20250228154530/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism')/*Listed on team page as of 2026-01-23*/
     ,('Travis Grabow', 'Coefficient Giving', 'IT Associate', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/travisgrabow/  https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism')/*Listed on team page as of 2026-01-23*/
     ,('Victoria Kauffman', 'Coefficient Giving', 'IT Associate', '2024-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20241224001338/https://www.openphilanthropy.org/about/team/victoria-kauffman/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism')/*Listed on team page as of 2026-01-23*/
-    ('Joseph Skonie', 'Coefficient Giving', 'Technical Project Associate', '2025-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joseph-skonie-255a5213b/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism')/*Listed on team page as of 2026-01-23*/
-
-
-
-
-
+    ,('Joseph Skonie', 'Coefficient Giving', 'Technical Project Associate', '2025-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joseph-skonie-255a5213b/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism')/*Listed on team page as of 2026-01-23*/
+    ,('Molly Kovite', 'Coefficient Giving', 'General Counsel', '2021-01-01', 'month', NULL,NULL, 'https://web.archive.org/web/20240417234704/https://www.openphilanthropy.org/about/team/molly-kovite/  https://www.linkedin.com/in/molly-kovite-248336144/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism')/*Listed on team page as of 2026-01-23*/
+    ,('Devin Mauney', 'Coefficient Giving', 'Senior Policy Counsel', '2025-06-30', 'month', NULL,NULL, 'https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism')/*Listed on team page as of 2026-01-23*/
 
 
 
@@ -211,8 +208,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
   /*.................................................IT.............................................................*/
     ,('María Gutiérrez Rojas', 'Coefficient Giving', 'IT Projects Associate', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/maria-gutierrez-rojas-82218399/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshots ais from 2025-06-30*/ /*Latest revision*/
 /*......................................................Legal.............................................*/
-    ,('Molly Kovite', 'Coefficient Giving', 'General Counsel', '2021-01-01', 'month', NULL,NULL, 'https://web.archive.org/web/20240417234704/https://www.openphilanthropy.org/about/team/molly-kovite/  https://www.linkedin.com/in/molly-kovite-248336144/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshots ais from 2025-06-30*/ /*Latest revision*/
-    ,('Devin Mauney', 'Coefficient Giving', 'Senior Policy Counsel', '2025-06-30', 'month', NULL,NULL, 'https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshots ais from 2025-06-30*/ /*Latest revision*/
+
     ,('Andrew Cath Rubenstein', 'Coefficient Giving', 'Counsel', '2025-06-30', 'month', NULL, NULL, 'https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ 
    ,('Daniel Binette', 'Coefficient Giving', 'Counsel', '2025-01-28', 'month', NULL, NULL, 'https://www.linkedin.com/in/daniel-binette-30829a62/ https://web.archive.org/web/20250128012326/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ 
     ,('Caroline Daniell', 'Coefficient Giving', 'Associate Counsel', '2025-01-28', 'month', NULL, NULL, 'https://www.linkedin.com/in/carolinevoldstaddaniell/ https://web.archive.org/web/20250128012326/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ 
