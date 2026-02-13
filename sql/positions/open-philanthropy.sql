@@ -160,9 +160,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Caroline Daniell', 'Coefficient Giving', 'Associate Counsel', '2025-01-28', 'month', NULL, NULL, 'https://www.linkedin.com/in/carolinevoldstaddaniell/ https://web.archive.org/web/20250128012326/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism')/*Listed on team page as of 2026-01-23*/
     ,('Gilad Seckler', 'Coefficient Giving', 'Legal Operations Associate', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gilad-seckler-17943aa8/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism')/*Listed on team page as of 2026-01-23*/
     ,('Annie Brandt', 'Coefficient Giving', 'People Operations Associate', '2025-03-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250331231717/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism')/*Listed on team page as of 2026-01-23*/
+    ,('Nicholas Ravazzolo', 'Coefficient Giving', 'People Operations Associate', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nicholas-ravazzolo-865926145/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism')/*Listed on team page as of 2026-01-23*/
+   ,('Meiko Flynn-Do', 'Coefficient Giving', 'People Operations Associate', '2025-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/meiko-flynn-do/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism')/*Listed on team page as of 2026-01-23*/
 
-
-    
 
 
 
@@ -216,9 +216,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 /*...........................................................................People Operations.....................................................................................*/
     ,('Gabriella Plevin', 'Coefficient Giving', 'People Operations Lead', '2024-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240917170921/https://www.openphilanthropy.org/about/team/gabriella-plevin/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2025-06-30*/  
-    ,('Nicholas Ravazzolo', 'Coefficient Giving', 'People Operations Associate', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nicholas-ravazzolo-865926145/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2025-06-30*/ 
-
-   ,('Meiko Flynn-Do', 'Coefficient Giving', 'People Operations Associate', '2025-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/meiko-flynn-do/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2025-06-30*/ 
 /*...................................................................Business Immigration..............................................................*/
     ,('Martin McDonald', 'Coefficient Giving', 'Business Immigration Associate', '2022-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20241128193902/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2025-06-30*/ 
     ,('Brittanie Lewis', 'Coefficient Giving', 'Business Immigration Associate', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/brittanie-lewis-61a335115/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  /*Last consulted Wayback snapshot is from 2025-06-30*/ 
