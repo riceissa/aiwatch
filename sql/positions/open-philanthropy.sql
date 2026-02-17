@@ -184,8 +184,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
 /*........................................LinkedIn positions below.............................................*/
     ,('Luke Muehlhauser', 'Coefficient Giving', 'Managing Director', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/luke-muehlhauser-15a09b26/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')
     ,('Chukwu Douglas Junior', 'Coefficient Giving', 'Researcher', '2024-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/douglas-junior-chukwu/ https://web.archive.org/web/20241123001954/https://www.openphilanthropy.org/about/team/chukwu-douglas-junior/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  
-
-
+    ,('Isabel Juniewicz', 'Coefficient Giving', 'Research Fellow', '2022-04-01', 'month', NULL, NULL, 'https://web.archive.org/web/20231128002250/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/isabel-juniewicz-50867135/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL,'Full-time','Effective altruism') 
+    ,('Gabriella P. Levin', 'Coefficient Giving', 'People Partner', '2025-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gabriellaplevin/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', 'Remote', 'Full-time', 'Effective altruism')
 
 
 
@@ -208,10 +208,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
     ,('Sam Anschell', 'Coefficient Giving', 'Program Associate', '2024-02-26', 'month', NULL, NULL, 'https://web.archive.org/web/20240226140444/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL,NULL,'Effective altruism')  /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
     ,('Joe Carlsmith','Coefficient Giving','Senior Research Analyst, GCR Cause Prioritization','2025-06-30','month',NULL,NULL,'https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL,NULL,'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ 
-    ,('Isabel Juniewicz', 'Coefficient Giving', 'Research Fellow', '2022-04-01', 'month', NULL, NULL, 'https://web.archive.org/web/20231128002250/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/isabel-juniewicz-50867135/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL,'Full-time','Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ 
     ,('Ajeya Cotra','Coefficient Giving','Senior Advisor','2025-01-28','month',NULL,NULL,'https://web.archive.org/web/20250128012326/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL,NULL,'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ 
     ,('Nora Ait Boucherbil','Coefficient Giving','Business Operations Coordinator','2023-10-01','month',NULL,NULL,'https://web.archive.org/web/20250403004925/https://www.openphilanthropy.org/about/team/nora-ait-boucherbil/ https://web.archive.org/web/20250331231717/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL,NULL,'Effective altruism')  /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
-    ,('Gabriella Plevin', 'Coefficient Giving', 'People Operations Lead', '2024-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240917170921/https://www.openphilanthropy.org/about/team/gabriella-plevin/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2025-06-30*/  
+    ,('Gabriella Plevin', 'Coefficient Giving', 'People Operations Lead', '2024-08-01', 'month', NULL, NULL, '', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2025-06-30*/  
+
+
 
 
 
@@ -447,3 +448,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Javier Prieto', 'Coefficient Giving', 'Program Associate', '2023-07-01', 'month', '2025-12-01', 'month', 'https://www.linkedin.com/in/javier-prieto-29561421b https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', 'Remote', 'Full-time', 'Effective altruism')  /*closed*/  
     ,('Tom Rowlands', 'Coefficient Giving', 'Recruiter', '2023-10-01', 'month', '2025-07-01', 'month', 'https://web.archive.org/web/20231205001721/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/tom-rowlands1/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*closed*/ 
     ,('María Gutiérrez Rojas', 'Coefficient Giving', 'IT Projects Associate', '2023-02-01', 'month', '2025-07-01', 'month', 'https://www.linkedin.com/in/maria-gutierrez-rojas-82218399/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*closed*/   
+    ,('Gabriella P. Levin', 'Coefficient Giving', 'People Operations Lead', '2024-08-01', 'month', '2025-08-01', 'month', 'https://web.archive.org/web/20240917170921/https://www.openphilanthropy.org/about/team/gabriella-plevin/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/gabriellaplevin/', NULL, 'Full-time', 'Effective altruism')   /*closed*/     
