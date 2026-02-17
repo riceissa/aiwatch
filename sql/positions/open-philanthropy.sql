@@ -210,8 +210,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Joe Carlsmith','Coefficient Giving','Senior Research Analyst, GCR Cause Prioritization','2025-06-30','month',NULL,NULL,'https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL,NULL,'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ 
     ,('Ajeya Cotra','Coefficient Giving','Senior Advisor','2025-01-28','month',NULL,NULL,'https://web.archive.org/web/20250128012326/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL,NULL,'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ 
     ,('Nora Ait Boucherbil','Coefficient Giving','Business Operations Coordinator','2023-10-01','month',NULL,NULL,'https://web.archive.org/web/20250403004925/https://www.openphilanthropy.org/about/team/nora-ait-boucherbil/ https://web.archive.org/web/20250331231717/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL,NULL,'Effective altruism')  /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
-    ,('Gabriella Plevin', 'Coefficient Giving', 'People Operations Lead', '2024-08-01', 'month', NULL, NULL, '', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2025-06-30*/  
-
+ 
 
 
 
