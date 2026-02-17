@@ -186,6 +186,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Chukwu Douglas Junior', 'Coefficient Giving', 'Researcher', '2024-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/douglas-junior-chukwu/ https://web.archive.org/web/20241123001954/https://www.openphilanthropy.org/about/team/chukwu-douglas-junior/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism')  
     ,('Isabel Juniewicz', 'Coefficient Giving', 'Research Fellow', '2022-04-01', 'month', NULL, NULL, 'https://web.archive.org/web/20231128002250/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/isabel-juniewicz-50867135/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL,'Full-time','Effective altruism') 
     ,('Gabriella P. Levin', 'Coefficient Giving', 'People Partner', '2025-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gabriellaplevin/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', 'Remote', 'Full-time', 'Effective altruism')
+/*........................................Other.............................................*/
+    ,('Sam Anschell', 'Coefficient Giving', 'Senior Program Associate, Global Aid Policy', '2024-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240226140444/https://www.openphilanthropy.org/team/  https://www.linkedin.com/in/sam-anschell-39b261131/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism')
 
 
 
@@ -202,15 +204,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
-
-
-
-
-    ,('Sam Anschell', 'Coefficient Giving', 'Program Associate', '2024-02-26', 'month', NULL, NULL, 'https://web.archive.org/web/20240226140444/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL,NULL,'Effective altruism')  /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
-    ,('Joe Carlsmith','Coefficient Giving','Senior Research Analyst, GCR Cause Prioritization','2025-06-30','month',NULL,NULL,'https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL,NULL,'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ 
-    ,('Ajeya Cotra','Coefficient Giving','Senior Advisor','2025-01-28','month',NULL,NULL,'https://web.archive.org/web/20250128012326/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL,NULL,'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ 
-    ,('Nora Ait Boucherbil','Coefficient Giving','Business Operations Coordinator','2023-10-01','month',NULL,NULL,'https://web.archive.org/web/20250403004925/https://www.openphilanthropy.org/about/team/nora-ait-boucherbil/ https://web.archive.org/web/20250331231717/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL,NULL,'Effective altruism')  /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
  
+ 
+
+
+
 
 
 
@@ -398,7 +396,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Zachary Robinson', 'Coefficient Giving', 'Chief of staff', '2021-07-01', 'month', '2023-01-01', 'month', 'https://web.archive.org/web/20220509154433/https://www.openphilanthropy.org/about/team https://www.linkedin.com/in/zyrobinson/', NULL, 'Full-time', 'Effective altruism') /*closed*/     
     ,('Zachary Robinson', 'Coefficient Giving', 'Program Officer', '2020-12-01', 'month', '2021-06-01', 'month', 'https://www.linkedin.com/in/zyrobinson/', NULL, NULL, 'Effective altruism') /*closed*/   
     ,('Zachary Robinson', 'Coefficient Giving', 'Strategy and Research Fellow', '2019-11-01', 'month', '2020-12-01', 'month', 'https://www.linkedin.com/in/zyrobinson/', NULL, 'Full-time', 'Effective altruism') /*closed*/  
-    ,('Sam Anschell', 'Coefficient Giving', 'Program Operations Assistant', '2022-02-01', 'month', '2024-01-16', 'month', 'https://web.archive.org/web/20220509154433/https://www.openphilanthropy.org/about/team https://web.archive.org/web/20240116231050/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism') /*Closed*/
     ,('Damien Koussis', 'Coefficient Giving', 'Business Operations Coordinator', '2023-11-01', 'month', '2024-09-01', 'month', 'https://www.linkedin.com/in/dkoussis/', NULL, 'Full-time', 'Effective altruism')  /*closed*/
     ,('Matt Putz', 'Coefficient Giving', 'Program Associate', '2023-02-01', 'month', '2025-03-01', 'month', 'https://web.archive.org/web/20230322200016/https://www.openphilanthropy.org/about/team/matt-putz/ https://www.linkedin.com/in/mathieu-putz https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*closed*/
     ,('Luca Righetti', 'Coefficient Giving', 'Research Fellow', '2021-12-01', 'month', '2025-03-01', 'month', 'https://www.linkedin.com/in/lucafrighetti/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*closed*/
@@ -448,3 +445,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Tom Rowlands', 'Coefficient Giving', 'Recruiter', '2023-10-01', 'month', '2025-07-01', 'month', 'https://web.archive.org/web/20231205001721/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/tom-rowlands1/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*closed*/ 
     ,('María Gutiérrez Rojas', 'Coefficient Giving', 'IT Projects Associate', '2023-02-01', 'month', '2025-07-01', 'month', 'https://www.linkedin.com/in/maria-gutierrez-rojas-82218399/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*closed*/   
     ,('Gabriella P. Levin', 'Coefficient Giving', 'People Operations Lead', '2024-08-01', 'month', '2025-08-01', 'month', 'https://web.archive.org/web/20240917170921/https://www.openphilanthropy.org/about/team/gabriella-plevin/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/gabriellaplevin/', NULL, 'Full-time', 'Effective altruism')   /*closed*/     
+    ,('Nora Ait Boucherbil','Coefficient Giving','Business Operations Coordinator','2023-10-01','month','2025-10-01','month','https://web.archive.org/web/20250403004925/https://www.openphilanthropy.org/about/team/nora-ait-boucherbil/ https://web.archive.org/web/20250331231717/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL,NULL,'Effective altruism')  /*closed*/ 
+    ,('Ajeya Cotra','Coefficient Giving','Senior Advisor','2025-01-28','month','2025-12-01','month','https://web.archive.org/web/20250128012326/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL,NULL,'Effective altruism') /*closed*/  
+    ,('Joe Carlsmith','Coefficient Giving','Senior Research Analyst, GCR Cause Prioritization','2025-06-30','month','2025-12-01','month','https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/ https://joecarlsmith.com/',NULL,NULL,'Effective altruism') /*closed*/  
+    ,('Sam Anschell', 'Coefficient Giving', 'Program Associate, Global Aid Policy', '2023-06-01', 'month', '2023-12-01', 'month', 'https://www.linkedin.com/in/sam-anschell-39b261131/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism') /*closed*/  
+    ,('Sam Anschell', 'Coefficient Giving', 'Operations Assistant', '2022-02-01', 'month', '2023-06-01', 'month', 'https://www.linkedin.com/in/sam-anschell-39b261131/ https://coefficientgiving.org/team/sam-anschell/', NULL, 'Full-time', 'Effective altruism') /*closed*/  
