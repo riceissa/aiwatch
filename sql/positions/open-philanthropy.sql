@@ -177,6 +177,17 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Allison Blajda', 'Coefficient Giving', 'Senior Technical Project Manager and Salesforce Administrator', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/allisonblajda/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism')/*Listed on team page as of 2026-01-23*/
     ,('Kerry Holsinger', 'Coefficient Giving', 'Salesforce Senior Administrator & Technical Project Manager', '2025-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20260113124824/https://coefficientgiving.org/team/kerry-holsinger/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism')/*Listed on team page as of 2026-01-23*/
     ,('Clement Chan', 'Coefficient Giving', 'Salesforce Administrator and Technical Project Manager', '2023-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/clementzlc/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism')/*Listed on team page as of 2026-01-23*/
+    ,('Emily White', 'Coefficient Giving', 'Salesforce Administrator & Technical Project Manager', '2023-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/emily-white-37a08851/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, NULL, 'Effective altruism')/*Listed on team page as of 2026-01-23*/
+    ,('Kelly Pratt', 'Coefficient Giving', 'Salesforce Technical Project Manager', '2026-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20260211072506/https://coefficientgiving.org/team/kelly-pratt/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism')/*Listed on team page as of 2026-01-23*/
+    ,('Max Daniel', 'Coefficient Giving', 'Chief of Staff, office of the CEO', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/max-daniel/ https://web.archive.org/web/20260123190911/https://coefficientgiving.org/about-us/team/', NULL, 'Full-time', 'Effective altruism')/*Listed on team page as of 2026-01-23*/
+
+
+
+
+
+
+
+
 
 
 
@@ -206,33 +217,13 @@ insert into positions(person, organization, title, start_date, start_date_precis
 /*.............................................................Potential Risks from Advanced AI.............................................................*/
     ,('Ajeya Cotra','Coefficient Giving','Senior Advisor','2025-01-28','month',NULL,NULL,'https://web.archive.org/web/20250128012326/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL,NULL,'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ 
     ,('Luke Muehlhauser','Coefficient Giving','Program Director','2025-01-01','month',NULL,NULL,'https://www.linkedin.com/in/luke-muehlhauser-15a09b26/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL,NULL,'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ 
-/*.............................................................Operations.............................................................*/
-
-/*.............................................................Business Operations.............................................................*/
     ,('Rebca van de Ven', 'Coefficient Giving', 'Business Operations Lead', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rebca-van-de-ven/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
     ,('Nora Ait Boucherbil','Coefficient Giving','Business Operations Coordinator','2023-10-01','month',NULL,NULL,'https://web.archive.org/web/20250403004925/https://www.openphilanthropy.org/about/team/nora-ait-boucherbil/ https://web.archive.org/web/20250331231717/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/',NULL,NULL,'Effective altruism')  /*Last consulted Wayback snapshot is from 2025-06-30*/ /*Current position*/
-/*.............................................................Finance.............................................................*/
-/*.............................................................Grants Management.............................................................*/
-  /*.................................................IT.............................................................*/
     ,('María Gutiérrez Rojas', 'Coefficient Giving', 'IT Projects Associate', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/maria-gutierrez-rojas-82218399/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshots ais from 2025-06-30*/ /*Latest revision*/
-/*......................................................Legal.............................................*/ 
-
-/*...........................................................................People Operations.....................................................................................*/
     ,('Gabriella Plevin', 'Coefficient Giving', 'People Operations Lead', '2024-08-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240917170921/https://www.openphilanthropy.org/about/team/gabriella-plevin/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2025-06-30*/  
-/*...................................................................Business Immigration..............................................................*/
- /*...................................................................Recruiting..............................................................*/
-
     ,('Tom Rowlands', 'Coefficient Giving', 'Recruiter', '2023-10-01', 'month', NULL, NULL, 'https://web.archive.org/web/20231205001721/https://www.openphilanthropy.org/team/ https://www.linkedin.com/in/tom-rowlands1/https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/
-/*.................................................................Salesforce.......................................................*/
-
-
-    ,('Emily White', 'Coefficient Giving', 'Salesforce Administrator & Technical Project Manager', '2023-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/emily-white-37a08851/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2025-06-30*/
-/*.................................................................Office of the CEO.......................................................*/
-    ,('Max Daniel', 'Coefficient Giving', 'Chief of Staff', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/max-daniel/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-06-30*/
     ,('Abie Rohrig', 'Coefficient Giving', 'Deputy Chief of Staff', '2025-03-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250331231717/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250630233037/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025‑06‑30*/  
-/*.........................................................................Only LinkedIn positions.............................................................*/
     ,('Joseph Carlsmith', 'Coefficient Giving', 'Senior Advisor', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joe-carlsmith-8ab07148/', NULL, 'Advisor', 'Effective altruism')  
- /*........................................................Closed positions.....................................................................................*/
     ,('Allison Blajda', 'Coefficient Giving', 'Technical Project Manager & Salesforce Administrator', '2024-01-01', 'month', '2025-07-01', 'month', 'https://www.linkedin.com/in/allisonblajda/', NULL, 'Full-time', 'Effective altruism') /*closed*/
     ,('Daniel De La Torre','Coefficient Giving','Interim Chief of Staff, Operations','2024-10-01','month', NULL, NULL,'https://www.linkedin.com/in/danny-de-la-torre-6a707a117/ https://web.archive.org/web/20241221130827/https://www.openphilanthropy.org/team/ https://web.archive.org/web/20250526231916/https://www.openphilanthropy.org/team/', NULL, NULL, 'Effective altruism')  /*closed*/
     ,('Peter Favaloro','Coefficient Giving','Research Fellow','2019-10-01','month','2023-06-01','month','https://www.linkedin.com/in/peterfavaloro/','San Francisco Bay Area','Full-time','Effective altruism') /*closed*/
