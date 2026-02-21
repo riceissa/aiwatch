@@ -9,11 +9,13 @@
     ,('Jolly Trivedi', 'AI Safety Camp', 'AI Policy External Collaborator', '2025-01-01', 'month', '2025-12-01', 'month', 'https://www.linkedin.com/in/jollytrivedi/', NULL, NULL, NULL, NULL, 'AI safety')  
     ,('Ayo A.', 'AI Safety Camp', 'AI Research Lead', '2024-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/ayo-a-0209ab1a1/', NULL, NULL, NULL, NULL, 'AI safety')  
     ,('Can Narin', 'AI Safety Camp', 'Researcher', '2025-01-01', 'month', '2025-08-01', 'month', 'https://www.linkedin.com/in/can-narin-550145123/', NULL, NULL, NULL, NULL, 'AI safety')  
-,('Caleb Maresca', 'AI Safety Camp', 'Researcher', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/caleb-maresca/', NULL, NULL, NULL, NULL, 'AI safety')
-,('Jesse Thaiya', 'AI Safety Camp', 'Research Assistant', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/caleb-maresca/', NULL, NULL, NULL, 'part-time', 'AI safety')  
-,('Kuil Schoneveld', 'AI Safety Camp', 'Researcher', '2024-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kuil-schoneveld/', NULL, NULL, NULL, NULL, 'AI safety')
-,('Aditya Adiga', 'AI Safety Camp', 'Researcher', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/aditya-adiga-a243631a1/', NULL, NULL, NULL, NULL, 'AI safety')
-,('Pranshul B.', 'AI Safety Camp', 'Researcher', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/pranshul-b-00051b213/', NULL, NULL, NULL, NULL, 'AI safety')
+    ,('Caleb Maresca','Upstart','Research Scientist Intern','2025-06-01','month','2025-09-01','month','https://www.linkedin.com/in/caleb-maresca/',NULL,NULL,'intern',NULL)
+    ,('Kuil Schoneveld','AI Safety Camp','Research Team Member','2024-12-01','month','2025-06-01','month','https://www.linkedin.com/in/kuil-schoneveld/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Aditya Adiga','AI Safety Camp','Research Mentor','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/aditya-adiga-a243631a1/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Pranshul B.', 'AI Safety Camp', 'Researcher', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/pranshul-b-00051b213/', NULL, NULL, NULL, NULL, 'AI safety')
+ 
+
+
 ,('Kaushik Sanjay Prabhakar', 'AI Safety Camp', 'Researcher', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/pranshul-b-00051b213/', NULL, NULL, NULL, 'part-time', 'AI safety')
 ,('Sundar Sripada', 'AI Safety Camp', 'Research Engineer', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sundarsripada26/', NULL, NULL, NULL, 'part-time', 'AI safety')
 ,('Raymond Koopmanschap', 'AI Safety Camp', 'Compute Governance Researcher', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/raymond-koopmanschap/', NULL, NULL, NULL, 'part-time', 'AI safety')
@@ -66,3 +68,5 @@
 ,('Sai Joseph', 'AI Safety Camp', 'Volunteer', '2022-01-01', 'month', '2022-06-01', 'month', 'https://web.archive.org/web/20211022153141/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
 ,('Adam Shimi', 'AI Safety Camp', 'Volunteer', '2022-01-01', 'month', '2022-06-01', 'month', 'https://web.archive.org/web/20211022153141/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
 ,('Kristi Uustalu', 'AI Safety Camp', 'Operations Coordinator', '2021-10-01', 'month', '2023-10-01', 'month', 'https://web.archive.org/web/20211022153141/https://aisafety.camp/about-us/ https://www.linkedin.com/in/kristi-uustalu-586800233/ https://web.archive.org/web/20230609113533/https://www.aisafety.camp/organizers/', NULL, NULL, NULL, 'full-time', 'AI safety')
+,('Jesse Thaiya', 'AI Safety Camp', 'Research Assistant', '2025-02-01', 'month', '2025-04-01', 'month', 'https://www.linkedin.com/in/jesse-thaiya/', NULL, NULL, NULL, 'part-time', 'AI safety')  
+,('Aditya Adiga', 'AI Safety Camp', 'Researcher', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.linkedin.com/in/aditya-adiga-a243631a1/', NULL, NULL, NULL, NULL, 'AI safety')
