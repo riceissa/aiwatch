@@ -16,7 +16,11 @@
     ,('Kaushik Sanjay Prabhakar','AI Safety Camp','AI Safety Researcher','2025-01-01','month','2025-08-01','month','https://www.linkedin.com/in/kaushiksanjayprabhakar/',NULL,NULL, NULL, 'part-time','AI safety')
     ,('Sundar Sripada', 'AI Safety Camp', 'Research Engineer', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sundarsripada26/', NULL, NULL, NULL, 'part-time', 'AI safety')
     ,('Ana López','AI Safety Camp','Investigador','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/ana-l%C3%B3pez-593234144/',NULL,NULL, NULL,'intern','AI safety')
- 
+    ,('Josh Thorsteinson','AI Safety Camp','Research Analyst','2025-01-01','month','2025-06-01','month','https://www.linkedin.com/in/josh-thorsteinson/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Johan S. Daniel','AI Safety Camp','Research Fellow','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/johan-s-daniel/',NULL,NULL,'part-time','AI safety')
+    ,('Riccardo Campanella','AI Safety Camp','AI Safety Researcher','2025-01-01','month',NULL,NULL,'https://www.linkedin.com/in/riccardo-campanella/',NULL,NULL,'part-time','AI safety')
+    ,('Swaleha Parveen','AI Safety Camp','Researcher','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/swaleha/',NULL,NULL,NULL,NULL,'AI safety')
+
 /*.............................................................................closed positions below............................................................................*/
 ,('Remmelt Ellen', 'AI Safety Camp', 'Co-initiator', '2017-11-01', 'month', '2018-04-01', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/ https://www.linkedin.com/in/remmelt-ellen-19b88045/', NULL, NULL, NULL, NULL, 'AI safety') 
 ,('Tom McGrath', 'AI Safety Camp', 'Volunteer', '2018-04-01', 'month', '2018-04-30', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/', NULL, NULL, NULL, 'volunteer', 'AI safety')
