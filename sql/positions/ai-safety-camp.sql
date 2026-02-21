@@ -1,19 +1,14 @@
  insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
-   ('Remmelt Ellen', 'AI Safety Camp', 'Coordinator of Stop/Pause projects', '2020-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/remmelt-ellen-19b88045/', NULL, NULL, NULL, NULL, 'AI safety')
-   ,('Robert Kralisch', 'AI Safety Camp', 'Research Coordinator and Organizer', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/robert-kralisch-bb431b153/', NULL, NULL, NULL, 'remote', 'AI safety')
-
- 
-
- 
-,('Linda Linsefors', 'AI Safety Camp', 'Research Coordinator', '2022-11-01', 'month', NULL, NULL, 'https://web.archive.org/web/20230205225259/https://www.aisafety.camp/organizers/ https://www.linkedin.com/in/dr-linda-linsefors-a2158ba2/', NULL, NULL, NULL, NULL, 'AI safety')    /* Reviewed on 2025-08-18 / / Last available Wayback snapshot date is 2025-08-18 */  
- /* ONLY LINKEDIN */  
-,('Claire Short', 'AI Safety Camp', 'Research Lead', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/claireshort4/', NULL, NULL, NULL, NULL, 'AI safety')  
-,('Anna-Katharina Dick', 'AI Safety Camp', 'Associate Researcher', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/anna-katharina-dick-99b676181/', NULL, NULL, NULL, NULL, 'AI safety')  
-,('Gerard Boxó Corominas', 'AI Safety Camp', 'Researcher', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gerard-boxo-183598275/', NULL, NULL, NULL, NULL, 'AI safety')  
-,('Chad Burghardt', 'AI Safety Camp', 'Researcher', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/chad-burghardt-723416142/', NULL, NULL, NULL, NULL, 'AI safety')  
-,('Jolly Trivedi', 'AI Safety Camp', 'AI Policy External Collaborator', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jollytrivedi/', NULL, NULL, NULL, NULL, 'AI safety')  
-,('Ayo A.', 'AI Safety Camp', 'AI Research Lead', '2024-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/ayo-a-0209ab1a1/', NULL, NULL, NULL, NULL, 'AI safety')  
-,('Can Narin', 'AI Safety Camp', 'Researcher', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/can-narin-550145123/', NULL, NULL, NULL, NULL, 'AI safety')  
+    ('Remmelt Ellen', 'AI Safety Camp', 'Coordinator of Stop/Pause projects', '2020-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/remmelt-ellen-19b88045/', NULL, NULL, NULL, NULL, 'AI safety')
+    ,('Robert Kralisch', 'AI Safety Camp', 'Research Coordinator and Organizer', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/robert-kralisch-bb431b153/', NULL, NULL, NULL, NULL, 'AI safety')
+    ,('Linda Linsefors', 'AI Safety Camp', 'Research Coordinator', '2022-11-01', 'month', NULL, NULL, 'https://web.archive.org/web/20230205225259/https://www.aisafety.camp/organizers/ https://www.linkedin.com/in/dr-linda-linsefors-a2158ba2/', NULL, NULL, NULL, NULL, 'AI safety')   
+    ,('Claire Short', 'AI Safety Camp', 'Research Lead', '2025-01-01', 'month', '2025-12-01', 'month', 'https://www.linkedin.com/in/claireshort4/', NULL, NULL, NULL, NULL, 'AI safety')  
+    ,('Anna-Katharina Dick', 'AI Safety Camp', 'Associate Researcher', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/anna-katharina-dick-99b676181/', NULL, NULL, NULL, NULL, 'AI safety')  
+    ,('Gerard Boxó Corominas', 'AI Safety Camp', 'Researcher', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gerard-boxo-183598275/', NULL, NULL, NULL, NULL, 'AI safety') 
+    ,('Chad Burghardt', 'AI Safety Camp', 'Researcher', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/chad-burghardt-723416142/', NULL, NULL, NULL, NULL, 'AI safety')  
+    ,('Jolly Trivedi', 'AI Safety Camp', 'AI Policy External Collaborator', '2025-01-01', 'month', '2025-12-01', 'month', 'https://www.linkedin.com/in/jollytrivedi/', NULL, NULL, NULL, NULL, 'AI safety')  
+    ,('Ayo A.', 'AI Safety Camp', 'AI Research Lead', '2024-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/ayo-a-0209ab1a1/', NULL, NULL, NULL, NULL, 'AI safety')  
+    ,('Can Narin', 'AI Safety Camp', 'Researcher', '2025-01-01', 'month', '2025-08-01', 'month', 'https://www.linkedin.com/in/can-narin-550145123/', NULL, NULL, NULL, NULL, 'AI safety')  
 ,('Caleb Maresca', 'AI Safety Camp', 'Researcher', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/caleb-maresca/', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Jesse Thaiya', 'AI Safety Camp', 'Research Assistant', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/caleb-maresca/', NULL, NULL, NULL, 'part-time', 'AI safety')  
 ,('Kuil Schoneveld', 'AI Safety Camp', 'Researcher', '2024-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kuil-schoneveld/', NULL, NULL, NULL, NULL, 'AI safety')
