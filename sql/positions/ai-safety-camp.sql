@@ -15,11 +15,17 @@
     ,('Pranshul B.', 'AI Safety Camp', 'Researcher', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/pranshul-b-00051b213/', NULL, NULL, NULL, NULL, 'AI safety')
     ,('Kaushik Sanjay Prabhakar','AI Safety Camp','AI Safety Researcher','2025-01-01','month','2025-08-01','month','https://www.linkedin.com/in/kaushiksanjayprabhakar/',NULL,NULL, NULL, 'part-time','AI safety')
     ,('Sundar Sripada', 'AI Safety Camp', 'Research Engineer', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sundarsripada26/', NULL, NULL, NULL, 'part-time', 'AI safety')
-    ,('Ana López','AI Safety Camp','Investigador','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/ana-l%C3%B3pez-593234144/',NULL,NULL, NULL,'intern','AI safety')
+    ,('Ana López','AI Safety Camp','Researcher','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/ana-l%C3%B3pez-593234144/',NULL,NULL, NULL,'intern','AI safety')
     ,('Josh Thorsteinson','AI Safety Camp','Research Analyst','2025-01-01','month','2025-06-01','month','https://www.linkedin.com/in/josh-thorsteinson/',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Johan S. Daniel','AI Safety Camp','Research Fellow','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/johan-s-daniel/',NULL,NULL,'part-time','AI safety')
-    ,('Riccardo Campanella','AI Safety Camp','AI Safety Researcher','2025-01-01','month',NULL,NULL,'https://www.linkedin.com/in/riccardo-campanella/',NULL,NULL,'part-time','AI safety')
+    ,('Johan S. Daniel','AI Safety Camp','Research Fellow','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/johan-s-daniel/',NULL,NULL,NULL,'part-time','AI safety')
+    ,('Riccardo Campanella','AI Safety Camp','AI Safety Researcher','2025-01-01','month',NULL,NULL,'https://www.linkedin.com/in/riccardo-campanella/',NULL,NULL,NULL,'part-time','AI safety')
     ,('Swaleha Parveen','AI Safety Camp','Researcher','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/swaleha/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Ihor Kendiukhov','AI Safety Camp','Research Lead','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/ikendiukhov/',NULL,NULL,'part-time','AI safety')
+    ,('Samuel J. Wang','AI Safety Camp','Researcher','2025-01-01','year',NULL,NULL,'https://www.linkedin.com/in/samueljwang/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Ilyass Mofaddel','AI Safety Camp','Researcher','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/ilyass-mofaddel/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Oluwagbemike Olowe','AI Safety Camp','Research','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/oluwagbemike-olowe-4037061b0/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Ali Narin','AI Safety Camp','Researcher','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/ali-narin-82454b211/',NULL,NULL,NULL,NULL,'AI safety')
+
 
 /*.............................................................................closed positions below............................................................................*/
 ,('Remmelt Ellen', 'AI Safety Camp', 'Co-initiator', '2017-11-01', 'month', '2018-04-01', 'month', 'https://web.archive.org/web/20200815011302/https://aisafety.camp/about-us/ https://www.linkedin.com/in/remmelt-ellen-19b88045/', NULL, NULL, NULL, NULL, 'AI safety') 
