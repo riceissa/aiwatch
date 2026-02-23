@@ -134,3 +134,26 @@
 ,('Juan Azcarreta Ortiz', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
 ,('Danilo Naiff', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
 ,('Cecilia Wood', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+
+,('Robert Kralisch', 'AI Safety Camp', 'Research lead', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Anton Zheltoukhov', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Sohaib Imran', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Johnnie Pascalidis', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('David Liu', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+
+,('Nicholas Kees Dupuis', 'AI Safety Camp', 'Research lead', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
+,('Dmitry Savishchev', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
+,('Kanad Chakrabarti', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
+,('Mikhail Seleznyov', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
+,('Peter Hrosso', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
+,('Simon Celinder', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
+,('Ethan Edwards', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
+,('Henri Lemoine', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
+,('Mark Kamuda', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
+,('Saumya Mishra', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
+,('Robert Gambee', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
+,('Julia Persson', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
+,('Arun Jose', 'AI Safety Camp', 'External collaborator', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
+,('Quentin Feuillade-Montixi', 'AI Safety Camp', 'External collaborator', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
+,('Hunar Batra', 'AI Safety Camp', 'External collaborator', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
+,('Gabe Mukobi', 'AI Safety Camp', 'External collaborator', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
