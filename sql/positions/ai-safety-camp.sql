@@ -6,7 +6,6 @@
 ,('Alyssa Chase-Vilchez', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
 ,('Manuela García Toro', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
 ,('Andrei-Octavian Dirla', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
- 
 /*.............................................................................AI Policy Course: legal structures and rights............................................................................*/
 ,('Marcel Mir', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
 ,('Kathrin Gardhouse', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
@@ -16,7 +15,14 @@
 ,('Arth Singh', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
 ,('Feranmi Adeoye', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
 ,('Ramya Nadig', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
-
+/*............................................................................. Building the Pause Button............................................................................*/
+,('Joep Meindertsma', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
+,('Farhan Shafiq', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
+,('Raymond Koopmanschap', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
+,('Ananthi Al Ramiah', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
+,('Dominika Kunertova', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
+,('Mitali Mittal', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
+,('Ricardo Manhães Savii', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
 
     
     ,('Remmelt Ellen', 'AI Safety Camp', 'Coordinator of Stop/Pause projects', '2020-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/remmelt-ellen-19b88045/', NULL, NULL, NULL, NULL, 'AI safety')
