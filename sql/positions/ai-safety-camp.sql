@@ -85,6 +85,12 @@
 ,('Raymond Koopmanschap', 'AI Safety Camp', 'Compute Governance Researcher', '2025-01-01', 'month', '2025-07-01', 'month', 'https://www.linkedin.com/in/raymond-koopmanschap/', NULL, NULL, NULL, 'part-time', 'AI safety')
 
 
+-- Towards realistic ODDs for foundation model based AI offerings
+('Igor Krawczuk', 'AI Safety Camp', 'Team member', '2024-01-01', 'month', '2024-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc9-virtual-2024', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
+,('Paulius Skaisgiris', 'AI Safety Camp', 'Team member', '2024-01-01', 'month', '2024-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc9-virtual-2024', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Scott Bursese', 'AI Safety Camp', 'Team member', '2024-01-01', 'month', '2024-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc9-virtual-2024', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Arghya Sarkar', 'AI Safety Camp', 'Team member', '2024-01-01', 'month', '2024-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc9-virtual-2024', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Tanvir Iqbal', 'AI Safety Camp', 'Team member', '2024-01-01', 'month', '2024-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc9-virtual-2024', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
 
 /*.............................................................................Stop/Pause AI – Growing PauseAI............................................................................*/
 ,('Chris Gerrby', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
