@@ -1,14 +1,23 @@
  insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
     
-     ('Chris Gerrby', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', 'AISC10: Virtual (Jan–Apr 2025); project: Growing PauseAI (Stop/Pause AI)', NULL, 'Growing PauseAI', NULL, 'AI safety')
-    ,('Sharon Mwaniki', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', 'AISC10: Virtual (Jan–Apr 2025); project: Growing PauseAI (Stop/Pause AI)', NULL, 'Growing PauseAI', NULL, 'AI safety')
-    ,('Alyssa Chase-Vilchez', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', 'AISC10: Virtual (Jan–Apr 2025); project: Growing PauseAI (Stop/Pause AI)', NULL, 'Growing PauseAI', NULL, 'AI safety')
-    ,('Manuela García Toro', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', 'AISC10: Virtual (Jan–Apr 2025); project: Growing PauseAI (Stop/Pause AI)', NULL, 'Growing PauseAI', NULL, 'AI safety')
-    ,('Andrei-Octavian Dirla', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', 'AISC10: Virtual (Jan–Apr 2025); project: Growing PauseAI (Stop/Pause AI)', NULL, 'Growing PauseAI', NULL, 'AI safety')
-    
+/*.............................................................................Stop/Pause AI – Growing PauseAI............................................................................*/
+('Chris Gerrby', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety') /*Reviewed in 2026-02-23*/
+,('Sharon Mwaniki', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
+,('Alyssa Chase-Vilchez', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
+,('Manuela García Toro', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
+,('Andrei-Octavian Dirla', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
+ 
+/*.............................................................................AI Policy Course: legal structures and rights............................................................................*/
+,('Marcel Mir', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
+,('Kathrin Gardhouse', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
+,('Suchet Mittal', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
+,('Chloe Jefferson', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
+,('Melissa Ninsiima', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
+,('Arth Singh', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
+,('Feranmi Adeoye', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
+,('Ramya Nadig', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*Reviewed in 2026-02-23*/
 
 
-    
     
     ,('Remmelt Ellen', 'AI Safety Camp', 'Coordinator of Stop/Pause projects', '2020-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/remmelt-ellen-19b88045/', NULL, NULL, NULL, NULL, 'AI safety')
     ,('Robert Kralisch', 'AI Safety Camp', 'Research Coordinator and Organizer', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/robert-kralisch-bb431b153/', NULL, NULL, NULL, NULL, 'AI safety')
