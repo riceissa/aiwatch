@@ -129,3 +129,12 @@
 ,('Spencer Ames', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
 ,('Adebayo Mubarak', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
 ,('Can Narin', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
+
+
+-- Uncertainty -> Soft Optimization
+('Jeremy Gillen', 'AI Safety Camp', 'Research lead', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
+,('Benjamin Kolb', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Simon Fischer', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Juan Azcarreta Ortiz', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Danilo Naiff', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Cecilia Wood', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
