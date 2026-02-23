@@ -1,5 +1,16 @@
  insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
-    ('Remmelt Ellen', 'AI Safety Camp', 'Coordinator of Stop/Pause projects', '2020-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/remmelt-ellen-19b88045/', NULL, NULL, NULL, NULL, 'AI safety')
+    
+     ('Chris Gerrby', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', 'AISC10: Virtual (Jan–Apr 2025); project: Growing PauseAI (Stop/Pause AI)', NULL, 'Growing PauseAI', NULL, 'AI safety')
+    ,('Sharon Mwaniki', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', 'AISC10: Virtual (Jan–Apr 2025); project: Growing PauseAI (Stop/Pause AI)', NULL, 'Growing PauseAI', NULL, 'AI safety')
+    ,('Alyssa Chase-Vilchez', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', 'AISC10: Virtual (Jan–Apr 2025); project: Growing PauseAI (Stop/Pause AI)', NULL, 'Growing PauseAI', NULL, 'AI safety')
+    ,('Manuela García Toro', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', 'AISC10: Virtual (Jan–Apr 2025); project: Growing PauseAI (Stop/Pause AI)', NULL, 'Growing PauseAI', NULL, 'AI safety')
+    ,('Andrei-Octavian Dirla', 'AI Safety Camp', 'Team member', '2025-01-01', 'month', '2025-04-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc10-virtual-2025', 'AISC10: Virtual (Jan–Apr 2025); project: Growing PauseAI (Stop/Pause AI)', NULL, 'Growing PauseAI', NULL, 'AI safety')
+    
+
+
+    
+    
+    ,('Remmelt Ellen', 'AI Safety Camp', 'Coordinator of Stop/Pause projects', '2020-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/remmelt-ellen-19b88045/', NULL, NULL, NULL, NULL, 'AI safety')
     ,('Robert Kralisch', 'AI Safety Camp', 'Research Coordinator and Organizer', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/robert-kralisch-bb431b153/', NULL, NULL, NULL, NULL, 'AI safety')
     ,('Linda Linsefors', 'AI Safety Camp', 'Research Coordinator', '2022-11-01', 'month', NULL, NULL, 'https://web.archive.org/web/20230205225259/https://www.aisafety.camp/organizers/ https://www.linkedin.com/in/dr-linda-linsefors-a2158ba2/', NULL, NULL, NULL, NULL, 'AI safety')   
     ,('Claire Short', 'AI Safety Camp', 'Research Lead', '2025-01-01', 'month', '2025-12-01', 'month', 'https://www.linkedin.com/in/claireshort4/', NULL, NULL, NULL, NULL, 'AI safety')  
@@ -20,7 +31,7 @@
     ,('Johan S. Daniel','AI Safety Camp','Research Fellow','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/johan-s-daniel/',NULL,NULL,NULL,'part-time','AI safety')
     ,('Riccardo Campanella','AI Safety Camp','AI Safety Researcher','2025-01-01','month',NULL,NULL,'https://www.linkedin.com/in/riccardo-campanella/',NULL,NULL,NULL,'part-time','AI safety')
     ,('Swaleha Parveen','AI Safety Camp','Researcher','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/swaleha/',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Ihor Kendiukhov','AI Safety Camp','Research Lead','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/ikendiukhov/',NULL,NULL,'part-time','AI safety')
+    ,('Ihor Kendiukhov','AI Safety Camp','Research Lead','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/ikendiukhov/',NULL,NULL,NULL,'part-time','AI safety')
     ,('Samuel J. Wang','AI Safety Camp','Researcher','2025-01-01','year',NULL,NULL,'https://www.linkedin.com/in/samueljwang/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Ilyass Mofaddel','AI Safety Camp','Researcher','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/ilyass-mofaddel/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Oluwagbemike Olowe','AI Safety Camp','Research','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/oluwagbemike-olowe-4037061b0/',NULL,NULL,NULL,NULL,'AI safety')
