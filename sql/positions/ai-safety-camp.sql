@@ -325,3 +325,19 @@
 ,('Daniel Braun', 'AI Safety Camp', 'Team member', '2021-01-01', 'month', '2021-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc5-virtual-2021', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
 ,('Joe Kwon', 'AI Safety Camp', 'Team member', '2021-01-01', 'month', '2021-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc5-virtual-2021', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
 ,('Max Chiswick', 'AI Safety Camp', 'Team member', '2021-01-01', 'month', '2021-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc5-virtual-2021', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+
+
+,('Alexis Carlier', 'AI Safety Camp', 'Team member', '2020-02-01', 'month', '2020-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc4-toronto-virtual-2020', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
+,('Sam Clarke', 'AI Safety Camp', 'Team member', '2020-02-01', 'month', '2020-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc4-toronto-virtual-2020', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Jonas Schuett', 'AI Safety Camp', 'Team member', '2020-02-01', 'month', '2020-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc4-toronto-virtual-2020', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+ 
+,('Samuel Curtis', 'AI Safety Camp', 'Team member', '2020-02-01', 'month', '2020-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc4-toronto-virtual-2020', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Otto Barten', 'AI Safety Camp', 'Team member', '2020-02-01', 'month', '2020-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc4-toronto-virtual-2020', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Chris Cooper', 'AI Safety Camp', 'Team member', '2020-02-01', 'month', '2020-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc4-toronto-virtual-2020', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Rob Anue', 'AI Safety Camp', 'Team member', '2020-02-01', 'month', '2020-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc4-toronto-virtual-2020', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+ 
+,('Mislav Juric', 'AI Safety Camp', 'Team member', '2020-02-01', 'month', '2020-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc4-toronto-virtual-2020', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Taylor Kulp-McDowall', 'AI Safety Camp', 'Team member', '2020-02-01', 'month', '2020-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc4-toronto-virtual-2020', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Arun Raja', 'AI Safety Camp', 'Team member', '2020-02-01', 'month', '2020-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc4-toronto-virtual-2020', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Riccardo Volpato', 'AI Safety Camp', 'Team member', '2020-02-01', 'month', '2020-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc4-toronto-virtual-2020', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Nevan Wichers', 'AI Safety Camp', 'Team member', '2020-02-01', 'month', '2020-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc4-toronto-virtual-2020', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
