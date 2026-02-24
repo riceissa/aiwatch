@@ -354,7 +354,7 @@
 ,('Max Chiswick', 'AI Safety Camp', 'Team member', '2020-02-01', 'month', '2020-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc4-toronto-virtual-2020', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
 ,('Sam Clarke', 'AI Safety Camp', 'Team member', '2020-02-01', 'month', '2020-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc4-toronto-virtual-2020', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
 
-('Arushi', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Arushi', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
 ,('Davide', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
 ,('Sayan', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
  
@@ -372,3 +372,22 @@
 ,('Jonas Müller', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
 ,('Miles Tidmarsh', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
 ,('Vasily Kuznetsov', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+
+,('Dominik Fay', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Misha Yagudin', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Ronak Mehta', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+
+,('Lewis Hammond', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Nikolas Bernaola', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Saasha Nair', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+
+,('Jason Hepburn', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Nix Goldowsky-Dill', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Pablo Antonio Moreno Casares', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Ross Gruetzemacher', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Vasilios Mavroudis', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+ 
+,('Cynthia Yoon', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Jordi Bieger', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Laszlo Treszkai', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Ronja Lutz', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
