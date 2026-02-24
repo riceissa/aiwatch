@@ -230,3 +230,11 @@
 ,('Nate Rush', 'AI Safety Camp', 'Team member', '2022-01-01', 'month', '2022-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc6-virtual-2022', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
 ,('Claudio Ceruti', 'AI Safety Camp', 'Team member', '2022-01-01', 'month', '2022-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc6-virtual-2022', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
 ,('Daniel Kokotajlo', 'AI Safety Camp', 'External collaborator', '2022-01-01', 'month', '2022-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc6-virtual-2022', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+
+,('Aemilia Dixon', 'AI Safety Camp', 'Team member', '2022-01-01', 'month', '2022-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc6-virtual-2022', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Berbank Green', 'AI Safety Camp', 'Team member', '2022-01-01', 'month', '2022-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc6-virtual-2022', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Iris Holloway', 'AI Safety Camp', 'Team member', '2022-01-01', 'month', '2022-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc6-virtual-2022', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Karl von Wendt', 'AI Safety Camp', 'Team member', '2022-01-01', 'month', '2022-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc6-virtual-2022', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Daniel Kokotajlo', 'AI Safety Camp', 'External collaborator', '2022-01-01', 'month', '2022-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc6-virtual-2022', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Changbai Li', 'AI Safety Camp', 'External collaborator', '2022-01-01', 'month', '2022-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc6-virtual-2022', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Cristian Trout', 'AI Safety Camp', 'External collaborator', '2022-01-01', 'month', '2022-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc6-virtual-2022', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
