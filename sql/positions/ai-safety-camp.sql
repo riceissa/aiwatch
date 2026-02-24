@@ -313,3 +313,15 @@
 ,('Roland Pihlakas', 'AI Safety Camp', 'Team member', '2021-01-01', 'month', '2021-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc5-virtual-2021', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
 ,('Ben Smith', 'AI Safety Camp', 'Team member', '2021-01-01', 'month', '2021-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc5-virtual-2021', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
 ,('Peter Vamplew', 'AI Safety Camp', 'External collaborator', '2021-01-01', 'month', '2021-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc5-virtual-2021', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+
+,('Jamie Bernardi', 'AI Safety Camp', 'Team member', '2021-01-01', 'month', '2021-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc5-virtual-2021', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('David Reber', 'AI Safety Camp', 'Team member', '2021-01-01', 'month', '2021-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc5-virtual-2021', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Magdalena Wache', 'AI Safety Camp', 'Team member', '2021-01-01', 'month', '2021-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc5-virtual-2021', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Peter Barnett', 'AI Safety Camp', 'Team member', '2021-01-01', 'month', '2021-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc5-virtual-2021', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Max Clarke', 'AI Safety Camp', 'Team member', '2021-01-01', 'month', '2021-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc5-virtual-2021', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Michael Cohen', 'AI Safety Camp', 'External collaborator', '2021-01-01', 'month', '2021-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc5-virtual-2021', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+ 
+,('Lee Sharkey', 'AI Safety Camp', 'Team member', '2021-01-01', 'month', '2021-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc5-virtual-2021', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Daniel Braun', 'AI Safety Camp', 'Team member', '2021-01-01', 'month', '2021-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc5-virtual-2021', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Joe Kwon', 'AI Safety Camp', 'Team member', '2021-01-01', 'month', '2021-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc5-virtual-2021', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Max Chiswick', 'AI Safety Camp', 'Team member', '2021-01-01', 'month', '2021-05-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc5-virtual-2021', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
