@@ -169,3 +169,11 @@
 ,('Henning Bartsch', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Domenic Rosati', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
 ,('Jason Hoelscher-Obermaier', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
+
+,('Eleanor ''Nell'' Watson', 'AI Safety Camp', 'Research lead', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
+,('Lukas Petersson', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
+,('Benjamin Sturgeon', 'AI Safety Camp', 'Team member', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
+,('Alex Almeida Andrade', 'AI Safety Camp', 'External collaborator', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
+,('Thiago Viana', 'AI Safety Camp', 'External collaborator', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
+,('Erick Willian', 'AI Safety Camp', 'External collaborator', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
+,('Shujun Zhang', 'AI Safety Camp', 'External collaborator', '2023-03-01', 'month', '2023-06-01', 'month', 'https://www.aisafety.camp/research-outputs/aisc8-virtual-2023', NULL, NULL, NULL, NULL, 'AI safety')
