@@ -432,3 +432,29 @@
 ,('Jan Kulveit', 'AI Safety Camp', 'Team member', '2018-10-04', 'day', '2018-10-14', 'day', 'https://www.aisafety.camp/research-outputs/aisc2-prague-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
 ,('Linda Linsefors', 'AI Safety Camp', 'Team member', '2018-10-04', 'day', '2018-10-14', 'day', 'https://www.aisafety.camp/research-outputs/aisc2-prague-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
 ,('Alexey Turchin', 'AI Safety Camp', 'Team member', '2018-10-04', 'day', '2018-10-14', 'day', 'https://www.aisafety.camp/research-outputs/aisc2-prague-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+
+
+,('Christopher Galias', 'AI Safety Camp', 'Team member', '2018-04-12', 'day', '2018-04-22', 'day', 'https://www.aisafety.camp/research-outputs/aisc1-las-palmas-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Johannes Heidecke', 'AI Safety Camp', 'Team member', '2018-04-12', 'day', '2018-04-22', 'day', 'https://www.aisafety.camp/research-outputs/aisc1-las-palmas-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Dmitrii Krasheninnikov', 'AI Safety Camp', 'Team member', '2018-04-12', 'day', '2018-04-22', 'day', 'https://www.aisafety.camp/research-outputs/aisc1-las-palmas-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Jan Kulveit', 'AI Safety Camp', 'Team member', '2018-04-12', 'day', '2018-04-22', 'day', 'https://www.aisafety.camp/research-outputs/aisc1-las-palmas-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Nandi Schoots', 'AI Safety Camp', 'Team member', '2018-04-12', 'day', '2018-04-22', 'day', 'https://www.aisafety.camp/research-outputs/aisc1-las-palmas-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+ 
+,('Karl Koch', 'AI Safety Camp', 'Team member', '2018-04-12', 'day', '2018-04-22', 'day', 'https://www.aisafety.camp/research-outputs/aisc1-las-palmas-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('David Kristoffersson', 'AI Safety Camp', 'Team member', '2018-04-12', 'day', '2018-04-22', 'day', 'https://www.aisafety.camp/research-outputs/aisc1-las-palmas-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Markus Salmela', 'AI Safety Camp', 'Team member', '2018-04-12', 'day', '2018-04-22', 'day', 'https://www.aisafety.camp/research-outputs/aisc1-las-palmas-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Justin Shovelain', 'AI Safety Camp', 'Team member', '2018-04-12', 'day', '2018-04-22', 'day', 'https://www.aisafety.camp/research-outputs/aisc1-las-palmas-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+ 
+,('Vojta Kovarik', 'AI Safety Camp', 'Team member', '2018-04-12', 'day', '2018-04-22', 'day', 'https://www.aisafety.camp/research-outputs/aisc1-las-palmas-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Igor Sieradzki', 'AI Safety Camp', 'Team member', '2018-04-12', 'day', '2018-04-22', 'day', 'https://www.aisafety.camp/research-outputs/aisc1-las-palmas-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Michael Świętek', 'AI Safety Camp', 'Team member', '2018-04-12', 'day', '2018-04-22', 'day', 'https://www.aisafety.camp/research-outputs/aisc1-las-palmas-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+ 
+,('James Bell', 'AI Safety Camp', 'Team member', '2018-04-12', 'day', '2018-04-22', 'day', 'https://www.aisafety.camp/research-outputs/aisc1-las-palmas-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Linda Linsefors', 'AI Safety Camp', 'Team member', '2018-04-12', 'day', '2018-04-22', 'day', 'https://www.aisafety.camp/research-outputs/aisc1-las-palmas-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Caspar Oesterheld', 'AI Safety Camp', 'Team member', '2018-04-12', 'day', '2018-04-22', 'day', 'https://www.aisafety.camp/research-outputs/aisc1-las-palmas-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Joar Skalse', 'AI Safety Camp', 'Team member', '2018-04-12', 'day', '2018-04-22', 'day', 'https://www.aisafety.camp/research-outputs/aisc1-las-palmas-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+ 
+,('Jessica Cooper', 'AI Safety Camp', 'Team member', '2018-04-12', 'day', '2018-04-22', 'day', 'https://www.aisafety.camp/research-outputs/aisc1-las-palmas-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Karol Kubicki', 'AI Safety Camp', 'Team member', '2018-04-12', 'day', '2018-04-22', 'day', 'https://www.aisafety.camp/research-outputs/aisc1-las-palmas-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Gavin Leech', 'AI Safety Camp', 'Team member', '2018-04-12', 'day', '2018-04-22', 'day', 'https://www.aisafety.camp/research-outputs/aisc1-las-palmas-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Tom McGrath', 'AI Safety Camp', 'Team member', '2018-04-12', 'day', '2018-04-22', 'day', 'https://www.aisafety.camp/research-outputs/aisc1-las-palmas-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
