@@ -391,3 +391,20 @@
 ,('Jordi Bieger', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
 ,('Laszlo Treszkai', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
 ,('Ronja Lutz', 'AI Safety Camp', 'Team member', '2019-04-26', 'day', '2019-05-05', 'day', 'https://www.aisafety.camp/aisc3-madrid-2019', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+
+,('Brandon Perry', 'AI Safety Camp', 'Team member', '2018-10-04', 'day', '2018-10-14', 'day', 'https://www.aisafety.camp/research-outputs/aisc2-prague-2018', NULL, NULL, NULL, NULL, 'AI safety') /*closed*/
+,('Risto Uuk', 'AI Safety Camp', 'Team member', '2018-10-04', 'day', '2018-10-14', 'day', 'https://www.aisafety.camp/research-outputs/aisc2-prague-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+ 
+,('Jason Mancuso', 'AI Safety Camp', 'Team member', '2018-10-04', 'day', '2018-10-14', 'day', 'https://www.aisafety.camp/research-outputs/aisc2-prague-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Tomasz Kisielewski', 'AI Safety Camp', 'Team member', '2018-10-04', 'day', '2018-10-14', 'day', 'https://www.aisafety.camp/research-outputs/aisc2-prague-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('David Lindner', 'AI Safety Camp', 'Team member', '2018-10-04', 'day', '2018-10-14', 'day', 'https://www.aisafety.camp/research-outputs/aisc2-prague-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Alok Singh', 'AI Safety Camp', 'Team member', '2018-10-04', 'day', '2018-10-14', 'day', 'https://www.aisafety.camp/research-outputs/aisc2-prague-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+ 
+,('Tomasz Kisielewski', 'AI Safety Camp', 'Team member', '2018-10-04', 'day', '2018-10-14', 'day', 'https://www.aisafety.camp/research-outputs/aisc2-prague-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('David Lindner', 'AI Safety Camp', 'Team member', '2018-10-04', 'day', '2018-10-14', 'day', 'https://www.aisafety.camp/research-outputs/aisc2-prague-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Jason Mancuso', 'AI Safety Camp', 'Team member', '2018-10-04', 'day', '2018-10-14', 'day', 'https://www.aisafety.camp/research-outputs/aisc2-prague-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Alok Singh', 'AI Safety Camp', 'Team member', '2018-10-04', 'day', '2018-10-14', 'day', 'https://www.aisafety.camp/research-outputs/aisc2-prague-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+ 
+,('Sabrina Kavanagh', 'AI Safety Camp', 'Team member', '2018-10-04', 'day', '2018-10-14', 'day', 'https://www.aisafety.camp/research-outputs/aisc2-prague-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Erin M. Linebarger', 'AI Safety Camp', 'Team member', '2018-10-04', 'day', '2018-10-14', 'day', 'https://www.aisafety.camp/research-outputs/aisc2-prague-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
+,('Nandi Schoots', 'AI Safety Camp', 'Team member', '2018-10-04', 'day', '2018-10-14', 'day', 'https://www.aisafety.camp/research-outputs/aisc2-prague-2018', NULL, NULL, NULL, NULL, 'AI safety')/*closed*/
