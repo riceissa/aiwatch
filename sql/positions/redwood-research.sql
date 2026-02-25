@@ -14,15 +14,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
    ,('Alex Mallen', 'Redwood Research', 'Member of Technical Staff', '2025-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250114011348/https://www.redwoodresearch.org/team https://web.archive.org/web/20260224024440/https://www.redwoodresearch.org/team', NULL, 'Full-time', 'AI safety') /*Last Wayback snapshot is from 2026-02-24*/ /*current position*/
    ,('Nathaniel Thomas', 'Redwood Research', 'Founder & Chief Executive Officer', '2019-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20211108181835/https://www.redwoodresearch.org/ https://www.linkedin.com/in/nathaniel-t-18603079/ https://web.archive.org/web/20260224024440/https://www.redwoodresearch.org/team', NULL, 'Full-time', 'AI safety') /*Last Wayback snapshot is from 2026-02-24*/ /*current position*/
    ,('Ammon Bartram', 'Redwood Research', 'Board of Directors', '2025-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250114011348/https://www.redwoodresearch.org/team https://web.archive.org/web/20260224024440/https://www.redwoodresearch.org/team', NULL, 'Board member', 'AI safety') /*Last Wayback snapshot is from 2026-02-24*/ /*current position*/ 
-
-
-  ,('Lukas Finnveden','Redwood Research','Research Analyst','2025-07-01','month',NULL,NULL,'https://www.linkedin.com/in/lukas-finnveden-787a07145/ https://web.archive.org/web/20260224024440/https://www.redwoodresearch.org/team',NULL,'full-time','AI safety') /*Last Wayback snapshot is from 2026-02-24*/ /*current position*/
-
-
- 
-
- 
- 
+   ,('Lukas Finnveden','Redwood Research','Research Analyst','2025-07-01','month',NULL,NULL,'https://www.linkedin.com/in/lukas-finnveden-787a07145/ https://web.archive.org/web/20260224024440/https://www.redwoodresearch.org/team',NULL,'full-time','AI safety') /*Last Wayback snapshot is from 2026-02-24*/ /*current position*/
+   ,('Alek Westover','Redwood Research','Member of Technical Staff','2025-01-01','year',NULL,NULL,'https://web.archive.org/web/20251230012108/https://www.redwoodresearch.org/team https://web.archive.org/web/20260224024440/https://www.redwoodresearch.org/team',NULL,'full-time','AI safety')/*Last Wayback snapshot is from 2026-02-24*/ /*current position*/
  
  /*..............................Only LinkedIn positions below................................*/
     ,('Julian Stastny','Redwood Research','Member of Technical Staff','2025-07-01','month',NULL,NULL,'https://www.linkedin.com/in/julian-stastny-3a0b45164/ https://web.archive.org/web/20260224024440/https://www.redwoodresearch.org/team','Leads the low-stakes control team','full-time','AI safety') 
