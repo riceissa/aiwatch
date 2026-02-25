@@ -21,7 +21,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
  
  
-    ,('Vivek Hebbar', 'Redwood Research', 'Member of Technical Staff', '2025-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250114011348/https://www.redwoodresearch.org/team', NULL, 'Full-time', 'AI safety') /*Last Wayback snapshot is from 2025-01-22*/ /*current position*/
+
  
  
  
@@ -30,8 +30,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Guilhermo Cutrim Costa', 'Redwood Research', 'Machine Learning Intern', '2022-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/guillecosta/', NULL, 'Full-time', 'AI safety')   /*current position*/
     ,('Tao Lin', 'Redwood Research', 'Member Of Technical Staff', '2021-09-01', 'month', NULL, NULL, ' https://web.archive.org/web/20211121121040/https://www.redwoodresearch.org/ https://www.linkedin.com/in/tao-lin-4651a5172/', NULL, 'full-time', 'AI safety')  /*current position*/
     ,('Royston Noronha', 'Redwood Research', 'Business Development Manager', '2020-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/roystonnoronha11/', NULL, 'full-time', 'AI safety')  /*current position*/
+    ,('Vivek Hebbar', 'Redwood Research', 'Member of Technical Staff', '2024-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/vivek-hebbar-0151b51b0/', NULL, 'Full-time', 'AI safety')  
 
-    
 /*................................................Closed positions below..................................................*/
     ,('Cody Rushing', 'Redwood Research', 'Research Intern', '2024-06-01', 'month', '2024-12-01', 'month', 'https://www.linkedin.com/in/codyrushing/', NULL, 'Full-time', 'AI safety') /*closed*/
     ,('Adam Scherlis', 'Redwood Research', 'Staff', '2021-01-01', NULL, '2023-01-22', 'year', 'https://web.archive.org/web/20210927163803/https://www.redwoodresearch.org/ https://web.archive.org/web/20230122202118/https://www.redwoodresearch.org/', NULL, NULL, 'AI safety') /*closed*/ 
