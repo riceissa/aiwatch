@@ -1,16 +1,30 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
  
-     ('Buck Shlegeris', 'Redwood Research', 'Chief Technology Officer/Chief Executive Officer', '2020-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20231116005611/https://www.redwoodresearch.org/ https://www.linkedin.com/in/buck-shlegeris-a2b89386/ https://web.archive.org/web/20250114011348/https://www.redwoodresearch.org/team', NULL, 'full-time', 'AI safety') /*Last Wayback snapshot is from 2025-01-22*/ /*current position*/
-    ,('Ryan Greenblatt', 'Redwood Research', 'Chief Scientist', '2021-12-01', 'month', '2024-11-27', 'month', 'https://www.linkedin.com/in/ryan-greenblatt-4b9907134/ https://web.archive.org/web/20250114011348/https://www.redwoodresearch.org/team', NULL, 'full-time', 'AI safety') /*Last Wayback snapshot is from 2025-01-22*/ /*current position*/
+
+
+
+
+   ('Buck Shlegeris', 'Redwood Research', 'Chief Technology Officer/Chief Executive Officer', '2020-01-01', 'year', NULL, NULL, 'https://web.archive.org/web/20231116005611/https://www.redwoodresearch.org/ https://www.linkedin.com/in/buck-shlegeris-a2b89386/ https://web.archive.org/web/20260224024440/https://www.redwoodresearch.org/team', NULL, 'full-time', 'AI safety') /*Last Wayback snapshot is from 2026-02-24*/ /*current position*/
+   ,('Ryan Greenblatt', 'Redwood Research', 'Chief Scientist', '2021-12-01', 'month', '2024-11-27', 'month', 'https://www.linkedin.com/in/ryan-greenblatt-4b9907134/ https://web.archive.org/web/20260224024440/https://www.redwoodresearch.org/team', NULL, 'full-time', 'AI safety') /*Last Wayback snapshot is from 2026-02-24*/
+   ,('Aryan Bhatt', 'Redwood Research', 'Member of Technical staff/AI Safety Researcher', '2024-01-01', 'month', NULL, NULL,  'https://www.linkedin.com/in/aryanbhatt17/ https://web.archive.org/web/20260224024440/https://www.redwoodresearch.org/team', NULL, 'full-time', 'AI safety') /*Last Wayback snapshot is from 2026-02-24*/ /*current position*/
+   ,('Cody Rushing', 'Redwood Research', 'Member of Technical Staff', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/codyrushing/ https://web.archive.org/web/20260224024440/https://www.redwoodresearch.org/team', NULL, 'Full-time', 'AI safety') /*Last Wayback snapshot is from 2026-02-24*/ /*current position*/
+   ,('Vivek Hebbar', 'Redwood Research', 'Member of Technical Staff', '2025-01-01', 'month', NULL, NULL,  'https://web.archive.org/web/20260224024440/https://www.redwoodresearch.org/team', NULL, 'Full-time', 'AI safety') /*Last Wayback snapshot is from 2026-02-24*/ /*current position*/
+   ,('Tyler Tracy', 'Redwood Research', 'Member of Technical Staff', '2025-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20260224024440/https://www.redwoodresearch.org/team', NULL, 'Full-time', 'AI safety') /*Last Wayback snapshot is from 2026-02-24*/ /*current position*/
+   ,('Adam Kaufman', 'Redwood Research', 'Member of Technical Staff', '2025-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20260224024440/https://www.redwoodresearch.org/team', NULL, 'Full-time', 'AI safety') /*Last Wayback snapshot is from 2026-02-24*/ /*current position*/
+   ,('Alex Mallen', 'Redwood Research', 'Member of Technical Staff', '2025-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20260224024440/https://www.redwoodresearch.org/team', NULL, 'Full-time', 'AI safety') /*Last Wayback snapshot is from 2026-02-24*/ /*current position*/
+   ,('Nathaniel Thomas', 'Redwood Research', 'Founder & Chief Executive Officer', '2019-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20211108181835/https://www.redwoodresearch.org/ https://www.linkedin.com/in/nathaniel-t-18603079/ https://web.archive.org/web/20260224024440/https://www.redwoodresearch.org/team', NULL, 'Full-time', 'AI safety') /*Last Wayback snapshot is from 2026-02-24*/ /*current position*/
+   ,('Ammon Bartram', 'Redwood Research', 'Board of Directors', '2025-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20260224024440/https://www.redwoodresearch.org/team', NULL, 'Board member', 'AI safety') /*Last Wayback snapshot is from 2026-02-24*/ /*current position*/ 
+
+
+
+ 
     ,('Joshua Clymer', 'Redwood Research', 'Technical Staff/Researcher', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joshua-clymer/  https://web.archive.org/web/20250114011348/https://www.redwoodresearch.org/team', NULL, 'full-time', 'AI safety') /*Last Wayback snapshot is from 2025-01-22*/ /*current position*/
-    ,('Aryan Bhatt', 'Redwood Research', 'Member of Technical staff/AI Safety Researcher', '2024-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/aryanbhatt17/ https://web.archive.org/web/20250114011348/https://www.redwoodresearch.org/team', NULL, 'full-time', 'AI safety') /*Last Wayback snapshot is from 2025-01-22*/ /*current position*/
-    ,('Cody Rushing', 'Redwood Research', 'Member of Technical Staff', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/codyrushing/ https://web.archive.org/web/20250114011348/https://www.redwoodresearch.org/team', NULL, 'Full-time', 'AI safety') /*Last Wayback snapshot is from 2025-01-22*/ /*current position*/
+ 
+ 
     ,('Vivek Hebbar', 'Redwood Research', 'Member of Technical Staff', '2025-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250114011348/https://www.redwoodresearch.org/team', NULL, 'Full-time', 'AI safety') /*Last Wayback snapshot is from 2025-01-22*/ /*current position*/
-    ,('Tyler Tracy', 'Redwood Research', 'Member of Technical Staff', '2025-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250114011348/https://www.redwoodresearch.org/team', NULL, 'Full-time', 'AI safety') /*Last Wayback snapshot is from 2025-01-22*/ /*current position*/
-    ,('Adam Kaufman', 'Redwood Research', 'Member of Technical Staff', '2025-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250114011348/https://www.redwoodresearch.org/team', NULL, 'Full-time', 'AI safety') /*Last Wayback snapshot is from 2025-01-22*/ /*current position*/
-    ,('Alex Mallen', 'Redwood Research', 'Member of Technical Staff', '2025-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250114011348/https://www.redwoodresearch.org/team', NULL, 'Full-time', 'AI safety') /*Last Wayback snapshot is from 2025-01-22*/ /*current position*/
-    ,('Nathaniel Thomas', 'Redwood Research', 'Founder & Chief Executive Officer', '2019-09-01', 'month', NULL, NULL, 'https://web.archive.org/web/20211108181835/https://www.redwoodresearch.org/ https://www.linkedin.com/in/nathaniel-t-18603079/ https://web.archive.org/web/20250114011348/https://www.redwoodresearch.org/team', NULL, 'Full-time', 'AI safety') /*Last Wayback snapshot is from 2025-01-22*/ /*current position*/
-    ,('Ammon Bartram', 'Redwood Research', 'Board of Directors', '2025-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250114011348/https://www.redwoodresearch.org/team', NULL, 'Board member', 'AI safety') /*Last Wayback snapshot is from 2025-01-22*/ /*current position*/
+ 
+ 
+ 
  /*..............................Only LinkedIn positions below................................*/
     ,('Guilhermo Cutrim Costa', 'Redwood Research', 'Machine Learning Intern', '2022-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/guillecosta/', NULL, 'Full-time', 'AI safety')   /*current position*/
     ,('Peter Schmidt-Nielsen', 'Redwood Research', 'Member of Technical Staff', '2021-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/peter-schmidt-nielsen-9390811a1/', NULL, 'Full-time', 'AI safety') /*current position*/
