@@ -17,15 +17,16 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
- 
+  ,('Lukas Finnveden','Redwood Research','Research Analyst','2025-07-01','month',NULL,NULL,'https://www.linkedin.com/in/lukas-finnveden-787a07145/ https://web.archive.org/web/20260224024440/https://www.redwoodresearch.org/team',NULL,'full-time','AI safety'); /*Last Wayback snapshot is from 2026-02-24*/ /*current position*/
 
- 
+
  
 
  
  
  
  /*..............................Only LinkedIn positions below................................*/
+    ,('Aghyad Deeb','Redwood Research','Machine Learning Engineer Intern','2024-12-01','month','2025-01-01','month','https://www.linkedin.com/in/aghyad-deeb/ https://web.archive.org/web/20260224024440/https://www.redwoodresearch.org/team',NULL,'intern','AI safety'); /*Last Wayback snapshot is from 2026-02-24*/
      ,('Joshua Clymer', 'Redwood Research', 'Technical Staff/Researcher', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joshua-clymer/', NULL, 'full-time', 'AI safety') 
     ,('Guilhermo Cutrim Costa', 'Redwood Research', 'Machine Learning Intern', '2022-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/guillecosta/', NULL, 'Full-time', 'AI safety')   /*current position*/
     ,('Tao Lin', 'Redwood Research', 'Member Of Technical Staff', '2021-09-01', 'month', NULL, NULL, ' https://web.archive.org/web/20211121121040/https://www.redwoodresearch.org/ https://www.linkedin.com/in/tao-lin-4651a5172/', NULL, 'full-time', 'AI safety')  /*current position*/
