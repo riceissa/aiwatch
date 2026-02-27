@@ -1,8 +1,40 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
-    
-    
-     
-     ('Stephen Cave','Leverhulme Centre for the Future of Intelligence','Executive Director and Senior Research Fellow',NULL,NULL,NULL,NULL,' http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/artificial-intelligence-committee/artificial-intelligence/written/69702.html https://archive.is/b4bhr https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
+/*........................................................................Management...................................................................................*/    
+('Rachel Adams','Leverhulme Centre for the Future of Intelligence','Research Professor and Executive Director',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety'),
+,('Stephen Cave','Leverhulme Centre for the Future of Intelligence','Academic Director | Research Professor',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/stephen-cave/ https://www.cser.ac.uk/news/lords-ai-committee-written-evidence/ http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/artificial-intelligence-committee/artificial-intelligence/written/69702.html https://archive.is/b4bhr https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety'),
+,('Maya Indira Ganesh','Leverhulme Centre for the Future of Intelligence','Associate Director (Research Partnerships) | Programme Co-director, Narratives & Justice',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety'),
+,('Henry Shevlin','Leverhulme Centre for the Future of Intelligence','Associate Director (Education) | Programme Co-Director, Kinds of Intelligence','2023-04-01','month',NULL,NULL,'https://www.linkedin.com/in/henry-shevlin-b58941b/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety'),
+,('Seán Ó hÉigeartaigh','Leverhulme Centre for the Future of Intelligence','Associate Director (Research Strategy) | Programme Director, AI:FAR',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/sean-heigeartaigh/ https://arxiv.org/pdf/1802.07228.pdf https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety'),
+,('Eleanor Drage','Leverhulme Centre for the Future of Intelligence','Programme Co-Director, Narratives & Justice | Assistant Research Professor',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety'),
+,('Rafael Calvo','Leverhulme Centre for the Future of Intelligence','Spoke Co-Lead, Imperial',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety'),
+,('Stuart Russell','Leverhulme Centre for the Future of Intelligence','Spoke Lead, Berkeley',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/stuart-russell/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety'),
+,('Murray Shanahan','Leverhulme Centre for the Future of Intelligence','Spoke Co-Lead, Imperial',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/murray-shanahan/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety'),
+,('Adrian Weller','Leverhulme Centre for the Future of Intelligence','Programme Director, Trust and Society',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/adrian-weller/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety'),
+,('Huw Price','Leverhulme Centre for the Future of Intelligence','Founder and Strategy Group Chair',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/huw-price/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     ,('Stephen Cave','Leverhulme Centre for the Future of Intelligence','Executive Director and Senior Research Fellow',NULL,NULL,NULL,NULL,' http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/artificial-intelligence-committee/artificial-intelligence/written/69702.html https://archive.is/b4bhr https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
     ,('Henry Shevlin','Leverhulme Centre for the Future of Intelligence','Associate Director','2023-04-01','month',NULL,NULL,'https://www.linkedin.com/in/henry-shevlin-b58941b/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety')
     ,('Seán Ó hÉigeartaigh','Leverhulme Centre for the Future of Intelligence','Project Leader',NULL,NULL,NULL,NULL,' https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
     ,('Adrian Weller','Leverhulme Centre for the Future of Intelligence','Project Leader',NULL,NULL,NULL,NULL,' https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
