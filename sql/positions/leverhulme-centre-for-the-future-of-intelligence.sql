@@ -87,8 +87,17 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Muhammed Alakitan','Leverhulme Centre for the Future of Intelligence','Student Fellow',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'graduate student','AI safety')
     ,('Xiang Li','Leverhulme Centre for the Future of Intelligence','Student Fellow',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'graduate student','AI safety')
     ,('Myesha Jemison','Leverhulme Centre for the Future of Intelligence','Student Fellow',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'graduate student','AI safety')
-
- 
+/*....................................................................................Visitors......................................................................................*/
+    ,('Zimeng Zhang','Leverhulme Centre for the Future of Intelligence','Visiting Scholar',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Leonie Bossert','Leverhulme Centre for the Future of Intelligence','Visiting Scholar',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Eva Sánchez Salido','Leverhulme Centre for the Future of Intelligence','Visiting Student',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'graduate student','AI safety')
+    ,('Oskar Galeev','Leverhulme Centre for the Future of Intelligence','Visiting Student',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'graduate student','AI safety')
+    ,('Sabrina Küspert','Leverhulme Centre for the Future of Intelligence','Visiting Scholar',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Demetrius Floudas','Leverhulme Centre for the Future of Intelligence','Visiting Scholar',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Felicity Fu','Leverhulme Centre for the Future of Intelligence','Visiting Scholar',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Martha Horn','Leverhulme Centre for the Future of Intelligence','Visiting scholar',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Diana Lengua','Leverhulme Centre for the Future of Intelligence','Visiting Student',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'graduate student','AI safety')
+    ,('Minja Axelsson','Leverhulme Centre for the Future of Intelligence','Visiting Scholar',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety');
 
 
 
