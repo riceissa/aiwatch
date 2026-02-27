@@ -55,8 +55,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Saide Mobayed Vega','Leverhulme Centre for the Future of Intelligence','Research Assistant',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
     ,('Asher Kessler','Leverhulme Centre for the Future of Intelligence','Research Assistant',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
     ,('Matteo Gabriel Mecattaf','Leverhulme Centre for the Future of Intelligence','Research Assistant',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
-
-
 /*....................................................................................Student Fellows......................................................................................*/
     ,('Ambika Tandon','Leverhulme Centre for the Future of Intelligence','Student Fellow',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'graduate student','AI safety')
     ,('Raphael Hernandes','Leverhulme Centre for the Future of Intelligence','Student Fellow',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'graduate student','AI safety')
@@ -100,30 +98,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
-
-
-
-
-
-
-
-
-
-
-     ,('Stephen Cave','Leverhulme Centre for the Future of Intelligence','Executive Director and Senior Research Fellow',NULL,NULL,NULL,NULL,' http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/artificial-intelligence-committee/artificial-intelligence/written/69702.html https://archive.is/b4bhr https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Seán Ó hÉigeartaigh','Leverhulme Centre for the Future of Intelligence','Project Leader',NULL,NULL,NULL,NULL,' https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
  
-    ,('Rafael A. Calvo','Leverhulme Centre for the Future of Intelligence','Visiting Fellow','2018-12-01','month','2020-01-01','month','https://www.linkedin.com/in/rafael-a-calvo/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Rafael A. Calvo','Leverhulme Centre for the Future of Intelligence','Co Lead','2020-01-01','month',NULL,NULL,'https://www.linkedin.com/in/rafael-a-calvo/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
-    ,('José Hernández-Orallo','Leverhulme Centre for the Future of Intelligence','Visiting Scholar',NULL,NULL,NULL,NULL,' https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Marta Halina','Leverhulme Centre for the Future of Intelligence','Project Leader',NULL,NULL,NULL,NULL,' https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
+
+
+
  
-    ,('Flavia Saxler','Leverhulme Centre for the Future of Intelligence','Student Fellow','2023-04-01','month',NULL,NULL,' https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Intern','AI safety')
-    ,('Malak Sadek','Leverhulme Centre for the Future of Intelligence','PHD Fellow','2023-03-01','month',NULL,NULL,'https://www.linkedin.com/in/malaksadek/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety') 
-    
-    
-
-
 
 
 
