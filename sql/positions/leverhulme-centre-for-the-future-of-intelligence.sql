@@ -1,6 +1,10 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
 /*........................................................................Management...................................................................................*/    
-('Rachel Adams','Leverhulme Centre for the Future of Intelligence','Research Professor and Executive Director',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety')
+
+('Rachel Adams','Leverhulme Centre for the Future of Intelligence','Research Professor and Executive Director','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/rachel-adams-895608255/  https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety')
+
+
+
 ,('Stephen Cave','Leverhulme Centre for the Future of Intelligence','Academic Director | Research Professor',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/stephen-cave/ https://www.cser.ac.uk/news/lords-ai-committee-written-evidence/ http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/artificial-intelligence-committee/artificial-intelligence/written/69702.html https://archive.is/b4bhr https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 ,('Maya Indira Ganesh','Leverhulme Centre for the Future of Intelligence','Associate Director (Research Partnerships) | Programme Co-director, Narratives & Justice',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety')
 ,('Henry Shevlin','Leverhulme Centre for the Future of Intelligence','Associate Director (Education) | Programme Co-Director, Kinds of Intelligence','2023-04-01','month',NULL,NULL,'https://www.linkedin.com/in/henry-shevlin-b58941b/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety')
