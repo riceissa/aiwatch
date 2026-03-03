@@ -5,7 +5,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Stephen Cave','Leverhulme Centre for the Future of Intelligence','Director','2021-10-01','month',NULL,NULL,'https://uk.linkedin.com/in/stephenjcave https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety') 
 ,('Maya Indira Ganesh','Leverhulme Centre for the Future of Intelligence','Associate Director (Research Partnerships)','2024-07-01','month',NULL,NULL,'https://www.linkedin.com/in/dr-des-maya-indira-ganesh/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people','Leadership role alongside Senior Research Fellow position.',NULL,NULL,'Full-time','AI safety')
 ,('Henry Shevlin','University of Cambridge','Senior Research Associate','2017-05-01','month',NULL,NULL,'https://www.linkedin.com/in/henry-shevlin-b58941b/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety') 
-
+,('Seán Ó hÉigeartaigh','Leverhulme Centre for the Future of Intelligence','Director, AI: Futures and Responsibility Programme','2019-04-01','month',NULL,NULL,'https://www.linkedin.com/in/sean-o-heigeartaigh-03b33b29/ http://lcfi.ac.uk/projects/ai-futures-and-responsibility/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people','Leads an interdisciplinary research programme on AI foresight, governance, security, and international cooperation.',NULL,NULL,'Full-time','AI safety')
 
 
 
@@ -13,13 +13,19 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 /*.........................................................................Only LinkedIn positions below..................................................................................*/
-   ('Maya Indira Ganesh','Leverhulme Centre for the Future of Intelligence','Senior Research Fellow','2022-07-01','month',NULL,NULL,'https://www.linkedin.com/in/dr-des-maya-indira-ganesh/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people','Full-time research role at the University of Cambridge.',NULL,NULL,'Full-time','AI safety')
+ ,('Maya Indira Ganesh','Leverhulme Centre for the Future of Intelligence','Senior Research Fellow','2022-07-01','month',NULL,NULL,'https://www.linkedin.com/in/dr-des-maya-indira-ganesh/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people','Full-time research role at the University of Cambridge.',NULL,NULL,'Full-time','AI safety')
+
+
+
+
+
+    
+
 
 
 
 
  
-,('Seán Ó hÉigeartaigh','Leverhulme Centre for the Future of Intelligence','Associate Director (Research Strategy) | Programme Director, AI:FAR',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/sean-heigeartaigh/ https://arxiv.org/pdf/1802.07228.pdf https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 ,('Eleanor Drage','Leverhulme Centre for the Future of Intelligence','Programme Co-Director, Narratives & Justice | Assistant Research Professor',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety')
 ,('Rafael Calvo','Leverhulme Centre for the Future of Intelligence','Spoke Co-Lead, Imperial',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 ,('Stuart Russell','Leverhulme Centre for the Future of Intelligence','Spoke Lead, Berkeley',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/stuart-russell/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
@@ -168,3 +174,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Toshie Takahashi', 'Leverhulme Centre for the Future of Intelligence', 'Associate Fellow', '2021-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/toshietakahashi/', NULL, NULL, NULL, NULL,'AI safety') /*Reviewed on 2024-05-02*/ /*current position*/
     ,('Zoubin Ghahramani','Leverhulme Centre for the Future of Intelligence',NULL,NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/zoubin-ghahramani/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Stephen Cave','Leverhulme Centre for the Future of Intelligence','Executive Director','2016-07-01','month','2021-10-01','month','https://www.linkedin.com/in/stephenjcave/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people','Full-time role at the University of Cambridge; ended upon transition to Director role.',NULL,NULL,'Full-time','AI safety') /*closed*/   
+
+    ,('Seán Ó hÉigeartaigh','Centre for the Study of Existential Risk','Co-Director','2019-04-01','month','2023-07-01','month','https://www.linkedin.com/in/sean-o-heigeartaigh-03b33b29/ https://www.cser.ac.uk/','Guided research and strategy at CSER, with a primary focus on the global impacts of AI.',NULL,NULL,'Full-time','Existential risk prevention')
+    ,('Seán Ó hÉigeartaigh','Centre for the Study of Existential Risk','Executive Director','2014-10-01','month','2019-04-01','month','https://www.linkedin.com/in/sean-o-heigeartaigh-03b33b29/ https://www.cser.ac.uk/','Responsible for research management, centre management, grantwriting, and fundraising.',NULL,NULL,'Full-time','Existential risk prevention')    
