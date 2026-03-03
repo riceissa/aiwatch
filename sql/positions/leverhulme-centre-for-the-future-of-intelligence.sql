@@ -2,7 +2,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
 /*........................................................................Management...................................................................................*/    
 
 ('Rachel Adams','Leverhulme Centre for the Future of Intelligence','Research Professor and Executive Director','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/rachel-adams-895608255/  https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety')
-,('Stephen Cave','Leverhulme Centre for the Future of Intelligence','Director','2021-10-01','month',NULL,NULL,'https://uk.linkedin.com/in/stephenjcave https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'Full-time','AI safety') 
+,('Stephen Cave','Leverhulme Centre for the Future of Intelligence','Director','2021-10-01','month',NULL,NULL,'https://uk.linkedin.com/in/stephenjcave https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety') 
+
+
 
 
 
@@ -151,7 +153,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Rafael A. Calvo', 'Leverhulme Centre for the Future of Intelligence', 'Co Lead', '2020-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rafael-a-calvo/', NULL, NULL, NULL, NULL,'AI safety') /*Reviewed on 2024-05-02*/ /*current position*/
     ,('Rune Nyrup','Leverhulme Centre for the Future of Intelligence','Postdoctoral Researcher',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/rune-nyrup/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Sarah Dillon','Leverhulme Centre for the Future of Intelligence','Project Leader and Senior Research Fellow',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/sarah-dillon/',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Stephen Cave','Leverhulme Centre for the Future of Intelligence','Executive Director and Senior Research Fellow',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/stephen-cave/ https://www.cser.ac.uk/news/lords-ai-committee-written-evidence/ http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/artificial-intelligence-committee/artificial-intelligence/written/69702.html https://archive.is/b4bhr',NULL,NULL,NULL,NULL,'AI safety')
     ,('Stephen John','Leverhulme Centre for the Future of Intelligence','Project Leader',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/stephen-john/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Stuart Russell','Leverhulme Centre for the Future of Intelligence','Spoke Leader',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/stuart-russell/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Susan Gowans','Leverhulme Centre for the Future of Intelligence','Administrator',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/susan-gowans/',NULL,NULL,NULL,NULL,'AI safety')
@@ -159,3 +160,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Thomas D. Grant','Leverhulme Centre for the Future of Intelligence','Research Exercise Leader',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/thomas-grant/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Toshie Takahashi', 'Leverhulme Centre for the Future of Intelligence', 'Associate Fellow', '2021-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/toshietakahashi/', NULL, NULL, NULL, NULL,'AI safety') /*Reviewed on 2024-05-02*/ /*current position*/
     ,('Zoubin Ghahramani','Leverhulme Centre for the Future of Intelligence',NULL,NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/zoubin-ghahramani/',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Stephen Cave','Leverhulme Centre for the Future of Intelligence','Executive Director','2016-07-01','month','2021-10-01','month','https://www.linkedin.com/in/stephenjcave/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people','Full-time role at the University of Cambridge; ended upon transition to Director role.',NULL,NULL,'Full-time','AI safety') /*closed*/   
