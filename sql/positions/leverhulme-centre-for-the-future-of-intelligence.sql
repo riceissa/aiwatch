@@ -11,7 +11,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Stuart Russell','Leverhulme Centre for the Future of Intelligence','Spoke Lead, Berkeley','2016-01-01','multi-year',NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/stuart-russell/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 ,('Murray Shanahan','Leverhulme Centre for the Future of Intelligence','Spoke Co-Lead, Imperial','2016-01-01','multi-year',NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/murray-shanahan/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')  
 ,('Adrian Weller','Leverhulme Centre for the Future of Intelligence','Senior Research Fellow','2016-10-01','month',NULL,NULL,'https://www.linkedin.com/in/adrian-weller-93abb07/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,'position','technical research','full-time','AI safety') 
-
+,('Huw Price','Leverhulme Centre for the Future of Intelligence','Academic Director','2016-01-01','year','2021-10-01','month','https://www.lcfi.ac.uk/people/huw-price','Text on LCFI profile: “Academic Director … from its launch in 2016 until October 2021”. Start month/day not specified, so start_date stored as 2016-01-01 with year precision.','position','strategy',NULL,'AI safety')
 
 
 /*.........................................................................Only LinkedIn positions below..................................................................................*/
@@ -23,10 +23,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
     
 
-
  
- 
-,('Huw Price','Leverhulme Centre for the Future of Intelligence','Founder and Strategy Group Chair',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/huw-price/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 /*........................................................................Operations Team...................................................................................*/    
 ,('Rachel Burgess','Leverhulme Centre for the Future of Intelligence','Institute Manager (ITH)',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 ,('Lucy Cavan','Leverhulme Centre for the Future of Intelligence','Postgraduate Co-ordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
@@ -121,9 +118,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
  
 
 
-
-
-    ,('Adrian Weller','Leverhulme Centre for the Future of Intelligence','Project Leader',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/adrian-weller/',NULL,NULL,NULL,NULL,'AI safety')
+ 
     ,('Alan Winfield','Leverhulme Centre for the Future of Intelligence','Associate Fellow',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/alan-winfield/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Alison Gopnik','Leverhulme Centre for the Future of Intelligence','External Advisor',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/alison-gopnik/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Andrew Snyder-Beattie','Leverhulme Centre for the Future of Intelligence','Research Exercise Leader',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/andrew-snyder-beattie/',NULL,NULL,NULL,NULL,'AI safety')
