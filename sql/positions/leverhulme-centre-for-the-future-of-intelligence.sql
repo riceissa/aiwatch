@@ -13,7 +13,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Adrian Weller','Leverhulme Centre for the Future of Intelligence','Senior Research Fellow','2016-10-01','month',NULL,NULL,'https://www.linkedin.com/in/adrian-weller-93abb07/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,'position','technical research','full-time','AI safety') 
 ,('Huw Price','Leverhulme Centre for the Future of Intelligence','Academic Director','2016-01-01','year','2021-10-01','month','https://www.lcfi.ac.uk/people/huw-price','Text on LCFI profile: “Academic Director … from its launch in 2016 until October 2021”. Start month/day not specified, so start_date stored as 2016-01-01 with year precision.','position','strategy',NULL,'AI safety')
 ,('Huw Price','Leverhulme Centre for the Future of Intelligence','Chair, CFI Strategy Group','2016-01-01','year',NULL,NULL,'https://www.lcfi.ac.uk/people/huw-price',NULL,'position','strategy',NULL,'AI safety') 
-,('Rachel Burgess','Institute for Technology and Humanity','Institute Manager','2024-01-01','month',NULL,NULL,'https://www.linkedin.com/in/rachel-burgess-499b45203/','Institute Manager role listed on LinkedIn: Jan 2024–Present.','unrelated','general','full-time','AI safety') 
 
 
 
@@ -30,9 +29,16 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
  
 /*........................................................................Operations Team...................................................................................*/    
- 
-,('Lucy Cavan','Leverhulme Centre for the Future of Intelligence','Postgraduate Co-ordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
-,('Viviana Fascianella','Leverhulme Centre for the Future of Intelligence','Centre Co-ordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
+ ,('Rachel Burgess','Institute for Technology and Humanity','Institute Manager','2024-01-01','month',NULL,NULL,'https://www.linkedin.com/in/rachel-burgess-499b45203/','Institute Manager role listed on LinkedIn: Jan 2024–Present.','unrelated','general','full-time','AI safety') 
+,('Lucy Cavan','Leverhulme Centre for the Future of Intelligence','Postgraduate Co-ordinator','2016-01-01','multi-year',NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
+,('Viviana Fascianella','Leverhulme Centre for the Future of Intelligence','CFI Coordinator','2025-01-01','month',NULL,NULL,'https://www.linkedin.com/in/viviana-fascianella-94b18319/ https://www.lcfi.ac.uk/people/viviana-fascianella',NULL,'position','general','full-time','AI safety') 
+
+
+
+
+
+
+
 ,('Yvonne Martin-Portugues','Leverhulme Centre for the Future of Intelligence','Research Project Administrator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 ,('Yiyun Mu','Leverhulme Centre for the Future of Intelligence','Administrative Assistant and Personal Assistant (Centre Director)',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 ,('Hannah Tigg','Leverhulme Centre for the Future of Intelligence','Research Grants Co-ordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
