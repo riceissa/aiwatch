@@ -13,6 +13,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Adrian Weller','Leverhulme Centre for the Future of Intelligence','Senior Research Fellow','2016-10-01','month',NULL,NULL,'https://www.linkedin.com/in/adrian-weller-93abb07/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,'position','technical research','full-time','AI safety') 
 ,('Huw Price','Leverhulme Centre for the Future of Intelligence','Academic Director','2016-01-01','year','2021-10-01','month','https://www.lcfi.ac.uk/people/huw-price','Text on LCFI profile: “Academic Director … from its launch in 2016 until October 2021”. Start month/day not specified, so start_date stored as 2016-01-01 with year precision.','position','strategy',NULL,'AI safety')
 ,('Huw Price','Leverhulme Centre for the Future of Intelligence','Chair, CFI Strategy Group','2016-01-01','year',NULL,NULL,'https://www.lcfi.ac.uk/people/huw-price',NULL,'position','strategy',NULL,'AI safety') 
+,('Rachel Burgess','Institute for Technology and Humanity','Institute Manager','2024-01-01','month',NULL,NULL,'https://www.linkedin.com/in/rachel-burgess-499b45203/','Institute Manager role listed on LinkedIn: Jan 2024–Present.','unrelated','general','full-time','AI safety') 
+
+
+
 
 
 /*.........................................................................Only LinkedIn positions below..................................................................................*/
@@ -26,7 +30,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
  
 /*........................................................................Operations Team...................................................................................*/    
-,('Rachel Burgess','Leverhulme Centre for the Future of Intelligence','Institute Manager (ITH)',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
+ 
 ,('Lucy Cavan','Leverhulme Centre for the Future of Intelligence','Postgraduate Co-ordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 ,('Viviana Fascianella','Leverhulme Centre for the Future of Intelligence','Centre Co-ordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 ,('Yvonne Martin-Portugues','Leverhulme Centre for the Future of Intelligence','Research Project Administrator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
@@ -169,3 +173,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Seán Ó hÉigeartaigh','Centre for the Study of Existential Risk','Co-Director','2019-04-01','month','2023-07-01','month','https://www.linkedin.com/in/sean-o-heigeartaigh-03b33b29/ https://www.cser.ac.uk/','Guided research and strategy at CSER, with a primary focus on the global impacts of AI.',NULL,NULL,'Full-time','Existential risk prevention')
     ,('Seán Ó hÉigeartaigh','Centre for the Study of Existential Risk','Executive Director','2014-10-01','month','2019-04-01','month','https://www.linkedin.com/in/sean-o-heigeartaigh-03b33b29/ https://www.cser.ac.uk/','Responsible for research management, centre management, grantwriting, and fundraising.',NULL,NULL,'Full-time','Existential risk prevention')    
    ,('Rafael A. Calvo','Leverhulme Centre for the Future of Intelligence','Visiting Fellow','2018-12-01','month','2020-01-01','month','https://www.linkedin.com/in/rafael-a-calvo/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety')    
+,('Rachel Burgess','Leverhulme Centre for the Future of Intelligence & Centre for the Study of Existential Risk','Centre Administrator','2021-08-01','month','2024-01-01','month','https://www.linkedin.com/in/rachel-burgess-499b45203/','Centre Administrator, LCFI & CSER. Responsible for administration, financial management, governance, and programme support across the two research centres.','GCR organization','general','full-time','AI safety')   
