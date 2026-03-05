@@ -10,6 +10,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Rafael A. Calvo','Leverhulme Centre for the Future of Intelligence','Co-Lead','2020-01-01','month',NULL,NULL,'https://www.linkedin.com/in/rafael-a-calvo/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people','Co-Lead role while holding a primary appointment at Imperial College London.',NULL,NULL,'Full-time','AI safety') 
 ,('Stuart Russell','Leverhulme Centre for the Future of Intelligence','Spoke Lead, Berkeley','2016-01-01','multi-year',NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/stuart-russell/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 ,('Murray Shanahan','Leverhulme Centre for the Future of Intelligence','Spoke Co-Lead, Imperial','2016-01-01','multi-year',NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/murray-shanahan/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')  
+,('Adrian Weller','Leverhulme Centre for the Future of Intelligence','Senior Research Fellow','2016-10-01','month',NULL,NULL,'https://www.linkedin.com/in/adrian-weller-93abb07/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,'position','technical research','full-time','AI safety') 
+
+
 
 /*.........................................................................Only LinkedIn positions below..................................................................................*/
  ,('Maya Indira Ganesh','Leverhulme Centre for the Future of Intelligence','Senior Research Fellow','2022-07-01','month',NULL,NULL,'https://www.linkedin.com/in/dr-des-maya-indira-ganesh/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people','Full-time research role at the University of Cambridge.',NULL,NULL,'Full-time','AI safety')
@@ -22,10 +25,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
  
-
-
-
-,('Adrian Weller','Leverhulme Centre for the Future of Intelligence','Programme Director, Trust and Society',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/adrian-weller/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
+ 
 ,('Huw Price','Leverhulme Centre for the Future of Intelligence','Founder and Strategy Group Chair',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/huw-price/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 /*........................................................................Operations Team...................................................................................*/    
 ,('Rachel Burgess','Leverhulme Centre for the Future of Intelligence','Institute Manager (ITH)',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
