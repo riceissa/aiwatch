@@ -34,14 +34,14 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Viviana Fascianella','Leverhulme Centre for the Future of Intelligence','CFI Coordinator','2025-01-01','month',NULL,NULL,'https://www.linkedin.com/in/viviana-fascianella-94b18319/ https://www.lcfi.ac.uk/people/viviana-fascianella',NULL,'position','general','full-time','AI safety') 
 ,('Yvonne Martin-Portugues','Leverhulme Centre for the Future of Intelligence','Research Project Administrator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 ,('Yiyun Mu','Leverhulme Centre for the Future of Intelligence','Administrative Assistant and Personal Assistant (Centre Director)','2019-01-01','multi-year',NULL,NULL,'https://www.lcfi.ac.uk/people/yiyun-mu https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
-
-
-
-
-
-
-
 ,('Hannah Tigg','Leverhulme Centre for the Future of Intelligence','Research Grants Co-ordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
+
+
+
+
+
+
+
 ,('Hang Vu','Leverhulme Centre for the Future of Intelligence','Finance Co-ordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 ,('Lina Vysniauskiene','Leverhulme Centre for the Future of Intelligence','Communication & Alumni Engagement Co-ordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 /*.....................................................................................Academic Staff.............................................................................*/
