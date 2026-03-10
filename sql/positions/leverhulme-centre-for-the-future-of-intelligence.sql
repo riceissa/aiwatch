@@ -14,19 +14,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Huw Price','Leverhulme Centre for the Future of Intelligence','Academic Director','2016-01-01','year','2021-10-01','month','https://www.lcfi.ac.uk/people/huw-price','Text on LCFI profile: “Academic Director … from its launch in 2016 until October 2021”. Start month/day not specified, so start_date stored as 2016-01-01 with year precision.','position','strategy',NULL,'AI safety')
 ,('Huw Price','Leverhulme Centre for the Future of Intelligence','Chair, CFI Strategy Group','2016-01-01','year',NULL,NULL,'https://www.lcfi.ac.uk/people/huw-price',NULL,'position','strategy',NULL,'AI safety') 
 
-
-
-
-
-/*.........................................................................Only LinkedIn positions below..................................................................................*/
- ,('Maya Indira Ganesh','Leverhulme Centre for the Future of Intelligence','Senior Research Fellow','2022-07-01','month',NULL,NULL,'https://www.linkedin.com/in/dr-des-maya-indira-ganesh/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people','Full-time research role at the University of Cambridge.',NULL,NULL,'Full-time','AI safety')
-
-
-
-
-
-    
-
  
 /*........................................................................Operations Team...................................................................................*/    
  ,('Rachel Burgess','Institute for Technology and Humanity','Institute Manager','2024-01-01','month',NULL,NULL,'https://www.linkedin.com/in/rachel-burgess-499b45203/','Institute Manager role listed on LinkedIn: Jan 2024–Present.','unrelated','general','full-time','AI safety') 
@@ -35,20 +22,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Yvonne Martin-Portugues','Leverhulme Centre for the Future of Intelligence','Research Project Administrator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 ,('Yiyun Mu','Leverhulme Centre for the Future of Intelligence','Administrative Assistant and Personal Assistant (Centre Director)','2019-01-01','multi-year',NULL,NULL,'https://www.lcfi.ac.uk/people/yiyun-mu https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 ,('Hannah Tigg','Leverhulme Centre for the Future of Intelligence','Research Grants Co-ordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
-
-
-
-
-
-
-
 ,('Hang Vu','Leverhulme Centre for the Future of Intelligence','Finance Co-ordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 ,('Lina Vysniauskiene','Leverhulme Centre for the Future of Intelligence','Communication & Alumni Engagement Co-ordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 /*.....................................................................................Academic Staff.............................................................................*/
     ,('Claire Benn','Leverhulme Centre for the Future of Intelligence','Assistant Professor','2023-07-01','month',NULL,NULL,'https://www.linkedin.com/in/claire-benn-aa439973/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,'position',NULL,'full-time','AI safety') /*Last checked Wayback snapshot is from 2026-03-10*/
-
-
-    ,('Lucius Caviola','Leverhulme Centre for the Future of Intelligence','University Assistant Professor | Director of Admissions',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety')
+    ,('Lucius Caviola','Leverhulme Centre for the Future of Intelligence','University Assistant Professor','2025-09-01','month',NULL,NULL,'https://www.linkedin.com/in/lucius-caviola-457522b2/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety')/*Last checked Wayback snapshot is from 2026-03-10*/
     ,('José Hernández-Orallo','Leverhulme Centre for the Future of Intelligence','Research Professor',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/jose-hernandez-orallo/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
     ,('Jonnie Penn','Leverhulme Centre for the Future of Intelligence','Associate Teaching Professor (MSt) | Assistant Research Professor',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety')
     ,('Dorian Peters','Leverhulme Centre for the Future of Intelligence','University Assistant Professor | Director of Short Courses',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety')
@@ -116,7 +94,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Diana Lengua','Leverhulme Centre for the Future of Intelligence','Visiting Student',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'graduate student','AI safety')
     ,('Minja Axelsson','Leverhulme Centre for the Future of Intelligence','Visiting Scholar',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 
+ 
 
+ /*.........................................................................Only LinkedIn positions below..................................................................................*/
+ ,('Maya Indira Ganesh','Leverhulme Centre for the Future of Intelligence','Senior Research Fellow','2022-07-01','month',NULL,NULL,'https://www.linkedin.com/in/dr-des-maya-indira-ganesh/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people','Full-time research role at the University of Cambridge.',NULL,NULL,'Full-time','AI safety')
+,('Matthijs M. Maas','Leverhulme Centre for the Future of Intelligence','Associate Fellow','2022-08-01','month',NULL,NULL,'https://www.linkedin.com/in/matthijsmaas/','LinkedIn lists Associate Fellow at the Leverhulme Centre for the Future of Intelligence, Aug 2022–Present.','position','technical research','part-time','AI safety') 
 
 
 
@@ -158,7 +140,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Marta Halina','Leverhulme Centre for the Future of Intelligence','Project Leader',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/marta-halina/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Martin Rees','Leverhulme Centre for the Future of Intelligence','Advisor',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/martin-rees/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Matthijs M. Maas', 'Leverhulme Centre for the Future of Intelligence', 'Postdoctoral Research Associate', '2020-10-01', 'month', '2022-07-01', 'month', 'https://www.linkedin.com/in/matthijsmaas/', NULL, NULL, NULL, 'Full-time','AI safety') /*closed*/
-    ,('Matthijs M. Maas', 'Leverhulme Centre for the Future of Intelligence', 'Research Affiliate', '2022-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/matthijsmaas/', NULL, NULL, NULL, 'Full-time','AI safety') /*Reviewed on 2024-05-02*/ /*current position*/
     ,('Michael A. Osborne','Leverhulme Centre for the Future of Intelligence','Associate Fellow',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/michael-osborne/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Murray Shanahan','Leverhulme Centre for the Future of Intelligence','Spoke Leader',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/murray-shanahan/',NULL,NULL,NULL,NULL,'AI safety')
     ,('Neil Lawrence','Leverhulme Centre for the Future of Intelligence','Associate Fellow',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/neil-lawrence/',NULL,NULL,NULL,NULL,'AI safety')
