@@ -25,8 +25,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Hang Vu','Leverhulme Centre for the Future of Intelligence','Finance Co-ordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 ,('Lina Vysniauskiene','Leverhulme Centre for the Future of Intelligence','Communication & Alumni Engagement Co-ordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 /*.....................................................................................Academic Staff.............................................................................*/
-    ,('Claire Benn','Leverhulme Centre for the Future of Intelligence','Assistant Professor','2023-07-01','month',NULL,NULL,'https://www.linkedin.com/in/claire-benn-aa439973/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,'position',NULL,'full-time','AI safety') /*Last checked Wayback snapshot is from 2026-03-10*/
-    ,('Lucius Caviola','Leverhulme Centre for the Future of Intelligence','University Assistant Professor','2025-09-01','month',NULL,NULL,'https://www.linkedin.com/in/lucius-caviola-457522b2/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety')/*Last checked Wayback snapshot is from 2026-03-10*/
+    ,('Claire Benn','Leverhulme Centre for the Future of Intelligence','Assistant Professor','2023-07-01','month',NULL,NULL,'https://www.linkedin.com/in/claire-benn-aa439973/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,'position',NULL,'full-time','AI safety') /*Last checked Wayback snapshot is from 2026-02-27*/
+    ,('Lucius Caviola','Leverhulme Centre for the Future of Intelligence','University Assistant Professor','2025-09-01','month',NULL,NULL,'https://www.linkedin.com/in/lucius-caviola-457522b2/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety')/*Last checked Wayback snapshot is from 2026-02-27*/
     ,('José Hernández-Orallo','Leverhulme Centre for the Future of Intelligence','Research Professor',NULL,NULL,NULL,NULL,'http://lcfi.ac.uk/about/people/ http://lcfi.ac.uk/about/people/jose-hernandez-orallo/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
     ,('Jonnie Penn','Leverhulme Centre for the Future of Intelligence','Associate Teaching Professor (MSt) | Assistant Research Professor',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety')
     ,('Dorian Peters','Leverhulme Centre for the Future of Intelligence','University Assistant Professor | Director of Short Courses',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety')
@@ -49,10 +49,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Lorenzo Pacchiardi','Leverhulme Centre for the Future of Intelligence','Assistant Research Professor',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety')
     ,('Jonathan Prunty','Leverhulme Centre for the Future of Intelligence','Research Fellow',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
     ,('Aisha Sobey','Leverhulme Centre for the Future of Intelligence','Research Fellow | Research Program Coordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Tomasz Hollanek','Leverhulme Centre for the Future of Intelligence','Assistant Research Professor | Student Advisor',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety')
+ 
 
 
-    ,('Tomasz Hollanek','Leverhulme Centre for the Future of Intelligence','Assistant Research Professor','2025-11-01','month',NULL,NULL,'https://www.linkedin.com/in/tomasz-hollanek/','LinkedIn lists Assistant Research Professor at the Leverhulme Centre for the Future of Intelligence, Nov 2025–Present.','position','technical research','full-time','AI safety'),
+    ,('Tomasz Hollanek','Leverhulme Centre for the Future of Intelligence','Assistant Research Professor','2025-11-01','month',NULL,NULL,'https://www.linkedin.com/in/tomasz-hollanek/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people','LinkedIn lists Assistant Research Professor at the Leverhulme Centre for the Future of Intelligence, Nov 2025–Present.','position','technical research','full-time','AI safety')/*Last checked Wayback snapshot is from 2026-02-27*/
 
 
 
@@ -98,7 +98,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Demetrius Floudas','Leverhulme Centre for the Future of Intelligence','Visiting Scholar',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
     ,('Felicity Fu','Leverhulme Centre for the Future of Intelligence','Visiting Scholar',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
     ,('Martha Horn','Leverhulme Centre for the Future of Intelligence','Visiting scholar',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Diana Lengua','Leverhulme Centre for the Future of Intelligence','Visiting Student',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'graduate student','AI safety')
+    ,('Diana Lengua','Leverhulme Centre for the Future of Intelligence','Visiting Student','2025-09-01','month',NULL,NULL,'https://www.linkedin.com/in/dianalengua/ https://www.lcfi.ac.uk/people/diana-lengua',NULL,'position',NULL,'full-time','AI safety') /*Last checked Wayback snapshot is from 2026-02-27*/
     ,('Minja Axelsson','Leverhulme Centre for the Future of Intelligence','Visiting Scholar',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
 
  
