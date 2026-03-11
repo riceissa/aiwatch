@@ -108,7 +108,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Matthijs M. Maas','Leverhulme Centre for the Future of Intelligence','Associate Fellow','2022-08-01','month',NULL,NULL,'https://www.linkedin.com/in/matthijsmaas/','LinkedIn lists Associate Fellow at the Leverhulme Centre for the Future of Intelligence, Aug 2022–Present.','position','technical research','part-time','AI safety') 
 ,('Kerry McInerney','Leverhulme Centre for the Future of Intelligence','Associate Research Fellow','2025-07-01','month',NULL,NULL,'https://www.linkedin.com/in/kerry-mcinerney-phd/','LinkedIn lists Associate Research Fellow at the Leverhulme Centre for the Future of Intelligence, Jul 2025–Present.','position',NULL,NULL,'AI safety')
 ,('Anna Odynets','Leverhulme Centre for the Future of Intelligence','Visiting Academic','2022-11-01','month',NULL,NULL,'https://www.linkedin.com/in/anna-odynets-092ab714b/','LinkedIn lists Visiting Academic at the Leverhulme Centre for the Future of Intelligence, Nov 2022–Present, Cambridge.','position','technical research','full-time','AI safety')
-
+,('Konstantinos V.','Leverhulme Centre for the Future of Intelligence','Associate Research Fellow','2024-10-01','month',NULL,NULL,'https://www.linkedin.com/in/konstantinos-v-75083818b/','LinkedIn lists Associate Research Fellow at the Leverhulme Centre for the Future of Intelligence, Oct 2024–Present (remote).','position','technical research','full-time','AI safety')
 
 
 
