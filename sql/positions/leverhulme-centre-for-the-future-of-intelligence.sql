@@ -48,7 +48,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Katarzyna Nowaczyk-Basińska','Leverhulme Centre for the Future of Intelligence','Assistant Research Professor',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety')
     ,('Lorenzo Pacchiardi','Leverhulme Centre for the Future of Intelligence','Assistant Research Professor',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'Full-time','AI safety')
     ,('Jonathan Prunty','Leverhulme Centre for the Future of Intelligence','Research Fellow',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
-    ,('Aisha Sobey','Leverhulme Centre for the Future of Intelligence','Research Fellow | Research Program Coordinator',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Aisha Sobey','Leverhulme Centre for the Future of Intelligence','Research Associate and Program Coordinator','2023-03-01','month',NULL,NULL,'https://www.linkedin.com/in/aisha-sobey-821737bb/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people','LinkedIn lists Research Associate and Program Coordinator at the Leverhulme Centre for the Future of Intelligence, Mar 2023–Present (full-time).','position','policy','full-time','AI safety')/*Last checked Wayback snapshot is from 2026-02-27*/
  
 
 
@@ -109,7 +109,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Kerry McInerney','Leverhulme Centre for the Future of Intelligence','Associate Research Fellow','2025-07-01','month',NULL,NULL,'https://www.linkedin.com/in/kerry-mcinerney-phd/','LinkedIn lists Associate Research Fellow at the Leverhulme Centre for the Future of Intelligence, Jul 2025–Present.','position',NULL,NULL,'AI safety')
 ,('Anna Odynets','Leverhulme Centre for the Future of Intelligence','Visiting Academic','2022-11-01','month',NULL,NULL,'https://www.linkedin.com/in/anna-odynets-092ab714b/','LinkedIn lists Visiting Academic at the Leverhulme Centre for the Future of Intelligence, Nov 2022–Present, Cambridge.','position','technical research','full-time','AI safety')
 ,('Konstantinos V.','Leverhulme Centre for the Future of Intelligence','Associate Research Fellow','2024-10-01','month',NULL,NULL,'https://www.linkedin.com/in/konstantinos-v-75083818b/','LinkedIn lists Associate Research Fellow at the Leverhulme Centre for the Future of Intelligence, Oct 2024–Present (remote).','position','technical research','full-time','AI safety')
-
+,('Daniel White','Leverhulme Centre for the Future of Intelligence','Associate Fellow','2021-02-01','month',NULL,NULL,'https://www.linkedin.com/in/da','LinkedIn lists Associate Fellow at the Leverhulme Centre for the Future of Intelligence, Feb 2021–Present, Cambridge, UK.','position','technical research',NULL,'AI safety')
 
 
 
