@@ -76,7 +76,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Helen Leung','Leverhulme Centre for the Future of Intelligence','Student Fellow',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'graduate student','AI safety')
     ,('Suren Pahlevan','Leverhulme Centre for the Future of Intelligence','Student Fellow',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'graduate student','AI safety')
     ,('Julien Porquet','Leverhulme Centre for the Future of Intelligence','Student Fellow',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'graduate student','AI safety')
-    ,('Sammy McKinney','Leverhulme Centre for the Future of Intelligence','Student Fellow',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'graduate student','AI safety')
+
+
+    ,('Sammy McKinney','Leverhulme Centre for the Future of Intelligence','PhD Student Fellow','2024-10-01','month',NULL,NULL,'https://www.linkedin.com/in/sammy-mck/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people','PhD researcher at the University of Cambridge and affiliated PhD Student Fellow at the Leverhulme Centre for the Future of Intelligence.','position','technical research','graduate student','AI safety')/*Last checked Wayback snapshot is from 2026-02-27*/
+
+
+
     ,('Aanya Niaz','Leverhulme Centre for the Future of Intelligence','Student Fellow',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'graduate student','AI safety')
     ,('Emily Elstub','Leverhulme Centre for the Future of Intelligence','Student Fellow',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'graduate student','AI safety')
     ,('Phillip Hintikka Kieval','Leverhulme Centre for the Future of Intelligence','Student Fellow',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,'graduate student','AI safety')
