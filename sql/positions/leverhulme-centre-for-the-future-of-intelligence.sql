@@ -108,7 +108,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Felicity Fu','Leverhulme Centre for the Future of Intelligence','Visiting Scholar',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
     ,('Martha Horn','Leverhulme Centre for the Future of Intelligence','Visiting scholar',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
     ,('Diana Lengua','Leverhulme Centre for the Future of Intelligence','Visiting Student','2025-09-01','month',NULL,NULL,'https://www.linkedin.com/in/dianalengua/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,'position',NULL,'full-time','AI safety') /*Last checked Wayback snapshot is from 2026-02-27*/
-    ,('Minja Axelsson','Leverhulme Centre for the Future of Intelligence','Visiting Scholar',NULL,NULL,NULL,NULL,'https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people',NULL,NULL,NULL,NULL,'AI safety')
+    ,('Minja Axelsson','Leverhulme Centre for the Future of Intelligence','Postdoctoral Research Fellowship Scholar (Emil Aaltonen)','2025-06-01','month',NULL,NULL,'https://www.linkedin.com/in/minjaaxelsson/ https://web.archive.org/web/20260227190144/https://www.lcfi.ac.uk/people','LinkedIn lists Postdoctoral Research Fellowship Scholar (Emil Aaltonen) at the Leverhulme Centre for the Future of Intelligence, Jun 2025–Present, Cambridge.','position','technical research','postdoc','AI safety')/*Last checked Wayback snapshot is from 2026-02-27*/
 
  
 
