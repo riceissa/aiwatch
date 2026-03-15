@@ -122,7 +122,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Harriet C.','Leverhulme Centre for the Future of Intelligence','Research Assistant','2025-10-01','month',NULL,NULL,'https://www.linkedin.com/in/harriet-c-78553826b/','LinkedIn lists Research Assistant at the Leverhulme Centre for the Future of Intelligence, Oct 2025–Present.','position','technical research',NULL,'AI safety') 
 ,('Wout Schellaert','Leverhulme Centre for the Future of Intelligence','Student Fellow','2023-10-01','month',NULL,NULL,'https://www.linkedin.com/in/woutschellaert/','LinkedIn lists Student Fellow at the Leverhulme Centre for the Future of Intelligence, Oct 2023–Present, Cambridge.','position','technical research','graduate student','AI safety') 
 ,('Benjamin Henke','Leverhulme Centre for the Future of Intelligence','Research Associate in Artificial Intelligence','2024-09-01','month',NULL,NULL,'https://www.linkedin.com/in/benjamin-henke/','LinkedIn lists Research Associate in Artificial Intelligence at the Leverhulme Centre for the Future of Intelligence, Sep 2024–Present, Cambridge.','position','technical research','full-time','AI safety') 
-
+,('Seraphina Zhang','Leverhulme Centre for the Future of Intelligence','Student Fellow','2024-04-01','month',NULL,NULL,'https://www.linkedin.com/in/seraphina-zhang/','LinkedIn lists Student Fellow at the Leverhulme Centre for the Future of Intelligence, Apr 2024–Present, Cambridge.','position','technical research','graduate student','AI safety')
  
 
 
