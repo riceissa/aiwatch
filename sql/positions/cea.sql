@@ -1,9 +1,20 @@
 insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values              
-  
-    ('Angelina Li', 'Centre for Effective Altruism', 'Data Analyst, Executive Office', '2022-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/angelinahli/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */   
-    ,('Ayla Smith', 'The Centre for Effective Altruism', 'Senior Associate, Executive Office', '2025-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/aylasmith/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */   
+  ('Zachary Robinson', 'Centre for Effective Altruism', 'Chief Executive Officer', '2024-02-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240617230114/https://www.centreforeffectivealtruism.org/team https://www.linkedin.com/in/zyrobinson/ https://web.archive.org/web/20260320190949/https://www.centreforeffectivealtruism.org/team', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-03-20 */
+    ,('Angelina Li', 'Centre for Effective Altruism', 'Executive Office Specialist', '2025-04-01', 'month', NULL, NULL, 'https://web.archive.org/web/20260320190949/https://www.centreforeffectivealtruism.org/team https://www.linkedin.com/in/angelinahli/', NULL, 'full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-03-20 */
+   ,('Ayla Smith', 'Centre for Effective Altruism', 'Deputy Chief of Staff', '2026-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/aylasmith/ https://web.archive.org/web/20260320190949/https://www.centreforeffectivealtruism.org/team', NULL, 'full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-03-20 */
+
+
+
+
+
+
+
+
+
+ 
+
     ,('Oscar Howie', 'Centre for Effective Altruism', 'Chief of Staff', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/oscar-howie-7798ba3a/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */   
-    ,('Zachary Robinson', 'Centre for Effective Altruism', 'Chief Executive Officer', '2024-02-01', 'month', NULL, NULL, 'https://web.archive.org/web/20240617230114/https://www.centreforeffectivealtruism.org/team https://www.linkedin.com/in/zyrobinson/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */
+
     ,('Amy Labenz', 'Centre for Effective Altruism', 'Head of Events', '2015-12-01', 'month', NULL, NULL, 'https://web.archive.org/web/20230611011326/https://www.centreforeffectivealtruism.org/team https://www.linkedin.com/in/amylabenz/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */   
     ,('Arthur Malone', 'Centre for Effective Altruism', 'EAGx Coordinator', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/arthur-malone/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */ 
     ,('David Solar', 'Centre for Effective Altruism', 'Events Associate', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/david-solar/details/experience/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */ 
@@ -294,3 +305,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Eve McCormick', 'Centre for Effective Altruism', 'Community Health Project Manager and Senior Assistant', '2022-06-01', 'month', '2025-05-01', 'month', 'https://www.linkedin.com/in/eve-mccormick-917b34120 https://web.archive.org/web/20250110014100/https://www.centreforeffectivealtruism.org/team', NULL, 'Full-time', 'Effective altruism') /*Closed*/ 
     ,('Eve McCormick', 'Centre for Effective Altruism', 'Personal Assistant', '2021-07-01', 'month', '2022-01-01', 'month', 'https://www.linkedin.com/in/eve-mccormick-917b34120/?originalSubdomain=uk https://web.archive.org/web/20230611011326/https://www.centreforeffectivealtruism.org/team', NULL,'contractor','Effective altruism') /*Closed*/ 
     ,('Eve McCormick', 'Centre for Effective Altruism', 'Personal Assistant & Generalist', '2022-01-01', 'month', '2022-07-01', 'month', 'https://www.linkedin.com/in/eve-mccormick-917b34120', NULL,NULL,'Effective altruism') /*Closed*/       
+    ,('Angelina Li', 'Centre for Effective Altruism', 'Data Analyst, Executive Office', '2022-10-01', 'month', '2025-03-01', 'month', 'https://www.linkedin.com/in/angelinahli/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Closed*/     
+    ,('Ayla Smith', 'The Centre for Effective Altruism', 'Senior Associate, Executive Office', '2025-06-01', 'month', '2026-01-01', 'month', 'https://www.linkedin.com/in/aylasmith/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Closed*/    
