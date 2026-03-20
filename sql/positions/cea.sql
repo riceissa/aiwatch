@@ -6,12 +6,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Amy Labenz', 'Centre for Effective Altruism', 'Head of Events', '2015-12-01', 'month', NULL, NULL, 'https://web.archive.org/web/20230611011326/https://www.centreforeffectivealtruism.org/team https://www.linkedin.com/in/amylabenz/ https://web.archive.org/web/20260320190949/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2026-03-20 */
    ,('Arthur Malone', 'Centre for Effective Altruism', 'EAGx Coordinator', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/arthur-malone/ https://web.archive.org/web/20260320190949/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2026-03-20 */
      ,('David Solar', 'Centre for Effective Altruism', 'Events Associate', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/david-solar/details/experience/ https://web.archive.org/web/20260320190949/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2026-03-20 */
-
-
+    ,('Dion Tan', 'Centre for Effective Altruism', 'EAGx Coordinator', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/diontsh/ https://web.archive.org/web/20260320190949/https://www.centreforeffectivealtruism.org/team', NULL, 'full-time', 'Effective altruism')  /*Last consulted Wayback snapshot is from 2026-03-20 */
   
 
 
-    ,('Dion Tan', 'Centre for Effective Altruism', 'EAGx Coordinator', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/diontsh/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */ 
+
     ,('Frances Lorenz', 'Centre for Effective Altruism', 'Events Associate', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/frances-lorenz-9a654a1a0 https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */ 
     ,('Ivan Burduk', 'Centre for Effective Altruism', 'Senior Events Associate', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ivan-burduk-387916118/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */ 
     ,('Jordan Pieters', 'Centre for Effective Altruism', 'EA Global Content Coordinator', '2024-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jordan-pieters/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */ 
