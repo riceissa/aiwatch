@@ -28,6 +28,15 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jamie Harris', 'Centre for Effective Altruism', 'Courses Project Lead', '2025-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jamie-harris-14b011138/ https://web.archive.org/web/20260320190949/https://www.centreforeffectivealtruism.org/team', NULL, 'full-time', 'Effective altruism')  /*Last consulted Wayback snapshot is from 2026-03-20 */
     ,('Cian Mullarkey', 'Centre for Effective Altruism', 'Virtual Programs Associate', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cian-mullarkey-65142b183/ https://web.archive.org/web/20260320190949/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2026-03-20 */
 /*.....................................................................Operations......................................................................*/
+    ,('Kathleen Perell', 'Centre for Effective Altruism', 'Interim Head of Operations', '2026-03-20', 'month', NULL, NULL, 'https://web.archive.org/web/20260320190949/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism')  /*Last consulted Wayback snapshot is from 2026-03-20 */
+    ,('Andy Tao', 'Centre for Effective Altruism', 'Finance Specialist', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/andyyufengtao/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-03-20 */
+    ,('Ari El-Khatib', 'Centre for Effective Altruism', 'Salesforce Engineer', '2026-02-28', 'month', NULL, NULL, 'https://web.archive.org/web/20260228205222/https://www.centreforeffectivealtruism.org/team https://web.archive.org/web/20260320190949/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-03-20 */
+
+
+    
+
+
+
 
 
 
@@ -42,10 +51,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Ivan Burduk', 'Centre for Effective Altruism', 'Senior Events Associate', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ivan-burduk-387916118/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */  
     ,('Alex Dial', 'Centre for Effective Altruism', 'Groups Senior Associate', '2025-04-01', 'month', NULL, NULL, 'https://web.archive.org/web/20250428225711/https://www.centreforeffectivealtruism.org/team https://web.archive.org/web/20250825231935/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */ 
     ,('Sam Robinson', 'Centre for Effective Altruism', 'University Groups Team Senior Associate', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sam-robinson-964748190/details/experience/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */ 
- 
-
     ,('Ander Morgan', 'Centre for Effective Altruism', 'Salesforce Admin', '2024-08-26', 'month', NULL, NULL, 'https://web.archive.org/web/20240826225446/https://www.centreforeffectivealtruism.org/team https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */ 
-    ,('Andy Tao', 'Centre for Effective Altruism', 'Finance Specialist', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/andyyufengtao/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */
     ,('Anna Weldon', 'Centre for Effective Altruism', 'Chief Operating Officer', '2024-12-09', 'month', NULL, NULL, 'https://web.archive.org/web/20241209235416/https://www.centreforeffectivealtruism.org/team https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */
     ,('Asher Benter', 'Centre for Effective Altruism', 'Trajan House Project Manager', '2025-07-01', 'month', '2025-08-31', 'month', 'https://www.linkedin.com/in/asher-benter/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, 'Full-time', 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */
     ,('Becky Lang', 'Centre for Effective Altruism', 'Grants Lead', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/beckyllang/ https://web.archive.org/web/20250915145811/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2025-09-15 */
