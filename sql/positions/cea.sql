@@ -33,10 +33,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Ari El-Khatib', 'Centre for Effective Altruism', 'Salesforce Engineer', '2026-02-28', 'month', NULL, NULL, 'https://web.archive.org/web/20260228205222/https://www.centreforeffectivealtruism.org/team https://web.archive.org/web/20260320190949/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-03-20 */
     ,('Asher Benter', 'Centre for Effective Altruism', 'Project Manager', '2026-01-27', 'month', NULL, NULL, 'https://web.archive.org/web/20260127000407/https://www.centreforeffectivealtruism.org/team https://web.archive.org/web/20260320190949/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-03-20 */
     ,('Ander Morgan', 'Centre for Effective Altruism', 'Salesforce Admin', '2024-08-26', 'month', NULL, NULL, 'https://web.archive.org/web/20240826225446/https://www.centreforeffectivealtruism.org/team https://web.archive.org/web/20260320190949/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-03-20 */
-    ,('Becky Lang', 'Centre for Effective Altruism', 'Grants Lead', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/beckyllang/ https://web.archive.org/web/20260320190949/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-03-20 */
-
-
-
+    ,('Becky Lang', 'Centre for Effective Altruism', 'Grants Lead', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/beckyllang/ https://web.archive.org/web/20260320190949/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-03-20 */ 
+    ,('Cole Varvel', 'Centre for Effective Altruism', 'Head of Finance', '2026-01-27', 'month', NULL, NULL, 'https://web.archive.org/web/20260127000407/https://www.centreforeffectivealtruism.org/team https://web.archive.org/web/20260320190949/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-03-20 */ 
+   ,('Ellie Dunnigan', 'Centre for Effective Altruism', 'People Operations Senior Associate', '2026-03-20', 'month', NULL, NULL, 'https://web.archive.org/web/20260320190949/https://www.centreforeffectivealtruism.org/team', NULL, NULL, 'Effective altruism') /*Last consulted Wayback snapshot is from 2026-03-20 */ 
 
 
 
