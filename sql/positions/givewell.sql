@@ -7,18 +7,30 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ('Elie Hassenfeld','GiveWell', 'Co-Founder and Chief Executive Officer (President)', '2007-08-01', 'month','2025-09-15','month', 'https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people https://www.linkedin.com/in/elie-hassenfeld-92072a9/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'Board Member','Global health and poverty') /*Last checked Wayback snapshot is from 2023-03-22*/  
     ,('Anna Weldon', 'GiveWell', 'Chief of Staff to the CEO', '2026-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/anna-weldon/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2023-03-22*/  
     ,('Andrea Jaffe Massaro', 'GiveWell', 'Controller', '2026-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/andreajaffe/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2023-03-22*/  
+    ,('Maddy Kolin', 'GiveWell', 'Donation Specialist', '2023-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/madelyn-kolin/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2023-03-22*/  
+    ,('Meg Donelan', 'GiveWell', 'Donations Specialist', '2024-05-27', 'month', NULL, NULL, 'https://web.archive.org/web/20240527225704/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2023-03-22*/ 
+    ,('Patrick Doherty', 'GiveWell', 'Manager, Gift Processing', '2025-08-25', 'month', NULL, NULL, 'https://web.archive.org/web/20250825234845/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2023-03-22*/
+    ,('Sai Jahann', 'GiveWell', 'General Counsel', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sai-jahann-9a022a28/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2023-03-22*/  
+    ,('Laura Portko','GiveWell', 'Grants Associate', '2024-04-29', 'month',NULL, NULL, 'https://web.archive.org/web/20240429233328/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2023-03-22*/  
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     ,('Paige Henchen', 'GiveWell', 'Chief of Staff', '2023-11-28', 'month', NULL, NULL, 'https://web.archive.org/web/20231128001150/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Last checked Wayback snapshot is from 2025-02-16*/  
     ,('Boston Nyer', 'GiveWell', 'Head of Business Operations', '2024-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/boston-nyer-9993831a/ https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', 'Full-time', NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15*/  
-    ,('Maddy Kolin', 'GiveWell', 'Donation Specialist', '2023-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/madelyn-kolin/ https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, 'Full-time','Global health and poverty')  /*Last checked Wayback snapshot is from 2025-09-15*/  
-    ,('Meg Donelan', 'GiveWell', 'Donations Specialist', '2024-05-27', 'month', NULL, NULL, 'https://web.archive.org/web/20240527225704/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Last checked Wayback snapshot is from 2025-02-16*/  
     ,('Nancy Gee', 'GiveWell', 'Senior Accountant', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nancy-wong-gee-822a0522/ https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Last checked Wayback snapshot is from 2025-02-16*/  
-    ,('Patrick Doherty', 'GiveWell', 'Manager, Gift Processing', '2025-08-25', 'month', NULL, NULL, 'https://web.archive.org/web/20250825234845/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Dates not yet found*/
-/*...........................................................................Legal..................................................................................*/
-    ,('Sai Jahann', 'GiveWell', 'General Counsel', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sai-jahann-9a022a28/ https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', 'Full-time', NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15*/  
-
-    ,('Laura Portko','GiveWell', 'Grants Associate', '2024-04-29', 'month',NULL, NULL, 'https://web.archive.org/web/20240429233328/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL,  'Full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15*/  
+/*...........................................................................Legal..................................................................................*/   
     /*...........................................................................People..................................................................................*/
     ,('Araceli Steger', 'GiveWell', 'Head of People', '2024-05-27', 'month', NULL, NULL, 'https://web.archive.org/web/20240527225704/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Last checked Wayback snapshot is from 2025-02-16*/ 
     ,('Annika Steele', 'GiveWell', 'Talent Acquisition Specialist', '2025-06-09', 'month', NULL, NULL, 'https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
