@@ -4,7 +4,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
-    ('Elie Hassenfeld','GiveWell', 'Co-Founder and Chief Executive Officer (President)', '2007-08-01', 'month','2025-09-15','month', 'https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people https://www.linkedin.com/in/elie-hassenfeld-92072a9/ https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, 'Board Member','Global health and poverty') /*Last checked Wayback snapshot is from 2025-02-16*/  
+    ('Elie Hassenfeld','GiveWell', 'Co-Founder and Chief Executive Officer (President)', '2007-08-01', 'month','2025-09-15','month', 'https://web.archive.org/web/20100609155532/http://www.givewell.org/about/people https://www.linkedin.com/in/elie-hassenfeld-92072a9/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'Board Member','Global health and poverty') /*Last checked Wayback snapshot is from 2023-03-22*/  
+    ,('Anna Weldon', 'GiveWell', 'Chief of Staff to the CEO', '2026-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/anna-weldon/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2023-03-22*/  
+
+
+
+
     ,('Paige Henchen', 'GiveWell', 'Chief of Staff', '2023-11-28', 'month', NULL, NULL, 'https://web.archive.org/web/20231128001150/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Last checked Wayback snapshot is from 2025-02-16*/  
     ,('Boston Nyer', 'GiveWell', 'Head of Business Operations', '2024-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/boston-nyer-9993831a/ https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', 'Full-time', NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15*/  
     ,('Maddy Kolin', 'GiveWell', 'Donation Specialist', '2023-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/madelyn-kolin/ https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, 'Full-time','Global health and poverty')  /*Last checked Wayback snapshot is from 2025-09-15*/  
