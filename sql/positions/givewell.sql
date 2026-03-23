@@ -19,9 +19,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Maddie Schoonover', 'GiveWell', 'Manager, Talent Acquisition', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/madeline-schoonover-140336bb/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2023-03-22*/
     ,('Marianna Ilagan', 'GiveWell', 'Office and Events Manager', '2026-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mariannasi/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2023-03-22*/
     ,('Nicci Spjut', 'GiveWell', 'Manager, People Operations', '2026-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/niccispjut/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2023-03-22*/
-
-
-
+    ,('Sabrina Eicher', 'GiveWell', 'Talent Acquisition', '2025-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sabrinaeicher/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2023-03-22*/
+    ,('Nicole Bouchard','GiveWell', 'Head of Technology', '2024-09-30', 'month',NULL,NULL, 'https://web.archive.org/web/20240930230255/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2023-03-22*/
 
 
 
@@ -38,9 +37,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     /*...........................................................................People..................................................................................*/
     ,('Caira Ortiz', 'GiveWell', 'Operations Assistant', '2022-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cairaortiz/ https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, 'Full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15*/  
     ,('Madeline Schoonover', 'GiveWell', 'Manager, Talent Acquisition', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/madeline-schoonover-140336bb/ https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, 'Full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
-    ,('Sabrina Eicher', 'GiveWell', 'Talent Acquisition Associate', '2025-09-15', 'month', NULL, NULL, 'https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
     /*...........................................................................Technology..................................................................................*/
-    ,('Nicole Bouchard','GiveWell', 'Head of Technology', '2024-09-30', 'month',NULL,NULL, 'https://web.archive.org/web/20240930230255/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
+
     ,('Devin Jacob','GiveWell', 'Data & Technology Project Manager', '2021-07-22', 'month',NULL,NULL, 'https://web.archive.org/web/20210722085429/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
     ,('Tori Shepard', 'GiveWell', 'Salesforce Administrator', '2025-05-26', 'month', NULL, NULL, 'https://web.archive.org/web/20250526230708/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025‑09‑15 */
     /*...........................................................................Outreach..................................................................................*/
