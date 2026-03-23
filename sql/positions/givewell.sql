@@ -16,9 +16,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Araceli Steger', 'GiveWell', 'Head of People', '2024-05-27', 'month', NULL, NULL, 'https://web.archive.org/web/20240527225704/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2023-03-22*/
     ,('Annika Steele', 'GiveWell', 'Talent Acquisition Specialist', '2025-06-09', 'month', NULL, NULL, 'https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2023-03-22*/
     ,('Breezy Zins', 'GiveWell', 'Operations Specialist', '2023-09-25', 'month', NULL, NULL, 'https://web.archive.org/web/20230925230143/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2023-03-22*/
-
-
-
+    ,('Maddie Schoonover', 'GiveWell', 'Manager, Talent Acquisition', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/madeline-schoonover-140336bb/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2023-03-22*/
+    ,('Marianna Ilagan', 'GiveWell', 'Office and Events Manager', '2026-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mariannasi/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2023-03-22*/
+    ,('Nicci Spjut', 'GiveWell', 'Manager, People Operations', '2026-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/niccispjut/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2023-03-22*/
 
 
 
