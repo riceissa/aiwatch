@@ -128,7 +128,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Norma Altshuler','GiveWell','Board Member','2021-01-01', NULL,NULL,NULL, 'https://web.archive.org/web/20211111024251/https://www.givewell.org/about/people https://web.archive.org/web/20250922235004/https://www.givewell.org/about/people',NULL,'Board Member','Global health and poverty') /*Last consulted Wayback snapshots are from 2025-08-25 and 2025-09-22 */
     ,('Timothy Ogden','GiveWell','Chairman of the board','2019-09-01', 'month',NULL,NULL, 'https://www.linkedin.com/in/timothyogden/ https://web.archive.org/web/20250922235004/https://www.givewell.org/about/people',NULL,'Board Member','Global health and poverty') /*Last consulted Wayback snapshots are from 2025-08-25 and 2025-09-22 */
     ,('Charlotte Fisken', 'GiveWell', 'Senior Philanthropy Associate', '2026-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/charlotte-fisken-01b0998a/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last consulted Wayback snapshots are from 2025-08-25 and 2025-09-22 */
-
+    ,('Eric Temple', 'GiveWell', 'Senior Philanthropy Associate', '2026-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ericrtemple/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last consulted Wayback snapshots are from 2025-08-25 and 2025-09-22 */
 
 
 
