@@ -47,9 +47,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Gurmukh Singh', 'GiveWell', 'Research Analyst', '2024-07-29', 'month', NULL, NULL, 'https://web.archive.org/web/20240729225900/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
     ,('Jack Shangraw', 'GiveWell', 'Research Analyst', '2023-06-26', 'month', NULL, NULL, 'https://web.archive.org/web/20240930230255/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
     ,('Kameron Smith', 'GiveWell', 'Associate Manager, Commons', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ksmithwrites/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
-    
-
-
+    ,('Meghna Ray', 'GiveWell', 'Research Analyst', '2026-02-28', 'month', NULL, NULL, 'https://web.archive.org/web/20260228133205/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty')/*Last checked Wayback snapshot is from 2026-03-22*/
+    ,('Sophia Emmons-Bell', 'GiveWell', 'Research Analyst', '2026-01-27', 'month', NULL, NULL, 'https://web.archive.org/web/20260127001943/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty')/*Last checked Wayback snapshot is from 2026-03-22*/
 
 
 
