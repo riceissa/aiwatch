@@ -63,11 +63,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Jenna Amlani', 'GiveWell', 'Program Associate', '2024-05-27', 'month', NULL, NULL, 'https://web.archive.org/web/20240527225704/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty')/*Last checked Wayback snapshot is from 2026-03-22*/
     ,('John Macke', 'GiveWell', 'Senior Researcher', '2023-07-08', 'month', NULL,NULL, 'https://web.archive.org/web/20230708220143/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty')/*Last checked Wayback snapshot is from 2026-03-22*/
     ,('Kartik Sharma', 'GiveWell', 'Research Associate', '2025-12-16', 'month', NULL, NULL, 'https://web.archive.org/web/20251216005215/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty')/*Last checked Wayback snapshot is from 2026-03-22*/
-
-
-
-
-
+    ,('Lucy McNamara', 'GiveWell', 'Senior Researcher', '2025-06-30', 'month', NULL, NULL, 'https://web.archive.org/web/20250630231510/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty')/*Last checked Wayback snapshot is from 2026-03-22*/
+    ,('Robin Dey','GiveWell','Research Associate, Malaria','2024-03-01','month',NULL, NULL,'https://www.linkedin.com/in/robin-dey-ba2b2470/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty')/*Last checked Wayback snapshot is from 2026-03-22*/
+    ,('Rosie Bettle', 'GiveWell', 'Senior Program Officer', '2026-03-22', 'month', NULL, NULL, 'https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty')/*Last checked Wayback snapshot is from 2026-03-22*/
 
 
 
@@ -101,9 +99,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     /*...........................................................................Cross-cutting research subteam..................................................................................*/
 
     ,('Megan Morris', 'GiveWell', 'Senior Researcher', '2025-07-28', 'month', NULL, NULL, 'https://web.archive.org/web/20250728230900/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
-    ,('Rosie Bettle', 'GiveWell', 'Senior Researcher', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rosie-bettle-84a1051b0/ https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
-    ,('Lucy McNamara', 'GiveWell', 'Senior Researcher', '2025-06-30', 'month', NULL, NULL, 'https://web.archive.org/web/20250630231510/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
-    ,('Robin Dey','GiveWell','Research Associate, Malaria','2024-03-01','month',NULL, NULL,'https://www.linkedin.com/in/robin-dey-ba2b2470/ https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
     ,('Sam Aman', 'GiveWell', 'Program Associate', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/amansam/ https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
     ,('Sarah Eustis-Guthrie', 'GiveWell', 'Senior Program Associate', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/saraheustisguthrie/ https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, 'Full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
     /*...........................................................................New areas research subteam..................................................................................*/
@@ -146,6 +141,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Charlotte Fisken', 'GiveWell', 'Senior Philanthropy Associate', '2026-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/charlotte-fisken-01b0998a/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last consulted Wayback snapshots are from 2025-08-25 and 2025-09-22 */
     ,('Eric Temple', 'GiveWell', 'Senior Philanthropy Associate', '2026-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ericrtemple/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last consulted Wayback snapshots are from 2025-08-25 and 2025-09-22 */
  
+
+
+
+
 
 
 
@@ -427,4 +426,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Adam Salisbury', 'GiveWell', 'Senior Researcher', '2024-08-01', 'month', '2025-11-01', 'month', 'https://www.linkedin.com/in/adamsalisbury15/', 'Greater London, England, United Kingdom', 'full-time', 'Global health and poverty') /*closed*/   
     ,('Adam Salisbury', 'GiveWell', 'Senior Research Associate', '2022-07-01', 'month', '2024-08-01', 'month', 'https://www.linkedin.com/in/adamsalisbury15/', 'Greater London, England, United Kingdom', 'full-time', 'Global health and poverty') /*closed*/   
     ,('Alex Bowles', 'GiveWell', 'Program Officer, Malaria (Vector Control)', '2024-09-01', 'month', '2026-01-20', 'month', 'https://www.linkedin.com/in/abowles/ https://web.archive.org/web/20260120004206/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*closed*/    
-    ,('Kartik Sharma', 'GiveWell', 'Research Analyst', '2024-08-26', 'month', '202-11-11', 'month', 'https://web.archive.org/web/20240826230255/https://www.givewell.org/about/people https://web.archive.org/web/20251111001530/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*closed*/    
+    ,('Kartik Sharma', 'GiveWell', 'Research Analyst', '2024-08-26', 'month', '2025-11-11', 'month', 'https://web.archive.org/web/20240826230255/https://www.givewell.org/about/people https://web.archive.org/web/20251111001530/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*closed*/    
+    ,('Rosie Bettle', 'GiveWell', 'Senior Researcher', '2024-10-01', 'month', '2025-10-14', 'month', 'https://www.linkedin.com/in/rosie-bettle-84a1051b0/ https://web.archive.org/web/20251014000050/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*closed*/     
+    ,('Rosie Bettle', 'GiveWell', 'Program Officer', '2025-11-11', 'month', '2026-01-20', 'month', 'https://web.archive.org/web/20251111001530/https://www.givewell.org/about/people https://web.archive.org/web/20260120004206/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty')/*closed*/
