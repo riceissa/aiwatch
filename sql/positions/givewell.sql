@@ -67,8 +67,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Robin Dey','GiveWell','Research Associate, Malaria','2024-03-01','month',NULL, NULL,'https://www.linkedin.com/in/robin-dey-ba2b2470/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty')/*Last checked Wayback snapshot is from 2026-03-22*/
     ,('Rosie Bettle', 'GiveWell', 'Senior Program Officer', '2026-03-22', 'month', NULL, NULL, 'https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty')/*Last checked Wayback snapshot is from 2026-03-22*/
     ,('Sam Aman', 'GiveWell', 'Senior Project Manager', '2026-03-22', 'month', NULL, NULL, 'https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty')/*Last checked Wayback snapshot is from 2026-03-22*/
+    ,('Sarah Eustis-Guthrie', 'GiveWell', 'Senior Program Associate', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/saraheustisguthrie/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
 
 
+    
 
 
 
@@ -99,7 +101,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     /*...........................................................................Cross-cutting research subteam..................................................................................*/
 
     ,('Megan Morris', 'GiveWell', 'Senior Researcher', '2025-07-28', 'month', NULL, NULL, 'https://web.archive.org/web/20250728230900/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
-    ,('Sarah Eustis-Guthrie', 'GiveWell', 'Senior Program Associate', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/saraheustisguthrie/ https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, 'Full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
     /*...........................................................................New areas research subteam..................................................................................*/
     ,('Dan Brown','GiveWell','Program officer','2023-05-26','month', NULL, NULL,'https://web.archive.org/web/20230626225317/https://www.givewell.org/about/people https://web.archive.org/web/20250216210747/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Last checked Wayback snapshot is from 2025-02-16*/ /*current position*/  
     ,('Daniel Issing', 'GiveWell', 'Senior Research Associate', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/daniel-issing/ https://web.archive.org/web/20250216210747/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Last checked Wayback snapshot is from 2025-02-16*/ /*current position*/  
