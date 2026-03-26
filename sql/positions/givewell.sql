@@ -57,7 +57,21 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Steven Brownstone', 'GiveWell', 'Researcher', '2026-02-28', 'month', NULL, NULL, 'https://web.archive.org/web/20260228133205/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
     ,('Adam Salisbury', 'GiveWell', 'Senior Program Officer', '2025-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adamsalisbury15/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', 'Greater London, England, United Kingdom', 'full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
     ,('Marinella Capriati', 'GiveWell', 'Program Officer', '2022-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/marinella-capriati-474814a5/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
-    ,('Alex Bowles', 'GiveWell', 'Senior Program Officer', '2026-03-22', 'month', NULL, NULL, 'https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty')/*Last checked Wayback snapshot is from 2026-03-22*/
+    ,('Alex Bowles', 'GiveWell', 'Senior Program Officer', '2026-03-22', 'month', NULL, NULL, 'https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty')/*Last checked Wayback snapshot is from 2026-03-22*/
+    ,('Giselle Gray', 'GiveWell', 'Project Manager', '2026-03-22', 'month', NULL, NULL, 'https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty')/*Last checked Wayback snapshot is from 2026-03-22*/
+    ,('James Watson', 'GiveWell', 'Senior Researcher', '2025-09-15', 'month', NULL, NULL, 'https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty')/*Last checked Wayback snapshot is from 2026-03-22*/
+    ,('Jenna Amlani', 'GiveWell', 'Program Associate', '2024-05-27', 'month', NULL, NULL, 'https://web.archive.org/web/20240527225704/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty')/*Last checked Wayback snapshot is from 2026-03-22*/
+    ,('John Macke', 'GiveWell', 'Senior Researcher', '2023-07-08', 'month', NULL,NULL, 'https://web.archive.org/web/20230708220143/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty')/*Last checked Wayback snapshot is from 2026-03-22*/
+
+
+
+    
+
+
+
+
+
+
 
 
 
@@ -89,9 +103,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
     ,('Megan Morris', 'GiveWell', 'Senior Researcher', '2025-07-28', 'month', NULL, NULL, 'https://web.archive.org/web/20250728230900/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
     ,('Rosie Bettle', 'GiveWell', 'Senior Researcher', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rosie-bettle-84a1051b0/ https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
-    ,('James Watson', 'GiveWell', 'Senior Researcher', '2025-09-15', 'month', NULL, NULL, 'https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
-    ,('Jenna Amlani', 'GiveWell', 'Program Associate', '2024-05-27', 'month', NULL, NULL, 'https://web.archive.org/web/20240527225704/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
-    ,('John Macke', 'GiveWell', 'Senior Researcher', '2023-07-08', 'month', NULL,NULL, 'https://web.archive.org/web/20230708220143/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
     ,('Lucy McNamara', 'GiveWell', 'Senior Researcher', '2025-06-30', 'month', NULL, NULL, 'https://web.archive.org/web/20250630231510/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
     ,('Robin Dey','GiveWell','Research Associate, Malaria','2024-03-01','month',NULL, NULL,'https://www.linkedin.com/in/robin-dey-ba2b2470/ https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
     ,('Sam Aman', 'GiveWell', 'Program Associate', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/amansam/ https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
