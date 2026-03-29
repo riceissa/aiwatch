@@ -76,8 +76,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Tiffany Hruby', 'GiveWell', 'Project Manager', '2026-02-17', 'month', NULL, NULL, 'https://web.archive.org/web/20260217020101/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
     ,('Zachary McLeod', 'GiveWell', 'Project Manager', '2026-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/zachary-mcleod-34398040/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
     ,('Matt Wang', 'GiveWell', 'Research Operations Analyst', '2024-07-29', 'month', NULL, NULL, 'https://web.archive.org/web/20240729225900/https://www.givewell.org/about/people  https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
-
-
+    ,('Natalie Crispin', 'GiveWell', 'Senior Program Officer, Vaccines lead', '2026-02-17', 'month', NULL, NULL, 'https://web.archive.org/web/20260217020101/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
+    ,('Isabel Vasquez', 'GiveWell', 'Senior Project Manager', '2026-02-17', 'month', NULL, NULL, 'https://web.archive.org/web/20260217020101/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
 
 
 
@@ -109,8 +109,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 
-    ,('Natalie Crispin','GiveWell', 'Program Officer (Vice President & Treasurer)', '2024-02-12', 'month',NULL,NULL, 'https://web.archive.org/web/20240212173534/https://www.givewell.org/about/people https://web.archive.org/web/20250922235004/https://www.givewell.org/about/people',NULL,NULL,'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
-    ,('Isabel Vasquez', 'GiveWell', 'Program Associate', '2023-09-25', 'month', NULL, NULL, 'https://web.archive.org/web/20230925230143/https://www.givewell.org/about/people https://web.archive.org/web/20250922235004/https://www.givewell.org/about/people',NULL,NULL,'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
+
+
     ,('Sarah Carson','GiveWell', 'Program Associate', '2024-10-01', 'month',NULL,NULL, 'https://www.linkedin.com/in/sarah-d-carson-a0969273/ https://web.archive.org/web/20250922235004/https://www.givewell.org/about/people',NULL,NULL,'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
     ,('Vicky Yu', 'GiveWell', 'Research Associate', '2023-07-17', 'month', NULL, NULL, 'https://web.archive.org/web/20230717225926/https://www.givewell.org/about/people https://web.archive.org/web/20250922235004/https://www.givewell.org/about/people',NULL,NULL,'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
     ,('Erin Crossett','GiveWell', 'Program Officer', '2023-02-26', 'month',NULL, NULL, 'https://web.archive.org/web/20230226194214/https://www.givewell.org/about/people  https://www.linkedin.com/in/erin-crossett-9b0a4731/ https://web.archive.org/web/20250922235004/https://www.givewell.org/about/people',NULL,NULL,'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
@@ -422,3 +422,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Tiffany Hruby','GiveWell','Program Associate','2024-10-08','month','2026-01-27','month','https://web.archive.org/web/20241008172628/https://www.givewell.org/about/people https://web.archive.org/web/20260127001943/https://www.givewell.org/about/people',NULL,NULL,'Global health and poverty') /*closed */  
     ,('Zachary McLeod', 'GiveWell', 'Research Analyst', '2023-07-17', 'month', '2026-03-01','month', 'https://www.linkedin.com/in/zachary-mcleod-34398040/ https://web.archive.org/web/20230717225926/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*closed */  
     ,('Destiny Clark', 'GiveWell', 'Operations Assistant', '2024-05-27', 'month', '2026-01-27', 'month', 'https://web.archive.org/web/20240527225704/https://www.givewell.org/about/people https://web.archive.org/web/20260127001943/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*closed */  
+    ,('Natalie Crispin','GiveWell', 'Program Officer (Vice President & Treasurer)', '2024-02-12', 'month','2026-01-27','month', 'https://web.archive.org/web/20240212173534/https://www.givewell.org/about/people https://web.archive.org/web/20260127001943/https://www.givewell.org/about/people',NULL,NULL,'Global health and poverty') /*closed */  
+    ,('Isabel Vasquez', 'GiveWell', 'Program Associate', '2023-09-25', 'month', '2026-01-27', 'month', 'https://web.archive.org/web/20230925230143/https://www.givewell.org/about/people https://web.archive.org/web/20260127001943/https://www.givewell.org/about/people',NULL,NULL,'Global health and poverty') /*closed */    
