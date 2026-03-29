@@ -84,14 +84,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Karin Mason', 'GiveWell', 'Project Manager', '2026-03-22', 'month', NULL, NULL, 'https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
     ,('Megan Morris', 'GiveWell', 'Senior Researcher', '2025-07-28', 'month', NULL, NULL, 'https://web.archive.org/web/20250728230900/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
     ,('John Birchall','GiveWell','Website Technical Support','2012-01-01','year',NULL,NULL,'https://web.archive.org/web/20170930041922/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
-    ,('Albert Chu','GiveWell','Board Member','2025-08-25','month',NULL,NULL,'https://web.archive.org/web/20250825234845/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
-
-
-
-
-
-
-
+    ,('Albert Chu','GiveWell','Board Member','2025-08-25','month',NULL,NULL,'https://web.archive.org/web/20250825234845/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'Board member', 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
+    ,('Cari Tuna','GiveWell','Board member','2011-05-22','month',NULL,NULL,'https://web.archive.org/web/20110522195903/http://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'Board member', 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
+    ,('Daniela Amodei', 'GiveWell', 'Board Member', '2023-08-14', 'month', NULL, NULL, 'https://web.archive.org/web/20230814225540/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'Board member', 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
+    ,('James McClave', 'GiveWell', 'Board Member', '2023-08-14', 'month', NULL,NULL, 'https://web.archive.org/web/20230814225540/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'Board member', 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
+    ,('Norma Altshuler','GiveWell','Board Member','2021-01-01', NULL,NULL,NULL, 'https://web.archive.org/web/20211111024251/https://www.givewell.org/about/people https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'Board member', 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
+    ,('Timothy Ogden','GiveWell','Chairman of the board','2019-09-01', 'month',NULL,NULL, 'https://www.linkedin.com/in/timothyogden/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'Board member', 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
 
 
 
@@ -113,20 +111,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Madeline Schoonover', 'GiveWell', 'Manager, Talent Acquisition', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/madeline-schoonover-140336bb/ https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, 'Full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
     ,('Tiffany Adjmul', 'GiveWell', 'Donor Relations Associate', '2023-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tiffany-adjmul-329a86101/ https://web.archive.org/web/20230925230143/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, 'Full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
     ,('Dave Wilson', 'GiveWell', 'Senior Program Associate', '2023-01-26', 'month', NULL, NULL, 'https://web.archive.org/web/20230126175327/https://www.givewell.org/about/people https://web.archive.org/web/20250922235004/https://www.givewell.org/about/people',NULL,NULL,'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
-
-    ,('Cari Tuna','GiveWell','Board member','2011-05-22','month',NULL,NULL,'https://web.archive.org/web/20110522195903/http://www.givewell.org/about/people https://web.archive.org/web/20250922235004/https://www.givewell.org/about/people',NULL,'Board Member','Global health and poverty') /*Last consulted Wayback snapshots are from 2025-08-25 and 2025-09-22 */
-    ,('Daniela Amodei', 'GiveWell', 'Board Member', '2023-08-14', 'month', NULL, NULL, 'https://web.archive.org/web/20230814225540/https://www.givewell.org/about/people https://web.archive.org/web/20250922235004/https://www.givewell.org/about/people',NULL,'Board Member','Global health and poverty') /*Last consulted Wayback snapshots are from 2025-08-25 and 2025-09-22 */
-    ,('James McClave', 'GiveWell', 'Board Member', '2023-08-14', 'month', NULL,NULL, 'https://web.archive.org/web/20230814225540/https://www.givewell.org/about/people https://web.archive.org/web/20250922235004/https://www.givewell.org/about/people',NULL,'Board Member','Global health and poverty') /*Last consulted Wayback snapshots are from 2025-08-25 and 2025-09-22 */
-    ,('Norma Altshuler','GiveWell','Board Member','2021-01-01', NULL,NULL,NULL, 'https://web.archive.org/web/20211111024251/https://www.givewell.org/about/people https://web.archive.org/web/20250922235004/https://www.givewell.org/about/people',NULL,'Board Member','Global health and poverty') /*Last consulted Wayback snapshots are from 2025-08-25 and 2025-09-22 */
-    ,('Timothy Ogden','GiveWell','Chairman of the board','2019-09-01', 'month',NULL,NULL, 'https://www.linkedin.com/in/timothyogden/ https://web.archive.org/web/20250922235004/https://www.givewell.org/about/people',NULL,'Board Member','Global health and poverty') /*Last consulted Wayback snapshots are from 2025-08-25 and 2025-09-22 */
     ,('Charlotte Fisken', 'GiveWell', 'Senior Philanthropy Associate', '2026-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/charlotte-fisken-01b0998a/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last consulted Wayback snapshots are from 2025-08-25 and 2025-09-22 */
     ,('Eric Temple', 'GiveWell', 'Senior Philanthropy Associate', '2026-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ericrtemple/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last consulted Wayback snapshots are from 2025-08-25 and 2025-09-22 */
- 
-
-
-
-
-
 /*....................................................closed positions below.....................................*/
     ,('Teryn Mattox','GiveWell','Senior Program Officer','2021-11-01','month','2023-08-01','month','https://www.linkedin.com/in/teryn-mattox-189b2153/',NULL,'full-time','Global health and poverty') /*closed*/
     ,('Teryn Mattox','GiveWell','Program Officer','2020-09-01','month','2021-11-01','month','https://www.linkedin.com/in/teryn-mattox-189b2153/',NULL,'full-time','Global health and poverty') /*closed*/
