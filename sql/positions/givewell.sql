@@ -67,7 +67,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Dan Brown', 'GiveWell', 'Senior Program Officer, New Areas Lead', '2026-03-22', 'month', NULL, NULL, 'https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty')/*Last checked Wayback snapshot is from 2026-03-22*/
     ,('Dilhan Perera', 'GiveWell', 'Program Officer', '2026-03-22', 'month', NULL, NULL, 'https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty')/*Last checked Wayback snapshot is from 2026-03-22*/
     ,('Kim Vidal', 'GiveWell', 'Senior Project Manager', '2026-03-22', 'month', NULL, NULL, 'https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty')/*Last checked Wayback snapshot is from 2026-03-22*/
-
+    ,('Meika Ball', 'GiveWell', 'Program Officer', '2026-03-22', 'month', NULL, NULL, 'https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last checked Wayback snapshot is from 2026-03-22*/
 
 
 
@@ -106,8 +106,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
     ,('Megan Morris', 'GiveWell', 'Senior Researcher', '2025-07-28', 'month', NULL, NULL, 'https://web.archive.org/web/20250728230900/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
     /*...........................................................................New areas research subteam..................................................................................*/
-    ,('Meika Ball','GiveWell', 'Senior Research Associate', '2024-04-29', 'month',NULL,NULL, 'https://www.linkedin.com/in/meika-ball-2b4730169/ https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
-    ,('Rachel Mitchell', 'GiveWell', 'Program Associate', '2023-11-01', 'month', NULL,NULL, 'https://www.linkedin.com/in/rachel-mitchell-586a8312b/ https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
+
     /*...........................................................................Nutrition research subteam..................................................................................*/
     ,('Alice Redfern', 'GiveWell', 'Program Officer', '2025-05-26', 'month', NULL, NULL, 'https://web.archive.org/web/20250526230708/https://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
     ,('Andrew Martin','GiveWell','Senior Research Associate','2019-04-10','month', NULL, NULL,'https://web.archive.org/web/20201116175256/http://www.givewell.org/about/people https://web.archive.org/web/20250915232112/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*Last checked Wayback snapshot is from 2025-09-15 */
@@ -141,13 +140,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Charlotte Fisken', 'GiveWell', 'Senior Philanthropy Associate', '2026-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/charlotte-fisken-01b0998a/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last consulted Wayback snapshots are from 2025-08-25 and 2025-09-22 */
     ,('Eric Temple', 'GiveWell', 'Senior Philanthropy Associate', '2026-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ericrtemple/ https://web.archive.org/web/20260322145743/https://www.givewell.org/about/people', NULL, 'full-time', 'Global health and poverty') /*Last consulted Wayback snapshots are from 2025-08-25 and 2025-09-22 */
  
-
-
-
-
-
-
-
 
 
 
@@ -433,4 +425,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
     ,('Dan Brown','GiveWell','Program officer','2023-05-26','month', '2026-01-20', 'month','https://web.archive.org/web/20230626225317/https://www.givewell.org/about/people https://web.archive.org/web/20260120004206/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*closed*/    
     ,('Daniel Issing', 'GiveWell', 'Senior Research Associate', '2023-07-01', 'month', '2026-01-20', 'month', 'https://www.linkedin.com/in/daniel-issing/ https://web.archive.org/web/20260120004206/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*closed*/    
     ,('Kim Vidal', 'GiveWell', 'Program Associate', '2025-07-28', 'month', '2026-01-20', 'month', 'https://web.archive.org/web/20250728230900/https://www.givewell.org/about/people https://web.archive.org/web/20260120004206/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*closed */    
-    ,('Dilhan Perera', 'GiveWell', 'Senior Research Associate', '2023-07-01', 'month', '2026-01-20', 'month', 'https://www.linkedin.com/in/dilhan-perera/ https://web.archive.org/web/20260120004206/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*Last checked Wayback snapshot is from 2025-02-16*/ /*current position*/      
+    ,('Dilhan Perera', 'GiveWell', 'Senior Research Associate', '2023-07-01', 'month', '2026-01-20', 'month', 'https://www.linkedin.com/in/dilhan-perera/ https://web.archive.org/web/20260120004206/https://www.givewell.org/about/people', NULL, NULL,'Global health and poverty') /*closed */   
+    ,('Meika Ball','GiveWell', 'Senior Research Associate', '2024-04-29', 'month','2026-01-27','month', 'https://www.linkedin.com/in/meika-ball-2b4730169/ https://web.archive.org/web/20260127001943/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*closed */    
+    ,('Rachel Mitchell', 'GiveWell', 'Program Associate', '2023-11-01', 'month', '2026-01-27','month', 'https://www.linkedin.com/in/rachel-mitchell-586a8312b/ https://web.archive.org/web/20260127001943/https://www.givewell.org/about/people', NULL, NULL, 'Global health and poverty') /*closed */
