@@ -16,7 +16,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Daniel Poneman', 'The Council on Strategic Risks', 'Board Member', '2021-12-01', 'year', NULL, NULL, 'https://web.archive.org/web/20260405231521/https://councilonstrategicrisks.org/board-of-directors/ https://web.archive.org/web/20211206080555/https://councilonstrategicrisks.org/about/leadership/', NULL, 'board member', 'Existential risk prevention') /* Reviewed on 2026-04-01 / / Last available Wayback snapshot date is 2026-04-01 */
 ,('Glenn Prickett', 'The Council on Strategic Risks', 'Board Member', '2022-11-01', 'year', NULL, NULL, 'https://web.archive.org/web/20221119203714/https://councilonstrategicrisks.org/about/leadership/ https://web.archive.org/web/20260405231521/https://councilonstrategicrisks.org/board-of-directors/', NULL, 'board member', 'Existential risk prevention') /* Reviewed on 2026-04-01 / / Last available Wayback snapshot date is 2026-04-01 */
 ,('Rajeev Surati', 'The Council on Strategic Risks', 'Board Member', '2021-01-01', 'month', NULL, NULL, 'https://web.archive.org/web/20210121140357/https://councilonstrategicrisks.org/about/leadership/ https://web.archive.org/web/20260405231521/https://councilonstrategicrisks.org/board-of-directors/', NULL, 'board member', 'Existential risk prevention') /* Reviewed on 2026-04-01 / / Last available Wayback snapshot date is 2026-04-01 */
-('Janet Wu', 'The Council on Strategic Risks', 'Board Member', '2023-02-01', 'month', NULL, NULL, 'https://web.archive.org/web/20221207193946/https://councilonstrategicrisks.org/about/leadership/ https://www.linkedin.com/in/janet-wu-262b778/ https://web.archive.org/web/20260405231521/https://councilonstrategicrisks.org/board-of-directors/', NULL, 'board member', 'Existential risk prevention') /* Reviewed on 2026-04-01 / / Last available Wayback snapshot date is 2026-04-01 */
+,('Janet Wu', 'The Council on Strategic Risks', 'Board Member', '2023-02-01', 'month', NULL, NULL, 'https://web.archive.org/web/20221207193946/https://councilonstrategicrisks.org/about/leadership/ https://www.linkedin.com/in/janet-wu-262b778/ https://web.archive.org/web/20260405231521/https://councilonstrategicrisks.org/board-of-directors/', NULL, 'board member', 'Existential risk prevention') /* Reviewed on 2026-04-01 / / Last available Wayback snapshot date is 2026-04-01 */
 
  /* CSR Leadership & Core Staff */
 
@@ -88,7 +88,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 /*..................closed positions below...........*/
-,('Brigitte Hugh', 'The Council on Strategic Risks', 'Research Fellow', '2022-05-02', 'month', '2024-12-01', 'month', 'https://web.archive.org/web/20220811142111/https://councilonstrategicrisks.org/about/leadership/ https://www.linkedin.com/in/brigittehugh/ https://web.archive.org/web/20241210000008/https://councilonstrategicrisks.org/experts/', NULL, NULL, 'Existential risk prevention') completada 
+,('Brigitte Hugh', 'The Council on Strategic Risks', 'Research Fellow', '2022-05-02', 'month', '2024-12-01', 'month', 'https://web.archive.org/web/20220811142111/https://councilonstrategicrisks.org/about/leadership/ https://www.linkedin.com/in/brigittehugh/ https://web.archive.org/web/20241210000008/https://councilonstrategicrisks.org/experts/', NULL, NULL, 'Existential risk prevention') /* completada */
 ,('Stan Rose', 'The Council on Strategic Risks', 'Senior Fellow', '2020-01-01', 'year', '2024-12-01', 'month', 'http://web.archive.org/web/20210324135834/https://councilonstrategicrisks.org/experts/ https://www.linkedin.com/in/stanrosephd/ https://web.archive.org/web/20241210000008/https://councilonstrategicrisks.org/experts/', NULL, NULL, 'Existential risk prevention')
 ,('Janne E. Nolan', 'The Council on Strategic Risks', 'Founding Board Member', '2017-01-01', 'year', '2019-01-01', 'year', 'https://web.archive.org/web/20260405231521/https://councilonstrategicrisks.org/board-of-directors/', NULL, 'board member', 'Existential risk prevention')
 ,('Mallory Stewart', 'The Council on Strategic Risks', 'Executive Vice President', '2025-06-01', 'month', '2026-01-01', 'month', 'https://www.linkedin.com/in/mallory-stewart-b43720137/', NULL, 'full-time', 'Existential risk prevention')
@@ -209,21 +209,4 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Dilan Koç', 'The Council on Strategic Risks', 'Fellow', '2023-12-01', 'year', '2024-12-01', 'month', 'https://web.archive.org/web/20231220230651/https://councilonstrategicrisks.org/experts/ https://web.archive.org/web/20241210000008/https://councilonstrategicrisks.org/experts/', NULL, NULL, 'Existential risk prevention')  
 ,('Shawn Rostker', 'The Council on Strategic Risks', 'Fellow', '2023-12-01', 'year', '2024-12-01', 'month', 'https://web.archive.org/web/20231220230651/https://councilonstrategicrisks.org/experts/ https://web.archive.org/web/20241210000008/https://councilonstrategicrisks.org/experts/', NULL, NULL, 'Existential risk prevention')  
 ,('Ethan Wong', 'The Council on Strategic Risks', 'Fellow', '2023-12-01', 'year', '2024-12-01', 'month', 'https://web.archive.org/web/20231220230651/https://councilonstrategicrisks.org/experts/ https://web.archive.org/web/20241210000008/https://councilonstrategicrisks.org/experts/
-', NULL, NULL, 'Existential risk prevention') 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+', NULL, NULL, 'Existential risk prevention')
