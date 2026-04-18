@@ -22,6 +22,7 @@ sql/positions/albert-schweitzer-foundation.sql
 sql/positions/alignment-of-complex-systems-research-group.sql
 sql/positions/alignment-research-center.sql
 sql/positions/all-tech-is-human.sql
+sql/positions/alliance-to-feed-the-earth-in-disasters-allfed.sql
 sql/positions/alter.sql
 sql/positions/alvea.sql
 sql/positions/ambitious-impact.sql
