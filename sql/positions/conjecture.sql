@@ -32,7 +32,9 @@ insert into positions(person, organization, title, start_date, start_date_precis
 
 
 -- Existing Conjecture row: source confirms Dec 2021 - Feb 2026, full-time CEO
-('Connor Leahy', 'Conjecture', 'CEO', '2021-12-01', 'month', '2026-02-01', 'month', 'https://www.linkedin.com/in/connor-j-leahy/ https://www.conjecture.dev/', 'Founder and CEO of AI Alignment research startup Conjecture.', 'full-time', 'AI safety') /*closed*/
+,('Connor Leahy', 'Conjecture', 'CEO', '2021-12-01', 'month', '2026-02-01', 'month', 'https://www.linkedin.com/in/connor-j-leahy/ https://www.conjecture.dev/', 'Founder and CEO of AI Alignment research startup Conjecture.', 'full-time', 'AI safety') /*closed*/
 
 -- New position from source
 ,('Connor Leahy', 'ControlAI', 'US Director', '2026-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/connor-j-leahy/', 'Leading ControlAI''s efforts in the USA.', 'full-time', 'AI safety') /*current position*/
+
+,('Carlos Guevara', 'Conjecture', 'Machine Learning Engineer', '2022-07-01', 'month', '2022-07-01'/*unable to see more snapshots*/, NULL, 'https://web.archive.org/web/20220712100157/https://www.conjecture.dev/ https://www.linkedin.com/in/carlos-ram%C3%B3n-guevara-258732266/', NULL, 'full-time', 'AI safety') /*closed*/
