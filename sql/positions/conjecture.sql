@@ -28,3 +28,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Myriame Honnay', 'Conjecture', 'Executive Assistant', '2022-04-01', 'month', '2022-07-01'/*unable to see more snapshots*/, NULL, 'https://web.archive.org/web/20220712100157/https://www.conjecture.dev/', NULL, NULL, 'AI safety') /*closed*/
 ,('Rachel Stockton', 'Conjecture', 'Chief of Staff to the CEO', '2022-06-01', 'month', '2024-02-01', 'month', 'https://web.archive.org/web/20220712100157/https://www.conjecture.dev/ https://www.linkedin.com/in/rachel-stockton/', NULL, 'full-time', 'AI safety') /*closed*/
 ,('Sid Black', 'Conjecture', 'Founder, Chief Technology officer', '2022-03-01', 'month', '2022-04-10'/*unable to see more snapshots*/, NULL, 'https://www.conjecture.dev/about https://web.archive.org/web/20220408115904/https://www.conjecture.dev/ https://web.archive.org/web/20220410021147/https://www.conjecture.dev/', NULL, NULL, 'AI safety') /*unknown*/
+
+
+
+-- Existing Conjecture row: source confirms Dec 2021 - Feb 2026, full-time CEO
+('Connor Leahy', 'Conjecture', 'CEO', '2021-12-01', 'month', '2026-02-01', 'month', 'https://www.linkedin.com/in/connor-j-leahy/ https://www.conjecture.dev/', 'Founder and CEO of AI Alignment research startup Conjecture.', 'full-time', 'AI safety') /*closed*/
+
+-- New position from source
+,('Connor Leahy', 'ControlAI', 'US Director', '2026-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/connor-j-leahy/', 'Leading ControlAI''s efforts in the USA.', 'full-time', 'AI safety') /*current position*/
