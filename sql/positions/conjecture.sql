@@ -38,3 +38,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ,('Connor Leahy', 'ControlAI', 'US Director', '2026-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/connor-j-leahy/', 'Leading ControlAI''s efforts in the USA.', 'full-time', 'AI safety') /*current position*/
 
 ,('Carlos Guevara', 'Conjecture', 'Machine Learning Engineer', '2022-07-01', 'month', '2022-07-01'/*unable to see more snapshots*/, NULL, 'https://web.archive.org/web/20220712100157/https://www.conjecture.dev/ https://www.linkedin.com/in/carlos-ram%C3%B3n-guevara-258732266/', NULL, 'full-time', 'AI safety') /*closed*/
+
+,('Katrina Joslin', 'Conjecture', 'EA in Operations', '2022-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/katrina-joslin/ https://web.archive.org/web/20220712100157/https://www.conjecture.dev/', NULL, 'full-time', 'AI safety') /*current position*/
+
+,('Jan Michelfeit', 'Conjecture', 'Head of Security', '2023-02-01', 'month', '2025-06-01', 'month', 'https://www.linkedin.com/in/jmichelfeit/', 'Location: London Area, United Kingdom (on-site).', 'full-time', 'AI safety') /*closed*/
