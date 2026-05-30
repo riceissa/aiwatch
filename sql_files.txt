@@ -198,6 +198,7 @@ sql/positions/survival-and-flourishing.fund.sql
 sql/positions/survival-and-flourishing.org.sql
 sql/positions/suvita.sql
 sql/positions/talos-network.sql
+sql/positions/the-alliance-for-longevity-initiatives.sql
 sql/positions/the-center-for-climate-and-security.sql
 sql/positions/the-council-on-strategic-risks.sql 
 sql/positions/the-future-society.sql 
