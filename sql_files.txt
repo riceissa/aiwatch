@@ -173,6 +173,7 @@ sql/positions/partnership-on-ai.sql
 sql/positions/pauseai.sql
 sql/positions/positive-impact-society-erasmus.sql
 sql/positions/probably-good.sql
+sql/positions/public-longevity-group.sql
 sql/positions/quantified-uncertainty-research-institute.sql
 sql/positions/raising-for-effective-giving.sql
 sql/positions/reducetarian-foundation.sql
