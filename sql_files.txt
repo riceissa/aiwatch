@@ -43,6 +43,7 @@ sql/positions/beri.sql
 sql/positions/biotein.sql
 sql/positions/blue-horizon.sql
 sql/positions/bluedot-impact.sql
+sql/positions/buck-institute-for-research-on-aging.sql
 sql/positions/cambridge-boston-alignment-initiative.sql
 sql/positions/capital-v.sql
 sql/positions/cea.sql
