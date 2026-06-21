@@ -31,6 +31,7 @@ sql/positions/anima-international.sql
 sql/positions/animal-advocacy-africa.sql
 sql/positions/animal-advocacy-careers.sql
 sql/positions/animal-defense-partnership.sql
+sql/positions/animal-welfare-institute.sql
 sql/positions/anthropic.sql
 sql/positions/antikythera.sql
 sql/positions/apart-research.sql
