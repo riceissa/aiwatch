@@ -143,6 +143,7 @@ sql/positions/leverhulme-centre-for-the-future-of-intelligence.sql
 sql/positions/lifespan-extension-advocacy-foundation.sql
 sql/positions/lifespan-research-institute.sql
 sql/positions/lightcone-infrastructure.sql
+sql/positions/longevity-biotech-fellowship.sql
 sql/positions/longevity-escape-velocity.sql
 sql/positions/longevity-global.sql
 sql/positions/longview-philanthropy.sql
