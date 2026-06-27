@@ -57,4 +57,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Vysak Venkateswaran', 'Longevity Biotech Fellowship', 'Research Fellow', '2024-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/vysakv/', NULL, 'part-time', 'Longevity') /*Last checked LinkedIn profile is from 2026-06-26*/,
 ('Josef Christensen', 'Longevity Biotech Fellowship', 'Longevity Biotech Fellow', '2024-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/josef-christensen/', NULL, 'affiliate', 'Longevity') /*Last checked LinkedIn profile is from 2026-06-26*/,
 ('Chen-Yang Su', 'Longevity Biotech Fellowship', 'Longevity Biotech Fellow', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/chen-yang-su/', NULL, 'full-time', 'Longevity') /*Last checked LinkedIn profile is from 2026-06-26*/,
-('Pedro Henrich', 'Longevity Biotech Fellowship', 'Mentor', '2025-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/pedrohenriched/', NULL, 'part-time', 'Longevity') /*Last checked LinkedIn profile is from 2026-06-26*/;
+('Pedro Henrich', 'Longevity Biotech Fellowship', 'Mentor', '2025-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/pedrohenriched/', NULL, 'part-time', 'Longevity') /*Last checked LinkedIn profile is from 2026-06-26*/,
+('Shrutkirti Katiyar', 'Longevity Biotech Fellowship', 'Fellow', '2023-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shrutkirti-katiyar/', NULL, 'affiliate', 'Longevity') /*Last checked LinkedIn profile is from 2026-06-26*/;
+,
+('Paul Murray', 'Longevity Biotech Fellowship', 'Fellow/Software Engineer', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/paulmurray5/', NULL, 'volunteer', 'Longevity') /*Last checked LinkedIn profile is from 2026-06-26*/;
