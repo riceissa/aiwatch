@@ -64,4 +64,15 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Victoria Forest', 'Longevity Biotech Fellowship', 'Longevity Biotech Fellowship (LBF1) fellow', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/victoria-forest-b85052101/', NULL, 'affiliate', 'Longevity') /*Last checked LinkedIn profile is from 2026-06-26*/,
 ('Baran Dilaver', 'Longevity Biotech Fellowship', 'Fellow', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/baran-dilaver-3442b27/', NULL, 'affiliate', 'Longevity') /*Last checked LinkedIn profile is from 2026-06-26*/,
 ('Francesca Lugarini', 'Longevity Biotech Fellowship', 'Longevity Biotech Fellow', '2024-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/francesca-lugarini-161533ab/', NULL, 'affiliate', 'Longevity') /*Last checked LinkedIn profile is from 2026-06-26*/,
-('Michele Ferguson', 'Longevity Biotech Fellowship', 'Longevity Biotech Fellowship - Fellow (Cohort 7, Fall 25)', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/michelefergusonmd/', NULL, 'affiliate', 'Longevity') /*Last checked LinkedIn profile is from 2026-06-26*/;
+('Michele Ferguson', 'Longevity Biotech Fellowship', 'Longevity Biotech Fellowship - Fellow (Cohort 7, Fall 25)', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/michelefergusonmd/', NULL, 'affiliate', 'Longevity') /*Last checked LinkedIn profile is from 2026-06-26*/,
+('Kunal Jindal', 'Longevity Biotech Fellowship', 'Fellow', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kjindal24/', NULL, 'affiliate', 'Longevity') /*Last checked LinkedIn profile is from 2026-06-26*/,
+
+('Rakhan Aimbetov', 'Longevity Biotech Fellowship', 'Fellow', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/raimbetov/', NULL, 'affiliate', 'Longevity') /*Last checked LinkedIn profile is from 2026-06-26*/,
+
+('Anar Isman', 'Longevity Biotech Fellowship', 'Member', NULL, NULL, NULL, NULL, 'https://www.linkedin.com/in/anarcureaging/', NULL, 'affiliate', 'Longevity') /*Last checked LinkedIn profile is from 2026-06-26*/,
+
+('Dylan Wintle', 'Longevity Biotech Fellowship', 'Community Director', '2025-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/dylan-wintle-b91778207/', NULL, NULL, 'Longevity') /*Last checked LinkedIn profile is from 2026-06-26*/,
+
+('Kiran Gathani', 'Longevity Biotech Fellowship', 'Fellow (Cohort 7)', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kiran-gathani-a55b1017a/', NULL, 'affiliate', 'Longevity') /*Last checked LinkedIn profile is from 2026-06-26*/,
+
+('Julija Rabcuka', 'Longevity Biotech Fellowship', 'Longevity Biotech Fellow', '2022-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rabcuka/', NULL, 'affiliate', 'Longevity') /*Last checked LinkedIn profile is from 2026-06-26*/;
