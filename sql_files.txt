@@ -161,6 +161,7 @@ sql/positions/nato-climate-change-and-security-centre-of-excellence.sql
 sql/positions/new-incentives.sql
 sql/positions/non-trivial.sql
 sql/positions/nonlinear-fund.sql
+sql/positions/norn-group.sql
 sql/positions/nucleic-acid-observatory.sql
 sql/positions/observatorio-de-riesgos-catastroficos-globales.sql
 sql/positions/odiseia.sql

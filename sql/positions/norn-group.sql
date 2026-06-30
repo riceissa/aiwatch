@@ -1,0 +1,5 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+('Bjorn Fraser Olaisen', 'Norn Group', 'Longevity Nexus member', '2025-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/bjornolaisen/ https://norn.group/nexus', NULL, 'part-time', 'Longevity'),
+('Martin Borch Jensen', 'Norn Group', 'President', '2021-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/martinborchjensen/', NULL, NULL, 'Longevity'),
+('Sufal Deb', 'Norn Group', 'Chief of Staff', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sufal/ https://www.norn.group', NULL, NULL, 'Longevity'),
+('Erica Paganelli', 'Norn Group', 'Analista de Sinistro', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/erica-paganelli-6448003a/', NULL, 'full-time', 'Longevity');
