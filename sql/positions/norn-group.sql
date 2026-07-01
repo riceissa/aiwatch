@@ -2,5 +2,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Bjorn Fraser Olaisen', 'Norn Group', 'Longevity Nexus member', '2025-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/bjornolaisen/ https://norn.group/nexus', NULL, 'part-time', 'Longevity'),
 ('Martin Borch Jensen', 'Norn Group', 'President', '2021-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/martinborchjensen/', NULL, NULL, 'Longevity'),
 ('Sufal Deb', 'Norn Group', 'Chief of Staff', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sufal/ https://www.norn.group', NULL, NULL, 'Longevity'),
-('Madison Ueland', 'Norn Group', 'Longevity Apprenticeship', '2021-12-01', 'month', '2022-09-01', 'month', 'https://www.linkedin.com/in/madison-ueland/', NULL, NULL, 'Longevity') /*Closed*/
+('Madison Ueland', 'Norn Group', 'Longevity Apprenticeship', '2021-12-01', 'month', '2022-09-01', 'month', 'https://www.linkedin.com/in/madison-ueland/', NULL, NULL, 'Longevity'), /*Closed*/
 ('Erica Paganelli', 'Norn Group', 'Analista de Sinistro', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/erica-paganelli-6448003a/', NULL, 'full-time', 'Longevity');
