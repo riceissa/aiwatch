@@ -7,4 +7,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Alexander Tchernev', 'Vitalism Foundation', 'Mobilized Vitalist', '2024-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alexander-tchernev/', NULL, NULL, 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/,
 ('Peter Ottsjö', 'Vitalism Foundation', 'Medlem', '2024-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/peterottsjo/', NULL, NULL, 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/,
 ('Rie Yano', 'Vitalism Foundation', 'Co-Creator, Vitalist Bay', '2024-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rieyano/', NULL, NULL, 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/,
-('Shabia S.', 'Vitalism Foundation', 'Designer', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shabia/', NULL, NULL, 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/;
+('Shabia S.', 'Vitalism Foundation', 'Designer', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shabia/', NULL, NULL, 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/,
+('Laurence Ion', 'Vitalism Foundation', 'Member', '2023-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/laurenceion/', NULL, 'contractor', 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/,
+('Vysak Venkateswaran', 'Vitalism Foundation', 'Vitalist', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/vysakv/', NULL, 'part-time', 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/,
+('José Luis Cordeiro', 'Vitalism Foundation', 'Vitalist, Catalyst', '2024-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/josecordeiro/', NULL, 'part-time', 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/,
+('Simon Cohen', 'Vitalism Foundation', 'Vitalist', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/simcohen/', NULL, NULL, 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/,
+('Anastasiia Egorova', 'Vitalism Foundation', 'Advisor', '2025-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nastya-egorova/', 'Helping with various initiatives', 'advisor', 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/;
+
+ 

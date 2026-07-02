@@ -1,0 +1,6 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+('Timofey Glinin', 'Open Longevity', 'Scientific Supervisor', '2020-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/timofey-glinin/', NULL, NULL, 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/,
+('Danila Immortalist', 'Open Longevity', 'Community Manager', '2022-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/danilaimmortalist/', NULL, NULL, 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/,
+('Pavel Inchikov', 'Open Longevity', 'Volunteer', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/pavel-inchikov/', NULL, 'volunteer', 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/,
+('Inna Leicht', 'Open Longevity', 'Project Manager', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/inna-leicht/', NULL, 'contractor', 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/,
+('Elena Abaskulieva', 'Open Longevity', 'Business Operations Partner to Founder', '2025-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/elena-abaskulieva/', NULL, 'full-time', 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/;
