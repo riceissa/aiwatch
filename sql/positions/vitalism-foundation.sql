@@ -1,0 +1,10 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+('Adam Gries', 'Vitalism Foundation', 'Founder', '2023-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/adamgries/', NULL, NULL, 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/,
+('Nathan Cheng', 'Vitalism Foundation', 'Co-Founder', '2023-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nathan-cheng-6b464b207/', NULL, NULL, 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/,
+('Danila Immortalist', 'Vitalism Foundation', 'Amplifier', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/danilaimmortalist/', NULL, 'full-time', 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/,
+('Tomer Landsberger', 'Vitalism Foundation', 'Member', '2023-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tomer-landsberger-48127393/', NULL, NULL, 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/,
+('Mark Hamalainen', 'Vitalism Foundation', 'Vitalist', '2023-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/markhamalainen/', NULL, 'part-time', 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/,
+('Alexander Tchernev', 'Vitalism Foundation', 'Mobilized Vitalist', '2024-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alexander-tchernev/', NULL, NULL, 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/,
+('Peter Ottsjö', 'Vitalism Foundation', 'Medlem', '2024-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/peterottsjo/', NULL, NULL, 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/,
+('Rie Yano', 'Vitalism Foundation', 'Co-Creator, Vitalist Bay', '2024-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rieyano/', NULL, NULL, 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/,
+('Shabia S.', 'Vitalism Foundation', 'Designer', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shabia/', NULL, NULL, 'Longevity') /*Last checked LinkedIn profile is from 2026-07-02*/;
