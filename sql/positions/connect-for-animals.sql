@@ -1,0 +1,5 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+('Adelina D.', 'Connect For Animals', 'Content Marketing Strategist', '2024-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adelina-d/', NULL, 'volunteer', 'Animal welfare'),
+('Ximena Rodríguez', 'Connect For Animals', 'Social Media & Community Manager', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ximenarodj18/', NULL, 'part-time', 'Animal welfare'),
+('Steven Rouk', 'Connect For Animals', 'Founder & Executive Director', '2022-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/stevenrouk/', NULL, 'full-time', 'Animal welfare'),
+('Stushi Das', 'Connect For Animals', 'Data Analyst', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dstushi/', NULL, NULL, 'Animal welfare');
