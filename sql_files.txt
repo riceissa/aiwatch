@@ -37,6 +37,7 @@ sql/positions/antikythera.sql
 sql/positions/apart-research.sql
 sql/positions/arb-research.sql
 sql/positions/astera.sql
+sql/positions/athena.sql
 sql/positions/atomic-ai.sql
 sql/positions/ayuda-efectiva.sql
 sql/positions/balsa-research.sql

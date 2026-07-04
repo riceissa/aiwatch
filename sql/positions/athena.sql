@@ -1,0 +1,4 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
+('Claire Short', 'Athena', 'Founder, Program Director', '2023-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/claireshort4/', NULL, 'position', 'strategy', NULL, 'AI safety'),
+('Isabel MacGinnitie', 'Athena', 'Research Fellow', '2025-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/isabel-macginnitie/', NULL, 'position', 'technical research', NULL, 'AI safety'),
+('Yulia Volkova', 'Athena', 'AI Safety Research Fellow', '2025-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/yuulia-volkova/', NULL, 'position', 'technical research', NULL, 'AI safety');
