@@ -1,0 +1,10 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
+('Ezra Hausdorff','Heron AI Security','Co-Founder and Director','2024-05-01','month',NULL,NULL,'https://www.linkedin.com/in/ezra-hausdorff/','NULL','position','strategy',NULL,'AI safety'),
+('Eli Parkes','Heron AI Security','Founding Team','2025-05-01','month',NULL,NULL,'https://www.linkedin.com/in/eli-parkes/','NULL','position','strategy',NULL,'AI safety'),
+('Nitzan Shulman','Heron AI Security','Head of AI Security','2025-03-01','month',NULL,NULL,'https://www.linkedin.com/in/nitzan-shulman-14857b1a5/','NULL','position','technical research','full-time','AI safety'),
+('Shanni Gurkevitch','Heron AI Security','Program Manager','2024-09-01','month',NULL,NULL,'https://www.linkedin.com/in/shanni-gurkevitch/','NULL','position','general',NULL,'AI safety'),
+('Noam Shwartz','Heron AI Security','Cyber Community Manager','2025-11-01','month',NULL,NULL,'https://www.linkedin.com/in/noamshwartz/','NULL','position','popularization','full-time','AI safety'),
+('Noa Blumenthal','Heron AI Security','Head of Business Operations','2026-04-01','month',NULL,NULL,'https://www.linkedin.com/in/noa-blumenthal-9042409/','NULL','position','general',NULL,'AI safety'),
+('Christine Lai','Heron AI Security','AI Security Fellow','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/christine-lai-ai/','NULL','position','technical research','part-time','AI safety'),
+('Neta Ravid','Heron AI Security X Apart Research','AI Safety Research Fellow','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/netaravid/','NULL','position','technical research','part-time','AI safety'),
+('Zhuang Ye','Heron AI Security','AI Security Fellow','2026-01-01','month',NULL,NULL,'https://www.linkedin.com/in/zhuangye/','NULL','position','technical research',NULL,'AI safety');
