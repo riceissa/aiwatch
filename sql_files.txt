@@ -2,7 +2,7 @@ sql/positions/positions-schema.sql
 sql/positions/positions.sql
 sql/products.sql
 sql/product_creators.sql
-sql/2060-foundation.sql
+sql/positions/2060-foundation.sql
 sql/positions/80000-hours.sql
 sql/positions/abdul-latif-jameel-poverty-action-lab.sql
 sql/positions/a-bit-weird.sql
@@ -98,6 +98,7 @@ sql/positions/european-summer-program-on-rationality.sql
 sql/positions/far_ai.sql
 sql/positions/farmed-animal-funders.sql
 sql/positions/farmkind.sql
+sql/positions/fathom.sql
 sql/positions/fauna-films.sql
 sql/positions/fishwelfareinitiative.org.sql
 sql/positions/flowers-laboratory.sql
