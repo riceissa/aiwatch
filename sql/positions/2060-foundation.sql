@@ -1,0 +1,5 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+('Cosmina Druica', '2060 Foundation', 'Co-Founder', '2026-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/cosminadruica/', NULL, NULL, 'Longevity'),
+('Martial TRIGEAUD', '2060 Foundation', 'Co-Founder & Managing Partner', '2026-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/martial-trigeaud-36903011/', NULL, NULL, 'Longevity'),
+('Gabriel Cian', '2060 Foundation', NULL, '2026-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/gabriel-cian-807b39156/', 'Co-organizes the 2060 Longevity Forum and co-invests through the 2060 Longevity Investment Club; LinkedIn does not explicitly state an official Foundation title.', NULL, 'Longevity'),
+('Stephanie Lindstrom', '2060 Foundation', 'Senior Vice President, Science & Technology', '2026-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/stephanie-lindstrom-4723b6b0/', NULL, NULL, 'Longevity');

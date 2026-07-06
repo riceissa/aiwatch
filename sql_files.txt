@@ -2,6 +2,7 @@ sql/positions/positions-schema.sql
 sql/positions/positions.sql
 sql/products.sql
 sql/product_creators.sql
+sql/2060-foundation.sql
 sql/positions/80000-hours.sql
 sql/positions/abdul-latif-jameel-poverty-action-lab.sql
 sql/positions/a-bit-weird.sql
