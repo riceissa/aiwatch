@@ -49,6 +49,7 @@ sql/positions/blue-horizon.sql
 sql/positions/bluedot-impact.sql
 sql/positions/buck-institute-for-research-on-aging.sql
 sql/positions/cambridge-boston-alignment-initiative.sql
+sql/positions/cambridge-society-of-ageing-and-longevity-research.sql
 sql/positions/capital-v.sql
 sql/positions/cea.sql
 sql/positions/cealar.sql
