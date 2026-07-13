@@ -1,0 +1,3 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+('Danila Immortalist', 'Say Forever!', 'Activist', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/danilaimmortalist', NULL, NULL, 'Longevity'),
+('Anastasiia Egorova', 'Say Forever!', 'Co-Founder', '2023-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nastya-egorova', NULL, 'part-time', 'Longevity');

@@ -198,6 +198,7 @@ sql/positions/rethink-charity.sql
 sql/positions/rethink-priorities.sql
 sql/positions/saferai.sql
 sql/positions/saving-humanity-from-homo-sapiens.sql
+sql/positions/say-forever.sql
 sql/positions/sci-foundation.sql
 sql/positions/sens.sql
 sql/positions/sentience-institute.sql
