@@ -232,6 +232,7 @@ sql/positions/tyve.sql
 sql/positions/umaniq.sql
 sql/positions/university-of-chicago-existential-risk-laboratory.sql
 sql/positions/utility-farm.sql
+sql/positions/vegan-hacktivists.sql
 sql/positions/vegcatalyst.sql
 sql/positions/vista-institute-for-ai-policy.sql
 sql/positions/vitalism-foundation.sql

@@ -1,0 +1,3 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+('David', 'Vegan Hacktivists', 'Founder', '2019-01-01', 'day', NULL, NULL, 'https://web.archive.org/web/20190825223505/https://veganhacktivists.org/about', NULL, NULL, 'Animal welfare') /*Last checked Wayback snapshot is from 2019-08-25*/,
+('Pablo', 'Vegan Hacktivists', 'Project Leader', '2019-08-25', 'month', NULL, NULL, 'https://web.archive.org/web/20190825223505/https://veganhacktivists.org/about', NULL, 'volunteer', 'Animal welfare') /*Last checked Wayback snapshot is from 2019-08-25*/;
