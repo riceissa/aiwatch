@@ -143,6 +143,7 @@ sql/positions/international-military-council-on-climate-and-security.sql
 sql/positions/ipa.sql
 sql/positions/johns-hopkins-center-for-health-security.sql
 sql/positions/legal-priorities-project.sql
+sql/positions/less-death.sql
 sql/positions/lev-foundation.sql
 sql/positions/leverage-research.sql
 sql/positions/leverhulme-centre-for-the-future-of-intelligence.sql

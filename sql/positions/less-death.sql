@@ -1,0 +1,4 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+('Mark Hamalainen', 'Less Death', 'Co-Executive Director', '2023-02-02', 'year', NULL, NULL, 'https://web.archive.org/web/20230202111434/https://longbiofellowship.org/about-us', NULL, NULL, 'Longevity') /*Last checked Wayback snapshot is from 2023-02-02*/,
+('Nathan Cheng', 'Less Death', 'Co-Executive Director', '2023-02-02', 'year', NULL, NULL, 'https://web.archive.org/web/20230202111434/https://longbiofellowship.org/about-us', NULL, NULL, 'Longevity') /*Last checked Wayback snapshot is from 2023-02-02*/,
+('Jun Axup', 'Less Death', 'Director', '2023-02-02', 'year', NULL, NULL, 'https://web.archive.org/web/20230202111434/https://longbiofellowship.org/about-us', NULL, NULL, 'Longevity') /*Last checked Wayback snapshot is from 2023-02-02*/;
