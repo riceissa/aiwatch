@@ -1,0 +1,3 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+('Tanmay Gupta', 'Longevity Hacks', 'Co-Founder', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tgupta089/ https://longevityhackathons.com/', NULL, NULL, 'Longevity') /*Last checked LinkedIn profile*/,
+('Mo Elzek', 'Longevity Hacks', 'Founder', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/elzek/ https://longevityhackathons.com/', NULL, NULL, 'Longevity') /*Last checked LinkedIn profile*/;
