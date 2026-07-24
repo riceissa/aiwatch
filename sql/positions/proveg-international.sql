@@ -1,0 +1,7 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+('Janek van Tilborg', 'ProVeg International', 'Senior Legal Counsel & Legal Team Lead', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/janek-van-tilborg-2280619b/', NULL, 'full-time', 'Animal welfare'),
+('Kiggundu Ronald Reagan', 'ProVeg International', 'ProVeg International Youth Board', '2026-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kiggundu-ronald-reagan-772a35262/', NULL, 'part-time', 'Animal welfare'),
+('Virginia C.', 'ProVeg International', 'Project Manager', '2022-07-01', 'month', '2024-06-01', 'month', 'https://www.linkedin.com/in/virginia-c-0b565522/', NULL, 'full-time', 'Animal welfare') /Closed/,
+('Virginia C.', 'ProVeg International', 'Senior Food Industry Manager', '2024-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/virginia-c-0b565522/', NULL, 'full-time', 'Animal welfare'),
+('Greta Scott', 'ProVeg International', 'Youth Board Member', '2026-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/greta-scott/', NULL, 'board member', 'Animal welfare'),
+('Pascal Blanché', 'ProVeg International', 'IT-Systemadministrator', '2024-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/pascal-blanch%C3%A9/', NULL, 'part-time', 'Animal welfare');
