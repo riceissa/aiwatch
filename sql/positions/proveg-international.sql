@@ -8,4 +8,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Sebastian Joy', 'ProVeg International', 'Founder & President', '2008-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sebastian-joy-78bb54122/', NULL, NULL, 'Animal welfare'),
 ('Viola Pizzuto', 'ProVeg International', 'Youth Board Member', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/viola-pizzuto-264214324/', NULL, 'full-time', 'Animal welfare'),
 ('Vivian (Wen-Huei) Chen', 'ProVeg International', 'Youth Board Member', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/vivianwhchen/', NULL, NULL, 'Animal welfare'),
-('Rachel Gifford', 'ProVeg International', 'Senior Policy Researcher', '2025-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/giffordrachel/', NULL, 'part-time', 'Animal welfare');
+('Rachel Gifford', 'ProVeg International', 'Senior Policy Researcher', '2025-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/giffordrachel/', NULL, 'part-time', 'Animal welfare'),
+('Lucas Oliveira', 'ProVeg International', 'Freelancer Nutritionist', '2025-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lucasfonsecarodriguesoliveira/', NULL, 'contractor', 'Animal welfare'),
+('Saharsh Oswal', 'ProVeg International', 'Youth Board Member', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/saharshoswal/', NULL, 'board member', 'Animal welfare'),
+('Tony de Silva', 'ProVeg International', 'Monitoring And Evaluation Coordinator', '2021-09-01', 'month', '2024-03-01', 'month', 'https://www.linkedin.com/in/tonydesilva/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Tony de Silva', 'ProVeg International', 'Monitoring and Evaluation Manager', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tonydesilva/', NULL, 'full-time', 'Animal welfare'),
+('Sara Clemm', 'ProVeg International', 'Graphic Designer', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sara-clemm-00b085202/', NULL, 'full-time', 'Animal welfare'),
+('Geofrey Junior Waako', 'ProVeg International', 'ProVeg International Youth Board', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/geofrey-junior-waako/', NULL, 'part-time', 'Animal welfare'),
+('Soizic Larcher', 'ProVeg International', 'EU Policy Officer', '2023-12-01', 'month', '2025-03-01', 'month', 'https://www.linkedin.com/in/soiziclarcher/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Soizic Larcher', 'ProVeg International', 'EU Policy Manager', '2025-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/soiziclarcher/', NULL, 'full-time', 'Animal welfare');
