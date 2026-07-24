@@ -17,8 +17,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Geofrey Junior Waako', 'ProVeg International', 'ProVeg International Youth Board', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/geofrey-junior-waako/', NULL, 'part-time', 'Animal welfare'),
 ('Soizic Larcher', 'ProVeg International', 'EU Policy Officer', '2023-12-01', 'month', '2025-03-01', 'month', 'https://www.linkedin.com/in/soiziclarcher/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
 ('Soizic Larcher', 'ProVeg International', 'EU Policy Manager', '2025-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/soiziclarcher/', NULL, 'full-time', 'Animal welfare'),
-('Sharon Gakii', 'ProVeg International', 'Youth Board Member', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/climatesharon/', NULL, 'contract', 'Animal welfare'),
+('Sharon Gakii', 'ProVeg International', 'Youth Board Member', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/climatesharon/', NULL, 'contractor', 'Animal welfare'),
 ('Beatrice Rocca', 'ProVeg International', 'UN Policy Manager (Biodiversity)', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/beatrice-rocca/', NULL, 'full-time', 'Animal welfare'),
 ('Avik Banerjee', 'ProVeg International', 'Senior Manager (PV India)', '2025-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/avik-banerjee-276b5967/', NULL, 'full-time', 'Animal welfare'),
-('Fredrick Kilonzo', 'ProVeg International', 'Youth Board Member', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/fredrick-kilonzo-4901171a6/', NULL, 'contract', 'Animal welfare'),
-('Earl Ackon Cromwell', 'ProVeg International', 'Youth Board Member', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/earl-ackon-cromwell-258a44208/', NULL, 'contract', 'Animal welfare');
+('Fredrick Kilonzo', 'ProVeg International', 'Youth Board Member', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/fredrick-kilonzo-4901171a6/', NULL, 'contractor', 'Animal welfare'),
+('Earl Ackon Cromwell', 'ProVeg International', 'Youth Board Member', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/earl-ackon-cromwell-258a44208/', NULL, 'contractor', 'Animal welfare');
