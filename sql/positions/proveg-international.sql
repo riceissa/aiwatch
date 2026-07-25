@@ -101,4 +101,30 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Alessandra Möhle', 'ProVeg International', 'Global Chief of Staff', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alessandra-m%C3%B6hle-073041192/', NULL, 'full-time', 'Animal welfare'),
 ('Michael Kaiser', 'ProVeg International', 'V-Label Customer Success Manager', '2022-05-01', 'month', '2023-09-01', 'month', 'https://www.linkedin.com/in/michael-kaiser-59543b219/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
 ('Michael Kaiser', 'ProVeg International', 'V-Label Business Consultant', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/michael-kaiser-59543b219/', NULL, 'full-time', 'Animal welfare'),
-('Elizabeth Álvarez', 'ProVeg International', 'International Development Manager', '2026-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/elizabethalvarezmar/', NULL, 'full-time', 'Animal welfare');
+('Elizabeth Álvarez', 'ProVeg International', 'International Development Manager', '2026-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/elizabethalvarezmar/', NULL, 'full-time', 'Animal welfare')
+,
+('Isabell Kaiser', 'ProVeg International', 'V-Label Junior Business Development Manager/Sales', '2024-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/isabell-kaiser-959a51293/', NULL, 'contractor', 'Animal welfare'),
+('Liz Kelliher', 'ProVeg International', 'Executive and Operations Team Assistant', '2026-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/liz-kelliher-854123a4/', NULL, NULL, 'Animal welfare'),
+('Celeste Rodriguez - Portugues', 'ProVeg International', 'Events Coordinator', '2017-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/celeste-rodriguez-portugues-ba015b64/', NULL, NULL, 'Animal welfare'),
+('Flora S', 'ProVeg International', 'Project Management and Controlling', '2016-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/flora-s-a2036026/', NULL, NULL, 'Animal welfare'),
+('Margaret Shapiro', 'ProVeg International', 'Supporter Engagement & Administrative Coordinator', '2022-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/margaret-shapiro-4248043b/', NULL, NULL, 'Animal welfare'),
+('Giovanna Diniz', 'ProVeg International', 'Social Media Volunteer', '2025-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/giovanna-diniz-santos/', NULL, 'full-time', 'Animal welfare'),
+('Phoenix Sage', 'ProVeg International', 'Director of Operations and Finance', '2021-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/phoenix-sage-ab7932242/', NULL, 'full-time', 'Animal welfare')
+,
+('Martin Ranninger', 'ProVeg International', 'President', '2018-05-01', 'month', '2021-08-01', 'month', 'https://www.linkedin.com/in/martinranninger/', NULL, NULL, 'Animal welfare') /*Closed*/,
+('Martin Ranninger', 'ProVeg International', 'Country Director, ProVeg Czechia', '2021-08-01', 'month', '2023-08-01', 'month', 'https://www.linkedin.com/in/martinranninger/', NULL, NULL, 'Animal welfare') /*Closed*/,
+('Martin Ranninger', 'ProVeg International', 'Country Co-Director, ProVeg Czechia', '2023-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/martinranninger/', NULL, NULL, 'Animal welfare'),
+('Melanie Jaecques', 'ProVeg International', 'Grants Program Intervention Specialist', '2020-04-01', 'month', '2023-01-01', 'month', 'https://www.linkedin.com/in/melanie-jaecques-63188925/', NULL, 'contractor', 'Animal welfare') /*Closed*/,
+('Melanie Jaecques', 'ProVeg International', 'Movement Building and Intervention Specialist', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/melanie-jaecques-63188925/', NULL, 'contractor', 'Animal welfare'),
+('Michéle Deutschmann', 'ProVeg International', 'Fundraiser', '2024-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/micheledeutschmann/', NULL, 'part-time', 'Animal welfare'),
+('maureen vande cappelle', 'ProVeg International', 'Country Co-Director ProVeg Belgium', '2022-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/maureen-vande-cappelle-8b13b3171/', NULL, 'part-time', 'Animal welfare'),
+('Jane Wang', 'ProVeg International', 'Senior Strategic Project Manager', '2025-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jane-wang-21005b57/', NULL, 'full-time', 'Animal welfare')
+,
+('Stephanie Chen', 'ProVeg International', 'International Projects Manager/Advisor', '2024-08-01', 'month', '2026-07-01', 'month', 'https://www.linkedin.com/in/stephanie-yun-chen-chen/', NULL, NULL, 'Animal welfare') /*Closed*/,
+('Stephanie Chen', 'ProVeg International', 'International Programme Manager', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/stephanie-yun-chen-chen/', NULL, NULL, 'Animal welfare'),
+('Stuti P.', 'ProVeg International', 'Asia-Pacific-Africa Grants Coordinator', '2024-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/stuti-parekh/', NULL, 'part-time', 'Animal welfare'),
+('Stuti P.', 'ProVeg International', 'Global Grants and Engagement Manager', '2025-09-01', 'month', '2025-12-01', 'month', 'https://www.linkedin.com/in/stuti-parekh/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Ria Rehberg', 'ProVeg International', 'Global Strategy Director', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/riarehberg/', NULL, 'part-time', 'Animal welfare'),
+('Chee Hoe Keong', 'ProVeg International', 'Programme Lead', '2025-03-01', 'month', '2026-01-01', 'month', 'https://www.linkedin.com/in/chee-hoe-keong-43906228b/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Chee Hoe Keong', 'ProVeg International', 'Asia Partnerships & Organizational Manager', '2026-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/chee-hoe-keong-43906228b/', NULL, 'full-time', 'Animal welfare'),
+('Maxi Heese', 'ProVeg International', 'V-Label Werkstudentin Marketing & Kommunikation', '2023-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/maxi-heese/', NULL, 'part-time', 'Animal welfare');
