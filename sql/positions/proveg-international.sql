@@ -89,4 +89,16 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Salomón Derreza', 'ProVeg International', 'Gruppenleiter', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/salom%C3%B3n-derreza-9675525b/', NULL, NULL, 'Animal welfare'),
 ('Jessica Baker', 'ProVeg International', 'International Digital Project Administrator', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/baker36/', NULL, NULL, 'Animal welfare'),
 ('David Aleksov', 'ProVeg International', 'People & Culture Manager (International Recruiting)', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/davidaleksov/', NULL, 'full-time', 'Animal welfare'),
-('Annalena Janentzky', 'ProVeg International', 'Werkstudentin Food & Acounting', '2023-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/annalena-janentzky-070173273/', NULL, 'part-time', 'Animal welfare');
+('Annalena Janentzky', 'ProVeg International', 'Werkstudentin Food & Acounting', '2023-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/annalena-janentzky-070173273/', NULL, 'part-time', 'Animal welfare')
+,
+('Stephanie Maw', 'ProVeg International', 'Policy Manager', '2023-05-01', 'month', '2024-01-01', 'month', 'https://www.linkedin.com/in/stephanie-maw/', NULL, NULL, 'Animal welfare') /*Closed*/,
+('Stephanie Maw', 'ProVeg International', 'Senior UN Policy & Advocacy Manager', '2024-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/stephanie-maw/', NULL, 'full-time', 'Animal welfare'),
+('Sophia Marte', 'ProVeg International', 'Student Fundraiser', '2020-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sophia-marte-297239200/', NULL, NULL, 'Animal welfare'),
+('Lena Renz', 'ProVeg International', 'PR Manager Germany', '2021-10-01', 'month', '2022-03-01', 'month', 'https://www.linkedin.com/in/lenarenz/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Lena Renz', 'ProVeg International', 'Team Lead Communications Germany', '2022-04-01', 'month', '2023-05-01', 'month', 'https://www.linkedin.com/in/lenarenz/', 'Temporary position, due to family leave', 'full-time', 'Animal welfare') /*Closed*/,
+('Lena Renz', 'ProVeg International', 'Senior PR Manager Germany', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lenarenz/', NULL, 'full-time', 'Animal welfare'),
+('Alessandra Möhle', 'ProVeg International', 'Advisory role on organisational development and strategy', '2024-11-01', 'month', '2025-07-01', 'month', 'https://www.linkedin.com/in/alessandra-m%C3%B6hle-073041192/', NULL, 'part-time', 'Animal welfare') /*Closed*/,
+('Alessandra Möhle', 'ProVeg International', 'Global Chief of Staff', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/alessandra-m%C3%B6hle-073041192/', NULL, 'full-time', 'Animal welfare'),
+('Michael Kaiser', 'ProVeg International', 'V-Label Customer Success Manager', '2022-05-01', 'month', '2023-09-01', 'month', 'https://www.linkedin.com/in/michael-kaiser-59543b219/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Michael Kaiser', 'ProVeg International', 'V-Label Business Consultant', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/michael-kaiser-59543b219/', NULL, 'full-time', 'Animal welfare'),
+('Elizabeth Álvarez', 'ProVeg International', 'International Development Manager', '2026-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/elizabethalvarezmar/', NULL, 'full-time', 'Animal welfare');
