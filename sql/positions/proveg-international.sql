@@ -220,4 +220,8 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Verónica Larco Jiménez', 'ProVeg International', 'Communications Manager ProVeg España', '2019-08-01', 'month', '2023-01-01', 'month', 'https://www.linkedin.com/in/ver%C3%B3nica-larco-jim%C3%A9nez-68182058/', NULL, NULL, 'Animal welfare') /*Closed*/,
 ('Verónica Larco Jiménez', 'ProVeg International', 'Senior Comms Manager', '2023-02-01', 'month', '2024-10-01', 'month', 'https://www.linkedin.com/in/ver%C3%B3nica-larco-jim%C3%A9nez-68182058/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
 ('Verónica Larco Jiménez', 'ProVeg International', 'Senior Comms Manager Spain and Latam', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ver%C3%B3nica-larco-jim%C3%A9nez-68182058/', NULL, 'full-time', 'Animal welfare'),
-('Prerna Singh', 'ProVeg International', 'Operations Assistant', '2025-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/prerna-singh-a64364351/', NULL, 'full-time', 'Animal welfare');
+('Prerna Singh', 'ProVeg International', 'Operations Assistant', '2025-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/prerna-singh-a64364351/', NULL, 'full-time', 'Animal welfare')
+,
+('Veerle Vrindts', 'ProVeg International', 'Strategic Partnerships Connector & Storyteller in Residence', '2025-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/veerle-vrindts-6b93a325/', NULL, 'contractor', 'Animal welfare'),
+('Adam Fedoryszyn', 'ProVeg International', 'Fundraiser', '2025-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adam-fedoryszyn-39813836b/', NULL, 'contractor', 'Animal welfare'),
+('Urgesa Jemal', 'ProVeg International', 'International Youth Board', '2026-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/urgesa-jemal-329576379/', NULL, 'board member', 'Animal welfare');
