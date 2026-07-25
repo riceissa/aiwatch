@@ -43,7 +43,7 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Juliette Tronchon', 'ProVeg International', 'Policy and Public Affairs Specialist International', '2021-01-01', 'month', '2022-10-01', 'month', 'https://www.linkedin.com/in/juliette-tronchon/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
 ('Juliette Tronchon', 'ProVeg International', 'Senior Policy and Public Affairs Specialist', '2022-10-01', 'month', '2024-01-01', 'month', 'https://www.linkedin.com/in/juliette-tronchon/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
 ('Juliette Tronchon', 'ProVeg International', 'Head of UN Affairs', '2024-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/juliette-tronchon/', NULL, 'full-time', 'Animal welfare'),
-('Bianca Maria Galatanu', 'ProVeg International', 'UN Advocacy Assistant', '2024-08-01', 'month', '2025-02-01', 'month', 'https://www.linkedin.com/in/bianca-maria-galatanu-62a47a223/', NULL, 'internship', 'Animal welfare') /*Closed*/,
+('Bianca Maria Galatanu', 'ProVeg International', 'UN Advocacy Assistant', '2024-08-01', 'month', '2025-02-01', 'month', 'https://www.linkedin.com/in/bianca-maria-galatanu-62a47a223/', NULL, 'intern', 'Animal welfare') /*Closed*/,
 ('Bianca Maria Galatanu', 'ProVeg International', 'UN Policy Officer', '2025-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/bianca-maria-galatanu-62a47a223/', NULL, 'full-time', 'Animal welfare'),
 ('Chloe Thompson', 'ProVeg International', 'Board Member', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/chloe-thompson-a3700215a/', NULL, 'board member', 'Animal welfare'),
 ('Susann Schmiedgen', 'ProVeg International', 'Monitoring, Evaluation & Learning Manager', '2021-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/susannschmiedgen/', NULL, NULL, 'Animal welfare')
@@ -57,4 +57,15 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Joanna Trewern Jimenez', 'ProVeg International', 'Director of Partnerships and Institutional Engagement', '2024-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joanna-trewern-jimenez-884425113/', NULL, 'full-time', 'Animal welfare'),
 ('Isabel Hughes', 'ProVeg International', 'International Growth Manager', '2023-11-01', 'month', '2024-08-01', 'month', 'https://www.linkedin.com/in/isabelmayhughes/', NULL, 'part-time', 'Animal welfare') /*Closed*/,
 ('Isabel Hughes', 'ProVeg International', 'Head of International Growth', '2024-08-01', 'month', '2026-04-01', 'month', 'https://www.linkedin.com/in/isabelmayhughes/', NULL, 'part-time', 'Animal welfare') /*Closed*/,
-('Isabel Hughes', 'ProVeg International', 'Head of International Policy and Advocacy', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/isabelmayhughes/', NULL, 'full-time', 'Animal welfare');
+('Isabel Hughes', 'ProVeg International', 'Head of International Policy and Advocacy', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/isabelmayhughes/', NULL, 'full-time', 'Animal welfare')
+,
+('Swantje Tomalak', 'ProVeg International', 'Event Program Manager', '2021-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/stomalak/', NULL, 'contractor', 'Animal welfare'),
+('Matthias Schillig', 'ProVeg International', 'Digital Marketing Manager', '2015-04-01', 'month', '2016-12-01', 'month', 'https://www.linkedin.com/in/matthias-schillig-838270106/', NULL, NULL, 'Animal welfare') /*Closed*/,
+('Matthias Schillig', 'ProVeg International', 'Head Of Communications, Germany', '2017-01-01', 'month', '2020-04-01', 'month', 'https://www.linkedin.com/in/matthias-schillig-838270106/', NULL, NULL, 'Animal welfare') /*Closed*/,
+('Matthias Schillig', 'ProVeg International', 'Senior Organisational Development Manager', '2020-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/matthias-schillig-838270106/', NULL, 'full-time', 'Animal welfare'),
+('Sophie Gunter', 'ProVeg International', 'Webdesigner', '2018-09-01', 'month', '2022-05-01', 'month', 'https://www.linkedin.com/in/sophie-gunter/', NULL, NULL, 'Animal welfare') /*Closed*/,
+('Sophie Gunter', 'ProVeg International', 'Graphic Designer', '2022-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sophie-gunter/', NULL, 'part-time', 'Animal welfare'),
+('Patrycja Homa', 'ProVeg International', 'President of the Management Board (Country Director)', '2017-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/patrycja-homa-545344a1/', NULL, 'full-time', 'Animal welfare'),
+('Adrian Schultze', 'ProVeg International', 'Projektmanager', '2017-08-01', 'month', '2022-04-01', 'month', 'https://www.linkedin.com/in/adrian-schultze-035bb51a4/', NULL, NULL, 'Animal welfare') /*Closed*/,
+('Adrian Schultze', 'ProVeg International', 'Full-stack Developer', '2020-08-01', 'month', '2023-04-01', 'month', 'https://www.linkedin.com/in/adrian-schultze-035bb51a4/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Adrian Schultze', 'ProVeg International', 'Senior IT Specialist', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adrian-schultze-035bb51a4/', NULL, NULL, 'Animal welfare');
