@@ -77,4 +77,16 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Daniel Braune', 'ProVeg International', 'Food Systems Sustainability Lead', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/daniel-braune/', NULL, 'full-time', 'Animal welfare'),
 ('Nina Stummvoll', 'ProVeg International', 'HR Manager at ProVeg International', '2018-08-01', 'month', '2022-07-01', 'month', 'https://www.linkedin.com/in/nina-stummvoll-78a9b887/', NULL, NULL, 'Animal welfare') /*Closed*/,
 ('Nina Stummvoll', 'ProVeg International', 'Senior HR Manager', '2022-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nina-stummvoll-78a9b887/', NULL, NULL, 'Animal welfare'),
-('Nina Stummvoll', 'ProVeg International', 'Senior People & Culture Manager', '2023-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nina-stummvoll-78a9b887/', NULL, NULL, 'Animal welfare');
+('Nina Stummvoll', 'ProVeg International', 'Senior People & Culture Manager', '2023-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nina-stummvoll-78a9b887/', NULL, NULL, 'Animal welfare')
+,
+('Nora Winter', 'ProVeg International', 'HR & Volunteer Manager', '2013-06-01', 'month', '2017-06-01', 'month', 'https://www.linkedin.com/in/nora-winter-56363b26/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Nora Winter', 'ProVeg International', 'HR-Manager, Head of Support', '2017-07-01', 'month', '2018-05-01', 'month', 'https://www.linkedin.com/in/nora-winter-56363b26/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Nora Winter', 'ProVeg International', 'Head of HR and Volunteer Management', '2018-06-01', 'month', '2021-09-01', 'month', 'https://www.linkedin.com/in/nora-winter-56363b26/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Nora Winter', 'ProVeg International', 'International Head of HR & Volunteer Management', '2021-10-01', 'month', '2023-04-01', 'month', 'https://www.linkedin.com/in/nora-winter-56363b26/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Nora Winter', 'ProVeg International', 'Director of People and Culture', '2023-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nora-winter-56363b26/', NULL, 'full-time', 'Animal welfare'),
+('Tobias Fichtel', 'ProVeg International', 'Junior PR-Manager', '2023-11-01', 'month', '2024-09-01', 'month', 'https://www.linkedin.com/in/tobias-fichtel-71a1a9153/', NULL, 'part-time', 'Animal welfare') /*Closed*/,
+('Tobias Fichtel', 'ProVeg International', 'PR-Manager', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tobias-fichtel-71a1a9153/', NULL, 'full-time', 'Animal welfare'),
+('Salomón Derreza', 'ProVeg International', 'Gruppenleiter', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/salom%C3%B3n-derreza-9675525b/', NULL, NULL, 'Animal welfare'),
+('Jessica Baker', 'ProVeg International', 'International Digital Project Administrator', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/baker36/', NULL, NULL, 'Animal welfare'),
+('David Aleksov', 'ProVeg International', 'People & Culture Manager (International Recruiting)', '2024-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/davidaleksov/', NULL, 'full-time', 'Animal welfare'),
+('Annalena Janentzky', 'ProVeg International', 'Werkstudentin Food & Acounting', '2023-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/annalena-janentzky-070173273/', NULL, 'part-time', 'Animal welfare');
