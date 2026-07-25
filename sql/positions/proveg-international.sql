@@ -29,4 +29,10 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Narhari Gupta', 'ProVeg International', 'Youth Board Member', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/narharigupta/', NULL, 'part-time', 'Animal welfare'),
 ('Yuna Lee', 'ProVeg International', 'Public Food Coordinator', '2025-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/yunaleeee/', NULL, 'full-time', 'Animal welfare'),
 ('Teresa Romagna', 'ProVeg International', 'HR Officer', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/teresa-romagna-330372207/', NULL, 'full-time', 'Animal welfare'),
-('Teresa Romagna', 'ProVeg International', 'Senior HR Manager', '2022-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/teresa-romagna-330372207/', NULL, 'full-time', 'Animal welfare');
+('Teresa Romagna', 'ProVeg International', 'Senior HR Manager', '2022-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/teresa-romagna-330372207/', NULL, 'full-time', 'Animal welfare')
+,
+('Renato Pichler', 'ProVeg International', 'Bundesleitungs-Mitglied', '2019-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/renato-pichler/', NULL, 'board member', 'Animal welfare'),
+('Cheryl Chang Lin', 'ProVeg International', 'Program Manager', '2022-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cheryl-chang-lin-30885524a/', NULL, 'contractor', 'Animal welfare'),
+('Ignacia Sáiz Lynch', 'ProVeg International', 'International Events Coordinator', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ignaciasaiz/', NULL, 'full-time', 'Animal welfare'),
+('Yi Qian Oo', 'ProVeg International', 'Nutritionist', '2025-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/yi-qian-oo-a851b28b/', NULL, NULL, 'Animal welfare'),
+('Valentina Gallani', 'ProVeg International', 'Health and Nutrition Manager', '2022-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/valentina-gallani-991bab183/', NULL, 'part-time', 'Animal welfare');
