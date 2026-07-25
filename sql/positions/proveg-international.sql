@@ -194,4 +194,14 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Laura Goetze', 'ProVeg International', 'International Event Manager', '2020-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lauragoetze/', NULL, NULL, 'Animal welfare'),
 ('Martin Hesse', 'ProVeg International', 'V-Label Senior Quality Manager Germany', '2019-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/martin-hesse-plantbased-solutions/', NULL, 'full-time', 'Animal welfare'),
 ('Josefine Märtin', 'ProVeg International', 'Qualitätsmanagement und Vertrieb V-Label', '2016-04-01', 'month', '2022-06-01', 'month', 'https://www.linkedin.com/in/josefine-m%C3%A4rtin-66b880a5/', NULL, NULL, 'Animal welfare') /*Closed*/,
-('Josefine Märtin', 'ProVeg International', 'Teamleiterin Lebensmittellizenzierung', '2022-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/josefine-m%C3%A4rtin-66b880a5/', NULL, 'part-time', 'Animal welfare');
+('Josefine Märtin', 'ProVeg International', 'Teamleiterin Lebensmittellizenzierung', '2022-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/josefine-m%C3%A4rtin-66b880a5/', NULL, 'part-time', 'Animal welfare')
+,
+('Chantal Du Chenne', 'ProVeg International', 'Corporate and Institutional Partnership', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/chantal-du-chenne-0ba48152/', NULL, NULL, 'Animal welfare'),
+('Mark Simpson', 'ProVeg International', 'Lead Developer', '2019-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/markyz89/', NULL, 'full-time', 'Animal welfare'),
+('Valentina González', 'ProVeg International', 'Impact MEL - BFD', '2025-10-01', 'month', '2026-07-01', 'month', 'https://www.linkedin.com/in/valentinagonzalezf/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Valentina González', 'ProVeg International', 'Impact Manager Germany', '2026-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/valentinagonzalezf/', NULL, 'full-time', 'Animal welfare'),
+('Paris Badat', 'ProVeg International', 'Global Lead Development Operations', '2025-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/paris-badat/', NULL, 'full-time', 'Animal welfare'),
+('Shirley L.', 'ProVeg International', 'Executive Director - Greater China', '2019-04-01', 'month', '2020-08-01', 'month', 'https://www.linkedin.com/in/shirley-l-273730/', NULL, NULL, 'Animal welfare') /*Closed*/,
+('Shirley L.', 'ProVeg International', 'Managing Director - Asia and Chief China Representative', '2020-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shirley-l-273730/', NULL, 'full-time', 'Animal welfare'),
+('Laura Bermúdez', 'ProVeg International', 'Lead Graphic Designer', '2018-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/aelini/', NULL, 'full-time', 'Animal welfare'),
+('Monrada Waraho', 'ProVeg International', 'Student Brand Ambassador', '2022-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mwyok/', NULL, 'part-time', 'Animal welfare');
