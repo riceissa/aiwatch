@@ -162,4 +162,17 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Muriel Fritsch', 'ProVeg International', 'Werkstudentin V-Label Qualitätsmanagement', '2022-10-01', 'month', '2023-07-01', 'month', 'https://www.linkedin.com/in/muriel-fritsch-ba0935277/', NULL, 'part-time', 'Animal welfare') /*Closed*/,
 ('Muriel Fritsch', 'ProVeg International', 'Werkstudentin Finance', '2023-08-01', 'month', '2024-01-01', 'month', 'https://www.linkedin.com/in/muriel-fritsch-ba0935277/', NULL, 'part-time', 'Animal welfare') /*Closed*/,
 ('Muriel Fritsch', 'ProVeg International', 'Werkstudentin V-Label Qualitätsmanagement', '2024-02-01', 'month', '2025-01-01', 'month', 'https://www.linkedin.com/in/muriel-fritsch-ba0935277/', NULL, 'part-time', 'Animal welfare') /*Closed*/,
-('Muriel Fritsch', 'ProVeg International', 'Business Development Manager', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/muriel-fritsch-ba0935277/', NULL, 'full-time', 'Animal welfare');
+('Muriel Fritsch', 'ProVeg International', 'Business Development Manager', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/muriel-fritsch-ba0935277/', NULL, 'full-time', 'Animal welfare')
+,
+('Tobias Leenaert', 'ProVeg International', 'Co-Founder', '2017-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tobiasleenaert/', NULL, NULL, 'Animal welfare'),
+('Shreya Ghodawat', 'ProVeg International', 'Youth Board Member', '2025-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shreyaghodawat/', NULL, 'board member', 'Animal welfare'),
+('Adriana Banda Dias', 'ProVeg International', 'Fundraiser', '2022-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adriana-banda-dias/', NULL, 'part-time', 'Animal welfare'),
+('Pia Voltz', 'ProVeg International', 'Mentor', '2023-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/pia-voltz/', NULL, NULL, 'Animal welfare'),
+('Eileen Valy', 'ProVeg International', 'Assistentin der Geschäftsleitung', '2017-10-01', 'month', '2018-07-01', 'month', 'https://www.linkedin.com/in/eileen-valy/', NULL, NULL, 'Animal welfare') /*Closed*/,
+('Eileen Valy', 'ProVeg International', 'Assistenz Head of Communication', '2018-08-01', 'month', '2020-01-01', 'month', 'https://www.linkedin.com/in/eileen-valy/', NULL, NULL, 'Animal welfare') /*Closed*/,
+('Eileen Valy', 'ProVeg International', 'International Communications Manager', '2020-01-01', 'month', '2022-01-01', 'month', 'https://www.linkedin.com/in/eileen-valy/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Eileen Valy', 'ProVeg International', 'Social Media Manager', '2022-01-01', 'month', '2022-07-01', 'month', 'https://www.linkedin.com/in/eileen-valy/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Eileen Valy', 'ProVeg International', 'International Senior Social Media Manager', '2022-07-01', 'month', '2023-08-01', 'month', 'https://www.linkedin.com/in/eileen-valy/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Eileen Valy', 'ProVeg International', 'International Senior Digital Communications Manager', '2023-09-01', 'month', '2024-07-01', 'month', 'https://www.linkedin.com/in/eileen-valy/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Eileen Valy', 'ProVeg International', 'International Senior Communications Manager', '2024-07-01', 'month', '2025-06-01', 'month', 'https://www.linkedin.com/in/eileen-valy/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Eileen Valy', 'ProVeg International', 'Head of Digital Engagement', '2025-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/eileen-valy/', NULL, 'full-time', 'Animal welfare');
