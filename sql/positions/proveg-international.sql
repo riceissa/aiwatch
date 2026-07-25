@@ -186,4 +186,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Troy Estrellado', 'ProVeg International', 'Research Analyst', '2025-04-01', 'month', '2026-03-01', 'month', 'https://www.linkedin.com/in/troy-estrellado/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
 ('Troy Estrellado', 'ProVeg International', 'Project Assistant', '2026-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/troy-estrellado/', NULL, 'full-time', 'Animal welfare'),
 ('Emmanuel Márquez Morales', 'ProVeg International', 'Grants Program Coordinator', '2023-10-01', 'month', '2024-04-01', 'month', 'https://www.linkedin.com/in/emmanuel-marquez-m/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
-('Emmanuel Márquez Morales', 'ProVeg International', 'Grants Program Manager', '2024-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/emmanuel-marquez-m/', NULL, 'full-time', 'Animal welfare');
+('Emmanuel Márquez Morales', 'ProVeg International', 'Grants Program Manager', '2024-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/emmanuel-marquez-m/', NULL, 'full-time', 'Animal welfare')
+,
+('Laura Thomas-Walters', 'ProVeg International', 'Head of Impact', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/laura-thomas-walters-529a5a10b/', NULL, 'full-time', 'Animal welfare'),
+('Rithika Ramesh', 'ProVeg International', 'Sr. Consultant (ProVeg India)', '2026-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/rithikaramesh-/', NULL, NULL, 'Animal welfare'),
+('Julian Cottee', 'ProVeg International', 'Senior Corporate Engagement Manager', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/juliancottee/', NULL, NULL, 'Animal welfare'),
+('Laura Goetze', 'ProVeg International', 'International Event Manager', '2020-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lauragoetze/', NULL, NULL, 'Animal welfare'),
+('Martin Hesse', 'ProVeg International', 'V-Label Senior Quality Manager Germany', '2019-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/martin-hesse-plantbased-solutions/', NULL, 'full-time', 'Animal welfare'),
+('Josefine Märtin', 'ProVeg International', 'Qualitätsmanagement und Vertrieb V-Label', '2016-04-01', 'month', '2022-06-01', 'month', 'https://www.linkedin.com/in/josefine-m%C3%A4rtin-66b880a5/', NULL, NULL, 'Animal welfare') /*Closed*/,
+('Josefine Märtin', 'ProVeg International', 'Teamleiterin Lebensmittellizenzierung', '2022-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/josefine-m%C3%A4rtin-66b880a5/', NULL, 'part-time', 'Animal welfare');
