@@ -46,4 +46,15 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Bianca Maria Galatanu', 'ProVeg International', 'UN Advocacy Assistant', '2024-08-01', 'month', '2025-02-01', 'month', 'https://www.linkedin.com/in/bianca-maria-galatanu-62a47a223/', NULL, 'internship', 'Animal welfare') /*Closed*/,
 ('Bianca Maria Galatanu', 'ProVeg International', 'UN Policy Officer', '2025-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/bianca-maria-galatanu-62a47a223/', NULL, 'full-time', 'Animal welfare'),
 ('Chloe Thompson', 'ProVeg International', 'Board Member', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/chloe-thompson-a3700215a/', NULL, 'board member', 'Animal welfare'),
-('Susann Schmiedgen', 'ProVeg International', 'Monitoring, Evaluation & Learning Manager', '2021-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/susannschmiedgen/', NULL, NULL, 'Animal welfare');
+('Susann Schmiedgen', 'ProVeg International', 'Monitoring, Evaluation & Learning Manager', '2021-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/susannschmiedgen/', NULL, NULL, 'Animal welfare')
+,
+('Heloísa Rigolon', 'ProVeg International', 'Youth Board Member', '2024-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/heloisarigolon/', NULL, 'board member', 'Animal welfare'),
+('Josh Bisig', 'ProVeg International', 'Senior Project Manager', '2022-11-01', 'month', '2025-01-01', 'month', 'https://www.linkedin.com/in/joshbisig/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Josh Bisig', 'ProVeg International', 'Senior Policy Research Manager', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joshbisig/', NULL, 'full-time', 'Animal welfare'),
+('Juan David Amaya', 'ProVeg International', 'Youth Board Member', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/juandavid-am/', NULL, 'board member', 'Animal welfare'),
+('Carol Destro', 'ProVeg International', 'International Development Manager', '2024-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/carol-destro-62516459/', NULL, 'full-time', 'Animal welfare'),
+('Joanna Trewern Jimenez', 'ProVeg International', 'Head of Research', '2023-10-01', 'month', '2024-04-01', 'month', 'https://www.linkedin.com/in/joanna-trewern-jimenez-884425113/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Joanna Trewern Jimenez', 'ProVeg International', 'Director of Partnerships and Institutional Engagement', '2024-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joanna-trewern-jimenez-884425113/', NULL, 'full-time', 'Animal welfare'),
+('Isabel Hughes', 'ProVeg International', 'International Growth Manager', '2023-11-01', 'month', '2024-08-01', 'month', 'https://www.linkedin.com/in/isabelmayhughes/', NULL, 'part-time', 'Animal welfare') /*Closed*/,
+('Isabel Hughes', 'ProVeg International', 'Head of International Growth', '2024-08-01', 'month', '2026-04-01', 'month', 'https://www.linkedin.com/in/isabelmayhughes/', NULL, 'part-time', 'Animal welfare') /*Closed*/,
+('Isabel Hughes', 'ProVeg International', 'Head of International Policy and Advocacy', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/isabelmayhughes/', NULL, 'full-time', 'Animal welfare');
