@@ -134,4 +134,19 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Lea Stockmeier', 'ProVeg International', 'International Eventmanager', '2018-09-01', 'month', '2021-04-01', 'month', 'https://www.linkedin.com/in/lea-stockmeier-218b7a2b7/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
 ('Lea Stockmeier', 'ProVeg International', 'Senior International Eventmanager', '2021-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lea-stockmeier-218b7a2b7/', NULL, 'full-time', 'Animal welfare'),
 ('Dawn Moncrief', 'ProVeg International', 'Board Chair (USA)', '2018-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dawn-moncrief/', NULL, 'board member', 'Animal welfare'),
-('Julia-Janine Bressem', 'ProVeg International', 'Social Media-Managerin', '2023-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/julia-janine-bressem-040080152/', NULL, 'part-time', 'Animal welfare');
+('Julia-Janine Bressem', 'ProVeg International', 'Social Media-Managerin', '2023-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/julia-janine-bressem-040080152/', NULL, 'part-time', 'Animal welfare')
+,
+('Olivia Ladinig', 'ProVeg International', 'Grants Program & Impact Evaluation Analyst', '2026-02-01', 'month', '2026-03-01', 'month', 'https://www.linkedin.com/in/olivia-ladinig-884873125/', NULL, 'contractor', 'Animal welfare') /*Closed*/,
+('Olivia Ladinig', 'ProVeg International', 'Head of Global Grantmaking', '2026-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/olivia-ladinig-884873125/', NULL, 'full-time', 'Animal welfare'),
+('Nicole Wu', 'ProVeg International', 'China Executive Director', '2025-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nicole-wu-bei/', NULL, 'full-time', 'Animal welfare'),
+('Colette Fox', 'ProVeg International', 'Special Adviser to President & Global CEO', '2024-02-01', 'month', '2024-07-01', 'month', 'https://www.linkedin.com/in/colettefox/', NULL, 'part-time', 'Animal welfare') /*Closed*/,
+('Colette Fox', 'ProVeg International', 'Public Food Lead', '2025-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/colettefox/', NULL, 'full-time', 'Animal welfare'),
+('Dr. Nina Wolff', 'ProVeg International', 'Senior Policy Expert', '2025-06-01', 'month', '2026-05-01', 'month', 'https://www.linkedin.com/in/nina-wolff-berlin/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Dr. Nina Wolff', 'ProVeg International', 'Head of Policy Germany', '2026-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nina-wolff-berlin/', NULL, NULL, 'Animal welfare'),
+('Altamush Saeed', 'ProVeg International', 'Youth Board Member 2024', '2024-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/altamushsaeed95/', NULL, 'board member', 'Animal welfare'),
+('Altamush Saeed', 'ProVeg International', 'Kickstarting for Good Graduate', '2024-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/altamushsaeed95/', NULL, 'contractor', 'Animal welfare'),
+('Altamush Saeed', 'ProVeg International', 'ProVeg Youth Board Member 2025', '2025-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/altamushsaeed95/', NULL, 'board member', 'Animal welfare'),
+('Stephanie Otto', 'ProVeg International', 'Executive Coordinator', '2019-06-01', 'month', '2020-05-01', 'month', 'https://www.linkedin.com/in/ottostephanie/', NULL, NULL, 'Animal welfare') /*Closed*/,
+('Stephanie Otto', 'ProVeg International', 'Executive Coordination Manager', '2020-06-01', 'month', '2021-10-01', 'month', 'https://www.linkedin.com/in/ottostephanie/', NULL, NULL, 'Animal welfare') /*Closed*/,
+('Stephanie Otto', 'ProVeg International', 'International Operations Team Lead', '2021-11-01', 'month', '2023-03-01', 'month', 'https://www.linkedin.com/in/ottostephanie/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Stephanie Otto', 'ProVeg International', 'Head of International Operations', '2023-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ottostephanie/', NULL, 'full-time', 'Animal welfare');
