@@ -149,4 +149,17 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Stephanie Otto', 'ProVeg International', 'Executive Coordinator', '2019-06-01', 'month', '2020-05-01', 'month', 'https://www.linkedin.com/in/ottostephanie/', NULL, NULL, 'Animal welfare') /*Closed*/,
 ('Stephanie Otto', 'ProVeg International', 'Executive Coordination Manager', '2020-06-01', 'month', '2021-10-01', 'month', 'https://www.linkedin.com/in/ottostephanie/', NULL, NULL, 'Animal welfare') /*Closed*/,
 ('Stephanie Otto', 'ProVeg International', 'International Operations Team Lead', '2021-11-01', 'month', '2023-03-01', 'month', 'https://www.linkedin.com/in/ottostephanie/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
-('Stephanie Otto', 'ProVeg International', 'Head of International Operations', '2023-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ottostephanie/', NULL, 'full-time', 'Animal welfare');
+('Stephanie Otto', 'ProVeg International', 'Head of International Operations', '2023-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ottostephanie/', NULL, 'full-time', 'Animal welfare')
+,
+('Stephanie Otto', 'ProVeg International', 'Impact Reporting', '2018-04-01', 'month', '2018-09-01', 'month', 'https://www.linkedin.com/in/ottostephanie/', NULL, NULL, 'Animal welfare') /*Closed*/,
+('Sophie Ollrog', 'ProVeg International', 'Food Services Department', '2021-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sophie-ollrog-196a45138/', NULL, NULL, 'Animal welfare'),
+('Andile Mnguni', 'ProVeg International', 'Executive Director, ProVeg South Africa', '2026-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/andile-mnguni-376948164/', NULL, 'full-time', 'Animal welfare'),
+('Tim Polkowski', 'ProVeg International', 'Strategic Advisor', '2023-01-01', 'month', '2023-07-01', 'month', 'https://www.linkedin.com/in/tim-polkowski/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Tim Polkowski', 'ProVeg International', 'International Director (Strategy and Growth)', '2023-07-01', 'month', '2025-07-01', 'month', 'https://www.linkedin.com/in/tim-polkowski/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Tim Polkowski', 'ProVeg International', 'Deputy CEO', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/tim-polkowski/', NULL, NULL, 'Animal welfare'),
+('Amada Perales Ferrer', 'ProVeg International', 'Public Affairs Manager', '2025-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/amada-perales/', NULL, 'full-time', 'Animal welfare'),
+('Muriel Fritsch', 'ProVeg International', 'Praktikantin V-Label', '2022-08-01', 'month', '2022-09-01', 'month', 'https://www.linkedin.com/in/muriel-fritsch-ba0935277/', NULL, 'intern', 'Animal welfare') /*Closed*/,
+('Muriel Fritsch', 'ProVeg International', 'Werkstudentin V-Label Qualitätsmanagement', '2022-10-01', 'month', '2023-07-01', 'month', 'https://www.linkedin.com/in/muriel-fritsch-ba0935277/', NULL, 'part-time', 'Animal welfare') /*Closed*/,
+('Muriel Fritsch', 'ProVeg International', 'Werkstudentin Finance', '2023-08-01', 'month', '2024-01-01', 'month', 'https://www.linkedin.com/in/muriel-fritsch-ba0935277/', NULL, 'part-time', 'Animal welfare') /*Closed*/,
+('Muriel Fritsch', 'ProVeg International', 'Werkstudentin V-Label Qualitätsmanagement', '2024-02-01', 'month', '2025-01-01', 'month', 'https://www.linkedin.com/in/muriel-fritsch-ba0935277/', NULL, 'part-time', 'Animal welfare') /*Closed*/,
+('Muriel Fritsch', 'ProVeg International', 'Business Development Manager', '2025-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/muriel-fritsch-ba0935277/', NULL, 'full-time', 'Animal welfare');
