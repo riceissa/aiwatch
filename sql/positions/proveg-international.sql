@@ -175,4 +175,15 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Eileen Valy', 'ProVeg International', 'International Senior Social Media Manager', '2022-07-01', 'month', '2023-08-01', 'month', 'https://www.linkedin.com/in/eileen-valy/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
 ('Eileen Valy', 'ProVeg International', 'International Senior Digital Communications Manager', '2023-09-01', 'month', '2024-07-01', 'month', 'https://www.linkedin.com/in/eileen-valy/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
 ('Eileen Valy', 'ProVeg International', 'International Senior Communications Manager', '2024-07-01', 'month', '2025-06-01', 'month', 'https://www.linkedin.com/in/eileen-valy/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
-('Eileen Valy', 'ProVeg International', 'Head of Digital Engagement', '2025-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/eileen-valy/', NULL, 'full-time', 'Animal welfare');
+('Eileen Valy', 'ProVeg International', 'Head of Digital Engagement', '2025-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/eileen-valy/', NULL, 'full-time', 'Animal welfare')
+,
+('Gemma Chapman', 'ProVeg International', 'Content Creator and Writer', '2022-10-01', 'month', '2023-06-01', 'month', 'https://www.linkedin.com/in/gemma-chapman/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Gemma Chapman', 'ProVeg International', 'International Advocacy Communications Manager', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gemma-chapman/', NULL, 'full-time', 'Animal welfare'),
+('Kathy A. Davis', 'ProVeg International', 'Financial Operations Specialist', '2023-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kathyallendavis/', NULL, NULL, 'Animal welfare'),
+('Fabio Venturini', 'ProVeg International', 'Head of Digital', '2019-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/fabioventuriniirl/', NULL, 'full-time', 'Animal welfare'),
+('Sebastian Golly', 'ProVeg International', 'International IT Specialist', '2022-08-01', 'month', '2024-05-01', 'month', 'https://www.linkedin.com/in/sebastian-golly/', NULL, NULL, 'Animal welfare') /*Closed*/,
+('Sebastian Golly', 'ProVeg International', 'Senior International IT Specialist', '2024-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/sebastian-golly/', NULL, NULL, 'Animal welfare'),
+('Troy Estrellado', 'ProVeg International', 'Research Analyst', '2025-04-01', 'month', '2026-03-01', 'month', 'https://www.linkedin.com/in/troy-estrellado/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Troy Estrellado', 'ProVeg International', 'Project Assistant', '2026-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/troy-estrellado/', NULL, 'full-time', 'Animal welfare'),
+('Emmanuel Márquez Morales', 'ProVeg International', 'Grants Program Coordinator', '2023-10-01', 'month', '2024-04-01', 'month', 'https://www.linkedin.com/in/emmanuel-marquez-m/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Emmanuel Márquez Morales', 'ProVeg International', 'Grants Program Manager', '2024-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/emmanuel-marquez-m/', NULL, 'full-time', 'Animal welfare');
