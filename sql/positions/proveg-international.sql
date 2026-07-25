@@ -21,4 +21,12 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Beatrice Rocca', 'ProVeg International', 'UN Policy Manager (Biodiversity)', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/beatrice-rocca/', NULL, 'full-time', 'Animal welfare'),
 ('Avik Banerjee', 'ProVeg International', 'Senior Manager (PV India)', '2025-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/avik-banerjee-276b5967/', NULL, 'full-time', 'Animal welfare'),
 ('Fredrick Kilonzo', 'ProVeg International', 'Youth Board Member', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/fredrick-kilonzo-4901171a6/', NULL, 'contractor', 'Animal welfare'),
-('Earl Ackon Cromwell', 'ProVeg International', 'Youth Board Member', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/earl-ackon-cromwell-258a44208/', NULL, 'contractor', 'Animal welfare');
+('Earl Ackon Cromwell', 'ProVeg International', 'Youth Board Member', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/earl-ackon-cromwell-258a44208/', NULL, 'contractor', 'Animal welfare')
+,
+('Eve Mosley', 'ProVeg International', 'Global Head of Development', '2025-10-01', 'month', NULL, NULL, NULL, NULL, 'full-time', 'Animal welfare'),
+('Kati Radloff', 'ProVeg International', 'Assistant of President', '2021-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kati-radloff-5ba597266/', NULL, 'contractor', 'Animal welfare'),
+('Dom Altomari', 'ProVeg International', 'Youth Board Member', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dom-altomari/', NULL, 'part-time', 'Animal welfare'),
+('Narhari Gupta', 'ProVeg International', 'Youth Board Member', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/narharigupta/', NULL, 'part-time', 'Animal welfare'),
+('Yuna Lee', 'ProVeg International', 'Public Food Coordinator', '2025-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/yunaleeee/', NULL, 'full-time', 'Animal welfare'),
+('Teresa Romagna', 'ProVeg International', 'HR Officer', '2019-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/teresa-romagna-330372207/', NULL, 'full-time', 'Animal welfare'),
+('Teresa Romagna', 'ProVeg International', 'Senior HR Manager', '2022-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/teresa-romagna-330372207/', NULL, 'full-time', 'Animal welfare');
