@@ -35,4 +35,15 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Cheryl Chang Lin', 'ProVeg International', 'Program Manager', '2022-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/cheryl-chang-lin-30885524a/', NULL, 'contractor', 'Animal welfare'),
 ('Ignacia Sáiz Lynch', 'ProVeg International', 'International Events Coordinator', '2023-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ignaciasaiz/', NULL, 'full-time', 'Animal welfare'),
 ('Yi Qian Oo', 'ProVeg International', 'Nutritionist', '2025-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/yi-qian-oo-a851b28b/', NULL, NULL, 'Animal welfare'),
-('Valentina Gallani', 'ProVeg International', 'Health and Nutrition Manager', '2022-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/valentina-gallani-991bab183/', NULL, 'part-time', 'Animal welfare');
+('Valentina Gallani', 'ProVeg International', 'Health and Nutrition Manager', '2022-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/valentina-gallani-991bab183/', NULL, 'part-time', 'Animal welfare')
+,
+('Lucia Hortelano', 'ProVeg International', 'EU Policy Manager', '2022-09-01', 'month', '2023-10-01', 'month', 'https://www.linkedin.com/in/lucia-hortelano/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Lucia Hortelano', 'ProVeg International', 'EU Senior Policy Manager', '2023-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lucia-hortelano/', NULL, 'full-time', 'Animal welfare'),
+('Juliette Tronchon', 'ProVeg International', 'Volunteer Coordinator', '2020-01-01', 'month', '2021-04-01', 'month', 'https://www.linkedin.com/in/juliette-tronchon/', NULL, 'part-time', 'Animal welfare') /*Closed*/,
+('Juliette Tronchon', 'ProVeg International', 'Policy and Public Affairs Specialist International', '2021-01-01', 'month', '2022-10-01', 'month', 'https://www.linkedin.com/in/juliette-tronchon/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Juliette Tronchon', 'ProVeg International', 'Senior Policy and Public Affairs Specialist', '2022-10-01', 'month', '2024-01-01', 'month', 'https://www.linkedin.com/in/juliette-tronchon/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Juliette Tronchon', 'ProVeg International', 'Head of UN Affairs', '2024-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/juliette-tronchon/', NULL, 'full-time', 'Animal welfare'),
+('Bianca Maria Galatanu', 'ProVeg International', 'UN Advocacy Assistant', '2024-08-01', 'month', '2025-02-01', 'month', 'https://www.linkedin.com/in/bianca-maria-galatanu-62a47a223/', NULL, 'internship', 'Animal welfare') /*Closed*/,
+('Bianca Maria Galatanu', 'ProVeg International', 'UN Policy Officer', '2025-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/bianca-maria-galatanu-62a47a223/', NULL, 'full-time', 'Animal welfare'),
+('Chloe Thompson', 'ProVeg International', 'Board Member', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/chloe-thompson-a3700215a/', NULL, 'board member', 'Animal welfare'),
+('Susann Schmiedgen', 'ProVeg International', 'Monitoring, Evaluation & Learning Manager', '2021-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/susannschmiedgen/', NULL, NULL, 'Animal welfare');
