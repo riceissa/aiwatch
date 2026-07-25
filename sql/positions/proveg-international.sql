@@ -68,4 +68,13 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Patrycja Homa', 'ProVeg International', 'President of the Management Board (Country Director)', '2017-09-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/patrycja-homa-545344a1/', NULL, 'full-time', 'Animal welfare'),
 ('Adrian Schultze', 'ProVeg International', 'Projektmanager', '2017-08-01', 'month', '2022-04-01', 'month', 'https://www.linkedin.com/in/adrian-schultze-035bb51a4/', NULL, NULL, 'Animal welfare') /*Closed*/,
 ('Adrian Schultze', 'ProVeg International', 'Full-stack Developer', '2020-08-01', 'month', '2023-04-01', 'month', 'https://www.linkedin.com/in/adrian-schultze-035bb51a4/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
-('Adrian Schultze', 'ProVeg International', 'Senior IT Specialist', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adrian-schultze-035bb51a4/', NULL, NULL, 'Animal welfare');
+('Adrian Schultze', 'ProVeg International', 'Senior IT Specialist', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adrian-schultze-035bb51a4/', NULL, NULL, 'Animal welfare')
+,
+('Morvah George', 'ProVeg International', 'Corporate Engagement Manager', '2026-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/morvahgeorge/', NULL, NULL, 'Animal welfare'),
+('Njoke Raisa', 'ProVeg International', 'Youth Board Member', '2025-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/njoke-raisa-a29707164/', NULL, 'full-time', 'Animal welfare'),
+('Daniel Braune', 'ProVeg International', 'Executive Assistant', '2016-06-01', 'month', '2017-05-01', 'month', 'https://www.linkedin.com/in/daniel-braune/', NULL, NULL, 'Animal welfare') /*Closed*/,
+('Daniel Braune', 'ProVeg International', 'Head Of Research', '2017-06-01', 'month', '2023-10-01', 'month', 'https://www.linkedin.com/in/daniel-braune/', NULL, NULL, 'Animal welfare') /*Closed*/,
+('Daniel Braune', 'ProVeg International', 'Food Systems Sustainability Lead', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/daniel-braune/', NULL, 'full-time', 'Animal welfare'),
+('Nina Stummvoll', 'ProVeg International', 'HR Manager at ProVeg International', '2018-08-01', 'month', '2022-07-01', 'month', 'https://www.linkedin.com/in/nina-stummvoll-78a9b887/', NULL, NULL, 'Animal welfare') /*Closed*/,
+('Nina Stummvoll', 'ProVeg International', 'Senior HR Manager', '2022-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nina-stummvoll-78a9b887/', NULL, NULL, 'Animal welfare'),
+('Nina Stummvoll', 'ProVeg International', 'Senior People & Culture Manager', '2023-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nina-stummvoll-78a9b887/', NULL, NULL, 'Animal welfare');
