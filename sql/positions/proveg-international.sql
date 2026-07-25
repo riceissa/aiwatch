@@ -204,4 +204,20 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Shirley L.', 'ProVeg International', 'Executive Director - Greater China', '2019-04-01', 'month', '2020-08-01', 'month', 'https://www.linkedin.com/in/shirley-l-273730/', NULL, NULL, 'Animal welfare') /*Closed*/,
 ('Shirley L.', 'ProVeg International', 'Managing Director - Asia and Chief China Representative', '2020-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/shirley-l-273730/', NULL, 'full-time', 'Animal welfare'),
 ('Laura Bermúdez', 'ProVeg International', 'Lead Graphic Designer', '2018-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/aelini/', NULL, 'full-time', 'Animal welfare'),
-('Monrada Waraho', 'ProVeg International', 'Student Brand Ambassador', '2022-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mwyok/', NULL, 'part-time', 'Animal welfare');
+('Monrada Waraho', 'ProVeg International', 'Student Brand Ambassador', '2022-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mwyok/', NULL, 'part-time', 'Animal welfare')
+,
+('Vicki Sagar', 'ProVeg International', 'Senior Marketing and Communications Manager, ProVeg Incubator', '2022-12-01', 'month', '2025-04-01', 'month', 'https://www.linkedin.com/in/vickisagar/', NULL, 'part-time', 'Animal welfare') /*Closed*/,
+('Anna-Lena Klapp', 'ProVeg International', 'Nutrition and Health Specialist', '2018-04-01', 'month', '2021-09-01', 'month', 'https://www.linkedin.com/in/anna-lena-klapp/', NULL, 'part-time', 'Animal welfare') /*Closed*/,
+('Anna-Lena Klapp', 'ProVeg International', 'International Nutrition & Health Lead', '2021-09-01', 'month', '2024-11-01', 'month', 'https://www.linkedin.com/in/anna-lena-klapp/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Anna-Lena Klapp', 'ProVeg International', 'Head of Research', '2024-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/anna-lena-klapp/', NULL, 'full-time', 'Animal welfare'),
+('Joy Aquino', 'ProVeg International', 'International Fundraising Coordinator', '2020-11-01', 'month', '2022-10-01', 'month', 'https://www.linkedin.com/in/joyanneaquino/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Joy Aquino', 'ProVeg International', 'International Fundraising and Outreach Manager', '2022-10-01', 'month', '2024-01-01', 'month', 'https://www.linkedin.com/in/joyanneaquino/', NULL, NULL, 'Animal welfare') /*Closed*/,
+('Joy Aquino', 'ProVeg International', 'International Digital Marketing and Communications Manager', '2024-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joyanneaquino/', NULL, NULL, 'Animal welfare'),
+('Jasmijn De Boo', 'ProVeg International', 'International Director (Executive Team)', '2018-04-01', 'month', '2020-05-01', 'month', 'https://www.linkedin.com/in/jasmijndeboo/', NULL, NULL, 'Animal welfare') /*Closed*/,
+('Jasmijn De Boo', 'ProVeg International', 'Vice President (Executive Team)', '2020-05-01', 'month', '2023-05-01', 'month', 'https://www.linkedin.com/in/jasmijndeboo/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Jasmijn De Boo', 'ProVeg International', 'Global CEO', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jasmijndeboo/', NULL, 'full-time', 'Animal welfare'),
+('Leena Joshi', 'ProVeg International', 'Board Member', '2026-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/leena-joshi-/', NULL, 'board member', 'Animal welfare'),
+('Verónica Larco Jiménez', 'ProVeg International', 'Communications Manager ProVeg España', '2019-08-01', 'month', '2023-01-01', 'month', 'https://www.linkedin.com/in/ver%C3%B3nica-larco-jim%C3%A9nez-68182058/', NULL, NULL, 'Animal welfare') /*Closed*/,
+('Verónica Larco Jiménez', 'ProVeg International', 'Senior Comms Manager', '2023-02-01', 'month', '2024-10-01', 'month', 'https://www.linkedin.com/in/ver%C3%B3nica-larco-jim%C3%A9nez-68182058/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Verónica Larco Jiménez', 'ProVeg International', 'Senior Comms Manager Spain and Latam', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/ver%C3%B3nica-larco-jim%C3%A9nez-68182058/', NULL, 'full-time', 'Animal welfare'),
+('Prerna Singh', 'ProVeg International', 'Operations Assistant', '2025-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/prerna-singh-a64364351/', NULL, 'full-time', 'Animal welfare');
