@@ -127,4 +127,11 @@ insert into positions(person, organization, title, start_date, start_date_precis
 ('Ria Rehberg', 'ProVeg International', 'Global Strategy Director', '2025-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/riarehberg/', NULL, 'part-time', 'Animal welfare'),
 ('Chee Hoe Keong', 'ProVeg International', 'Programme Lead', '2025-03-01', 'month', '2026-01-01', 'month', 'https://www.linkedin.com/in/chee-hoe-keong-43906228b/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
 ('Chee Hoe Keong', 'ProVeg International', 'Asia Partnerships & Organizational Manager', '2026-02-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/chee-hoe-keong-43906228b/', NULL, 'full-time', 'Animal welfare'),
-('Maxi Heese', 'ProVeg International', 'V-Label Werkstudentin Marketing & Kommunikation', '2023-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/maxi-heese/', NULL, 'part-time', 'Animal welfare');
+('Maxi Heese', 'ProVeg International', 'V-Label Werkstudentin Marketing & Kommunikation', '2023-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/maxi-heese/', NULL, 'part-time', 'Animal welfare')
+,
+('Marie Korbel', 'ProVeg International', 'Leitung ProVeg School Plate Programme Lake Geneva', '2024-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/marie-korbel/', NULL, 'contractor', 'Animal welfare'),
+('Karthik Pulugurtha', 'ProVeg International', 'Executive Director (PV India)', '2025-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/karthik-pulugurtha-b8902923/', NULL, 'full-time', 'Animal welfare'),
+('Lea Stockmeier', 'ProVeg International', 'International Eventmanager', '2018-09-01', 'month', '2021-04-01', 'month', 'https://www.linkedin.com/in/lea-stockmeier-218b7a2b7/', NULL, 'full-time', 'Animal welfare') /*Closed*/,
+('Lea Stockmeier', 'ProVeg International', 'Senior International Eventmanager', '2021-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/lea-stockmeier-218b7a2b7/', NULL, 'full-time', 'Animal welfare'),
+('Dawn Moncrief', 'ProVeg International', 'Board Chair (USA)', '2018-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dawn-moncrief/', NULL, 'board member', 'Animal welfare'),
+('Julia-Janine Bressem', 'ProVeg International', 'Social Media-Managerin', '2023-11-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/julia-janine-bressem-040080152/', NULL, 'part-time', 'Animal welfare');
