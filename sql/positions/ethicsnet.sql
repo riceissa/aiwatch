@@ -1,0 +1,3 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, ai_safety_relation, subject, employment_type, cause_area) values
+('Filip Alimpić', 'EthicsNet', 'Product, Operations, and QA Lead', '2025-12-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/filipalimpic/', NULL, 'position', 'software engineering', 'contractor', 'AI safety'),
+('Adam Alonzi', 'EthicsNet', 'Interdisciplinary Analyst', '2016-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/adam-alonzi/', NULL, 'position', 'technical research', NULL, 'AI safety');
