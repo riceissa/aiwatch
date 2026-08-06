@@ -80,6 +80,7 @@ sql/positions/conjecture.sql
 sql/positions/connect-for-animals.sql
 sql/positions/consultants-for-impact.sql
 sql/positions/continualai.sql
+sql/positions/convergence-analysis.sql
 sql/positions/cooperativeai.sql
 sql/positions/cornell-effective-altruism.sql
 sql/positions/cset.sql
