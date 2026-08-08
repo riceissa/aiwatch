@@ -75,6 +75,7 @@ sql/positions/chai.sql
 sql/positions/charity-entrepreneurship.sql
 sql/positions/charity-science-health.sql
 sql/positions/charity-science.sql
+sql/positions/coefficient-giving.sql
 sql/positions/condor-camp.sql
 sql/positions/conjecture.sql
 sql/positions/connect-for-animals.sql
@@ -177,7 +178,6 @@ sql/positions/nucleic-acid-observatory.sql
 sql/positions/observatorio-de-riesgos-catastroficos-globales.sql
 sql/positions/odiseia.sql
 sql/positions/one-for-the-world.sql
-sql/positions/open-philanthropy.sql
 sql/positions/openai.sql
 sql/positions/open-cages.sql
 sql/positions/open-longevity.sql
