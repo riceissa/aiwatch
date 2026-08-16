@@ -9,7 +9,7 @@ where organization in (
   'GiveWell',
   'Lightcone Infrastructure',
   'Machine Intelligence Research Institute',
-  'Open Philanthropy'
+  'Coefficient Giving'
 ) and (last_major_data_update_date is null or datediff(curdate(), last_major_data_update_date) > 183)
 order by last_major_data_update_date;
 

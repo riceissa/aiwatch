@@ -75,11 +75,13 @@ sql/positions/chai.sql
 sql/positions/charity-entrepreneurship.sql
 sql/positions/charity-science-health.sql
 sql/positions/charity-science.sql
+sql/positions/coefficient-giving.sql
 sql/positions/condor-camp.sql
 sql/positions/conjecture.sql
 sql/positions/connect-for-animals.sql
 sql/positions/consultants-for-impact.sql
 sql/positions/continualai.sql
+sql/positions/convergence-analysis.sql
 sql/positions/cooperativeai.sql
 sql/positions/cornell-effective-altruism.sql
 sql/positions/cset.sql
@@ -107,7 +109,6 @@ sql/positions/fishwelfareinitiative.org.sql
 sql/positions/flowers-laboratory.sql
 sql/positions/forecasting-research-institute.sql
 sql/positions/forethought.sql
-sql/positions/foundational-research-institute.sql
 sql/positions/frente-animal.sql
 sql/positions/ftx-future-fund.sql
 sql/positions/fund-for-alignment-research.sql
@@ -177,7 +178,6 @@ sql/positions/nucleic-acid-observatory.sql
 sql/positions/observatorio-de-riesgos-catastroficos-globales.sql
 sql/positions/odiseia.sql
 sql/positions/one-for-the-world.sql
-sql/positions/open-philanthropy.sql
 sql/positions/openai.sql
 sql/positions/open-cages.sql
 sql/positions/open-longevity.sql
