@@ -214,4 +214,16 @@ insert into agendas(name, associated_people, associated_organizations, start_dat
     NULL, /* nature_of_intelligence_assumptions */
     NULL /* other_assumptions */
   )
+  ,(
+    'Flexible Hardware-Enabled Guarantees', /* name */
+    '', /* associated_people */
+    'FlexHEG', /* associated_organizations */
+    NULL, /* start_date */
+    NULL, /* start_date_precision */
+    '<a href="https://flexheg.com/">FlexHEG website</a>', /* overview */
+    '', /* goals */
+    '', /* ai_timelines_assumptions */
+    '', /* nature_of_intelligence_assumptions */
+    '' /* other_assumptions */
+  )
 ;
