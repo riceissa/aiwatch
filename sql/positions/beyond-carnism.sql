@@ -1,0 +1,7 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+('Nirali Shah', 'Beyond Carnism', 'Communications Coordinator', '2021-11-01', 'month', '2022-12-01', 'month', 'https://www.linkedin.com/in/nirali-shah-374059b1/', NULL, 'full-time', 'Animal welfare'),
+('Nirali Shah', 'Beyond Carnism', 'Communications Manager', '2023-01-01', 'month', '2023-05-01', 'month', 'https://www.linkedin.com/in/nirali-shah-374059b1/', NULL, 'full-time', 'Animal welfare'),
+('Nirali Shah', 'Beyond Carnism', 'Senior Communications Manager', '2023-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nirali-shah-374059b1/', NULL, 'full-time', 'Animal welfare'),
+('Melanie Joy', 'Beyond Carnism', 'Founder and President', '2013-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/drmelaniejoy/', NULL, NULL, 'Animal welfare'),
+('Dawn Moncrief', 'Beyond Carnism', 'Board Chair', '2013-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/dawn-moncrief/', NULL, 'board member', 'Animal welfare'),
+('Gero S.', 'Beyond Carnism', 'Board Officer', '2018-03-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/gero-s-888430145/', NULL, 'board member', 'Animal welfare');

@@ -45,6 +45,7 @@ sql/positions/ayuda-efectiva.sql
 sql/positions/balsa-research.sql
 sql/positions/berggruen-institute.sql
 sql/positions/beri.sql
+sql/positions/beyond-carnism.sql
 sql/positions/biotein.sql
 sql/positions/blue-horizon.sql
 sql/positions/bluedot-impact.sql
