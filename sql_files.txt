@@ -65,6 +65,7 @@ sql/positions/center-for-global-development.sql
 sql/positions/center-for-reducing-suffering.sql
 sql/positions/center-for-space-governance.sql
 sql/positions/center-on-long-term-risk.sql
+sql/positions/centre-for-emerging-risk-studies.sql
 sql/positions/centre-for-exploratory-altruism-research.sql
 sql/positions/centre-for-long-term-resilience.sql
 sql/positions/centre-for-the-governance-of-ai.sql
