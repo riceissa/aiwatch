@@ -38,58 +38,58 @@ $site_name = $subdomain === "aiwatch" ? "AI Watch" : "Org Watch";
 <?php if ($subdomain === "aiwatch") { ?>
 
 <p>The site has not had a lot of deep thought put into it, so at the moment there are
-  no firm criteria for inclusion on this site. With that said, below I describe
-  my best guesses for what should be included and my current decision procedure.</p>
+  no firm criteria for inclusion on this site. With that said, below we describe
+  our best guesses for what should be included and our current decision procedure.</p>
 
 <h3>People</h3>
 
-<p>Generally I look for public output that is related to AI
+<p>Generally we look for public output that is related to AI
 safety/risk/alignment and which is novel or an original summary-type work (i.e.
 not just a rehash of standard arguments, and not just a journalistic reporting
 of a paper). This could be academic papers, books, blog posts, flowcharts,
 Facebook posts, web pages, wiki pages, substantive comments to existing blog
-posts, and so on. I also pay attention to how often names appear in discussions
+posts, and so on. We also pay attention to how often names appear in discussions
 (e.g. on Facebook or LessWrong) as well as inclusion in lists of e.g.
 participation in relevant workshops or other lists of people relevant to AI
 safety.</p>
 
-<p>So far I have been adding people who perform general work like office management, even though if they did the exact same work at an organization that didn’t work on AI safety, they wouldn’t have been added. I am not sure if this is ideal and might change that at some point.</p>
+<p>So far we have been adding people who perform general work like office management, even though if they did the exact same work at an organization that didn’t work on AI safety, they wouldn’t have been added. We are not sure if this is ideal and might change that at some point.</p>
 
-<p>I have been excluding funders because I hope these will be covered in Vipul
+<p>We have been excluding funders because we hope these will be covered in Vipul
   Naik’s <a href="https://donations.vipulnaik.com/?cause_area_filter=AI+safety">Donations
   List Website</a> (the site already tracks some donations and other funding,
   but data is preliminary) and eventually integrated with AI Watch somehow.</p>
 
-<p>I am not sure what the most “useful” (in terms of how useful people will
+<p>We are not sure what the most “useful” (in terms of how useful people will
 find this website) criteria for inclusion are. It seems like writing a couple
-of blog posts is a fairly low bar, and might turn out to be so low that I can’t
+of blog posts is a fairly low bar, and might turn out to be so low that we can’t
 keep up with adding everyone, or that the list feels diluted. So far this
 doesn’t seem to be the case though, and with proper tagging the dilution issue
 can be mitigated.</p>
 
-<p>I guess I am also worried about <a
+<p>Issa is also worried about <a
 href="https://www.lesswrong.com/posts/sP2Hg6uPwpfp3jZJN/lost-purposes">lost
 purposes</a> (i.e. the site tracking something that’s not the thing it should
 be tracking, or AI safety as a field becoming like that so that the site goes
-down with the whole field). I haven’t given this too much thought yet, so I am
+down with the whole field). Issa hasn’t given this too much thought yet, so we are
 pretty mindlessly just adding things to the site for now (modulo the
 above).</p>
 
 <h3>Organizations</h3>
 
-<p>I look for explicit statement of interest in AI safety/risk/alignment
+<p>We look for explicit statement of interest in AI safety/risk/alignment
 (hopefully with some actual output), or someone with an explicit interest
 claiming relevance to safety work.</p>
 
-<p>If an organization is about global catastrophic risks, I try to find the specific people from the organization who work on AI safety. If that is not possible I add everyone, for the sake of inclusiveness.</p>
+<p>If an organization is about global catastrophic risks, we try to find the specific people from the organization who work on AI safety. If that is not possible we add everyone, for the sake of inclusiveness.</p>
 
-<p>Similarly, if an organization is about building an AGI and I can identify the specific people within the organization who work on safety, I try to add only those people. Otherwise I just add everyone.</p>
+<p>Similarly, if an organization is about building an AGI and we can identify the specific people within the organization who work on safety, we try to add only those people. Otherwise we just add everyone.</p>
 
 <h3>Products</h3>
 
-<p>So far I have been adding products that I have seen in the past and am able
-to remember. As long as the product is somewhat usable, useful, and polished, I
-have been adding all the ones I could think of.</p>
+<p>So far we have been adding products that we have seen in the past and are able
+to remember. As long as the product is somewhat usable, useful, and polished, we
+have been adding all the ones we could think of.</p>
 
 <?php } else { ?>
   <p>At the moment, inclusion criteria for Org Watch are completely arbitrary.</p>
@@ -180,6 +180,24 @@ be removed from the site, email Vipul Naik at vipulnaik1@gmail.com.</p>
 <p>This policy is not formal or binding or exhaustive or fixed in any way, and
 Vipul and/or Issa may choose to not honor your request. The policy may change at any time
 with no notice.</p>
+
+<p>If you reinstate publicly accessible information regarding your position
+(e.g. by adding back LinkedIn mentions of the position), we may re-add your
+position to this website at some point in the future. We may or may not
+notify you about the re-inclusion in this case.</p>
+
+<p>Even if a removal request is honored, you may get re-added to this website
+in the future if your public profile rises in a different context than the one
+where you originally requested removal. For instance, suppose you work at
+Organization A, and that position is tracked here. Then you switch careers
+to therapy, and request removal (and that request is honored here). Then
+you quit your therapy job and work at Organization B, which has nothing to
+do with therapy and there is publicly accessible information stating that
+you work at Organization B. Then we consider it reasonable to add your
+position at Organization B to this website. If the fact that you worked
+at Organization A is publicly verifiable again, we consider it reasonable
+to add that position to this site again as well. We may or may not
+notify you about the re-inclusion in this case.</p>
 
 <h2>Feedback</h2>
 
