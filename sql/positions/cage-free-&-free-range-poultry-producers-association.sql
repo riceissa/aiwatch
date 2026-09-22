@@ -1,0 +1,4 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+('Achyuth Reddy G', 'Cage Free & Free Range Poultry Producers Association', 'Secretary', '2021-09-01', 'month', NULL, NULL, '[https://www.linkedin.com/in/achyuthreddyg/](https://www.linkedin.com/in/achyuthreddyg/)', NULL, 'full-time', 'Animal welfare'),
+('Manjunath Marappan', 'Cage Free & Free Range Poultry Producers Association', 'Treasurer', '2023-02-01', 'month', NULL, NULL, '[https://www.linkedin.com/in/manjunath-marappan-98342123/](https://www.linkedin.com/in/manjunath-marappan-98342123/)', NULL, 'part-time', 'Animal welfare'),
+('Varuna Verma', 'Cage Free & Free Range Poultry Producers Association', 'Executive Director', '2025-01-01', 'month', NULL, NULL, '[https://www.linkedin.com/in/varuna-verma-80713522/](https://www.linkedin.com/in/varuna-verma-80713522/)', NULL, 'full-time', 'Animal welfare');
