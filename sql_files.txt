@@ -182,6 +182,7 @@ sql/positions/norn-group.sql
 sql/positions/nucleic-acid-observatory.sql
 sql/positions/observatorio-de-riesgos-catastroficos-globales.sql
 sql/positions/odiseia.sql
+sql/positions/oecdai.sql
 sql/positions/one-for-the-world.sql
 sql/positions/openai.sql
 sql/positions/open-cages.sql
