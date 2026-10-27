@@ -1,0 +1,3 @@
+insert into positions(person, organization, title, start_date, start_date_precision, end_date, end_date_precision, urls, notes, employment_type, cause_area) values
+('Prasasya Parupalli', 'London Longevity', 'Organiser', '2024-08-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/prasasya/', NULL, NULL, 'Longevity'),
+('Mo Elzek', 'London Longevity', 'Founder', '2024-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/elzek/', NULL, 'full-time', 'Longevity');
