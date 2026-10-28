@@ -38,6 +38,7 @@ sql/positions/anthropic.sql
 sql/positions/antikythera.sql
 sql/positions/apart-research.sql
 sql/positions/arb-research.sql
+sql/positions/asia-for-animals-coalition.sql
 sql/positions/astera.sql
 sql/positions/athena.sql
 sql/positions/atomic-ai.sql
