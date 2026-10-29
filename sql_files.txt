@@ -184,6 +184,7 @@ sql/positions/new-roots-institute.sql
 sql/positions/non-trivial.sql
 sql/positions/nonlinear-fund.sql
 sql/positions/norn-group.sql
+sql/positions/nuclear-threat-initiative.sql
 sql/positions/nucleic-acid-observatory.sql
 sql/positions/observatorio-de-riesgos-catastroficos-globales.sql
 sql/positions/odiseia.sql
