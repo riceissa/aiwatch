@@ -38,6 +38,7 @@ sql/positions/anthropic.sql
 sql/positions/antikythera.sql
 sql/positions/apart-research.sql
 sql/positions/arb-research.sql
+sql/positions/asia-for-animals-coalition.sql
 sql/positions/astera.sql
 sql/positions/athena.sql
 sql/positions/atomic-ai.sql
@@ -50,6 +51,8 @@ sql/positions/biotein.sql
 sql/positions/blue-horizon.sql
 sql/positions/bluedot-impact.sql
 sql/positions/buck-institute-for-research-on-aging.sql
+sql/positions/cage-free-&-free-range-poultry-producers-association.sql
+sql/positions/cambridge-ai-safety-hub.sql
 sql/positions/cambridge-boston-alignment-initiative.sql
 sql/positions/cambridge-society-of-ageing-and-longevity-research.sql
 sql/positions/cape-institute-for-safe-ai.sql
@@ -97,6 +100,7 @@ sql/positions/effective-altruism-geneva.sql
 sql/positions/effective-ventures.sql
 sql/positions/effektiv-spenden.sql
 sql/positions/effisciences.sql
+sql/positions/eleutherai.sql
 sql/positions/elicit.sql
 sql/positions/encultured-ai.sql
 sql/positions/eon-institute.sql
@@ -144,6 +148,7 @@ sql/positions/human-progress.sql
 sql/positions/institute-for-ai-policy-and-strategy.sql
 sql/positions/institute-for-ethics-in-artificial-intelligence.sql
 sql/positions/institute-for-law-ai.sql
+sql/positions/international-animal-rescue.sql
 sql/positions/international-longevity-alliance.sql
 sql/positions/international-military-council-on-climate-and-security.sql
 sql/positions/ipa.sql
@@ -157,6 +162,7 @@ sql/positions/leverhulme-centre-for-the-future-of-intelligence.sql
 sql/positions/lifespan-extension-advocacy-foundation.sql
 sql/positions/lifespan-research-institute.sql
 sql/positions/lightcone-infrastructure.sql
+sql/positions/london-longevity.sql
 sql/positions/longevity-biotech-fellowship.sql
 sql/positions/longevity-escape-velocity.sql
 sql/positions/longevity-global.sql
@@ -178,9 +184,11 @@ sql/positions/new-roots-institute.sql
 sql/positions/non-trivial.sql
 sql/positions/nonlinear-fund.sql
 sql/positions/norn-group.sql
+sql/positions/nuclear-threat-initiative.sql
 sql/positions/nucleic-acid-observatory.sql
 sql/positions/observatorio-de-riesgos-catastroficos-globales.sql
 sql/positions/odiseia.sql
+sql/positions/oecdai.sql
 sql/positions/one-for-the-world.sql
 sql/positions/openai.sql
 sql/positions/open-cages.sql
@@ -194,6 +202,7 @@ sql/positions/palisade-research.sql
 sql/positions/pantask.sql
 sql/positions/partnership-on-ai.sql
 sql/positions/pauseai.sql
+sql/positions/people-for-animals-public-policy-foundation.sql
 sql/positions/positive-impact-society-erasmus.sql
 sql/positions/probably-good.sql
 sql/positions/proveg-international.sql
@@ -215,8 +224,8 @@ sql/positions/sens.sql
 sql/positions/sentience-institute.sql
 sql/positions/sentience-politics.sql
 sql/positions/sharpen-strategy.sql
+sql/positions/shield-ai-institute.sql
 sql/positions/simon-institute-for-longterm-governance.sql
-sql/positions/eleutherai.sql
 sql/positions/stanford-existential-risks-initiative.sql
 sql/positions/stanford-institute-for-human-centered-artificial-intelligence.sql
 sql/positions/stanford-robotics-center.sql
@@ -247,6 +256,7 @@ sql/positions/vegcatalyst.sql
 sql/positions/vista-institute-for-ai-policy.sql
 sql/positions/vitalism-foundation.sql
 sql/positions/wasr.sql
+sql/positions/we-the-free.sql
 sql/positions/wild-animal-initiative.sql
 sql/organization_documents.sql
 sql/organization_docs/80000-hours-doc.sql
