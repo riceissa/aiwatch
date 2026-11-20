@@ -90,7 +90,6 @@
     ,('Jennifer Pisansky', 'Anthropic', 'Recruiter', '2023-05-01', 'month', '2024-04-01', 'month', 'https://www.linkedin.com/in/jenniferpisansky/', NULL, NULL, 'AI safety') /*closed*/
     ,('Jennifer Pisansky', 'Anthropic', 'Executive Talent', '2024-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jenniferpisansky/', NULL, NULL, 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
     ,('Jia Yuan Loke','Anthropic','Operations', '2021-10-01', 'month', NULL, NULL,'https://www.linkedin.com/in/jiayuanloke/', NULL, 'full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
-    ,('Jia Yuan Loke','Anthropic', 'Operations', '2021-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jiayuanloke/', NULL, 'full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
  
     ,('Joel Pobar', 'Anthropic', 'Technical Staff', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joelpob/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/
     ,('Joel Lewenstein', 'Anthropic', 'Member of Technical Staff', '2023-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/joel-lewenstein/', NULL, 'Full-time', 'AI safety') /*Reviewed on 2025-05-26*/  /*current position*/

@@ -36,6 +36,5 @@ insert into positions(person, organization, title, start_date, start_date_precis
  /*..LINKEDIN..*/
  ,('Kimberley R. Miner', 'The Center for Climate and Security', 'Research Fellow', '2015-10-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/drkimberleyminer/', NULL, NULL, 'Politics')
  ,('Chris Kurowski', 'The Center for Climate and Security', 'Working Group Member', '2017-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/chris-kurowski-a2a29425/', NULL, NULL, 'Politics')
- ,('Chris Kurowski', 'The Center for Climate and Security', 'Working Group Member', '2017-07-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/chris-kurowski-a2a29425/', NULL, NULL, 'Politics')
 
 /*Tom Ellison*/

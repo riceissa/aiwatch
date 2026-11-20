@@ -94,7 +94,6 @@ INSERT INTO positions(person, organization, title, start_date, start_date_precis
 ,('Mahdi Moqri', 'Methuselah Foundation', 'Scientific Advisor', '2023-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/mahdi-moqri/', NULL, 'Advisor', 'Longevity') /*ongoing position*/
 ,('Florina Gobel', 'Methuselah Foundation', 'Executive Advisor', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/florinagobel/', NULL, 'Advisor', 'Longevity') /*ongoing position*/
 ,('Brandon Sassouni', 'Methuselah Foundation', 'Scientific Consultant', '2024-04-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/brandon-sassouni-291012104/', NULL, NULL, 'Longevity') /*ongoing position*/
-,('Simon Fleming', 'Methuselah Foundation', 'Medical Advisor', '2021-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/simon-fleming-58324345/', NULL, NULL, 'Longevity')/*ongoing position*/
 ,('Warren Koch', 'Methuselah Foundation', 'Senior Software Developer', '2023-05-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/warren-koch-156aa026/', NULL, 'Full-time', 'Longevity')/*ongoing position*/
 ,('Nicholas Fiorenza', 'Methuselah Foundation', 'Biotech Operations', '2024-01-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nicholascharlesfiorenza/', NULL, NULL, 'Longevity')/*ongoing position*/
 ,('Scott Collins', 'Methuselah Foundation', 'Scientific and Strategy Advisor', '2013-01-01', 'year', NULL, NULL, 'https://www.linkedin.com/in/scottcollinsphd/', NULL, NULL, 'Longevity')/*ongoing position*/

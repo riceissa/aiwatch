@@ -25,7 +25,6 @@
 ,('Kai Williams', 'Tarbell Center for AI Journalism', 'Tarbell Fellow', '2025-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/kai-t-williams/', NULL, NULL, NULL, 'full-time', 'AI safety') 
 ,('Nilesh Christopher', 'Tarbell Center for AI Journalism', 'Senior Tarbell Fellow', '2025-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/nilesh-christopher-20831784/', NULL, NULL, NULL, 'full-time', 'AI safety') 
 ,('Jakub Kraus', 'Tarbell Center for AI Journalism', 'Tarbell Fellow', '2025-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jakraus/', NULL, NULL, NULL, 'full-time', 'AI safety')
-,('Jakub Kraus', 'Tarbell Center for AI Journalism', 'Tarbell Fellow', '2025-06-01', 'month', NULL, NULL, 'https://www.linkedin.com/in/jakraus/', NULL, NULL, NULL, 'full-time', 'AI safety') 
 
 /* CLOSED */
 

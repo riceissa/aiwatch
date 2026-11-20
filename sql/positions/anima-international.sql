@@ -16,7 +16,6 @@ insert into positions(person, organization, title, start_date, start_date_precis
 /* Investigations and media compaigns */
 
 
-,('Bogna Wiltowska', 'Anima International', 'Director of Investigations, Poland', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20250511142550/https://animainternational.org/about/team/', NULL, NULL, 'Animal welfare')
 ,('Anna Iżyńska', 'Anima International', 'General Campaigns Manager, Poland', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20250511142550/https://animainternational.org/about/team/', NULL, NULL, 'Animal welfare')
 ,('Veo Andersen', 'Anima International', 'Director of Social Media, Denmark', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20250511142550/https://animainternational.org/about/team/', NULL, NULL, 'Animal welfare')
 ,('Nanna Capion', 'Anima International', 'Communications Manager, Denmark', NULL, NULL, NULL, NULL, 'https://web.archive.org/web/20250511142550/https://animainternational.org/about/team/', NULL, NULL, 'Animal welfare')
