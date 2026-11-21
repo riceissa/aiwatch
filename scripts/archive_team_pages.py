@@ -9,7 +9,7 @@ import os
 SLACK_URL = None
 
 def timestamp():
-    return datetime.datetime.utcnow().isoformat() + " (UTC)"
+    return datetime.datetime.now(datetime.UTC).replace(tzinfo=None).isoformat() + " (UTC)"
 
 print(f"========== {timestamp()} NEW RUN ==========")
 
@@ -75,7 +75,7 @@ for url in try_again:
     try:
         response = requests.get("https://web.archive.org/save/" + url)
     except requests.exceptions.ConnectionError:
-        print_and_slack("{timestamp()} Got a connection error. Waiting a bit.")
+        print_and_slack(f"{timestamp()} Got a connection error. Waiting a bit.")
         time.sleep(30)
         continue
     if response.status_code == 200:
