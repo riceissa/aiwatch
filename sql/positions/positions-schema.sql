@@ -41,5 +41,16 @@ create table positions(
     cause_area enum('AI safety','Global health and poverty','Effective altruism','Animal welfare','Cause prioritization', 'Existential risk prevention', 'Forecasting', 'Longevity', 'Longtermism', 'Medicine', 'Politics', 'Suffering-focused ethics'),
     notes varchar(2000) default null,
     check (start_date <= end_date),
-    check (NOT (start_date = end_date and start_date_precision = 'day' and end_date_precision = 'day'))
+    check (NOT (start_date = end_date and start_date_precision = 'day' and end_date_precision = 'day')),
+
+    # Ensure each (person name, org name, position title, start date) tuple is unique.
+    # According to Opus 5.5, "in MySQL a unique key ignores rows where any of those
+    # columns is NULL. Your table allows NULL in organization, title and start_date,
+    # so a plain key would miss a lot. [...] The fix is to build the key from
+    # generated columns that turn NULL into a placeholder". So this is why there's
+    # the coalesce() into dummy values below.
+    organization_key varchar(200) as (coalesce(organization, '')) stored,
+    title_key varchar(160) as (coalesce(title, '')) stored,
+    start_date_key date as (coalesce(start_date, '1000-01-01')) stored,
+    unique key unique_position (person, organization_key, title_key, start_date_key)
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
