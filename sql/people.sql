@@ -91,7 +91,7 @@ insert into people(person, country, facebook_username, github_username, linkedin
     ,('John Maxwell',NULL,'johnmaxwelliv',NULL,NULL,NULL,NULL,NULL,'https://www.lesserwrong.com/posts/4WbNGQMvuFtY3So7s/announcement-ai-alignment-prize-winners-and-next-round',NULL,TRUE)
     ,('Anne Wissemann',NULL,'anne.wissemann',NULL,NULL,NULL,NULL,NULL,'http://archive.today/2018.06.14-212014/https://aisafetycamp.com/about-us/','Executive assistant to Allan Dafoe, but unclear what the exact arrangement is.',TRUE)
     ,('David Manheim', 'Israel', NULL, 'davidmanheim', NULL, 'davidmanheim', NULL, NULL, NULL, NULL,TRUE)
-    ,('Ram Rachum', 'Israel', NULL, 'cool-RR', 'ram-rachum-349b7a17', 'ram-rachum', NULL, 'https://r.rachum.com', NULL, 'Research in Multi-Agent Reinforcement Learning, and Rebellion and Disobedience in AI',TRUE);
+    ,('Ram Rachum', 'Israel', NULL, 'cool-RR', 'ram-rachum-349b7a17', 'ram-rachum', NULL, 'https://r.rachum.com', NULL, 'Research in Multi-Agent Reinforcement Learning',TRUE);
 
 
 # Insert the rest of the people by taking names from positions
