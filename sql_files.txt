@@ -37,6 +37,7 @@ sql/positions/animal-welfare-institute.sql
 sql/positions/anthropic.sql
 sql/positions/antikythera.sql
 sql/positions/apart-research.sql
+sql/positions/apollo-research.sql
 sql/positions/arb-research.sql
 sql/positions/asia-for-animals-coalition.sql
 sql/positions/astera.sql
