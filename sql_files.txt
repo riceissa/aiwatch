@@ -117,6 +117,7 @@ sql/positions/fishwelfareinitiative.org.sql
 sql/positions/flowers-laboratory.sql
 sql/positions/forecasting-research-institute.sql
 sql/positions/forethought.sql
+sql/positions/founders-pledge.sql
 sql/positions/frente-animal.sql
 sql/positions/ftx-future-fund.sql
 sql/positions/fund-for-alignment-research.sql
