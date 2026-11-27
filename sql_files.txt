@@ -222,6 +222,7 @@ sql/positions/saferai.sql
 sql/positions/saving-humanity-from-homo-sapiens.sql
 sql/positions/say-forever.sql
 sql/positions/sci-foundation.sql
+sql/positions/securebio.sql
 sql/positions/sens.sql
 sql/positions/sentience-institute.sql
 sql/positions/sentience-politics.sql
