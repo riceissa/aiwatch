@@ -147,6 +147,7 @@ sql/positions/heron-ai-security.sql
 sql/positions/high-impact-athletes.sql
 sql/positions/high-impact-medicine.sql
 sql/positions/holtman-systems-research.sql
+sql/positions/horizon-institute-for-public-service.sql
 sql/positions/human-progress.sql
 sql/positions/institute-for-ai-policy-and-strategy.sql
 sql/positions/institute-for-ethics-in-artificial-intelligence.sql
