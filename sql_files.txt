@@ -86,6 +86,7 @@ sql/positions/coefficient-giving.sql
 sql/positions/condor-camp.sql
 sql/positions/conjecture.sql
 sql/positions/connect-for-animals.sql
+sql/positions/constellation.sql
 sql/positions/consultants-for-impact.sql
 sql/positions/continualai.sql
 sql/positions/convergence-analysis.sql
